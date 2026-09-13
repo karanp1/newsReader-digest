@@ -1,0 +1,78 @@
+<title>Morning Wire — Archive</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@700&family=Public+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #EEF0EE;
+  --ink: #1B2320;
+  --ink-soft: #59645D;
+  --border: #DCE0DA;
+  --accent-ink: #6E4708;
+  --surface-2: #F5F6F3;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #12151A; --ink: #E7E9E4; --ink-soft: #9FA8A2;
+    --border: #2B323A; --accent-ink: #F0C878; --surface-2: #20262E;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #12151A; --ink: #E7E9E4; --ink-soft: #9FA8A2;
+  --border: #2B323A; --accent-ink: #F0C878; --surface-2: #20262E;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Public Sans", system-ui, sans-serif;
+}
+main { max-width: 640px; margin: 0 auto; padding: 32px 20px 60px; }
+a.back {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-soft);
+  text-decoration: none;
+}
+h1 {
+  font-family: "Fraunces", serif;
+  font-weight: 700;
+  font-size: 1.7rem;
+  margin: 10px 0 24px;
+}
+ul { list-style: none; margin: 0; padding: 0; }
+.row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 16px;
+  padding: 14px 0;
+  border-top: 1px solid var(--border);
+  flex-wrap: wrap;
+}
+.row:first-child { border-top: none; }
+.date { font-size: 1rem; }
+.links { display: flex; gap: 14px; flex: none; }
+.links a {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: var(--accent-ink);
+  text-decoration: none;
+  background: var(--surface-2);
+  border-radius: 999px;
+  padding: 4px 10px;
+}
+.empty { color: var(--ink-soft); font-style: italic; padding: 14px 0; }
+</style>
+<main>
+  <a class="back" href="../">&larr; Back to today</a>
+  <h1>Archive</h1>
+  <ul>
+<li class="row"><span class="date">Sunday, 13 September 2026</span><span class="links"><a href="2026-09-13.html">Read</a><a href="2026-09-13.txt">Plain text</a></span></li>
+  </ul>
+</main>
