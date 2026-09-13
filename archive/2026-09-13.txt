@@ -167,6 +167,26 @@ Published - September 10, 2026 12:20 am IST
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
+- Indonesia says six killed, 130 missing after ferry capsizes off Java
+  13 Sep 2026 | https://www.thehindu.com/news/international/indonesia-passenger-vessel-with-243-people-reportedmissing-agency-says/article71462492.ece
+  Basarnas, Indonesia’s national search and rescue agency, said in its latest update that six people were killed and 130 were missing. It said 107 people had been rescued
+
+- Israeli strike kills two people in Gaza, medics say
+  13 Sep 2026 | https://www.thehindu.com/news/international/israeli-strike-kills-two-people-in-gaza-medics-say/article71463083.ece
+  The strike ⁠in the Tel Al-Hawa neighbourhood in western Gaza City left the vehicle mangled, ‌according to footage circulated on social media
+
+- World without rules is like crossroads without traffic lights: Chinese President Xi
+  13 Sep 2026 | https://www.thehindu.com/news/international/world-without-rules-is-like-crossroads-without-traffic-lights-chinese-president-xi/article71463049.ece
+  He called upon the leaders of the grouping to work towards writing a "new chapter of strength through unity for the Global South”
+
+- Swedes vote in election that could usher far right into government
+  13 Sep 2026 | https://www.thehindu.com/news/international/swedes-vote-in-election-that-could-usher-far-right-into-government/article71463032.ece
+  But Prime Minister Ulf Kristersson, who has trailed in opinion polls throughout his four years in office, has been catching up in the ‌final weeks of campaigning, with rival Magdalena Andersson and her Social Democrats losing ground
+
+- Anthropic says UAE-linked AI op targeted UN experts over Sudan
+  13 Sep 2026 | https://www.thehindu.com/news/international/anthropic-says-uae-linked-ai-op-targeted-un-experts-over-sudan/article71461203.ece
+  Aimed primarily at the Muslim Brotherhood, the operation used the company's Claude chatbot to generate reports, advocacy materials, social media content and testimony on Sudan
+
 - Al-Mokha is not a storm in a coffee cup
   13 Sep 2026 | https://www.thehindu.com/news/international/al-mokha-is-not-a-storm-in-a-coffee-cup/article71462964.ece
   The Red Sea port lent its name to mocha and it’s where coffee trade started
@@ -182,10 +202,6 @@ SOURCE 3: The Hindu - International (headlines + summary)
 - Nepal flash floods: Rescue teams clear 70 metres of debris in tunnel as they close in on six trapped workers
   13 Sep 2026 | https://www.thehindu.com/news/international/nepal-flash-floods-rescue-teams-clear-70-metres-of-debris-in-tunnel-as-they-close-in-on-six-trapped-workers/article71462802.ece
   According to the project manager, the powerhouse is about 60 metres further down the tunnel. The rescue teams were to continue working through the night to reach it, says India’s Ambassador to Nepal
-
-- Search underway for about 140 people missing after Indonesian passenger ship overturns
-  13 Sep 2026 | https://www.thehindu.com/news/international/indonesia-passenger-vessel-with-243-people-reportedmissing-agency-says/article71462492.ece
-  Vessel travelling ​from ‌the East Java city of Surabaya ‌to ​the South ⁠Kalimantan city of ‌Banjarmasin
 
 - India sends first consignment of Bailey bridge components to flood-hit Nepal
   13 Sep 2026 | https://www.thehindu.com/news/international/india-sends-first-consignment-of-bailey-bridge-components-to-flood-hit-nepal/article71462807.ece
@@ -210,22 +226,6 @@ SOURCE 3: The Hindu - International (headlines + summary)
 - OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'
   13 Sep 2026 | https://www.thehindu.com/sci-tech/technology/openais-altman-wont-do-ipo-this-year-calls-ai-extinction-risk-unacceptable/article71462569.ece
   The comments come as more U.S. lawmakers urge new rules to govern AI systems
-
-- OpenAI's Altman says AI unlikely to lead to 'jobs apocalypse'
-  13 Sep 2026 | https://www.thehindu.com/news/international/openais-altman-says-ai-unlikely-to-lead-to-jobs-apocalypse/article71024867.ece
-  A growing number of global companies, including HSBC, Amazon, Standard Chartered and CBA have announced some ⁠jobs within their companies were being replaced by AI
-
-- Russia welcomes India’s contribution to end Ukraine crisis: Kremlin spokesperson
-  13 Sep 2026 | https://www.thehindu.com/news/international/russia-will-welcome-indias-efforts-toward-peaceful-resolution-of-ukraine-conflict-peskov/article71442448.ece
-  On the expectations and challenges before the BRICS Summit that will be chaired by India this time, Dmitry Peskov says that BRICS is not ‘anti-Western’, and that it is a grouping of countries who share an outlook
-
-- Anthropic says UAE-linked AI op targeted UN experts over Sudan
-  13 Sep 2026 | https://www.thehindu.com/news/international/anthropic-says-uae-linked-ai-op-targeted-un-experts-over-sudan/article71461203.ece
-  Aimed primarily at the Muslim Brotherhood, the operation used the company's Claude chatbot to generate reports, advocacy materials, social media content and testimony on Sudan
-
-- Russia imports record fuel from India as Ukraine strikes hit refineries
-  13 Sep 2026 | https://www.thehindu.com/news/international/russia-imports-record-fuel-from-india-as-ukraine-strikes-hit-refineries/article71462599.ece
-  The shipments underscore the impact of a sustained Ukrainian drone campaign against Russia's oil refineries and energy infrastructure
 
 ============================================================
 
@@ -362,11 +362,13 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Bitcoin]
 
-- Bitcoin activity, passports exposed after Revolut falls for fake government request
-  12 Sep 2026 | https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request
+- MicroStrategy's Bitcoin Guide Issues a 93% Crash Warning to Investors
+  13 Sep 2026 | https://finance.yahoo.com/markets/crypto/articles/microstrategys-bitcoin-guide-issues-93-101501318.html
+  MicroStrategy, now Strategy, has published a Bitcoin guide that warns buyers that the asset has already crashed 93.1% once.
 
-- White House Issues Serious Crypto Warning—Bitcoin Price On The Brink Of $8 Trillion Shock
-  12 Sep 2026 | https://www.forbes.com/sites/digital-assets/2026/09/12/white-house-issues-serious-crypto-warning-bitcoin-price-on-the-brink-of-8-trillion-shock/
+- Jordi Visser Puts Bitcoin In The Same Bucket As SpaceX, Anthropic And OpenAI, Says ‘None Of Them Make Money’
+  13 Sep 2026 | https://finance.yahoo.com/markets/crypto/articles/jordi-visser-puts-bitcoin-same-113859921.html
+  Visser estimated the four were worth about $8 trillion combined, though current valuations put the total closer to $5.3 trillion.
 
 - Why Is Bitcoin Dropping Today?
   12 Sep 2026 | https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-dropping-today-204955824.html
@@ -374,9 +376,12 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - How Low Can Bitcoin Go?
   12 Sep 2026 | https://247wallst.com/investing/cryptocurrency/2026/09/12/how-low-can-bitcoin-go/
-  Peter Brandt, Arthur Hayes, Citi, and NYDIG have all published a floor for Bitcoin, and they disagree by tens of thousands of dollars. The gap between the shallowest and deepest calls reveals just how much uncertainty surrounds this…
+  This post may contain links from our sponsors and affiliates, and Flywheel Publishing may receive compensation for actions taken through them.
 
 [Gold]
+
+- Gold price rises after three cuts
+  12 Sep 2026 | https://www.newagebd.net/post/bisiness-miscellany/313578/gold-price-rises-after-three-cuts
 
 - Gold Price Outlook: Dead Cat Bounce Risk as Bearish Signals Build
   12 Sep 2026 | https://www.stonex.com/en-gb/news-and-analysis/gold-price-outlook-dead-cat-bounce-risk-as-bearish-signals-build/
@@ -385,13 +390,9 @@ SOURCE 6: Watchlist (headlines + summary)
   13 Sep 2026 | https://www.kitco.com/price/gold-price-cad
   Live Gold Price in Canadian Dollars
 
-- Jordan Gold Prices Hold Steady on Sunday...
-  13 Sep 2026 | https://www.jordannews.jo/Section-112/Economy/Jordan-Gold-Prices-Hold-Steady-on-Sunday-55799
-  Gold prices in Jordan’s local market remained stable on Sunday, according to the daily price list issued by the General Syndicate of Owners of Trade and Jewelry Shops.
-
-- Gold Price Forecast, Prediction: UBS Sees $4,600 In 2026, $5,400 In 2027
-  13 Sep 2026 | https://www.exchangerates.org.uk/news/47170/2026-09-13-gold-price-forecast-prediction-ubs-sees-4-600-in-2026-5-400-in-2027.html
-  Higher US interest rates complicate the gold price forecast, but UBS still projects a recovery to $4,600 by December.
+- Mako Mining: Record Gold Sales, Lower Profits, And I'm Still Buying (NASDAQ:MAKO)
+  13 Sep 2026 | https://seekingalpha.com/article/4945849-mako-mining-record-gold-sales-lower-profits-and-im-still-buying
+  This article was written by
 
 [HAL]
 
@@ -404,10 +405,6 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - Hindustan Aeronautics Limited SC
   12 Sep 2026 | https://www.transfermarkt.com/hindustan-aeronautics-limited-sc/wertvollstezugaenge/verein/35268
-
-- Russia partners Adani Defence, HAL, BDL for missiles, fighter upgrades, defence production: Report
-  12 Sep 2026 | https://www.businesstoday.in/latest/corporate/story/russia-partners-adani-defence-hal-bdl-for-missiles-fighter-upgrades-defence-production-report-555160-2026-09-12
-  According to the report, Adani Defence, which already has partnerships with Israeli drone and small-arms manufacturers, is expanding into air defence through alliances with Russian companies.
 
 [Tejas Networks]
 
@@ -436,11 +433,12 @@ SOURCE 6: Watchlist (headlines + summary)
   12 Sep 2026 | https://darioamodei.com/post/we-must-pace-the-frontier
   I have worked on AI for the last twelve years because I believe it could dramatically raise the quality of human life. I’ve written often about these incredible benefits: I believe that AI could cure most major diseases in the next 5–10…
 
-- Anthropic C.E.O. Dario Amodei Calls for A.I. Slowdown
-  13 Sep 2026 | https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html
-
 - Anthropic, OpenAI CEOs call for slowdown in AI development
   13 Sep 2026 | https://www.axios.com/2026/09/12/anthropic-ai-amodei-pacing
 
-- OpenAI rules out IPO this year as Altman, Musk & Amodei warn AI is moving too fast
-  12 Sep 2026 | https://www.cnbc.com/2026/09/12/anthropics-amodei-proposes-plan-to-slow-the-pace-of-advancing-ai-capabilities.html
+- Anthropic boss Dario Amodei calls for AI slowdown
+  13 Sep 2026 | https://www.dw.com/en/anthropic-boss-dario-amodei-calls-for-ai-slowdown/a-79247690
+  The CEO of artificial intelligence (AI) safety and research company Anthropic, Dario Amodei, has called on AI firms to slow the technology's development.
+
+- Anthropic’s Moral Conflict Is Playing Out in Real Time
+  13 Sep 2026 | https://www.wsj.com/tech/ai/anthropics-moral-conflict-is-playing-out-in-real-time-c503e0c1

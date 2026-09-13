@@ -1,4 +1,6 @@
 <title>Morning Wire — Archive</title>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@700&family=Public+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
@@ -69,6 +71,64 @@ ul { list-style: none; margin: 0; padding: 0; }
 }
 .empty { color: var(--ink-soft); font-style: italic; padding: 14px 0; }
 </style>
+<div id="mw-gate" style="min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px;background:var(--bg);">
+  <form id="mw-gate-form" style="max-width:280px;width:100%;text-align:center;font-family:'Public Sans',system-ui,sans-serif;">
+    <p style="font-family:'Fraunces',serif;font-weight:700;font-size:1.3rem;color:var(--ink);margin:0 0 16px;">Morning Wire</p>
+    <input id="mw-gate-input" type="password" placeholder="Password" autocomplete="off"
+      style="width:100%;box-sizing:border-box;padding:10px 12px;font-size:1rem;border:1px solid var(--border);border-radius:8px;background:var(--surface);color:var(--ink);margin-bottom:10px;">
+    <button type="submit" style="width:100%;padding:10px 12px;font-size:0.9rem;font-weight:600;border:none;border-radius:8px;background:var(--accent);color:#fff;cursor:pointer;">Unlock</button>
+    <p id="mw-gate-error" style="display:none;color:#c0392b;font-size:0.8rem;margin-top:10px;">Wrong password.</p>
+  </form>
+</div>
+<script>
+(function () {
+  var HASH = "9447d60f27823a109168f19de1046a91fc23bb4f157ae19b35efbf7403d177cd";
+
+  // The real content div is written *after* this script in the HTML
+  // stream, so it doesn't exist yet if queried at top-level execution —
+  // wait for the full document to parse first.
+  document.addEventListener("DOMContentLoaded", function () {
+  var gate = document.getElementById("mw-gate");
+  var content = document.getElementById("mw-content");
+  var form = document.getElementById("mw-gate-form");
+  var input = document.getElementById("mw-gate-input");
+  var error = document.getElementById("mw-gate-error");
+
+  function sha256Hex(text) {
+    return crypto.subtle.digest("SHA-256", new TextEncoder().encode(text)).then(function (buf) {
+      return Array.from(new Uint8Array(buf)).map(function (b) {
+        return b.toString(16).padStart(2, "0");
+      }).join("");
+    });
+  }
+
+  function unlock() {
+    gate.style.display = "none";
+    content.style.display = "";
+    try { localStorage.setItem("mw_unlocked", "1"); } catch (e) {}
+  }
+
+  var alreadyUnlocked = false;
+  try { alreadyUnlocked = localStorage.getItem("mw_unlocked") === "1"; } catch (e) {}
+  if (alreadyUnlocked) unlock();
+
+  form.addEventListener("submit", function (ev) {
+    ev.preventDefault();
+    sha256Hex(input.value).then(function (hex) {
+      if (hex === HASH) {
+        unlock();
+      } else {
+        error.style.display = "block";
+        input.value = "";
+        input.focus();
+      }
+    });
+  });
+  });
+})();
+</script>
+
+<div id="mw-content" style="display:none">
 <main>
   <a class="back" href="../">&larr; Back to today</a>
   <h1>Archive</h1>
@@ -76,3 +136,4 @@ ul { list-style: none; margin: 0; padding: 0; }
 <li class="row"><span class="date">Sunday, 13 September 2026</span><span class="links"><a href="2026-09-13.html">Read</a><a href="2026-09-13.txt">Plain text</a></span></li>
   </ul>
 </main>
+</div>
