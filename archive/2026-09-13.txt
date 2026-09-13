@@ -167,14 +167,26 @@ Published - September 10, 2026 12:20 am IST
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
-- Indonesia passenger vessel with 243 people reported missing, agency says
+- Russia imports record fuel from India as Ukraine strikes hit refineries
+  The shipments underscore the impact of a sustained Ukrainian drone campaign against Russia's oil refineries and energy infrastructure
+
+- OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'
+  The comments come as more U.S. lawmakers urge new rules to govern AI systems
+
+- T.N. Chief Minister Vijay flags off Silverstone motor race in U.K. as actor Ajith competes
+  The actor and motorsports racer thanks the Chief Minister for coming to the circuit and expresses his wish to see such events come to India
+
+- At least one dead, 102 rescued from stricken ferry off Indonesia’s Java: officials
   Vessel travelling ​from ‌the East Java city of Surabaya ‌to ​the South ⁠Kalimantan city of ‌Banjarmasin
 
-- U.P. top Shia leader pushes for stronger India-Iran ties in meeting with President Pezeshkian
-  “India and Iran are two ancient civilisations with centuries-old cultural, intellectual, spiritual and trade relations. He stressed the need to further expand cooperation between the two countries in education, trade, culture, science, technology, connectivity and energy,” Mr. Abbas told The Hindu
+- Myanmar government revokes status, seeks action against UN envoy Kyaw Moe Tun
+  According to a statement issued by state media, the government said Kyaw Moe Tun was dismissed from the civil service on February 27, ‌2021, for failing to follow instructions
 
 - Chile arrests 284 in protests condemning Pinochet dictatorship
   This year was the first since the end of Pinochet's brutal 1973-1990 rule that Chile did not hold any official events marking the era that left deep scars on the South American nation
+
+- U.P. top Shia leader pushes for stronger India-Iran ties in meeting with President Pezeshkian
+  “India and Iran are two ancient civilisations with centuries-old cultural, intellectual, spiritual and trade relations. He stressed the need to further expand cooperation between the two countries in education, trade, culture, science, technology, connectivity and energy,” Mr. Abbas told The Hindu
 
 - One dead, 30 missing after ferry sinks off Vanuatu
   The vessel, MV Matui, had set sail on September 11 with more than 40 passengers and crew from the island of Santo to Ambae island in very rough seas, but did not arrive
@@ -199,18 +211,6 @@ SOURCE 3: The Hindu - International (headlines + summary)
 
 - 'Woman Unknown' wins top prize at Venice Film Festival as lone female contender triumphs
   John Malkovich named best actor; Israeli-made Gaza documentary wins special jury prize
-
-- AI industry needs to slow down for safety: Anthropic CEO
-  To help rein in risks,  Dario Amodei suggested that all companies at the frontier of AI commit to giving “ongoing, employee-like access” to a team of outside evaluators, who can monitor safety practices. He said Anthropic already plans to do so itself, including offering desks in its offices, access badges, and company laptops
-
-- T.N. Chief Minister Vijay flags off Silverstone motor race in U.K. as actor Ajith competes
-  The actor and motorsports racer thanks the Chief Minister for coming to the circuit and expresses his wish to see such events come to India
-
-- Alice Weidel | Echoes from the past
-  The AfD leader, who has slammed Germany’s culture of remembrance over its Nazi crimes as a ‘cult of guilt’, is on the ascent after her party’s recent regional election victory
-
-- Anthropic says UAE-linked AI op targeted UN experts over Sudan
-  Aimed primarily at the Muslim Brotherhood, the operation used the company's Claude chatbot to generate reports, advocacy materials, social media content and testimony on Sudan
 
 ============================================================
 
@@ -317,6 +317,12 @@ At Global Fintech Fest (GFF) 2026, cross-border payments platform Xflow partnere
 
 SOURCE 5: The Hindu - Business (headlines + summary)
 
+[World] Russia imports record fuel from India as Ukraine strikes hit refineries
+  The shipments underscore the impact of a sustained Ukrainian drone campaign against Russia's oil refineries and energy infrastructure
+
+[Technology] OpenAI's Altman won't do IPO this year, calls AI extinction risk 'unacceptable'
+  The comments come as more U.S. lawmakers urge new rules to govern AI systems
+
 [Industry] Senior living market can grow into a $10.1 bn prospect: ASLI-JLL
   The addressable market of urban, financially independent senior households in India is expected to grow from 1.7 million in 2026 to 2.1 million by 2030
 
@@ -371,15 +377,123 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 [Business] India’s forex reserves jump by a record $44.903 billion
   In the previous reporting week, the overall reserves increased $11.475 billion to a new all-time high of $740.803 billion
 
-[Business] MPC will reassess growth-inflation dynamics at next meeting: RBI Governor
-  On inflation, RBI Governor Sanjay Malhotra said the rising crude oil prices will have an impact but it will depend on how much is passed through
-
-[Business] India partially cancels debt sale for first time in a year
-  The RBI accepted bids worth only ₹45.06 billion ($471.12 million) for the 6.20% 2029 bond, just over 40% of the planned borrowing in the paper of ₹110 billion
-
 ============================================================
 
 SOURCE 6: Gold / Oil / Crypto Movement Reasons
 [Not scriptable via page scraping — needs a search + reasoning step.
  Phase 2: call an LLM with web search, or pull price deltas here
  and prompt the LLM separately with this file as context.]
+
+============================================================
+
+SOURCE 7: AI Industry (headlines + summary)
+
+[TechCrunch] OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026
+  While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.
+
+[TechCrunch] Anthropic CEO outlines plan to slow AI development
+  Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to "pace the frontier." What would that actually look like?
+
+[TechCrunch] Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training data
+  The round for the two-year-old startup is coming together months after Mecka announced its Series A.
+
+[TechCrunch] Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too
+  Tan wants smaller, American open-weight AI labs to use the same kind of training techniques on American frontier AI labs, giving the U.S. a more robust set of open-weight options that aren’t Chinese.
+
+[TechCrunch] OpenAI’s feud with mathematicians is only escalating
+  Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.
+
+[TechCrunch] One week left to book your exhibit table at TechCrunch Disrupt 2026
+  Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.
+
+[TechCrunch] Final, final, final call for TechCrunch Disrupt 2026 Side Events
+  The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.
+
+[TechCrunch] Kimi-maker Moonshot AI targets $2B in annual revenue
+  While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.
+
+[OpenAI] Perplexity trusts GPT-6 Astra with end-to-end systems
+  Perplexity uses Astra to write communications, change software, and monitor production systems, and checks in much less frequently than with earlier models.
+
+[OpenAI] Rapidly scaling online storage to serve over 1 billion ChatGPT users
+  Learn how OpenAI evolved Habitat from a Python library into a globally distributed storage platform serving 1 billion ChatGPT users and 22M requests per second.
+
+[OpenAI] Cognition helps Devin test its own work with GPT‑6 Astra
+  GPT‑6 Astra improves Devin’s ability to test software and show that it works, with the goal of helping engineers review less code and ship more.
+
+[OpenAI] How a researcher uses Codex and ChatGPT to search for new antimicrobial molecules
+  César de la Fuente’s lab uses Codex and ChatGPT to search living and extinct genomes for antimicrobial candidates to fight drug-resistant infections.
+
+[OpenAI] Now everyone can put data to work
+  Meet the Data agent in ChatGPT Work. Connect company data, uncover insights, and build interactive dashboards with AI using natural language.
+
+[OpenAI] Introducing ChatGPT for Financial Services
+  Introducing ChatGPT for Financial Services, combining built-in financial data and GPT-6 Astra for research, modeling, and client-ready materials.
+
+[OpenAI] Expanding AI access and cyber defense for federal, state, local, and tribal governments
+  OpenAI and GSA will offer eligible federal, state, local, and tribal governments $0 license fees, 50% off usage, and expanded cyber defense support.
+
+[OpenAI] Build more natural voice experiences with GPT‑Live‑1 in the API
+  GPT‑Live‑1 brings natural, full-duplex voice conversations to the API, with stronger instruction following, custom voices, and telephony support.
+
+[DeepMind] AlphaGenome Atlas: A predictive map of every possible DNA letter change in the human genome
+  AlphaGenome Atlas maps the molecular effects of 9 billion single-letter DNA variants across the human genome.
+
+[DeepMind] Introducing WeatherNext 3, our most advanced and accurate global weather AI model
+
+[DeepMind] Proactive cyber defense for governments and enterprises
+
+[DeepMind] Introducing Gemini 3.8 Flash and 3.8 Flash Cyber
+
+[DeepMind] Introducing agentic video understanding with Gemini
+
+[DeepMind] Gemini Omni 1.1 Flash lets you build with more control
+
+[DeepMind] Piloting the world's first double-blind AI evaluations
+
+[DeepMind] Intelligent transcription with Gemini 3.5 Transcribe
+  Now you can get more intelligent speech-to-text transcription with Gemini 3.5 Transcribe.
+
+============================================================
+
+SOURCE 8: Reliance Intelligence / Jio Platforms (Google News headlines)
+
+[konsulteer.com] Reliance Enterprise Intelligence Names Krithika Chief Product Officer to Build Enterprise AI Products
+
+[facebook.com] Reliance Intelligence is building trusted, affordable, and multilingual AI services designed to be accessible in 22 Indian languages: JioBharatIQ, AI Vyapar, JioHealthIQ, JioLearnIQ, and JioKrishiIQ. Each service is designed around one simple principle: AI must
+
+[NewsCord] Mukesh Ambani Says Reliance Will Invest $110 Billion In India AI Infrastructure And Data Centers
+
+[LinkedIn] "Reliance Intelligence is building trusted, affordable, multilingual AI services designed to be accessible in 22 Indian languages," Akash Ambani said at Reliance Industries' AGM. Ambani said these services will be powered by Reliance's sovereign, green and s
+
+[TechCrunch] Billionaire Ambani wants AI in every call, app, and home
+
+[The Tribune] Reliance Intelligence set to disrupt AI economics: Akash Ambani
+
+[NDTV Profit] Reliance Intelligence To Make AI Dramatically More Affordable In India By 2030: Akash Ambani
+
+[Moneycontrol.com] Reliance Intelligence is building India’s sovereign AI backbone in Jamnagar: Akash Ambani
+
+[TradingView] Reliance Intelligence will disrupt AI economics, making it affordable for every Indian, says Akash Ambani
+
+[telecomtv.com] India’s Reliance to pump $110bn into AI infrastructure
+
+[Reuters] As NSE, Reliance Jio eye listings, what are India's biggest share offerings?
+
+[Bloomberg.com] Jio Platforms Said to Start Marketing India IPO Next Week
+
+[CNBC] Meta- and Google-backed Indian telecom operator Jio Platforms gets regulatory nod for IPO
+
+[BW Marketing World] Jio Platforms Prepares Global Marketing Push For Proposed $4 Billion IPO
+
+[Reuters] India's markets regulator approves Jio Platforms' $3.8 billion IPO
+
+[Seeking Alpha] Meta, Google-backed Jio Platforms set for India’s biggest IPO after SEBI nod (META:NASDAQ)
+
+[TradingView] Jio Platforms Said To Start Marketing Record India IPO Next Week - Bloomberg News
+
+[Rediff MoneyWiz] Jio Platforms IPO: Investor Outreach Begins for India's Biggest Listing
+
+[The Tribune] Jio Platforms to begin investor outreach for IPO next week
+
+[Storyboard18] Jio Platforms to begin global IPO marketing push as $4 billion listing nears: Report
