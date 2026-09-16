@@ -30,14 +30,6 @@ Key details:
 
 MDR will take effect on October 15.
 
-Up to Rs 2,000: No MDR.
-
-Rs 3,000 payment: MDR of Rs 12.
-
-Rs 50,000 payment: MDR of Rs 200.
-
-Rs 75,000 & above: MDR of Rs 300.
-
 Consumer charges: Consumers will not pay the MDR.
 
 P2P transfers: Remain free regardless of transaction value.
@@ -48,7 +40,17 @@ Capital market transactions: 0.02% MDR capped at Rs 300.
 
 Yes, and: Small merchants in the person-to-person-merchant (P2PM) category will remain zero MDR even for transactions above Rs 2,000 if QR-based UPI payments made directly to their accounts stay within Rs 1 lakh per month. Crossing that threshold for three consecutive months will move a merchant to the P2M category.
 
-Revenue split: The FAQs do not disclose the revenue-sharing formula. ET reported on September 11 that one proposal allocated 40% to the issuing bank, 30% to the consumer-side application, and 30% to the acquiring side — i.e., 16 bps, 12 bps, and 12 bps, respectively.
+Tell me more: NPCI said MDR would remain within the UPI ecosystem.
+
+Under the final fee flow, merchants will pay acquiring banks up to 0.4%.
+
+Acquirers will pay issuing banks 0.28% as interchange.
+
+Issuers will pay payer payment service providers (PSPs) 0.12%, of which PSPs will pass 0.08% to app providers such as PhonePe or Google Pay.
+
+This leaves 0.12% with the acquirer, 0.16% with the issuer, 0.04% with the payer PSP and 0.08% with the app provider.
+
+Merchant-side payment aggregators such as Razorpay and Cashfree would negotiate their share with acquiring banks.
 
 Why it matters: Brokerage firm Bernstein had earlier estimated that a 40-bps MDR applied to half of UPI merchant-payment value could create a Rs 22,000-crore revenue pool by 2027-28.
 
@@ -67,6 +69,8 @@ Growing opportunity: Vaish said the opportunity for specialist AI funds in India
 Promising sectors: Vaish sees the largest opportunities in three segments. “One is largely consumer tech and AI. I think consumer AI in India is going to be the new version of financial services, ecommerce, health tech, and edtech. As you build out new versions of consumer tech, they will all get AI-native.” The other two are AI services and frontier AI.
 
 Premji Invest in talks to lead Rs 200-300 crore funding round in Let’s Try
+
+Nitin Kalra, founder and CEO, Let's try
 
 Premji Invest, the family office of Wipro founder Azim Premji,
 
@@ -88,7 +92,9 @@ has made a follow-on investment in Hyderabad-based HR software firm Darwinbox, a
 
 Number-wise: The new round is of around $40 million, bringing TVG’s total investment in the company to roughly $80 million, sources told us.
 
-In August 2025, the company had closed a $40 million round with OTPP in a mix of primary and secondary transactions at a blended valuation of around $1 billion.
+In August 2025, the company had
+
+closed a $40 million round with OTPP in a mix of primary and secondary transactions at a blended valuation of around $1 billion.
 
 Other Top Stories By Our Reporters
 
@@ -167,13 +173,45 @@ Published - September 12, 2026 12:20 am IST
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
-- Indictment says FBI shut down Russian plot to kill U.S. individuals, target Ukraine supporters
-  16 Sep 2026 | https://www.thehindu.com/news/international/indictment-says-fbi-shut-down-russian-plot-to-kill-us-individuals-target-ukraine-supporters/article71470877.ece
-  An indictment unsealed in Manhattan federal court said a network of the intelligence services has paid and attempted to pay individuals in the United States and in other countries to surveil targets to be killed with plans to then kill them.
+- Yemen’s Houthis say shot down Saudi fighter jet
+  16 Sep 2026 | https://www.thehindu.com/news/international/yemens-houthis-say-shot-down-saudi-fighter-jet/article71471293.ece
+  A spokesman for the Houthis accused Saudi Arabia of launching 450 strikes
+
+- NBC News helicopter crashes and kills at least 3 in LA  neighbourhood
+  16 Sep 2026 | https://www.thehindu.com/news/international/helicopter-crash-in-los-angeles-several-deaths-injuries-updates/article71470999.ece
+  The helicopter crashed into a parking lot, into or next to some parked vehicles, Silverman said. The parking lot is for a large one-story building, but the type of business was not immediately clear.
+
+- Two earthquakes hits northwestern Nepal
+  16 Sep 2026 | https://www.thehindu.com/news/international/two-earthquakes-hits-northwestern-nepal/article71471296.ece
+  According to the National Seismological Research Centre, the first tremor of magnitude 4.5 was recorded at 1:51 a.m. (local time)
+
+- Saudi coalition says Houthi drone destroyed near Mecca
+  16 Sep 2026 | https://www.thehindu.com/news/international/saudi-coalition-says-houthi-drone-destroyed-near-mecca/article71470972.ece
+  The drone, intercepted on September 15 was the second Houthi attempt to target Mecca after a ballistic missile launch in July 2017, spokesperson Turki al-Malki said in a statement
 
 - U.S. House advances Russia sanctions Bill that seeks 100% tariffs on India, others; set for final vote
   16 Sep 2026 | https://www.thehindu.com/news/international/russia-sanctions-bill-advances-in-us-house-india-tariffs-final-vote/article71470872.ece
   The resolution to advance the Russia sanctions Bill and a slew of other legislations was approved by a 214-211 vote, shocking the House Democratic leadership. The Bill is expected to come up for a final vote in the House on September 16
+
+- Trump threatens to keep Kennedy Centre shut if his name not added
+  16 Sep 2026 | https://www.thehindu.com/news/international/trump-threatens-to-keep-kennedy-centre-shut-if-his-name-not-added/article71470969.ece
+  
+
+- Iranian FM Araghchi to visit Beijing for talks with Wang Yi
+  16 Sep 2026 | https://www.thehindu.com/news/international/iranian-fm-araghchi-to-visit-beijing-for-talks-with-wang-yi/article71470974.ece
+  Iranian Foreign Minister Abbas Araghchi's visit to Beijing comes in the midst of an escalation of hostilities in West Asia following the military advances made by Houthis, formally known as Ansar Allah.
+
+- U.S. military says Iran war has led to munitions shortfall
+  16 Sep 2026 | https://www.thehindu.com/news/international/us-military-says-iran-war-has-led-to-munitions-shortfall/article71466628.ece
+  The report noted "the munitions expenditure on OEF has resulted in strategic inventory shortfalls and revealed industrial base bottlenecks for munitions resupply”
+
+- New Zealand parliament passes India trade deal, cutting tariffs on most exports
+  16 Sep 2026 | https://www.thehindu.com/news/international/new-zealand-parliament-passes-india-trade-deal-cutting-tariffs-on-most-exports/article71470939.ece
+  More than half ‌of ⁠all products covered would ⁠become duty-free from the day it takes effect
+
+- Indictment says FBI shut down Russian plot to kill U.S. individuals, target Ukraine supporters
+  16 Sep 2026 | https://www.thehindu.com/news/international/indictment-says-fbi-shut-down-russian-plot-to-kill-us-individuals-target-ukraine-supporters/article71470877.ece
+  An indictment unsealed in Manhattan federal court said a network of the intelligence services has paid and attempted to pay individuals in the United States and in other countries to surveil targets to be killed with plans to then kill them.
 
 - Trump admin. approves sending 2,000-pound bombs to Israel in upcoming weapons deal
   16 Sep 2026 | https://www.thehindu.com/news/international/trump-admin-approves-sending-2000-pound-bombs-to-israel-in-upcoming-weapons-deal/article71470869.ece
@@ -288,7 +326,41 @@ Banking infrastructure firm Falcon has launched MerlinFX, a suite of seven AI ag
 
 SOURCE 5: The Hindu - Business (headlines + summary)
 
-[No items published today — feed had entries, none dated today]
+[Industry] Who has to pay MDR on UPI and who stands to gain the most? | Explained
+  16 Sep 2026 | https://www.thehindu.com/business/Industry/who-has-to-pay-mdr-on-upi-and-who-stands-to-gain-the-most-explained/article71471399.ece
+  What is the new UPI MDR system? Who will have to pay the charges? Which transactions will remain free? How much could banks and payment platforms earn?
+
+[Comment] Lessons from India’s smallholder farmers
+  16 Sep 2026 | https://www.thehindu.com/opinion/op-ed/lessons-from-indias-smallholder-farmers/article71469743.ece
+  India is an important voice in the Global South’s rural development conversation
+
+[India] ‘PM has redefined NOTA — Narendra’s Ongoing Trump Appeasement’: Congress after UPI move
+  16 Sep 2026 | https://www.thehindu.com/news/national/narendras-ongoing-trump-appeasement-congresss-dig-at-pm-on-upi-move/article71471176.ece
+  Jairam Ramesh asked whether the government's move on MDR was done to enable U.S. card companies to compete with UPI
+
+[Comment] Decoding India’s GDP base revision
+  16 Sep 2026 | https://www.thehindu.com/opinion/op-ed/decoding-indias-gdp-base-revision/article71469721.ece
+  A major driver of the revision in nominal GDP in the case of India is the improved measurement of India’s unincorporated services sector
+
+[Markets] Rupee falls 3 paise to 95.91 against U.S. dollar in early trade
+  16 Sep 2026 | https://www.thehindu.com/business/markets/rupee-falls-3-paise-to-9591-against-us-dollar-in-early-trade/article71471068.ece
+  The higher dollar index was attributed to market expectations of a hike in interest rates by the U.S. Federal Reserve, which will announce its monetary policy decision on September 16
+
+[Industry] Aurobindo Pharma wins U.S. FDA approval for generic asthma inhaler
+  16 Sep 2026 | https://www.thehindu.com/business/Industry/aurobindo-pharma-wins-us-fda-approval-for-generic-asthma-inhaler/article71469168.ece
+  The product will be manufactured at subsidiary Aurolife Pharma’s Raleigh facility in North Carolina and expected to be launched in upcoming quarters.
+
+[Markets] Markets rebound in early trade after sharp losses in previous session
+  16 Sep 2026 | https://www.thehindu.com/business/markets/markets-rebound-in-early-trade-after-sharp-losses-in-previous-session/article71471082.ece
+  Elevated oil prices, caution ahead of the U.S. Federal Reserve's policy decision and foreign fund outflows capped the rally in the markets
+
+[Industry] Dr. Reddy’s forays into India’s biosimilar immuno-oncology market, launches Nivorz
+  16 Sep 2026 | https://www.thehindu.com/business/Industry/dr-reddys-forays-into-indias-biosimilar-immuno-oncology-market-launches-nivorz/article71469381.ece
+  In 2025, the immuno-oncology market in India was estimated to be around ₹3,900 crore and predominantly driven by checkpoint inhibitors such as nivolumab, pembrolizumab and toripalimab.
+
+[Business] MDL signs MoU as Anchor Shipyard for Greenfield Shipbuilding Industrial Cluster at Dighi
+  16 Sep 2026 | https://www.thehindu.com/business/mdl-signs-mou-as-anchor-shipyard-for-greenfield-shipbuilding-industrial-cluster-at-dighi/article71469744.ece
+  Under the MoU, MDL has envisaged shipbuilding capacity of at least 1.2 million Gross Tonnage (GT) per annum, with a proposed investment of approximately ₹15,000 crore
 
 ============================================================
 
@@ -300,8 +372,9 @@ SOURCE 6: Watchlist (headlines + summary)
   15 Sep 2026 | https://finance.yahoo.com/markets/article/bitcoin-tumbles-3-to-76000-as-hopes-of-clarity-act-passage-this-year-fade-153127154.html
   What happened: Bitcoin ( BTC-USD ) fell 4% to hover below $76,000 on Tuesday.
 
-- $Bitcoin (BTC.CC)$
-  16 Sep 2026 | https://www.moomoo.com/community/feed/bitcoin-btc-cc-dvwc-117277900603401
+- Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings
+  16 Sep 2026 | https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings
+  Holders of privacy token zcash (ZEC) voted overwhelmingly in favor of faster transactions and preserving the network's bitcoin-style halving schedule in a governance vote that drew roughly two-thirds of the ZEC eligible to participate.
 
 - Bitcoin Rally Stalls as Optimism About US Crypto Bill Wanes
   15 Sep 2026 | https://www.bloomberg.com/news/articles/2026-09-15/bitcoin-rally-stalls-as-optimism-about-us-crypto-bill-wanes
@@ -312,37 +385,37 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Gold]
 
-- Gold prices could rally a little on a Fed hike, but a lot on a hold, with $5,000/oz back on the table – Jesse Columbo
-  15 Sep 2026 | https://www.kitco.com/news/article/2026-09-15/gold-prices-could-rally-little-fed-hike-lot-hold-5000oz-back-table-jesse
-  (Kitco News) – If the Federal Reserve hikes interest rates by 25 basis points as expected on Wednesday afternoon, gold could still see a mild relief rally on the removal of lingering uncertainty. But if the central bank ignores market…
+- Gold, silver prices settle lower as Fed hike looks locked in - Kitco PM Report
+  15 Sep 2026 | https://www.kitco.com/news/article/2026-09-15/gold-silver-prices-settle-lower-fed-hike-looks-locked-kitco-pm-report
+  (Kitco NewsWire) - Spot gold and silver prices settled lower in late-afternoon U.S. trading Tuesday, as elevated crude oil prices, a firmer U.S. dollar and a 10-year Treasury yield near 5% kept pressure on non-yielding metals ahead of…
 
-- Gold price prediction today: Will bearish bias continue? Check outlook for September 15, 2026 week
-  15 Sep 2026 | https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-september-15-2026-week-should-you-buy-or-sell-mcx-gold-us-iran-war-middle-east/articleshow/134253863.cms
+- Gold Price Forecast: XAU/USD defends key $4,280 support ahead of Fed verdict
+  16 Sep 2026 | https://www.fxstreet.com/analysis/gold-price-forecast-xau-usd-defends-key-4-280-support-ahead-of-fed-verdict-202609160308
+  Gold is attempting another run above $4,300 early Wednesday, replicating a tepid bounce seen in Tuesday’s Asian trading. Gold’s next major directional move depends on the US Federal Reserve (Fed) monetary policy decision and outlook due…
 
 - Gold Price Forecast: Key Support Holds as Downside Risk Builds
   15 Sep 2026 | https://www.fxempire.com/forecasts/article/gold-price-forecast-key-support-holds-as-downside-risk-builds-1628301
   Having said that, a deeper test remains possible, with potential support near the lower swing high of $4,203 potentially being reached before the current bearish retracement completes. It defines another prior resistance level that may yet…
 
-- Gold Price Today on September 15, 2026
-  15 Sep 2026 | https://www.usatoday.com/story/money/personalfinance/2026/09/15/gold-price-on-september-15-2026/91772326007/
-  As of Sept. 15, 2026, at 12:05 p.m. ET, the spot price of gold was $4,290.44 per ounce, according to the latest market data. That's down 1.28%, a decline of $55.46 from the previous close of $4,345.90.
+- Gold Price Under Increasing Corrective Pressure – Analysis – 16-09-2026
+  16 Sep 2026 | https://www.economies.com/commodities/gold-analysis/gold-price-under-increasing-corrective-pressure-%E2%80%93-analysis-%E2%80%93-16-09-2026-129899
+  Gold declined slightly in its latest intraday trading, while remaining below the $4,300 resistance, reinforcing the dominance of the short-term bearish corrective trend, particularly as the price moves along a trendline supporting this…
 
 [HAL]
 
-- Shriram Finance, Hindustan Aeronautics, Siemens Energy shares fall nearly 4%, among top Nifty 100 laggards
-  15 Sep 2026 | https://www.tradingview.com/news/moodys:1b18bd36730e1:0-shriram-finance-hindustan-aeronautics-siemens-energy-shares-fall-nearly-4-among-top-nifty-100-laggards/
-  Nifty 100 action, Sept. 15 -- Shares of Shriram Finance, Hindustan Aeronautics Limited, and Siemens Energy India Limited remained under pressure during Tuesday's intraday trading session. With Tuesday's decline, these three stocks emerged…
+- Defence Stocks To Buy: HAL, BEL, Bharat Dynamics, Solar Industries Among Top Picks By HSBC
+  16 Sep 2026 | https://www.ndtvprofit.com/markets/defence-stocks-to-buy-hal-bel-bharat-dynamics-solar-industries-among-top-picks-by-hsbc-12052419
 
 - Salt air to sound waves: HAL’s homegrown trio takes wing
   15 Sep 2026 | https://www.wionews.com/opinions/salt-air-to-sound-waves-hal-s-homegrown-trio-takes-wing-1789460996474
   HAL is also speeding up Tejas output on the factory floor, working with Bengaluru-based ADD Engineering Components on robotic drilling for the fighter's wings. A robot places each of the thousands of fastener holes in a wing the same way…
 
-- HAL to hand over three major aviation platforms to the Centre this week
-  15 Sep 2026 | https://www.theweek.in/news/defence/2026/09/15/hal-htt-40-lca-trainer-dhruv-ng-handover.html
-
 - HAL set to wrap up original Tejas order; Mk-1A deliveries yet to begin
   15 Sep 2026 | https://www.newindianexpress.com/india/2026/Sep/15/hal-set-to-wrap-up-original-tejas-order-mk-1a-deliveries-yet-to-begin
   NEW DELHI: Hindustan Aeronautics Limited (HAL) is set to hand over the last two LCA Tejas Mk-1 twin-seat trainers to the Indian Air Force (IAF) this month, completing a 40-aircraft order a decade past the December 2016 deadline set in its…
+
+- HAL to hand over three major aviation platforms to the Centre this week
+  15 Sep 2026 | https://www.theweek.in/news/defence/2026/09/15/hal-htt-40-lca-trainer-dhruv-ng-handover.html
 
 [Tejas Networks]
 
@@ -354,10 +427,6 @@ SOURCE 6: Watchlist (headlines + summary)
   15 Sep 2026 | https://mediabrief.com/info-edge-announces-board-and-cfo-changes/
   Info Edge (India) Ltd. has announced leadership changes, appointing Naresh Chand Gupta as an Additional Director in the Independent category with effect from October 1, 2026, and naming Himanshu Agarwal as Chief Financial Officer and…
 
-- Info Edge India Share Price Snaps 8-Day Fall: Up 3.93%
-  15 Sep 2026 | https://univest.in/blogs/info-edge-india-share-price-snaps-8-day-fall
-  Info Edge India up 3.93% at Rs 1,300.05, snapping 8-day fall. 52W high Rs 1,439.95, low Rs 909.20.
-
 [Reliance Intelligence]
 
 [Jio Platforms]
@@ -366,59 +435,62 @@ SOURCE 6: Watchlist (headlines + summary)
   15 Sep 2026 | https://www.billionaires.africa/2026/09/15/indian-billionaire-mukesh-ambani-is-selling-2-5-of-jio-in-indias-biggest-share-sale/
   Mukesh Ambani's Jio Platforms will start meeting investors this month in the United States, Singapore, Hong Kong, London and West Asia, ahead of a listing targeted for November that bankers have valued at as much as $180 billion.
 
+- Jio IPO 2026: Expected Timeline, IPO Size, Valuation And Key Details
+  16 Sep 2026 | https://www.moneycontrol.com/mc-buzz/jio-ipo-2026-expected-timeline-ipo-size-valuation-and-key-details-article-14031033.html
+  This has put the Jio IPO date among the most searched details around the issue. But timing is only one part of the picture. The expected IPO size, potential valuation and the milestones that could shape the road to listing are equally…
+
 - Why The Jio IPO Could Be One Of India's Biggest IPOs
   15 Sep 2026 | https://www.tradingview.com/news/moodys:29b7df8caf338:0-why-the-jio-ipo-could-be-one-of-india-s-biggest-ipos/
   New Delhi, Sept. 15 -- The Jio IPO has been attracting attention for several reasons, but the potential size of the issue is one of the biggest. There are now expectations that the IPO could hit the market as early as September 2026,…
 
 [Flipkart]
 
+- Leo India turns bad luck into unexpected fortune for Flipkart’s Big Billion Days 2026
+  16 Sep 2026 | https://campaignbriefasia.com/2026/09/16/leo-india-turns-bad-luck-into-unexpected-fortune-for-flipkarts-big-billion-days-2026/
+  India’s homegrown e-commerce marketplace, Flipkart, has announced Big Billion Days 2026, its flagship festive event, with early access beginning on 8 October 2026. To coincide with the announcement, Flipkart has partnered with Leo India to…
+
 - Flipkart Big Billion Days sale 2026 announced: Date, early access and bank offers revealed
   15 Sep 2026 | https://www.moneycontrol.com/technology/flipkart-big-billion-days-sale-2026-announced-early-access-starts-october-8-bank-offers-and-expected-deals-article-14030517.html
   Flipkart has started teasing its upcoming Big Billion Days sale, revealing an October 8 early-access date for Plus, Black and Flipkart Credit Card members, along with bank offers and major brand partners
 
-- Flipkart finds Minutes-shaped redemption after years of struggle
-  15 Sep 2026 | https://the-ken.com/story/flipkart-finds-minutes-shaped-redemption-after-years-of-struggle/
-  Once every week, Kunal Gupta, the head of Flipkart Minutes, holds a two-hour catch-up meeting with his whole team. And every week, he talks stock.
+- Flipkart Big Billion Days 2026 Dates Are Out: Bank Discounts and Deals Teased
+  16 Sep 2026 | https://www.gadgets360.com/mobiles/news/flipkart-big-billion-days-sale-2026-date-announced-india-bank-discounts-offers-12052496
 
-- Flipkart Big Billion Days Sale 2026: Early Access Starts Oct 8 Alongside 10% Bank Discounts
-  15 Sep 2026 | https://www.ndtvprofit.com/trending/flipkart-big-billion-days-sale-2026-early-access-starts-october-8-alongside-10-bank-discounts-12050801
-
-- Flipkart orders a bhelpuri of celebs for its Big Billion Days Sale ad
-  15 Sep 2026 | https://www.afaqs.com/news/advertising/flipkart-big-billion-days-12537981
-  Being stuck in the same 24-hour loop is either a blessing or downright terrifying. Flipkart chose the former and showed how a guy can transform his life again and again, with a bit of help from Flipkart’s upcoming Big Billion Days Sale.
+- Why does Flipkart need half of pop culture to sell the Big Billion Days?
+  16 Sep 2026 | https://bestmediainfo.com/mediainfo/mediainfo-marketing/why-does-flipkart-need-half-of-pop-culture-to-sell-the-big-billion-days-12538932
 
 [Flipkart Minutes]
-
-- Flipkart finds Minutes-shaped redemption after years of struggle
-  15 Sep 2026 | https://the-ken.com/story/flipkart-finds-minutes-shaped-redemption-after-years-of-struggle/
-  Once every week, Kunal Gupta, the head of Flipkart Minutes, holds a two-hour catch-up meeting with his whole team. And every week, he talks stock.
 
 - Flipkart creates 2.5 lakh festive-season jobs, 75,000 for first-time entrants
   15 Sep 2026 | https://www.thehindu.com/business/Industry/flipkart-creates-25-lakh-festive-season-jobs-75000-for-first-time-entrants/article71469214.ece
   Flipkart, India’s home-grown e-commerce major, said on Tuesday it has generated more than 2.5 lakh direct and indirect employment opportunities, including gig jobs, ahead of the festive season. Nearly 75,000 of these are first-time…
 
-- Flipkart Minutes Clocks 4X Growth In Two Years, Expands To 150+ Cities
-  15 Sep 2026 | https://www.bwdisrupt.com/article/flipkart-minutes-clocks-4x-growth-in-two-years-expands-to-150-cities-623715
-
 - Flipkart Minutes sees 2.5x growth in Ganesh Chaturthi demand
   15 Sep 2026 | https://mediabrief.com/flipkart-minutes-sees-2-5x-ganesh-chaturthi-demand/
   Ganesh Chaturthi brought families together across India to prepare their homes and welcome Bappa. This showed in shopping too, with Flipkart Minutes seeing 2.5x growth in demand for festive décor, puja essentials, ethnic wear, sweets, and…
 
+- Flipkart creates over 250,000 festive jobs as ecommerce demand rises
+  15 Sep 2026 | https://www.business-standard.com/industry/news/flipkart-festive-season-jobs-big-billion-days-ecommerce-126091500458_1.html
+  Ecommerce firm Flipkart said on Tuesday it has created more than 250,000 direct and indirect employment opportunities, including for gig workers, for the festival season.
+
+- Flipkart Creates Over 2.5 Lakh Employment Opportunities This Festive Season, Including 75,000 First-Time Workforce Entrants
+  15 Sep 2026 | https://stories.flipkart.com/announcement/flipkart-creates-over-2-lakh-employment-opportunities-this-festive-season-including-75000-first-time-workforce-entrants
+  Bengaluru, 15 September 2026: Flipkart, India’s homegrown e-commerce marketplace, today announced the creation of more than 2.5 lakh direct and indirect employment opportunities, including gig workers, for the festive season. Nearly 75,000…
+
 [OpenAI/Anthropic/Kimi/Deepseek/OpenRouter]
 
-- Nvidia's Huang diverges with CEOs of Anthropic, OpenAI on AI safety at Dreamforce
-  15 Sep 2026 | https://www.cnbc.com/2026/09/15/nvidia-and-anthropic-ceos-diverge-on-ai-safety-at-dreamforce.html
+- Anthropic signs first Australia data centre agreement
+  16 Sep 2026 | https://www.reuters.com/world/asia-pacific/anthropic-signs-first-australia-data-centre-agreement-2026-09-16/
 
-- Anthropic co-founder says slowing AI is a 'collective action problem'
-  15 Sep 2026 | https://www.npr.org/2026/09/15/nx-s1-5968852/anthropic-jack-clark-ai-risks-safety
-  Jack Clark, co-founder and head of public benefit at Anthropic PBC, participates in a discussion at the Semafor World Economy Summit in Washington on April 13. Kevin Dietsch/Getty Images hide caption
+- Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown
+  16 Sep 2026 | https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html
 
-- Anthropic CEO renews call for AI slowdown as Nvidia’s urges acceleration
-  15 Sep 2026 | https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai
-  Anthropic’s CEO took the stage at a conference in San Francisco on Tuesday to reiterate his call for a slowdown of AI development, while Nvidia’s CEO argued against such deceleration.
+- OpenAI, Google, Anthropic discussing collaboration on AI safety issues
+  15 Sep 2026 | https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html
 
-- The AI Tipping Point
-  15 Sep 2026 | https://time.com/article/2026/09/15/ai-anthropic-researcher-quits-coxon-slowdown/
+- OpenAI's Sam Altman says world 'right to be afraid' but 'should trust' AI firms
+  16 Sep 2026 | https://www.bbc.com/news/articles/cqx2zpj4y525o
+  However, Altman noted that people were justified in their fears around AI, as the capability of the tools has progressed rapidly.
 
 ============================================================
 
@@ -426,115 +498,101 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [[Top Gainers]]
 
-[Tata Chemicals Ltd (TATACHEM, +19.99%)]
+[Aegis Logistics Ltd (AEGISLOG, +4.96%)]
 
-- Tata Group Stocks Rise on Optimism Over Holding Company IPO
-  15 Sep 2026 | https://www.bloomberg.com/news/articles/2026-09-15/tata-group-stocks-rise-on-optimism-over-holding-company-ipo
+- Aegis Logistics To Hold Analyst And Investor Meeting On September 24
+  15 Sep 2026 | https://www.sahi.com/news/aegis-logistics-to-hold-analyst-and-investor-meeting-on-september-24
+  Aegis Logistics will interact with institutional investors and analysts on September 24, 2026. This interaction follows a blowout Q1 FY27, where consolidated net profit zoomed 211% YoY to ₹545 crore, and the execution of a ₹525 crore…
 
-- Tata Chemicals lead Tata Group rally amid Tata Sons listing prospects
-  15 Sep 2026 | https://www.tradingview.com/news/moodys:2666749963e12:0-tata-chemicals-lead-tata-group-rally-amid-tata-sons-listing-prospects/
-  Tata Group stocks witnessed strong buying interest on Tuesday after the RBI rejected Tata Sons’ application to deregister as a non-bank lender, reviving prospects of a stock market listing for the holding company.
+- Aegis Logistics to hold analyst and investor meeting on September 24
+  15 Sep 2026 | https://scanx.trade/stock-market-news/companies/aegis-logistics-attend-clsa-hong-kong-investor-conference/51015652
+  Aegis Logistics will hold an analyst and investor meeting on September 24, 2026. This engagement follows the company’s earlier disclosure of participation in the CLSA Hong Kong Conference scheduled for September 23-24, 2026.
 
-- Tata Sons Listing: HSBC lists four scenarios where Tata Chemicals can create up to 210% equity value - CNBC TV18
-  15 Sep 2026 | https://www.linkedin.com/posts/cnbc-tv18_tata-sons-listing-hsbc-lists-four-scenarios-activity-7505530591656787969-MT88
+[Patanjali Foods Ltd (PATANJALI, +4.61%)]
 
-[Firstsource Solutions Ltd (FSL, +14.44%)]
+- FMCG Stocks Surge: Nestle India, ITC, HUL, Patanjali Foods Shares Jump Over 3%
+  16 Sep 2026 | https://www.ndtvprofit.com/markets/fmcg-stocks-surge-nestle-india-itc-hul-share-price-jump-over-2-12052625
 
-- Firstsource Solutions Share Price Today Up 16%
-  15 Sep 2026 | https://www.equitymaster.com/indian-share-markets/Firstsource-Solutions-Gains-16-BSE-IT-Index-Up-24/10466/?utm_source=indian-share-markets&utm_medium=website&utm_campaign=content&utm_content=article
-  Firstsource Solutions Gains 16%; BSE IT Index Up 2.4%
+- Tata Chemicals, 3M India, Patanjali Foods shares spurt amid spike in volumes; check full list
+  16 Sep 2026 | https://upstox.com/news/market-news/stocks/tata-chemicals-3-m-india-patanjali-foods-shares-spurt-amid-spike-in-volumes-check-full-list/article-200338/
+  Upstox Securities Pvt. Ltd.: SEBI Registration No. INZ000315837 | NSE TM Code: 13942 | BSE TM Code: 6155 | CDSL Reg No.: IN-DP-761-2024 | CIN: U65100DL2021PTC376860 | Compliance Officer: Mr. Kapil Jaikalyani. Tel No.: (022) 24229920. Email…
 
-- Firstsource Solutions Q2 FY27 Preview
-  15 Sep 2026 | https://univest.in/blogs/firstsource-solutions-q2-results-fy27-preview-date-expectations
-  Firstsource Solutions share price Rs 282.40 on 15 September 2026, up 14.05%. Q2 FY27 results date not confirmed. Q1 FY27 net profit Rs 166.00 crore. Q2 FY26 base a profit of Rs 180.00 crore.
+- Patanjali Foods - Cochin Shipyard and Paytm among top 5 midcap stocks that saw highest mutual fund buying in August
+  15 Sep 2026 | https://economictimes.indiatimes.com/mf/analysis/cochin-shipyard-and-paytm-among-top-5-midcap-stocks-that-saw-highest-mutual-fund-buying-in-august/patanjali-foods/slideshow/134258714.cms
 
-- Tata Chemicals Ltd leads gainers in 'A' group
-  15 Sep 2026 | https://www.business-standard.com/amp/markets/capital-market-news/tata-chemicals-ltd-leads-gainers-in-a-group-126091500475_1.html
-  Tata Chemicals Ltd leads gainers in 'A' group
+[Graphite India Ltd (GRAPHITE, +4.53%)]
 
-[Tata Investment Corporation Ltd (TATAINVEST, +10.36%)]
+- Graphite India Raises GrafTech Stake to 9.79%, Cumulative Investment at INR 230.38 Crores
+  15 Sep 2026 | https://scanx.trade/stock-market-news/companies/graphite-india-acquires-additional-stake-in-graftech-international-cumulative-investment-reaches-inr-230-38-crores/40057422
+  Graphite India Limited has increased its stake in NYSE-listed GrafTech International Ltd. from 6.82% to 9.79% through secondary market transactions under the OPI scheme, investing INR 62.25 Crores in this acquisition. The cumulative…
 
-- Why Tata Investment Corporation Share Price Is Rising Today
-  15 Sep 2026 | https://www.equitymaster.com/detail.asp?date=9/15/2026&story=4
-  Sep 15, 2026 - Why Tata Investment Corporation Share Price Is Rising Today
+- Buy Graphite India Ltd for the Target Rs 1,050 by Emkay Global Financial Services Ltd
+  16 Sep 2026 | https://investmentguruindia.com/newsdetail/buy-graphite-india-ltd-for-the-target-rs-1-050-by-emkay-global-financial-services-ltd629448
+  We hosted Graphite India Chairman K K Bangur for a non-deal roadshow (NDR), meeting various investors to discuss recent developments in the graphite electrode (GE) industry. The management remains cautious on the recently announced GE…
 
-- Tata Investment Corporation - Tata Sons IPO: How 7 group stocks performed in 3 months and their stake in Tata Sons
-  15 Sep 2026 | https://m.economictimes.com/markets/stocks/news/tata-sons-ipo-how-7-group-stocks-performed-in-3-months-and-their-stake-in-tata-sons/tata-investment-corporation/slideshow/134255622.cms
+[Capri Global Capital Ltd (CGCL, +4.10%)]
 
-- Tata Sons listing back on the table: Why Tata Chemicals, Tata Investment shares jumped up to 20%
-  15 Sep 2026 | https://www.fortuneindia.com/amp/story/markets/tata-sons-listing-back-on-the-table-why-tata-chemicals-tata-investment-shares-jumped-up-to-20/159266
+- Capri Global Capital Launches Inaugural US$300 Million International Bond Offering
+  16 Sep 2026 | https://globallegalchronicle.com/post-239906/
 
-[Sonata Software Ltd (SONATSOFTW, +5.81%)]
+- Capri Global Capital: Best Stock in Its Sector? Key Metrics
+  16 Sep 2026 | https://univest.in/blogs/capri-global-capital-best-stock-in-its-sector
+  Capri Global Capital CMP Rs 259 (15 Sep 2026). Market cap Rs 25,603 Cr. ROE 13.18%. P/E 22.70x versus Industry P/E 19.15x.
 
-- Sonata Software Unit Partners With AWS For Five-Year India Cloud Modernization
-  15 Sep 2026 | https://www.sahi.com/news/sonata-software-unit-partners-with-aws-for-five-year-india-cloud-modernization
-  Sonata Information Technology has inked a five-year agreement with AWS to drive enterprise cloud modernization across India. The deal aligns with Sonata's strategic shift toward high-margin digital engineering services, building on its…
+[Prime Focus Ltd (PFOCUS, +4.08%)]
 
-- Sonata Software signs five-year AWS deal to accelerate cloud and AI adoption in India
-  15 Sep 2026 | https://www.cnbctv18.com/technology/sonata-software-signs-five-year-aws-deal-to-accelerate-cloud-and-ai-adoption-in-india-19991202.htm/amp
-  Sonata Information Technology (SITL), the domestic business of Sonata Software , has signed a five-year Strategic Collaboration Agreement (SCA) with Amazon Web Services (AWS) to expand cloud adoption and modernisation among enterprises in…
+- Trade Spotlight: How should you trade Dabur India, ACME Solar Holdings, Emcure Pharma, Aegis Vopak...
+  16 Sep 2026 | https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-dabur-india-acme-solar-holdings-emcure-pharma-aegis-vopak-terminals-prime-focus-and-others-on-september-16-14030707.html
+  The market is likely to see consolidation as traders keenly await the outcome of the Federal Reserve meeting later today. Here are some short-term trading ideas to consider.
 
-- Stocks to Watch Today: Kanohar Electricals, Prasol Chemicals, Groww, Saatvik Green Energy, Sonata...
-  15 Sep 2026 | https://www.moneycontrol.com/news/business/markets/stocks-to-watch-today-kanohar-electricals-prasol-chemicals-groww-saatvik-green-energy-sonata-software-nbcc-india-pesticides-in-focus-on-16-september-14030660.html
-  Stocks to Watch, 16 Sept: Groww, Saatvik Green Energy, Sonata Software, Bharat Heavy Electricals, Titagarh Rail Systems, NBCC India, India Pesticides, Blue Star, GMM Pfaudler, Aurobindo Pharma,Tata Communications, Kanohar Electricals,…
-
-[Acme Solar Holdings Ltd (ACMESOLAR, +4.50%)]
-
-- Acme Solar brings online more solar, batteries in Rajasthan
-  15 Sep 2026 | https://renewablesnow.com/news/acme-solar-brings-online-more-solar-batteries-in-rajasthan-1301222/
-
-- Stocks To Buy Today: Acme Solar, Groww And More | September 16
-  16 Sep 2026 | https://www.ndtvprofit.com/markets/stocks-to-buy-today-acme-solar-groww-and-more-september-16-12052112
-
-- Green Stocks Sep 15: ACME Solar Lone Gainer as Renewable Energy Stocks Slide
-  15 Sep 2026 | https://www.saurenergy.com/solar-energy-news/green-stocks-sep-15-acme-solar-lone-gainer-as-renewable-energy-stocks-slide-12534860
-  Renewable energy stocks came under pressure on Tuesday, in line with the broader market trend, with ACME Solar Holdings emerging as the only gainer among the tracked green energy companies. ACME Solar shares jumped around 4% to ₹418.75…
+- Market Trading Guide: Acme Solar, Bharat Dynamics among 5 stock recommendations for Wednesday
+  15 Sep 2026 | https://m.economictimes.com/markets/stocks/news/market-trading-guide-acme-solar-bharat-dynamics-among-5-stock-recommendations-for-wednesday/prime-focus-buy/slideshow/134267795.cms
+  Market Trading Guide: Acme Solar, Bharat Dynamics among 5 stock recommendations for Wednesday
 
 [[Top Losers]]
 
-[Solar Industries India Ltd (SOLARINDS, -13.64%)]
+[Premier Energies Ltd (PREMIERENE, -5.28%)]
 
-- Omnia buy adds to Solar Industries' explosive growth, valuations stay high
-  15 Sep 2026 | https://www.business-standard.com/markets/stock-market-news/omnia-buy-adds-to-solar-industries-explosive-growth-valuations-stay-high-126091501239_1.html
-  Omnia Holdings (JSE: OMN) is a diversified global company headquartered in Johannesburg, South Africa, with chemical businesses that have exposure across mining, agriculture and chemicals. Omnia has an integrated manufacturing platform,…
+- Premier Energies Moves Beyond Solar Panels, Joins German RCT for 12 GWh Battery Plant in India with Initial 6 GWh by June 2027
+  15 Sep 2026 | https://en.clickpetroleoegas.com.br/premier-energies-expands-beyond-solar-panels-partners-with-german-rct-to-prepare-12-gwh-battery-factory-in-india-with-initial-6-gwh-rss94/
+  The new joint venture aims to transform Telangana into a manufacturing hub for BESS systems for commercial, industrial, and large-scale projects, serving customers both within and outside India.
 
-- Solar Industries Shares Tumble 9% After Rs 12,951 Crore Omnia Deal
-  15 Sep 2026 | https://www.ndtvprofit.com/markets/solar-industries-shares-tumble-9-after-rs-12-951-crore-omnia-deal-12047664
+- Premier Energies and RCT form 12 GWh BESS joint venture
+  15 Sep 2026 | https://www.manufacturingtodayindia.com/premier-energies-rct-form-12-gwh-jv
 
-- Solar Industries shares crash 9% after acquisition of South Africa’s Omnia Holdings for Rs 12,951 crore
-  15 Sep 2026 | https://m.economictimes.com/markets/stocks/news/solar-industries-shares-crash-9-after-acquisition-of-south-africas-omnia-holdings-for-rs-12951-crore/articleshow/134254076.cms
-  Shares of Solar Industries crashed nearly 9% on Tuesday to day’s low of Rs 20,180 on NSE after the company announced the acquisition of South Africa’s Omnia Holdings.
+[Pine Labs Ltd (PINELABS, -4.96%)]
 
-[Welspun Corp Ltd (WELCORP, -9.84%)]
+- Paytm, Pine Labs, MobiKwik shares witness profit booking after the new MDR framework - CNBC TV18
+  16 Sep 2026 | https://www.linkedin.com/posts/cnbc-tv18_paytm-pine-labs-mobikwik-shares-witness-activity-7505871352025935873-hMUc
 
-- Buy, Sell Or Hold: Dr Reddy's Labs, BEL, L&T, HDFC Bank, Welspun Corp And Canara Bank — Ask Profit
-  15 Sep 2026 | https://www.ndtvprofit.com/markets/buy-sell-or-hold-dr-reddys-labs-bel-l-t-hdfc-bank-welspun-corp-and-canara-bank-ask-profit-12051254
+- News by CNBC TV18 on TradingView, 2026-09-16 — cnbctv:8f1d74762094b:0
+  16 Sep 2026 | https://www.tradingview.com/news/cnbctv:8f1d74762094b:0/
 
-- Welspun Corp Share Price Today Down 8%
-  15 Sep 2026 | https://www.equitymaster.com/indian-share-markets/Welspun-Corp-Plunges-8-BSE-CAPITAL-GOODS-Index-Down-30/10471/?utm_source=indian-share-markets&utm_medium=website&utm_campaign=content&utm_content=article
-  Welspun Corp Plunges 8%; BSE CAPITAL GOODS Index Down 3.0%
+- UPI MDR bonanza: Why Paytm may win bigger, but Pine Labs could gain faster
+  16 Sep 2026 | https://m.economictimes.com/markets/stocks/news/upi-mdr-bonanza-why-paytm-may-win-bigger-but-pine-labs-could-gain-faster/articleshow/134279070.cms
+  Paytm and Pine Labs are poised to become early beneficiaries of the government’s decision to monetise high-value UPI payments. Still, the new revenue stream could have very different consequences for the two fintechs.
 
-- FirstCry, Zensar Tech, Tata Investment Corp shares surge amid spike in volumes; check full list
-  15 Sep 2026 | https://upstox.com/news/market-news/stocks/first-cry-zensar-tech-tata-investment-corp-shares-surge-amid-spike-in-volumes-check-full-list/article-200272/
+[Aditya Infotech Ltd (CPPLUS, -4.30%)]
 
-[Data Patterns India Ltd (DATAPATTNS, -9.74%)]
+[Billionbrains Garage Ventures Ltd (GROWW, -3.85%)]
 
-- Solar Industries, Data Patterns, MTAR Tech, other defence stocks drag Nifty India Defence down 4%; here's why
-  15 Sep 2026 | https://upstox.com/news/market-news/stocks/solar-industries-data-patterns-mtar-tech-other-defence-stocks-drag-nifty-india-defence-down-4-here-s-why/article-200264/
-  Defence heavyweight stocks like Solar Industries, Data Patterns, MTAR Technologies, among others, dragged down the sectoral benchmark index by 4% during the trading session on Tuesday, September 15, as investors booked profits amid selling…
+- Groww shares crash 4.5% after 1.69% equity sold in Rs 1,999-crore block deal; Peak XV, Sequoia likely...
+  16 Sep 2026 | https://www.moneycontrol.com/news/business/markets/groww-shares-fall-2-5-after-1-69-equity-sold-in-rs-1-999-crore-block-deal-peak-xv-sequoia-likely-sellers-14030784.html
+  Groww shares fell sharply after 1.69 percent equity changed hands in block deals worth nearly Rs 2,000 crore, with Peak XV Partners and Sequoia Capital being the likely sellers. The deals come weeks after another sizeable stake sale by…
 
-- Data Patterns (India): Best Stock in Its Sector? Key Metrics
-  15 Sep 2026 | https://univest.in/blogs/data-patterns-india-best-stock-in-its-sector
-  Data Patterns (India) CMP Rs 4,554 (15 Sep 2026). Market cap Rs 27,056 Cr. ROE 15.63%. P/E 100.98x versus Industry P/E 55.03x.
+- News by CNBC TV18 on TradingView, 2026-09-15 — cnbctv:5334575e5094b:0
+  15 Sep 2026 | https://www.tradingview.com/news/cnbctv:5334575e5094b:0/
 
-[Netweb Technologies India Ltd (NETWEB, -8.22%)]
+- Groww block deal alert: Peak XV, Sequoia Capital likely to sell stake. Here’s what you should know
+  16 Sep 2026 | https://m.economictimes.com/markets/stocks/news/groww-block-deal-alert-peak-xv-sequoia-capital-likely-to-sell-stake-heres-what-you-should-know/amp_articleshow/134277233.cms
+  Shares of Billionbrains Garages Ventures, the parent company of Groww , declined 2.6% to their day's low of Rs 192 on the BSE on Wednesday after 1.6% equity or 10.07 crore shares changed hands in a block deal. According to multiple media…
 
-- Netweb Technologies Q1 FY27: PAT Surges 179.94%, AI Segment Drives Record Revenue
-  15 Sep 2026 | https://scanx.trade/stock-market-news/companies/netweb-technologies-q1-results-revenue-surges-to-8-2b-rupees-yoy/46778381
-  Netweb Technologies reported record Q1 FY27 results with PAT surging 179.94% YoY to ₹853.23 million and revenue rising 172.13% to ₹8,196.86 million, driven by the AI Systems segment which grew 484.20% and contributed 62.29% of total…
+[Heg Ltd (HEG, -3.71%)]
 
-[Jindal Saw Ltd (JINDALSAW, -7.36%)]
+- HFCL, Sterlite Tech, HEG, MTAR Technologies locked in 5% lower circuits
+  16 Sep 2026 | https://www.business-standard.com/markets/news/hfcl-sterlite-tech-heg-mtar-technologies-locked-in-5-lower-circuits-126091600287_1.html
+  Shares of HFCL, Sterlite Technologies , HEG and MTAR Technologies were locked in the 5 per cent lower circuit on the BSE in Wednesday’s intra-day deal as no buyers were seen on these counters.
 
-- Jindal Saw Share Price Today Down 6%
-  15 Sep 2026 | https://www.equitymaster.com/indian-share-markets/Jindal-Saw-Plunges-6-BSE-METAL-Index-Down-14/10468/?utm_source=indian-share-markets&utm_medium=website&utm_campaign=content&utm_content=article
-  Jindal Saw Plunges 6%; BSE METAL Index Down 1.4%
+- HEG - FIIs cut stakes in 14 smallcap stocks after 2 quarters of buying; shares fall up to 55%
+  15 Sep 2026 | https://m.economictimes.com/markets/stocks/news/fiis-cut-stakes-in-14-smallcap-stocks-after-2-quarters-of-buying-shares-fall-up-to-55/heg/slideshow/134257664.cms
+  FIIs cut stakes in 14 smallcap stocks after 2 quarters of buying; shares fall up to 55%
