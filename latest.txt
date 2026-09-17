@@ -4,121 +4,109 @@ Nifty PE Ratio | 19.63 | 16 Sep 2026 | https://nifty-pe-ratio.com/
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-URL: https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/upi-charges-from-october-15-activates-maiden-fund/articleshow/134276098.cms
+URL: https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/decoding-mdrs-impact-ev-bikes-policy-change-sparks-debate/articleshow/134298627.cms
 
-Happy Wednesday! The NPCI has announced charges on select UPI merchant payments. This and more in today's ETtech Morning Dispatch.
+Happy Thursday! The return of MDR is set to change UPI's market share game. This and more in today's ETtech Morning Dispatch.
 
 Also in the letter:
 
-■ Premji Invest in talks to back Let’s Try
+■ UPI MDR: D2C brands reassess costs
 
-■ Moneyview cuts IPO fresh issue size
+■ Industry leaders split on AI development
 
-■ Meta's new child safety measures
+■ Infosys expands Indore facility
 
-NPCI announces MDR for UPI; merchant transactions above Rs 2,000 to attract 0.4% charge
+UPI MDR could bring transaction value into payment apps’ market-share battle, industry executives say
 
-The National Payments Corporation of India (NPCI) on Tuesday
+The
 
-announced merchant discount rate (MDR) for Unified Payments Interface (UPI) transactions. It said that a 0.4% charge will be levied on person-to-merchant payments above Rs 2,000.
+return of merchant discount rate (MDR) on select unified payments interface (UPI) merchant payments could shift a market-share contest long driven by transaction volume towards transaction value. Smaller apps may pursue higher-ticket, fee-generating payments through commerce and credit offerings instead of matching PhonePe and Google Pay’s scale or cashback spending.
 
-ET had
+Why the opening matters:
 
-exclusively reported on July 16 that the government would restore MDR on UPI transactions.
+Consumer apps will receive 8 basis points from the 40-basis-point MDR, falling to 7.6 after the mandatory small-merchant fund contribution.
 
-Key details:
+NPCI’s 30% market-share cap is based on volume, not value. An app could remain below it while capturing disproportionate monetisable value.
 
-MDR will take effect on October 15.
+NPCI’s August data show the divide: Cred had 0.59% of volume but 1.92% of value, while Navi had 4.4% and 1.8%, respectively.
 
-Consumer charges: Consumers will not pay the MDR.
+Where the advantage lies
 
-P2P transfers: Remain free regardless of transaction value.
+More than 95% of merchant-payment volume remains free, preserving incumbents’ distribution advantage.
 
-Railways, telecom, insurance, fuel: Flat Rs 5 MDR on payments above Rs 2,000.
+Smaller apps such as POP, and super.money will combine UPI with commerce or credit. MDR will supplement, rather than replace, those revenue streams.
 
-Capital market transactions: 0.02% MDR capped at Rs 300.
+PhonePe and Paytm can earn on both the consumer and merchant sides. Payment aggregators’ share will depend on bilateral agreements with acquiring banks.
 
-Yes, and: Small merchants in the person-to-person-merchant (P2PM) category will remain zero MDR even for transactions above Rs 2,000 if QR-based UPI payments made directly to their accounts stay within Rs 1 lakh per month. Crossing that threshold for three consecutive months will move a merchant to the P2M category.
+UPI MDR prompts D2C brands to reassess costs as festive sales loom
 
-Tell me more: NPCI said MDR would remain within the UPI ecosystem.
+The new MDR framework comes in the middle of the ecommerce festive season sales and D2C (direct-to-consumer) brands operating in low-margin categories such as consumer electronics, fashion, and packaged goods
 
-Under the final fee flow, merchants will pay acquiring banks up to 0.4%.
+are assessing the impact .
 
-Acquirers will pay issuing banks 0.28% as interchange.
+Driving the news: Industry associations such as the Clothing Manufacturers Association of India and the Retailers Association of India (RAI) have raised concerns over the new MDR rules.
 
-Issuers will pay payer payment service providers (PSPs) 0.12%, of which PSPs will pass 0.08% to app providers such as PhonePe or Google Pay.
+Industry executives said the impact could be more pronounced for ecommerce, where transaction values are higher, while quick commerce platforms, which typically have lower average order values (AOVs), may see limited impact from the new charges.
 
-This leaves 0.12% with the acquirer, 0.16% with the issuer, 0.04% with the payer PSP and 0.08% with the app provider.
+The basics: Payments above Rs 2,000 to eligible merchants will attract an MDR of up to 0.4%. The charge is capped at Rs 300 for transactions of Rs 75,000 and above.
 
-Merchant-side payment aggregators such as Razorpay and Cashfree would negotiate their share with acquiring banks.
+Who pays: The merchant. The customer pays nothing, and the merchant cannot add the charge to the bill.
 
-Why it matters: Brokerage firm Bernstein had earlier estimated that a 40-bps MDR applied to half of UPI merchant-payment value could create a Rs 22,000-crore revenue pool by 2027-28.
+Read our explainer on the MDR framework here .
 
-AI-focused VC firm Activate closes maiden fund at $105 million
+Reactions: The MDR on UPI has received mixed reactions from industry leaders. Zerodha cofounder Nithin Kamath said MDR was "probably inevitable" but questioned its impact on broking and investment payments.
 
-Aakrit Vaish (left) and Pratyush Choudhury, cofounder, Activate
+Meanwhile,
 
-Aakrit Vaish’s AI-focused venture capital firm Activate
+Paytm CEO Vijay Shekhar Sharma said the introduction of MDR will add more revenue and profit to the company, Paytm parent One97 Communications founder and CEO Vijay Shekhar Sharma said on Wednesday.
 
-has raised $105 million (about Rs 1,000 crore) for its maiden fund, less than a year after its launch in December 2025.
+Legal challenge: The MDR matter has reached the apex court . A public interest litigation (PIL) has been filed in the Supreme Court against MDR, alleging the levy was introduced without adequate statutory safeguards, transparency, or public consultation.
 
-The details:
+Also Read: UPI MDR may attract 18% GST; eligible merchants can claim input tax credit
 
-Growing opportunity: Vaish said the opportunity for specialist AI funds in India is still developing, but the number of high-quality AI investments is growing. He estimated that India-centric, top-tier seed AI investments could rise to 25-30 this year from about 12 in 2025.
+Industry divided over lifting 60 kg cap for low-speed electric two-wheelers
 
-Promising sectors: Vaish sees the largest opportunities in three segments. “One is largely consumer tech and AI. I think consumer AI in India is going to be the new version of financial services, ecommerce, health tech, and edtech. As you build out new versions of consumer tech, they will all get AI-native.” The other two are AI services and frontier AI.
+The government’s proposal to remove the 60 kg unladen-weight limit for low-speed electric two-wheelers
 
-Premji Invest in talks to lead Rs 200-300 crore funding round in Let’s Try
+has divided stakeholders .
 
-Nitin Kalra, founder and CEO, Let's try
+Two sides: Mobility operators warn that heavier, more powerful vehicles could enter a category that is currently exempt from registration and driving licences, while some EV makers argue the weight cap constrains safety and product innovation.
 
-Premji Invest, the family office of Wipro founder Azim Premji,
+Fine print: In draft rules notified on August 21, 2026, the Ministry of Road Transport and Highways (MoRTH) has proposed amendments to the Central Motor Vehicles Rules, 1989:
 
-is in talks to lead a Rs 200-300 crore funding round in homegrown snacks brand Let’s Try, sources told us.
+Raise the motor power threshold from 250W to 600W.
 
-Deal details:
+Retain the 25 kmph speed ceiling.
 
-The round will be a mix of primary and secondary transactions.
+Remove the 60 kg unladen-weight condition for exemption from Vahan registration and driving licences.
 
-It is expected to value the Delhi-NCR-based packaged snacks brand at Rs 1,000-1,200 crore, a person in the know said.
+Currently, many electric two-wheelers used by gig workers fall under this low-speed, exempt category, creating a large unregistered segment outside the conventional motor-vehicle system.
 
-This would be a jump from its last valuation of around Rs 300 crore, at which it raised capital in 2025.
+Tell me more: Yulu, which is opposing the removal of the weight ceiling on safety and enforcement grounds, said a 600W motor could be tampered with to take the vehicle beyond the prescribed speed.
 
-Canada’s OTPP invests another $40 million in Darwinbox: Sources
-
-Teachers’ Venture Growth (TVG), the late-stage investment platform of Ontario Teachers’ Pension Plan (OTPP),
-
-has made a follow-on investment in Hyderabad-based HR software firm Darwinbox, about a year after its initial financing.
-
-Number-wise: The new round is of around $40 million, bringing TVG’s total investment in the company to roughly $80 million, sources told us.
-
-In August 2025, the company had
-
-closed a $40 million round with OTPP in a mix of primary and secondary transactions at a blended valuation of around $1 billion.
+However, Bounce cofounder and CEO Vivekananda Hallakere said the 60 kg ceiling could become a constraint on safety, as manufacturers may have to compromise on the chassis, suspension, braking system, and overall form factor to stay within the limit.
 
 Other Top Stories By Our Reporters
 
-Puneet Agarwal, CEO, Moneyview
+Nvidia chief executive Jensen Huang and Salesforce CEO Marc Benioff
 
-Moneyview cuts IPO fresh issue size: Accel-backed fintech lender Moneyview has halved the fresh issue component of its proposed initial public offering (IPO) to Rs 750 crore from Rs 1,500 crore, while also reducing the number of shares to be sold by existing investors, according to an addendum filed on Monday.
+Nvidia's Huang and Anthropic's Amodei split on AI development: Two of the most influential figures in AI set out opposing views on how fast the technology should advance. Nvidia chief executive Jensen Huang said no new laws or regulations were needed to control AI development, rejecting a push by leading labs to coordinate a slowdown in research to improve safety on their platforms.
 
-Meta's new child safety measures: Social media giant Meta has agreed to report child sexual abuse cases to the appropriate law enforcement agencies in India, government sources said on Tuesday. While the move is the first step towards making the platforms safe for children, they said much more needs to be done.
-
-Coforge begins chairman search: Mid-tier IT firm Coforge has enlisted executive search firm Egon Zehnder to find a new chairman and two independent directors. Last week, chairman Om Prakash Bhatt and nomination and remuneration committee (NRC) chairperson DK Singh had stepped down amid board unrest.
+Infosys expands Indore facility: Indian IT major Infosys on Wednesday announced the expansion of its Indore development center (DC) with a new Software Development Block (SDB-2) at its Indore campus to tap central India talent.
 
 Global Picks We Are Reading
 
-■ Time for a pause on cutting-edge AI (
+■ Why the US and China are at odds on AI threats (
 
 FT )
 
-■ Where in the world is the iPhone cheapest? (
+■ The AI talent war is coming for Big Tech’s Asia executives (
 
 Rest of World )
 
-■ AI models need more data about biology, and OpenAI is paying to create it (
+■ A backlash over data centres is another threat to the AI juggernaut (
 
-MIT Technology Review )
+BBC )
 
 ============================================================
 
@@ -173,21 +161,65 @@ Published - September 14, 2026 12:20 am IST
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
-- India rejects Pakistan-China Boundary Joint Commission ‘which is without any legal basis’
-  17 Sep 2026 | https://www.thehindu.com/news/national/india-rejects-pakistan-china-boundary-joint-commission-which-is-without-any-legal-basis/article71474052.ece
-  The MEA says there is no boundary between Pakistan and China; adds that J&K and Ladakh "are and will always remain integral and inalienable parts of India"
+- Trump hopes Iran war nearing end as Houthi-Saudi fighting escalates
+  17 Sep 2026 | https://www.thehindu.com/news/international/trump-hopes-iran-war-nearing-end-as-houthi-saudi-fighting-escalates/article71475392.ece
+  U.S. President Donald Trump is expected to meet Gulf leaders on the sidelines of the UN General Assembly on September 22
 
-- ICE agent charged with assault, lying about shooting, arrested in Minnesota
-  17 Sep 2026 | https://www.thehindu.com/news/international/ice-agent-charged-with-assault-lying-about-shooting-arrested-in-minnesota/article71475135.ece
-  But a lawyer for the ICE agent, Rolando Cantu, said ‌in an interview that his client always intended to answer the charges in Minneapolis.
+- Why was the former President of Kosovo convicted by The Hague? Explained
+  17 Sep 2026 | https://www.thehindu.com/news/international/why-was-the-former-president-of-kosovo-convicted-by-the-hague-explained/article71475621.ece
+  Swiss politician Dick Marty authored a Council of Europe report, known as the Marty report, in 2010, which alleged that the KLA placed many Serbians in secret detention centres where they were subjected to inhuman and degrading treatment, before ultimately “disappearing”
 
-- U.S. House passes Russia sanctions bill seeking to impose up to 100% tariffs on India, others
-  17 Sep 2026 | https://www.thehindu.com/news/international/us-house-passes-russia-sanctions-bill-india-tariffs/article71474350.ece
-  The Bill, which will now be sent U.S. President Donald Trump for his signature, could result in significant U.S. tariffs on India
+- EU chief offers Canada ‘Associate Membership’ of bloc
+  17 Sep 2026 | https://www.thehindu.com/news/international/eu-chief-pitches-associate-member-status-for-canada/article71472016.ece
+  Canadian PM Mark Carney has been pursuing closer ties with the European Union, as both seek to pivot away from a hostile United States under President Donald Trump.
+
+- Trump threatens EU over ‘hostile’ Canada association plan
+  17 Sep 2026 | https://www.thehindu.com/news/international/trump-threatens-eu-over-hostile-canada-association-plan/article71475524.ece
+  Canadian leader Mark Carney has been pursuing closer ties with the European Union as Canada gets drawn ever deeper into a trade war with the United States.
 
 - U.K. PM Burnham and Canada’s Carney discuss AI challenges, stress cooperation on online safety
   17 Sep 2026 | https://www.thehindu.com/news/international/uk-pm-burnham-meets-canada-counterpart-carney/article71475097.ece
   Both ​leaders had earlier met ⁠in northern England, where they discussed ‌opportunities for defence industrial cooperation
+
+- Federal Reserve hikes key rate to tackle ‘too high’ inflation, defying Trump demands for cut
+  17 Sep 2026 | https://www.thehindu.com/news/international/federal-reserve-hikes-key-rate-for-first-time-in-three-years-defying-trump-demands-for-cut/article71474094.ece
+  Chairperson Warsh said renewed U.S.-Iran combat, which has driven up gas prices, also convinced officials to support rate hikes; President Trump reacted angrily to the decision, renewing his call for the Fed to lower interest rates “AND FAST”
+
+- Oman pitches new port that could give India better access to Gulf energy
+  17 Sep 2026 | https://www.thehindu.com/news/national/oman-pitches-new-port-that-could-give-india-better-access-to-gulf-energy/article71473404.ece
+  Located away from the conflict-hit Strait of Hormuz, Sohar Port is located close to vital energy pipelines of the United Arab Emirates and eastern Saudi Arabia
+
+- Global powers that themselves violate international law sit in Security Council: Guterres
+  17 Sep 2026 | https://www.thehindu.com/news/international/global-powers-that-themselves-violate-international-law-sit-in-security-council-guterres/article71475285.ece
+  We have geopolitical divides, and in these geopolitical divides, we have powers that themselves violate international law and sit in the Security Council; that has been paralysing the Security Council, as we know, said António Guterres
+
+- What King Charles said in response to Charles Spencer’s claims about Princess Diana in his memoir
+  17 Sep 2026 | https://www.thehindu.com/news/international/charles-spencer-alleges-about-princess-diana-death-king-charles-responded-buckingham-palace-united-kingdom/article71475308.ece
+  A Buckingham Palace spokesperson responded to Charles Spencer’s allegations saying that grief could affect reason, judgement and memory
+
+- U.S. troops must prepare to fight around the moon: Trump's top military adviser
+  17 Sep 2026 | https://www.thehindu.com/news/international/us-troops-must-prepare-to-fight-around-the-moon-trumps-top-military-adviser/article71474351.ece
+  Separately, the head of the Space Force's Combat Forces Command said “our potential adversaries such as the PRC are actively pursuing activities in the system, in parts of space,” referring to the People's Republic of China.
+
+- Pakistan Navy vessel collides with Indian warship in Arabian Sea
+  17 Sep 2026 | https://www.thehindu.com/news/national/india-pakistan-vessel-collision-arabian-sea-protest-lodged-september-16-2026/article71471556.ece
+  India summons Pakistan envoy and lodges strong protest over “unacceptable and unprofessional conduct”; Pakistani vessel approached Indian ship at high speed but suffered damage in collision and  returned to harbour; Indian warship remains deployed
+
+- India rejects Pakistan-China Boundary Joint Commission ‘which is without any legal basis’
+  17 Sep 2026 | https://www.thehindu.com/news/national/india-rejects-pakistan-china-boundary-joint-commission-which-is-without-any-legal-basis/article71474052.ece
+  The MEA says there is no boundary between Pakistan and China; adds that J&K and Ladakh "are and will always remain integral and inalienable parts of India"
+
+- U.S. House of Representatives to take up Russia sanctions bill next week
+  17 Sep 2026 | https://www.thehindu.com/news/international/us-house-of-representatives-to-take-up-russia-sanctions-bill-next-week/article71461175.ece
+  Ukrainian civilians continue to be killed by Putin’s war machine, and this bill hits the Kremlin’s coffers hard; Now is the time to pass it and force Putin to the negotiating table, said Senate Foreign Relations ranking member Jeanne Shaheen
+
+- U.S. lawmaker submits amendment naming India in Russia sanctions act
+  17 Sep 2026 | https://www.thehindu.com/news/international/us-lawmaker-submits-amendment-naming-india-in-russia-sanctions-act/article71466531.ece
+  The Lindsey O Graham Sanctioning Russia and Iran Act, passed by the U.S. Senate by an overwhelming 86-11 vote last month, seeks to impose sanctions not only on Russia's leadership and energy sector but also on the "shadow fleet" of vessels that enable Moscow to evade sanctions on oil deliveries.
+
+- U.S. House advances Russia sanctions Bill that seeks 100% tariffs on India, others; set for final vote
+  17 Sep 2026 | https://www.thehindu.com/news/international/russia-sanctions-bill-advances-in-us-house-india-tariffs-final-vote/article71470872.ece
+  The resolution to advance the Russia sanctions Bill and a slew of other legislations was approved by a 214-211 vote, shocking the House Democratic leadership. The Bill is expected to come up for a final vote in the House on September 16
 
 ============================================================
 
@@ -298,7 +330,53 @@ Banking infrastructure firm Falcon has launched MerlinFX, a suite of seven AI ag
 
 SOURCE 5: The Hindu - Business (headlines + summary)
 
-[No items published today — feed had entries, none dated today]
+[India] Semicon India 2026: India’s semiconductor ecosystem expanding, opening new opportunities, says Modi
+  17 Sep 2026 | https://www.thehindu.com/news/national/semicon-india-2026-indias-semiconductor-ecosystem-expanding-opening-new-opportunities-says-modi/article71475696.ece
+  Speaking at the inauguration of the SEMICON India 2026, Narendra Modi said that the semiconductor ecosystem is expanding rapidly, opening new opportunities for innovation, investment and growth
+
+[Comment] What India’s growth really means
+  17 Sep 2026 | https://www.thehindu.com/opinion/op-ed/what-indias-growth-really-means/article71473954.ece
+  India should counter energy risks through diversified suppliers, long term contracts, strategic reserves, renewables, domestic exploration and efficiency
+
+[Economy] What lies beyond India’s E20 push
+  17 Sep 2026 | https://www.thehindu.com/business/Economy/what-lies-beyond-indias-e20-push/article71472275.ece
+  The E20 blend’s promised savings were offset by lower mileage, with consumers spending an estimated ₹88,234 cr. extra over the last three years; its benefits for emissions and forex savings are uncertain, as higher fuel consumption can raise emissions while diverting crops to ethanol can affect food security and exports
+
+[India] ED widens scrutiny of possible irregularities in IBC proceedings | Explained
+  17 Sep 2026 | https://www.thehindu.com/news/national/ed-widens-scrutiny-of-possible-irregularities-in-ibc-proceedings-explained/article71475626.ece
+  Enacted in 2016, the Code provides a time-bound framework for resolving insolvency and maximising the value of a distressed company’s assets
+
+[Markets] Stock markets trade marginally higher after U.S. Fed rate hike; NSE IPO in focus
+  17 Sep 2026 | https://www.thehindu.com/business/markets/stock-markets-trade-marginally-higher-after-us-fed-rate-hike-nse-ipo-in-focus/article71475428.ece
+  Foreign fund outflows and muted trend in Asian markets also capped the gains in the domestic equities during initial trading.
+
+[Business] Government slashes export duty on petrol, diesel and jet fuel
+  17 Sep 2026 | https://www.thehindu.com/business/govt-cuts-windfall-tax-on-export-of-petrol-diesel-and-atf/article71474189.ece
+  Excise duty on petrol and diesel for domestic consumption remains unchanged
+
+[Technology] Agentic AI is not a magic wand | Arundhati Bhattacharya, President and CEO at Salesforce, South Asia
+  17 Sep 2026 | https://www.thehindu.com/sci-tech/technology/agentic-ai-is-not-a-magic-wand-says-arundhati-bhattacharya-president-and-ceo-at-salesforce-south-asia/article71475429.ece
+  Arundhati Bhattacharya, President & CEO at Salesforce, South Asia, discussed the factors that leaders need to consider, regardless of whether they are deploying human talent or AI agents in their workplaces
+
+[Economy] Parliament Standing Committee didn’t discuss MDR charges on UPI transactions, says Gaurav Gogoi
+  17 Sep 2026 | https://www.thehindu.com/business/Economy/parliament-standing-committee-didnt-discuss-mdr-charges-on-upi-transactions-says-gaurav-gogoi/article71475383.ece
+  The Congress MP said that government representatives did not provide any ‘specific or satisfactory’ answers on the need for the new UPI charges
+
+[Comment] Mining amendment is unfair to States
+  17 Sep 2026 | https://www.thehindu.com/opinion/op-ed/mining-amendment-is-unfair-to-states/article71473968.ece
+  A State that bears the infrastructural and social consequences of mineral extraction must retain a meaningful stake in the economic value generated from its natural resources
+
+[India] MEA ‘monitoring developments’ of Russia sanctions bill in U.S. Congress
+  17 Sep 2026 | https://www.thehindu.com/news/national/mea-monitoring-developments-of-russia-sanctions-bill-in-us-congress/article71475348.ece
+  The Bill passed by the U.S. House of Representatives authorises the U.S. President to impose tariffs of up to 100% on India and other countries for buying oil and gas from Russia
+
+[Markets] Rupee slips below 96 per dollar level in early trade
+  17 Sep 2026 | https://www.thehindu.com/business/markets/rupee-slips-below-96-per-dollar-level-in-early-trade/article71475324.ece
+  The currency, however, pared losses and traded with a gain of 10 paise following suspected RBI intervention
+
+[Business] SEBI fines stock brokers, related entity ₹28 crore for price manipulation
+  17 Sep 2026 | https://www.thehindu.com/business/sebi-fines-stock-brokers-related-entity-28-crore-for-price-manipulation/article71473867.ece
+  Prrsaar and Chaubara appear to have engaged in repeated cross-segment price manipulation with stock futures and options during the examination period across the top 13 scrip and top 10 days by profit respectively
 
 ============================================================
 
@@ -306,34 +384,35 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Bitcoin]
 
-- Zcash holders overwhelmingly back faster transactions and bitcoin-style halvings
-  16 Sep 2026 | https://www.coindesk.com/tech/2026/09/16/zcash-holders-overwhelmingly-back-faster-transactions-and-bitcoin-style-halvings
-  Holders of privacy token zcash (ZEC) voted overwhelmingly in favor of faster transactions and preserving the network's bitcoin-style halving schedule in a governance vote that drew roughly two-thirds of the ZEC eligible to participate.
+- House committee moves to codify Trump's Strategic Bitcoin Reserve
+  17 Sep 2026 | https://www.theblock.co/news/regulation/2026-09-16-house-committee-moves-bitcoin-reserve-bill-415317
+  The House Financial Services Committee advanced a bill to establish a strategic bitcoin (BTC) reserve, which would codify President Donald Trump's plan to create permanent bitcoin holdings.
 
 - What does a Fed rate hike mean for bitcoin prices?
   16 Sep 2026 | https://finance.yahoo.com/video/what-does-a-fed-rate-hike-mean-for-bitcoin-prices-165457988.html
   Now, people always are asking what does this all mean for Bitcoin?
 
+- Deutsche Bank To Debut Bitcoin Custody For Institutional Clients
+  16 Sep 2026 | https://bitcoinmagazine.com/news/deutsche-bank-to-debut-bitcoin-custody
+  The bank is the latest major lender to work on a bitcoin custody solution.
+
 - It’s no longer a debate: Hold both gold and Bitcoin as global sovereign debt drives demand for alternatives - 3iQ’s Mancuso
   16 Sep 2026 | https://www.kitco.com/news/article/2026-09-16/its-no-longer-debate-hold-both-gold-and-bitcoin-global-sovereign-debt
   (Kitco News) - Persistent fiscal deficits, ballooning sovereign debt and rising geopolitical fragmentation are forcing investors to rethink what constitutes a safe-haven asset, and one digital asset executive says the answer increasingly…
 
-- Bitcoin Fades, Cipher Leads Miners Higher After Fed, Energy News
-  16 Sep 2026 | https://www.investors.com/news/bitcoin-price-cryptocurrency-federal-reserve-interest-rate-cipher-digital-cifr-stock/
-  The digital asset industry diverged starkly Wednesday after the Federal Reserve hiked its key interest rate. Bitcoin and cryptocurrency stocks traded lower amid a disappointing start to the week after the Senate on Tuesday failed to…
-
 [Gold]
-
-- Gold defends key Fibonacci support after Fed's hawkish quarter-point hike
-  17 Sep 2026 | https://www.kitco.com/opinion/2026-09-16/gold-defends-key-fibonacci-support-after-feds-hawkish-quarter-point-hike
-  Following the Federal Reserve's widely anticipated decision to raise the fed funds rate by a quarter point, taking the target range to 3.75%–4.00%, the perceived hawkish tone from the chairman led traders to price in roughly a 50% chance…
-
-- Gold falls more than 1% after Fed hikes interest rates
-  16 Sep 2026 | https://www.cnbc.com/2026/09/16/gold-gains-with-fed-rate-decision-in-spotlight.html
 
 - Current price of gold as of September 16, 2026
   16 Sep 2026 | https://fortune.com/article/current-price-of-gold-09-16-2026/
   At 9:05 a.m. Eastern Time today, gold was valued at $4,346 per ounce. That’s a $55 uptick from the same time yesterday and a $659 gain over the past year.
+
+- Gold price drops to $4,310/oz as Fed votes 12-0 in favor of 25 bps rate hike, with 16 of 18 policymakers seeing another hike in 2026
+  17 Sep 2026 | https://www.kitco.com/news/article/2026-09-16/gold-price-drops-4310oz-fed-votes-12-0-favor-25-bps-rate-hike-16-18
+  (Kitco News) – The Federal Reserve announced on Wednesday that the Federal Open Market Committee (FOMC) voted unanimously in favor of a quarter-point rate hike, as expected by the market consensus, while the latest economic projections…
+
+- Either Gold or the Market 'Wrong' About Fed Rate Forecasts
+  16 Sep 2026 | https://www.bullionvault.com/gold-news/gold-price-news/gold-price-fed-rate-forecast-091620261
+  GOLD PRICES rallied hard on Wednesday, reversing most of this week's previous $100 plunge as crude oil dropped and government bond yields eased back from multi-decade records ahead of the US Federal Reserve's September decision on Dollar…
 
 - Gold price today, Wednesday, September 16, 2026: Gold holds in the $4,300 range, awaiting the Fed's decision
   16 Sep 2026 | https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-september-16-2026-gold-holds-in-the-4300-range-awaiting-the-feds-decision-104038147.html
@@ -349,26 +428,25 @@ SOURCE 6: Watchlist (headlines + summary)
   16 Sep 2026 | https://timesofindia.indiatimes.com/defence/news/hal-set-to-deliver-2-lca-mk-1-trainers-first-batch-of-htt-40-trainers-to-iaf-on-friday-will-hand-over-4-dhruv-ng-copters-to-pawan-hans/articleshow/134296271.cms
   In a big boost for the country’s air force, leading defence PSU Hindustan Aeronautics Limited (HAL) will hand over two light combat aircraft (LCA Mk-1) trainers and first batch of long-pending three HTT-40 basic trainer aircraft to the…
 
-- Defence Stocks To Buy: HAL, BEL, Bharat Dynamics, Solar Industries Among Top Picks By HSBC
-  16 Sep 2026 | https://www.ndtvprofit.com/markets/defence-stocks-to-buy-hal-bel-bharat-dynamics-solar-industries-among-top-picks-by-hsbc-12052419
-
 [Tejas Networks]
+
+- Tejas Networks (NSE:TEJASNET): Why Did It Issue a Special Window Notice for Physical Share Transfer?
+  16 Sep 2026 | https://www.kalkine.co.in/article/announcements/tejas-networks-nsetejasnet-why-did-it-issue-a-special-window-notice-for-physical-share-transfer
 
 [Godigit Insurance]
 
 [Infoedge/Naukri]
 
-- Info Edge schedules analyst and investor meetings for early September
-  16 Sep 2026 | https://scanx.trade/stock-market-news/companies/info-edge-schedules-analyst-investor-meetings-early-september/49798677
-  Info Edge (India) has completed its disinvestment from investee company Skyserve Inc. The transaction involves the repurchase of its entire 5.55% stake by Skyserve for $55.55 .
+- Factrika Raises ₹8.9 Crore Seed Funding Led by Info Edge
+  17 Sep 2026 | https://themachinemaker.com/news/factrika-raises-%E2%82%B98-9-crore-seed-funding-led-by-info-edge/
+
+- Factrika raises ₹8.9 Cr seed funding led by Info Edge
+  17 Sep 2026 | https://entrepreneur.economictimes.indiatimes.com/news/funding/factrika-raises-8-9-cr-seed-funding-led-by-info-edge/134302042
+  on-demand industrial workforce platform , has raised ₹8.9 crore in a seed funding round led by Info Edge.
 
 [Reliance Intelligence]
 
 [Jio Platforms]
-
-- Jio IPO 2026: Expected Timeline, IPO Size, Valuation And Key Details
-  16 Sep 2026 | https://www.moneycontrol.com/mc-buzz/jio-ipo-2026-expected-timeline-ipo-size-valuation-and-key-details-article-14031033.html
-  This has put the Jio IPO date among the most searched details around the issue. But timing is only one part of the picture. The expected IPO size, potential valuation and the milestones that could shape the road to listing are equally…
 
 [Flipkart]
 
@@ -376,12 +454,12 @@ SOURCE 6: Watchlist (headlines + summary)
   16 Sep 2026 | https://businessmodelanalyst.com/flipkart-business-model/
   India’s foreign investment rules bar Walmart’s Flipkart from owning the goods on its own app. So Flipkart earns on everything around the product, and advertising now brings in nearly a third of its marketplace revenue.
 
+- Bengal climbs Flipkart supplier list as kidswear sellers embrace online commerce
+  17 Sep 2026 | https://www.telegraphindia.com/business/flipkart-bengal-sellers-kidswear-tant-sari-makers-expand-online-marketplace-reach-prnt/cid/2180286
+
 - Flipkart-backed super.money appoints former BharatPe CPO Rohan Khara as Chief Product Officer
   16 Sep 2026 | https://indianstartupnews.com/news/flipkart-backed-supermoney-appoints-former-bharatpe-cpo-rohan-khara-as-chief-product-officer-12540847
   Fintech platform super.money has appointed Rohan Khara as its chief product officer, as it expands its business beyond UPI payments into credit and commerce.
-
-- Bengal climbs Flipkart supplier list as kidswear sellers embrace online commerce
-  17 Sep 2026 | https://www.telegraphindia.com/business/flipkart-bengal-sellers-kidswear-tant-sari-makers-expand-online-marketplace-reach-prnt/cid/2180286
 
 - Flipkart Big Billion Days 2026 Starts October 9: Up to 90% Off
   16 Sep 2026 | https://www.analyticsinsight.net/news/flipkart-big-billion-days-2026-starts-october-9-up-to-90-off
@@ -402,14 +480,15 @@ SOURCE 6: Watchlist (headlines + summary)
   16 Sep 2026 | https://openai.com/index/model-misalignment-reporting-framework/
   We are sharing a new framework for tracking, investigating, and disclosing instances of model misalignment at OpenAI, along with six reports on unexpected or concerning model behavior we’ve observed in the last six months.
 
-- Anthropic, OpenAI proposed new 'neutral' AI watchdogs. Why you should worry about the idea
-  16 Sep 2026 | https://www.cnbc.com/2026/09/16/anthropic-open-ai-model-safety-risks.html
+- OpenAI flags concerning new AI behavior and vows to track it more closely
+  17 Sep 2026 | https://apnews.com/article/openai-safety-ai-framework-089e75b95bc935af092da7b79d92706d
+
+- OpenAI reveals cases of ‘concerning’ AI behaviour as it announces new disclosure system
+  17 Sep 2026 | https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents
+  OpenAI has disclosed six more examples of “unexpected or concerning” behaviour by its technology, as it warned the pace of development could not continue at “maximum speed for much longer”.
 
 - The Anonymous Math Geek Who Quit Anthropic—and Became the Face of AI Safety
   17 Sep 2026 | https://www.wsj.com/tech/ai/jacob-coxon-quit-anthropic-ai-safety-3f4e877c
-
-- Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown
-  16 Sep 2026 | https://www.nytimes.com/2026/09/15/technology/mark-zuckerberg-anthropic-ai-safety.html
 
 ============================================================
 
@@ -417,94 +496,89 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [[Top Gainers]]
 
-[Patanjali Foods Ltd (PATANJALI, +7.81%)]
+[Tega Industries Ltd (TEGA, +8.43%)]
 
-- Patanjali Foods: Best Stock in Its Sector? Key Metrics
-  16 Sep 2026 | https://univest.in/blogs/patanjali-foods-best-stock-in-its-sector
-  Patanjali Foods CMP Rs 352 (16 Sep 2026). Market cap Rs 36,822 Cr. ROE 15.37%. P/E 18.70x versus Industry P/E 35.12x.
+- Tega Industries Share Price rises 5.01%: valuation, peers
+  17 Sep 2026 | https://univest.in/blogs/why-tega-industries-ltd-share-price-price-rise-2026-09-17
+  Tega Industries Ltd. (TEGA) share price rose to Rs 1,803.4 today, up 5.01% from the previous close. Market cap was Rs 12,553.46 crore.
 
-- Tata Chemicals, 3M India, Patanjali Foods shares spurt amid spike in volumes; check full list
-  16 Sep 2026 | https://upstox.com/news/market-news/stocks/tata-chemicals-3-m-india-patanjali-foods-shares-spurt-amid-spike-in-volumes-check-full-list/article-200338/
-  Upstox Securities Pvt. Ltd.: SEBI Registration No. INZ000315837 | NSE TM Code: 13942 | BSE TM Code: 6155 | CDSL Reg No.: IN-DP-761-2024 | CIN: U65100DL2021PTC376860 | Compliance Officer: Mr. Kapil Jaikalyani. Tel No.: (022) 24229920. Email…
+[Syrma Sgs Technology Ltd (SYRMA, +8.38%)]
 
-- Baba Ramdev adds to Brijbhushan Singhs troubles, files defamation suit worth Rs 50 crore
-  16 Sep 2026 | https://www.dailyexcelsior.com/baba-ramdev-adds-to-brijbhushan-singhs-troubles-files-defamation-suit-worth-rs-50-crore/amp
-  GONDA, Sep 16: Patanjali Foods Limited has filed a defamation suit against Brijbhushan Sharan Singh, former president of the Wrestling Federation of India and former BJP MP, for his controversial remarks about the company's products.
+- Syrma SGS Technology soars 9%, up 125% in 2026; what's driving EMS stock?
+  17 Sep 2026 | https://www.business-standard.com/markets/news/syrma-sgs-technology-soars-9-up-125-in-2026-what-s-driving-ems-stock-126091700231_1.html
+  Syrma SGS Technology (Syrma) share price soared 9 per cent to ₹1,652.15 on the BSE in Thursday’s intra-day deals on a healthy business outlook. In comparison, the BSE Sensex was up 0.19 per cent at 74,479 at 10:00 AM.
 
-[Pb Fintech Ltd (POLICYBZR, +5.25%)]
+- Syrma SGS, Kaynes Tech, Dixon Shares Rally: Semiconductor Stocks In Focus As SEMICON India Begins
+  17 Sep 2026 | https://www.ndtvprofit.com/markets/syrma-sgs-kaynes-technology-dixon-shares-rally-semiconductor-stocks-in-focus-as-semicon-india-begins-12057804
 
-- PB Fintech To Meet Analysts and Investors On September 24 At 9 AM
-  16 Sep 2026 | https://www.sahi.com/news/pb-fintech-to-meet-analysts-and-investors-on-september-24-at-9-am
-  PB Fintech has officially scheduled physical analyst and investor meetings at the BofA Securities 2026 Asia Pacific Conference in Hong Kong on September 24, 2026. This overseas roadshow is aimed at global institutional players to discuss…
+- SYRMA SGS TECHNOLOGY Share Price Today Up 9%
+  17 Sep 2026 | https://www.equitymaster.com/indian-share-markets/SYRMA-SGS-TECHNOLOGY-Gains-9-BSE-CAPITAL-GOODS-Index-Up-09/10474/?utm_source=indian-share-markets&utm_medium=website&utm_campaign=content&utm_content=article
+  SYRMA SGS TECHNOLOGY Gains 9%; BSE CAPITAL GOODS Index Up 0.9%
 
-- PB Fintech approves ₹5 crore acquisition of remaining stake in MyLoancare
-  16 Sep 2026 | https://scanx.trade/stock-market-news/companies/pb-fintech-approves-5-crore-acquisition-remaining-stake-myloancare/51126266
-  PB Fintech has approved the acquisition of the remaining 20% equity stake in its subsidiary, MyLoancare Ventures Private Limited, for a maximum consideration of ₹5 crore . The move aims to make the non-banking financial company (NBFC) a…
+[The New India Assurance Company Ltd (NIACL, +6.43%)]
 
-- PB Fintech Share Price Today: 2.93% Rise, Valuation View
-  16 Sep 2026 | https://univest.in/blogs/why-pb-fintech-ltd-share-price-price-rise-2026-09-16
-  PB Fintech Ltd. (POLICYBZR) share price rose to Rs 1,794 today, up 2.93% from the previous close. Market cap was Rs 83,098.83 crore.
+- NSE has a Strong Moat, Investors have Option for an Extended Stay
+  17 Sep 2026 | https://www.tradingview.com/news/moodys:645efa2ff3497:0-nse-has-a-strong-moat-investors-have-option-for-an-extended-stay/
+  Transaction Charges Still Do The Heavy Lifting Sachin Kumar ET Intelligence Group: National Stock Exchange of India (NSE), the country's largest stock exchange by total turnover in cash market and equity derivatives, plans to raise up to…
 
-[Vardhman Textiles Ltd (VTL, +4.52%)]
+- NSE IPO kicks off: IFCI, NIACL, SBI, GIC RE, BOB shares gain up to 8%; here's why
+  17 Sep 2026 | https://www.businesstoday.in/markets/stocks/story/nse-ipo-kicks-off-ifci-niacl-sbi-gic-re-bob-shares-gain-up-to-8-heres-why-556033-2026-09-17
+  Shares of selling shareholders participating in the mega NSE IPO jumped in Thursday's trade as the issue opened for public subscription, creating value unlocking opportunity for offer for sale participants.
 
-[Aegis Logistics Ltd (AEGISLOG, +4.36%)]
+- NSE IPO: Every Rs 10 move in shares could swing Radhakishan Damani’s wealth by nearly Rs 40 crore
+  16 Sep 2026 | https://www.indiaipo.in/news/detail/nse-ipo-every-rs-10-move-in-shares-could-swing-radhakishan-damanis-wealth-by-nearly-rs-40-crore
+  V eteran billionaire investor Radhakishan Shivkishan Damani could see the value of his National Stock Exchange (NSE) holding swing by nearly Rs 40 crore for every Rs 10 move in the exchange’s share price after listing.
 
-- 3 Global Trade Stocks Retail Investors Are Watching After The Russia Oil Tariff Threat
-  16 Sep 2026 | https://simplywall.st/stocks/in/energy/nse-aegislog/aegis-logistics-shares/news/3-global-trade-stocks-retail-investors-are-watching-after-th
-  Global commodity traders and oil merchants are suddenly in the spotlight as Washington weighs tariffs of up to 100% on countries buying Russian crude. Policy risk is no longer a headline; it is a trading variable that can reshape routes,…
+[Hbl Engineering Ltd (HBLENGINE, +5.81%)]
 
-- Aegis Vopak Terminals: Best Stock in Its Sector? Key Metrics
-  16 Sep 2026 | https://univest.in/blogs/aegis-vopak-terminals-best-stock-in-its-sector
-  Aegis Vopak Terminals CMP Rs 297 (16 Sep 2026). Market cap Rs 33,400 Cr. ROE 7.24%. P/E 116.84x versus Industry P/E 48.66x.
+[Hdfc Life Insurance Company Ltd (HDFCLIFE, +5.59%)]
 
-[Max Financial Services Ltd (MFSL, +4.33%)]
+- Nifty Top Gainers And Losers as of 3:30PM IST: HDFC Life, SBI Life, TCS
+  16 Sep 2026 | https://hdfcsky.com/news/nifty-top-gainers-and-losers-as-of-3-33-pm-ist-hdfc-life-sbi-life-tcs
+  Mumbai, September 16: HDFC Life Insurance Company Limited, SBI Life Insurance Company Limited and State Bank of India were among the leading gainers in the supplied Nifty market snapshot on September 16, while Tata Consultancy Services…
 
-- Max Financial Services Share Price and valuation update
-  16 Sep 2026 | https://univest.in/blogs/why-max-financial-services-ltd-share-price-price-rise-2026-09-16
-  Max Financial Services Ltd. (MFSL) share price rose to Rs 1,461.15 today, up 2.38% from the previous close. Market cap was Rs 51,025.22 crore.
+- Top gainers and losers, September 16: HDFC LIC, SBI LIC jump 3%, TCS tumbles 3%; check full list
+  16 Sep 2026 | https://upstox.com/news/market-news/stocks/top-gainers-and-losers-september-16-hdfc-lic-sbi-lic-jump-3-tcs-tumbles-3-check-full-list/article-200366/
+  Top gainers and losers: Indian equity benchmark indices, SENSEX and NIFTY50, closed in positive territory, bolstered by buying in fast moving consumer goods (FMCG), banking and realty stocks.
 
 [[Top Losers]]
 
-[Tata Investment Corporation Ltd (TATAINVEST, -5.07%)]
+[Aditya Infotech Ltd (CPPLUS, -3.89%)]
 
-- Tata Group shares under pressure ahead of Sept 17 Tata Trusts meeting; Tata Investment, Tata Chemicals fall up to 7%
-  16 Sep 2026 | https://www.fortuneindia.com/markets/tata-group-shares-under-pressure-ahead-of-sept-17-tata-trusts-meeting-tata-investment-tata-chemicals-fall-up-to-7/159406
-  Shares of Tata Group companies saw broad-based selling pressure on Wednesday, with Tata Investment Corporation and Tata Chemicals leading the decline after their sharp rally in the previous session, amid uncertainty ahead of the Tata…
+[Acme Solar Holdings Ltd (ACMESOLAR, -3.01%)]
 
-- Multibagger Tata Group stock falls most in seven months; here's what analysts say
-  16 Sep 2026 | https://www.businesstoday.in/amp/markets/stocks/story/multibagger-tata-group-stock-falls-most-in-seven-months-heres-what-analysts-say-555878-2026-09-16
-  Multibagger Tata Group stock falls most in seven months; here's what analysts say
+- ACME Solar commissions solar and BESS capacity in Rajasthan, India
+  16 Sep 2026 | https://finance.yahoo.com/energy/articles/acme-solar-commissions-solar-bess-141345971.html
+  Indian independent power producer ACME Solar, via its subsidiary, has commissioned 66.68MW of solar capacity and 300MW-hours (MWh) of battery energy storage system (BESS) capacity in Bikaner, Rajasthan, India.
 
-- Yes Bank rises, Paytm hit 52-week high; Tata Investment, Afcons fall at Nifty 500 market open
-  16 Sep 2026 | https://www.cnbctv18.com/market/stocks/nifty-500-yes-bank-paytm-cemindia-tata-investment-afcons-welspun-upi-mdr-tata-sons-share-price-19991495.htm
-  Yes Bank , One 97 Communications (Paytm) and Cemindia Projects were among the stocks that moved the Nifty 500 higher at market open on Wednesday, September 16, while Tata Investment Corporation , Afcons Infrastructure and Welspun…
+- ACME Solar Incorporates Four Wholly-Owned Subsidiaries For Renewable Energy Projects
+  17 Sep 2026 | https://solarquarter.com/2026/09/17/acme-solar-incorporates-four-wholly-owned-subsidiaries-for-renewable-energy-projects/
 
-[Premier Energies Ltd (PREMIERENE, -4.87%)]
+- ACME Solar commissions 66.68 MW solar and 300 MWh BESS in Rajasthan
+  16 Sep 2026 | https://solarbytes.info/india-bytes/acme-solar-commissions-66-68-mw-solar-and-300-mwh-bess-india-12541375
+  ACME Solar Holdings Limited, an India-based integrated renewable energy company, has commissioned Phase-I of its first hybrid project in Bikaner, Rajasthan. This phase includes 66.68 MW of solar capacity and 53.63 MW/300 MWh of BESS…
 
-- Premier Energies and RCT India plan 12 GWh battery storage facility in Telangana
-  17 Sep 2026 | https://propnewstime.com/latestnewsstories/MzY3NjI=/premier-energies-and-rct-india-plan-12-gwh-battery-storage-facility-in-telangana
+[Pb Fintech Ltd (POLICYBZR, -2.98%)]
 
-- Waaree vs Premier vs Vikram Solar: Which Renewable Energy Equipment Stock Will Deliver Better Returns? TP
-  16 Sep 2026 | https://www.goodreturns.in/news/waaree-vs-premier-vs-vikram-solar-which-renewable-energy-equipment-stock-will-deliver-better-return-1516663.html
-  Waaree vs Premier vs Vikram Solar: Which Renewable Energy Equipment Stock Will Deliver Better Returns? TP
+- PB Fintech Approves 20% Myloancare Acquisition and OKs ₹10 Crore Investment in PB Wheels
+  17 Sep 2026 | https://www.sahi.com/news/pb-fintech-approves-20-myloancare-buyout-oks-10-crore-pb-wheels-1-crore-pbfaa-investment
+  PB Fintech is taking full ownership of Myloancare for up to ₹5 cr, while injecting ₹10 cr into car care platform PB Wheels and ₹1 cr into PB Financial Account Aggregator. Separately, the co-CEO has denied resignation rumors, maintaining…
 
-[Heg Ltd (HEG, -4.57%)]
+- PB Fintech shares fall nearly 6% even as CEO denies reports he will quit
+  17 Sep 2026 | https://www.moneycontrol.com/news/business/markets/pb-fintech-shares-fall-nearly-6-even-as-ceo-denies-reports-he-will-quit-14031881.html
+  Moreover, the stock fell despite global brokerage Bernstein's view that PB Fintech will face only a limited impact due to the government's norms on commission cut
 
-- Singularity Funds acquires 13.04% stake in HEG via scheme of arrangement
-  16 Sep 2026 | https://scanx.trade/stock-market-news/companies/singularity-funds-acquires-13-04-stake-heg-via-scheme-arrangement/51114530
-  Singularity Funds and its persons acting in concert (PACs) have acquired a 13.04% stake in HEG Advanced Materials Limited through a composite scheme of arrangement.
+- New India Assurance, IFCI surge; PB Fintech, Zensar slump at Nifty 500 market open
+  17 Sep 2026 | https://www.cnbctv18.com/market/stocks/nifty-500-new-india-assurance-ifci-syrma-sgs-pb-fintech-zensar-aditya-infotech-market-open-share-price-19992469.htm
+  New India Assurance Company , IFCI and Syrma SGS Technology were among the stocks that moved the Nifty 500 higher at market open on Thursday, September 17, while PB Fintech , Zensar Technologies and Aditya Infotech slipped lower.
 
-- HFCL, Sterlite Tech, HEG, MTAR Technologies locked in 5% lower circuits
-  16 Sep 2026 | https://www.business-standard.com/markets/news/hfcl-sterlite-tech-heg-mtar-technologies-locked-in-5-lower-circuits-126091600287_1.html
-  Shares of HFCL, Sterlite Technologies , HEG and MTAR Technologies were locked in the 5 per cent lower circuit on the BSE in Wednesday’s intra-day deal as no buyers were seen on these counters.
+[Creditaccess Grameen Ltd (CREDITACC, -2.78%)]
 
-[Cartrade Tech Ltd (CARTRADE, -4.37%)]
+- CreditAccess Grameen hosts virtual investor meet on Sep 23
+  17 Sep 2026 | https://scanx.trade/stock-market-news/companies/creditaccess-grameen-hosts-virtual-investor-meet-sep-23/51169591
+  CreditAccess Grameen Limited has successfully raised ₹300 crore through a private placement of senior, secured, non-convertible debentures (NCDs). The issue was fully subscribed and bilaterally placed with Barclays Bank PLC, a qualified…
 
-- CarTrade Tech Share Price Fall: Price and Valuation View
-  16 Sep 2026 | https://univest.in/blogs/why-cartrade-tech-share-price-price-fall-2026-09-16
-  CarTrade Tech (CARTRADE) share price fell to Rs 2,861 today, down 5.13% from the previous close. Market cap was Rs 14,942.8 crore.
+- CreditAccess Grameen CREDITACC Citi Investor Forum Sep 2026
+  17 Sep 2026 | https://www.kalkine.co.in/article/announcements/creditaccess-grameen-nsecreditacc-what-is-the-citi-india-financials-investor-forum-meet-on-23-sep
 
-[Granules India Ltd (GRANULES, -4.24%)]
-
-- Granules India Allots Over 2.49 Crore Equity Shares to Promoter Group Following Warrant Conversion
-  16 Sep 2026 | https://www.equitybulls.com/category.php?id=375278
+[Afcons Infrastructure Ltd (AFCONS, -2.40%)]
