@@ -1,183 +1,124 @@
 DAILY NEWS DIGEST — 2026-09-21
 METRICS
-Nifty PE Ratio | 19.74 | 18 Sep 2026 | https://nifty-pe-ratio.com/
+Nifty PE Ratio | N/A |  | https://nifty-pe-ratio.com/
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-URL: https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/etsa-winner-theranautilus-heads-to-human-trials-jsw-ones-ipo-plans/articleshow/134323776.cms
+URL: https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/ashwini-vaishnaw-on-indias-chip-push-emergents-new-ai-bet/articleshow/134377904.cms
 
-Happy Friday! Theranautilus is set to begin human trials of its nanorobot-based dental tech soon. This and more in today’s ETtech Morning Dispatch.
+Happy Monday! The next set of investments under India’s semiconductor scheme are expected to begin in the next six months, IT minister Ashwini Vaishnaw told us. This and more in today’s ETtech Morning Dispatch.
 
 Also in the letter:
 
-■ Inside Semicon 2026
+■ No daily cap on repeat UPI payments
 
-■ MDR worries new-age brokers
+■ CityMall in talks to raise Rs 400-500 crore
 
-■ Practo’s new CEO
+■ Applied Materials to invest $5 billion in India
 
-ET Startup Awards 2026: Theranautilus’ nanorobots will be ready for human trials by year-end
+ISM 2.0 draws $12 billion in interest; Vaishnaw says AI firms must ensure safety
 
-Bengaluru-based deeptech startup Theranautilus
+Union Minister of Electronics & IT Ashwini Vaishnaw
 
-will begin human trials of its nanorobot-based dental technology in November-December, starting with about 30 patients in the first phase.
+India is expecting the
 
-The startup
+next wave of semiconductor investments to begin within six months, as the government looks to build on nearly $23.5 billion committed under the first two phases of its chip mission, Minister of Electronics & IT Ashwini Vaishnaw told us in an interview.
 
-won the Top Innovator category at The Economic Times Startup Awards 2026 for this work.
+Semiconductor push: ISM 2.0 has attracted around $12 billion of interest across fabs, packaging, materials, equipment, design and R&D, he said. Vaishnaw also underscored that the country’s semiconductor strategy will lean on its design talent while focusing fabs on niche products and building an advanced packaging ecosystem.
 
-Driving the news: The trials will be followed by a 300-patient multicentric trial as the company moves toward commercialisation, cofounder and CEO Peddi Shanmukh Srinivas told ET.
+AI guardrails: The government is consulting AI developers, academia and Big Tech on a techno-legal framework, with companies expected to build safeguards into models themselves.
 
-The human trials will commence after the company secures permission from the Central Drugs Standard Control Organisation (CDSCO). Theranautilus has already conducted trials in mice for its oral-health application.
+The wider concern: Vaishnaw also flagged risks from AI agents and social media, including child safety and algorithm-driven addiction, arguing that online safety needs to be balanced with technology’s benefits.
 
-What the technology does: Theranautilus is developing magnetically controlled nanorobots that can be remotely guided inside the body for targeted drug delivery, diagnostics and treatment. Its first commercial application focuses on dental care, specifically treating tooth sensitivity caused by enamel loss and gum recession.
+ETSA 2026: Emergent shifting focus from AI software to business automation, says CEO Mukund Jha
 
-Commercialisation: "We are very hopeful that maybe within two years, at least for oral health, the solution should become commercial. Oncology will take time, but we can definitely see commercialisation within the next four to five years," he said.
+Mukund Jha, cofounder and CEO, Emergent
 
-Srinivas added that nanorobotics is still an emerging global field, with research groups across countries working to crack the technology. Theranautilus is at a promising stage of development, he said.
+Emergent is
 
-JSW One plans to file Rs 3,000-crore IPO papers
+broadening its AI ambitions beyond software development, with cofounder and CEO Mukund Jha betting that AI agents will eventually automate much of the day-to-day work at small businesses.
 
-Gaurav Sachdeva, CEO, JSW One Platforms
+Bouncing back: Jha won the Comeback Kid prize at The ET Startup Awards 2026 for building a successful AI startup in Emergent after his previous venture, hyperlocal platform Dunzo, unravelled.
 
-JSW One Platforms
+The shift: Emergent is developing agents that can monitor business metrics and handle tasks such as cash-flow analysis, scheduling and social media management, moving from building software to running it.
 
-plans to file draft papers with Sebi for a Rs 3,000-crore IPO in the next two to three weeks. The JSW Group’s business-to-business ecommerce company is expected to raise Rs 1,300-1,500 crore in fresh capital and target a listing in the first quarter of FY28.
+The startup expects agents to become a significantly larger part of its revenue over the next 15-20 months.
 
-IPO details:
+The ambition: Jha sees businesses becoming increasingly autonomous as AI models improve, with agents handling large parts of operations.
 
-JSW Steel and JSW Cement will be major selling shareholders, together selling a stake worth more than Rs 900 crore, per regulatory filings.
+Learnings from the past: Jha's strategy is shaped partly by Dunzo, where he said the company scaled across too many initiatives before figuring out its economics. Emergent is now taking a more measured approach to new products.
 
-Fresh capital is expected to fund technology, customer acquisition, geographic and distribution expansion, private labels and the financing business.
+No daily cap on repeat UPI payments could open MDR loophole
 
-Business snapshot:
+NPCI is
 
-JSW One recorded gross merchandise value of Rs 18,500 crore, revenue of Rs 5,300-5,400 crore and net profit of Rs 90 crore in FY26.
+not planning an additional daily cap on repeated UPI payments to the same merchant, leaving open a potential workaround to the new MDR regime taking effect October 15. Merchants could split a larger bill into multiple payments of Rs 2,000 or less, which remain free.
 
-The business grew around 50% year on year in the June quarter, reporting Ebitda of Rs 22 crore and net profit of around Rs 14 crore.
+The gap: A Rs 6,000 bill could theoretically be split into three Rs 2,000 payments, avoiding the Rs 24 MDR that would apply to a single transaction.
 
-JSW One competes with Infra.Market and OfBusiness in industrial and construction-material commerce, while its procurement, financing, logistics and processing operations overlap with Zetwerk.
+Another loophole: Small merchants eligible for zero MDR could potentially spread collections across bank accounts, QR codes or payment providers to stay below the Rs 1 lakh monthly threshold.
 
-Its working-capital cycle is six days, while 40% of gross merchandise value involves credit. A significant portion of purchases and sales involves JSW group companies.
+The warning: Routing business receipts through personal UPI IDs or deliberately using concessional merchant categories would amount to misclassification and could trigger reclassification by banks or payment providers.
 
-Accel-backed Rentomojo lists on Dalal Street at 19% premium
+The bigger picture: More than 95% of merchant-payment volume will remain free, but transactions above Rs 2,000 account for roughly two-thirds of merchant-payment value, making potential workarounds significant.
 
-Geetansh Bamania, founder and CEO, Rentomojo
+CityMall in talks to raise Rs 400-500 crore led by Jungle Ventures: Sources
 
-Furniture and appliance rental platform Rentomojo
+Angad Kikla, cofounder and CEO, CityMall
 
-made a strong debut on Dalal Street on Thursday, with its shares listing at a nearly 19% premium over the IPO price of Rs 404. The stock closed 31.92% higher at Rs 532.95.
+Gurugram-based CityMall is
 
-IPO demand: The debut follows robust demand for Rentomojo’s Rs 1,256 crore IPO , which was subscribed 72.87 times. The QIB (qualified institutional buyer) portion was subscribed 177.3 times, while the non-institutional investor (NII) and retail portions were subscribed 67.92 and 15.58 times, respectively.
+in talks to raise Rs 400-500 crore at a valuation of around Rs 4,000 crore, while also laying the groundwork for a potential IPO.
 
-Investor returns:
+Deal details: CityMall's existing backer Jungle Ventures is doubling down through the latest round with other new and current investors also planning to invest.
 
-At Thursday’s closing, Accel's stake was worth Rs 712 crore after it sold shares worth Rs 317 crore, taking its overall returns to around 12x.
+Growth engine: Revenue nearly doubled to around Rs 1,000 crore in FY26, while private labels now contribute about a third of grocery NMV, up sharply over two years.
 
-Chiratae Ventures sold shares worth Rs 193 crore in the offer for sale. This takes Chiratae's returns to around 7x.
+IPO watch: The company has started preparing for a public listing over the next six to eight quarters, according to a person aware of the plans.
 
-Also Read: Kuku Technologies receives approval from Sebi for its proposed IPO
-
-India to become world's preferred destination for semiconductors: PM Modi
-
-Prime Minister Narendra Modi addresses the inauguration of Semicon India 2026, in New Delhi on Thursday.
-
-India is
-
-taking every step needed to become a preferred destination for the semiconductor industry at a time when the world is looking for new and trusted manufacturing destinations, prime minister Narendra Modi said while inaugurating Semicon India 2026 on Thursday.
-
-New facilities: The PM also virtually launched Suchi Semicon's Rs 868 crore facility near Surat and CDIL's expansion of its existing facility in Mohali, Punjab.
-
-Quote, unquote: "India is the Mother of Democracy. Just a few years ago, our Constitution completed 75 years. When such a country succeeds in a critical industry, it strengthens the entire world's supply chain. And today, when supply chains are being weaponised, its importance increases even more,” he said.
-
-With great AI velocity comes greater safety risks: AMD CTO
-
-Mark Papermaster, CTO, Advanced Micro Devices
-
-AMD, the $837-billion US chipmaker that has emerged as Nvidia’s most significant challenger in the AI accelerator market,
-
-is advocating for responsible development of AI with clear guardrails.
-
-Mark Papermaster, AMD’s chief technology officer and executive vice president, told us in an interview on the sidelines of Semicon 2026 that the speed at which AI capabilities are arriving makes safety and pacing especially important.
-
-Verbatim: "The difference with AI, when you think about it versus other disruptive new technology is the speed at which these new capabilities are coming on board," he explained. "And so this is driven by the frontier model companies, creating these very highly capable, very large language models, and they have called for potentially slowing down to ensure safety.”
+The backdrop: Investors are showing renewed appetite for value and rural commerce as startups such as Rozana, SuperK and CityKart raise capital and expand deeper into smaller towns and villages.
 
 Other Top Stories By Our Reporters
 
-New-age brokers write to Sebi on UPI MDR: New-age stockbrokers including Groww, Zerodha, Upstox, and Angel One are planning to write to Sebi (Securities and Exchange Board of India), raising concerns about the MDR (merchant discount rate) on UPI transfers to broking accounts, people familiar with the matter told ET.
+Ashok Jhunjhunwala, professor, IIT Madras
 
-Practo appoints Jagnoor Singh as CEO: Digital healthcare platform Practo has appointed Jagnoor Singh as chief executive, while founder Shashank ND has moved into the role of managing director and executive chairman.
+IIT Madras professor Jhunjhunwala calls for startup-friendly PLI: IIT Madras professor Ashok Jhunjhunwala has called for changes to the government’s production-linked incentive scheme, saying smaller companies and startups developing new technologies should also be eligible for incentives.
+
+Applied Materials to invest $5 billion in India for R&D: Applied Materials plans to export products designed and developed in India to every advanced fab in the world, Prabu Raja, president of the company’s Semiconductor Products Group (SPG), told ET.
 
 Global Picks We Are Reading
 
-■ The era of AI warfare has arrived (
+■ Big Tech uses guarantees to keep $300bn AI exposure off balance sheets ( FT )
 
-FT )
+■ South Africa joins the global resistance against American data centers ( Rest of World )
 
-■ Playing both sides of the US-China AI “Cold War” (
-
-Rest of World )
-
-■ Robots are asking for tips. But who actually gets the money? (
-
-BBC )
+■ Not all AI workers think the tech could kill everyone ( BBC )
 
 ============================================================
 
 SOURCE 2: The Hindu - Editorials
 
-### Serious escalation: On the U.S., Russia Sanctions Act and India
-URL: https://www.thehindu.com/opinion/editorial/serious-escalation-on-the-us-russia-sanctions-act-and-india/article71488040.ece
-
-The U.S. Russia Sanctions Act , now signed into law by President Donald Trump , and its resultant impending tariffs, present a new and substantially different escalation of tensions between the U.S. and India. The law provides the U.S. President the authority to levy tariffs of up to 100% on countries such as India that import large quantities of Russian oil and gas. This is more serious than the penal tariffs that Mr. Trump had levied earlier. The escalation last year of reciprocal tariffs to 50% on India’s import of Russian oil was based on an Executive Order, and could be rescinded through the same method. This latest Act has been passed by the U.S. Congress and so carries a higher order of legal permanence and authority. Mr. Trump will have to justify in writing to Congress any waiver he wants to provide. The 50% tariffs hit Indian exports to the U.S. hard, but the impact was somewhat mitigated by exporters sharing the cost with their American customers. That was, however, a financially devastating and unsustainable bid to retain customers. Sharing a 100% tariff will be impossible for India’s largely micro, small and medium enterprises (MSME) exporters. The 100% tariffs are also over and above the 10% ‘forced labour’ tariffs and the 50% Section 232 tariffs on steel and aluminium. Indian exports to the U.S. will simply become too uncompetitive should these new tariffs come to pass. India has three options before it: cut Russian oil imports, retain those imports and bear the tariffs, or convince the U.S. to implement a low tariff using the “up to 100%” phrasing of the law.
-
-Continuing with Russian oil imports and bearing the tariffs would be a significant blow to India’s export ambitions and MSMEs. The U.S. is India’s largest export destination, accounting for about 20% of its total goods exports. In any case, historical data have shown that India has usually complied with U.S. pressure to cut oil imports from particular countries, including from Russia, vocal claims of strategic autonomy aside. Finding other sources will be difficult. Russia accounted for more than 51% of India’s oil imports as of July 2026 , while supplies through the Strait of Hormuz remain constrained. India will have to chivvy countries such as Oman to hasten their expansion of alternative ports. The price of oil remains well above $100 a barrel, meaning finding favourable deals with new suppliers will be increasingly difficult. Union Commerce Minister Piyush Goyal will have much to do during his planned trip to the U.S. at the end of this month for the G-20 Trade Ministerial. There are still 30 days before the U.S. can levy its tariffs. India’s ability to secure a low rate will be a true test of Prime Minister Narendra Modi ’s friendship with Mr. Trump.
-
-Published - September 21, 2026 12:20 am IST
-
-### Antidote to drugs: On the counterfeit medicine racket in Bengaluru, Karnataka
-URL: https://www.thehindu.com/opinion/editorial/antidote-to-drugs-on-the-counterfeit-medicine-racket-in-bengaluru-karnataka/article71480878.ece
-
-With the recent bust of a counterfeit medicine racket in Bengaluru , a public policy issue with broad ramifications for health care in the State has emerged. Centered around Bengaluru, relabelled or fake drugs , including cancer drugs, injections used in the ICU, were supplied to more than 90 hospitals and clinics across the State. The lid was blown off this elaborate scam after incidental raids, near Bidadi in Karnataka on August 18, found suspected fake drugs and expired drugs at a farmhouse which was an unlicensed unit. The consignment had a label value of ₹5 crore. Investigators said that the farmhouse was used in an illicit drug operation — involving the repacking of fake and expired drugs as fresh consignments, with altered expiry dates, and as expensive, imported branded drugs — which were then sold at massive discounts. The State later formed a Special Investigation Team to trace the wider network. While exploring the distribution mechanism, investigators found that the network had been supplying these drugs to over 90 hospitals in the State, in cahoots with a pharmacy in Bengaluru, indicating that a network was thriving well before the bust. A few persons have been arrested and the police are on the tail of another who is not in the country at present. The impunity with which the scamsters were operating is an indication of the unreliable scrutiny of the quality of drugs in the market. The biggest concern, however, is patient safety, given that these are drugs that can save lives and are marked out for time-sensitive usage. Also being examined are possible inter-State links, as investigators have launched a complete review of the supply chain. The illicit channels through which private hospitals bought and used these drugs, including possible complicity in the private hospital network, are under scrutiny.
-
-With alarming regularity, issues to do with poor quality, spurious, fake or expired drugs hit the headlines in India. For a nation that zealously aspires to become the ‘pharmacy of the world’, India struggles to match its ambition with adequate and stringent monitoring and quality control systems. The question of drug quality is particularly significant as fake or spurious drugs can cause immediate adverse reactions, lead to severe disabilities, and even death. Recent incidents of contaminated cough syrups causing deaths, not only in India, but across the world, have further highlighted these woefully inadequate systems and consistently dented the pride of the “Make in India” campaign. Irrespective of whether India becomes the pharmacy of the world, there is a pressing need to make sure that drugs and medical supplies made in the country fulfil the highest quality standards.
-
-Published - September 21, 2026 12:10 am IST
-
-### No hard ceilings: On the revision to EPFO wage ceiling
-URL: https://www.thehindu.com/opinion/editorial/no-hard-ceilings-on-the-revision-to-epfo-wage-ceiling/article71480865.ece
-
-The Union Cabinet’s approval to raise the wage ceiling for mandatory coverage under the Employees’ Provident Fund Organisation (EPFO) from ₹15,000 to ₹25,000 , though belated, is commendable. The BJP-led government has finally responded to this long-standing demand of workers in the organised sector. Around 51 lakh additional employees may be brought under the PF fold, which has around 7.98 crore contributing members. Those in the wage slab of ₹15,000-₹25,000 will now be covered under the Employees’ Pension Scheme (EPS), 2026. Although Union Labour Minister Mansukh Mandaviya cited a government survey as the basis for the increase, the 12-year delay in implementing it should have been avoided. The Minister, who said that the average salary in private establishments was ₹23,000, should also make the survey’s findings public for a better understanding of the country’s overall wage situation. With some concerns having been raised that not every employer may be willing to make the additional contributions required after the revision, the government must ensure that all employers comply with the law.
-
-So far, the government has been silent on revising the EPS minimum pension of ₹1,000, fixed in September 2014 alongside the previous revision in the PF wage ceiling. EPFO pensioners have been demanding the hike in the minimum pension amount. Before it assumed office at the Centre in 2014, the BJP had urged the Congress-led UPA government to keep the minimum pension at ₹3,000 and index it to inflation. Yet, it has not made even a symbolic beginning towards the indexation of pension to inflation. Moreover, about 45% of the nearly 82 lakh pensioners receive ₹1,000 or less. In March 2026, the Joint Parliamentary Standing Committee on Labour reminded the government that “the existing minimum pension amount is inadequate to meet even the basic needs of pensioners particularly in the ... scenario marked by ... rising healthcare and living expenses”. Also, little is known about the follow-up to the panel’s recommendation for “an urgent and comprehensive review of the minimum pension”. The EPFO must release the findings of actuarial assessment, made by valuers in recent years. This should also be beneficial to the PF body, as EPFO CEO Ramesh Krishnamurthi observed in an interview with The Hindu in August that “there is a misconception that the [pension] fund has unlimited resources”, while ruling out the reopening of the window for higher pensions. Even if the government is unwilling to restore the pre-2014 coverage, under which all employees were covered regardless of their wages, it should consider relaxation of the restriction on the coverage. Else, many pensioners will be pushed below the poverty line.
-
-Published - September 19, 2026 12:20 am IST
-
-### Continental glory: On the Asian Games 2026
-URL: https://www.thehindu.com/opinion/editorial/continental-glory-on-the-asian-games-2026/article71480936.ece
-
-Even as Japan, known for efficiency, welcomes its third Asian Games and the first in 32 years, on Saturday, the Aichi-Nagoya Games have already earned the ‘worst ever’ tag because of accommodation and logistical issues. A country that successfully hosted two Olympics — in 1964, within two decades of suffering atomic bombings, and in 2021, behind closed doors amid the unprecedented COVID-19 pandemic — is now strangely struggling to accommodate more than 17,000 athletes and officials from 45 nations in hotels, containers and a cruise ship. Despite these issues, 501 of India’s athletes, including 267 men and 234 women, across 36 disciplines , will try to keep its flag flying high. At the previous Hangzhou Asiad, India had an impressive tally of 106 medals and was placed fourth behind China, Japan and South Korea. There is a significant drop in the number of Indian athletes, from 650-plus in 40 disciplines three years ago, following rationalisation, discouraging a mad rush because of the perks and money associated with the Asiad. Nevertheless, Indian sports authorities expect around 100 medals, which may noticeably improve the athlete-to-medal ratio.
-
-The presence of 310 debutants in the contingent signals a brighter future for the country, which has spent nearly ₹800 crore on Asian Games preparations in the last cycle. Shooting and athletics, which together field 105 athletes, should continue to be the major contributors to India’s medals tally, followed by archery, boxing, badminton, squash and wrestling. Stars including Manu Bhaker, Mirabai Chanu, Lovlina Borgohain, P.V. Sindhu, Aman Sehrawat, Tajinderpal Singh Toor, Gulveer Singh, Harmanpreet Singh, Smriti Mandhana and Jasprit Bumrah will lead India’s campaign. At 39, squash player Joshna Chinappa will be the first Indian to compete in seven consecutive Asian Games. The youngest athlete, 15-year-old cricketer Vaibhav Sooryavanshi, and the oldest, 55-year-old rider Shruti Vora, are the other attractions. Some attention will also be devoted to Indian men’s and women’s hockey teams, which will aim to win gold medals and secure berths at the 2028 Los Angeles Olympics. While India can take pride in fielding athletes in debut-making disciplines, such as mixed martial arts and teqball, it should ponder over its poor representation in swimming, gymnastics and cycling, which offer more medals and open avenues for Olympic glory. Meanwhile, the Indian men and women’s teams would be watched closely in cricket. In pushing for continental excellence, India should also remain vigilant about its deteriorating global reputation due to the sharply rising doping graph.
-
-Published - September 19, 2026 12:10 am IST
-
-### New fault lines: On Manipur’s Kuki-Zo–Naga conflict
-URL: https://www.thehindu.com/opinion/editorial/new-fault-lines-on-manipurs-kuki-zonaga-conflict/article71476964.ece
-
-In the three years since the conflagration of May 2023 hardened into a fault line between the Meitei and Kuki-Zo communities, Manipur has traversed a slow path towards peace between them. After nearly a year of President’s Rule gave way in February 2026 to a Bharatiya Janata Party-led government under a new Chief Minister, Yumnam Khemchand Singh , attempts to engineer a thaw gathered pace with the everyday violence between the communities abating. Yet, many of those displaced in 2023 remain in relief camps; an RTI reply puts those dead in these camps at over 700, many due to the lack of access to basic health care and adequate nutrition. Even so, there have been tentative and encouraging openings towards rebuilding normalcy. On September 2, two Kuki-Zo MLAs attended the Assembly session — the first time since legislators from the community began boycotting it following the attacks in Imphal at the start of the ethnic conflict. In doing so they defied a directive from the Kuki-Zo civil society organisation, the Kuki Inpi Manipur, to continue the boycott until there was a concession on the demand for a separate administration. The two MLAs seem to acknowledge that it is time to reopen the political space even if differences persist, and for this, their presence in the Assembly must be welcomed.
-
-Yet, these moves have coincided with a new ethnic fault line in Manipur. Since February, violence between the Naga and Kuki-Zo communities — which began as localised disputes — has spread across the hill districts. Till July, at least 15 Kuki-Zo people, 11 Nagas, three security personnel and a truck driver were killed; more have died in the last two months. Houses in Naga and Kuki-Zo villages have been burnt down and the newly displaced have moved into camps. Blockades imposed by partisans of the communities against the other have held up essentials and medicines, with the smaller Kuki-Zo community the worse affected. Health centres in the hills have been left dysfunctional. This echoes the Naga-Kuki violence of the 1990s, now revived by armed groups claiming to act on behalf of their respective communities and resurrecting arguments over who controls the hills and whose customary laws prevail there. With its tenure ending soon and Assembly elections due next year, the State government must move quickly to contain this outbreak of hostilities. It must work with civil society to lower the rhetoric — reportage from the ground suggests a weariness with the violence across communities – while acting against the armed groups with the help of the security forces. Those imposing blockades must be deterred by the force of law. Criminal law must apply equally across communities in the hills, and the safety and welfare of civilians must be guaranteed irrespective of ethnicity.
-
-Published - September 18, 2026 12:10 am IST
+[No editorials published today — feed had entries, none dated today]
 
 ============================================================
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
+- New party emerges as a frontrunner as Israel goes to polls amid Netanyahu’s waning appeal
+  21 Sep 2026 | https://www.thehindu.com/news/international/new-party-emerges-as-a-frontrunner-as-israel-goes-to-polls-amid-netanyahus-waning-appeal/article71488057.ece
+  Yashar leads in opinion polls as its leader Gadi Eisenkot’s popularity among voters eclipses that of Netanyahu; Eisenkot bats for strategic wars over endless ones and concurs with the PM on matter such as two-state solution and Iran
+
+- Netanyahu plans ‘broad national govt.’ after Israel vote
+  21 Sep 2026 | https://www.thehindu.com/news/international/netanyahu-plans-broad-national-govt-after-israel-vote-lebanon-agreement/article71155614.ece
+  He also hailed the U.S.-brokered agreement with Lebanon, calling it a historic achievement that dealt a blow to arch-foes Iran and Hezbollah
+
 - Trump administration prepares sanctions against International Criminal Court, sources say
   21 Sep 2026 | https://www.thehindu.com/news/international/trump-administration-prepares-sanctions-against-international-criminal-court-sources-say/article71489890.ece
   Targeting the entire organisation directly could ​severely undermine the court's work; ICC officials warn courtwide sanctions could disrupt IT, insurance, investigators and ‌payments to U.S. employees
+
+- U.S. sanctions on International Criminal Court officials | Explained
+  21 Sep 2026 | https://www.thehindu.com/news/international/us-sanctions-on-international-criminal-court-officials-explained/article71367867.ece
+  U.S. Secretary of State Marco Rubio, announcing the sanctions, said that the ICC has made multiple attempts to assert authority over U.S. nationals and citizens of countries outside the court’s jurisdiction
 
 - Russia reports mass cyberattacks targeting elections
   21 Sep 2026 | https://www.thehindu.com/news/international/russia-reports-mass-cyberattacks-targeting-elections/article71488329.ece
@@ -306,11 +247,11 @@ SOURCE 6: Watchlist (headlines + summary)
 - Saylor Shock: Calacanis Bitcoin Obituary Lands With BTC At $80,000
   21 Sep 2026 | https://news.google.com/rss/articles/CBMitwFBVV95cUxOY3ZIWHVHWllKZ3RNRVB1RXQwdlVEaXdGQ2cxc0xsdFUtX1VSb2RzcFhXeHhNMURNLWROYm9FWHRCTk1nbjVHeWp0eVBaNi1MM0VmQ3ZpaTVUdWhYdFpnTy1fUkp6YUtyNnA4ZzYzckdEMTNkSExMQmRRdHpaWXRnbl90VlR0Q1hCN0VPS1lDcnloOXBYeHVzSlZuM2toM3hPX19jSTYzTF9XMDJBMTEzUExFZ0kyUzQ?oc=5
 
+- Peter Brandt Sees Possible 10X, 20X Altcoin Gains — So Why Is He Sticking With Bitcoin?
+  20 Sep 2026 | https://news.google.com/rss/articles/CBMimwFBVV95cUxNdWpnR0hkcE1RY1hQMHY5T1JlTHQ3UDBGVDBoTWVwZ1ZmTGFjOEpNT0M0WS1STzVNMW1tS0NvSUYwLWZJbmo3UDV2d2JhOTFuWFYweVdRT2lYV21KdmYxaXdLcVFGbUd3dVhvWGFrOGkyMDR6cHR2bzdpelp3eW1rVmQ5Umc0SXRCTUduV1J3MWp5OHk4QmhhSS1xWQ?oc=5
+
 - Move Over Housing – Bitcoin is Gen Z’s New Wealth Building Asset
   20 Sep 2026 | https://news.google.com/rss/articles/CBMinAFBVV95cUxPNHZRUE9ILUJZbTNRVWJwR1FLZG1zOWp1RmtHQVp0ZnBwSmtVM1hZN3k0OS1pVXI2TVNyU3FwNW04MXp4SmZPYzg2WGtHWkhBMzd0TnBzZ1p5Vk1RSUxrQ1psV3NLQUVFa3BHSkd2Q2d1UVJzSjgwakRQMGUxZ1M5clhyal9LQzcxOXlIWXpSTTVPM0N1ZzVETXpMRTY?oc=5
-
-- BlackRock's US Equity ETF Head Says Bitcoin's Diversifier Role 'Still Very Much Holds' As AI's Best Bets Move 'Outside Of Tech'
-  20 Sep 2026 | https://news.google.com/rss/articles/CBMikgJBVV95cUxNZ1JhVzE2VDRtRlhDMjJUbzkzbVVna1ZMVHR3eVRVakNyWGVma2ZGN3FhQXNiZ0UtemZzTDZ3eloyZl9ERlNRclUtRXo2eXpjQkdBcWpxbTVaZGRRNjlSZ3FzdzBzTUE4bTJJaXlmaDdmSi1Kb3d3YVZHWE1fN2RPeEhRdG1fMkZoMElzVzhJajhqMko3bU50X0NlWFZkdTI3akJoLTRaZXVlOWY2SVU1cGtZaGhIVHgtWC0zTU1qV2ZkUVpiM3pjaHFZakY3SzM2SnM4WDRJWXVHMFJBVEkxdkJsUWhOeWY4NmREeFlJdUtKSExQdG9NN0VwQzZ1Y2I4ZExycnpoQ0drV0xIODM5MHNB?oc=5
 
 [Gold]
 
@@ -362,11 +303,11 @@ SOURCE 6: Watchlist (headlines + summary)
 - The Company Trump Can’t Ignore
   20 Sep 2026 | https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMkFEMFZieUNpR3V6SkxTM0dSMDctZC1Ockl4Qms4bDY0X0xFc2dCSHUxREExWlZ4RjFpQTk2dVNBRW9vVnNvX2VDTnpsNnVrME5nWkJBcFVzWjZtME5Gc01HYnVKSnlpX1laRjVscjJhMXlKM0xkRXZYRF9rMlpzS05jMVl5cDgwRDlN?oc=5
 
-- Anthropic Mulls New AI Model Amid Investors’ Pre-IPO Worries
+- Anthropic Mulls New AI Model Despite Investors’ Pre-IPO Worries
   20 Sep 2026 | https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNWp5cTZXc0VwMGkzZWNRM29aQ09xbG0ta1BvaEVxT3AxLW1PdHZzMEV4MEZBemgyVFNjVEpEMHUtUTg3TVZwcElQNkJtUDhybzNTdFh2Sk5iTjM1a3pUUkNyTVBBbDl2dTR5U2t0MTJxN3NWbzZaX0p4UzB1RTJiRklSeno3WUtRdk5IUWxMZ1hQb05RUjJ5cVFhVFE5Y0IxOVdfTEdkemhMRVRpMnp1LUJPQVJaWFNk?oc=5
 
-- OpenAI’s Cash Burn Could Approach $280 Billion by 2030
-  20 Sep 2026 | https://news.google.com/rss/articles/CBMirwFBVV95cUxNQzVyRTlFV0dtTFY5YV90UXpGVzBHVDUzRDNublNaSlludm43QlE3czllNFBVTE1mQUpSVHEydk5rU0M3OUpYWUtkOWhFaVFBbzRxaHBQTnB5Zm1fUzdGbVlfekRsbWJwbm85SnJqV09GdVozTzdFQ3RVNGEtbEtTSndtZTRfZHV6SXpPWHVfS0ZPbXl0cy1LUnU1NlRqUzNkcmI0bmlReS1od18yWUFn?oc=5
+- SoftBank Seeks Over $11 Billion in Junk Bonds for OpenAI Bet
+  21 Sep 2026 | https://news.google.com/rss/articles/CBMitAFBVV95cUxPU0o1UjZOa1FQMEhiUEdRVFh0Um1SYnh6TWl3Z2FJSUFUZ3ltX2d1UzE4TzBXb2VYU3NfelRXWjUtbmxxRVlLRkRLUkpQZm5XR0FQMEJIaVNHaXMxMVZ0Y0F5NDgtODFCbGFIRnlSU2FRcTNDTHFpS0xsRnFQT3I1UkdCcWFTaUhreHZJejk4cnRGcERTOThEOGt4MkkxOFpKdTlaYjJkbXJfYXFFeWZlVHR4WEs?oc=5
 
 ============================================================
 
@@ -383,11 +324,11 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 - News by CNBC TV18 on TradingView, 2026-09-20 — cnbctv:805c52329094b:0
   20 Sep 2026 | https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0tTXJlamtOaFlGWUVoRmdRR2F6NWV4cWxHOFF1S0dQUlREaGFhM3Y3d2FzVDY1V2JxMkpfSUpRWXJMODU2RjZhOHdVNldHYllTQzR5QmlYTHd5Q1RiS2dKYTB6TXJTTkk?oc=5
 
+- Stocks to watch: Tata Group, OMCs, Welspun Corp, Mazagon Dock, Apollo Pipes
+  21 Sep 2026 | https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcUR5eGR1V013enBlMFRlcm5kamN5Ml9ack5OajJTREoySEhwNVg3R1h0cktIV1d4UVpVQnp6eHNjb2czR1NPTVgzSXByVGJSNXM2dUI4dEdrMWp5eGYteDNya3lDR1g2Y3U3cDNRMHFqaGlzRVcwd0JPb29NbFJ3ZnZTZ0x0dkFTcmoyQjVqUjZRQ1FXOFl4d1BiU2hVY2llTzlrZHF4dW9YQkkwMTFsQm5tVW5wVnduYTVacWFpS1gxZGFSZi00UDRXc0RlWkE4Uk040gHYAUFVX3lxTE5kVU5qMW56cUZjYlJpSzNIV01GUThiNFVxcUdpOGZzaWxRV2t6a0E1QS1tYXI0ZnlqUFh5LWZVSGZhRS1fTlAxMEp3UjJtelhWdWQzWnQ5S0U3Q3g1S3VQVFo5aUd0Zjh1M0ZjQlJ4WHl3ZFZSYmNmRkZBUE15Znk3OTB0SGlJQkFiSlRIUnZ3SjFXeHhubTZ6RmhCQ2JFSWJBZHNmYVBMd1R0SFduOHRaaDNtTUxRcWwzVVNwbll2RXA1WmItWk9ZYzlCTjB2ZlBhd1JoYWlrNw?oc=5
+
 - Welspun Corp's Associate EPIC Wins Major SAR 771 Million Steel Pipe Order from Saudi Aramco
   20 Sep 2026 | https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhNGlwXy12RS1Mbzg0Uk5WT0N2QUVrMzZXSDl2cEZRUFRLNFRnczFDZHlxRHp1c2FQekVQbEZLNzg4VV9MX09ON3U4SnNURWd6a1dXSEtFOUkyXzV4Q19J?oc=5
-
-- Welspun Corp wins Rs 2000 crore work order from Saudi Aramco for steel pipes
-  20 Sep 2026 | https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNW9jN2RCV3pDQXdqNEQzaFlWcVJfNk5IaVlBSU5RRHJ2bmlHOEQ5Wld3cUJ5blFMNjZOYzNxMEJBbkYxaGIyb1VSZWxtNUc1Wno5YjA5QS1oT05ienVIMWR0MFM1V0pTS2FWa2NlczI5N3UzdTlCdGtzcHRIb2tORlRMeUxrVWYybzVUOGNGN2NWc185T3pxQllHTDVYSHV1azhRMXF6RlJxcU5UdlU5ckQyd0MzeUxMMEJZUmw2bHB1QQ?oc=5
 
 [The Bombay Burmah Trading Corporation Ltd (BBTC, +8.05%)]
 
@@ -400,9 +341,15 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [Tata Chemicals Ltd (TATACHEM, -11.04%)]
 
+- Why Tata Chemicals investors shouldn't fixate on the Tata Sons stake alone
+  21 Sep 2026 | https://news.google.com/rss/articles/CBMiygFBVV95cUxPWlUxdWhvYzJWM0lWMXdrOENYa3ZSbEFOZDdueXVSVC1sUnEySG5qUm8ya1pPXzVsYmpCb1FZOU5lOE42OG94U1lBeEhoNmQ0bmw0YkdxUkU2Mmx6SzRYcU9CS0FRVHBtaWpPR2l4TF9KMFliRkN3VGNhcF9HNHJOTnA3VTdKeGJXZWxxQ1NEYm1kMFdZYWVvWXRZLVdxYjhKZUI2d3g2QXBOLVdHSWxUR1JGckdfMFpEdXZyeHMweDRIUUxOdmplUHJn0gHPAUFVX3lxTFBKa191UnJnNHVzVXdSS3A4Y2tFN2lCd2phWXB1c3VPZEhzYjlTaU1GWjluYzVSTmVCN195Q0Q3eGh4bHFZM3E4cy1EdzZLV0tlcHhHUzlIdmJna0p3Rl9EM0pwTzB3eDFYRmE3OUJkOGtkNGZUOUtiakJpeWFGNTloX1dCc3locXlXNUxmeGlHVnlWTXMxNjVCbWVaQm04SlJEbi1scFdlTlVDS2dfZFlRSzJCVjBCaU56TGhtdm1UcGRFNUp3dGh5dzRfblRTNA?oc=5
+
 [Go Digit General Insurance Ltd (GODIGIT, -6.46%)]
 
 [Kpit Technologies Ltd (KPITTECH, -4.88%)]
+
+- KPIT Technologies promoters confirm no encumbrance on shares for FY26
+  20 Sep 2026 | https://news.google.com/rss/articles/CBMixAFBVV95cUxPQ2c5QTFSMEN4Vkg1Z2x6eXFqdC1NVVpWcjBFeEN0ZlBNLVUtQnRfVVRkWXBVdjZITWJSdTNWaEhCX0poY2U2cVVSZEVXTWpmVnF3UGltd1BhUWtiVk1sLTM0XzB0QmZUMmxpam41MWJkV0c3cDIwU1R2VGdteWMtbDhxRU1US09fY1UyMjduWWo3dmFJdFNJb0t0NEcxNHZWLTRlWGs3d3hxV2hGS1ZrcUVJUkszbVotc19mVTM2ZzdLdlBE?oc=5
 
 [Tata Technologies Ltd (TATATECH, -4.78%)]
 
