@@ -4,12 +4,122 @@ Nifty PE Ratio | 19.79 | 21 Sep 2026 | https://nifty-pe-ratio.com/
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+URL: https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/inside-furlencos-ipo-moneyview-investors-make-bank/articleshow/134400163.cms
+
+Happy Tuesday! Furlenco is heading to Dalal Street for a potential Rs 1,200 crore IPO. This and more in today’s ETtech Morning Dispatch.
+
+Also in the letter:
+
+■ Microsoft’s new India hub
+
+■ Ashwini Vaishnaw on AI safety
+
+■ Indian diaspora founders catch unicorns
+
+Furniture rental company Furlenco gears up for Rs 1,200-crore IPO
+
+Ajith Mohan Karimpana, founder, Furlenco
+
+Subscription-based furniture company Furlenco, backed by the makers of Kurlon and Sleepwell mattresses,
+
+is planning a potential Rs 1,000-1,200 crore initial public offering (IPO), sources said.
+
+IPO details:
+
+Furlenco is seeking a valuation of around Rs 7,000 crore, sources cited above said. The final valuation will be decided closer to the IPO depending on market conditions and the response during investor roadshows, they added.
+
+The IPO is expected to be launched in the next fiscal year.
+
+The Bengaluru-based company is expected to soon finalise ICICI Securities as an advisor.
+
+Financials: Founded in 2012, Furlenco reported Rs 370 crore in revenue from operations in FY26, up 62% year-on-year. Its net profit jumped 19-fold to Rs 59.5 crore during the year, while Ebitda (Earnings Before Interest, Taxes, Depreciation, and Amortization) nearly doubled to Rs 129.5 crore, translating into an Ebitda margin of 35%.
+
+Snapdeal parent AceVector files red herring prospectus; cuts IPO size
+
+Rohit Bansal (left) and Kunal Bahl, cofounders of Snapdeal and Unicommerce parent AceVector Group
+
+Snapdeal and Unicommerce parent AceVector
+
+has slashed its IPO size , according to its red herring prospectus filed on Monday.
+
+Details:
+
+The size of its offer-for-sale component is also being reduced by 35%.
+
+Investors including SoftBank, Nexus Venture Partners, Foxconn and others will trim their stake.
+
+Founders Kunal Bahl and Rohit Bansal, who together hold around a 34% stake directly and through other related entities, are not selling any stake.
+
+AceVector now plans to raise Rs 287 crore in fresh capital against Rs 300 crore earlier.
+
+The price band is expected to be announced on September 22.
+
+Financials: During fiscal 2026, AceVector's operating revenue grew 30% to Rs 510 crore, even as it cut down its net loss to a third at Rs 45 crore against Rs 126 crore in FY25.
+
+Moneyview eyes $600 million IPO valuation, 20% below its last private market peg
+
+Sanjay Aggarwal and Puneet Agarwal, cofounders, Moneyview
+
+Digital lending platform Moneyview is
+
+seeking a valuation of Rs 5,985 crore ($600 million) at the upper end of the price band for its IPO (initial public offering), which is about 20% lower than the roughly Rs 7,500-crore valuation at which it last raised primary capital in December 2022.
+
+IPO details: The company has set a price band of Rs 32-34 per share for the IPO, which will open for subscription on September 24 and close on September 28.
+
+The deal: Existing shareholders, including Accel, Tiger Global, and Ribbit Capital, along with promoters Puneet Agarwal and Sanjay Aggarwal, are selling shares in the OFS component of the IPO.
+
+Investor gains: Venture capital firms Accel, Ribbit Capital, and Tiger Global are sitting on multi-fold returns on their investments in digital lender Moneyview at the upper end of its IPO price band, despite the public issue valuation being below its last primary funding round.
+
+Microsoft in ‘action cycle’ on data centres, says India president Puneet Chandok
+
+Puneet Chandok, President, Microsoft India and South Asia
+
+Microsoft
+
+is continuously scouting for new data centre regions in India and other markets as demand for cloud and AI infrastructure grows, said Puneet Chandok, the company’s president for India and South Asia.
+
+Verbatim: “We’re always looking at it because, as you can imagine, these regions take a lot of time to build,” Chandok told us. “The reason we’re first out of the gates, the reason we’re not in an intent cycle but in an action cycle, unlike the industry today where people are announcing everything, is we started a long time ago,” he said.
+
+New launch: On Monday, Microsoft announced its fourth cloud region in Hyderabad, positioned as a strategic hub for Asia and the Global South. Its other Indian cloud regions are in Pune, Chennai and Mumbai.
+
+Chandok said India currently has about 2 GW of data centre capacity but will need 10-14 GW in the coming years. Globally, Microsoft is expanding from around 12 GW today to more than 38 GW by 2032, with India expected to remain a “meaningful part” of that growth, he said.
+
+On AI safety: On AI safety, Chandok reiterated Microsoft’s stance that “AI has to be built in the service of humanity” and that AI systems and agents must remain under human control.
+
+Other Top Stories By Our Reporters
+
+Ashwini Vaishnaw, Union minister for IT
+
+Ashwini Vaishnaw on AI safety: Union minister Ashwini Vaishnaw said that regulating AI will take both law and technical safeguards, and that companies building the technology must take the lead on safety.
+
+Indian diaspora founders’ unicorn value: Founders who grew up in India have built or cofounded 205 current and former unicorns overseas, with about $560 billion of the companies’ value attributed to them, according to a report by Prosus and Dealroom.
+
+Global Picks We Are Reading
+
+■ It’s Donald Trump versus MAGA on data centers (
+
+Wired )
+
+■ Lex in depth: Anthropic at $2 trillion isn’t far-fetched (
+
+FT )
+
+■ Nvidia’s free AI model could push the UAE closer to the US (
+
+Rest of World )
 
 ============================================================
 
 SOURCE 2: The Hindu - Editorials
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Presumed ineligible: On the Election Commission of India’s SIR process
+22 Sep 2026 | https://www.thehindu.com/opinion/editorial/presumed-ineligible-on-the-election-commission-of-indias-sir-process/article71491681.ece
+
+Not one eligible elector should be left out of the electoral rolls. This statement appears in nearly every document released by the Election Commission of India (ECI) as part of the ongoing SIR process , and the Supreme Court of India, which is hearing petitions challenging the SIR, has also used this refrain. Yet, according to an ECI counter-affidavit filed in the Court, by early September 2026, out of more than 38 lakh appeals submitted to SIR appellate tribunals in West Bengal, just over 1,22,000 appeals were disposed of (a disposal rate of just 3.2%) and 1,13,943 electors were added back to the rolls (an inclusion rate of nearly 93%). This suggests that the claims/corrections phase in the West Bengal SIR — during which judicial officers deployed for verification deemed 27 lakh of the 60 lakh electors flagged for “logical discrepancies” to be ineligible — was deeply flawed. More than 22 lakh of those found ineligible have since appealed, and ECI data show that more than nine in 10 cases decided by the tribunals have ended with the electors back on the rolls. If these “inclusion” and “disposal” rates hold, the majority of the 27 lakh electors should not have been ineligible in the first place and are now struggling to get back on the rolls — an indication that massive disenfranchisement preceded the West Bengal Assembly polls. With municipal elections in the State approaching, the ECI must speed up the appellate process and restore eligible electors to the rolls.
+
+In Phase 3 of the SIR, The Hindu ’s analysis found that in 24 out of Delhi’s 70 constituencies, the draft roll now records fewer electors than those who voted in the February 2025 Assembly election. Such large-scale deletion cannot hold unless there was a major migration process in the capital region or large numbers of voters were never ordinarily resident in Delhi. A more plausible answer is that the enumeration itself has struck off actual voters. The process puts the onus of proving eligibility on the elector, and the ECI’s dropping of enumeration forms at homes has not translated into full enumeration. Requiring electors to link themselves to rolls drawn in the early 2000s then manufactures “discrepancies” even when documents are valid. In Delhi, this “mapping” has put 13.79 lakh electors under notice with a further 19.33 lakh flagged for “logical discrepancies” on undefined grounds. While hearing the Bihar SIR petitions, the Court had intervened sharply to stop eligible voters from being struck off. Its permissiveness in the year since, towards an insouciant ECI has allowed disenfranchisement on a scale that will remain a black mark on the jurisprudence of universal adult franchise in India. As the Court hears petitions on Delhi and West Bengal, it must compel the ECI to reverse course.
+
+Published - September 22, 2026 12:20 am IST
 
 ============================================================
 
@@ -83,7 +193,30 @@ No new Weekly Funding Report since the last check. Most recent report: https://e
 ============================================================
 
 SOURCE 5: The Hindu - Business (headlines + summary)
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+[Technology] Microsoft Xbox plans to cut hundreds of jobs
+  22 Sep 2026 | https://www.thehindu.com/sci-tech/technology/microsoft-xbox-plans-to-cut-hundreds-of-jobs/article71494286.ece
+  Xbox CEO Asha Sharma is pushing for the company to return to growth by the end of the 2027 financial year
+
+[Industry] New ICAI guidelines address sustainability assurance, greenwashing | Analysis
+  22 Sep 2026 | https://www.thehindu.com/business/Industry/new-icai-guidelines-address-sustainability-assurance-greenwashing-analysis/article71494294.ece
+  ICAI’s SSA 5000 shifts the focus of sustainability reporting from broad claims to evidence-based disclosures
+
+[Markets] Stock markets rise in early trade amid rally in global peers, easing crude oil prices
+  22 Sep 2026 | https://www.thehindu.com/business/markets/stock-markets-rise-in-early-trade-amid-rally-in-global-peers-easing-crude-oil-prices/article71494252.ece
+  Later, the BSE benchmark quoted 115.62 points higher at 74,974.61, and the Nifty was up 40.50 points to 23,455.60.
+
+[Markets] Rupee rises 13 paise to 95.65 against U.S. dollar in early trade
+  22 Sep 2026 | https://www.thehindu.com/business/markets/rupee-rises-13-paise-to-9565-against-us-dollar-in-early-trade/article71494232.ece
+  Forex traders said the rupee opened positive this morning with Brent crude retreating from elevated levels on easing immediate supply concerns
+
+[Business] In insurance, the written word means everything
+  22 Sep 2026 | https://www.thehindu.com/business/in-insurance-the-written-word-means-everything/article71488062.ece
+  When you take an insurance policy, don’t go by the “leave the paperwork to us” pitch. It’s your money and your family’s financial well-being. Give the paperwork the diligence it deserves
+
+[India] GST rate cuts have been offset by ‘galloping’ inflation: Congress
+  22 Sep 2026 | https://www.thehindu.com/news/national/gst-rate-cuts-have-been-offset-by-galloping-inflation-congress/article71492303.ece
+  The prices of several consumer goods had returned to nearly their pre-GST cut levels without any significant increase in consumption, the Congress spokesman claimed
 
 ============================================================
 
@@ -94,11 +227,11 @@ SOURCE 6: Watchlist (headlines + summary)
 - Bitcoin hits highest level since January at $86,000, as the market debates whether the 'crypto winter' is over
   21 Sep 2026 | https://news.google.com/rss/articles/CBMicEFVX3lxTFB1ZmdGWG5ublkyVnNGaHplY002MVBfV1g0a1Fpckd0N2lRM0RsSWk4R0R1cjQtVXd5T2dhRERVdFc1MVctWndZWTQ5TTY3dlhwOHNVTXVrNnh4SmkyVjRodWQySmF6Zzd5SkdNdHNSY2bSAXZBVV95cUxNdE0zQ2N1bUlzeERWOEpqWGcxNnRwemNMZWtmemdsRnIwbXpuRnJvdTdON2xnNUF5ZmZoX212SWZORE13Y2pONVd6NnR0S3lYTDJNM2pqN0lLVGhZTDJBeHJVbnQ5XzVkSVlLMHZqdDBzUnlEbGZB?oc=5
 
+- Bitcoin Leads Crypto Back Above $3 Trillion as Risky Bets Grow
+  22 Sep 2026 | https://news.google.com/rss/articles/CBMisgFBVV95cUxNTFVIQnJhNlRJVVNsZnRMR1R2YWhvWERxbkVLQkNudHVPc3pxY1Jvd3JDQXdaNUpsMWlQYzRWUGY3TEdTdXlvcmZFSnlTSUpBOGVzQ2diSVVrOVV4czVDUkF1bWtHU3k5LU1fSlFEQndDdUhySmVHV2FUamxRRG5PREtNM1RIbVRjM3ZweG1pS3loZGlqcTY1Z3MxZUpCQXNUbWF1VE4tWERlQ09DdmlrRDRB?oc=5
+
 - Whitehats move 52 bitcoin from the Coldcard hack to a recovery trust
   22 Sep 2026 | https://news.google.com/rss/articles/CBMisgFBVV95cUxQWFZRYi03eHJmX2FhRjNoOXd1SzdBUmlnNXpGZXVOLWFCaUx5XzBGdElXS21qMVNpY0x1TWxfTXB6Z1J6VGlIVGhjLXFpWU1jTFdDeFZvcnc5MThOSmFXZGxmWmZ3SXpYNzh5c01QQXFDSkwyNHpCSE51LWVOSkV2cUp5NDJ0RUZGNkFlV21aaDBJazBPc0l5UGw2MUVNei1YODVnVTd3LWt6MS0wTTVPZUtn?oc=5
-
-- Elon Musk's X brings bitcoin and stock trading closer to the timeline
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMiswFBVV95cUxNd0hQUFVEczFUenF3dFdJM194LVVMT3ZwV3dkWDRLb1Z0eFVhT1R2TXhhckNBMDM4OGhEb0Y2RDgwdUEtcHpuWnZncnpUaGdXQ29TbDFUaVB6dGczZUg2MTF1M25rRDllWkppcDdHNEtPblExelJPQXlnVDVtNTRfZFo2ZUQzYVZzcm05RUpKZGw0WFdkQ1B1NHBUZnc2dEtsV1RWaF9Jb09ZSm9Wb2hZMlNEcw?oc=5
 
 - Bitcoin prices rip despite the Clarity Act failure
   21 Sep 2026 | https://news.google.com/rss/articles/CBMitAFBVV95cUxQbW1ONC1nbmlJbi1POE0tWElxdER3WW1IM1Rua1NhN21jcnFHdXJYMFE3M1ZzZXF4SzNET2xsWHZjQ3M1a0pvV1puRGRuNzluXzdST3pWZlFfNmZKaGd6X0puSjdSanlqbXl0aG40Q3BEVEl3em5IeEs3eXFKLUswNTJQM3NndjZLNjdpZjRXZDNNb1RucUtiRG80WG12bVpKb2ROVkFrSkV0d0tCaVo4MmFPb1U?oc=5
@@ -128,8 +261,8 @@ SOURCE 6: Watchlist (headlines + summary)
 - Indian Air Force receives HTT-40, completes Tejas FOC trainer acquisition
   21 Sep 2026 | https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV1NWQi1KRVhvYTdlMUI2aEl4MHRDM3EzWnZtNkZaWV9qdG9nRlU2MWhRQlRldHY2dGtfNVc1d1MyZFFpNzl4SDIzRTFvQXdEeVpCZHFiOG1jTkRLc1Qyb1dEbmdWR2g2WkJnZWxjcTNvNHZXMWxmZjloN3lyT2pUeVg3b0c3YldSenFSS1E2WXlqcTFsbU1DOTd6bkxIY25YZ2JfYy1DLXhPc05fRVpiVy1RNWh5Q3VESXhfTVN2Nk12Q0ZtekJoMm44SFZkallrZ1NDcWpZUzdDejladHc?oc=5
 
-- Hindustan Aeronautics Limited to hand over LCA Tejas and HTT 40 trainer Aircrafts to Indian Air Force
-  21 Sep 2026 | https://news.google.com/rss/articles/CBMixgFBVV95cUxOeTMwcUlMRjVnX0YxZGQyNF9QYU5yWXd6dm5yWlhnYnc4dW9VMFI1UXhKZC1xMGJSd2t5WXJmVF9xVF9KUlBFZTRzRDdKSDBTQ0VkRjlxYTFKTFUtR3M3U0hqWFJmZElvS3lXd0hTNlE2UFVlX1JWclhhM3RJd1NvMXZoS1hiTHlQUHlTd0pmcklweHAyR0tBaDlZWkZVYWEwNEVDYzVDUnJSVUkxZ0E4aDFrUklETk5yTmZuTjZEcDJjYk9UWlE?oc=5
+- HAL Readies Utility Helicopter-Marine (UH-M) Prototype for November Maiden Flight to Meet Indian Naval Requirements
+  21 Sep 2026 | https://news.google.com/rss/articles/CBMi4AFBVV95cUxOdDh5Yi1SS0dYX05UR3dYRHJuR2VWMXFSWUo2MU82UDZXVHpwRVAyN0UycFhMbmg4TWJ4QkEySlhqbUM0bDNFSUVSa2JXR0pabGlVbURrNHhzSHVIRjZ2MVdmdTJvVEVqZS1CREZ5U29LOWl5TGRFbUdiRXAwUXBhVXFObk1FOWNQN0M4Z0xfdERiLUVGcmpGcng3NTdoOHVtT3NKRUFfc19KQTlmZGhGWjJRcmZEZ0tleC1ldEZJR1UxYWZiX3hidGw5SlAtSUdETko1N0Vua09aUnpuQmg1OQ?oc=5
 
 [Tejas Networks]
 
@@ -146,9 +279,6 @@ SOURCE 6: Watchlist (headlines + summary)
 [Reliance Intelligence]
 
 [Jio Platforms]
-
-- Jio Platforms IPO enters final lap: ₹37,700 crore issue, November launch in sight; price band still under wraps
-  21 Sep 2026 | https://news.google.com/rss/articles/CBMi8gFBVV95cUxPQUZrTHZrRXQzMXZRc1UtZlZTN1pqTVhYMGQ1RGtuTER1SEUzZFR1WFV5bjhXckxZSTNHNFlDandOU0N5enlQbXVOc25vWlQwSXZOV05kR1dEZ3I0NERDVElwejFWR095cUxSZ1BpVTl4T3ljTDNmeWMyUDJDR0lvSEQ3RVloWERpbjJmeURRWEJmLVNJaFJ3SjVPc1pvS0ZySnZRYnVQcXZWc3VSOXljTF8zMU1XTXI3a2phT1pMQkxfdmdURmd5enRaWGt3U01uaUVRRWNUT0RkTzBxc19Uak1CaDNILTNrWVJDSTBHc3Zpd9IB8gFBVV95cUxPQUZrTHZrRXQzMXZRc1UtZlZTN1pqTVhYMGQ1RGtuTER1SEUzZFR1WFV5bjhXckxZSTNHNFlDandOU0N5enlQbXVOc25vWlQwSXZOV05kR1dEZ3I0NERDVElwejFWR095cUxSZ1BpVTl4T3ljTDNmeWMyUDJDR0lvSEQ3RVloWERpbjJmeURRWEJmLVNJaFJ3SjVPc1pvS0ZySnZRYnVQcXZWc3VSOXljTF8zMU1XTXI3a2phT1pMQkxfdmdURmd5enRaWGt3U01uaUVRRWNUT0RkTzBxc19Uak1CaDNILTNrWVJDSTBHc3Zpdw?oc=5
 
 [Flipkart]
 
@@ -186,7 +316,15 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [[Top Gainers]]
 
-[Meesho Ltd (MEESHO, +10.34%)]
+[Gabriel India Ltd (GABRIEL, +12.38%)]
+
+- Gabriel India To Meet Analysts And Investors On September 24 At 9:30 AM
+  21 Sep 2026 | https://news.google.com/rss/articles/CBMingFBVV95cUxOOWRILURod1BuaUNLcEYySGRRMjZSdDVZa25lbjhkdHMtanA1RG8xcmFfN3VKMHVVWWxCanFiVmZtLUFUNThab3VxTmJTNE96NkJENFI0YVJVM1hUMDBURHd1QnpMcm1GUVQtcVh4NnFVMFVPWmNVTEdGTVBFZ2tQamgwc0lDRnRib0RDa1FCU0JfRmUyUklsREFweWUzQQ?oc=5
+
+- Gabriel India to host analyst meet on September 24 in Mumbai
+  21 Sep 2026 | https://news.google.com/rss/articles/CBMirAFBVV95cUxPWWhOVWVuMDBPUkZCYUE4Skg0MGRwejEwRTVHUVQycjR5ZjJ1ay1LR1FmVG9oZ20yM1h2VmdzbkNNUjRFMmNtcDl6S2hFRjZSbGdtcVFxWU9yOW5vTHo1LUZKSDdVMnlvbi0xczhYZm9qemw3VkNZUzlvUnlvSzFTazY0TWVhNUJrSnNzMDF0S0hSOTZJWGw3T1JGTXNCeGtZTlVlWjhGMG4wa2JF?oc=5
+
+[Meesho Ltd (MEESHO, +9.06%)]
 
 - News by CNBC TV18 on TradingView, 2026-09-22 — cnbctv:110dd13e0094b:0
   22 Sep 2026 | https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5yenlzaWs5alpqSUN0dEtEVWxjWXRNVTliRXY0Z2k3WDR1UDRiS3lrWk14NURmTWx6VnQ3c1JySnh6MzFCTmptSDZkV0tFNlAzR0hxMWJsR1FBZUVwT2U0R0dTZkdpb0E?oc=5
@@ -197,15 +335,7 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 - Meesho Surges 9% After UBS Raises Target Price To ₹260
   22 Sep 2026 | https://news.google.com/rss/articles/CBMijgFBVV95cUxNeXFhS2YtMlFMSjBnTlZOMy1CejlYRnJ5dl9HVUJiYjVZLTRGYmFmenBPWXIzUENZZlltOGtSMS1LSUl6OFI1eXJ6SkJLc3NtWWFTTDhhVTVyUnFaM1NYTGtVUUJ2MUxkbE8yY0NKSXdpNEJUM2oyX1pnUFBRMlVFSjRfZWtDeHZZTC1HWVdB?oc=5
 
-[Gabriel India Ltd (GABRIEL, +8.73%)]
-
-- Gabriel India To Meet Analysts And Investors On September 24 At 9:30 AM
-  21 Sep 2026 | https://news.google.com/rss/articles/CBMingFBVV95cUxOOWRILURod1BuaUNLcEYySGRRMjZSdDVZa25lbjhkdHMtanA1RG8xcmFfN3VKMHVVWWxCanFiVmZtLUFUNThab3VxTmJTNE96NkJENFI0YVJVM1hUMDBURHd1QnpMcm1GUVQtcVh4NnFVMFVPWmNVTEdGTVBFZ2tQamgwc0lDRnRib0RDa1FCU0JfRmUyUklsREFweWUzQQ?oc=5
-
-- Gabriel India to host analyst meet on September 24 in Mumbai
-  21 Sep 2026 | https://news.google.com/rss/articles/CBMirAFBVV95cUxPWWhOVWVuMDBPUkZCYUE4Skg0MGRwejEwRTVHUVQycjR5ZjJ1ay1LR1FmVG9oZ20yM1h2VmdzbkNNUjRFMmNtcDl6S2hFRjZSbGdtcVFxWU9yOW5vTHo1LUZKSDdVMnlvbi0xczhYZm9qemw3VkNZUzlvUnlvSzFTazY0TWVhNUJrSnNzMDF0S0hSOTZJWGw3T1JGTXNCeGtZTlVlWjhGMG4wa2JF?oc=5
-
-[Sun Tv Network Ltd (SUNTV, +6.27%)]
+[Sun Tv Network Ltd (SUNTV, +6.43%)]
 
 - Sun TV Network stock gains 1.3 percent near its yearly low
   22 Sep 2026 | https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdXF6cTJob0JXYndXQ1hORm52RTVjSER6MTMwOTVkWmszNG92ZW9ubnFrRjFmakk2UHFuMXVwMHAwX1V6dWxXUGF2cVdsMVJpUWs2R0dhaFhkM2wtZzlRR015TDZyZG80OHc2dF9fb3JaWWFoajdkVzB0dFoxQTZ0Z0VxNVlvdzIxdlAyNjdNVXVGWHNudlJSUko2ZFZPYmx1eWppb0syNkViYnRjeXlNT2ItR3hTTXB3?oc=5
@@ -213,7 +343,7 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 - Sun TV Network shareholders approve FY26 financials, dividend in AGM
   21 Sep 2026 | https://news.google.com/rss/articles/CBMitgFBVV95cUxOSjlCSVJ4SU54b3JaNlpnVlM1eXhlQTVGWlNJOUgtQ3liOVR3VENfcGItN3hpeXAycno0RGtIQndwWms0VDBSbk1HWVZwdnFLU0RET2RYTFZYeEJDcEhSeDBRUjlwdW90MTQyTmpibXFTSlBhMThXWm9IZDg2VWNoUjVfWFJ3ODU4V3RaeTVVRngxeDdod2FsbXhHZ3RyT2lKaGE2YUVoWHpXZU5uUWVJSmFOLUcyZw?oc=5
 
-[Jsw Infrastructure Ltd (JSWINFRA, +5.51%)]
+[Jsw Infrastructure Ltd (JSWINFRA, +5.03%)]
 
 - JSW Infrastructure shares hit record high; stock up over 50% in six months
   22 Sep 2026 | https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMC1DTkRqOWJtRC04YTFDUEwwOVZaWU1sMmVIRld0eHIxYlViT2VhX0ZJYlRudThIdUlndWxacGVObUpXc2VkWnp1MVpPMWRHZjZrQVdsQ00ya2VFQ3dlUDQzU256Q25TN2hGMXFDcXI1dTdkaFdXVWZxb2UwRXczUjRwYWg5TjBnNlkwRFJyLVJSYnQ0empLTEJ5d25kel9NQkNwNU9TUW5MTlc5VWJLazRLcU1yRFE5cUEtUFpLZWxFTEpkMHptTmEyNUFITU5Xa0tnWEp5NNIB3AFBVV95cUxPSTh2RzFfSDNqQU1RZDdzNWktTWt5d25iUlFLSGdSbXpsOWpiSHJaanVRejVVbkhtNFJud3NYQ3MxWnNNRTJWYm8tRVBvNUI0alNYazhDT0F1cl8tTFF1eWdmUzdxclV4NWtkVE1sdHp3VUtxdko5YjNsRm5GUnlrVkFkTnRiR0ZDOXBUTFFNeGZEd2wxUWdWQ1BZWHozSGZEWFZ0QmwyZEN3TTA1NjQ5eHQyb09ONl9lY3hMUjc0TXYtdjBpYXZ2S0tldmJRdmp1dDFQc1FCMDRodTB4?oc=5
@@ -224,37 +354,43 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 - JSW Infra hits new high, jumps 7%; stock up 56% in FY27
   22 Sep 2026 | https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWGhvS3pOSTd4OVZKeU1MVlc1S19iYXNZZGl5U3VINUJ1ZjVFMXJsb3ZKZ1QyLWVoUEQzNDVvUDc2bFZzWGJMUHZDcUJ1MkVfY0tpcTNCblNfNnYxeXozUEhkZlpoM3UwcmUtdk5RNFJobjRLai03US1xV251VUpjWmswMUJlNENwVURBdmtRcTVwOTRUTkVRN2lxa1N5bnc0UlJ2MUxneFp2djl1SEIyeVVwN0hvcjlKci1YN2N6YWdmd9IBxwFBVV95cUxNSU9XbHpuc1VVOFV1eVZBUHZRemFRNGkwZmNBNVdxcmVHcUV6OFFmcnh4TzBlRGJfb1gxT095c1NiMU0yZXo2UjhuQnJLVy1KR0poeVlNWnVSWUg3WHRxNkU1anI4eGd1VmgzcWhTSE1DRXAzY1hweXQtUm1kT09FaFFRS2J1TXczQWVSQkZpeDQ2ckZMTzdEcEx1SUo2ZU5yd3U2Z1NoV1h6VnRmU2d5ekxyZW9vSVNxX0RYSThUWU9USlhyQm5n?oc=5
 
-[Aditya Infotech Ltd (CPPLUS, +5.00%)]
+[Heg Ltd (HEG, +4.83%)]
 
-- Aditya Infotech Wins Strong Shareholder Backing for Fundraising via Securities Issue
-  21 Sep 2026 | https://news.google.com/rss/articles/CBMi-AFBVV95cUxOSVo4NU96eEk0NktCdFhlLUo5Q1pSNTJZT1VNWEFhTzhmb21JbnNVV0RlSm15Mm8wbHFTNkR2eFFQemkwaUczR09nVUUyY1lrV1J1cVQ2emhXQ19IUjJXUE1oUnpFUHota040YUcyaGRZX2JodEZ6OG5oRlR0bFZYTzc2M3N2aWtIeDZDcktsVDNadmZhSU9nVTZ2cUxnMFJya0M1RlhzS0tEaGVBa2RvYU40TERSX1hyUnpkQTNqaUNuOFdUUzBOLUpxQmp5aGVWUEhnNFVfTzJfU3NRNWMxWHVnd3F3MVNObXI2N1NmNVRlaVRjMV9jVg?oc=5
+- HEG Advanced Materials surges 15% in 3 sessions on ₹218 crore order win
+  21 Sep 2026 | https://news.google.com/rss/articles/CBMixAFBVV95cUxOM09vUFJPVmhHaVUyT0EtRjhXeEs5WElxU1JHdWs2eXJGU2FWT3Q2c2h2ZWZ4X1psOEtKRXB3NkdJbF9BTk1VNU5oRXF4SVNaa0FvcmlFMVllcHhsYkhkUWxTYXV6UjY1MC1ENWRkRHltMFZrTGNkQnpXYjltN2xia25QT2JGWVZod2RvUlRVUEZNMmdHY0FObVdhOWMxUjV1OU9sUWNlRS1ya1g0cVJWZzk0aktDTEJ1eU9Jb3B3LXg3YV8w?oc=5
 
-- Syngene International among 4 stocks that closed crossing above VWAP
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMi1wFBVV95cUxQN25aa05UU2YzWFh6a1g2cDhORlVIZWhYOEZEMmJKdktkc1VuQTNTMmR1YVdJT3hTYlUyRkdid25zdTZuNklmQzZjNkkyaUR6SFJ1TzF1TEg5cG9GRGpoTVNlQjRHMFR1bG5BUE52OG5oa0JYVms3ajU1dzNQVldmTkZfbmlBcmlDcjd4Tng1ZGJsXy0wWnF2VUctenBkNV85R25GbkFMX1hxcnBUSlhPa2VKa3lLMEhlUXZEZ3hLZ0dWWGE4eHEzeE1vbjQtT3FDNExqeVFhNA?oc=5
+- HEG Advanced Materials to host one-to-one investor meet on Sep 28
+  21 Sep 2026 | https://news.google.com/rss/articles/CBMiswFBVV95cUxQeW5SLWt3ZWc0bmFkV0NLYmNKTmJXSTI1QlNwTHlNQUF1RzlUNzhfLU9sOFRPS2pYV2ZYSWVNZFMxakFRSThQN19Vel9SQUJBSU8wVDAxZHFNVzA3ZV9SODZtenFYaTVLUk85OHV5ZHJiSWQwTFp5V2xQYzYwUEJqNDhsVzU4OWdneXZxeTRzMlBpZmg2QzZxREs4WnJ4QTA5eUU3aU5PTERFLTItbHBlbmllbw?oc=5
 
-- Aditya Infotech - Engineers India among 4 stocks showing White Marubozu pattern
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQzB1bVU4RGRELTU0M2EzTWVheFFkNlVMeDBURktrRC16QWhFX1FnYURuZzVUeUxDeUwxb01UcEZOVEg4R0xMQ0xSR1MyenA1RE4tZ1JNRTVaaUhWeTR3Rk42WGRrSEl5QmJ2eEh4UXBBbmxpaVYwMFZSODhPX3dvb003aGZnVmNZaER1Q2hqdG5IZW9wX2YyUWpDelZOVFJCM3NzRDBPQWZOcm9yNW8yaUU3Qm16bmNOQlVMb2lBOXFJcjNqY2dKQi12VWNfM2NHWUZScnJFcGhNVkpuWTJOZ2hCcw?oc=5
+- HEG Materials Receives Battery Storage Orders | Coforge Expands AI Vehicle Inspection Capabilities | Top Buzzing Stocks Today
+  22 Sep 2026 | https://news.google.com/rss/articles/CBMikgJBVV95cUxPbEx5RU8wZ1Z4YnlJWWFGSVdLSEkxckJCUE1UaXZCa3JYeW1IQzloR1EwdTI0RTFTZFdlRmk1WTRaQ2hsc1ZHQ3YxSGxUUlN3VTNOU21ydGl5emRwdWdFUkhwYTE1a09SVDEtYXhmUVZ5cmxKWndaSVc0eGxtX3JlRlBkUm9OdFBnZmppb1I0QjFaalA1enVwVzlnaWtPSGRwYlBMTDRWdXlOWkFla2h6M0pWa1drYzA1YjdOMUt0blc3al90TWE4d21JUUZkMmVWNmRWOHo5M0xVZVEwOTF6TTZSUGpXcjBKbmtScXppREgwOEhwR0xYY0ZxYnJaU1A4WVpZUm83MFhReE4tUHlLLU5B?oc=5
 
 [[Top Losers]]
 
-[Aegis Vopak Terminals Ltd (AEGISVOPAK, -6.06%)]
+[Aegis Logistics Ltd (AEGISLOG, -6.54%)]
 
-[Aegis Logistics Ltd (AEGISLOG, -6.06%)]
+[Aegis Vopak Terminals Ltd (AEGISVOPAK, -6.14%)]
 
-- Analysts’ trading picks: Bandhan Bank, Laurus Labs, NOCIL, Aegis Logistics
-  21 Sep 2026 | https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdkVsZEdYMHowb2N6MkMzS3hWeV9keEtfS09pQWxDbU1lLWFCYkdjUl90QUVvdHlEM2pNcnJRbFllTjNIVWtObU0tUUpBTlljQ0ZNQm1NVzJ3dnc1ZzJnTi15U0tDRi1FQ1V4THpfQThjNTNXU1pKT1JFdDJhNkxKZEhQRjcyWUNsMnJ4TUZFYjFtb2tEQmdzampiUU5QMHlDckpGOVRhTC04UGEzVlFMeDRmRzZYaU5v0gG-AUFVX3lxTE0zQjBlemFMbzBObkNPa2ZiR05IUFVlYThBQl9QNVhHT1dGWlNKTFpWRTZSQURNeEg3b3Vocy12SWN1djRxWndnRllQZHNtb2J2QlAyQTRTVmZnWnJTLVhvMUFLVUlaczZ6dEFxaElMaDljdGs1TWVub2E0ZHp4X2pDcmdtWXlRbnNTSmhKckt2Y3J1OWFHalFpclI3cW5HMDZYSXBxaUZRcWpiY09QS1FMSDN6ZHQ0M1RRZlBfQ2c?oc=5
-
-[Home First Finance Company India Ltd (HOMEFIRST, -5.28%)]
-
-[Kaynes Technology India Ltd (KAYNES, -4.19%)]
+[Kaynes Technology India Ltd (KAYNES, -5.47%)]
 
 - Kaynes Technology India - Syngene International among 4 stocks that closed crossing above VWAP
   22 Sep 2026 | https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWEZ0UjFJLWd0QktwZ3lQb2RSaUwtaU9SelBGaEdIZ0RZQ0hTZ3ZWS3UyREkzOWJHRndNU0ptSlNjOEhGUXRFcTVYNXpYdHM5bXhqM2xTWTVUNmYtM29mVGVpUTl0dHE1RjQwZmhtdW9LckhJQ3RIalRfNXNWUWQ4NjlMVS1heHhMTFVVdEt5MnJUVFczZmw0R0JXd0tuMkc5MzdadFo2Nzllamcwb0M1QmxtRTI1ZmZhajhxQkZ5dXBrYVczLVhnaTdndi0zbzg3RmYyNlctVkFBbHpoVmFSeFk0aVk1VDlPbkVlaERDR09OQUdoTzZ3?oc=5
 
-- Kaynes Technology AGM 2026: All Resolutions Passed
-  21 Sep 2026 | https://news.google.com/rss/articles/CBMirAFBVV95cUxPZU5TMmlDYWJSWWsyRVJadlI1RGhyM25SaElabE5vd1RzX2JjbjFpeGY4UWN6MGtWNVJvbzRZXzFhaGtSOFd6ai1BZHRBdUlTeWk3cHN5VkNhN0txMFRNdlB3X0piNWtPQlF2allxQ3ZfQ0xRMWtNcVhXdGJkR2lxdEtRaEtIR2xLNk5rSmQ4YUZmTTVnYUNVR185VU5jbDVId1ZuM3hyekY3b3VV?oc=5
-
 - Kaynes Technology India - Cohance Lifesciences among 5 stocks showing RSI trending up
   22 Sep 2026 | https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYWQ4Vktqd2cwRHV2UndsWHFGRHAyN2c3NXAwYkpicE1qOHNFSEc1aTc2ekV3MkNlNkJLbjE4am9nWTVYV3kxenRndGZvQ1BGT0ROXzBQS051RmJQdkNCMUZfX04xWEVRS1pXMFpINGh4MVlYTTFJOVkwbXZOVzBFNWFsSmRDajZqZlFROTBEa3c0a0twMVZMaU0wcXRJaDMzUGItTlJGbjZMUFZuVDlOMEkzMXQ4Nkl4eDlKZE5sY1JRVm1qaUZQLUJTT1lUUlpJNVVqRkpoX2RVRWlLQTBHYmJuMWJlenNURzRz?oc=5
 
-[Acutaas Chemicals Ltd (ACUTAAS, -3.82%)]
+- Kaynes Technology AGM 2026: All Resolutions Passed
+  21 Sep 2026 | https://news.google.com/rss/articles/CBMirAFBVV95cUxPZU5TMmlDYWJSWWsyRVJadlI1RGhyM25SaElabE5vd1RzX2JjbjFpeGY4UWN6MGtWNVJvbzRZXzFhaGtSOFd6ai1BZHRBdUlTeWk3cHN5VkNhN0txMFRNdlB3X0piNWtPQlF2allxQ3ZfQ0xRMWtNcVhXdGJkR2lxdEtRaEtIR2xLNk5rSmQ4YUZmTTVnYUNVR185VU5jbDVId1ZuM3hyekY3b3VV?oc=5
+
+[Home First Finance Company India Ltd (HOMEFIRST, -5.31%)]
+
+[Apar Industries Ltd (APARINDS, -5.08%)]
+
+- ​Apar Industries - 11 stocks added by more than 15 MF schemes in August; shares surge up to 240% in CY26
+  22 Sep 2026 | https://news.google.com/rss/articles/CBMijAJBVV95cUxQdGdqdFpRY0VFVHdkbWVFZGVfdWRYRW9UQkdtTE9BeDI0bFRsRG9PcGU4NFZiRmxJTE5HNURWTlZodlh6c1h6S0V6Z3EwaGx1bVBhenBfYTJTSEpuR2Rydk9iYkNjSTl0VHdwblFlbDN4OUlmTDRGRWNTWERqSmdOZmFYaDBwYUpHaDF1bFV1UnJGZjRTeGw5QUJHT215bUV1SlNmaEhSQUdtTXBEUmNveG5QWC16Unl0blZzQ3NYd1dKY044YmtXamMxNlZMX09LcWZ1MUZsRDBYWFJ3R0Y1eGxlOXBGd0FxRkJoZjVrUWpCYW8zWnRiUGRGRHRZWENZcmN3M0JPLXdJSFAz?oc=5
+
+- Apar Industries Share Price: fresh 52-week high, analysis
+  22 Sep 2026 | https://news.google.com/rss/articles/CBMijAFBVV95cUxQOEU1WkZCYzRSVEs0dTR1RGlUWTJGS3Y3N2k5NW1WWW5jdHQzdExXM1p5bEYwRjU1N19WOWs3aURnTmFtTndMUHp3UmlBQ3l4TlFEcXJZUWJOUUV0MkRjbnk5Z01jUGtyblBvWGNiOVBDSWs0amtaSTh3SEtCQ2lJUFl6LU4zYV9iSHc2Wg?oc=5
+
+- Apar Industries approves ₹60 dividend per share at 37th AGM
+  21 Sep 2026 | https://news.google.com/rss/articles/CBMisgFBVV95cUxQMmRlc1hXXy1uMDBvN0NZS3RBSEJ2TklJT01jQ3lWR3hoX3FGWjAtNUNldEw1VEhDWWJKNm4tMDVYdklENkFPY2l5aXFkVTJQU212UURTSU9JaEg1djdpS25ha1U3X3d2ZC1vMURUNm50NngtVFN3VU9VYjBzRFd3VDAxSzVmcUdrLU5GNjFIM2p0WnFHVDJUUzd0MWxKTlVBYzFfZU45aEJ1NGNTRW93TDJR?oc=5
