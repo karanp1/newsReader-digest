@@ -4,16 +4,132 @@ Nifty PE Ratio | 19.72 | 22 Sep 2026 | https://nifty-pe-ratio.com/
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+URL: https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/banks-rethink-upi-play-as-mdr-returns-big-techs-ai-dents-indian-it/articleshow/134423900.cms
+
+Happy Wednesday! The return of MDR on UPI is pushing banks to rethink products and budgets. This and more in today’s ETtech Morning Dispatch.
+
+Also in the letter:
+
+■ Spinny books IPO ride
+
+■ Captain Fresh FY26 net profit falls
+
+■ Zetwerk, Ayr Energy settle legal dispute
+
+MDR gives banks more fuel for UPI play
+
+Banks
+
+are reassessing budgets and product roadmaps after the return of the merchant discount rate (MDR) on Unified Payments Interface (UPI) transactions. The shift could help agent-led payments, delegated payments and business collection tools move beyond pilots.
+
+The trigger: From October 15 , eligible merchant payments above Rs 2,000 will attract a 40-basis-point MDR. Goldman Sachs projects a Rs 26,200-crore pool by fiscal 2028, with Rs 13,100 crore going to banks handling customer payments.
+
+Why it matters: Payment companies can build the interface, but products cannot scale until banks integrate systems, test transaction flows and install controls. Under zero MDR, this work generated costs without transaction-linked revenue and received lower priority.
+
+The upgrades: Agent-led payments require authentication, spending limits, audit trails and fraud monitoring. Delegated payments need linked users and revocable mandates, while business collections require invoice-linked payments, accounting-system integration and automated reconciliation.
+
+Big Tech’s AI shift may wipe out $20 billion of IT outsourcing revenue
+
+Large Indian software services exporters face the risk of losing up to $20 billion in annual contracts over the next one to two years as major tech companies such as Google and Meta scale back traditional IT outsourcing budgets, according to industry experts.
+
+Driving the news: The shift threatens revenues in the high-tech and communications segments of India’s $315 billion IT industry as hyperscalers and big-tech firms use AI and automation to improve efficiency.
+
+A 15-20% reduction could roughly put $12-20 billion in revenue under pressure if the trend spreads to other sectors.
+
+This estimate is based on the industry body Nasscom’s 2025-26 IT services revenue forecast of $149 billion, with roughly 55-70% of that revenue, or $80-100 billion, coming from outsourcing.
+
+Why is the pressure building: “Big Tech is doing this first because it has the AI capability to do it. Once banks, retailers, manufacturers and healthcare companies become confident they can take 15-20% of effort out of mature outsourcing contracts, the same pressure will spread well beyond the technology vertical,” said Phil Fersht, chief executive at US consultancy and research firm HFS Group.
+
+Tell me more: The contraction is concentrated in labour-intensive work such as:
+
+Testing and routine application support.
+
+Engineering support and business process outsourcing.
+
+Trust and safety operations.
+
+Customer experience management (CXM).
+
+Spinny files confidentially for Rs 3,000-crore IPO
+
+L-R: Mohit Gupta, Niraj Singh Ramanshu Mahaur, cofounders, Spinny
+
+Tiger Global-backed used-car platform Spinny has
+
+made a confidential filing with Sebi for an initial public offering (IPO). The company is targeting a total issue size of Rs 3,000-3,500 crore, according to people aware of the matter.
+
+IPO plans: The issue is expected to be split almost equally between a fresh capital raise and an offer for sale by existing investors. Spinny may use the fresh funds to expand its presence across India.
+
+Funding: In February, Spinny closed a $160-170 million round led by US-based investors Fidelity and Accel Leaders Fund, ET had reported. The funding included $90 million of primary capital, while the rest was secondary sales by early investors. Fidelity and WestBridge Capital bought shares through the secondary leg.
+
+Expansion: Spinny acquired vehicle servicing startup GoMechanic last November in a Rs 450-crore cash and stock deal to expand its bouquet of offerings.
+
+Snapdeal parent AceVector seeks Rs 1,741-crore valuation for upcoming IPO
+
+Kunal Bahl (left) and Rohit Bansal, cofounders, AceVector
+
+Snapdeal’s parent company AceVector has set a price band of Rs 30-32 per share for its
+
+upcoming IPO , valuing the company at Rs 1,741 crore (around $182 million) at the upper end of the range.
+
+IPO details: AceVector is raising Rs 287 crore in fresh capital through the IPO, while investors such as SoftBank, Nexus Venture Partners, and Foxconn are selling shares worth Rs 133 crore through the offer-for-sale component.
+
+Valuation gap: The IPO valuation is sharply below Snapdeal’s $6.5 billion peak in 2016 following Softbank’s $1 billion investment. Snapdeal was moved under the AceVector umbrella in 2022.
+
+Other Top Stories By Our Reporters
+
+Utham Gowda, founder and CEO, Captain Fresh
+
+Captain Fresh FY26 net profit more than halves: B2B seafood marketplace Captain Fresh’s consolidated net profit more than halved to Rs 19.6 crore in FY26 from Rs 42.4 crore in FY25. The bottom line shrank after it booked Rs 30 crore in one-time IPO expenses, moved from a net tax credit to a net tax expense, and reported wider losses from discontinued domestic operations, according to its audited annual report.
+
+Zetwerk, Ayr Energy settle trade-secret dispute: After more than a year, IPO-bound manufacturing platform Zetwerk and US-based power equipment maker Ayr Energy have reached a settlement resolving their legal disputes, in which they had accused each other of misusing confidential information and trade secrets.
+
+Global Picks We Are Reading
+
+■ Stop asking AI CEOs what society needs (
+
+FT )
+
+■ America is in the wrong AI race with China (
+
+Rest of World )
+
+■ We surveyed 634 women who work in tech. They let loose (
+
+Wired )
 
 ============================================================
 
 SOURCE 2: The Hindu - Editorials
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Freezing democracy: On the Election Commission of India and West Bengal
+23 Sep 2026 | https://www.thehindu.com/opinion/editorial/freezing-democracy-on-the-eci-and-west-bengal/article71495672.ece
+
+Almost 28 years after Mamata Banerjee set up the All India Trinamool Congress and designed its symbol of ‘grass and flowers’, the Election Commission of India (ECI) on September 17, 2026, froze the party’s name and symbol . The 14-page order stated that since two rival groups — one led by Ms. Banerjee and the other by Arup Roy — are now claiming to be the party, the matter requires “substantive determination”, and neither group can use the party’s name or symbol. The ECI has allotted new names and symbols to both groups. The ECI’s move has effectively denied Ms. Banerjee of her party’s name and symbol. For nearly three decades, crores of voters have placed their faith in the party’s name and symbol, elected Ms. Banerjee as Chief Minister of West Bengal three times, and sent scores as its MPs to Parliament. Even in the April 2026 West Bengal Assembly polls , 41% of the electorate, or more than 2.60 crore voters, voted for Ms. Banerjee’s party , while the margin between it and the Bharatiya Janata Party was only about 32 lakh votes. Opposition parties, including the Congress, have said that similar attempts to freeze the name and symbol were made in the case of the Shiv Sena, calling such action of freezing the name and the symbol as “party theft” and a case of democratic decline.
+
+Political parties are organic entities that keep democracy vibrant and alive and any attempts to engineer their dissolution is an attack on the very foundations of India’s democracy. If a political party has to wither away, it should happen only through the determination of the people. Serious questions have been raised about the role of the ECI, which held the West Bengal Assembly polls in 2026 after a hurriedly organised Special Intensive Revision (SIR) of the electoral rolls that left lakhs of voters out, and is now freezing the name and symbol of the principal Opposition party. Free and fair elections form the bedrock of the republic. When political parties, which are engines for ensuring that the will of the electorate is reflected through free and fair elections, are dismantled and stripped of their names and symbols, the ECI cannot absolve itself of responsibility or hide behind processes and practices. The BJP leadership in West Bengal has repeatedly claimed that, after the Assembly polls, there would be no existence of the Trinamool Congress as a party. The ECI’s acts of omission and commission clearly suggest that it is acting in tandem with the interests of the BJP.
+
+Published - September 23, 2026 12:20 am IST
 
 ============================================================
 
 SOURCE 3: The Hindu - International (headlines + summary)
+
+- How Big Tech powers anti-immigration crackdowns
+  23 Sep 2026 | https://www.thehindu.com/sci-tech/technology/how-big-tech-powers-anti-immigration-crackdowns/article71498972.ece
+  As the U.S. Immigration and Customs Enforcement (ICE) increases its presence, Big Tech companies are facing both internal and external pressure to take a stronger stance against the controversial agency
+
+- Donald Trump voices strong support for India-Middle East-Europe economic corridor
+  23 Sep 2026 | https://www.thehindu.com/news/international/donald-trump-voices-strong-support-for-india-middle-east-europe-economic-corridor/article71498530.ece
+  Iran's terrorist attacks on commercial shipping in neighbouring countries have shown the need to shift West Asian energy infrastructure away from the Iranian checkpoints, says U.S. President Donald Trump
+
+- UK ready to lead global push on AI Standards, Burnham tells UN
+  23 Sep 2026 | https://www.thehindu.com/sci-tech/technology/uk-ready-to-lead-global-push-on-ai-standards-burnham-tells-un/article71498265.ece
+  Britain has a world-leading AI Security Institute, which works hand in glove with the US and the leading labs on AI safety, he said, but it needed to go further
+
+- South Africa house party shooting leaves 11 dead, 3 wounded, police say
+  23 Sep 2026 | https://www.thehindu.com/news/international/south-africa-house-party-shooting-leaves-11-dead-3-wounded-police-say/article71498806.ece
+  he people had gathered at a house for a party when the suspects entered and opened fire, police said
 
 - Faceless People: The documentary asking why Sri Lankan Tamil refugees still are not Indian citizens
   23 Sep 2026 | https://www.thehindu.com/entertainment/movies/faceless-people-the-documentary-asking-why-sri-lankan-tamil-refugees-still-are-not-indian-citizens/article71498481.ece
@@ -22,14 +138,6 @@ SOURCE 3: The Hindu - International (headlines + summary)
 - China sets guidelines for fentanyl-related crimes prior to Trump-Xi summit
   23 Sep 2026 | https://www.thehindu.com/news/international/china-sets-guidelines-for-fentanyl-related-crimes-prior-to-trump-xi-summit/article71498356.ece
   The guidelines come a day before ‌Chinese President Xi Jinping is expected to meet United ‌States President Donald Trump in ‌Washington ⁠for their second ⁠summit this year
-
-- South Africa house party shooting leaves 11 dead, 3 wounded, police say
-  23 Sep 2026 | https://www.thehindu.com/news/international/south-africa-house-party-shooting-leaves-11-dead-3-wounded-police-say/article71498806.ece
-  he people had gathered at a house for a party when the suspects entered and opened fire, police said
-
-- Donald Trump voices strong support for India-Middle East-Europe economic corridor
-  23 Sep 2026 | https://www.thehindu.com/news/international/donald-trump-voices-strong-support-for-india-middle-east-europe-economic-corridor/article71498530.ece
-  Iran's terrorist attacks on commercial shipping in neighbouring countries have shown the need to shift West Asian energy infrastructure away from the Iranian checkpoints, says U.S. President Donald Trump
 
 - Israel denounces ‘grotesque absurdity’ of Macron’s UN remarks on West Bank
   23 Sep 2026 | https://www.thehindu.com/news/international/israel-denounces-grotesque-absurdity-of-macrons-un-remarks-on-west-bank/article71498314.ece
@@ -51,10 +159,6 @@ SOURCE 3: The Hindu - International (headlines + summary)
   23 Sep 2026 | https://www.thehindu.com/news/international/mark-carney-says-canada-india-aim-to-wrap-up-trade-talks-by-g20-ahead-of-pm-modi-visit/article71498251.ece
   Mark Carney said he and Narendra Modi had committed to try to conclude negotiations by the G20
 
-- UK ready to lead global push on AI Standards, Burnham tells UN
-  23 Sep 2026 | https://www.thehindu.com/sci-tech/technology/uk-ready-to-lead-global-push-on-ai-standards-burnham-tells-un/article71498265.ece
-  Britain has a world-leading AI Security Institute, which works hand in glove with the US and the leading labs on AI safety, he said, but it needed to go further
-
 - Mongolian herders enlist new tech against harsher, drier climate
   23 Sep 2026 | https://www.thehindu.com/sci-tech/technology/mongolian-herders-enlist-new-tech-against-harsher-drier-climate/article71498164.ece
   Herders are on the frontline of both climate change and desertification impacts
@@ -71,10 +175,6 @@ SOURCE 3: The Hindu - International (headlines + summary)
   23 Sep 2026 | https://www.thehindu.com/news/international/trump-bans-media-outlets-cnn-ms-now-politico-from-white-house/article71482414.ece
   “I am banning Fake News CNN, MSNOW... and Politico... from the White House,” the U.S. President said in a Truth Social post
 
-- 'You should not be here': Trump tells CNN at UN as standoff with media outlets persists
-  23 Sep 2026 | https://www.thehindu.com/news/international/you-should-not-be-here-trump-tells-cnn-at-un-as-standoff-with-media-outlets-persists/article71498021.ece
-  The tense moment was a stark reminder of how dramatically the bitter conflict between U.S. President Donald Trump and news outlets whose coverage he objects to as “fake news" has escalated in just a few days
-
 ============================================================
 
 SOURCE 4: Entrackr Weekly Funding Report
@@ -83,7 +183,30 @@ No new Weekly Funding Report since the last check. Most recent report: https://e
 ============================================================
 
 SOURCE 5: The Hindu - Business (headlines + summary)
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+[Industry] Bombay High Court rejects Adani plea that duty-free shops are beyond domestic laws
+  23 Sep 2026 | https://www.thehindu.com/business/Industry/bombay-high-court-rejects-adani-plea-that-duty-free-shops-are-beyond-domestic-laws/article71498440.ece
+  Gautam Adani argued in court that shops in international departure areas are outside the ⁠reach of domestic regulations as they sit beyond India's territorial jurisdiction
+
+[Economy] India-New Zealand FTA ratified, to come into effect on October 20
+  23 Sep 2026 | https://www.thehindu.com/business/Economy/india-new-zealand-fta-ratified-will-enter-into-force-from-october-20/article71490545.ece
+  Deal aims to double bilateral trade as NZ removes all tariffs on all goods imported from India, while India will remove or reduce tariffs on 95% of current imports from NZ; India’s dairy, sensitive agri sectors protected, says Commerce Minister
+
+[Business] Embassy Developments to sell residential tower in Juhu to Angel One for ₹711 crore
+  23 Sep 2026 | https://www.thehindu.com/business/embassy-developments-to-sell-residential-tower-in-juhu-to-angel-one-for-711-crore/article71495840.ece
+  The deal is the largest single residential unit transaction in the country, claimed Embassy Developments
+
+[Markets] Rupee rises 5 paise to 95.57 against U.S. dollar in early trade
+  23 Sep 2026 | https://www.thehindu.com/business/markets/rupee-rises-5-paise-to-9557-against-us-dollar-in-early-trade/article71498391.ece
+  Forex traders said going ahead, the currency market direction will majorly be driven by unfolding geopolitical developments
+
+[Markets] Stock markets rebound in early trade amid easing crude oil prices
+  23 Sep 2026 | https://www.thehindu.com/business/markets/stock-markets-rebound-in-early-trade-amid-easing-crude-oil-prices/article71498310.ece
+  The 30-share BSE Sensex climbed 283.66 points to 74,812.74 in early trade and the 50-share NSE Nifty was up 85.55 points to 23,414.55
+
+[Technology] Microsoft Xbox plans to cut hundreds of jobs
+  23 Sep 2026 | https://www.thehindu.com/sci-tech/technology/microsoft-xbox-plans-to-cut-hundreds-of-jobs/article71494286.ece
+  Xbox CEO Asha Sharma is pushing for the company to return to growth by the end of the 2027 financial year
 
 ============================================================
 
@@ -94,14 +217,14 @@ SOURCE 6: Watchlist (headlines + summary)
 - Bitcoin Surges as Trump Confirms “Good Meeting” with Iran amid Hormuz Opening Proposal
   23 Sep 2026 | https://news.google.com/rss/articles/CBMioAFBVV95cUxQYnh4NFNYdHBERDcwUy1nWm5DZXVQeV85VFMydmpBVmI5YUhZY1YyeURPRkJCaVF3VV9vY2wzZGxDRkFkRldndUlFUjgtay1qSktmVVl3eFZVbWVtQlktTFl0ZGItcFZnOFhvVDlxWk9EblQtOXAwb2oya01YTThVdzI5RHByZC1GRWpQdHcyRXc3MXMyQlVnMWJpQUQxQXU5?oc=5
 
-- On the Chain: Bitcoin holds near US$87,000 as ETF buying powers crypto rebound
-  23 Sep 2026 | https://news.google.com/rss/articles/CBMiggFBVV95cUxNMmNkb3R2QlNpT050MzJsbGg1VW5uTFhGVl83ME9hd05vb3kta0lZdjdUTkF4SzNLc0IyMjhTTkVqUDVkeWZfeHJjR3BQUnVzUjRuRUlUU0NCVlJBNW5SQ3ZnZmRqcjY0aXoxdURpZkN6NkJENXhwMUphRUp5aVlYcG5B?oc=5
+- As the U.S. dollar debt crisis intensifies, Bitcoin's market capitalization could rise indefinitely.
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMiowFBVV95cUxNZnNHTE9GOXFvMEJxUjNpY0EtTTVZLXNMX0t5d2ZzTVFwZXNkWW11dW5iZ2psX3JDSlMyNVRxSVJxR0NJZUhKcXJvdWNXVzJpSXNxZGFnTkJUY1NtSV9LRHlNTzlwdTdyWFd0bGNfbDBsc2k5M2psZVNZLWJxdmg5dWNaQUY5N2Ixa1hLNHh6bDJkbmxPSTA1blU4eU11SDlRMlBv?oc=5
+
+- The Bitcoin Fork That Fought for Cheap Nodes Just Hit Its First Cheap-Node Problem
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMinAFBVV95cUxOc19JNGJxR3owQThzbDlUSmtidlh2V2ZEdDJlRENiQ1IzcV9iZS1mZV9YbDRGOU5LdDA4Ujl1Rnh2Z0RqMlJUTV85VW5lWUhaQzRzQjFKa0Q4U29JS2QxTGxjVjJONzBCVzBZLWVzTWN1SllXTUptVmhnVXF4MEdMUjBwQXZUYUFrLVJEV2QyMm84NHVKQS1UYWtzbU4?oc=5
 
 - Expert analyzes Meta's price-target hike, Amazon's AI block, Bitcoin rally, and falling yields
   22 Sep 2026 | https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLYkdEbW9CQWFvYkQ5aHVhdGd5MUtaWUI2RUxQZHZFZF9ZRTNHTFNjRlpQUG9naEVvWDZxLVI0Sjh6Z1JrRGpacXJBQmJJT0NaRGd6Q0RZY2dPRFk?oc=5
-
-- Bitcoins, a Trump ally and a pitch for Putin: Inside Epstein’s secret crypto ties
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMidkFVX3lxTE10OVNuWFBQY1FTdW9VQ1FpT093c3BlZHA2T202aVlPSlM0SmxtMFRjMkFlbER1bUUxV2ZGbVp6OHhTbVRmTVo0MmZadnpraTBRWWRrQWxzTy1HNlJ5cWY2aVVmYXljSnlRNnVPODlOWjJ6SkRUZWfSAXZBVV95cUxNNnJlMTFOaE9FWFI5OFl5a1VSTHQ0cHBuNUw2Tng0X1R6dUFzWjV0UFc1VndabnBSaHZTdjQwMks3TDRNOTdKS3hHQ3ZZUS1qV1hNeFk4NmdhbjJXR1plV0t4MkRZY2c5TFVzM1QxSVRwSGFjWU1R?oc=5
 
 [Gold]
 
@@ -111,8 +234,8 @@ SOURCE 6: Watchlist (headlines + summary)
 - Current price of gold as of September 22, 2026
   22 Sep 2026 | https://news.google.com/rss/articles/CBMibkFVX3lxTE0zdWxGeTduMjM1MV9vWnladngzd1htVG04enFxLXBmb05FTW9IRWs2b1lJWDVOMGsxenc3SUdrMDhNanpDYmpZRFkzNGRuTW1pYmlNSjlnZXZaRkJaU3pOclZaVVNzcFpGWXluUWR3?oc=5
 
-- Silver leads metals higher as dollar strength caps gold after Fed rate repricing - Kitco PM Report
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMiswFBVV95cUxNUThFbndNVlBVWnVqTzNmLWQtUkZGVmNaZVBPZmJKNDdLNWYtOTVHUEdWZjgxdXVSOE9RaUFYYXhDWDNCZlNjRDFFd1ZVb0FUVGQ0UTFzd1dQRmxQRU9ZZFlxYkY5dTk2dmFJWU5kQ3I2Z0E3Vk9Tdkl3SkxtSUxhNjlwYms1aVN1OUpMY3BDQkxXd19YNUlQamZvbDljMTJkdlVBZmp5d1Y3R3NoN05kZkM4SQ?oc=5
+- Gold Slips to Test $4300 as China's Imports Hit Headlines, Oil Prices Drop
+  22 Sep 2026 | https://news.google.com/rss/articles/CBMijwFBVV95cUxOdy1aZVVfdUJfWWh5RVp5WTRnUEJjZVJOOXpDb2JnYTFWZUo0NFFTbXAwMmdOSnYzZnZLRFZMaXdyd2x5QUNMOFg4dFUwNElVYlRfX3NzRG16MHJ2Rl9CV2FHWkNjNzZ3dzBJSHlnX2xOZk12eVVZWUozakRaLUlVOU9JaThSRFV0ME1vN0MxTQ?oc=5
 
 - Gold price today, Tuesday, September 22, 2026: Gold prices holding as Chinese gold imports set record
   22 Sep 2026 | https://news.google.com/rss/articles/CBMigwJBVV95cUxPbmNCN3F0X2k5d3g3MHBZMU9MNTZhWWFSWVlBWEFPNkZQOWtHaDFvVEt0ZFN1VjdzRmU4NHB0QUN5d0FKOWFrcWhWMVd1Nl9tNHpSTmhUMVBIVGdfdUQ2aG5ITExDRWRuc0xVOERBNVlwLWdjRC10cjVOLWsyUHVHc1RBRGUyTWduLUp1RTBhWG1lWVlvSXVMMG94Qks3UkJzNmdVTGpENXVSX0l0RURjNVlGSDM5QmFRRVkzSFJsWU9hNDV6aWJDX08tSGVhX3BxdlprN2Z0MkljS0VFLWtySVNSZUdkekI3dnBiVDVWR1l5cTNZWEdlRURtdF9rZzgtNTBF?oc=5
@@ -152,14 +275,14 @@ SOURCE 6: Watchlist (headlines + summary)
 - Flipkart Turns Kolkata's BBD Bagh into a Big Billion Days Moment Through the City's Iconic Bus Culture
   22 Sep 2026 | https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWUp0bExuVmcxc3RwajM4SGVvTDQ3WTBtTFBMWU9ndFpoM01ydkt3dUtzQWcwYnAwTnlSMGVtRDVYeUNqZ0hxc1RMbWgyVU9WZGhPU2tzaHhva2FtTXdZR2tzd0k1aDNpRUE2bk43TWxsZHlFLTg1QzVSVklpRjZXVWtCNmREMWViOWpRckhUTHVNWUZONE1aM05hWElBWHlPS3BHLWhIMFdGMkZXTldjZ2J1bXpWSEx0ODdyVGM1NEM?oc=5
 
+- Flipkart and Talented India take Big Billion Days on the road with Kolkata’s BBD Bagh
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMixAFBVV95cUxQZlNJbkRyVDNZcHZ2MlhYb0dnbEo5dTdScFRjaklMbEFfTlllUWNCcWdpdF93X2VZcVMzTG1tUVlrcVo0TTExT0xhWmJCZjVLb2QwRE5vYTFNU2ZwVF9TTzZzTFJJYTdXRUxnYmI2eWJOVUwtSTA0VTktSFNEREZhSThVN1pTbGpLanVaUm5xYmpVa3o0MEp0d1hIbFhpWFBfNmdYMmJwMXUzVFVxamo4SmxJWDFVdVZQTUhQYWdncDdXRlRz?oc=5
+
 - Flipkart Puts Big Billion Days on Kolkata’s Buses in New Campaign
   23 Sep 2026 | https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzJxRnVibl90UG1mM3dMQzlFbXNUR2FrUzdqVjdLdlM5cFVqLWMzeXN3dTBJNnNsS24wRFpxRlMwTzU4QVdZbFppRHdsUzZXeXV6Nnl2UEs5Umtuci1jemNtOUswMXI1UEp0MmdTNjZxeF82S0c1SjJPNnlaMWM3aTJRelVlWWRVN0FodjBxWjdRQ0ZrZHpENmpzbU4?oc=5
 
 - Beware: Amazon, Flipkart festive sale scams could get smarter with AI shopping tools; All you need to know
   23 Sep 2026 | https://news.google.com/rss/articles/CBMiggJBVV95cUxOeFYtZVdKSVM2OWFITFNlZDRxbEZ4UFZIYV9VLS14NEp2VEtsOU0yZ09xdFRDUFVWX0JfbnRINkxLZ3hyQm4ycFVpajdENU5VVV9wV2V6N18ycU5GaGwtOVpwXzFuVnlvLUZ1MUZFd2o2c2dzSVFPbFJ0WTFqTjJIY0Z2S25GbnZQbFo5Y3JUYkRMS2pFRzZ4aGZtNGJJXzFEMlJqNGxkTVNrMVJaRFZKUGUzcVVzQ3ludVA0LVZxUklONE82VHJtSUxDVXFwRHJPaE5MQXZ2YzdDcFkxNFVxMlRuNlhsdVk5NjlJRU94dlNkNEJSWjFiY3YzQXNRTjVOSUHSAYcCQVVfeXFMTlJfSXo1Q2ZRLW9yOEg1MFdFeFJtUC1EYS1mNUZvbXRvMjZEYUtQcVhqWE5ac3dweXA3MXA0MWt3MzgtVnk5NFFKeDZuN0lSYWJxTUJSSWVVMmRQMnM4b1RyRlF3WmV3Zm5MVm1nZDZoT0d6THdXLURUN0p3X3pqeUxIdVdsRXdMckZhMmRnUzdfM3hfWXlRR2l1bnIwZXdwRUxyOHFVMmY2NUsyTFc1QTdORzJMV2xpQUNwS25uYTduRlV3NF8zYmt0b1prUG9KRjVqdVVvbnBEQ1RTRW92XzFSWjhrUnZwdm5xYkozWHo3bkZpZER3WjRwVHVtVEc2dUUyNllCMWs?oc=5
-
-- Kothaye Jaabe Dada? Flipkart Takes a Detour Through Kolkata’s History
-  23 Sep 2026 | https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2lpVjNIZHkwTUlZRUVZa3dTOVZ4dTRheV9sSFh3dmtnaVRUMTZ3NXloQXdIZE5USndsNXZRMVpfODZNS3drRjMwVHhQWXo4eTVhSDhUdjNRS3QxNF9qdVloVG41dEQzNlZQbHNqMkthamVHdHdQcHVmLUxPQkZDT19BOUdkbk1hUUFBNEdUbjlJcG1hQUVaejBlTkJJdzNxZTcwOS1BdC1KYXNOa3NjcjA3cFNVU1B5Q1E0NDdaTDFnTGU0eUZtSVB3?oc=5
 
 [Flipkart Minutes]
 
@@ -186,7 +309,15 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [[Top Gainers]]
 
-[Ola Electric Mobility Ltd (OLAELEC, +9.63%)]
+[Elecon Engineering Company Ltd (ELECON, +9.83%)]
+
+- 20% Jump In Six Months: Elecon Engineering Share Price Jumps 12% In Trade
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMitAFBVV95cUxONUxvQnNwb2pPNDFWRFVWV0F2V2ZYUGMtZkROV3lmT2hCU29fbXpqbVg5VXpFM0Nneko2V3o3RWZaRzQ5MUtCTzAxZHd6VGxQSVNqaDZpNzhYRDJIV1dDdVIzWjNGckNGckNMZ1hvQkhxenRNYUszbGMtQVpxd3VaN1NwTlZndmtTVTNFQVFQZktzc3M2UjBpUmF4Y0taSlJIYUU5QjNkZjM0WkY1ZUx1bkJFLWvSAbwBQVVfeXFMTV9EV0xJTXdnVV9xNENnVTJqLV8yUFB2MjRWaVZMNHotZU1sZE9hajdXYVpoRFk5a2hNcTBiNkNWMElzVm5qOTlJX0V4T3RNRHRiM1ZWSXIwbHZGRTZhUkxWTE1uT25vRDJrTjlReXExRHFNM2VfSDNTN2dxSkJtRlpJNmVvbktqc3hTckRTZVprMjBnMk5tODNlR2J3eWF1cUNaMC1SNDBPWEtVaGhFaWVPLWUtVzlva2FEeDk?oc=5
+
+- Elecon Engineering Company Ltd leads gainers in 'A' group
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTEcxZzV6UlR5Nk1KTG1tdlc5aktFaXlPUnd3azdRRFpNZ3Rqam9iTmotandNclBkMlAzZFJBaW5OSlg3YWpzLUhfUzQ5dUxnS0dWU241Sm40NFJTUFZDYktIVXpOY3E3c1Zsa2MyZldZOHRoU1d1bzVTUEl6OEx6ZmhxVFJvb214UXpZR1hFY1gwMXdlbmlYRThsV2d2dS04bTVsU3VubDJXRlM3R3FKN2JQSExZQXhPU01iUzFrMWtxVWdqQ1VHTDE1Q0NMTnUtTlNR0gHYAUFVX3lxTE9DbUlFdEl1RUxiREx5S1U2eFpQQUdQU0dJempac2wtd00xT2hySHBsLW9uLXFySE5BUXVlQXBJaGI4TWFrblJRWDZYT1RDX01VUkxpbl9fdWh6WUZneEpNZTNRZTREelREWUtBMUhEOWVSX1c4eG01ejZwcEFQUzNtUVRBLVdYdHlHVnMxUThhX1p1bWZDMzcxSDZfLW85WjZicm5MRV93cC1rejFENjFoR011WTlERmRNWXRwd1NKRlJiSmJacWRDLUthTExJRzdKa05wZ1Vscg?oc=5
+
+[Ola Electric Mobility Ltd (OLAELEC, +9.34%)]
 
 - Ola Electric shares soar 10%, stock rallies 86% in 6 months. More upside ahead?
   23 Sep 2026 | https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRkxKSmpKYWpDYjhjWTBkUzdMeUFFcmlGZmoxNXdvNnJKVnhzbVZOUW5YWlVubTBwQUN4OEpBa1dFUXZKaGpydllZX0NhTy15dTlzSXk5M19aQmU3ZGV3djBZY2pYRkZyc2ZiVWhaRHBnaWx1NlFreWZqLUVrQ3Bwbk5PMnA4UkE0cWdTQjVUeWJVMVp5RnZpMUZBYlJMSnBDdTQ3VHhqR2JsdWVJeUdXUFpMY0VGaGJUNC1NNThJcDJTekFvMUZCSXVKQWhibVB5ZUpHN3UzR1Z1ZVl1NjVxcEN30gHnAUFVX3lxTFB6OTVZZjRYcEdkRmZxUmktNE1DZnJTT3JiSXpoWngwcnloZEkxeWJJNFVWa3U3WWhyM3dKOGJMUHdMT3lrTHY2M0NNVXF3WmxLdUljUTRmRDYzOG5XU0pSTkxEN1E4dWZpZ2p3T2F2NkJUUndKTV9fbHRiX2VDUWtwZUNMcWxKdGtYNmtEQjREekFkSWxsWWhNQXZHbmZqRGxTYmx5MEtvZ2FlMG5Fc1A4OGx3bWFDWDFYTlg0UlBTWUJIckRWVmxsTVIwM1FMek1TdHBrVnNKSHRxNXRYNkN6Ym43blRNRQ?oc=5
@@ -197,29 +328,21 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 - Ola Electric shares jump over 12% today; what analysts say
   23 Sep 2026 | https://news.google.com/rss/articles/CBMizgFBVV95cUxPS19xSW1oblZTSnVYOTZyMU5oZzdPYUdIZzFzdm5FVWpONV9oLUo5cGZwTFp0TkY5WHI3dURRYkJLSXdnRmtNMTh2Uk1uX0VYM0pIXy1OMXZpNGlSb2hCVXZEMnkycTNyS1RwMW13dzFFRm41S0l2X19Ca0VlaHJVZEZ1MDBaTDJLakpRQlAtMElYanRZS2ZhdGl4eVNUdlNnc3pObzBVc2NySFJYa21ZNGdEZFVpc250LTNoaFI0OFBZYUxpcHJSSUg4TGtFQdIB0wFBVV95cUxNenB6MzVtTExJUldaOTJONmlyWGNwdXVpTDE3UTJidlQ4OVJtejBna2xzaU90am1CQlpUNlVYNmZ5cGNZdWVnc2tsY21hUTBBMzlkdlpvbC1nQnlYcW9OYy14RjJjeGhOYmhuWDZZUXNDLVVzNVNiempyODZ1QTZCbkhYdWZjM2E5UkFqR0dfWW90b0wzdDJXdlFHYU9URHI5cmtNMmFFTEsyTnoxWVg4VmhYTWZNdGZ1S2Z2ZENRemRQWkZoY09nV0VrdWxVd3RJMm1B?oc=5
 
-[Elecon Engineering Company Ltd (ELECON, +9.06%)]
+[Wockhardt Ltd (WOCKPHARMA, +6.85%)]
 
-- 20% Jump In Six Months: Elecon Engineering Share Price Jumps 12% In Trade
-  23 Sep 2026 | https://news.google.com/rss/articles/CBMitAFBVV95cUxONUxvQnNwb2pPNDFWRFVWV0F2V2ZYUGMtZkROV3lmT2hCU29fbXpqbVg5VXpFM0Nneko2V3o3RWZaRzQ5MUtCTzAxZHd6VGxQSVNqaDZpNzhYRDJIV1dDdVIzWjNGckNGckNMZ1hvQkhxenRNYUszbGMtQVpxd3VaN1NwTlZndmtTVTNFQVFQZktzc3M2UjBpUmF4Y0taSlJIYUU5QjNkZjM0WkY1ZUx1bkJFLWvSAbwBQVVfeXFMTV9EV0xJTXdnVV9xNENnVTJqLV8yUFB2MjRWaVZMNHotZU1sZE9hajdXYVpoRFk5a2hNcTBiNkNWMElzVm5qOTlJX0V4T3RNRHRiM1ZWSXIwbHZGRTZhUkxWTE1uT25vRDJrTjlReXExRHFNM2VfSDNTN2dxSkJtRlpJNmVvbktqc3hTckRTZVprMjBnMk5tODNlR2J3eWF1cUNaMC1SNDBPWEtVaGhFaWVPLWUtVzlva2FEeDk?oc=5
+[Bikaji Foods International Ltd (BIKAJI, +6.77%)]
 
-- Elecon Engineering Company Ltd leads gainers in 'A' group
-  23 Sep 2026 | https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTEcxZzV6UlR5Nk1KTG1tdlc5aktFaXlPUnd3azdRRFpNZ3Rqam9iTmotandNclBkMlAzZFJBaW5OSlg3YWpzLUhfUzQ5dUxnS0dWU241Sm40NFJTUFZDYktIVXpOY3E3c1Zsa2MyZldZOHRoU1d1bzVTUEl6OEx6ZmhxVFJvb214UXpZR1hFY1gwMXdlbmlYRThsV2d2dS04bTVsU3VubDJXRlM3R3FKN2JQSExZQXhPU01iUzFrMWtxVWdqQ1VHTDE1Q0NMTnUtTlNR0gHYAUFVX3lxTE9DbUlFdEl1RUxiREx5S1U2eFpQQUdQU0dJempac2wtd00xT2hySHBsLW9uLXFySE5BUXVlQXBJaGI4TWFrblJRWDZYT1RDX01VUkxpbl9fdWh6WUZneEpNZTNRZTREelREWUtBMUhEOWVSX1c4eG01ejZwcEFQUzNtUVRBLVdYdHlHVnMxUThhX1p1bWZDMzcxSDZfLW85WjZicm5MRV93cC1rejFENjFoR011WTlERmRNWXRwd1NKRlJiSmJacWRDLUthTExJRzdKa05wZ1Vscg?oc=5
-
-[Bikaji Foods International Ltd (BIKAJI, +7.96%)]
-
-- Bikaji Foods sees 100-150 basis points profit margin drop on raw material inflation, says COO Manoj Verma
+- Bikaji Food sees 100-150 bps margin drop on raw material inflation, says COO Manoj Verma
   23 Sep 2026 | https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWUJMTUJiWUthZzNoRVUxX1ByVVV5V3oteVVGUy1Pc202ak02blVfSlZmT3lSVzRIekxXenhTQ29XQUNNQ3pxYUtQR0JlbW9WQ0JzbDZfSHQ5LXVpaHZtNjF6RVFTY2NBY1FCX2NreFJ6NDB6VnZ6OXVsN2xSOGpPekRxZndQSUwyV2hLNUFxalNoLWNaQUZsSHZSSlczQTJmWjUzN0lqSnkza0pIYUhWb1VfS09yQ1hlYzE3ejgzd21WaXp1S0pQQUQ2TXNvVHc3TzMxYi1BQnBfX1Zl?oc=5
 
-[Wockhardt Ltd (WOCKPHARMA, +5.88%)]
+- Elecon Engineering Company Ltd leads gainers in 'A' group
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQ21JRXRJdUVMYkRMeUtVNnhaUEFHUFNHSXpqWnNsLXdNMU9ockhwbC1vbi1xckhOQVF1ZUFwSWhiOE1ha25SUVg2WE9UQ19NVVJMaW5fX3VoellGZ3hKTWUzUWU0RHpURFlLQTFIRDllUl9XOHhtNXo2cHBBUFMzbVFUQS1XWHR5R1ZzMVE4YV9adW1mQzM3MUg2Xy1vOVo2YnJuTEVfd3Ata3oxRDYxaEdNdVk5REZkTVl0cHdTSkZSYkpiWnFkQy1LYUxMSUc3SmtOcGdVbHLSAdgBQVVfeXFMT0NtSUV0SXVFTGJETHlLVTZ4WlBBR1BTR0l6alpzbC13TTFPaHJIcGwtb24tcXJITkFRdWVBcEloYjhNYWtuUlFYNlhPVENfTVVSTGluX191aHpZRmd4Sk1lM1FlNER6VERZS0ExSEQ5ZVJfVzh4bTV6NnBwQVBTM21RVEEtV1h0eUdWczFROGFfWnVtZkMzNzFINl8tbzlaNmJybkxFX3dwLWt6MUQ2MWhHTXVZOURGZE1ZdHB3U0pGUmJKYlpxZEMtS2FMTElHN0prTnBnVWxy?oc=5
 
-[Steel Authority Of India Sail Ltd (SAIL, +5.30%)]
-
-- Nifty Metal index up over 1%; SAIL, Welpsun Corp soar up to 4%; here's why
-  23 Sep 2026 | https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmFEcENBS2NIYmZkdHpCbllybjBIekpmX0xoS2drMHQ0NlZFaU05U1ZmajJ5MmlSVlJZQnE1UTdLQWhlckxjYXlMcy1icVVSYndCVFFBTjEzSkdqWHZ6emdfWS1IQXdySXE3NVJ3aW5Ec01HV2NPdUY0cmJidk45TF9EbU40dU5od0ZLN2F2OVIyUmd0X3RpdFFrMUFhRjY2cEljaUV3SUFUelVWZW1zNmYyc3kwSjZBMGswZ2NFN3lla2h1aWJjNlJlem5SNU5TYkHSAdcBQVVfeXFMTzYyZFEtN1BSaE9iYXltb2hwdW5TU3R6RHJKWXBqaW5wNlZ1X25VZk1UQUNnMllDQjQ1YmY4V0FkREpzZ01ZbEdLR1Y3aFN6OG5TbnllU0tyYnc1N3NiQ0JCSFRnUUY3UGlBU2VtRjE3NTFEUFpacVEyeXBuWWVsRkI2Z09VMl93bDAzQVFKOUhyWFJ3T2gzaC1lSW9vQi05azQ3aldPLWlIb1BQV1NuNklBY0h5eDFxeWZwd0dPU0xYME5fek8yaFV2Z3NXYno5eUNMZmRxbmM?oc=5
+[Whirlpool Of India Ltd (WHIRLPOOL, +6.45%)]
 
 [[Top Losers]]
 
-[Prime Focus Ltd (PFOCUS, -4.31%)]
+[Prime Focus Ltd (PFOCUS, -6.34%)]
 
 - Prime Focus-backed Brahma AI raises $150 million at $2 billion valuation
   23 Sep 2026 | https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2FsNGJxVS1Xemg0bXAxcUZxVGtUcHpDWHZ1WDZybnM4czRBR3pyNEFLWHBFbFM5Z2dJRGxNNmRrX1dXam5FaFhlZHJxaGFPNDJpMDN0WDhiQkVJdFNMZnZCSGt3VFZBbjV2V1ZCYVlwOFIwSF91MTJ5OHkybjg4RUZiX3ktSlZyczlneWV3aWQ3WFFLMlhBZWVTc0RmM3A4Xzc3bnRsWmMzRUc3M0ZLQm5seUFBMzNvQmhBOFVtNzhDdzlEcFHSAcsBQVVfeXFMUEdzRnJzdGtJZGNTQ2R1cXpLanJrLUdLMklUUFM2X2pKNDNESloxbGVKVHExVWZ1dVI5S3NhTTQ0bDA1UldSbk9IbldOQzVGZkMzVWFJWkwtbU5yZFZOWmEyWWpqd1g1enhMYWFjRHpHVEZ1Z01DNU9yQUdpazd1UlBnZ1NubmVLakhfZnVFVDgwTTRzTV90NGl2YWo4THpZSkJnUjZQeHBtVXVsTmdTTzVKNFJOMmVjVGhIOWpCWTRGU2l4d2hKbUlKRDg?oc=5
@@ -230,22 +353,37 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 - Prime Focus Limited Says Brahma AI Raises $150 Million At $2 Billion Valuation
   23 Sep 2026 | https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUWxnUTdSWENIaV8wYWlLVmRLaUhVMlR6NUdhUGUyZ2trRHh5NXNGd3lPUzJMd3lWaVRtRUUxRXBiZzVfUThSRDZOeTBtUU9kUjRlX1NDX0ZTZnR0MWlUWVMzQldiSkFWQVdadnVibHhUTlVtS2hIZVFya1RWUk5BWTZBWWJPWDd0NXZMTHpnUGQ4a0FvbGVzYjlpX2NGMV9YcGI2M2R6b3hsTjhJQ2N0Y3RNNGc4YzRxRVdNdF93MGxDT2h2NXRpOUh6dUFrMlZWZ0VLRTlzeDZxMVZoZHNn?oc=5
 
-[Ather Energy Ltd (ATHERENERG, -3.57%)]
+[Pine Labs Ltd (PINELABS, -4.32%)]
 
-[Gabriel India Ltd (GABRIEL, -2.60%)]
+- Pine Labs Gains As 4.3% Stake Trades In Rs 900 Cr Block Deal
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMitwFBVV95cUxNMmVaeHhNbWJHVS1ydi1JdjdORmpUbUp2ZGxFdjE5UXdFVlBWbUgzWWl4SHZpa3I4MEVpWVdEWjhxcHBDdmQ3N2VTZmZxR19yLUNXRnRVNWp3dF9jb19oS3RuQWFCNEJMUnEtSENJbm1BcHNDWmNBQkFBSXdfVE5YMkRFa0lHR1V2WG9Nay1Nc0gxenZKQnA4VWU0dlhwQk5UQWZIRWJzWlJDOXFHbGdDZVVqQ1NSMU0?oc=5
+
+- Mastercard exits Pine Labs entirely in $110M block deal
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMikgFBVV95cUxQcWRLcnpXcnFrN3BnMnd1UG5NbF9QU3NtbFhMbHJqSV90Wl9MZ29PcTJlZ2xUQlV6blktbkxxaWhFdjg5aGFwNU9vVUFIVV9zbTZMZEtuaVRfRzFQRm5LZHhvRGVzb3BYSjdQdWZFU29LZ3pBN1hMSU1uenJTY1BNcDBfdGxLWVNEWjZjbUxRb3ZrQQ?oc=5
+
+- Mastercard Sells Entire Pine Labs 4.31% Stake For Rs 933 Cr
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMioAFBVV95cUxPbXFoLVY0ekpTWlFJRGpJNndxc1R0RVBxZ01uQ2hRaE1sT0xGUFNqV25FNWdGeUJ1Yk9YNHJHclo3RkwzWnJwT213YXBkQlJOMjIzNUM4NktTdk1haUNzOVdYbnROdms4MnViQmQ0aWZmQlZCZ1kwSmtKLXFCYzk2cGdDRWVWZjBYZkFtb0hiaHpqemlIbnFWR2wxaEpZTTAy?oc=5
+
+[Ather Energy Ltd (ATHERENERG, -3.55%)]
+
+[Gabriel India Ltd (GABRIEL, -2.61%)]
 
 - Gabriel India among 4 stocks showing RSI trending up
   23 Sep 2026 | https://news.google.com/rss/articles/CBMizgFBVV95cUxPYkZBV0JJMlNsTUlMYUExWW1tWHVZV3hQSXRxVmFBY1NxVllDbmVrYjQybUpXalQxUkFFNk1JRzFXZkZSZEhCWC1UanZEdnRuTzlSbE1zcUt1OEpPZlhqVVVwQm94NFFGTGtjTlI3LXVtMVZaajlEX1Q0RkcyeldPV2FqVGdXQmxyNHZtcnBHaGlwWTZUV3FHUm1BR2VqRU44VElzVWxMa09jNjlBT1NXY0MydVVDT3pRbjNGZnR4YzU1a3ZyOEY4cjY1TFF3dw?oc=5
 
-- Volumes jump at RHI Magnesita India Ltd counter
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaW56eW8xWjBXR0kwZkhzZ2loNkd3cHdfOUJqQVZBVlVrOC0xMG5EN2k5b1Z1a2c0NEh4c1laTHJOMzlIalRtRTJYdVpKcUNUbnhBaVlRT3hYdnhRamRRNXJLUEdlZ3Q0dU9GNGpjZTJPMG9ZTks0U0t1X1J5S25qWDl1OUJmRDBoT2FvYUY2cVc1QWdWVWFLRHB5ZTNaU1c3VDVyTVJKbVNSaDYwbjFuenpLcG5QYjlvS20yTlI1WU0wZE5FM1pxUNIBzgFBVV95cUxPWVlpRU0tNFhNX3gzOW82c1RFQ19yRVVyVTE4cGt6eURyTFY3RXUwTk1kXzlqalVid2loTndGRS1YaHlaNG9vYmtxNXlhcWlKR05XRjdPMmE5S3ZiUG1VUWY5RFdzQU5CaWE5dHdicE9LS1RyTzVFZHhQMkVTdXpwX1I3Tl8tTFhLMnUtazBvMGRCZzhYUzZVTjZTdDJLd2JJcmREdlIzNG56X2tUMW00QXdKV0c2THlUb0VWMW12Q0EyVjM5dms0U29qVWI3UQ?oc=5
-
 - Gabriel India - Cyient among 3 stocks closed above VWAP
   23 Sep 2026 | https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTzhNMlAwTUc5bDkwYlZCTGc3LUp3TnBYcjMxSXhaZVlFMUdrRl9JZDJETnVXOG9uRk5vTEpPSDl1cl9HWDBsTkEybExHNE1KZ1dDS2dwY3Y2Qm5qM1ByNU84MTJsSzhqZkpOQ1RMMXFnc1JsWFRXczNZTVY3TUxlbENPS3pCXzFYQ2hSbW5DM1NreUNyaVVqRE9KWWJybGhpLTRlang5UFpjTHZwdmZ6RkRnSmtHMGY3X0FyY3lBclVxVWM?oc=5
 
-[Tenneco Clean Air India Ltd (TENNIND, -2.58%)]
+- Volumes jump at RHI Magnesita India Ltd counter
+  22 Sep 2026 | https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaW56eW8xWjBXR0kwZkhzZ2loNkd3cHdfOUJqQVZBVlVrOC0xMG5EN2k5b1Z1a2c0NEh4c1laTHJOMzlIalRtRTJYdVpKcUNUbnhBaVlRT3hYdnhRamRRNXJLUEdlZ3Q0dU9GNGpjZTJPMG9ZTks0U0t1X1J5S25qWDl1OUJmRDBoT2FvYUY2cVc1QWdWVWFLRHB5ZTNaU1c3VDVyTVJKbVNSaDYwbjFuenpLcG5QYjlvS20yTlI1WU0wZE5FM1pxUNIBzgFBVV95cUxPWVlpRU0tNFhNX3gzOW82c1RFQ19yRVVyVTE4cGt6eURyTFY3RXUwTk1kXzlqalVid2loTndGRS1YaHlaNG9vYmtxNXlhcWlKR05XRjdPMmE5S3ZiUG1VUWY5RFdzQU5CaWE5dHdicE9LS1RyTzVFZHhQMkVTdXpwX1I3Tl8tTFhLMnUtazBvMGRCZzhYUzZVTjZTdDJLd2JJcmREdlIzNG56X2tUMW00QXdKV0c2THlUb0VWMW12Q0EyVjM5dms0U29qVWI3UQ?oc=5
 
-[Inox Wind Ltd (INOXWIND, -2.28%)]
+[Persistent Systems Ltd (PERSISTENT, -2.59%)]
 
-- Buy, Sell Or Hold: Tata Motors PV, Airtel, Inox Wind, Lalithaa Jewellery Mart — Ask Profit
-  23 Sep 2026 | https://news.google.com/rss/articles/CBMixgFBVV95cUxQd2hSRkFzejhpYXlFRDV0YUdvUFlZck43cjdwa3YxRmQ4dEV2V0tob1FHWnlSNGJNLTJoUEpKTmdnMkZvQk0yRWF5djIxZGxhdnNjaGJ3UWFOR2lmTmY2UmQyNFlfSkgxQTFxNVNuLXphNEliZkZXbjJHMEk0RnJETURMTElicHhkNFJ3T3ZQTUxUUjhfa1FoZ3puTDYyN1IyelJ4WVRRZm94blhHbWFxNkotYjBGLW9wUktoblhSTEg5QWVrMFHSAc4BQVVfeXFMTkxnajd0SGJRR2lkUEh0YzRPd1BmY182SExsVUxMLWpOcVVWVGVIWHVzV1dlN2ZSaks1alVUVHdKM183MnEyalBMaXRTQzdKaEtsNmtEUUUyVzBsVHlJajRKMmNNVDhDMWVlSFRNYnpfUjhwYmRGYUU1cF9pWlBYTktPek83STJPZlVVOEFVbEp6ajVKRFM5VENZRERKbTRlXzdINGM4c29HN2VtY05WQVdvSDZ1U0Z0ajFaRVU2TVZ2Q1pmUXpFZ0VDZW00eVE?oc=5
+- Persistent Systems Secures 83.25% Stake In Nagarro, Plans Delisting
+  22 Sep 2026 | https://news.google.com/rss/articles/CBMivwFBVV95cUxQX2c4YTdhU1JOZVZoaURHbVVyOWlBLUt3OTNDUnBpaDRBV04ya0lXemJiT0xLWnpxT2E1UnZaZ1FTeXNyN241OWprbVhBdFU5ejRaeGVhSVZZUEpnaWstUnNObDliVDlyQnpoSDhKTjFxOGRDMWRfUmk5dGhkRkdDRnVTQUMtRE5EZ0JEMGNYaEtfUGlrbmNuNEpzVzhUZnRDU08yWnBFRHlTeFRBaEJEbWVJLXoyc3ZqUE0xeGZFTQ?oc=5
+
+- Persistent Systems wins $650M+ order for strategic services
+  22 Sep 2026 | https://news.google.com/rss/articles/CBMitAFBVV95cUxOcUZvZUZFX1NiSEhNVm8zeUhZSWRJQUFZbzMwdHh3ZmZlRUpoN20zaVpOUUgtTlk2QUpZVzluczhNS053VVRhRWg4TGxXb1BhWWpGSkVGUVUxOVI4VWdSeHJZbTBNN2k5dExYUTdGcm9CbDFXR01ZS2FlcGNiWW1iU2h6Z2VrekdwRlBiLVZEYWo5WmsxN21xVHAzdmRTQ29KZFNWWFNFcmhTN1RCVDV3bWhJNDY?oc=5
+
+- Stocks to Watch Today: Hero Motors, RHI Magnesita, Persistent Systems, IRB Infrastructure, Jindal Supreme,...
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMirwJBVV95cUxOQnJqaVFwZ2tzQTJLclEwTUF2cUNtVjJiaGVYT0pkbnVTbkwwN3NJdzQ1MFoyNXhfQV9XbWpKdjVZV01yZ2FubkdZTVRZTWtKVmxaR2FIQUJHc2xabTBOakVlNmZrTjdjaGV1eTR1blJSeU4yQV9aWlo2ZXJyMUxlaWdEVzB3U0VLX1UxN253ajlzZnZFeldTcmZqeHIzdmljVHBQWDFBTVliNi1sTUpmWnExSUdRc2JGTnNmMnpzbkNhUVFDZGZoTURlTEZhV3ZxTW16NGk1Q002aXZpbF9jMVZ3SEN2Vzg2NEliUTYzajlQZUdOd3RjcEsxajkxWVJCMGZlMUtYUFFQRzhnUzgzRVE2TUoxc1ZNQlg1bkZtT0w5bG91NU5hd1djUFBfaGvSAbQCQVVfeXFMTUhFd09QWVBnZksyM2xYalJfWi13UzRGTW5xLV9DNGE5U1RyWlpwalhITHR0Z3dQQVdnLVc2bGE0cUduaDNGLS1zdnN4TWxBSVRJQ3lvTHh6ZURCeEhCc0VXRDBXd21jTnJsM3lFSjN4bExCbnpGeTU1UjlFcUJPc20zNmRIQnNSRThSY2NZMmp1THQzNEJTQXdDa01sMU55SkxpR1F4d05Oejk4VlN0RnJIXzZsaFM1VEN4YUxxNUJhUWRLZ2ZEZDA5MzVtYzhCNE1JOUpTMjZmWVl0X09FeXY1em14Q3h2cDVOaGN0UUYzZnZlMjktOW9Ub3pTMDRTOXBXbC1jZm44NlBOVno4ZWZoMFJnN3d1UVYyTG9QblNyQ0xOTnlTX3N1OUtkSzhkZm9oTU4?oc=5
