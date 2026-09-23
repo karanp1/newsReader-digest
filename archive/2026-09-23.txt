@@ -4,111 +4,68 @@ Nifty PE Ratio | 19.72 | 22 Sep 2026 | https://nifty-pe-ratio.com/
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-URL: https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/banks-rethink-upi-play-as-mdr-returns-big-techs-ai-dents-indian-it/articleshow/134423900.cms
-
-Happy Wednesday! The return of MDR on UPI is pushing banks to rethink products and budgets. This and more in today’s ETtech Morning Dispatch.
-
-Also in the letter:
-
-■ Spinny books IPO ride
-
-■ Captain Fresh FY26 net profit falls
-
-■ Zetwerk, Ayr Energy settle legal dispute
-
-MDR gives banks more fuel for UPI play
-
-Banks
-
-are reassessing budgets and product roadmaps after the return of the merchant discount rate (MDR) on Unified Payments Interface (UPI) transactions. The shift could help agent-led payments, delegated payments and business collection tools move beyond pilots.
-
-The trigger: From October 15 , eligible merchant payments above Rs 2,000 will attract a 40-basis-point MDR. Goldman Sachs projects a Rs 26,200-crore pool by fiscal 2028, with Rs 13,100 crore going to banks handling customer payments.
-
-Why it matters: Payment companies can build the interface, but products cannot scale until banks integrate systems, test transaction flows and install controls. Under zero MDR, this work generated costs without transaction-linked revenue and received lower priority.
-
-The upgrades: Agent-led payments require authentication, spending limits, audit trails and fraud monitoring. Delegated payments need linked users and revocable mandates, while business collections require invoice-linked payments, accounting-system integration and automated reconciliation.
-
-Big Tech’s AI shift may wipe out $20 billion of IT outsourcing revenue
-
-Large Indian software services exporters
-
-face the risk of losing up to $20 billion in annual contracts over the next one to two years as major tech companies such as Google and Meta scale back traditional IT outsourcing budgets, according to industry experts.
-
-Driving the news: The shift threatens revenues in the high-tech and communications segments of India’s $315 billion IT industry as hyperscalers and big-tech firms use AI and automation to improve efficiency.
-
-A 15-20% reduction could roughly put $12-20 billion in revenue under pressure if the trend spreads to other sectors.
-
-This estimate is based on the industry body Nasscom’s 2025-26 IT services revenue forecast of $149 billion, with roughly 55-70% of that revenue, or $80-100 billion, coming from outsourcing.
-
-Why is the pressure building: “Big Tech is doing this first because it has the AI capability to do it. Once banks, retailers, manufacturers and healthcare companies become confident they can take 15-20% of effort out of mature outsourcing contracts, the same pressure will spread well beyond the technology vertical,” said Phil Fersht, chief executive at US consultancy and research firm HFS Group.
-
-Tell me more: The contraction is concentrated in labour-intensive work such as:
-
-Testing and routine application support.
-
-Engineering support and business process outsourcing.
-
-Trust and safety operations.
-
-Customer experience management (CXM).
-
-Spinny files confidentially for Rs 3,000-crore IPO
-
-L-R: Mohit Gupta, Niraj Singh Ramanshu Mahaur, cofounders, Spinny
-
-Tiger Global-backed used-car platform Spinny has
-
-made a confidential filing with Sebi for an initial public offering (IPO). The company is targeting a total issue size of Rs 3,000-3,500 crore, according to people aware of the matter.
-
-IPO plans: The issue is expected to be split almost equally between a fresh capital raise and an offer for sale by existing investors. Spinny may use the fresh funds to expand its presence across India.
-
-Funding: In February, Spinny closed a $160-170 million round led by US-based investors Fidelity and Accel Leaders Fund, ET had reported. The funding included $90 million of primary capital, while the rest was secondary sales by early investors. Fidelity and WestBridge Capital bought shares through the secondary leg.
-
-Expansion: Spinny acquired vehicle servicing startup GoMechanic last November in a Rs 450-crore cash and stock deal to expand its bouquet of offerings.
-
-Snapdeal parent AceVector seeks Rs 1,741-crore valuation for upcoming IPO
-
-Kunal Bahl (left) and Rohit Bansal, cofounders, AceVector
-
-Snapdeal’s parent company AceVector has set a price band of Rs 30-32 per share for its
-
-upcoming IPO , valuing the company at Rs 1,741 crore (around $182 million) at the upper end of the range.
-
-IPO details: AceVector is raising Rs 287 crore in fresh capital through the IPO, while investors such as SoftBank, Nexus Venture Partners, and Foxconn are selling shares worth Rs 133 crore through the offer-for-sale component.
-
-Valuation gap: The IPO valuation is sharply below Snapdeal’s $6.5 billion peak in 2016 following Softbank’s $1 billion investment. Snapdeal was moved under the AceVector umbrella in 2022.
-
-Other Top Stories By Our Reporters
-
-Utham Gowda, founder and CEO, Captain Fresh
-
-Captain Fresh FY26 net profit more than halves: B2B seafood marketplace Captain Fresh’s consolidated net profit more than halved to Rs 19.6 crore in FY26 from Rs 42.4 crore in FY25. The bottom line shrank after it booked Rs 30 crore in one-time IPO expenses, moved from a net tax credit to a net tax expense, and reported wider losses from discontinued domestic operations, according to its audited annual report.
-
-Zetwerk, Ayr Energy settle trade-secret dispute: After more than a year, IPO-bound manufacturing platform Zetwerk and US-based power equipment maker Ayr Energy have reached a settlement resolving their legal disputes, in which they had accused each other of misusing confidential information and trade secrets.
-
-Global Picks We Are Reading
-
-■ Stop asking AI CEOs what society needs (
-
-FT )
-
-■ America is in the wrong AI race with China (
-
-Rest of World )
-
-■ We surveyed 634 women who work in tech. They let loose (
-
-Wired )
+[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
 
 ============================================================
 
 SOURCE 2: The Hindu - Editorials
-
-[No editorials published today — feed had entries, none dated today]
+[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
 
 ============================================================
 
 SOURCE 3: The Hindu - International (headlines + summary)
+
+- Faceless People: The documentary asking why Sri Lankan Tamil refugees still are not Indian citizens
+  23 Sep 2026 | https://www.thehindu.com/entertainment/movies/faceless-people-the-documentary-asking-why-sri-lankan-tamil-refugees-still-are-not-indian-citizens/article71498481.ece
+  Decades after fleeing the war, Sri Lankan Tamil refugees in India remain in legal limbo. RK Radhakrishnan’s documentary, Faceless People, follows six of them still waiting to belong
+
+- China sets guidelines for fentanyl-related crimes prior to Trump-Xi summit
+  23 Sep 2026 | https://www.thehindu.com/news/international/china-sets-guidelines-for-fentanyl-related-crimes-prior-to-trump-xi-summit/article71498356.ece
+  The guidelines come a day before ‌Chinese President Xi Jinping is expected to meet United ‌States President Donald Trump in ‌Washington ⁠for their second ⁠summit this year
+
+- South Africa house party shooting leaves 11 dead, 3 wounded, police say
+  23 Sep 2026 | https://www.thehindu.com/news/international/south-africa-house-party-shooting-leaves-11-dead-3-wounded-police-say/article71498806.ece
+  he people had gathered at a house for a party when the suspects entered and opened fire, police said
+
+- Donald Trump voices strong support for India-Middle East-Europe economic corridor
+  23 Sep 2026 | https://www.thehindu.com/news/international/donald-trump-voices-strong-support-for-india-middle-east-europe-economic-corridor/article71498530.ece
+  Iran's terrorist attacks on commercial shipping in neighbouring countries have shown the need to shift West Asian energy infrastructure away from the Iranian checkpoints, says U.S. President Donald Trump
+
+- Israel denounces ‘grotesque absurdity’ of Macron’s UN remarks on West Bank
+  23 Sep 2026 | https://www.thehindu.com/news/international/israel-denounces-grotesque-absurdity-of-macrons-un-remarks-on-west-bank/article71498314.ece
+  French President Emmanuel Macron said that "Hamas has never struck in the West Bank”, a territory seized by Israel in 1967 that is home to the Palestinian Authority
+
+- ShinyHunters hackers say they breached FBI
+  23 Sep 2026 | https://www.thehindu.com/sci-tech/technology/shinyhunters-hackers-say-they-breached-fbi/article71498623.ece
+  ShinyHunters said ‌in a statement posted to ‌its dark-web site and during an online chat ⁠with Reuters that it targeted the FBI in response to a May 2026 agency announcement that ​detailed ShinyHunters’ methods and ‌advised targets not to pay
+
+- US Treasury secretary could take on AI czar role, source says
+  23 Sep 2026 | https://www.thehindu.com/news/international/us-treasury-secretary-could-take-on-ai-czar-role-source-says/article71498228.ece
+  Scott Bessent could become US President Donald ​Trump’s new AI czar, a source familiar ‌with the discussions said
+
+- This year’s El Niño-driven heat could cause nearly half a million more deaths, group says
+  23 Sep 2026 | https://www.thehindu.com/news/international/this-years-el-nino-driven-heat-could-cause-nearly-half-a-million-more-deaths-group-says/article71498323.ece
+  The heaviest toll is expected in poorer countries, already struggling with food insecurity and high energy costs, partly due to climate change and the fallout of the war in Iran, the University of Chicago-based Climate Impact Lab says
+
+- Mark Carney says Canada, India aim to wrap up trade talks by G20 ahead of PM Modi visit
+  23 Sep 2026 | https://www.thehindu.com/news/international/mark-carney-says-canada-india-aim-to-wrap-up-trade-talks-by-g20-ahead-of-pm-modi-visit/article71498251.ece
+  Mark Carney said he and Narendra Modi had committed to try to conclude negotiations by the G20
+
+- UK ready to lead global push on AI Standards, Burnham tells UN
+  23 Sep 2026 | https://www.thehindu.com/sci-tech/technology/uk-ready-to-lead-global-push-on-ai-standards-burnham-tells-un/article71498265.ece
+  Britain has a world-leading AI Security Institute, which works hand in glove with the US and the leading labs on AI safety, he said, but it needed to go further
+
+- Mongolian herders enlist new tech against harsher, drier climate
+  23 Sep 2026 | https://www.thehindu.com/sci-tech/technology/mongolian-herders-enlist-new-tech-against-harsher-drier-climate/article71498164.ece
+  Herders are on the frontline of both climate change and desertification impacts
+
+- Trump praises new British PM Andy Burnham but slams U.K. deal on Indian Ocean islands
+  23 Sep 2026 | https://www.thehindu.com/news/international/trump-praises-new-british-pm-andy-burnham-but-slams-uk-deal-on-indian-ocean-islands/article71498109.ece
+  Despite U.K. nerves about how new PM Andy Burnham’s meeting with the U.S. President would go, as they sat in front of U.K. and U.S. flags, Mr. Trump declared that trans-Atlantic relations were “more up than they were with your last Prime Minister”
+
+- Trump says U.S., Iranian officials met, shortly after warning he may 'annihilate' Iran
+  23 Sep 2026 | https://www.thehindu.com/news/international/trump-says-us-iranian-officials-met-shortly-after-warning-he-may-annihilate-iran/article71498118.ece
+  The engagement comes after months of U.S.-Iran communications languishing following the collapse of a short-lived ceasefire that was brokered in June
 
 - Trump bans media outlets CNN, MS NOW, Politico from White House
   23 Sep 2026 | https://www.thehindu.com/news/international/trump-bans-media-outlets-cnn-ms-now-politico-from-white-house/article71482414.ece
@@ -118,14 +75,6 @@ SOURCE 3: The Hindu - International (headlines + summary)
   23 Sep 2026 | https://www.thehindu.com/news/international/you-should-not-be-here-trump-tells-cnn-at-un-as-standoff-with-media-outlets-persists/article71498021.ece
   The tense moment was a stark reminder of how dramatically the bitter conflict between U.S. President Donald Trump and news outlets whose coverage he objects to as “fake news" has escalated in just a few days
 
-- Macron urges world to choose UN over ‘law of the jungle’
-  23 Sep 2026 | https://www.thehindu.com/news/international/macron-urges-world-to-choose-un-over-law-of-the-jungle/article71497347.ece
-  ‘What is our credibility worth if we remain inactive on Gaza; some claim that peace has been achieved, but this has not opened up humanitarian deliveries; it is a spectacle that shames us all,’ said Emmanuel Macron
-
-- We must reform the Security Council: UN chief Guterres in final UNGA address
-  23 Sep 2026 | https://www.thehindu.com/news/international/un-chief-antonio-guterres-last-unga-speech-2026/article71496335.ece
-  This is the final high-level UN General Assembly week for Secretary General Guterres, whose second five-year tenure as head of the United Nations ends in December 2026
-
 ============================================================
 
 SOURCE 4: Entrackr Weekly Funding Report
@@ -134,10 +83,7 @@ No new Weekly Funding Report since the last check. Most recent report: https://e
 ============================================================
 
 SOURCE 5: The Hindu - Business (headlines + summary)
-
-[Technology] Microsoft Xbox plans to cut hundreds of jobs
-  23 Sep 2026 | https://www.thehindu.com/sci-tech/technology/microsoft-xbox-plans-to-cut-hundreds-of-jobs/article71494286.ece
-  Xbox CEO Asha Sharma is pushing for the company to return to growth by the end of the 2027 financial year
+[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
 
 ============================================================
 
@@ -145,31 +91,31 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Bitcoin]
 
-- 'Crypto winter is over,' analyst says as bitcoin tops $86,000: Chart of the Day
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMiygFBVV95cUxPc2tBSFlwWW5FZEdxa05RSm1oOGpBdUEwUEdmZ0NDcGlUTGN4OTA3N3JUeG01Wk9UZ25LMmhOc0owdTRvbndrRXpCSEZ3Xy1SVjBHcDN3bDg1RkVKMnprQzEwQWNMMmxuUXA4enlzWERNLXZiZkhEaDN4eVNhQ1VHdklwdms3dDZmcDlSYXZBVUtKT3VxUlU5RW51Z0FFcE82ZnpTQWFUSXZpTnlsTk1neVB3R2tFWXlfZm16VkdhZjFIZ2F4ejdiS2Nn?oc=5
+- Bitcoin Surges as Trump Confirms “Good Meeting” with Iran amid Hormuz Opening Proposal
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMioAFBVV95cUxQYnh4NFNYdHBERDcwUy1nWm5DZXVQeV85VFMydmpBVmI5YUhZY1YyeURPRkJCaVF3VV9vY2wzZGxDRkFkRldndUlFUjgtay1qSktmVVl3eFZVbWVtQlktTFl0ZGItcFZnOFhvVDlxWk9EblQtOXAwb2oya01YTThVdzI5RHByZC1GRWpQdHcyRXc3MXMyQlVnMWJpQUQxQXU5?oc=5
+
+- On the Chain: Bitcoin holds near US$87,000 as ETF buying powers crypto rebound
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMiggFBVV95cUxNMmNkb3R2QlNpT050MzJsbGg1VW5uTFhGVl83ME9hd05vb3kta0lZdjdUTkF4SzNLc0IyMjhTTkVqUDVkeWZfeHJjR3BQUnVzUjRuRUlUU0NCVlJBNW5SQ3ZnZmRqcjY0aXoxdURpZkN6NkJENXhwMUphRUp5aVlYcG5B?oc=5
 
 - Expert analyzes Meta's price-target hike, Amazon's AI block, Bitcoin rally, and falling yields
   22 Sep 2026 | https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLYkdEbW9CQWFvYkQ5aHVhdGd5MUtaWUI2RUxQZHZFZF9ZRTNHTFNjRlpQUG9naEVvWDZxLVI0Sjh6Z1JrRGpacXJBQmJJT0NaRGd6Q0RZY2dPRFk?oc=5
 
-- Bitcoin Investors Buy Nearly $1B in BTC ETFs as Bull Market Returns
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMigAFBVV95cUxOMmRET3VySTJGUWJCQlJtdDlYaFcxV1hMZUFtRXhHcWV3SjhSTnl3ZXB4RUt3bU1wU2U2bHBNeEkzWC1JbFozMGVBc0NMQUVVXzZOUkh4MEkyTEZhbHprdWNYRHpMck1HS2haY0YyYjdCT2hBRGVXTXhCUDBIMEtyag?oc=5
-
-- Bitcoin ETFs Attract Nearly $1 Billion As Crypto Rally Strengthens
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMimgFBVV95cUxNQkFBUS1RdDBLTmFJMTNCSjhhWVRJVWNCdVpoSkUyVzJlc2cyekZmVDhCSlY2MmNfanBXZHMyZGplOXNlQTNYREVWRHhtMWpqLTB4Wmo0c1FHbUNiUW5uY3Zia3AyeFRjbHNYSG1BTW1wS3M0TGt1ckFqYXZPaVdhNF9LWFN6dlJVcEU2OC1KZkVLR1hYeU5vaU9R?oc=5
+- Bitcoins, a Trump ally and a pitch for Putin: Inside Epstein’s secret crypto ties
+  22 Sep 2026 | https://news.google.com/rss/articles/CBMidkFVX3lxTE10OVNuWFBQY1FTdW9VQ1FpT093c3BlZHA2T202aVlPSlM0SmxtMFRjMkFlbER1bUUxV2ZGbVp6OHhTbVRmTVo0MmZadnpraTBRWWRrQWxzTy1HNlJ5cWY2aVVmYXljSnlRNnVPODlOWjJ6SkRUZWfSAXZBVV95cUxNNnJlMTFOaE9FWFI5OFl5a1VSTHQ0cHBuNUw2Tng0X1R6dUFzWjV0UFc1VndabnBSaHZTdjQwMks3TDRNOTdKS3hHQ3ZZUS1qV1hNeFk4NmdhbjJXR1plV0t4MkRZY2c5TFVzM1QxSVRwSGFjWU1R?oc=5
 
 [Gold]
+
+- Gold lacklustre as higher-for-longer rate outlook weighs on sentiment
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGROaTNUbzBNRWdvU1J1SVRKaURrN0FDVHMteG50VExEUUhKN3UyQ0pMZ3F0ZUtXRHoyc2c2aDgzRkFrTFhHR01OdVROSVBWVnRLWmhqSjNDdW5FVjdHeEptYW5fUFg1VFVnX0xXZURtemZqOVNqNmRqc19yVjdYX3BwM1I1T0M4VUIwdDNqdmxFcnlXX2pKS3VCNllNbEJTQkZxZTJkd1NpNDZwOGpBSw?oc=5
 
 - Current price of gold as of September 22, 2026
   22 Sep 2026 | https://news.google.com/rss/articles/CBMibkFVX3lxTE0zdWxGeTduMjM1MV9vWnladngzd1htVG04enFxLXBmb05FTW9IRWs2b1lJWDVOMGsxenc3SUdrMDhNanpDYmpZRFkzNGRuTW1pYmlNSjlnZXZaRkJaU3pOclZaVVNzcFpGWXluUWR3?oc=5
 
-- ‘Gold is worth around $5k’ as the yellow metal ‘has gone from a pure play on real rates to a pure play on liquidity’ – Fidelity’s Timmer
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdVFTbHZYaTEzOGV2VFdLc0ZWcUlPSXdpbEQ1ZnljMVR3NXVWR0JsVjFUYVRQOXRUcTVuUERXb3c4enpVXzhkbUYwd1N4V2FibDRjWl9GSGMwWXFjMTNtR0hHcm9CMURHZDFqQW0ydnZCa2dwdm1HOGNTY2NSdnN4RDVSZGhsZGF3M2JfSjFqSEN0YWJWUU8zTWMtYnp2V0lHcFpzdFQ2Xy1xSVRhRmY2Rkp2VmVGV0NJWFdz?oc=5
+- Silver leads metals higher as dollar strength caps gold after Fed rate repricing - Kitco PM Report
+  22 Sep 2026 | https://news.google.com/rss/articles/CBMiswFBVV95cUxNUThFbndNVlBVWnVqTzNmLWQtUkZGVmNaZVBPZmJKNDdLNWYtOTVHUEdWZjgxdXVSOE9RaUFYYXhDWDNCZlNjRDFFd1ZVb0FUVGQ0UTFzd1dQRmxQRU9ZZFlxYkY5dTk2dmFJWU5kQ3I2Z0E3Vk9Tdkl3SkxtSUxhNjlwYms1aVN1OUpMY3BDQkxXd19YNUlQamZvbDljMTJkdlVBZmp5d1Y3R3NoN05kZkM4SQ?oc=5
 
 - Gold price today, Tuesday, September 22, 2026: Gold prices holding as Chinese gold imports set record
   22 Sep 2026 | https://news.google.com/rss/articles/CBMigwJBVV95cUxPbmNCN3F0X2k5d3g3MHBZMU9MNTZhWWFSWVlBWEFPNkZQOWtHaDFvVEt0ZFN1VjdzRmU4NHB0QUN5d0FKOWFrcWhWMVd1Nl9tNHpSTmhUMVBIVGdfdUQ2aG5ITExDRWRuc0xVOERBNVlwLWdjRC10cjVOLWsyUHVHc1RBRGUyTWduLUp1RTBhWG1lWVlvSXVMMG94Qks3UkJzNmdVTGpENXVSX0l0RURjNVlGSDM5QmFRRVkzSFJsWU9hNDV6aWJDX08tSGVhX3BxdlprN2Z0MkljS0VFLWtySVNSZUdkekI3dnBiVDVWR1l5cTNZWEdlRURtdF9rZzgtNTBF?oc=5
-
-- Gold Price Forecast: XAU/USD approaches $4,300 after rejection at the $4,400 area
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMivgFBVV95cUxNQm05R2pxa2ZSVDE5QlItZjA0X24yYzQ2M09PZWZFSU1KME5vMG1NNEFIdTZvQXJacDlaSWhEMGJPMlRfVVU2TGRuMTBMTjlTNUtsc0pCME1kNVlxWjhFZ2txM1JJNXRXcnlhRzVFdmpKdkdIcXZaeU9paFVabU9ndURJUnNwR2thbFlrV1NoX21VZHAxS0xnRUprdDJNemVFUkRmNUlsWk4wTmlIajRDZUd3b2M3R1dXWGpRdGln?oc=5
 
 [HAL]
 
@@ -181,9 +127,6 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - HAL, BEL, BDL, BEML: Defence stocks to buy for 13 24% upside - BusinessToday
   22 Sep 2026 | https://news.google.com/rss/articles/CBMiqAFBVV95cUxONDd1ZVp1R2dDWnhuM01kejFNVmJDNXkxMU9VOU5IcXFTby1PbmNXLTV3Q0JxTnVJSHM2ZUdsTHotSW1BMFZXSlRkNmtYMUxpRVotR0Y1UHlLZXJnSC1CT296TUVmLXllZ0xRMTFfNjV1UmFBYVhPRjhVNTRxMlVGMzNZd0JHMXNlaUFVRlo4QzhTTjBWb01td05IclFSYWFPUVdEbGxxbFg?oc=5
-
-- POST OF DIRECTOR HR ADVERTISED IN HAL
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMihwFBVV95cUxOcU56VTM5NWxLWkdScTVhVWluUmtoWHVkbWtmSzR4OHdZNV9valdUX016UWk5RG1CQ081LTRGd0Rnd0JsZ3FubC05a0RmNU1sQXNsWGJjWndkMl9MQ1ppVU5rY0NMbzZvV01XUUVLRngyM1RJdXc4NmVHV3Fibm9MOFBrNUoyZk0?oc=5
 
 [Tejas Networks]
 
@@ -209,14 +152,14 @@ SOURCE 6: Watchlist (headlines + summary)
 - Flipkart Turns Kolkata's BBD Bagh into a Big Billion Days Moment Through the City's Iconic Bus Culture
   22 Sep 2026 | https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWUp0bExuVmcxc3RwajM4SGVvTDQ3WTBtTFBMWU9ndFpoM01ydkt3dUtzQWcwYnAwTnlSMGVtRDVYeUNqZ0hxc1RMbWgyVU9WZGhPU2tzaHhva2FtTXdZR2tzd0k1aDNpRUE2bk43TWxsZHlFLTg1QzVSVklpRjZXVWtCNmREMWViOWpRckhUTHVNWUZONE1aM05hWElBWHlPS3BHLWhIMFdGMkZXTldjZ2J1bXpWSEx0ODdyVGM1NEM?oc=5
 
-- Flipkart's Campaign Gives Big Billion Days A Luck Twist
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUxVQXNOWmZ5RGdOTWRRNmtLanBHWWVZcmdNcjAyWEFSRG5NcHJ1T1V2c0E5d1BPNjlmZ0JTNF9yUTUtVmRsOUhPNWFJdDUydklfOUxKenVFNnlZNTlONFR3eGE4Y3NyM3N1c0oxQTNLcHJVMjdHaW1CQl9QNnFoWnVWZnVZVXVLZFBlcml6Z3lsOTVoM2RzRDlGZDdoLURQUWxuQ2Fn?oc=5
+- Flipkart Puts Big Billion Days on Kolkata’s Buses in New Campaign
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMinAFBVV95cUxPRzJxRnVibl90UG1mM3dMQzlFbXNUR2FrUzdqVjdLdlM5cFVqLWMzeXN3dTBJNnNsS24wRFpxRlMwTzU4QVdZbFppRHdsUzZXeXV6Nnl2UEs5Umtuci1jemNtOUswMXI1UEp0MmdTNjZxeF82S0c1SjJPNnlaMWM3aTJRelVlWWRVN0FodjBxWjdRQ0ZrZHpENmpzbU4?oc=5
 
-- iPhone 17 price during Flipkart sale: Big Billion Days deal teased at around Rs 70,000
-  23 Sep 2026 | https://news.google.com/rss/articles/CBMi6AFBVV95cUxOUm5Ec1A2VXFrS3dHSVZJU3F5UElkeTBWZThxTk1MZGprcXRwamZiaHdjc1lEU3BuRzE4czNPdFJ6WG54ek90TG1EUG1LdGJBcGZ6UTB1cnNOX2RqRGg0bUJMSXhZTzB6X3VXeFVPOE5rRE13RHJmNEo4Mks0bGpYLTVlSDc5WXFGQi15SDhuRXVlNEFPVEJKT2lLZXJEeTBlbXlWTGQ4NWZfU2FwMkxiaWZ3SENfNGI3S0k2WnFYTjVkczFqQlF6YklMRWxFdWVRYTBuUy1YOHdaUUNGa0U4RW5VSWNNU0dj0gHuAUFVX3lxTE1qM1I5VDhyYkdNVXBnWG0xTlhhOGRGa1NlLTQyVEdYdEJ2ZEs5UDlBRjA0ZHNkdXVSUGVnblhZR1BtRDVlM2g4aGJWNzJIX2VsdHNOb1pqek9XQktZSnZmcVp1V1dTSVhzOUxfMmxtbmJDUWN2MFRNWjFIYlJIVUZzREhLZkZQdjR1WXFuZ0FFa3BwVjNrNzlRbm9ERGE5R0xzUWlfMDduek53SXktdVpQdl9VRm5LYTBUTmxhclFPLUNabEFyMlNPU3F3ZGRRZEhBUzNDNXl4T1NJTWtoWDRZSGhLVFdERzdETmtjYVE?oc=5
+- Beware: Amazon, Flipkart festive sale scams could get smarter with AI shopping tools; All you need to know
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMiggJBVV95cUxOeFYtZVdKSVM2OWFITFNlZDRxbEZ4UFZIYV9VLS14NEp2VEtsOU0yZ09xdFRDUFVWX0JfbnRINkxLZ3hyQm4ycFVpajdENU5VVV9wV2V6N18ycU5GaGwtOVpwXzFuVnlvLUZ1MUZFd2o2c2dzSVFPbFJ0WTFqTjJIY0Z2S25GbnZQbFo5Y3JUYkRMS2pFRzZ4aGZtNGJJXzFEMlJqNGxkTVNrMVJaRFZKUGUzcVVzQ3ludVA0LVZxUklONE82VHJtSUxDVXFwRHJPaE5MQXZ2YzdDcFkxNFVxMlRuNlhsdVk5NjlJRU94dlNkNEJSWjFiY3YzQXNRTjVOSUHSAYcCQVVfeXFMTlJfSXo1Q2ZRLW9yOEg1MFdFeFJtUC1EYS1mNUZvbXRvMjZEYUtQcVhqWE5ac3dweXA3MXA0MWt3MzgtVnk5NFFKeDZuN0lSYWJxTUJSSWVVMmRQMnM4b1RyRlF3WmV3Zm5MVm1nZDZoT0d6THdXLURUN0p3X3pqeUxIdVdsRXdMckZhMmRnUzdfM3hfWXlRR2l1bnIwZXdwRUxyOHFVMmY2NUsyTFc1QTdORzJMV2xpQUNwS25uYTduRlV3NF8zYmt0b1prUG9KRjVqdVVvbnBEQ1RTRW92XzFSWjhrUnZwdm5xYkozWHo3bkZpZER3WjRwVHVtVEc2dUUyNllCMWs?oc=5
 
-- Oppo K14 Plus 5G Teased on Flipkart Ahead of 2026 Launch
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMiT0FVX3lxTE0zblpidDBvN29adk8wVWlNZ0hPdGxIaHlFT0V1Y0d1RXVrdW96NEt5bThpUFZOaWJOcmM1TjVRdFhjN084Y0pJVjRUQl9nZWM?oc=5
+- Kothaye Jaabe Dada? Flipkart Takes a Detour Through Kolkata’s History
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMiygFBVV95cUxNX2lpVjNIZHkwTUlZRUVZa3dTOVZ4dTRheV9sSFh3dmtnaVRUMTZ3NXloQXdIZE5USndsNXZRMVpfODZNS3drRjMwVHhQWXo4eTVhSDhUdjNRS3QxNF9qdVloVG41dEQzNlZQbHNqMkthamVHdHdQcHVmLUxPQkZDT19BOUdkbk1hUUFBNEdUbjlJcG1hQUVaejBlTkJJdzNxZTcwOS1BdC1KYXNOa3NjcjA3cFNVU1B5Q1E0NDdaTDFnTGU0eUZtSVB3?oc=5
 
 [Flipkart Minutes]
 
@@ -225,17 +168,17 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [OpenAI/Anthropic/Kimi/Deepseek/OpenRouter]
 
-- Introducing GPT-6 Sol and Luna
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5
-
 - Measurements for understanding the pace of AI development inside frontier labs
   23 Sep 2026 | https://news.google.com/rss/articles/CBMid0FVX3lxTE1hSlNaZU5CMXdjOERiMTltcEVxMXduUXVrT1UtSExlUGlUUHFCc2huOVM0NEY0cmhCMVF6X0o2QjMwUUZOQkhuSGlHVjFlaWdKelR3ZTEzUV9SRzRIdkxhV3RfQ0N2OUI5U214a0RqZjh3c2MxUktr?oc=5
 
-- Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMiggFBVV95cUxNYl82VnlnNDZ1ZElxSE9RMmlPZ29FSjVleTBLZG9SYzRxc0FXRXpWWmRqekhENWtKdXdNX2ZGOFdCcGZjZVFHMWc1a3hLcGRtZUNmaU5DMmlHbzZIX3hWbTlTWklXU3c5LXpuMjB6YUtNY1Z4RTBDTlZON1BlejZ3RUFR?oc=5
+- Introducing GPT-6 Sol and Luna
+  22 Sep 2026 | https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5
 
 - EXCLUSIVE: Anthropic, OpenEvidence partner to bring medical AI worldwide
   22 Sep 2026 | https://news.google.com/rss/articles/CBMirwFBVV95cUxOLVV5RE9jdGNuVXUycl9fTjJ1Ty1tVzZ2U1MxcWtaZDhXOG5qc29yTENvLVJtZ19PM09MQng5azRmbU5kNG40dUtBcVcxN0U1eGZNUkZwaXA0amt6R25qak9za19YTTNKVHFDVGg0VVVzN3V2VjFHdnBHN3BpUmtQR3BUdThUd3FqbXJIOHZLVE1kbVVRV005bDJmM3o3N2Z2Z3Bvd2NYZjhSLUdpYUhZ?oc=5
+
+- Anthropic Releases a New A.I. Model, Opus 5.5, Amid Safety Debate
+  22 Sep 2026 | https://news.google.com/rss/articles/CBMiggFBVV95cUxNYl82VnlnNDZ1ZElxSE9RMmlPZ29FSjVleTBLZG9SYzRxc0FXRXpWWmRqekhENWtKdXdNX2ZGOFdCcGZjZVFHMWc1a3hLcGRtZUNmaU5DMmlHbzZIX3hWbTlTWklXU3c5LXpuMjB6YUtNY1Z4RTBDTlZON1BlejZ3RUFR?oc=5
 
 ============================================================
 
@@ -243,84 +186,66 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [[Top Gainers]]
 
-[Gabriel India Ltd (GABRIEL, +14.04%)]
+[Ola Electric Mobility Ltd (OLAELEC, +9.63%)]
+
+- Ola Electric shares soar 10%, stock rallies 86% in 6 months. More upside ahead?
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMi4gFBVV95cUxPRkxKSmpKYWpDYjhjWTBkUzdMeUFFcmlGZmoxNXdvNnJKVnhzbVZOUW5YWlVubTBwQUN4OEpBa1dFUXZKaGpydllZX0NhTy15dTlzSXk5M19aQmU3ZGV3djBZY2pYRkZyc2ZiVWhaRHBnaWx1NlFreWZqLUVrQ3Bwbk5PMnA4UkE0cWdTQjVUeWJVMVp5RnZpMUZBYlJMSnBDdTQ3VHhqR2JsdWVJeUdXUFpMY0VGaGJUNC1NNThJcDJTekFvMUZCSXVKQWhibVB5ZUpHN3UzR1Z1ZVl1NjVxcEN30gHnAUFVX3lxTFB6OTVZZjRYcEdkRmZxUmktNE1DZnJTT3JiSXpoWngwcnloZEkxeWJJNFVWa3U3WWhyM3dKOGJMUHdMT3lrTHY2M0NNVXF3WmxLdUljUTRmRDYzOG5XU0pSTkxEN1E4dWZpZ2p3T2F2NkJUUndKTV9fbHRiX2VDUWtwZUNMcWxKdGtYNmtEQjREekFkSWxsWWhNQXZHbmZqRGxTYmx5MEtvZ2FlMG5Fc1A4OGx3bWFDWDFYTlg0UlBTWUJIckRWVmxsTVIwM1FMek1TdHBrVnNKSHRxNXRYNkN6Ym43blRNRQ?oc=5
+
+- Ola Electric zooms 10% on heavy volume; trades higher for 3rd straight day
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMi1gFBVV95cUxOYURyLUVCc1lBZEJta284cC1sampGbkFreUd2UVpDWUhldGQ4SThVRzB6ZnlDN2p2dmR1di1wck43TmN2akNINjU0V3MxNGxoVGRWemk0c19SSzhXMVZGOGREVmNIWmh5aFprYzc0X0dLcndJbXc4cFc4VU5lQ0hyUDNWbGtlMndZMmtibnJFczlPMGVYTkdoN3BxYS1aUGdqMTVNSTNCRG5hc0l0S1BHZEI2bDN0dGhwOTZaZzRNZldmNmxSNXFHMnRBWkhrU3RnazhhS1pB0gHbAUFVX3lxTFBldjBhWUEwTFk1ZWl4enQ2NHBIX0dGYXd3aXI2NDRqZHJZZnB0VkozYkZqUWpXdDdoSHhiWGNTMlVwQWR1cWk1T0RsVk1tMC1ybUN1SUdGLUE3Y2h4SmstV3dLRUt3aGxudUdHWEVHTkthaFlUT2RsVWNvLTRkZFFPbWlsdjh5VWRXLWUwbkJQV1o4RlFKYTZ3cHdSOXlmeWZIUkZ1WHVzak5wQUF5UVNuMklYWl91Z1VqVTRhZUdwaUMzOXFpQlJ6MmRlc3ZsMjgzLTFoYnhSbjZfYw?oc=5
+
+- Ola Electric shares jump over 12% today; what analysts say
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMizgFBVV95cUxPS19xSW1oblZTSnVYOTZyMU5oZzdPYUdIZzFzdm5FVWpONV9oLUo5cGZwTFp0TkY5WHI3dURRYkJLSXdnRmtNMTh2Uk1uX0VYM0pIXy1OMXZpNGlSb2hCVXZEMnkycTNyS1RwMW13dzFFRm41S0l2X19Ca0VlaHJVZEZ1MDBaTDJLakpRQlAtMElYanRZS2ZhdGl4eVNUdlNnc3pObzBVc2NySFJYa21ZNGdEZFVpc250LTNoaFI0OFBZYUxpcHJSSUg4TGtFQdIB0wFBVV95cUxNenB6MzVtTExJUldaOTJONmlyWGNwdXVpTDE3UTJidlQ4OVJtejBna2xzaU90am1CQlpUNlVYNmZ5cGNZdWVnc2tsY21hUTBBMzlkdlpvbC1nQnlYcW9OYy14RjJjeGhOYmhuWDZZUXNDLVVzNVNiempyODZ1QTZCbkhYdWZjM2E5UkFqR0dfWW90b0wzdDJXdlFHYU9URHI5cmtNMmFFTEsyTnoxWVg4VmhYTWZNdGZ1S2Z2ZENRemRQWkZoY09nV0VrdWxVd3RJMm1B?oc=5
+
+[Elecon Engineering Company Ltd (ELECON, +9.06%)]
+
+- 20% Jump In Six Months: Elecon Engineering Share Price Jumps 12% In Trade
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMitAFBVV95cUxONUxvQnNwb2pPNDFWRFVWV0F2V2ZYUGMtZkROV3lmT2hCU29fbXpqbVg5VXpFM0Nneko2V3o3RWZaRzQ5MUtCTzAxZHd6VGxQSVNqaDZpNzhYRDJIV1dDdVIzWjNGckNGckNMZ1hvQkhxenRNYUszbGMtQVpxd3VaN1NwTlZndmtTVTNFQVFQZktzc3M2UjBpUmF4Y0taSlJIYUU5QjNkZjM0WkY1ZUx1bkJFLWvSAbwBQVVfeXFMTV9EV0xJTXdnVV9xNENnVTJqLV8yUFB2MjRWaVZMNHotZU1sZE9hajdXYVpoRFk5a2hNcTBiNkNWMElzVm5qOTlJX0V4T3RNRHRiM1ZWSXIwbHZGRTZhUkxWTE1uT25vRDJrTjlReXExRHFNM2VfSDNTN2dxSkJtRlpJNmVvbktqc3hTckRTZVprMjBnMk5tODNlR2J3eWF1cUNaMC1SNDBPWEtVaGhFaWVPLWUtVzlva2FEeDk?oc=5
+
+- Elecon Engineering Company Ltd leads gainers in 'A' group
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMi0wFBVV95cUxNTEcxZzV6UlR5Nk1KTG1tdlc5aktFaXlPUnd3azdRRFpNZ3Rqam9iTmotandNclBkMlAzZFJBaW5OSlg3YWpzLUhfUzQ5dUxnS0dWU241Sm40NFJTUFZDYktIVXpOY3E3c1Zsa2MyZldZOHRoU1d1bzVTUEl6OEx6ZmhxVFJvb214UXpZR1hFY1gwMXdlbmlYRThsV2d2dS04bTVsU3VubDJXRlM3R3FKN2JQSExZQXhPU01iUzFrMWtxVWdqQ1VHTDE1Q0NMTnUtTlNR0gHYAUFVX3lxTE9DbUlFdEl1RUxiREx5S1U2eFpQQUdQU0dJempac2wtd00xT2hySHBsLW9uLXFySE5BUXVlQXBJaGI4TWFrblJRWDZYT1RDX01VUkxpbl9fdWh6WUZneEpNZTNRZTREelREWUtBMUhEOWVSX1c4eG01ejZwcEFQUzNtUVRBLVdYdHlHVnMxUThhX1p1bWZDMzcxSDZfLW85WjZicm5MRV93cC1rejFENjFoR011WTlERmRNWXRwd1NKRlJiSmJacWRDLUthTExJRzdKa05wZ1Vscg?oc=5
+
+[Bikaji Foods International Ltd (BIKAJI, +7.96%)]
+
+- Bikaji Foods sees 100-150 basis points profit margin drop on raw material inflation, says COO Manoj Verma
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMi3AFBVV95cUxOWUJMTUJiWUthZzNoRVUxX1ByVVV5V3oteVVGUy1Pc202ak02blVfSlZmT3lSVzRIekxXenhTQ29XQUNNQ3pxYUtQR0JlbW9WQ0JzbDZfSHQ5LXVpaHZtNjF6RVFTY2NBY1FCX2NreFJ6NDB6VnZ6OXVsN2xSOGpPekRxZndQSUwyV2hLNUFxalNoLWNaQUZsSHZSSlczQTJmWjUzN0lqSnkza0pIYUhWb1VfS09yQ1hlYzE3ejgzd21WaXp1S0pQQUQ2TXNvVHc3TzMxYi1BQnBfX1Zl?oc=5
+
+[Wockhardt Ltd (WOCKPHARMA, +5.88%)]
+
+[Steel Authority Of India Sail Ltd (SAIL, +5.30%)]
+
+- Nifty Metal index up over 1%; SAIL, Welpsun Corp soar up to 4%; here's why
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNmFEcENBS2NIYmZkdHpCbllybjBIekpmX0xoS2drMHQ0NlZFaU05U1ZmajJ5MmlSVlJZQnE1UTdLQWhlckxjYXlMcy1icVVSYndCVFFBTjEzSkdqWHZ6emdfWS1IQXdySXE3NVJ3aW5Ec01HV2NPdUY0cmJidk45TF9EbU40dU5od0ZLN2F2OVIyUmd0X3RpdFFrMUFhRjY2cEljaUV3SUFUelVWZW1zNmYyc3kwSjZBMGswZ2NFN3lla2h1aWJjNlJlem5SNU5TYkHSAdcBQVVfeXFMTzYyZFEtN1BSaE9iYXltb2hwdW5TU3R6RHJKWXBqaW5wNlZ1X25VZk1UQUNnMllDQjQ1YmY4V0FkREpzZ01ZbEdLR1Y3aFN6OG5TbnllU0tyYnc1N3NiQ0JCSFRnUUY3UGlBU2VtRjE3NTFEUFpacVEyeXBuWWVsRkI2Z09VMl93bDAzQVFKOUhyWFJ3T2gzaC1lSW9vQi05azQ3aldPLWlIb1BQV1NuNklBY0h5eDFxeWZwd0dPU0xYME5fek8yaFV2Z3NXYno5eUNMZmRxbmM?oc=5
+
+[[Top Losers]]
+
+[Prime Focus Ltd (PFOCUS, -4.31%)]
+
+- Prime Focus-backed Brahma AI raises $150 million at $2 billion valuation
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2FsNGJxVS1Xemg0bXAxcUZxVGtUcHpDWHZ1WDZybnM4czRBR3pyNEFLWHBFbFM5Z2dJRGxNNmRrX1dXam5FaFhlZHJxaGFPNDJpMDN0WDhiQkVJdFNMZnZCSGt3VFZBbjV2V1ZCYVlwOFIwSF91MTJ5OHkybjg4RUZiX3ktSlZyczlneWV3aWQ3WFFLMlhBZWVTc0RmM3A4Xzc3bnRsWmMzRUc3M0ZLQm5seUFBMzNvQmhBOFVtNzhDdzlEcFHSAcsBQVVfeXFMUEdzRnJzdGtJZGNTQ2R1cXpLanJrLUdLMklUUFM2X2pKNDNESloxbGVKVHExVWZ1dVI5S3NhTTQ0bDA1UldSbk9IbldOQzVGZkMzVWFJWkwtbU5yZFZOWmEyWWpqd1g1enhMYWFjRHpHVEZ1Z01DNU9yQUdpazd1UlBnZ1NubmVLakhfZnVFVDgwTTRzTV90NGl2YWo4THpZSkJnUjZQeHBtVXVsTmdTTzVKNFJOMmVjVGhIOWpCWTRGU2l4d2hKbUlKRDg?oc=5
+
+- Prime Focus-backed Brahma AI Secures $150 Million at $2 Billion Valuation
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV1lyN3lTUU92UmJCTUFwQmprZFVHSTBMUUtsYllzQUpkTG1fLTZfdXJBMEQyZlRFUjJsdE1rMTNSNTJqQTYyM2xJTGdWbzdnNXlyLVVrNzU4eGxXTUlPX05iNG8xY1g1bERLaGNGNmhfZnZpMkZnRFZqMVdLR2tGZ2lHVl9TUldWUFRlb2s5XzU5UEtvYXRxV0Z5NHBaYUNJaTI4SVVvbERCdGVoWHV1UTNTSDBvTFF6RW0zMFVsRFk?oc=5
+
+- Prime Focus Limited Says Brahma AI Raises $150 Million At $2 Billion Valuation
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMi3wFBVV95cUxQUWxnUTdSWENIaV8wYWlLVmRLaUhVMlR6NUdhUGUyZ2trRHh5NXNGd3lPUzJMd3lWaVRtRUUxRXBiZzVfUThSRDZOeTBtUU9kUjRlX1NDX0ZTZnR0MWlUWVMzQldiSkFWQVdadnVibHhUTlVtS2hIZVFya1RWUk5BWTZBWWJPWDd0NXZMTHpnUGQ4a0FvbGVzYjlpX2NGMV9YcGI2M2R6b3hsTjhJQ2N0Y3RNNGc4YzRxRVdNdF93MGxDT2h2NXRpOUh6dUFrMlZWZ0VLRTlzeDZxMVZoZHNn?oc=5
+
+[Ather Energy Ltd (ATHERENERG, -3.57%)]
+
+[Gabriel India Ltd (GABRIEL, -2.60%)]
+
+- Gabriel India among 4 stocks showing RSI trending up
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMizgFBVV95cUxPYkZBV0JJMlNsTUlMYUExWW1tWHVZV3hQSXRxVmFBY1NxVllDbmVrYjQybUpXalQxUkFFNk1JRzFXZkZSZEhCWC1UanZEdnRuTzlSbE1zcUt1OEpPZlhqVVVwQm94NFFGTGtjTlI3LXVtMVZaajlEX1Q0RkcyeldPV2FqVGdXQmxyNHZtcnBHaGlwWTZUV3FHUm1BR2VqRU44VElzVWxMa09jNjlBT1NXY0MydVVDT3pRbjNGZnR4YzU1a3ZyOEY4cjY1TFF3dw?oc=5
 
 - Volumes jump at RHI Magnesita India Ltd counter
   22 Sep 2026 | https://news.google.com/rss/articles/CBMiyAFBVV95cUxNaW56eW8xWjBXR0kwZkhzZ2loNkd3cHdfOUJqQVZBVlVrOC0xMG5EN2k5b1Z1a2c0NEh4c1laTHJOMzlIalRtRTJYdVpKcUNUbnhBaVlRT3hYdnhRamRRNXJLUEdlZ3Q0dU9GNGpjZTJPMG9ZTks0U0t1X1J5S25qWDl1OUJmRDBoT2FvYUY2cVc1QWdWVWFLRHB5ZTNaU1c3VDVyTVJKbVNSaDYwbjFuenpLcG5QYjlvS20yTlI1WU0wZE5FM1pxUNIBzgFBVV95cUxPWVlpRU0tNFhNX3gzOW82c1RFQ19yRVVyVTE4cGt6eURyTFY3RXUwTk1kXzlqalVid2loTndGRS1YaHlaNG9vYmtxNXlhcWlKR05XRjdPMmE5S3ZiUG1VUWY5RFdzQU5CaWE5dHdicE9LS1RyTzVFZHhQMkVTdXpwX1I3Tl8tTFhLMnUtazBvMGRCZzhYUzZVTjZTdDJLd2JJcmREdlIzNG56X2tUMW00QXdKV0c2THlUb0VWMW12Q0EyVjM5dms0U29qVWI3UQ?oc=5
 
-[Meesho Ltd (MEESHO, +9.60%)]
+- Gabriel India - Cyient among 3 stocks closed above VWAP
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTzhNMlAwTUc5bDkwYlZCTGc3LUp3TnBYcjMxSXhaZVlFMUdrRl9JZDJETnVXOG9uRk5vTEpPSDl1cl9HWDBsTkEybExHNE1KZ1dDS2dwY3Y2Qm5qM1ByNU84MTJsSzhqZkpOQ1RMMXFnc1JsWFRXczNZTVY3TUxlbENPS3pCXzFYQ2hSbW5DM1NreUNyaVVqRE9KWWJybGhpLTRlang5UFpjTHZwdmZ6RkRnSmtHMGY3X0FyY3lBclVxVWM?oc=5
 
-- Meesho shares jump 12% as UBS sees up to 19% upside
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMisgFBVV95cUxOZXBtUmRzb1FTcDJJTml0aHM1WEpNbEpueTJHNl9mY0tnNDJvSjF4blFOYkp1Tnp5Wnc3UnNlejNyRU1lbVRQZ2hpRm9NUzJJY25hOWNlN0J2eDVBQnp4RE5hMl9nMm44ZVRuRkhNSGZQWXJTQWdZWm5Eb09GbzdYeU9iOGh6dzY4LU5ZU2ZrRTdld1RLTnNGNmFXSEZNVkJYQkFBOHNtSlBoaXdxaUktSXRR?oc=5
+[Tenneco Clean Air India Ltd (TENNIND, -2.58%)]
 
-- Meesho Surges 11% As UBS Raises Target To Rs 260, Upgrades Profit Outlook
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMitgFBVV95cUxNbkRNTGNjTFhqQ3ZvUXA3NXg3NXpRZ3BSM1dRNGFZRHZrOHNaLW1BM3g4RGhnWTZyeGU2aFZJekZabVVIRmVqY0Q0aFh2eGFGajFIbEowWjZQTncwR0J2RkpSRWoxWXd3THdHMzRrWkxQekJnajFUTnpWWU1nN1RwWnRBTkYyUUN5YlJYcXE2WllqNmNPVmtEVlVVczQ4V2pKbjJwNzN5QTVseWpKWXNBaGNxc2U3QQ?oc=5
+[Inox Wind Ltd (INOXWIND, -2.28%)]
 
-- Broker’s call: Meesho (Buy)
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMikgFBVV95cUxQaE9JRWVvVWRkU3VpWjByR3lHTm41YnhoUXpHSG05amdHNGFRZlNkdjNiV093bjNobGdIbG9nSHB2SGE4M0NLWmM2cWgtSXhRMTBBTE5MZmZQVDRJYjQxck50S1lqWkc5aVlnVmlQaWd5dVAtQWFINWRaUkstM1AyaVlSbnpfNng2MXFZeURNS0F4d9IBmAFBVV95cUxNallab0p2UGx1Sk9aOEl3ZjRHZ3ktMUdjWWR4RktsRW1HLVQ1ZTMzNWhKejU5V1h1NWVQTnhOZ2JBcGlKVUVvZ25EbVdlWExqQUNIV0RLcl80ZFpLbnpsYlZ6Wld3aU9WSkZJNURHUHI0Z19VZnJyN3NsMHdyUEhRZllBalJMNU42YnpoeHFOOUx2UHdBZGpLWg?oc=5
-
-[Sun Tv Network Ltd (SUNTV, +7.11%)]
-
-- Sun TV Network stock gains 1.3 percent near its yearly low
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdXF6cTJob0JXYndXQ1hORm52RTVjSER6MTMwOTVkWmszNG92ZW9ubnFrRjFmakk2UHFuMXVwMHAwX1V6dWxXUGF2cVdsMVJpUWs2R0dhaFhkM2wtZzlRR015TDZyZG80OHc2dF9fb3JaWWFoajdkVzB0dFoxQTZ0Z0VxNVlvdzIxdlAyNjdNVXVGWHNudlJSUko2ZFZPYmx1eWppb0syNkViYnRjeXlNT2ItR3hTTXB3?oc=5
-
-- Sun TV Network Share Price Today: Rs 487.15 and Analysis
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVk15RXphVjhCSkdlc0g3SUNNc3p5RnQzRWRYSU5pcnh3WWk1VkpPTGpFVUh4N2FadjFnS0sxaUxtcjZ5R2JvekREWV9OQldVRWd0MnJYaHI4YV9nLXhqRTF4T1hpMFR3RTBYQkdLTm1lcU1FMThFUXFtbkFUVzBYX2FYRjg4NGFw?oc=5
-
-[Jain Resource Recycling Ltd (JAINREC, +6.78%)]
-
-[Engineers India Ltd (ENGINERSIN, +6.06%)]
-
-- Dangote Hires Engineers India for $16 Billion Kenya Refinery Project
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMirwFBVV95cUxPdThXRHktSk92cm5QSkRHVFN6WHV2V2tEaUdNM1g0bHBOdHM4YnBzaHU2RTRmam1vYkpWREJkb2JVd2tyMzRWbWtWMkIzdGhZMWdxVmxtTlpVQ0pzOEdla3hxbTNXTXNFeVBwRkNrYmZEX2I4cERCdnhYNHVidkdnc0ZvT3BYLW5sY3RWcGotbFVjMm03QUg2UVJPV2xmeTZPcDhPMFplOFVpenYzZVpr?oc=5
-
-- Engineers India wins $450 million deal for Dangote’s 700,000-bpd Kenya refinery after helping build Africa’s largest refinery
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSDhUZDZmWGEzVmItcDRaaUFjVEZidGNSR2lMaE9CdWtnZnVZWkZ5eHVSdXdyV201bVczNkloRU92QzdwUWhGRE80MU5Gc0QtQmFhNmk2VGlNckF0dVZsT0FBdDgzcnpQT2hUdTloQ1NJMi05X1FWUzZHR3JuUFRpVm1wUjNGeUQySVB3YnVWMEZnYlhiaTVHdFRySjVwWHBJNUlQcFVwNFhaaTF1bnNvN25qNlJrQVBGX3RoS2pEdmdrZGpJbC14UEpMNVNBSG9XNDNXakJ3?oc=5
-
-- Dangote Hires Engineers India for $16 Billion Kenya Refinery
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMipwFBVV95cUxNVjBRVWw3ampwa0lVdFRJSm5tSjFoZi1EaFhXUG95Yk55VHdfVEFUZnl5YjVHcXNCMG90WEI4LXFwaTA3dk5rV3VHazBfcWotQlRlNzVOMnl6b1pfODlmcGRDUDdTWWRpYkRaUzEzYW9Qa1RmbkRZeGwyaWRsOHJqS2RIVmxkNHZLUlR4UHd0QUpYcFBzdVVnX1RBNEI3Q01sRmw1QTZVNNIBrwFBVV95cUxPci1MQU53eWtIOGx6aXFtRTdaVlZOakJDb0p4dE1Qbk9Xc3hQSjctVHlwRGkyS3pLcXo3R2xxYW01ZnZEaTdRd2tLYVFLWko0NjNwUTZiQ1FRU0U2N1ZJU3FSNFpTZmJhVl9qRG1kZVBLcXJJNkh5ZDdSZ3Q3TnJLdU1UTzhTWjVzekkycUMyRzRZOVFsWWtfdjVjWmp1Mm5qcG9oZk0yR1FiYWxReGpF?oc=5
-
-[[Top Losers]]
-
-[Heg Advanced Materials Ltd (HEGAM, -6.28%)]
-
-- Working capital per share of HEG Advanced Materials Ltd – NSE:HEGAM
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTGJHbDY5Qmp6RFFURHVKWXJQZGM1QzZTY3lxQ2xkSk01ZVgwNFM4UGJneUxXVmFNUGZMNTB0TWlSMTJsakpROURGaGVUVklCQUloTW95QXVpUndWc0NfZFFiRlQwMGVqX0RRUVg5c0d1N2k2aVlmUTZEeHNHeWtlUWZMRlJscVlmckxpREFiMFlzVW56R0h5RERhdlVLN2thZzc5QUVYZFU?oc=5
-
-- HEG Advanced Materials Ltd Revenue Breakdown – NSE:HEGAM
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMidEFVX3lxTE5JTkF4dDM5TGRPQUJqVjdWbzU3Z2tyaS1mN1gxWW5oNG1nZUdMSFBOTGQ3UVNXZy1ldE5uYW9NeFBRNVdEVG0xRDJ1TWhCZ0l6X1M1UkF1SThoSmtDZmRqd0U5YmQwcGV4b0JjNEJ3U1JMYU5L?oc=5
-
-- HEG Advanced Materials Ltd Financial Statements – NSE:HEGAM
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMidEFVX3lxTFBERjY1bFRXY3NJNGdPZWt0ZmsyTDc4MExHVlg0MmFEak9LWlY3SlJpWTVJR2lJc0U1MlcxeFhNVTBSbFMzY1RWZ3hBQmgxbTRlN21QdDBQaHZ2N2JIWTVpdnZFSEZteXRsR2YydFhjTlFoSlVM?oc=5
-
-[Acutaas Chemicals Ltd (ACUTAAS, -6.19%)]
-
-- Acutaas Chemicals to host investor meet at PL Capital conference on Sep 28
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMivwFBVV95cUxOemZyUExJOUpZeW9vRDRtRmI4LUFZOXNDY3ZBNjJ6ZXJqSVAzQkhtMk5xSmpaVGxCQ21GVFoyODFYSGdMYngyLWVQZ0lVT3JnUE9sZEJNUzI4eV9wcW9UY3VsdG5VemUwUmFPaWhJbTlScWJCV25OYkc5XzBKaXNSMFZZWlE3cUhsblRqSXp4SWpvS2Z4bmpRcWJiN1JCRmhrTTJuQ1VjbFUwS2hOSEhCcmxHdjI0ekRhV1RZQlFrRQ?oc=5
-
-- ACUTAAS CHEMICALS Share Price Today Down 6%
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMirgJBVV95cUxNeHlaVThPb3lkNWdyNUxGUTJXc0lvWi03cjEzNm5rYktmV2pfWEJOU1A3NXRHWHBMTHJVV0I1QmlsY2x0UGpXQVVjOHdLWGpid05OWXhXR0pjeWZLUDVXeVYzUXA2NEhvYnNlNDV3ZE9Ha1ZGdW45aThGS0NjSE5LM2ZiRjBOaXZBTHV6ZWhJU1AyRlhIRmV5RDd3blVDWWtfUzNKZnFjeTNHOU5NU3RjUHhEaDhqVkhFSUxkbG92R2dBQW5OekgyTW92ekJMcHJma2JGNFlBN2RMNmRNX1AtaUswUlFwWVRuS2syR1BwVWV2Y2FlNWp6VkdlV05LdGtYNTZHZFdBQlNvbEVPN2xMTzdEUE5EYm43YmRjMnFyWFlGTkF4MG53a1E1Q29YUQ?oc=5
-
-- Acutaas Chemicals NSE:ACUTAAS Trading Window Closure Q2 FY27
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMitgFBVV95cUxOYnY1bG13T0VMaGh4bVVwcWg4VXZydnVVa0hQTEZlQVlVRnJZdEdxRGZ1Zy1CSFQ5NTVqQkxjUUplU1NmaDRuWWliSlZaWUtPTXJSUGN5c2VZRUpUeFFfdmw4Zy1sNE5qdGt4Qy02OVQ0MXFaUUZZcE80el9BVEQ4SjdTWWE1M2NNbERjNEgzMDd2Mjd2UE5xQ0c4a2tmMnZoX2FnMHdlRmNkSG82LVExUjgxdVBpZw?oc=5
-
-[Kaynes Technology India Ltd (KAYNES, -5.34%)]
-
-- Kaynes Technology India - Syngene International among 4 stocks that closed crossing above VWAP
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMi9wFBVV95cUxQWEZ0UjFJLWd0QktwZ3lQb2RSaUwtaU9SelBGaEdIZ0RZQ0hTZ3ZWS3UyREkzOWJHRndNU0ptSlNjOEhGUXRFcTVYNXpYdHM5bXhqM2xTWTVUNmYtM29mVGVpUTl0dHE1RjQwZmhtdW9LckhJQ3RIalRfNXNWUWQ4NjlMVS1heHhMTFVVdEt5MnJUVFczZmw0R0JXd0tuMkc5MzdadFo2Nzllamcwb0M1QmxtRTI1ZmZhajhxQkZ5dXBrYVczLVhnaTdndi0zbzg3RmYyNlctVkFBbHpoVmFSeFk0aVk1VDlPbkVlaERDR09OQUdoTzZ3?oc=5
-
-- Kaynes Technology India - Cohance Lifesciences among 5 stocks showing RSI trending up
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMi6wFBVV95cUxOYWQ4Vktqd2cwRHV2UndsWHFGRHAyN2c3NXAwYkpicE1qOHNFSEc1aTc2ekV3MkNlNkJLbjE4am9nWTVYV3kxenRndGZvQ1BGT0ROXzBQS051RmJQdkNCMUZfX04xWEVRS1pXMFpINGh4MVlYTTFJOVkwbXZOVzBFNWFsSmRDajZqZlFROTBEa3c0a0twMVZMaU0wcXRJaDMzUGItTlJGbjZMUFZuVDlOMEkzMXQ4Nkl4eDlKZE5sY1JRVm1qaUZQLUJTT1lUUlpJNVVqRkpoX2RVRWlLQTBHYmJuMWJlenNURzRz?oc=5
-
-- F&O ban list 23 September 2026: Stocks in ban and MWPL watchlist, Kaynes Technology India at 128.40%
-  23 Sep 2026 | https://news.google.com/rss/articles/CBMiwwFBVV95cUxObVRwQW11RnBFWnJqSXdYMjN0ajI5NWllSGNDMzlDYXdlSENNRFlmb2dSMElWLUtKb2F3T0hHZHQxMTdNNjU1TkM5R3dsSGJHVnZxd1RsNmV2UFpIQm5lOTV4X0JFS2owdi1yTlcwQlQyRDhGSFE5SWZ4dDUteEZkNGdDZjFDbUJuc1N1QS1Gc0cyLTBDWmFFeFhGVkZoMmlqaUp5SGFNakN2bVhZVjN6RzdoSlBvU1MxRnVweEZ2TVZ5RFU?oc=5
-
-[Aegis Vopak Terminals Ltd (AEGISVOPAK, -5.31%)]
-
-[Aegis Logistics Ltd (AEGISLOG, -4.14%)]
-
-- RBL Bank, Engineers India, Syrma, JSW Infra rally up to 7%; log 52-wk highs
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMi2AFBVV95cUxOVTQzSzJ1S2poVnl1VkdaZ3hKZE1XX29TczB2QVVGTE9MX3VSLVl2NW9rTjV4bG5Wc3pTVDBTdmlVbjROdE9GTmdONVdtNzBHODh2TWZkWmpzeVMwWXk3eXZ4UllzeUJUdGVKRTdLSExqUVRETlA2eDRqTzhEUkhlVm04NFpJUTM0MXB4TWN0WndERjFOR3ZjcUVnWlZLdUltRWc1dFI4blRVZ2VONy1qN3lWY3g4ZkhwZzZHRnZMX1lkMFJqcW1Yc3c3NU1ZOU52Tm8zWmtTOW7SAdgBQVVfeXFMTlU0M0sydUtqaFZ5dVZHWmd4SmRNV19vU3MwdkFVRkxPTF91Ui1ZdjVva041eGxuVnN6U1QwU3ZpVW40TnRPRk5nTjVXbTcwRzg4dk1mZFpqc3lTMFl5N3l2eFJZc3lCVHRlSkU3S0hMalFURE5QNng0ak84RFJIZVZtODRaSVEzNDFweE1jdFp3REYxTkd2Y3FFZ1pWS3VJbUVnNXRSOG5UVWdlTjctajd5VmN4OGZIcGc2R0Z2TF9ZZDBSanFtWHN3NzVNWTlOdk5vM1prUzlu?oc=5
-
-- Aegis Logistics Share Price: fresh 52-week high and
-  22 Sep 2026 | https://news.google.com/rss/articles/CBMijAFBVV95cUxPdlFlOE1GLVJCdWlkdVJWOGhBSlYyOVFvY0hzRjFGVDBMSmlTVXBPakhfcC11NWdvdDdaS3A0dXZJbTlLMkR1NkpYVHdnWTlkNEkzYXEyejVoc3MxYnZ6Z1BvaElNbmdNME5paDZUay1TMFgtTjg5dHJ2SWJ0RFBhdVhoMTVrV1pxRDNtOA?oc=5
+- Buy, Sell Or Hold: Tata Motors PV, Airtel, Inox Wind, Lalithaa Jewellery Mart — Ask Profit
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMixgFBVV95cUxQd2hSRkFzejhpYXlFRDV0YUdvUFlZck43cjdwa3YxRmQ4dEV2V0tob1FHWnlSNGJNLTJoUEpKTmdnMkZvQk0yRWF5djIxZGxhdnNjaGJ3UWFOR2lmTmY2UmQyNFlfSkgxQTFxNVNuLXphNEliZkZXbjJHMEk0RnJETURMTElicHhkNFJ3T3ZQTUxUUjhfa1FoZ3puTDYyN1IyelJ4WVRRZm94blhHbWFxNkotYjBGLW9wUktoblhSTEg5QWVrMFHSAc4BQVVfeXFMTkxnajd0SGJRR2lkUEh0YzRPd1BmY182SExsVUxMLWpOcVVWVGVIWHVzV1dlN2ZSaks1alVUVHdKM183MnEyalBMaXRTQzdKaEtsNmtEUUUyVzBsVHlJajRKMmNNVDhDMWVlSFRNYnpfUjhwYmRGYUU1cF9pWlBYTktPek83STJPZlVVOEFVbEp6ajVKRFM5VENZRERKbTRlXzdINGM4c29HN2VtY05WQVdvSDZ1U0Z0ajFaRVU2TVZ2Q1pmUXpFZ0VDZW00eVE?oc=5
