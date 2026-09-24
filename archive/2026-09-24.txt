@@ -4,12 +4,105 @@ Nifty PE Ratio | 19.82 | 23 Sep 2026 | https://nifty-pe-ratio.com/
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+URL: https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/vcs-hungry-for-kitchen-startups-vala-afshars-blueprint-for-indias-ai-future/articleshow/134449160.cms
+
+Happy Thursday! Venture capital investors are betting on the premiumisation wave wafting into Indian kitchens. This and more in today’s ETtech Morning Dispatch.
+
+Also in the letter:
+
+■ GCCs to axe roles
+
+■ RPS Ventures sells Meesho stake
+
+■ Ultraviolette raises funds
+
+VCs work up an appetite for new-age kitchen startups
+
+India’s premiumisation wave
+
+is moving into the kitchen , with venture capital investors betting on startups selling design-led, functional and safer cookware and appliances.
+
+Driving the trend: Several kitchen startups have raised fresh capital, while others are in the market for larger rounds.
+
+Beyond Appliances is in talks to raise around $30 million from investors including ADIA and existing backer Fireside Ventures.
+
+Nuuk is looking to raise about Rs 100 crore at a Rs 400-440 crore valuation.
+
+Recent fundraisers include Curaa (Rs 40 crore), EDT ($1.9 million), Cumin Co ($5 million) and Ember ($3.2 million).
+
+Why now: Rising incomes, smaller homes and the growing popularity of open-plan kitchens are pushing consumers to spend more on products that offer better design, functionality and convenience. Investors see the trend as similar to premiumisation in beauty, mattresses and furniture.
+
+The opportunity is emerging in the semi-premium segment, between mass-market cookware and expensive global brands. Consumers are increasingly considering safer materials such as cast iron, brass and stone alongside design.
+
+How big is the opportunity: The overall kitchen appliances market is estimated at $12 billion in 2026, while the premium segment could grow 15-25% annually, according to Commercify360. Startups, however, face the challenge of competing with legacy brands such as Prestige and Hawkins, which have decades of consumer trust and distribution.
+
+Retaining talent key to India's AI rise: Salesforce's Vala Afshar
+
+Vala Afshar, chief digital evangelist, Salesforce
+
+India
+
+can be among the top three artificial intelligence (AI) forces in the world within a few years, but only if it holds on to talent it is losing to Silicon Valley, Salesforce’s Vala Afshar said.
+
+Talent drain: Speaking to ET on the sidelines of the company’s annual conference, Dreamforce, in San Francisco, he warned that the gravitational pull of global tech hubs is intensifying, with Indian software founders now basing themselves in San Francisco “from day one” rather than keeping core teams in India.
+
+India’s place: “I don't think you have to separate by layers. India will be a significant player in all of it,” he said, adding, “It’s a democratic plus-one option, with an incredible talent pool and evidence of AI innovation.”
+
+Spotting AI unicorns: With India home to hundreds of unicorns already, Afshar said the next challenge is doubling that number quickly and making India the world’s third‑largest hub for AI unicorns.
+
+He pointed to Salesforce’s own footprint in India, its second‑largest development hub outside the US, spread across seven cities.
+
+Also Read: Nvidia's Huang and Anthropic's Amodei split on AI development
+
+GCCs may trim 30,000 routine roles to fire up 1.5 lakh tech role explosion
+
+Global capability centres (GCCs) operated by multinationals in India
+
+could see 25,000–30,000 job cuts this fiscal year as companies redesign operations, industry executives said.
+
+At the same time, GCCs, the biggest driver of tech hiring in India, are still expected to create around 150,000 new roles this year.
+
+What’s driving the cuts: AI-led productivity gains and global headcount reductions are driving job cuts in some centres, while small GCCs doing routine work are facing greater pressure to either consolidate or shut down altogether, these executives told ET.
+
+The potential cuts represent about 1% of India’s 2.6 million GCC workforce, according to Pareekh Jain, CEO of EIIRTrend.
+
+Under pressure: The pressure is sharpest on smaller GCCs focused on routine or commoditised work. Neeti Sharma, CEO of staffing firm TeamLease Digital, said about 1% of GCCs have either slowed growth plans or shut down completely in India.
+
+“When the parent company looks at what can be automated or consolidated, these centres are more vulnerable,” she said.
+
+Also Read: GCC demand is shifting to experience in a twist
+
+Other Top Stories By Our Reporters
+
+Vidit Aatrey, CEO, Meesho
+
+RPS Ventures sells Meesho stake: RPS Ventures, a fund set up by former SoftBank Vision Fund managing partner Kabir Misra, on Wednesday sold 38.6 million shares in ecommerce marketplace Meesho for Rs 899.7 crore through multiple block deals, according to BSE data.
+
+Ultraviolette raises funds: Electric motorcycle maker Ultraviolette has raised $85 million in a funding round led by Yali Capital and TDK Ventures, with existing investors participating. The round also brings semiconductor veteran and Intel chief executive officer Lip-Bu Tan on board as an investor and advisor.
+
+Amazon Pay India revenue rebounds in FY26: Amazon Pay India’s operating revenue grew 18.5% to Rs 2,484.4 crore in FY26 after declining 8% a year earlier. Its net loss widened 33% to Rs 1,148.5 crore as payment-processing and promotional costs increased, per regulatory filings sourced from the business intelligence platform Tofler.
+
+Ola Electric to consider rights issue: Electric two-wheeler maker Ola Electric Mobility will consider raising funds through a rights issue at a board meeting scheduled for September 28, the company said in a regulatory filing on Wednesday.
+
+Global Picks We Are Reading
+
+■ What AI should learn from the banks (
+
+FT )
+
+■ Don’t be fooled by this summer of AI hype (
+
+MIT Technology Review )
+
+■ OpenAI develops features to counter Grok bot, mulls response to Meta’s Muse (
+
+The Information )
 
 ============================================================
 
 SOURCE 2: The Hindu - Editorials
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+[No editorials published today — feed had entries, none dated today]
 
 ============================================================
 
@@ -43,7 +136,10 @@ No new Weekly Funding Report since the last check. Most recent report: https://e
 ============================================================
 
 SOURCE 5: The Hindu - Business (headlines + summary)
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+[Economy] India-EU FTA to be signed on December 16
+  24 Sep 2026 | https://www.thehindu.com/business/Economy/india-eu-fta-to-be-signed-on-december-16/article71499760.ece
+  The signing will be part of Prime Minister Modi’s upcoming trips in December to Canada, the U.S., and Belgium, where three separate FTAs are currently either being negotiated or in the process of approval
 
 ============================================================
 
@@ -54,28 +150,28 @@ SOURCE 6: Watchlist (headlines + summary)
 - Bitcoin trades near $85,000 ahead of one of deribit’s largest options expiries of the year
   23 Sep 2026 | https://news.google.com/rss/articles/CBMixgFBVV95cUxPUkhIbURJQ0VQTTA1Z016RFotUWZFZGZKV29Ta3h0YTRtQm5YV3ItV3V1OVJnemJJdTRtcXJJV3F0T1RzSUxrMXdoSnZLLVVLU1cwaDU3cm9JUTZHTjhINFpxSTV0eXNzbTl2aGhlbktnS2RpUUJPb3pocE5PSHowUjRJWWtHVHpFT0xHdGdCUEVuMlJ1OGdlamRQSklaVjV6Wm9HZVZRTHFodWk0OTFPWW1NRGlZeXYyczBXUkhIaWFDUnczN0E?oc=5
 
-- Institutions sweep up 2.7 billion; Bitcoin rebounds to 84,000. Can the $100,000 target be achieved?
-  24 Sep 2026 | https://news.google.com/rss/articles/CBMipgFBVV95cUxQYWR2blhKeGxJR053M0x5a0hLNTZoUHQxNTNEZFdCX2J6RmpLdXMyTmFkanJHNVpEYVlsNkZRdU1pdTdWQk9rd3RldWdzTjBhdGNOS0VRSjlkUy1ubVdBY1QtSHB5ZHVxMHVOQkdkSjlmQU9qcTFPU0w2QlFONkVoaERDNThpd043c3AzRms0MTE4U2IwdUpweFhtdERfR2pQUV9yY0Z3?oc=5
+- Michael Saylor's Strategy adds 950 Bitcoin worth $76 million, bringing total holdings to $74 billion
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMinwFBVV95cUxPUG9mejRmY2tHd1ZicTZrSm1wdlZOdlBYQ29CYTV6X0FudzUzeTZSN0N6ZGRSeXYyNEw0Vl9hMDJmSU9Ya2t5clFOV1RVR0lGV2Mzby00WlF0TWc1SnE3bmJCbkMtOEYzNnlPMXdSQkxFSnRmR19pODBWdW4tVmMtamV4bWo0ZEJZdFhEZlJBeS1WWGRFMTFLYW0tZ29oTXc?oc=5
 
-- analysts remain divided: Is a bull market here, or is this merely a short-term rebound?
-  24 Sep 2026 | https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmRsbkFTMDBoWFpuN2ZlVENxdFV3UGlVbDk4Yks4YmpIX09rOFpheGZ3NktrbHM4ZnNXWkNUeGtNdVdLWDlFUVVwM282Zm9qdG8wanY2VF9TcE9iV1FGRTJuMXdNbHVYTHBNT0hGTGRqY204dFRhRmEtaWVlNFN2V2lrY0w1N3N4RHJPcVpYMms3RnZJM2o0RWMwQkcxYWFndmpTS3FBckxlWVlPa2RYZThZRQ?oc=5
+- A Bitcoin ATM ban: Why Jackson is prohibiting crypto kiosks
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDZENWJnUDlZdDQzSlF4SHdrb09oN0YwTnpQWENxZmhXSWR1TWNvZjVzSkNNLXhTMjZCUjRJYkt4X0g5aEJfbl9yYUVuQk5UeXFtR2lJbDY4UkozMTlWcmFzZDY2Z0ctcGhBbEVlVEtPbF9sS3dOR0ZlNE9BbWJmV0VLZWF4OVFzV0dReWhmRHNxRTZVWlJsYm52NzdzeTQ?oc=5
 
-- $15.6 Billion in Bitcoin Options Expire; $70,000 Strike Price Becomes Key Focus for Bulls and Bears
-  24 Sep 2026 | https://news.google.com/rss/articles/CBMiowFBVV95cUxOVmlKZ1VnNDBVeE5CckJ5UHQtTTRhNFR5X1V4Sm5DNWRxaGtHTkZHaFVxVE14a0NiSk9LeXBYNmVxclY2SVJ6WF9UaXlXckw5V3RYVUNDbktCTDJmY2ZEMjZ4N3N1UTh1cGEtZ3lQN3FiWVlFanJQRXR6NHZyV0RTUmg5OHYyeU15dV9zRk9ZbmoyaXBwYTN3Q2l5YUZGTnVGZU1Z?oc=5
+- BlackRock Issues ‘Extraordinary’ Crypto Prediction As The Bitcoin Price Suddenly Soars
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMi1wFBVV95cUxOX3BIQ1VLZG1pVXRhamp5czg4VUt1UDZ2ZXQxUzNGLWxyd1RmdTM5ZVhMZF9LaUhodVhkeXRCcXhHRUJmVk1yME9BUzFuaUFjaVFCSUpSOTBEUFdPME5qY2V2SGpqSUtzSlZ2bkZ4WlNDTHhfa0hYMl9QVHdETVRhZi0yaTNhdlRhLU9VZ2ZoV0d4bkpRTUtldkx3ZV8xcklJMWd4cF9QRjBEd2hySnJrQXZxUTJSYk9IRWdCdFRBa0c3RGNGQlRJN3hsd1dxRlZCcjJmMGtwUQ?oc=5
 
 [Gold]
 
 - Top Wall Street firm resets gold price target for 2030
   23 Sep 2026 | https://news.google.com/rss/articles/CBMigAFBVV95cUxOT1J4eUtQVEduamV6WC1kMEZ3a0ZWQlltaFJWLU5BYUJ5bkFjdk94SnVreHJsX3gtUkJHN0VsWGo5aWNwSXdDS0V5VDJ1ZU84NEctbW44Ulk2a2pCRWszZmpUQmhQLVVrRjFDTW9CcjBfUWpVdHpUTlpGNFJzM0FkMw?oc=5
 
-- Gold is down more than 20% from its record — has the safe-haven trade broken?
-  24 Sep 2026 | https://news.google.com/rss/articles/CBMidEFVX3lxTE5YcW5oTVBFVTNtQk4wV2dMckZNVGc0UGpzOWxEMDBZcnlhWC1CbF9fejR4V3Y4ZWxsV3JBWkM3dVZuQUdfemFBeGVTZmU5b1JwNGNTMUw0el9sYzRFS3JTM2NGLUltY1NyajIxOXhSek5xMHlW?oc=5
-
 - Current price of gold as of September 23, 2026
   23 Sep 2026 | https://news.google.com/rss/articles/CBMibkFVX3lxTE1wX2J0UnIxQXVaUnJvb2dST1F0NnJVUTFySlNycDlJejlkX0c5V0RIM1dYSV9NOXp0VVNnenpEQk9ld0JBRlpZZUtoUXEwbGNqZXhlQ003TGg3RmxWaV9uUmxZRnFpTUZrN3B0Nm1R?oc=5
 
-- Gold lacklustre as higher-for-longer rate outlook weighs on sentiment
-  23 Sep 2026 | https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd2VJMjAxb1NnbDlyQnJoanVsdkwwM1Eyb1lKQmVkZlFEM0xSZ2NCdDMzZlZ6YXFTSnhoUWcxLVliZWdQUW5YeTkwams2QU1PTm5nYlhTWXlMRmh6TmJzRDYtdjlMeHFSejcxU1ZfeWdXbE1yekIyQTZWWk85a0YwbmVkbkNQdzJRdmF5SF85QTc0cmh4bG05ZGtDdDZnLWQxZ0hSLWZUOUJDZ9IBrwFBVV95cUxNa2JTNjBLTnp4NUVWZG1uQnRrbDdYWi1Bbkw4TVR5a2JBUm93V0RweExjSHE2bkhISTh0NG9DcmtVcE5OZEdWalJ4LVR2ZllmM29FZjNxVTBWeXh2WE9XVW91U3pyVU93bzEwUU8tS1RVQmdNdFpzZWZMUHMySTljMEFZaW5RR2dnckZyenNMMkhDU2pnSnd3QXp1U2R4dW5OajFiSERnaWRUNnFmZi1z?oc=5
+- Gold price battles $4,300 support, but BMO sees underlying demand strengthening
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMiugFBVV95cUxPeXVhcEJXTzVUdTNJVk1lMHhnZy1BeGtuZTFRTVhSOW56NUpBN21lSnF0aDVrS0p4ZW9ldnc2STI5TWZPNENQTlpQQU9QdldpQVpXbGpfYnlYRGJVd2h4UGk1ZVoyYTZPOXdXdF92dmI5dW5jZ3RFTzJodTdpRS13TXNnbTNpLXJQWmxLb2tiMy1mLWxUVEp1T2JnWWxzQ2h5OU5Hb0JPZGM5cFI0Rk1zTE5hZFdtMldiV0E?oc=5
+
+- Gold price in India: Rates on September 23
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMipgFBVV95cUxQTjlBM1l0X0NmR0dEaGZabmtUejdTZEpEM0pIQTZROE1keXhsMzVCb2VwUk9WeXBrNnAxdlhNa2pvb3VEdzdOOUs0SEpfc09MSWlBdk5PZC1mY1NOYktYNHRqeThRNGNZQ3owdDlqODZVUU9qYkZGQW9WWndxcjQ5b19kR2ktUlk0WWFUWjFSZVJ3YjBVLUJnN04xMzNUY0NLdThDZkNR?oc=5
 
 [HAL]
 
@@ -167,11 +263,11 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 - India's Ola Electric to consider fundraising via rights issue of shares
   23 Sep 2026 | https://news.google.com/rss/articles/CBMisgFBVV95cUxNSUJiU1Z1QXlZaFZsdjVhNDRtbnVUenRVaWRNeloyTkNtN0ZJbHlfcWxxa0JJYjlkTzZWZjFaaUpXV1pOcmhNTUpCM3R2UmVJdEstQjU5OFNwZDZ0OXc1Y0RtWE93cVN3MkZJakpDREszU1hyYlJVV1BfbktGLW9vMUtWdVI4NWFVQXBUbDlLNWVEQjRtTExsSEo1Nm1yOXl0ZVdTZmRVM0kta1ZSbkYwdGlB?oc=5
 
-- India's Ola Electric to consider fundraising via rights issue of shares
-  23 Sep 2026 | https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1Rua1djUDRFdXhyampPVFUxVjlybTZnMWV4aGo0X0hGN2s0ZmlsUmpKeW10UjIzRW9vWng2X3ltWVFNWW1BS2IzdkZTekRISm1qLUFJZVpCT1ZINU1EQXdhU2Q2N1ZZdkxWZVMtZ29PZldxeTFfVWJjanc1czVaQzhQb0hRVHNPc0pWNDFqWTNsMFE3X0pPcXpwQ3pwWnFUT2tVM2tEREtzdVh0X3FwUEp2YUFJUFVybTZTY0lZZWN0Zw?oc=5
-
 - Ola Electric shares rise 10%, stock up 77% in 6 months; should you buy, sell or hold?
   23 Sep 2026 | https://news.google.com/rss/articles/CBMi2gFBVV95cUxQU2l3dTc3bUlnOXRnUmdYVEg3WHFiMTZVVThzRWJQbGl3T1BTTmF6ZU8ta0FBZGZYdmtKb1FuazNsOHl3R1dpODJBcE9NN1VTRDNLcXdLZE9iVlczTnBkN2U0UkVJSzRRREstblZCaGFqeGo5amxsNHR1V2stcWV3WlN5ckhocG5TSjdIZ0pwQ2s2MHVCUHpYWFJOZ1loYTZnMFFFUERfZmZLMUxkV1o3MHdiTjVodnhKcElBQ2Y1V2NWZm1CSUI4UnU2N2x4TmhkeW9BcXpnX2gxUQ?oc=5
+
+- India's Ola Electric to consider fundraising via rights issue of shares
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMiwgFBVV95cUxOZ1Rua1djUDRFdXhyampPVFUxVjlybTZnMWV4aGo0X0hGN2s0ZmlsUmpKeW10UjIzRW9vWng2X3ltWVFNWW1BS2IzdkZTekRISm1qLUFJZVpCT1ZINU1EQXdhU2Q2N1ZZdkxWZVMtZ29PZldxeTFfVWJjanc1czVaQzhQb0hRVHNPc0pWNDFqWTNsMFE3X0pPcXpwQ3pwWnFUT2tVM2tEREtzdVh0X3FwUEp2YUFJUFVybTZTY0lZZWN0Zw?oc=5
 
 [Bikaji Foods International Ltd (BIKAJI, +6.76%)]
 
@@ -190,14 +286,14 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [Prime Focus Ltd (PFOCUS, -5.68%)]
 
-- Prime Focus-backed Brahma AI raises $150 million at $2 billion valuation
-  23 Sep 2026 | https://news.google.com/rss/articles/CBMixgFBVV95cUxNM2FsNGJxVS1Xemg0bXAxcUZxVGtUcHpDWHZ1WDZybnM4czRBR3pyNEFLWHBFbFM5Z2dJRGxNNmRrX1dXam5FaFhlZHJxaGFPNDJpMDN0WDhiQkVJdFNMZnZCSGt3VFZBbjV2V1ZCYVlwOFIwSF91MTJ5OHkybjg4RUZiX3ktSlZyczlneWV3aWQ3WFFLMlhBZWVTc0RmM3A4Xzc3bnRsWmMzRUc3M0ZLQm5seUFBMzNvQmhBOFVtNzhDdzlEcFHSAcsBQVVfeXFMUEdzRnJzdGtJZGNTQ2R1cXpLanJrLUdLMklUUFM2X2pKNDNESloxbGVKVHExVWZ1dVI5S3NhTTQ0bDA1UldSbk9IbldOQzVGZkMzVWFJWkwtbU5yZFZOWmEyWWpqd1g1enhMYWFjRHpHVEZ1Z01DNU9yQUdpazd1UlBnZ1NubmVLakhfZnVFVDgwTTRzTV90NGl2YWo4THpZSkJnUjZQeHBtVXVsTmdTTzVKNFJOMmVjVGhIOWpCWTRGU2l4d2hKbUlKRDg?oc=5
-
 - Prime Focus to Cede Control of AI Subsidiaries as Multiples Leads $100 Million Investment
   23 Sep 2026 | https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRnBGTkJLRmJJMmlIOWdmU1R2WlV3bnZhYnQ1aENkQjU5bWdNd2tMc3RISGw3eFBDcDFucUxMSmQ5elNfMUFZVnNXN1FNZ0x2WV9ucVZiRWVSTXl4aVlURldoMFFWTmFCZUZnaW93d2hlc195MEFFYXFmSXg2clh5T29fcGxYNDdyQmJsZ1ZGNzlybWRtSWV3SU14Tm9IUjQxeDVneEJDdEpqSjdzRDJDR0xiZ2o4UzhZUXk5bjhUcDduLUtvMkliX3p0WjdTQjBscUEwN3Zlcw?oc=5
 
 - ETF Prime: VettaFi's Focus on Fundamental Indexing
   23 Sep 2026 | https://news.google.com/rss/articles/CBMic0FVX3lxTE5FallkNG5CMWFHYWU1NUpMY180ZjVOUzExeWw5d1BaRW9EbXJDQUlhbXBPRExLWlVRSmFrZ1pfVHFKOTlIZ2dRcHN6a3lEYjI2N1Q3TGFTS2dra3ltZGZzaUk4dWY0TUJnMGhnTVZKbmljYXc?oc=5
+
+- Brahma AI raises $150 million led by Multiples, valued at $2 billion
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMi5gFBVV95cUxOQ1QzS25lakRFUk5Wek43bkdOckstVG1FZ2NyT0tNLVBvcmhCeTVKSWZUV1RjRHBTUzJJYWlZSW1janZXWGZIUV93bVRXSUFxRklXeE1fTUtZRk5ueGtpMWF1LTVuNjlKYV9FaU5GYVpuQklIVWVHeHRJTUZtSXowa3gtUnY3Nlo5YXJKdWJJbXRGR2VmSXJYZmtQaFcxNXdUcmdVeFcxNGFFNHJYRXZEaVM2TXBoTmg4VXlJZEstcFZERWVxMHZ5VkJxMlJGT0thV3h6RV9rUVVrNktrZWF1NU9QMU1Ld9IB6wFBVV95cUxQVVpJY240cWVWYzVEOTNHelgxTTN6YTBOUHFDOURNUHpEWFBCOWs5TVBGa2pHYUFLWTdWejc1WEpmVmpYQXV5Yjh0TUdSd0lnMFV6eGU5RnJwWFJtckY0QlRsekloTEppeFFLSkxhMWlFYnIyQXF3YzduWEc2SEVTNkVOb0hMNmNfYlEwSlVjblRlMGcycko5Y3hkSFdWRk9SamxLQUs3eEx0Z29fdnQ1TUN0V3NySS1aM3kycWtMNDE4RW5SeTU2SDVsR3BWSTl3Nl9uMTRrdlZVQlFqb3FyWU5TM2hQc3htY0VB?oc=5
 
 [Pine Labs Ltd (PINELABS, -4.70%)]
 
@@ -228,8 +324,8 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 - Gabriel India among 4 stocks showing RSI trending up
   23 Sep 2026 | https://news.google.com/rss/articles/CBMizgFBVV95cUxPYkZBV0JJMlNsTUlMYUExWW1tWHVZV3hQSXRxVmFBY1NxVllDbmVrYjQybUpXalQxUkFFNk1JRzFXZkZSZEhCWC1UanZEdnRuTzlSbE1zcUt1OEpPZlhqVVVwQm94NFFGTGtjTlI3LXVtMVZaajlEX1Q0RkcyeldPV2FqVGdXQmxyNHZtcnBHaGlwWTZUV3FHUm1BR2VqRU44VElzVWxMa09jNjlBT1NXY0MydVVDT3pRbjNGZnR4YzU1a3ZyOEY4cjY1TFF3dw?oc=5
 
-- Gabriel India Share Price fall: price action and context
-  23 Sep 2026 | https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGJHTTFNWFQ5WDlqckRhbkYwRGFuMVliRGhvMVptM1BWSFlpaWYtMXJJeUc1UTE2c2hGTWpYMVlrVzRBc2s4dXktT2JjLVMxZWV0M0lTQ0ttUDFsVTltRlZ3Q0VWRVJuODBsZnZHSzVPanp0T1pJVDN4RHNFZVRkNGFB?oc=5
-
 - Gabriel India - Cyient among 3 stocks closed above VWAP
   23 Sep 2026 | https://news.google.com/rss/articles/CBMiwwFBVV95cUxQTzhNMlAwTUc5bDkwYlZCTGc3LUp3TnBYcjMxSXhaZVlFMUdrRl9JZDJETnVXOG9uRk5vTEpPSDl1cl9HWDBsTkEybExHNE1KZ1dDS2dwY3Y2Qm5qM1ByNU84MTJsSzhqZkpOQ1RMMXFnc1JsWFRXczNZTVY3TUxlbENPS3pCXzFYQ2hSbW5DM1NreUNyaVVqRE9KWWJybGhpLTRlang5UFpjTHZwdmZ6RkRnSmtHMGY3X0FyY3lBclVxVWM?oc=5
+
+- Gabriel India Share Price fall: price action and context
+  23 Sep 2026 | https://news.google.com/rss/articles/CBMiggFBVV95cUxNVGJHTTFNWFQ5WDlqckRhbkYwRGFuMVliRGhvMVptM1BWSFlpaWYtMXJJeUc1UTE2c2hGTWpYMVlrVzRBc2s4dXktT2JjLVMxZWV0M0lTQ0ttUDFsVTltRlZ3Q0VWRVJuODBsZnZHSzVPanp0T1pJVDN4RHNFZVRkNGFB?oc=5
