@@ -4,16 +4,107 @@ Nifty PE Ratio | 19.56 | 25 Sep 2026 | https://nifty-pe-ratio.com/
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+URL: https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/irdais-policy-to-rattle-insurers-banks-etsa-winner-progcaps-next-bet/articleshow/134472995.cms
+
+Happy Friday! IRDAI's overhaul plan could significantly impact the new-age insurance distribution industry. This and more in today’s ETtech Morning Dispatch.
+
+Also in the letter:
+
+■ Impact of renewed H-1B curbs
+
+■ Mythic AI entering India
+
+■ Does MDR apply to fuel payments?
+
+Insurance commission revamp to push insurtech firms to the brink
+
+The Insurance Regulatory and Development Authority of India’s (IRDAI) proposed commission caps
+
+are likely to squeeze earnings at companies such as PB Fintech, Turtlemint and InsuranceDekho, industry executives and analysts said.
+
+Context: The Insurance Regulatory and Development Authority of India (IRDAI) on Wednesday proposed a major overhaul in the way insurers pay commissions to distributors, with limits to be linked to the type of product, distribution channel, size of the policy, and the effort required to sell.
+
+Wide impact: Banks and non-banking finance companies (NBFCs) are also expected to be affected by the proposed commission caps on their insurance distribution income. Analysts said bancassurance fees account for a relatively large share of their revenue and profit.
+
+Analysts say Axis Bank and HDFC Bank are more exposed than ICICI Bank, Kotak Mahindra Bank and SBI because insurance fee income contributes more to their revenue and profit before tax. Most NBFCs could see a 4-8% hit, assuming partial offset via lower costs or fees.
+
+Market hit: Shares of PB Fintech, Turtlemint, SBI Life Insurance, HDFC Life Insurance, and ICICI Lombard General Insurance, among others, tumbled on Thursday . The Policybazaar parent saw a 36% decline in its stock, witnessing over Rs 31,000 crore in market cap being erased in one day.
+
+Industryspeak: PB Fintech said the proposed changes to insurance distribution economics could make it harder to justify remaining solely a distributor . Cofounder and group chairman Yashish Dahiya said in an analyst call, “I never wanted to be in manufacturing, but I think now this (the proposal) has almost forced us to (do that).” Dahiya termed the IRDAI proposals “quite extreme”.
+
+ET Startup Awards 2026: Pallavi Shrivastava’s Progcap is powering up a million kiranas
+
+Supply-chain financing startup Progcap
+
+is integrating payments into ProgComm, its commerce platform for brands, distributors and retailers, CEO Pallavi Shrivastava told us in an interview.
+
+Shrivastava won the
+
+Woman Ahead category at the ET Startup Awards 2026, sharing the honour with Palmonas founder Pallavi Mohadikar.
+
+Driving the news: Shrivastava said small businesses view credit, payments and commerce as a single operating cycle, not separate products.
+
+Under ProgComm, businesses will be able to pay suppliers on the same platform used for orders and invoices.
+
+Each completed payment will be recorded in the business’s transaction history, giving Progcap more data to assess working-capital needs.
+
+Growth path: Founded in 2017, Progcap began by sourcing loans for banks and NBFCs, then started balance-sheet lending via its NBFC, Progfin, in 2022. It has raised about $111 million from investors including Peak XV, Tiger Global, Creation Investments and Google, with a 2022 round valuing it near $600 million.
+
+IPO plans: Progcap explored raising $100 million earlier this year and received term sheets from investors, but decided not to proceed with the round, Shrivastava said. It plans to return to markets when needed and is targeting an IPO in about two-and-a-half years.
+
+H-1B curbs push Indian tech firms to rethink US talent deployment
+
+The Trump administration’s decision to extend H-1B restrictions until September 21, 2027, including a $100,000 payment requirement for certain workers,
+
+is prompting Indian technology companies to keep more work in India and become far more selective about US deployments, immigration experts said.
+
+Data decoded:
+
+As per US government data, H-1B registrations by the largest information technology staffing and outsourcing firms fell 92% to 2,055 from 24,946.
+
+Consular-processing requests dropped nearly 97% between the FY25 and FY27 registration cycles.
+
+Expert take: Raheel Patel, partner at Gandhi Law Associates said Indian employers are changing how they deploy talent in the US, rather than simply reducing hiring.
+
+“Companies are deferring fresh transfers from India, keeping more work offshore and hiring locally in the US,” he said, adding, “More of the work will stay in India through global capability centres and offshore delivery centres.”
+
+Other Top Stories By Our Reporters
+
+Taner Ozcelik, founder, Mythic AI
+
+Mythic AI entering India: US-based semiconductor startup Mythic AI, founded by former vice president and general manager of Nvidia’s automotive division, Taner Ozcelik, has entered India with a centre of excellence (CoE) in Bengaluru. It plans to build this into a key engineering and business hub for the company in Asia.
+
+Govt may assess MDR applicability on petrol pump payments: The central government may examine the applicability of MDR (merchant discount rate) on UPI payments at petrol pumps, following representations by multiple fuel station owner groups, people in the know said.
+
+Nykaa, L’Oréal's venture fund come together: Nykaa and French cosmetics and beauty conglomerate L’Oréal’s venture capital fund, Business Opportunities for L’Oreal Development (BOLD), will jointly invest in Indian beauty and personal care (BPC) brands, according to a stock exchange filing by the Mumbai-based retailer.
+
+Global Picks We Are Reading
+
+■ The clock’s ticking on the AI boom (
+
+FT )
+
+■ Why is Silicon Valley still a boys’ club? (
+
+Wired )
+
+■ Google, OpenAI and Anthropic AI safety group takes shape (
+
+The Information )
 
 ============================================================
 
 SOURCE 2: The Hindu - Editorials
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+[No editorials published today — feed had entries, none dated today]
 
 ============================================================
 
 SOURCE 3: The Hindu - International (headlines + summary)
+
+- Iran suggests deal to reopen Strait of Hormuz in seven days; Trump rejects proposal
+  26 Sep 2026 | https://www.thehindu.com/news/international/iran-suggests-deal-to-reopen-the-strait-of-hormuz-in-seven-days/article71510004.ece
+  Iran's Foreign Minister Abbas Araghchi, who detailed the proposal in a private gathering on September 24 on the sidelines of the UN General Assembly, suggested that a speedy agreement would help U.S. President Trump ahead of November’s midterm elections
 
 - Saudi says it intercepted two drones launched by Houthis towards Riyadh
   26 Sep 2026 | https://www.thehindu.com/news/international/saudi-arabia-says-it-intercepted-2-drones-launched-by-houthis-towards-riyadh/article71511484.ece
@@ -31,7 +122,22 @@ No new Weekly Funding Report since the last check. Most recent report: https://e
 ============================================================
 
 SOURCE 5: The Hindu - Business (headlines + summary)
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+[Economy] Govt weighs mandatory blending of imported coal at power plants, sources say
+  26 Sep 2026 | https://www.thehindu.com/business/Economy/govt-weighs-mandatory-blending-of-imported-coal-at-power-plants-sources-say/article71511447.ece
+  Under the plan being discussed ‌by officials of the Power Ministry, thermal power plants would have to blend ‌up ⁠to 5% imported coal with domestic coal
+
+[Markets] JSW One Platforms files draft papers for ₹3,054 crore IPO
+  26 Sep 2026 | https://www.thehindu.com/business/markets/jsw-one-platforms-files-draft-papers-for-3054-crore-ipo/article71511448.ece
+  The proposed IPO comprises a fresh issue of equity shares worth up to ₹1,300 crore and an Offer for Sale of shares worth up to ₹1,754.01 crore
+
+[Markets] India should allow exchanges to list on own platform, NSE chairman says
+  26 Sep 2026 | https://www.thehindu.com/business/markets/india-should-allow-exchanges-to-list-on-own-platform-nse-chairman-says/article71511450.ece
+  NSE accounts for about 93% of India’s cash-market ⁠trading and nearly 75% of options
+
+[Industry] Govt evaluating financial bids for IDBI Bank strategic sale: Sources
+  26 Sep 2026 | https://www.thehindu.com/business/Industry/govt-evaluating-financial-bids-for-idbi-bank-strategic-sale-sources/article71511451.ece
+  
 
 ============================================================
 
@@ -45,11 +151,11 @@ SOURCE 6: Watchlist (headlines + summary)
 - Why bitcoin is different from every other monetary promise in history
   25 Sep 2026 | https://news.google.com/rss/articles/CBMihwFBVV95cUxPaFVzM1dhaXlmcEpTanphaU5FWURwVVRkMTVYZFlUbVdWa1VITHZvUE5qWGJYNmpBSndOaUN6WTlnSVdLdXNZQWZNZm9nVVd3dG8ydkJmbE1OMTVwQnRYaXJMaExxT2JUYnQ1Ukd0aHRSdElRaGh3ZXZTcXJsVHozZXpOdjh5U2c?oc=5
 
+- Why Is Bitcoin Soaring Again?
+  25 Sep 2026 | https://news.google.com/rss/articles/CBMifkFVX3lxTE43S3kxUWVBYllhaDF2eEx1UUlxdkNZajcwLTM3RzJQZlBtbDBZbVRJbmRCVkl2VUY4OTBobHFwYkRMTG81Q1dxX2ItaWJQaTdlQ2FZeVZ3cmNOUC1lS1gzSXpyMjVtUmRBZ281eEswMnlqSEJQakFNQnBhY3UwQQ?oc=5
+
 - Bitcoin ETFs Flipped From $5.8 Billion in Outflows to $800 Million in Inflows. Is Now the Time to Buy Bitcoin?
   25 Sep 2026 | https://news.google.com/rss/articles/CBMi6wFBVV95cUxNajE0eW10RHBWZ1FFV2ExdGZXb254bUc0R3pYcC0yTXVUdktXZWFhdGV6VG4wZXdFUC1JeG1tSDVUMldJMnZ2ZjVLSVNPRW1HUFhZMG5YLXBiZExCUUlKc01kU2FGdWU1M0tVZUhZS2hMNE4xcVBDbjNFLUQybmFvaDJocDhxa3VxM1VPQXlmUkxZc0ZLc3E1MDF3bjF0LTNubWNULXM2RjhQUjRvZWp4TXR1NTBHTERZVnJxR1lKS1pHRTlQSG05NE9UTnZ3Z1g4SzhlRlVKVG1QcGN6bWxtQmROc1owdWltV3RB?oc=5
-
-- Bitcoin ETFs have erased a $5.8 billion hole
-  25 Sep 2026 | https://news.google.com/rss/articles/CBMilAFBVV95cUxNLXJuNXBfT1RyMC1nZ2hVUVVCd3lJZjRqZG5oV2Z4OUdIYktqT0dJNEF4NHo5emVOckx3c0duM25BV2ttaXJxM3BBT0FONlc1VGFES2hCbGxnVDA5Ql9lR3pvcHg0TlQ1REZCc3YyNG1BTHVpb05GbjNxeDRlaDdZV1pVSG5iYkxZNjNaTHJxY1BEeHRp?oc=5
 
 [Gold]
 
@@ -94,8 +200,8 @@ SOURCE 6: Watchlist (headlines + summary)
 - Flipkart's 'Are you really Gen Z?' turns identity itself into the gatekeeper
   25 Sep 2026 | https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdmlmX0lJU1lqQjN2T3I4SURnVUJuNzZROWw3X183bnF6U0o1eWlpemN3U0laSGllV182czZoRlRfLUxLYlJ0blpSX196Rldad3pqSkFuNUxRR3FhNGV2Z3NZWEJ0YXFMdFZmVUFJN3AxTUdaMFRVUklyOFY3VnR5NVJTNmY4RkVFVDhXQThFS1ZFWU9xNkR6dnpPXzZYTWJJQU5yV0VkNmFlZjg?oc=5
 
-- FSSAI Initiates Penal Action Against Amazon, Flipkart, Swiggy Instamart, BigBasket & Zepto Over Food...
-  25 Sep 2026 | https://news.google.com/rss/articles/CBMi6AFBVV95cUxNbHRFSVAtRml3QlhuUUluVzgxM1Q2SzVXSHNvUVE5ZVpuZUg5djBRa29vLWxHd1NGeXRyRkdUdUlwNWUyYU1SOGk3eEtzbVZaMTNRMUlrQU9IcjM1OWI5VTdDUEFESk1SZUxKT1p3clNUS0ZQRlNJZFlXb3QtS1ZuaWthWFdTNnJCbHJKUHRzZnNZRTVuYWp5ZmVRVkN2a2p1ZEFTN3NNNjJGQVBIUDI5SDJ0ZFBhWkJzeTZXZzhzcmp3X1Jvd3NuTnhnZkwweUFYNjh6V1VDUHZKeFRhRXB3X2h4ekwxYVdh0gHuAUFVX3lxTE5Gd0xEaUVvaDNxN1BIcDhUcnp2d25OVWkwR2txZlFzVVdUd29PS0UyTDJHcGdBSXZscDJZLUE4a19yd3lTcG8tMm5xUEVLZnhFaXVtMzhiQ0h5NDE5NWt0Mm9yYlBGaWl0Qjh3cFBFbkJReUIzSWNZODJUdTFCaU03ZFlfQ0VOOGJvUXlhb3NSWE9HQTJIZTU1UjVZNFF0c3V2LV9NNnlMdHI5Z0tUNGVPZ21ZQnZCcnZSR1FZTHY1bGI4S19VTDFpMXBFOHV1eVg2aUh6VFIwVVdGaVZval91TnRObm44N05jeDAtLUE?oc=5
+- Campaigns We Like | The week’s standout campaigns from Canva, Flipkart, McDonald’s and more
+  25 Sep 2026 | https://news.google.com/rss/articles/CBMidEFVX3lxTFA2SXlreUppbGZTYmRJQzJoNm81VWhIMGpPZlNnMC1Hc1NrVDktak9JMFFLekNBVHlobW0wUnJjOUprWW1ZMEZaYy1Lc25ZZEtYakMzWDlTMmpBYUZpYi02SHBuZ3lGX0dWYWEySHEyWlJnQ3Ja?oc=5
 
 [Flipkart Minutes]
 
@@ -110,8 +216,8 @@ SOURCE 6: Watchlist (headlines + summary)
 - OpenAI says its advanced models may have gone after government websites
   25 Sep 2026 | https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQlU4SjktaENRN1VNNmpMdXVTd1RCTjR1WHAxNDRCSE5oY0xYV0pBbmMwRjkzelZ2VW84SjJreTBrZ0sxaVp6bjFDWF9ZVmdBbHVSZmFCS2dkNWdkdFJaYWw4WWVWWVIzaVYybkFvVlFKREZ3WW9ua0Fyc2FDNFozcDExeTVNZWpFTkk0LWRFOTV3YnFUZFpqQ2ZOdDUtemV4Y1VlbkJRbU51dHhCV3dnSDVoTU9GUTYtTWZGVTBpZ2NOS1k?oc=5
 
-- Appeals court allows Pentagon to label Anthropic a national security risk
-  25 Sep 2026 | https://news.google.com/rss/articles/CBMinwFBVV95cUxNYzE4MnFOQll2cHhza2xyM2pOS1h1RWp3VjRXOE41UTdXU1JiUXdhRkIzUEQyRTRlVVhqV2xxdjItTk0zNTlpT0pnNGV6VWYxNkRLVmpJVzVockFCNEVnNmVrajNYWjhvbUR3RFpXNW5ka2s3OTcxWGFKVGtKaEdodmw4UVVIMnJzbF9fUTRYX3REZE5ZeFFLenYtQlVZSWM?oc=5
+- OpenAI investigating 'dozens' of instances of agents acting improperly
+  25 Sep 2026 | https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Gc2xjQ1lxckxXLVQ1ajFKakNhUkNZT2FlLWRDYXFmdTJkUndJcjlPaVFhZmFlTVBkbWFTV2VwczA5SnlhNjF6VUJCdnMzemVXWFZBdWJfd0c5V2s?oc=5
 
 ============================================================
 
@@ -127,8 +233,8 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 - Whirlpool of India zooms 33% in 3 days; what's driving stock price?
   25 Sep 2026 | https://news.google.com/rss/articles/CBMiywFBVV95cUxOdEFXYUlFMnh4WkJZM2hpWkRtWE4zaDM3QXRLVkQwbVRhdmFBOGF4eUVoNXh4Szg1U0lIbldmRVdIS21XLWdiQ1dMTmhqSTVYdU01QkgyaTIxSlE2SzV1VHJhd0QyRGJKR1FoYWx4S1lScGFlckJVX0d3V0dMZUtXci1Xa2pqQ21wR2YyX2ptT2Zad19XNVJ1YWp6RDJfeXJWaDlKTHZ1ZDZZQ0xVSkszQnJwU3ZQNm1ZcThud3BteU1TZzZWZkpTemJTa9IB0AFBVV95cUxOdU42c3BRWS1jLVJDZHMxNWhPOVBsSTZ4WVd4MUpPeXlzenVMSzB6Tkt5QlRBVVV3MUFBZVZFWjVHRUVlUUdfUjZETGhYd0RQWjY1dHBCQ1FJa0ZEQy1fWU1ZWm9MTGVfc2pMSUEwNGFNRkRUV3U5VTBoZDdmSy14YnBsR1JQcVZjZGViZTRqU0JIajAzNVJtRm9ic3FOOWhWVlZwVXBfLUl1WTVXUDdsWnQ4czItaHRlQ0ZUU25yNWxObUlXX190RW9DN1E5bVRN?oc=5
 
-- Whirlpool India Explosion: Stock Blasts 10% As Massive Buying Frenzy Hits Market
-  25 Sep 2026 | https://news.google.com/rss/articles/CBMixgFBVV95cUxPQVNSWVM4TUUyRmNQMHlmNzE4ZmJDZTUwY0NjUEJkSzNNVkJFeG51LUNZbGRDZElzWkxLUkgxNmZ1U3ZjRjktWmdORFBSaFJjaGJQNjQ5bHVqMjdiQTdLZ0NTNmhvaERTS3ZVaG9LdWVlUGVfeEhlczV0Z1Z0WG5MVWlnMVBPbnN5emFhWWVEc0NlN19RVkxlSnBPbmhIN3dRV01mcDUweU5JRjA0WXBTa1FueTVuM3VUUngzekdncGdZZGlBM0E?oc=5
+- Whirlpool Of India Share Price Skyrockets 12% In Trade Today — Here's Why
+  25 Sep 2026 | https://news.google.com/rss/articles/CBMihAJBVV95cUxOMTlGLVVTcjZPcndqU3RnLW9QQmxHLUk0SlpmVGtCMC1aTHRVZXQ5OV9kYlU4b0d6RnBTT1Z1R2xoOFpkUlVZT09kU1YtYndyc1lnc3VFYTMwZV9TZk5OTVJGdTRRYW1FUkZBaXhsTmlya0UtN0JwZ2piVjNqTWJzLThBSWQ2Y01kZ0VlM0pILXRGajcwUmFmNjQtUUZLQVFnRlNQWVJFRFlBLTVkb1ZhRThHRWRxREI0a2NaUnBFODFRWWU5WmlkVzlVLU1mZ09wUEpJd2pYaWFPeTZiZnk2enBIN2MtalZ3V2RLdi01c1FPODE4M2FxZlFDTE1GeUVvd2pJM9IBjAJBVV95cUxOckp4aTJpVW5oQmZ3VlZBU2g5TExzcEZ0S2pFV1NzM2JpWk5ZU2tOVDR2ZV9SRm91cE9VQzFpRi03RGtGemNNaXlWQm1CWFZGVERENmF4SVZOeTE1Ui0yVlFuZ21UUlJhbDBQQUdBOThFS0lKMldLVFlSUURwcG5YU05TZzJvdnhZcHY2WWdzUE5ISFJsZEhPcERvT0g4MjZnelBJWjVWQU9hcUtQTDVDcXowdlVHVjRoampXQmFxajd2XzdlRlVRZm1oMGxBLXMxd050b3J2TG9QRHpXVFFKcnpyX2FRNUpRLUlzdS1QRlBwQVUtcTMzZThaY2FGZlZSXy1nS0haa21BLXQ3?oc=5
 
 [Engineers India Ltd (ENGINERSIN, +6.40%)]
 
@@ -146,11 +252,11 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 - Welspun Corp gains after U.S. unit secures $412.5 million deal
   25 Sep 2026 | https://news.google.com/rss/articles/CBMivAFBVV95cUxOUFU3MXFzcktLOEx0Uk9vc2RyWnZiZ1JkbkVuSlBPTjV1a3M0ekZKaTBaQ2J5NC13UlQ2ajBpTGF6bXBiWDdlblNEX1pLNlBQbVhac1hzZjlQV21iZzktR1B6Rmc5cVhKNHpEV0dPZUNZcWRfOEVPUDdIdXV0eWNlaXFKMzhOZ1pOblZmVmFULUt3UENDV2x3N3Qwd2RJOVpyUFFTeDVDeXY0OFJRT25DWENiWVgtZDNfNUhsWg?oc=5
 
-- Welspun Corp US unit wins $412.5 million pipe supply order
-  25 Sep 2026 | https://news.google.com/rss/articles/CBMitAFBVV95cUxQM29IR29XcXNpcU5EaUFYdzlBRUFLM3hNemd5dUVsWlBHODZ1Yzl4TTh3TGVLbEpDVXpldWxUS3dDUk93N1VBajVtNkxtZUNoTkpIdjhoWGNQb0F5WkszdjVfOGF3bGk3Vktyc1BacUZuZnJiRlJVb3pYeThvMGd2RGs1cUVIQnQxWWxPeDJxNjZuXzNOQm92Z1ZnTVdLSGtLUFMtRHZ6bHdwdXBqNGFHV3hVN1U?oc=5
-
 - Welspun Corp Jumps as US Arm Lands Record $412.5 Million Pipe Order
   25 Sep 2026 | https://news.google.com/rss/articles/CBMidkFVX3lxTE9vQjFXTHNYVlFuUkVsN2xFdE9rOGhReEFMVVFoWjF3TFdfM1F5WlB2UDVoTzk2LXZQSkdqXzVzMlp5bldqc1ljWnkyZlVXWDdtVDJpdFR4SGoxbndmM21yeExVX2t5aDBYOEJETjVtSWZLY2pXeVE?oc=5
+
+- Welspun Corp Unit Wins Rs 4,000 Cr Pipe Orders; Shares Rally 3%
+  25 Sep 2026 | https://news.google.com/rss/articles/CBMiugFBVV95cUxNLWdiUWdhR0wydHhtVjJZLUx3NWdrTFpsMVd4ZEZkWTliUGsyZmhFTTI2U0lkX3k3Y1dSY2V2ZzdMVmF5eGh5Y3kycjd5RjZFalhPaWhFQkE4R21yY2tESFBKazlDQUI3azZQZmwzdjJKY0JMOXI2blNYZEJ2QWh2dVpYTXBuWjdaMHVBamUza2t5N2I1d2JuZUFHX2ZRTk1UN0dyX3NhVjZXVnJJME1aSkNHdFVna0tEcWc?oc=5
 
 [Balrampur Chini Mills Ltd (BALRAMCHIN, +4.00%)]
 
@@ -194,25 +300,25 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [Fortis Healthcare Ltd (FORTIS, -4.50%)]
 
-- Supreme Court Refuses To Interfere With Forensic Probe Order Against Fortis Healthcare
-  25 Sep 2026 | https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTzdVWFUtMUU5blZuSFNZSE1qbHJxOUwxUWhUMWtvbTF1V2pYY240WnNGZW9wcE90dnVQcUcyM1BadTZWeFVadUN2UEZ3dGw2czhDZjFxVTBjamJqbWtMa0hiX1h6RWE2V0VSOF9zVHNjRk5HN01vdlMwTHJPZUlEelIxamRWUjc2a2NFNnNmUWR1UW8tLWZFR0ZOdGotZWd6MHJIbmtkVVdJb0picldSc1VIRmotaUZmWERORDJudUt2NkXSAcgBQVVfeXFMTi1sWThOMXNTOHpWN3l3OEw5a3E5SmZqdVFFV1MyS0pFUnZuZ2JSVXV0NV9jd0E1bFlBVzFmZlQ2OG9VV3l2NGx0dmdSaG1KT2JQcUw5VlNLbHBhZWVpUmVhalFhTTh2elg3YklBclN2NlZ4dnBBTEpSOExFX2tfUHM1N2tVVDg3Zk54eFA0UDFTdlhGbmh0Sm1UYjJwZHM0YnhhMmdhd1hEemJySmpPZ2dDNmRMY2FFUjN2bFB4Q2RZQ2cyc3NpNmg?oc=5
-
 - Fortis Healthcare: NTK Appeals Tokyo Court Ruling in Daiichi Sankyo Case to High Court
   25 Sep 2026 | https://news.google.com/rss/articles/CBMisAFBVV95cUxPclV3ZTh5Y3RXZ0lnWGc0em5oTTUxODF2dHJRVzh5REhfN1drdXMzaEcwaW5rNnd0YWlYbmF3MC11ZTh1eWFKNU1nY3h5U1htUXhWMHNhQXM5SHlkaG9YZFZHZ1gxR3BDeEd2YW0yOC0xaVJRUUZoV0YyNUZua1hCbGZlVm53NkJHU1lEdmRNbkZ6b3dtQzJUcE9OUWJiRllCcTZPcWN1eThRMHFHVVQ3Qw?oc=5
+
+- Supreme Court Refuses To Interfere With Forensic Probe Order Against Fortis Healthcare
+  25 Sep 2026 | https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTzdVWFUtMUU5blZuSFNZSE1qbHJxOUwxUWhUMWtvbTF1V2pYY240WnNGZW9wcE90dnVQcUcyM1BadTZWeFVadUN2UEZ3dGw2czhDZjFxVTBjamJqbWtMa0hiX1h6RWE2V0VSOF9zVHNjRk5HN01vdlMwTHJPZUlEelIxamRWUjc2a2NFNnNmUWR1UW8tLWZFR0ZOdGotZWd6MHJIbmtkVVdJb0picldSc1VIRmotaUZmWERORDJudUt2NkXSAcgBQVVfeXFMTi1sWThOMXNTOHpWN3l3OEw5a3E5SmZqdVFFV1MyS0pFUnZuZ2JSVXV0NV9jd0E1bFlBVzFmZlQ2OG9VV3l2NGx0dmdSaG1KT2JQcUw5VlNLbHBhZWVpUmVhalFhTTh2elg3YklBclN2NlZ4dnBBTEpSOExFX2tfUHM1N2tVVDg3Zk54eFA0UDFTdlhGbmh0Sm1UYjJwZHM0YnhhMmdhd1hEemJySmpPZ2dDNmRMY2FFUjN2bFB4Q2RZQ2cyc3NpNmg?oc=5
 
 - SC clears forensic audit of Fortis-IHH deal involving erstwhile Religare promoters Singh brothers
   26 Sep 2026 | https://news.google.com/rss/articles/CBMimgJBVV95cUxPMDFzZVpWUUhlY0FTZjFEUGk2bTNDRHJTcFRqYUUwVnJvN1FLc3ZZUEFHRExhQnFPeXc0WEtQZVB4YXptdDZocHZIQkRORjM5QU9SdEd2RWtOMzJWcDFscEFGdEZWSzJwS0hIN3NOSGJKQURDbXJLcUN4ODh3NlJFZUlsOU1RdzVYUURaVUxNVUdwVGpYcW56dF9ualN3b3pDVUJxcFJFQldTX3QzeW9aU0JSZlYwY3AyQnR1YWotb3VNZUtQRmU4OGtYXzR0SlVBdmt0bTlCYXBreXhZdDZMa3NQMFR1c2JnTE9TZlZoZUN3VmdLY1l4T2YxandyUE16OE1JcEFla2hPLTZaVlpkZ1Znd21lZUU5T1HSAZ8CQVVfeXFMTVE2MEFwR2pDc0ZIUGY4LXEwS2lNV25PbFNWXzFkbjhYUktQUW5qTENPTGU0Tlp0QVYtbE01MkdMTV85eC1RVGZXX1dJZ2lsd3A5eF84WGl1akdRTUJzY09qNThva05ZYktBRWlLS2ZSelNDamdoTGhFejJvejZ1ZVJZRXJUemNNd2NKLTdJMzE3TmJhZl9iSnB2TWlhU2xqSVY1dVlocm5nclA1Z0xaVVc4T2dOOTJIbTZ1WExERzhwTUNHUHRueWg3SWhWcVhMTU5vMU02TjFIWW9CX3VuQ0V2VE1OVG92U3BQWndOSWt2SGtCN2x2ZDBfUnZjdENuaktPTUg1MXQtSDZTZ2N4MHVtZmZCcTVqRGd2Y3JuNE0?oc=5
 
 [Jk Cement Ltd (JKCEMENT, -3.56%)]
 
+- JKCL70926 Bond Profile: Coupon and Redemption
+  25 Sep 2026 | https://news.google.com/rss/articles/CBMiakFVX3lxTE9tME5xVmE5U29qaXJGcGYwek5pMHl4dno0czRUZDFYQ1ZPRXk1OEctSHM1YjR3bVp5UFJyNF9pVl8xdlNoS3JGSFRCUWY0R3Y4OF9WMENya09HMGtXdGVJUFlFb1ZWdWdXZnc?oc=5
+
 - JK Cement among 4 stocks showing RSI trending up
   25 Sep 2026 | https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYWJnbFR6N1o2SEhKWmZtcUhjQmRaNGxWbnZsSUwwTy1yeGhpd0gweEpNQ2NTYnVvNTc3bGhfVmNtRllXMU5TM0dDUndMQXEtNC1aYUhCUU9EVVJMWVNrSUdWN2hVbWx5LW5TNHpEZmNNVG9fSUs3MGhRLTk1eVZ2a1JNdENERTFDTFNsTGNDTk41YnVnQnhTZnZkX01wcnFhWGxUMDJiRkdCcWtpQ29FT2RwTE1FVzB5UVQ4RGNYQTg1cktlN0JHLQ?oc=5
 
 - JK Cement Share Price News: price action and sector context
   25 Sep 2026 | https://news.google.com/rss/articles/CBMifEFVX3lxTE5lX1JJWWNkTWxaMW5sTkZBVk5sVkNiLTlPeUx5VUlXZ1JRMWF4MzQ1RzRDaXJ2bjNDOWExRVhqRDBqRENtN0ZULV9icEVUQWVwaDhmVjZUM0dYM24ycnJJd3ZaVFVYQXh3S0xiYWpJaGdKWWZLYUQ5bGdHMFA?oc=5
-
-- India: JK Cement's Panna expansion strengthens FY'27 volume growth prospects
-  25 Sep 2026 | https://news.google.com/rss/articles/CBMivgFBVV95cUxOYm1SUUVCcUgtRXdac0kzVVBjQnFfWFpNV0M1ZkpDa1Zxd2lEakhXWFc0Rzl4bHFadkNKYkllbWFfLW1nR2FoRDR2UFgxTjVRWHZxUG9KcEVhcWtOMk84NXZ3NEhzREIzdnE4WjJwU2Z2ZUxodmlFc2dQSlJNQ2JTcDNNNHJXY0VOS2p0cWRSekJyTl9PM19Vbl9hYTZLcGZ1SHBwVkdDdElXTnowamdQczlTSVJYLTBGemY0YktR?oc=5
 
 [One97 Communications Ltd (PAYTM, -3.54%)]
 
