@@ -4,12 +4,99 @@ Nifty PE Ratio | 19.56 | 25 Sep 2026 | https://nifty-pe-ratio.com/
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+URL: https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/irdais-policy-to-rattle-insurers-banks-etsa-winner-progcaps-next-bet/articleshow/134472995.cms
+
+Happy Friday! IRDAI's overhaul plan could significantly impact the new-age insurance distribution industry. This and more in today’s ETtech Morning Dispatch.
+
+Also in the letter:
+
+■ Impact of renewed H-1B curbs
+
+■ Mythic AI entering India
+
+■ Does MDR apply to fuel payments?
+
+Insurance commission revamp to push insurtech firms to the brink
+
+The Insurance Regulatory and Development Authority of India’s (IRDAI) proposed commission caps
+
+are likely to squeeze earnings at companies such as PB Fintech, Turtlemint and InsuranceDekho, industry executives and analysts said.
+
+Context: The Insurance Regulatory and Development Authority of India (IRDAI) on Wednesday proposed a major overhaul in the way insurers pay commissions to distributors, with limits to be linked to the type of product, distribution channel, size of the policy, and the effort required to sell.
+
+Wide impact: Banks and non-banking finance companies (NBFCs) are also expected to be affected by the proposed commission caps on their insurance distribution income. Analysts said bancassurance fees account for a relatively large share of their revenue and profit.
+
+Analysts say Axis Bank and HDFC Bank are more exposed than ICICI Bank, Kotak Mahindra Bank and SBI because insurance fee income contributes more to their revenue and profit before tax. Most NBFCs could see a 4-8% hit, assuming partial offset via lower costs or fees.
+
+Market hit: Shares of PB Fintech, Turtlemint, SBI Life Insurance, HDFC Life Insurance, and ICICI Lombard General Insurance, among others, tumbled on Thursday . The Policybazaar parent saw a 36% decline in its stock, witnessing over Rs 31,000 crore in market cap being erased in one day.
+
+Industryspeak: PB Fintech said the proposed changes to insurance distribution economics could make it harder to justify remaining solely a distributor . Cofounder and group chairman Yashish Dahiya said in an analyst call, “I never wanted to be in manufacturing, but I think now this (the proposal) has almost forced us to (do that).” Dahiya termed the IRDAI proposals “quite extreme”.
+
+ET Startup Awards 2026: Pallavi Shrivastava’s Progcap is powering up a million kiranas
+
+Supply-chain financing startup Progcap
+
+is integrating payments into ProgComm, its commerce platform for brands, distributors and retailers, CEO Pallavi Shrivastava told us in an interview.
+
+Shrivastava won the
+
+Woman Ahead category at the ET Startup Awards 2026, sharing the honour with Palmonas founder Pallavi Mohadikar.
+
+Driving the news: Shrivastava said small businesses view credit, payments and commerce as a single operating cycle, not separate products.
+
+Under ProgComm, businesses will be able to pay suppliers on the same platform used for orders and invoices.
+
+Each completed payment will be recorded in the business’s transaction history, giving Progcap more data to assess working-capital needs.
+
+Growth path: Founded in 2017, Progcap began by sourcing loans for banks and NBFCs, then started balance-sheet lending via its NBFC, Progfin, in 2022. It has raised about $111 million from investors including Peak XV, Tiger Global, Creation Investments and Google, with a 2022 round valuing it near $600 million.
+
+IPO plans: Progcap explored raising $100 million earlier this year and received term sheets from investors, but decided not to proceed with the round, Shrivastava said. It plans to return to markets when needed and is targeting an IPO in about two-and-a-half years.
+
+H-1B curbs push Indian tech firms to rethink US talent deployment
+
+The Trump administration’s decision to extend H-1B restrictions until September 21, 2027, including a $100,000 payment requirement for certain workers,
+
+is prompting Indian technology companies to keep more work in India and become far more selective about US deployments, immigration experts said.
+
+Data decoded:
+
+As per US government data, H-1B registrations by the largest information technology staffing and outsourcing firms fell 92% to 2,055 from 24,946.
+
+Consular-processing requests dropped nearly 97% between the FY25 and FY27 registration cycles.
+
+Expert take: Raheel Patel, partner at Gandhi Law Associates said Indian employers are changing how they deploy talent in the US, rather than simply reducing hiring.
+
+“Companies are deferring fresh transfers from India, keeping more work offshore and hiring locally in the US,” he said, adding, “More of the work will stay in India through global capability centres and offshore delivery centres.”
+
+Other Top Stories By Our Reporters
+
+Taner Ozcelik, founder, Mythic AI
+
+Mythic AI entering India: US-based semiconductor startup Mythic AI, founded by former vice president and general manager of Nvidia’s automotive division, Taner Ozcelik, has entered India with a centre of excellence (CoE) in Bengaluru. It plans to build this into a key engineering and business hub for the company in Asia.
+
+Govt may assess MDR applicability on petrol pump payments: The central government may examine the applicability of MDR (merchant discount rate) on UPI payments at petrol pumps, following representations by multiple fuel station owner groups, people in the know said.
+
+Nykaa, L’Oréal's venture fund come together: Nykaa and French cosmetics and beauty conglomerate L’Oréal’s venture capital fund, Business Opportunities for L’Oreal Development (BOLD), will jointly invest in Indian beauty and personal care (BPC) brands, according to a stock exchange filing by the Mumbai-based retailer.
+
+Global Picks We Are Reading
+
+■ The clock’s ticking on the AI boom (
+
+FT )
+
+■ Why is Silicon Valley still a boys’ club? (
+
+Wired )
+
+■ Google, OpenAI and Anthropic AI safety group takes shape (
+
+The Information )
 
 ============================================================
 
 SOURCE 2: The Hindu - Editorials
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+[No editorials published today — feed had entries, none dated today]
 
 ============================================================
 
@@ -25,7 +112,8 @@ No new Weekly Funding Report since the last check. Most recent report: https://e
 ============================================================
 
 SOURCE 5: The Hindu - Business (headlines + summary)
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+[No items published today — feed had entries, none dated today]
 
 ============================================================
 
@@ -39,11 +127,11 @@ SOURCE 6: Watchlist (headlines + summary)
 - It’s ‘Time’—The Real $365 Trillion ‘Critical’ Reason The Bitcoin Price Is Suddenly Soaring
   26 Sep 2026 | https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRFVpTFJaa040NFNfZzNCaENjY1Nob1ZDUXF5azZYc1VlVmUyM0NYWVhUSU5BNnc1SDVNdXlZbU1HN096ZG1ySzhUMUhLRjY1WDN3Yjd5Rk1mNDY2M0VyWXVzTFhwbHRwRWFWSUk4YmI5ZHctUnRBb3JWU0ZpVzMzRkYzUzVyNTJnZnhDT1JoQmx6MVlCNlQwUEQydzMzdDFXNUtaR0h1WkNidnlqVE14Y3E3ajhPdUd0cG5lTkNoS0hodnV0UkZqbEs4eXdfZmppSktwS2tJZw?oc=5
 
-- Give solo Bitcoin mining a try with this $60 pocket-sized ticket miner
-  26 Sep 2026 | https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjMtLVY5RXZrWkxRTU9yWU5iVnlOTWVVM2VtMW5IUW14akU4ZUVISThhZThOODJJT3hlUUdyeTZPTExpQnNEOERnbk5HaXhRLUdHM3FUMGRndEw4VUxvT1huQnFsS1dkWXhpVERmYS1POXBZbE1QdUZBVHVQRS1yMDZfRzRhVjdyU3dhM2dyQlBCcDR0N19PM01mR3FmdEFnQTVfSzFiVFdoY2RZSjhhZFJYZFRfaWhBMWM5N01jYkYzRzA?oc=5
-
 - A Former BlackRock Executive Calls Bitcoin an “Exit Asset” and Ethereum “the New Rails.” Bitwise Says the Opposite.
   26 Sep 2026 | https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcFF2Umc1T0pYZ0swWWVZcjRXdFNiZS1sdVNZS1VtMjc2MUs0cG9jZUYtaTZsNm1tdkx4SzQ2QXptWTV1T3BlX3ZYQVNONzVGY3hYd2NOWGVNS1k2TzhDTUJra0NzQWNTUWlfX2UxREVvMkVJc3ZPUkdIMkVBemdSaU9BdnNBWHlYWGFMTVU0QTVKekhSUFE0dk9uQmo3VTd3NmE3YkpDSWQ?oc=5
+
+- Give solo Bitcoin mining a try with this $60 pocket-sized ticket miner
+  26 Sep 2026 | https://news.google.com/rss/articles/CBMiwwFBVV95cUxQQjMtLVY5RXZrWkxRTU9yWU5iVnlOTWVVM2VtMW5IUW14akU4ZUVISThhZThOODJJT3hlUUdyeTZPTExpQnNEOERnbk5HaXhRLUdHM3FUMGRndEw4VUxvT1huQnFsS1dkWXhpVERmYS1POXBZbE1QdUZBVHVQRS1yMDZfRzRhVjdyU3dhM2dyQlBCcDR0N19PM01mR3FmdEFnQTVfSzFiVFdoY2RZSjhhZFJYZFRfaWhBMWM5N01jYkYzRzA?oc=5
 
 [Gold]
 
@@ -110,11 +198,11 @@ SOURCE 6: Watchlist (headlines + summary)
 - OpenAI says its AI agents escaped a secure ‘sandbox’ again last weekend and it is pausing training for a second time
   26 Sep 2026 | https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFNfUWZES3NOQWlYakpDa2RwT18tWXZOX0YteUxUY0MzQi0wQmNwb3N5ZjRXekFHVmdBSFB5RTkwcUpETUdVM0JfM3B6czhCRzJUa1VKZzJDS3dyRm9ZaUYtSmFQd3FWeHFpUnhVdThZMVJLRlRhNlBlRmZaWUtWaUJlVWVBckNaOXpPalVBVXdiOWtySVVxMjR0U2cyVC1FVE1nRDk5Y25YdU1aZHhVUm1JRFZ4UQ?oc=5
 
-- Anthropic's IPO Was Just Delayed to November. Here's the One Number That Has Me Even More Excited.
-  26 Sep 2026 | https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX1Y0WVRrWGNkM1JENkZUMER3ZzN2UEZRbGhyUk9UNXlpTU9hX0FiOXNsd3FrcFBxQ1otOWtLQmx3eGstejh3VEdsWnJFa2lRNXNJcGFUVjNiVWdxM2U3VU9wSzBORmNDM2U0a0locmFYbGpQXzJmRmRtS18tS2Zfa2tyUzRjVkYyUjEwY1NMbmFfRmtVNXB2ODhQVWRjRmh0VEhraDh6Z2Rib2NfUUVHdUphX2JzV2RGYmw0UUpaeE81ZkY5OEMyV1ZibEFJNjlTU3RGbVJB?oc=5
-
 - OpenAI expands review of model behavior after more rogue agent incidents emerge
   26 Sep 2026 | https://news.google.com/rss/articles/CBMie0FVX3lxTFBNQ25HaXFaODhPRTU1YTBSMWtEZkZwZGJQaUNfWkQxSGdpUVFyRGtrSUZxYi0xTnR1aE1lUHYySEY3eVdPbVVEUWRuTkpKR2ZSczA2X2ZNd05MT1RRZWVTazBhS2JNa3pwSHlFSUJ6MFFmVUM3bDJaQUZMRdIBgAFBVV95cUxPMGtzUFg2LVBJUm5SMkszZV8zelJvakZ5TEdBTW5QZC1PZHNySWQtQ1g5Y1c3ZzE4UXNtdlduRjVGZTlBTHBTMVkzUHJUVG9WRk1zb2E1T2F3OWNUVGt5UHl3T0tqWFZhcVo0elI4VlF5RUV2ZHBsVGNmRTVtQm9TXw?oc=5
+
+- Anthropic's IPO Was Just Delayed to November. Here's the One Number That Has Me Even More Excited.
+  26 Sep 2026 | https://news.google.com/rss/articles/CBMi1gFBVV95cUxNX1Y0WVRrWGNkM1JENkZUMER3ZzN2UEZRbGhyUk9UNXlpTU9hX0FiOXNsd3FrcFBxQ1otOWtLQmx3eGstejh3VEdsWnJFa2lRNXNJcGFUVjNiVWdxM2U3VU9wSzBORmNDM2U0a0locmFYbGpQXzJmRmRtS18tS2Zfa2tyUzRjVkYyUjEwY1NMbmFfRmtVNXB2ODhQVWRjRmh0VEhraDh6Z2Rib2NfUUVHdUphX2JzV2RGYmw0UUpaeE81ZkY5OEMyV1ZibEFJNjlTU3RGbVJB?oc=5
 
 ============================================================
 
@@ -142,11 +230,11 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [Balrampur Chini Mills Ltd (BALRAMCHIN, +4.00%)]
 
-- Balrampur Chini Mills gets Rs 75 crore BioE3 grant for PLA co-polymer R&D facility
-  26 Sep 2026 | https://news.google.com/rss/articles/CBMi9wFBVV95cUxPM2dFR3VJUnNtQWpsTVZQeTNXMGYtZWNyblpmMkZybzA3cmpMLTlLNnMwYWYwX3NQVW9Cb1hreGlfNVp5Z0dybkJPVXlwZ3VEYWVJQjdPcnVuVFNBWkZiQmIyTHFTZnhaR2dZaGV5R1FKM3NwVkpqbVNGSjhQcFZiYWRlZmNubmNpd0dOdk1NS0ZhRzJlNDFtQTJHRWo4dWl4dlRRQ2JsanlrcVRBMVRWNmtQR3BVYkgzWktMbnl3b3VDUFZpZmlZZ1pKaGIwSnk2TlJVSV9yQm1XT0dnSk0zRFJGNENZY1d6YzhhYUhGZDZoZnBGTVY00gH8AUFVX3lxTE51Y0wtTjZzRGZjQlR3MkxCdndNS09SRGtNWU5KbGFJQmR1cHFaZlRmMVJJOU1QLW16Y2FacmducnNfSldaRGpTQjBPLUVNa0ZNOFZHMC11djlxT2VjSFo4bk9GNWh2QVNNakM0elBfa0pSUzJNTjdQUEtLRHlNTk51M1ZFLTFyQjJQVkhPTC1qR284a253bVNhdXR4dElxMzdvTFBVVUZtZ2Y5SXY4YVY1RkNUT0lNMjJsTVFNV1ZlMkJoWmFkS2FQbUV1NVJwNGw0Z3IzM0RhZ3ZwME0wRlc1bmZraU03YW11RzRfU0NTeGdQNlFHb25vUHlSUQ?oc=5
-
 - Balrampur Chini Mills publishes voting results for 50th AGM resolutions
   26 Sep 2026 | https://news.google.com/rss/articles/CBMixAFBVV95cUxOMUNqcFgzLUdfd0h1SjVtaW15LU1GdlRoZERGSnN4UnNSTmRmRmtOTWlqVUNCcGx0SjV5MS1mOG9SMlFBVG5xOTBGNU9HbTJpX19hQjZhRmx1RV95bFpfd001UXJQSXpnbjFKN0pMd0tqdDNrVzcyTG00YzRodnVFdTV1YkY3TDZUYWpTTUtPdDU4QV9jbzNKdUJXMl9LdFlNR2hvOUYzdWNMZFlWNUI1MXU3ZWxzd1hHUnpJXzJiakRyenox?oc=5
+
+- Balrampur Chini Mills gets Rs 75 crore BioE3 grant for PLA co-polymer R&D facility
+  26 Sep 2026 | https://news.google.com/rss/articles/CBMi9wFBVV95cUxPM2dFR3VJUnNtQWpsTVZQeTNXMGYtZWNyblpmMkZybzA3cmpMLTlLNnMwYWYwX3NQVW9Cb1hreGlfNVp5Z0dybkJPVXlwZ3VEYWVJQjdPcnVuVFNBWkZiQmIyTHFTZnhaR2dZaGV5R1FKM3NwVkpqbVNGSjhQcFZiYWRlZmNubmNpd0dOdk1NS0ZhRzJlNDFtQTJHRWo4dWl4dlRRQ2JsanlrcVRBMVRWNmtQR3BVYkgzWktMbnl3b3VDUFZpZmlZZ1pKaGIwSnk2TlJVSV9yQm1XT0dnSk0zRFJGNENZY1d6YzhhYUhGZDZoZnBGTVY00gH8AUFVX3lxTE51Y0wtTjZzRGZjQlR3MkxCdndNS09SRGtNWU5KbGFJQmR1cHFaZlRmMVJJOU1QLW16Y2FacmducnNfSldaRGpTQjBPLUVNa0ZNOFZHMC11djlxT2VjSFo4bk9GNWh2QVNNakM0elBfa0pSUzJNTjdQUEtLRHlNTk51M1ZFLTFyQjJQVkhPTC1qR284a253bVNhdXR4dElxMzdvTFBVVUZtZ2Y5SXY4YVY1RkNUT0lNMjJsTVFNV1ZlMkJoWmFkS2FQbUV1NVJwNGw0Z3IzM0RhZ3ZwME0wRlc1bmZraU03YW11RzRfU0NTeGdQNlFHb25vUHlSUQ?oc=5
 
 [Kaynes Technology India Ltd (KAYNES, +4.00%)]
 
@@ -162,6 +250,9 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 [Fortis Healthcare Ltd (FORTIS, -4.50%)]
 
 [Jk Cement Ltd (JKCEMENT, -3.56%)]
+
+- JKCL080926 Bond Profile: Coupon and Redemption
+  26 Sep 2026 | https://news.google.com/rss/articles/CBMia0FVX3lxTE1CZGhnWC1DSXRURHJmQzRCaUg4LXZGd043NklkQ0l3SVNDbXNtblF5S1ZBZ0xJQzB3MlJfendtX3FTYmR6YmtEMHZJM0kyQ0swZ3Z6RG80YzRENDVKRXFDWVJVZzBsaVp2VURR?oc=5
 
 [One97 Communications Ltd (PAYTM, -3.54%)]
 
