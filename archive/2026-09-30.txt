@@ -4,150 +4,76 @@ Nifty PE Ratio | 19.20 | 29 Sep 2026 | https://nifty-pe-ratio.com/
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-URL: https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/ecommerce-cos-gear-up-for-festive-sales-vertex-ventures-new-bets/articleshow/134577239.cms
-
-Happy Wednesday! Ahead of the festive sales, ecommerce giants are bolstering their supply chains. This and more in today’s ETtech Morning Dispatch.
-
-Also in the letter:
-
-■ ETtech Done Deals
-
-■ AI, chips firms enter new territory
-
-■ ChatGPT’s ad challenge
-
-Ecommerce firms scale logistics, hiring ahead of festive sales
-
-As the festive sales draw closer, ecommerce giants Amazon and Flipkart
-
-are significantly expanding their supply-chain networks.
-
-Driving the news: The companies are doing this through additional warehousing, more delivery hubs, faster delivery options and deeper penetration into tier‑II and tier‑III cities.
-
-Flipkart has added 14 million cubic feet of warehousing space, lifting storage capacity by 50%, and added over 900 last‑mile delivery hubs.
-
-Ekart and Flipkart Minutes now operate more than 8,200 facilities, extending reach to locations such as Leh and Kargil for the first time during Big Billion Days.
-
-Amazon has launched 20 new fulfilment centres and other logistics units in cities including Raipur, Ranchi, Hassan, Meerut and Varanasi, plus six new sort centres and 150 new last‑mile delivery stations.
-
-Now hiring:
-
-Amazon and Flipkart are expected to hire over 410,000 temporary workers across direct and indirect roles, about 30,000 more than last year.
-
-Meesho plans to create over one million seasonal opportunities, including around 6.5 lakh across its seller network and 3.75 lakh in logistics.
-
-Industry estimates project festive season ecommerce sales of Rs 1.50-1.55 lakh crore,
-
-up 25-29% year-on-year . Quick commerce’s share of that is expected to rise to 16% at about Rs 24,000 crore.
-
-Also Read: Premium takes priority in ecommerce carts this festive season
-
-Vertex in funding talks with RapidCanvas, Supernova to sharpen AI focus: Sources
-
-Rahul Pangam and Uttam Phalnikar, founders, RapidCanvas
-
-Vertex Ventures
-
-is in talks to back RapidCanvas and Supernova, sharpening its AI focus after consumer investments in India, people aware of the matter said.
-
-Deal details:
-
-Vertex is likely to invest about $20 million in Hyderabad- and Austin-based RapidCanvas’ $20-30 million round at a $120 million post-money valuation.
-
-Existing investors are expected to participate, while a new investor may also come on board, the people added.
-
-It is also discussing a $15-20 million investment alongside Verlinvest in Bengaluru-based Supernova at a $100 million post-money valuation.
-
-Why it matters: The proposed bets target businesses using AI to lower service costs. RapidCanvas automates enterprise data work, while Supernova offers speaking practice without live tutors.
-
-Track record: Vertex, typically a consumer internet-focused investor, recently led rounds in creator-commerce platform Wishlink and food brand Anveshan . The proposed deals signal a sharper AI focus for Vertex, in line with a broader shift among venture capital firms globally.
-
-Arivihan raises $10 million from Prosus, Accel to expand AI tutoring
-
-Sonu Kumar Prashant, Ritesh Singh Chandel and Rushabh Kothari, founders, Arivihan
-
-Edtech startup Arivihan
-
-has raised $10 million in a round led by existing investors Prosus and Accel. The round values the startup at Rs 570 crore, as per filings.
-
-Details: The Indore-based startup aims to expand its artificial intelligence (AI) tutoring services across state boards and competitive examinations.
-
-Cofounder and chief executive Ritesh Singh Chandel told ET that Arivihan would use the funds to cover almost all state boards by year-end, expand its Central Board of Secondary Education offering and deepen its presence in medical entrance preparation.
-
-Kitchen appliance startup EDT raises $2.4 million in funding led by Sauce VC
-
-Mumbai-based kitchen appliance brand EDT
-
-has raised $2.4 million in a round led by existing investor Sauce, as the company builds inventory ahead of the festive season and expands into beauty gadgets.
-
-New trend: This comes as investors increasingly look to back modern kitchen and cookware brands. Rising incomes and changing consumer preferences are driving demand for products that promise not just functionality, but also safer materials and sharper design.
-
-ETtech Explainer: Multi-billion dollar global battle for AI control
-
-Frontier AI companies
-
-are moving nearer to the chips that power their models, while chipmakers are moving up into the model layer.
-
-Why the trend: Chipmakers are making this move to understand how AI models are evolving because those models determine what future computing systems need to do.
-
-AMD’s $8.2 billion acquisition of World Labs is an example of this. AMD said the deal will help shape its hardware, software and systems roadmaps by aligning them more closely with real-world model demands.
-
-Why chips: For AI companies, soaring compute needs are driving up costs and creating incentives to customise silicon. Additionally, owning more layers of the stack allows tighter optimisation across hardware, models and software.
-
-Other Top Stories By Our Reporters
-
-ChatGPT is coming for a bite of Google-Meta’s ad pie: ChatGPT’s entry into advertising is prompting brands and agencies to test whether intent-based discovery on AI platforms can take away a meaningful share of advertising dollars from Google and Meta, which have long dominated customer acquisition playbooks.
-
-Groww begins phased rollout of US stock investing: Online investment platform Groww has begun rolling out US stock investing to a limited set of customers, marking its return to overseas equities more than two years after it discontinued an earlier offering due to friction around remittances, withdrawal costs, and settlement processes.
-
-Flipkart preps for festive sales: Ahead of Flipkart’s annual Big Billion Days festive season sale, Ekart, the ecommerce platform’s logistics arm, has added 14 million cubic feet of warehousing space nationwide, increasing its storage capacity by 50%, the company said on Tuesday.
-
-Global Picks We Are Reading
-
-■ OpenAI delays release of latest model over safety concerns (
-
-Wired )
-
-■ The open-source AI platforms vying to become China’s Hugging Face (
-
-Rest of World )
-
-■ Singapore places bigger bet on chips (
-
-FT )
+[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
 
 ============================================================
 
 SOURCE 2: The Hindu - Editorials
-
-### State of anticipation: on Jammu and Kashmir and Statehood
-30 Sep 2026 | https://www.thehindu.com/opinion/editorial/state-of-anticipation/article71524628.ece
-
-In a resolution passed on September 28 , the Jammu and Kashmir Assembly called upon the Government of India for the “immediate and urgent restoration of full Statehood” to the nearly seven-year-old Union Territory (UT). The erstwhile State of J&K was downgraded and carved out into two UTs in 2019 when the Centre decided to end the region’s close to 70 years of special constitutional status. Chief Minister Omar Abdullah moved the resolution with a reminder of the past resolutions adopted by the Assembly over the demand of special status. It mentioned the greater autonomy resolution of June 26, 2000, and the special status resolution of November 6, 2024. Other than the 29 BJP legislators , the members of the 90-member House broadly supported the resolution after an intense and high-pitched debate on Statehood and special status. It was a rare bid by Mr. Abdullah on Statehood since he won the election two years ago. Both the ruling alliance parties, the Congress, CPI(M) and Independents, as well as the Opposition parties, including the Peoples Democratic Party, J&K Peoples Conference, Aam Aadmi Party and Awami Ittehad Party extended their support to the demand. The Centre itself laid down a three-step path for the restoration of Statehood: delimitation, election and Statehood. The Supreme Court of India had sought the restoration of Statehood “as soon as possible”, while Prime Minister Narendra Modi had promised the same “at the appropriate time”, both in Parliament and outside it. Still, the wait has been too long for not only the people of J&K, but for all those who value democracy and federalism.
-
-Ideological positions aside, the downgrading of J&K from a full-fledged functional State to a UT was unprecedented and unhealthy. No doubt, J&K went through three decades of tumultuous times, as militant violence and deaths became the order of the day. However, the 2024 elections were an unprecedented departure from the past. Voters in Kashmir shunned boycott politics and J&K recorded 63.88% voting. It was the most peaceful election with not a bullet fired, a first in the past three decades, The Centre should have reciprocated the people’s faith in the democratic set-up by empowering the legislature they voted for. The first step in that direction is the restoration of Statehood. The scarred and painful past of J&K needs healing. It is high time that the Court’s direction on Statehood be respected and implemented without delay. An empowered legislature rather than the streets, should become the space for conversation with the Centre on J&K. J&K should not be allowed to drift away from the federal and democratic process in India. To predicate restoration of Statehood on the end of militancy is, as Mr. Abdullah indicated, equivalent to giving Pakistan and its strategy of state-sponsored terrorism a say in the matter.
-
-Published - September 30, 2026 12:20 am IST
+[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
 
 ============================================================
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
+- Israel-bound commercial plane from Dubai diverted to Saudi Arabia after distress call
+  30 Sep 2026 | https://www.thehindu.com/news/international/israel-bound-commercial-plane-from-dubai-diverted-to-saudi-arabia-after-distress-call/article71527429.ece
+  The FlyDubai flight incident briefly raised concerns about a possible hijacking and prompted Israel to scramble warplanes; Israeli media, citing security officials, said it was a feud between the plane's two pilots, and everyone on board was safe
+
+- U.S. to hike EB-5 Green Card fees
+  30 Sep 2026 | https://www.thehindu.com/news/international/us-to-hike-eb-5-green-card-fees/article71527035.ece
+  The U.S. Citizenship and Immigration Services will more than double filing fees for the investor visa programme, effective November 30, 2026
+
 - EAM Jaishankar warns of ‘major food crisis’ in coming months
   30 Sep 2026 | https://www.thehindu.com/news/national/eam-jaishankar-warns-ofmajor-food-crisis-in-coming-months/article71526595.ece
   "We are today looking at a situation where some of the major grain exporters will not be able to send out their shipments, particularly out to the Black Sea," S. Jaishankar said
+
+- Christa Pike set to become first woman executed by Tennessee in two centuries
+  30 Sep 2026 | https://www.thehindu.com/news/international/christa-pike-set-for-execution-as-tennessee-prepares-for-first-womans-death-in-two-centuries/article71526970.ece
+  The U.S. Supreme Court rejected an 11th-hour bid for a stay of ‌execution, which is set to take place at the Riverbend Maximum Security Institution in Nashville, the state capital
+
+- Trump releases AI accord with tech executives
+  30 Sep 2026 | https://www.thehindu.com/sci-tech/technology/trump-releases-ai-accord-with-tech-executives/article71525807.ece
+  The document was signed by Mr. Trump and the bosses of Google, Anthropic, Meta, OpenAI, social media platform X and NVIDIA.
+
+- U.S. to impose visa restrictions on Indian travel agents who facilitate illegal immigration
+  30 Sep 2026 | https://www.thehindu.com/news/national/us-to-impose-visa-restrictions-on-indian-travel-agents-who-facilitate-illegal-immigration/article69595077.ece
+  Announcement by the U.S. State Department spokesperson cited efforts to cut off ‘alien smuggling networks’ and explained that the policy is global and applies even to Visa Waiver Program qualifiers.
+
+- Lack of understanding about cross-border terror concerns impacts bilateral ties: Jaishankar on India-U.S. relations
+  30 Sep 2026 | https://www.thehindu.com/news/national/lack-of-understanding-about-cross-border-terror-concerns-impacts-bilateral-ties-jaishankar-on-india-us-relations/article71522626.ece
+  External Affairs Minister S. v says terrorism from Pakistan is a primary Indian concern, and its lack of full appreciation by partners affects ties, amid warming Washington-Islamabad relations
+
+- Iran retaliates after Israeli strikes its nuclear program; 3 killed, several wounded
+  30 Sep 2026 | https://www.thehindu.com/news/international/iran-retaliates-after-israeli-strikes-its-nuclear-program-3-killed-several-wounded/article69693787.ece
+  Iran retaliated by launching drones and later firing waves of ballistic missiles at Israel, where explosions lit the night skies over Jerusalem and Tel Aviv and shook the buildings below
+
+- Japan calls on India to fast-track internal process on UNICORN naval radar agreement
+  30 Sep 2026 | https://www.thehindu.com/news/national/japan-calls-on-india-to-fast-trackinternal-process-on-unicorn-naval-radar-agreement/article71524306.ece
+  The pact for transfer of technology was signed during Prime Minister Sanae Takaichi’s India visit in July
+
+- Days after India-Pakistan sparring at UN, senior Indian official visits Islamabad for SCO planning meet
+  30 Sep 2026 | https://www.thehindu.com/news/national/days-after-india-pakistan-sparring-at-un-senior-indian-official-visits-islamabad-for-sco-planning-meet/article71525343.ece
+  First such official visit by Indian delegation since Operation Indoor; Senior External Affair Ministry official leads team at three-day SCO preparatory meeting
 
 - U.S. forces exit Iraq after two decades, leaving opening for Iran
   30 Sep 2026 | https://www.thehindu.com/news/international/us-forces-exit-iraq-after-two-decades-leaving-opening-for-iran/article71526553.ece
   While the eventual departure of U.S. forces is broadly popular among Iraqis, those who worry about the strength of the Iran-backed groups fear the withdrawal is premature
 
+- Brazil’s Lula slams ‘interference’ in previously colonised countries, without naming Trump
+  30 Sep 2026 | https://www.thehindu.com/news/international/brazils-lula-slams-interference-in-previously-colonised-countries-without-naming-trump/article70773261.ece
+  Brazil’s President Luiz Inácio Lula da Silva has slammed what he calls a renewed colonial push against developing nations at a summit in Colombia
+
+- Trump looms large over Brazil's presidential election
+  30 Sep 2026 | https://www.thehindu.com/news/international/trump-looms-large-over-brazils-presidential-election/article71079348.ece
+  ‘It can be expected that Brazil will also be the target of a U.S. attempt to influence the elections,’ given Mr. Trump’s past ‘partisan interventionism’, according to Oliver Stuenkel, a professor
+
+- India criticises Pakistan’s ‘falsehoods’ and ‘deceit’ at UN; warns terrorism will have consequences
+  30 Sep 2026 | https://www.thehindu.com/news/national/india-criticises-pakistans-falsehoods-and-deceit-at-un-warns-terrorism-will-have-consequences/article71511829.ece
+  India used its Right of Reply after Pakistan Prime Minister Shehbaz Sharif credited U.S. President Donald Trump for a ‘timely intervention’ in the 2025 conflict and raised the Kashmir issue
+
 - India rejects Kashmir references in Turkish President’s UNGA address as ‘unwarranted’
   30 Sep 2026 | https://www.thehindu.com/news/national/india-rejects-kashmir-references-in-turkish-presidents-unga-address-as-unwarranted/article71525225.ece
   “India rejects unwarranted references to India and the Union Territory of Jammu and Kashmir made by the President of Turkiye during his UNGA address,” Randhir Jaiswal said
-
-- U.S. says two Indian nationals indicted in counterfeit Ozempic smuggling scheme
-  30 Sep 2026 | https://www.thehindu.com/news/international/us-says-two-indian-nationals-indicted-in-counterfeit-ozempic-smuggling-scheme/article71526547.ece
-  Between July 2023 and April 2024, Swapnadip Roy and Vicky Ramancha allegedly obtained counterfeit Ozempic in China and sold it to U.S. distributors at discounted prices, Justice Department said
 
 ============================================================
 
@@ -157,10 +83,7 @@ No new Weekly Funding Report since the last check. Most recent report: https://e
 ============================================================
 
 SOURCE 5: The Hindu - Business (headlines + summary)
-
-[Technology] OpenAI unveils GPT-6.1 Sol and ‘Dots’ AI agents at DevDay
-  30 Sep 2026 | https://www.thehindu.com/sci-tech/technology/openai-unveils-gpt-61-sol-and-dots-ai-agents-at-devday/article71525534.ece
-  Sam Altman unveils lower-cost model at DevDay as OpenAI showcases always-on AI agents powered by GPT-6 Astra
+[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
 
 ============================================================
 
@@ -171,40 +94,40 @@ SOURCE 6: Watchlist (headlines + summary)
 - Bitcoin Pioneer Adam Back’s Empire Beset by Hack, Lawsuits
   29 Sep 2026 | https://news.google.com/rss/articles/CBMirAFBVV95cUxPNVM1ZWxueEdGYi1PQk4ydjZWZnBXMWNXLUFZMnlxbzNEcjd0WXk0Qmp2RVFuQnZWZGU1ZlBaaXZXOHpwLWZCMEpDZ2hkRG9oRlZsczlVZWk4LTI1aTU3bmdUQnFKcVkySjZpR3BrdFBnWUx5MWJ2TEVpOEsyeUp2SC1OM0RZV21zcDlqam81em9FLURwNGYtaU52WHcycTFWSFF2Z3A3S0s2Zll1?oc=5
 
-- ‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?
-  30 Sep 2026 | https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRlZsOTNPZHZuNkY0Z0J0LVdjNXd2RVpQdUlHN0FRSHRqYlB4UXlKc1MxWlVrbEJoZFFtQ19pNkx4R1FxRjhUSjU2X0V6cmRveGZ6YlMxaURmajJjQ1NlQ21kNkhGcTRVZzhhZloxR05WclA1YjFZeEpQZU04T0J1M1NFV291LXFEaF9QX2dVVFhBZ2JVQU1tWUVSbnAwTnFWMUxVdHRuSktfYnh1WWJ3amJUcjhGcTlv?oc=5
+- Bitcoin heads for a rare September gain despite rising bond yields
+  29 Sep 2026 | https://news.google.com/rss/articles/CBMixAFBVV95cUxQWldMU2JBd2EtWDVyY19QVnZ3MERXaUR3eExtcDZTcVlIb0NVV3dKOUVXa1BYUmhkSXNpVWtJeDNjUG8tcmdHTjFEVGpWbkdWblpPVXhKVFZCNTJZQS1ieW40WnRIX3luaVRQUGhVQ1NNRUJsaURQeUZ5eFA5MGR5RlRqY05Gc3NQOG41ck5aOWQwbEMxSDJFbWxrY3pXdDAzU2VuT2d4c3AwZVFldHRlazN1Y0FNOElCb0NZV2J1LU1YVlp4?oc=5
 
-- HANetf Launches First Euro-Hedged Bitcoin Fund
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMimgFBVV95cUxNXy0yUEwzSFVrMFFWU2NyVTdEeHQ0R29zOG4wZkNWcndPU3dhcnFBTnN6d1pOUW5oTWs5QVk1aDh6a0FIVkpRS20wSUF5Uk9XUDA0bEFJamlBLWtORUpZdndTdUpxTnl2dXVESGMyNFVtVFhacWVScnN2VUluLTdTbWxPRDRBNmgyX3g0aXBGOEhCNHQ2T3JCQzBR?oc=5
+- Best Crypto to Buy and Hold for 10 Years: Bitcoin, Ethereum, XRP, or Solana?
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMikgFBVV95cUxPUTJlSnAtVVB5RjROMm9USTN6eERGSWhWM1FXdHJyc19YMS16MzdWdG1YQ1NiTGdvMk95c0JkYVNEaVRrYWRyYWllQl9MMV9YYm9qZTBGZEhxZ1JWdWFJRkZPS3k4YTR6UlBnbFBFaDRJV0FSNDBfYzdVSmVuT2lOYWJ3Y1JrNjJjeU9fMS0tSjRVdw?oc=5
 
-- Legendary trader who nailed Bitcoin's 2018 crash makes bold new call
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMijwFBVV95cUxOXzNiUWtpdmJWajc5bXZ3NDFuaHNabVNqaGFSQVpKYkN2dW1jSXJRMUxlN0l4dU9lSVp5RFctMEdpTUZYRlRBZlQ2MEtEakx5TVUyZFdVdXozSF8tUHIyQ0NFeXU1OVJyUTJXd0xsNDR5MktfVmRLdklsVHM0TjlwRENHRVN2UzdyZ0VqTnRQOA?oc=5
+- Bitcoin stalls at $83k, but set for 42% jump in Q3
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMif0FVX3lxTE1wak9VWUlWWlpBQjZ4VmdIbmkwTnF3Z3U0YnlaVm5mdnVoMTF1bVpuS0wtdnFvYmlSakNlY21GWnRyYnZwb3RqcEVNMGNTZk5qSFptcWZZdGI2YlA5ZENRWW93bVV0R21iRlVTdnVkeUN5SEwydVBENmNuc0hFb2c?oc=5
 
 [Gold]
+
+- Current price of gold as of September 29, 2026
+  29 Sep 2026 | https://news.google.com/rss/articles/CBMibkFVX3lxTFBpY0U3VWx5SVBfeVprbWFBUTZ3c2J2YzhUQ1R0V2QzMHp6SVZzUC1PNjMzMHUwR0lwT1hWOEtQUnFwSEl2bTI1WGlwYUxRakhOVXVzUnJ0U20wSTB5VVVGaURfTzVtdDBBa29PcEtB?oc=5
+
+- Gold Price Rallies as 8-Week Trading Low Blamed on China, Rates, Trump
+  29 Sep 2026 | https://news.google.com/rss/articles/CBMikwFBVV95cUxNNlBYVU5kX2FXX0YyOWJyVXJma09zbGNWTTZrRW1fSFk1YkpYRmJEdmZuVnpFeWVDVTNvU3E0MWw3anZlckk3NF9CZnc1WExSeE1QN044d3ROZU9NZ3BydDhRdDl1aDdQRjRLRlRKSlZuZHV1X0YtS0FsTUNXV0tfMnpGUWl3Y0xGZFhOVW5OdlgtdHc?oc=5
+
+- Gold price likely headed lower as short-term liquidity needs trump long-term investment case – Saxo Bank’s Hansen
+  29 Sep 2026 | https://news.google.com/rss/articles/CBMiuwFBVV95cUxONWxtU3RkT24yOXd6ZV9lTkZsdG1tUDM1dDNhQVlTRUFtZHF3QnEtS1JiWE80cExUWnBqdC1nNS00YUdSd0xTZUlzYlJmNFM3ZkVaUFcwel9NRDBUV3huaEp5eWVrMkZ4blRySk54ZVpIbnhPNC00QzFyVkFPWDI1Z1JRU2llRjBEMmdrWlJDV0ROYy1nX0RkbzhzMTdsdU54eUYtcURybGZpeWROWVNtTy01Yjhfa3RycnVV?oc=5
 
 - Wells Fargo lowers gold price target amid rate concerns
   29 Sep 2026 | https://news.google.com/rss/articles/CBMioAFBVV95cUxNNzJ2Y01zVl9aYWw1eTI2VjJPZGtCbmdPSi1Sdllfa0lMWlFqOFZhMjRoVzdSVWc5N0k3X2VLMTJkQTV2REFsU05EbnExVEpJVWtfc1hDRE0walFpekFlVmQtNlg1WHVCQ2pHREVRWmFzTlJ6OWxwR01lZUZlNDhlcmM4RTVBYVc0NnVlMG5nTEFNZ0JfSUt2S0o4cmxXREJa?oc=5
 
-- Natixis sees gold price falling to $4,100 by year-end, but three scenarios remain in play
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdVcwNU9ycUFfZUI0aU5SMkxnQmtsS19WQy1MUnlyLVRFUF9hZTlIeTNROWJGdndvekxoVUtYdFRCV3RKTWxsY29KV3NVTkRBQ0RKbk5BUGVfaU9wVjl0cDFuY1BpTmFfUFplQVNITnRkNE1pQk94d19tMnV2UGlfY21VRnJwOERnU1JVa2dFaEVGNDF6aUphTWltUU9ZZ201MkU4VTVWZFZTckM4SVZScXJDUVR6V2hlSXpv?oc=5
-
-- Gold price prediction today: Gold under pressure, is it time to sell? Check September 29, 2026 outlook
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMirwJBVV95cUxOcUhZVEYtdXdxa0s3QXdSbTl6RWNkeHgyR3h0cUdzZ2N1RmpJWWxZNGxXV0tDYWhWOGpUY215WmU3OXpobUloTFo2U1gtQU1SdmNYSWw0cWduMmp0cksydkRzRlZaRnZuOEhjNVphLTFVcFRhRF84Ym9WOE1KQ2tpSlFuc0Q1elRKRFZtWmhtWGZ5QmZ4dzV0b0NzWUFaTnB5UU1ueUlNYXEwNU9wN3VHSnQyYnktMWE1dk12QWdSWDloSUdGcmw5QzZWWk1DamlNUkVBaFBXeXJZdjVuVDhMS1B6UzQ3cER6dl92MXJwWWxORENnTVBQa0tra3FqR0pJeUMzVWxvdU5Qa3lrYXJrMDlORWNRYVprUjdUXzV0VTFjMjZ5VWtqNGRpWUZhRDTSAbQCQVVfeXFMT2VVZ0ZIeFcxWDJrejhqNUxfblFtaGpYcnRWSXEyM0dLdW93QmlTWDlqTHRScGZPV1hwRnVOaXcwbnRtcUplYnI1bDhnQkFSN1Z3cVRqRkpReUxqZDdjdHlWMl9ldGNkS0JrTGJIZms3SFdtYU4wbGVtbWVPTUUxTUxQMk4zdjNaQjdxSktRS3Z3N0toZDZFS1VJejAzRmlFQWJiSDdtSnRWeTVza21rMWhDQ1E0XzU0UkZjUGpYdW9VMFZlbUc1S01MMnF3amdkVVRYUzVYblF5VjJpb09GdktHbzh5MUxUX2JRNUhqcGZIU3U1ank3V2FkX0ZoQnh3cDIzU19LZ1RiMV9vTW1ZbGdtd3RJMjJ0ZE1qX2V0Vm4zZG51bGRGcWVtaEZlblZjOVdfRko?oc=5
-
-- Gold Price Forecast: Support Breakdown Deepens Bearish Pressure
-  30 Sep 2026 | https://news.google.com/rss/articles/CBMiswFBVV95cUxQbEQxQlg4Y25oZ3JiNFdkWFIzdmh1UEtmUFBRUkhSenhFWWFjRXUydzlfMnVpYWRORWRYdE5NUm4tMmFPa19hSlNDS3FYY2FERVNPQW93WWpSR29xTUlZY0JYM1pCNEFjdllfZUtRNGdkckR5T2RHWTNQcWRDTUotZkVuRmFQSVhXdkZxV1dzZ0lXRHBvczBDZjlONThtRGZYclpJM2RlcHFGOVZTMUxUd09Scw?oc=5
-
 [HAL]
 
-- AMCA First Flight Set for September 2028
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMipgFBVV95cUxOMjliOGFxT2I4VjNYQnc5OEJ1eDkzdzdPSlM4NVZPYkhXanU5R2d2Z0ozZlVqM0s4OEVSbHNQU0t4YjZ5WDdidmhhWUd5LVdhVUp1eU5Kem55aFl2T3BWTHpCRVZ0bG9jTnh2X09pelJPWnJia2lHRWx4VlpIZ0xDdmJNc0tkekFUaDJBNU95U0ZLZk9yaWRIX1lsN2RHZkhHLTRKV2Rn?oc=5
+- HAL On The Rise: Jefferies Sees 43% Upside As Tejas Mk1A Deliveries Near
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi0gFBVV95cUxQMTBLTm41bzNaRnBPY2lPTHRtT20yTHM2WDQzMWZTdkpxWEVTTHRGZ1k5NVN0VXh3dWtOWWR5U1Vuc0xtSUtIT1M2RTBUT0FWRmVCYUJxckx4ZUlNX3MtaHI1ZkVhZUNQVG5RX0tIbUx2RXdkd2lvM0ZzTlFRZXhPRlpCdnk5MVZ3bWE5ZGJta2ItUndyekNYRVFDVFZDUV92c3RuQUpzRGl2RUJsdGhwdE5KQmZxX2lSSmR2YUVjTThLN2FhUEpFX1Bjc1g2SVk2RmfSAdoBQVVfeXFMTjlFdXBPZ0d2REdCY0xTdkRGME1vTWlObnBRZmgyMFlqRW5UVnRZQUFQVXItVWhyNWJDdzlRcnBzN0oxaG5JSDVBMWRBSGZ0amZDd1dIV0ZaR29GZWVwR2JmN0gySDRYTGhHWmdPMDVaQmJCS0NtY0thVEpUek5NY1JHSWNFUTlhY3JTOGpVS0llT3ZhUXI5Z3FqZmdBWHlXQWI5QVlzS2dYNDhSTTZreVlqaG5XY0ZuUjlnWnNRV2xOcldkWWdmeFNMMkIyWE5VQ2xvVTF0TkYwOHc?oc=5
+
+- HAL share price: 43% upside! Tejas Mk1A delivery, ‘even one aircraft’, key re-rating trigger, says Jefferies
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi_AFBVV95cUxQLVhHbVk5NnFYYXVIcFlwUEc4eFZiajdjd2JMdG9KUFhpSGJyeEcybUR0aFZZNmxBSHJFaUpHUGFiRVpOYi1RNklMVWRORldIdnpIR2V6LVhaN3ZsZTJBUThjOVZsSUdiOTE2U25YQ3BIU2ZaSmFaemZYYXVKSWdoYW1lQXJ1bktiOFh5VGxoQ0VzdWZZd0p6VEVGWmFsSXpxWG9xNGh2Q3BBTVhpVEZTLS1DbDdOQmRUS3FoZW5wQU5lRkp4R29tbjgzSmxuVmlLZGxxYWppVmhBcFkzS2JCX0JHbXgtNlZMVnJEOC1iYThXcVRhWmNWQjJ2eVnSAYICQVVfeXFMTVBNeUREQjJMU242YkRtVkZuSHZEVFNTNE1jMHNQTDdGeld1VENVU0tMY3RFSGhYZmI2NFc5VXFoZEtCTUotQ3NGZ2Uxei1rZkZ5T3VieVpwWTgzMGRNTkpsa2hmRVhzR0JrLTVFVDVkOTJkZUlLY3RlTmlVdXpzTDdjbXQ1dGdoNjN0cXYtTG5lcVk5QWpJbFJFSmdRd0NCeGp5RlF6a3I5bFRQOGN1eG9JUXlKSmVYa0toLVpLd1NNYXBQbjlaX0lfMnRfdUZGMDVydGoydEVNal9DZzFZR0l5WWZ0NW5ISVpzOGFEdDhRZ3EtTHAtSmxzVC1yZ2tvamZR?oc=5
 
 [Tejas Networks]
 
 [Godigit Insurance]
-
-- YES Bank, REC, Go Digit Insurance: Top stocks to trade — Key levels, target prices & stop loss
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZXpCZmxhd3FrQTFkRmJ4VGpvcVNRQi1RRExtUnVfTEZjajdfeE9OR0tjVnNxRlF0WGtMSEhJbXlXVG5zZzBZM3BNN0VxazZtMVR4RmViQW5uMEdNNjdtbDMxVmpvNFBkSHFTQVBGUVFnSVMzRmRrZTBTUE5GSV9vZzhObEh2VENCaUxNbFZ1YjBZWkVmLUVFV3FhRVVjZXpJQkY0aFhiNVZGVXVmQWkxNUtkV3pXek1GUTd2WXJWb3JVOWtxUzhtUnNMY2RwVUFmaUNacVZRdnVqdWttRFhDQ0FvMUZnc0pTTlJDNjJxVG8xcWsxeVHSAfsBQVVfeXFMT2ZPQ204ZnRwS3F5NmpZTlA4Uk9aSW5jdHhIa0NtTzZsd0ttbU40TmJ6YXVuMHFlZ09IaURsWlcwbUlDMmgxSEVuR2sydko4NWt5MnBYWHd0SDc2Q0NCSzFvYjlrbmJrYlp6b0JqeFFxcW13T3RmSmk3SE5ya1ZCMFgwOHZNTy02S1d3LUl1bjYyNERoNkx1NFBzOEtUcHpGM1JPX3prR0VBLWRVNEZzSzF5Q3JyaXpxZ2E0Mk54emNJbVM3azdzQWlFa1BMd1J5OHE3ajk4ejNBb1JlVG1yWUktaVpINy1xYzZMMS1FbVhwaFBnd3VmLTA0RUk?oc=5
 
 [Infoedge/Naukri]
 
@@ -212,13 +135,13 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Jio Platforms]
 
-- NSE IPO’s retail response offers a litmus test for Jio Platforms: Can it break the mega-IPO jinx?
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMi2gFBVV95cUxQYktXcWgybGZDVTdyckJXLUtkOEc0OW9uMXZHVXNja2l1QUREdlZoUmRjUG5FRDE1NDc3YXJjdEJoblFXbDZhX3kydHZwUFZNWGp3UTJVa0xmMjhraFNmbWJfaGEzMklxQzdpY19lT1RENXpfZG1DeHVia2g1VU9fa0FhVmZYQnhhQVBXRUEwbl9nV1QwOTYwdVF5MVFpQjBoY3VLcTE3b01vZFZySlA0U19iRC1HVGVwRUNWN2ZqaFNRZk02UVJERjZFVEtDM2Z5ZGVEUmxVcjJUZ9IB5wFBVV95cUxOQktFN09pcXZuV1VRZV84ZWd5S05kdU9Gd1hQT0NnUGlOU1VBR3hvMGJRc0ZPSlBkMHJrOXB3cER1TWRRTHpLc1BvNlVoTkVkcTI4LWdaRnUwTWtueEJRWHl6RWRzbmN6WmlLMkJCbGt4RHJHMnBwMjM3MmtXbVV1alpBeHlrTllHN0tzN2hMVDdBMmt1YzBXNV8tdGFtRlRVWnFyWnRrV21sQ21fVWI4c053eVd0SHNrTHNVeFhlNkVKcU1KUHphbVhuVUVUeDlMTEp3UDZuR2gzVWtUMjB2ckRJeDN5Yms?oc=5
-
 - PRE-DIWALI DHAMAKA: AMBANI’S ₹13-LAKH-CR JIO, TRUMP DEAL HEADING FOR DALAL STREET
   30 Sep 2026 | https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkJfQi1teU5BSVVGMTZPaGlETjdsQmVoSkVSbzhYUGJuVnZSSnhwY29vTzdLQk5rVnUwejQ0dFlvMnFlczYwdHhWckFIcjhhYnNfNk5UTnNJbThSN1N5NzUwWXFmS3JJZU5feFE4SGtkX3hRTVlYeHdaelJGY2lvSTF1RjE0WDAzM3B1cG9GN21hVlJBSXNyTlhib0oxSXNYWkg4TkdKYk5oazFzMW5scVdmSGYxNHF5S2JtX21ZNA?oc=5
 
 [Flipkart]
+
+- Walmart (WMT) Tests AI Shopping In India Through Its Flipkart Business
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMimAFBVV95cUxQX0xjUFhHbzNLQ0lzMW9rbGJ6c0FvQ3VHcE51TUsxV0J1M0JUTDNTZ29NeE9ETVBYcWlpQmJKdGMzRnJHYjVSNDdRMkJYUU9iWXRET2p0LXFsZnVoQ2hsTzhUTmdMVlVyUVdjeVVhcVNETUt2aVBnZWo1WXRWSHhHNVN6WHFOdVVoWFd3dk9ySnpXSzgxWHRqWA?oc=5
 
 - Flipkart Partners with Casio to Strengthen After-Sales Support Across India
   29 Sep 2026 | https://news.google.com/rss/articles/CBMinwFBVV95cUxPcHZJd1pWOUQtdVBEVDZuNDk3YVJ3Q1A3NVVncEFZTlB4bjI5V1I2MU4yeWtQMjk0OTliNWtadnFyTEN5UWswbUZ1UVcwbEx3NVlZN1BtRV83RHFlUm5PVzY0S3FWQVhmOE9BRVJvTkE0TFBHNEJPN3NMMXowWC13UDVVSGxKRlp2LW15Q1VCc3QyYkpkc1Qya21sOEQwNUk?oc=5
@@ -226,39 +149,36 @@ SOURCE 6: Watchlist (headlines + summary)
 - Google Tests Flipkart Checkout in Gemini and Replaces Gems With Skills as It Reshapes Its AI Agent Strategy
   29 Sep 2026 | https://news.google.com/rss/articles/CBMi3gFBVV95cUxPNkFIaEdHNDhIb1ZYUDBhZnRsVUxFTVNzSDMzUWtzT0VkM1NpUHNodDdfRUFORGg2LTNUek11dFVJTHZyY0dmNXF1VWhRdVQ0Tkk4N0s5b2NGY0Iwc0xjdV9uSHROSTFQdDRZdElxTUJ5c3diMktSa0N4bnJMcDVKRDFaZC1STGdpUGZUeUlheGQ4MTF4eWRod2tSQ210LVBvYUhpdUMzNnY2aVZ5TWUwSlJBLVh1TU5qNUNaOXFSeWhpbExUb2Jka2VqNlBXQjBUSXYyVl9nWVFDbkZFTnc?oc=5
 
-- Piyush Mishra’s Regret Drives Flipkart’s Mockumentary iPhone Campaign
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMioAFBVV95cUxPVjIwUTJvOHp4OE9NcEhMeDVBeHBIQ2otbUpsOTBnem9sYkhoQ2JlMXZKMmt4T2dxWEhKbEM5VWE2SElpRVVNYnk4b3BuVEpDQjNjN2loTGwtWDJVYl80NS05dGVOQ1VrY2hTWlUtNF9HUGJHLU5YODB4N2dIUGR4RmswMW1LOHZ0MzhpVTFWX1dzXzRqTkRMbmVMMzBmQ1JW?oc=5
-
-- Bengaluru-firm Flipkart expands its warehousing space by adding 14 million cubic feet
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMi6gFBVV95cUxQWUlyYWZYN2wtU0lia2ktODh5QjVQV1dwZDgxZXRxbktJc1YwVThSbVVzSEpZQ1o4NXU1OUF3ZWJXWUlLS2I2QmM2QmQ5RjVRUVNKblU3Yk9JRkdfczVVSjM2eTFlRU12MFhiY3hodXd3UWlJTVJWYjVPMWNrWHU3bC1hVDZTVncwRzdhcm5ZX3N3WklwUWhNeU84TG1vNVQ2ZDRReDNNaHpvaTVXbmJTOFNGeDR3WFJwVE9maXc0UUpDeWpRWEFSNDY1U3dMR0s2VUl0NVplSlNFNk1mTDRwdGpuYWVOUmlFbnfSAfABQVVfeXFMTkNTLThUV3cxSTN6SGFsVUhIRGVRdEdwY3RqZWU5bExKRU9DM240V05xODN4QUdQblktZGhPUl84Y2syWjRXVnZqUU1mQW5oTEJ5OGRQc1J5Wkh0RUFMY0IxRUk0ak9CNnNNcW1ONF9LM2RYZUtxNGVwaHBSSVgta19YMzJPVXh3dzNobm9sR1YyRHFXeTRHZWgwcHNGbkYyWnZhMllrN3d0QVppajFjeTVFN0FyRFJMNVg3OXJ1MjlEQ3pkNVNoeDJmeGtsUUJ6RjFaNl9sSnU1MXRDOWFrZ1EwOTYyV08wMVZzU2hDVl9a?oc=5
+- Flipkart turns regret into mockumentary-led BBD campaign for iPhone via McCann India
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMisgFBVV95cUxPUU1tRFV3Q3A1RGlFcDYzd21yS0hWUFVDeFFVaE14dlV0b0RHY0NxMmpjUFdjRU1aZGczblRlTXY3ektGRkE0NUpBOG51ZzQ3dU5LQi1uRzIyVTg3anlyUTFBRUNMQ1BoR285dzR2NlRYamxsSEJPd0l1OEdLcDNwTkpGLUVPYmV1Qi1BWENFZjV1UDVNWkMwQWNLM3RsMTFTZlcyOWZxRTA2b2gxRE9aSXpB?oc=5
 
 [Flipkart Minutes]
+
+- Flipkart adds 14 mn cubic feet of storage ahead of festive sale
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi4wFBVV95cUxObTM3THp1dDhnR1VaLTB2NHY2LWQ3TU9DeEhzdEtTVnpqaFZCNk1nYmNOM2RWM0xlellObXB6S0l4QVRJN2VIZldGVHQ4NzV2ei1XWGxfYkI4U2JSdDYyTkRybnFOS2V4X2xTb2x0SnRzSngtYWJOQkxjMEw1MjVzYkhKNVhwM29SVzIxbkxsWjVhZ0JYRnJxWXIzd05UMm9Ic1pJMmFreENFWGxodV9keDZVSFE4N3J6Y3lNejlkUGJzczlkVFVfQmJNd2c3TWlYamtiblB2ZklsMUxVdHhuRjc4MNIB6AFBVV95cUxOVUcyTlJlQy1SWXh0Z0lrYXRTTE81QWEweFV2azZSQnJlbGpObmlIUENlZlhBaVhFQWVkOFByWnQ5YkZCY01pM1loa2tkc043Xy03cHZid0I2cjJ1STlaYU9MUy1qaGhuOHJ2aEszalZKTnFRTlljLVBRWDd0eU8tRDNHQzR3WWstYkVyd0dpcnF4dHhXQmstWXZnVEVQMHJxRFQzdTNMMUVjdXFDQk5RanJ4OUY5T1R2elE4TmtCZ0JHZkF2TV9tNjFwM29hUGhUT0VfYkpvVXZTQXJXVFJYcjFxM3N2Q3d1?oc=5
 
 - Bengaluru-firm Flipkart expands its warehousing space by adding 14 million cubic feet
   29 Sep 2026 | https://news.google.com/rss/articles/CBMi8AFBVV95cUxOQ1MtOFRXdzFJM3pIYWxVSEhEZVF0R3BjdGplZTlsTEpFT0MzbjRXTnE4M3hBR1BuWS1kaE9SXzhjazJaNFdWdmpRTWZBbmhMQnk4ZFBzUnlaSHRFQUxjQjFFSTRqT0I2c01xbU40X0szZFhlS3E0ZXBocFJJWC1rX1gzMk9VeHd3M2hub2xHVjJEcVd5NEdlaDBwc0ZuRjJadmEyWWs3d3RBWmlqMWN5NUU3QXJEUkw1WDc5cnUyOURDemQ1U2h4MmZ4a2xRQnpGMVo2X2xKdTUxdEM5YWtnUTA5NjJXTzAxVnNTaENWX1rSAfABQVVfeXFMTkNTLThUV3cxSTN6SGFsVUhIRGVRdEdwY3RqZWU5bExKRU9DM240V05xODN4QUdQblktZGhPUl84Y2syWjRXVnZqUU1mQW5oTEJ5OGRQc1J5Wkh0RUFMY0IxRUk0ak9CNnNNcW1ONF9LM2RYZUtxNGVwaHBSSVgta19YMzJPVXh3dzNobm9sR1YyRHFXeTRHZWgwcHNGbkYyWnZhMllrN3d0QVppajFjeTVFN0FyRFJMNVg3OXJ1MjlEQ3pkNVNoeDJmeGtsUUJ6RjFaNl9sSnU1MXRDOWFrZ1EwOTYyV08wMVZzU2hDVl9a?oc=5
 
-- Flipkart adds 14 mn cubic feet of storage ahead of festive sale
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMi4wFBVV95cUxObTM3THp1dDhnR1VaLTB2NHY2LWQ3TU9DeEhzdEtTVnpqaFZCNk1nYmNOM2RWM0xlellObXB6S0l4QVRJN2VIZldGVHQ4NzV2ei1XWGxfYkI4U2JSdDYyTkRybnFOS2V4X2xTb2x0SnRzSngtYWJOQkxjMEw1MjVzYkhKNVhwM29SVzIxbkxsWjVhZ0JYRnJxWXIzd05UMm9Ic1pJMmFreENFWGxodV9keDZVSFE4N3J6Y3lNejlkUGJzczlkVFVfQmJNd2c3TWlYamtiblB2ZklsMUxVdHhuRjc4MNIB6AFBVV95cUxOVUcyTlJlQy1SWXh0Z0lrYXRTTE81QWEweFV2azZSQnJlbGpObmlIUENlZlhBaVhFQWVkOFByWnQ5YkZCY01pM1loa2tkc043Xy03cHZid0I2cjJ1STlaYU9MUy1qaGhuOHJ2aEszalZKTnFRTlljLVBRWDd0eU8tRDNHQzR3WWstYkVyd0dpcnF4dHhXQmstWXZnVEVQMHJxRFQzdTNMMUVjdXFDQk5RanJ4OUY5T1R2elE4TmtCZ0JHZkF2TV9tNjFwM29hUGhUT0VfYkpvVXZTQXJXVFJYcjFxM3N2Q3d1?oc=5
-
 - Flipkart adds 14 million cu ft warehouse space, 750 pincodes ahead of festive season
   29 Sep 2026 | https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTnloS0xySmhZeGRfbjRnTkIya2R6ZTJWNWtZNE1ic3JFR1JwOHI1YWtqS1dnLS1OaEVLZmh4dGRUd1hUaHBfZUlMWFYwTVJSS3hVQTJqb292WmFPR3RqeklpS2p3VVFNR3lqdkVJU01pT3VYM3FFNzZxS2JfeFUxRmlHVml0Q3VoWWhFMTRlWW9tbE9XenZuSjZSYldEX0VMUFdmSUFlMmxOOFBaS0RWamR6MWJET0VmblFEVXlaekZVenFSNnhfVGNNNGU0TXY1R1VXdTlsMVVHTm9NMHdOV0lhUThIMUI4OGxN0gHrAUFVX3lxTE1OeWhLTHJKaFl4ZF9uNGdOQjJrZHplMlY1a1k0TWJzckVHUnA4cjVha2pLV2ctLU5oRUtmaHh0ZFR3WFRocF9lSUxYVjBNUlJLeFVBMmpvb3ZaYU9HdGp6SWlLandVUU1HeWp2RUlTTWlPdVgzcUU3NnFLYl94VTFGaUdWaXRDdWhZaEUxNGVZb21sT1d6dm5KNlJiV0RfRUxQV2ZJQWUybE44UFpLRFZqZHoxYkRPRWZuUURVeVp6RlV6cVI2eF9UY000ZTRNdjVHVVd1OWwxVUdOb00wd05XSWFROEgxQjg4bE0?oc=5
 
-- Flipkart gears up for festive season with massive supply-chain expansion
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbWROX2VFUGhjTTNScWdkelpUcHBRVnh5VF9BSjNTY2lralVzSlFEZE9EOWNTa0VrU2xDTXpDLVRzMnlGeGY0UmN2LWVvY1FMd0FDay1GZDZEQ1RUOVBZQlY5dzRTeVJ3d2ZIZXBQWW00OVNlYkllZ29CLWQ1ZEY0UVBHay1DaTh6dDFDQTVCR0xtTkdWbmR3aVcwTWdBUWtHaXI1WFNYZEh2VUNFU1l4MHJKZncwMUZDU0xWWW92TXRCemY1NzQ0eFZFUFBLN0F2ZkgyUWRB0gHWAUFVX3lxTE1tZE5fZUVQaGNNM1JxZ2R6WlRwcFFWeHlUX0FKM1NjaWtqVXNKUURkT0Q5Y1NrRWtTbENNekMtVHMyeUZ4ZjRSY3YtZW9jUUx3QUNrLUZkNkRDVFQ5UFlCVjl3NFN5Und3ZkhlcFBZbTQ5U2ViSWVnb0ItZDVkRjRRUEdrLUNpOHp0MUNBNUJHTG1OR1ZuZHdpVzBNZ0FRa0dpcjVYU1hkSHZVQ0VTWXgwckpmdzAxRkNTTFZZb3ZNdEJ6ZjU3NDR4VkVQUEs3QXZmSDJRZEE?oc=5
+- Flipkart expands logistics network with 14 million sq ft warehousing space ahead of festive season
+  29 Sep 2026 | https://news.google.com/rss/articles/CBMi-gFBVV95cUxQcTluOTlhUWZWTWJxdHgxcXYtVVpTVHpuaEI4UmZVc3Q2X21CZmFOX05rdkhkcnMxcF82WmJQY2RRUVVIR3pPb3liMi1sV1BZUUFEZHA0cXlpM3FQMU9KX2ZWSHRsR1N6TUpjTVZDVy1DYzRCazNCeDlmcXVuMUd1UjUzeHJ2c1lMeDk2cXFzLVM3TGpRUU94bl9iY2h0VDAtay1ycEhSNEphalZTSkx4X3pOMkNPUlg4SGRPdWp4bDk3T19UcW8yT1FsVEFJMXFRZTRPQWcxZW9pSnFMUW1KZ2JrZUQ4LXFPNjAxNG9fSW9MOGZIRnpWaGhB0gH_AUFVX3lxTE5fU3NCbmNUTXNzR0JHdnE4OTVyWVlSaGlaOV9lTmJObC12YWRFVi1JQkRLSWFJWEN3bkV3ZkM1QWJCTzhjVmhwYUtRQ3MxSlBaM0U4Tjc0VHFua1FSTGVGOXFYRTZYbWJzUGRLWGpXb0VNYUN6RGpZU1k5a3VjRDR1N18ySVl3emRoM093UXZBd2w2eFEzOGlxSW9nU1JtSDF6TTVUanFQa0dlUVdKRjU5ZEViYlpidG02YzJDaEoxa3pPUlhXSVZZT2JIR1JOVjdDaW1qalhkX1RWNWQyT0VVU0wxM1R0TlZZWTJhTld6Z2VjNXl3OGxoaWhrQy1ETQ?oc=5
 
 [OpenAI/Anthropic/Kimi/Deepseek/OpenRouter]
 
 - Introducing GPT-6 Sol and Luna
   30 Sep 2026 | https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SldKWWgzNDExSThTZW9MRTQ5WHE3VFRZMl9oSjIzaVhuZEZaY1ZSUTFxZTJFaFpUanlncTQySUg5SlRGVnNkQXZ0S3IxLWJScXNkLXY2Z3Jzbk5WR0UwSFp0NmUxN3c?oc=5
 
-- EXCLUSIVE: Anthropic IPO prospectus lays bare deep dependence on Big Tech partners
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ1Q4X3lqOUdZYllBZFVuZFBIWGt6dmdua2JoVnZ0aVVnWnd0M2lscWd0UFB6c3QxRmNJdXJ2T3ppbXR5TW8wZ2lzQU5obDR2U2t0WldJUWx4MEo2V29HVldhSEtVUWVPdkdIQ1dVSUtkcG5hTE5UWDVKek9hTjhkNGU4eGNKcmRPY1JjWmRaTXJVblBoWldzNU1PalhocDRfRHdPRnhxVEV5ckRsenJZ?oc=5
-
-- Is Claude Conscious? Inside Anthropic’s Quest to Instill Morality Into Its A.I. Models
-  30 Sep 2026 | https://news.google.com/rss/articles/CBMieEFVX3lxTE5Oem5hSlF0RzhoVzdJVjhkREdkWlo0eWU4VDR3aVRsMXVzT3JuRlV1VGc4UVV2dkpKc28wdFAxY2VkczNXdmFzUWRPUzQ4bFBJVHZFWU8wYnV5RHdBdGpMcHR0aWdwcXBXZVotUHB4R1o2QXNGQV9vMA?oc=5
+- EXCLUSIVE: Anthropic says rogue AI agents pose uncertain legal risk for the company
+  29 Sep 2026 | https://news.google.com/rss/articles/CBMiuAFBVV95cUxNam1mZHNtdF9aRFc4Wm5FOXRnb1lXYm1vUGtYcHNsQS1GbnZyUV8xNHZhbDFuMjZFN3I5Mm9MeEc1NVh0Y1hoWFM4R2RmVVJybGpIZjczcmxVYlFkOUk3VFN4NzdvUnNkZ0hQUWt4cGpjTTlOSmVuLWdqNms0bktvU3BvZ1NjQlVjRGd0U1BxN0ZDT296bmthZ0tsSDlfTkZfV3hQYWlzZ2U0TGRseFVJeUsyS05XRmZP?oc=5
 
 - OpenAI hit with landmark lawsuit following Hugging Face hack
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMickFVX3lxTE51dmdLSEl6NmNpYzhnSW1SeVBBMTZRcmFtVkpKUUltTV9TbllGS0N3cU1hSkRETmdJd0JqenIxeG5XaElGUmhlLV9aLWhjX2t5aW5vZng2OWRzUk5XMWRkcUVnanlwR2p0U2JtREYtZVppZw?oc=5
+
+- Biggest news from OpenAI Dev Day: Dots, GPT-6.1 Sol, new plans
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMidEFVX3lxTE1zc2VoVDl6U1VtczV2R2Q3RTU2N2hJcHlfNVAtOF9lR2wtSjF6U2FiZnliTUlKRU1qXzh2cXlobVBGX2NlaTd2bXprU0pYYlIyTThOWFhPSXhOWG40S1NDT0NPanU1cHZoM3RyT00xM1NLZEow?oc=5
 
 ============================================================
 
@@ -266,84 +186,108 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [[Top Gainers]]
 
-[Kirloskar Oil Engines Ltd (KIRLOSENG, +12.18%)]
+[Sun Tv Network Ltd (SUNTV, +17.49%)]
+
+- Sun TV Share Price On A September Sprint: Up Over 30% In A Month, What's Fueling The Rally?
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMiygFBVV95cUxNN3hFcklJUUJHMHZuZ2p5SmsxU0kyZjRyN2h3cnpQVm9yZEd2MTNpa2JiNVVsR1ZuX29BaVZmUjF6WGRpUFFFSkJEY3cyRlNJc0pCZHE0MDZDVm9aX012SVZ2d1U4TGhqVDVHdkNITnFiaGZOdkJEa19hUDJaVDkzTDRkN0hUU2JPUkhxNUN3b25iemtmemNwdWxDajZ2UUs3X0d5ZlJ3MEdmNUtsZmJnLXNXNTFmSnU1NnhGRWlfUG9XSV8zOGJLWHVn0gHSAUFVX3lxTE1KblZvWnpwMmlBVU9ia2xfaGZ5dXJlRkIzZVR6enVoazZFR0ZxTkVUOVRGUjlPVmI0Nkk3U1Q4Uy0yS1V0RUdsSFBGU3Z1Tm90UTRYRFg3SkVpUmpzZlB1QTduUFBEdXl5Tm9VWHRiZ2dXNUFyeDhoeVRxbXhMem02cWhra2ZLX2dvOU1sM0tobm5FcVdqYlA0U0JaNFJJeW1acnI4UDdDSTFZV3JyTWJkamhwaFUySTA2SmEwT3ZoWmdWRUlrUnd1SDZPRHl4d0gxZw?oc=5
+
+- Sun TV share price jumps as high as 18% following this CNBC Awaaz exclusive
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeXlGS0ppcThQSEwyRk85YjA0aFl4Q0xZaWlrVEpkLXlXVXJLRVhMSnVIQWRVZFQwTTVuLUtaOWNiVHpGMFBpOXFtSnoyNEJJVjFwTEJoazdpQXhBRkF4Zk9IMEp2S29vSnB3MWNfemJzNlJiSTgyS3AtMjZUeWlwT0pvaU5UYW15RTZxdFlSU1Jvd1FNWDc1M3lVZnBWZXRaa3c2Qy1aemFOWlBsU1gtenpaQ2pIcEQ1LTJOckZ4ZjZ2ZnNEb2dsMjQwVUV4eDlNMUVnVWZoWdIB3AFBVV95cUxQZjJrRjJZeU9SUGJreWxweGVwWFRpblJEY1BHNkZJcXl0TVlkdG54anc3S3ExUTdXOU9nbS1paXBqNGtLQ2VmRGZ3NTA0X3RHQTE0MlV0ZUxTa20zVGE1YmxCcUpXZGZwNVN0UVVfbG9aOUNOb1ByRDhuVjhWYmJlazlmZjBVUUQ4R0V1bEJtSXR3VndTTlNMbURZZWczcE05c2hzUWZzYlF5TlJLYnpic00xR1VFX0dMbl9MR2ZVRWFnZ3gyYnpZT3FtNlRaY2prbl9GQ3RkWlB5ck5Z?oc=5
+
+- Sun TV zooms 20%, sees sharpest intraday rally in 9 years; up 45% in 7 days
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi1AFBVV95cUxQQmZubm5MX21hdm84MjRFNE52LWpNNmxuRW9TN1pDQW5sTVB3bFA0Z2Y3UEVzYXRmZUh2dWMzbUc3cmU5SVpLTGNLNEFPMFlLZDl3MWZ3eW5XeHY5MUkwQ2x2eXAtZ2g3SUxtak5rOHlNREg5Wno0bGRDUVIwYlNTZVlJTWpxU1dBeDlZV1IxY3ZEZ3ZhXzRLZHNFX1gtRWdDdmtCVkhNR2NGN09hTTIxaFpUWnh3N25LSVpiOHZDeXY4V0dJb25JUXR5Wi1JbHJMOWFqUNIB2gFBVV95cUxQb1RETV9kZDhFNTgxSF80eHhkUXRVSmd2WDRXLTJyRU5VbkFENFQ2a2p1YWg2S2xnbTEyYUlsdmJUNmVuN1pDNGppaWpNUHdHcHdBLWNhcmFLZkFfSllNaW1YWjNkWmdCWlZhdGlZVm9JZDdPRnpxb2hReG1FUTBKZnNkei1FeENLWW5sNXlzT01xZW5XZVdxclNKTk9mdEhyTU9PTUFJMTVZUkhGbGtXQWYzQmQyUzJLWUExZkUxc1JzaThOZVlYNUFsa3VXMmRMZXhJZng3WFNjQQ?oc=5
+
+[Ircon International Ltd (IRCON, +13.76%)]
+
+- Railway Stocks Jump Up To 18%; Ircon International, RITES, IRFC, Others Rally — Here's Why
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNHQ4ZTFrYk5DNWhsQVZQQy1LNXJSYXdtSktpSlk5YjFteUFZa3U2NjR3cURHcEJjN3RkanQtdVVPRTktalBPZ0ZKWGkzaDJWaHpOaUowUTBWYlhjbDY3dHlld0ZIOVliSW00Z3ZoSWNZb2wtMHpPZTAyb0d2RjBuVXhQR3V0YXl1dU1HV2tSNEkxT0NEajU5b0M1a3h0Q044VjNoY0g2eExsb3hwM2Y3c1haSFJOWTcxaEhvS0NucnJQVkd2aHhndDUwblNvYTRJRXR4ZFlB0gHeAUFVX3lxTE9WTXZLYnFDUnFGU2VSeHBMd3U2R3pGYnpCcXA2clZISThrSVQzenAyeWlVWS1lQTdyZWZtekk2bHhaaTdIT2Z1Yld2b0ZsanRSaVRHMEhsRmVBOEY4V2hpVU5fVndtWjNPaVQ0MzAzN1RGblQxSUdtcU5LcFVSODRlNGdlc19WSEZyejNsVTM2VFM2d1FQWDRtem1GbmlvamFIa3pKeGIzQzFEZnBUSThDUENEV3V4VW1ZcENUOFRFc0tmV3ZuWHFnQ3FMNkZsVjJRLUxUMU1RYzFmSDZ2UQ?oc=5
+
+- Ircon Strategic Diversification Underway Across High-Speed Rail, Kavach, And 500 MW Solar
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMiswFBVV95cUxOYzRJMDd1dFh4M3dLdE41U2RxUmJ4b1hhWGM2X0d2cnZXN1hKT2xkS1F1MTM5eHVtZXR5VVdaX0FqNTlSYVoxYzZqYVpaLWtGRjBnMFptbVBEVy0tQl9qWWJxRUdsVGhKVmt6TGpUT091bTcyYm1XejA1LVVlMnd0ZmpDUFp2YUxMQmVrSUtSSzhDMXNUM2NiaFU4U1Rzei01d3VsQ08xNDNvSmFHVXNTQllBRQ?oc=5
+
+- Ircon International IRCON physical share dematerialisation notice 2026
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi7wFBVV95cUxNVGpUWjEzYWtwd2ZwQWktbU9VWUxfejhaeFFSZ3o5em5OcHdhZzFVWkVkeFpXWkdYejVjeWRyR1VEUDJtQWp1UldMTlVCVGZLaE9TRTYxYUhTcDZNZHdWcUgyRVBpZEVXZ0RnMDZwaG9nVXNxMV85dUtUb1BSQU4zTHVkUWw5U1NEbnQwd2ZOX19TOFRLYndJU1dWMXdVbmQ0S0I4T2V1eTJ5dTUtZVpZZWJKX0pxR3hMZExtTmNGblNERGRBeXA0a3ViUFJQakx6bUN4TUdUTDhscTdQM2hSRFhNUFZ4MTNKNXVyQ0x2OA?oc=5
+
+[Rites Ltd (RITES, +10.72%)]
+
+- Railway Stocks Jump Up To 18%; Ircon International, RITES, IRFC, Others Rally — Here's Why
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNHQ4ZTFrYk5DNWhsQVZQQy1LNXJSYXdtSktpSlk5YjFteUFZa3U2NjR3cURHcEJjN3RkanQtdVVPRTktalBPZ0ZKWGkzaDJWaHpOaUowUTBWYlhjbDY3dHlld0ZIOVliSW00Z3ZoSWNZb2wtMHpPZTAyb0d2RjBuVXhQR3V0YXl1dU1HV2tSNEkxT0NEajU5b0M1a3h0Q044VjNoY0g2eExsb3hwM2Y3c1haSFJOWTcxaEhvS0NucnJQVkd2aHhndDUwblNvYTRJRXR4ZFlB0gHeAUFVX3lxTE9WTXZLYnFDUnFGU2VSeHBMd3U2R3pGYnpCcXA2clZISThrSVQzenAyeWlVWS1lQTdyZWZtekk2bHhaaTdIT2Z1Yld2b0ZsanRSaVRHMEhsRmVBOEY4V2hpVU5fVndtWjNPaVQ0MzAzN1RGblQxSUdtcU5LcFVSODRlNGdlc19WSEZyejNsVTM2VFM2d1FQWDRtem1GbmlvamFIa3pKeGIzQzFEZnBUSThDUENEV3V4VW1ZcENUOFRFc0tmV3ZuWHFnQ3FMNkZsVjJRLUxUMU1RYzFmSDZ2UQ?oc=5
+
+- Spiritual Guru Kalki Bhagavan Passes Away In Chennai At 77, Final Rites To Be Conducted On Saturday
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVHZMOEIyeGJVVHZjT25EZGZENk12ZXpaeXdVUEZNajlOdHNLZkRvMTkwa0NrTVpiTzc0bnRkbHVwS0oyWVhCc2tCRko0QnNIa1d6cW9wT0ZkZktLZFcyTTNuN1dOM2VWcnJsT2dBWU1WRkhjRDNKOWVpMmxCaTB1dzV5RHh0c3l0S3JrSUlPYTlwZXYtb19EMGdKZWM5ZlpWQjV3cVR3Zy10anJFaVVfRmt3Z2xuRUpqU1I4dzhzcGVTdHlVaTBNM3Y0RE9YdDJiVnNOYks3ZTIxYmltNUHSAeMBQVVfeXFMUDhUTkt5cmczR0RGN2lJRjNvb1NOYTU4SU1EM2ZBMm10bVlwRV9JU1BOOVZuYnRucVRzajJZY3g4RnozNXA3Ni1BNkt5cEwtb0xGNldYV3A4R0pmdUhldnBVZWZOZUIxdTNOczBkME56a0J3bW9aSTJoNVYyazB1V3BicXp0dVFhVnpXWVJuR2NGUDhwNmRvaUU2aVlWakY5ZTlqQ043YV9Od3ZFbTJhaTQ2WEF0b2JKQ2wzaEhDVlp4Rk1zdjFZa0YxeHR1YWV2VUZKdlhaXzRUcTNMNE14Nld1M2c?oc=5
+
+- Youth performers wave colorful flags as they celebrate the Enthronement Rites of the La Naval Image at Welcome Rotonda in Quezon City on Wednesday. The Quezon City government informs motorists to expect traffic delays on October 1, 2026 as the motorc
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi3AFBVV95cUxNajhOTDBNSE1RXzNDS0syaVhrWlZ1dGpVR2xXTldaSW1rS05pRE1oVS14LTFRNTdCektkdm1DZy1SY25MRkszc0xDRk5sT1NoQVRJejBXT1J2TDVRSjlvWnVrREdUczQtcFZiMTd4NVJEMWZMSDl1bXpiT01RanpTYUNqNXhKN2NpVUNHclFLaV9SSnVBWENvaUhDNWgxUjhYTGJOa2toSTJFVHdFMXEwU3BQM1B2SFBRNnoyT3Y2QXk2RnhHVV9tOHNBdlFyaTAtTTRKbVJab0dYVHVU?oc=5
+
+[Jupiter Wagons Ltd (JWL, +9.51%)]
+
+- Titagarh vs Jupiter Wagons: Two railway stocks, two growth bets
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMimAFBVV95cUxOb2wtQU96TUFmeHcyUFltZmJLN2RSdlA0OFNCQ0pxXzVwNmVMcWU5akxGUVpKdi1VT2dFQnpncnpOSnJ5YlFnX2YwNDdrdFR1M0JSM2ljQThaV1NnOFZuV3AxeW5ReFlQNXpfX1BCWUc0ZTlTRVF0SENRcm0zWW9ONTZwbVlSb0cwdmxxSFZZb01oQmdta3BaQg?oc=5
+
+- Jupiter Wagons shareholders approve Lohia reappointments at 46th AGM
+  29 Sep 2026 | https://news.google.com/rss/articles/CBMivwFBVV95cUxQeE9lOEtZSHFPTm1TX1NzV0paUVhOUGhYc0Z1OGk0SEd4aENieWJqUWF4Z3p3MEVIMktuRnJ0djVHMTFteUlFZzg4YndzSWV6Ynk0LWJWUU90cy0wQXRlRFBQeEZBeUhYVU10QTg1Z3FvaVl2dTM0TTl3V2JERzVEeDAtZmtseTI3V0o3UzFPenMtRjE3OGtQNjJTOUprbngyUVAzMm4yeE5JQVhEeV9SeXNHdkRRUWkyblpOTFZrRQ?oc=5
+
+[Cupid Ltd (CUPID, +8.21%)]
+
+- CUPID A and C: Dupilumab Improves Quality of Life in Omalizumab-Naive CSU
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMilgFBVV95cUxOYW4wazBFclNLVnFGV3hKek45eFJiMGNCeld5RFk3ZURXaVVBb2lCS2RuMVlvOU42V2ZXV3dSMDIxZUxwUFpRa01GdjctcVJXMVRybnYwd1hoelJSNGhSeVRqNXlSLXpFZWYyQlFOZFJhWUl6ZC1HcVBKMWI3MVJfVlVPV3pVSFY3Z29DbXpQVjBveHpYY1E?oc=5
+
+- Sound Stage: Cupid's Boomerang
+  29 Sep 2026 | https://news.google.com/rss/articles/CBMickFVX3lxTE9MYUhKZHdYWmRQZW1UalBwTWZib0wtSGhYUGhYZ2ZOQjhDdFEzZTJkQ2k1dnNqWDJNRHU4dllqM0p2cnJZb19vaExFRWdFS3FXRHJFUzRZSmZSd0VXSmpwaVpMN0dZeFlDM2wxdjVlRjJTZw?oc=5
+
+- AI Is Starting to Play Cupid
+  29 Sep 2026 | https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3Z3bGx2NVVLZ1RoeDNwVXJLOHllSU94Wlh3cU54ZkR0cXZoQzZURWk4aTlEb3RMM290ZDlLMjkzSnFISTZtSGc4VFZaYTF0YVFzc1k0ZkJpRGtMc0dxRllUU2RjZUZUaHkzcHVKWDF0by13NXhvanRZVXpiaWZrbS1QY2FJRy0wb2dnbElsWXlKLXhheGc?oc=5
+
+[[Top Losers]]
+
+[Apollo Hospitals Enterprise Ltd (APOLLOHOSP, -6.37%)]
+
+- Yatharth, Apollo, KIMS, Fortis, Max Healthcare stocks fall: Why hospital stocks are declining today
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi-gFBVV95cUxOYndDaXVwX0ZFeWFCOFYtdGp6cWIxenptWTBQN3lWLTNwSUdlR2poQTNyZUVyaFhSb3lpTFRRNk1pNUUtbnllZnNNUEVWSkVzMVNYd1VIRUUwNklfUUdtQzNiNjU4LVpYSFhlVUtsUktqdlljX0EzWlpXMjlZS0JRSXpuQTJYRkllSGFfUWhKZmgyZ2VzcGVwZ0VHTmMwcFRJd2V1ZWxwZXU2Yi0zazhtRU44RzlqWDNmV0s3UExqZWJObDBoT0hQdWpMNGphX2xDVElPM3A3YWtoQ0RQUXJUZ3dRYWhMZk9uNF9LMjdoSUxHTm4tVk42Y0FB0gH6AUFVX3lxTE5id0NpdXBfRkV5YUI4Vi10anpxYjF6em1ZMFA3eVYtM3BJR2VHamhBM3JlRXJoWFJveWlMVFE2TWk1RS1ueWVmc01QRVZKRXMxU1h3VUhFRTA2SV9RR21DM2I2NTgtWlhIWGVVS2xSS2p2WWNfQTNaWlcyOVlLQlFJem5BMlhGSWVIYV9RaEpmaDJnZXNwZXBnRUdOYzBwVEl3ZXVlbHBldTZiLTNrOG1FTjhHOWpYM2ZXSzdQTGplYk5sMGhPSFB1akw0amFfbENUSU8zcDdha2hDRFBRclRnd1FhaExmT240X0syN2hJTEdObi1WTjZjQUE?oc=5
+
+- Apollo Hospitals Share Price Fall: Valuation and Sector
+  29 Sep 2026 | https://news.google.com/rss/articles/CBMijAFBVV95cUxOREFSeF8xbVZkdnVlUjhyTkpvQzJ0Vi1mMU15a0EwSFdlZjdLZHZuWjN2d3VTN2wwNWlpcVJCMkRsRWVVZThfeEhqNDRETW9LdVM2cngySnMwaFlnOFhUamlhVU1QdjhrWXhnZFJ0WndmZHYyQWgwS3VmQWhiYlQ2M2kzMlRpS0ZxNDNpZg?oc=5
+
+[Max Healthcare Institute Ltd (MAXHEALTH, -6.29%)]
+
+- Firstsource Solutions, Solar Industries lead Nifty 500 gainers, Max Healthcare, BSE fall at market open
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi4wFBVV95cUxNSFZybHpOR1JNTDgwTGxCZGJ3TGVydGNyQUJFOGdVZk9POXdzRzFBVUZZYk9UYWYyTFE4UENYRF9OTTVMRGhiR3JhNzllQnFrazhsWWZBdHppYWJWdHhVTklsQU9CQUVhRl9XeWRzU1VfLVd1NnVmMENSZ0l3UmxnWDQ3Ny1WQlZ6ZVZPM0pHaUVUbTFGcXFaZDFLd3VKQ2QxTXo1XzlPR3BycDBjVUJhX1kxX1M4LXlqVEVzZUNsdlRDQmYxRENGTHM0aG1KSkhiOXJ5NEJubFk5bmZ1cnczbWt2Y9IB6AFBVV95cUxOUWQ3T0kyYjZvbXdkWFI5ak03VjhnVHYwMXJIV0d4Z19WazhRNWJOVTBJX1IxN0JVaGtBa0kwQjExQWNWT2N5ODFsTlRoRVRHNEhPTmJRdUtrU1Rzc200ekI3VzdYQUxvTmlIZ1JoSVg3dFlEZXZnYlVQYWNCNEQ3Zzl1VWFGYkNuVWJhdHFfTjB4WDk2bXJ4Z1Q4SXR3SzIza21qLWs4TkYwU3QycE81d3hiZFNGUEllUzNleVNxeGlaNGthRlY5UXE5TTRUZ1J3RHYtQ2FPcW5IMUIzVjJrV0VVYlh1UzAt?oc=5
+
+- Yatharth, Apollo, KIMS, Fortis, Max Healthcare stocks fall: Why hospital stocks are declining today
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi9AFBVV95cUxNUmYzNm0zelpmdkxiWTV5TjBOaGJjT0d3NFluZEZaazZodEZUaVVGbDVSN0ZvaXJSb0Q0NHVnaVZtYnB1OFc2ZWxNR2tTRjl6T0tuQ1dfc21aRjg0TnQzcTI0TXJzZVFYVW54dUt0MWNZQ25rNU5qUTBwSl8zeDREYXN3cXVfRlZEX3pyVmU0QTFLUi13NHJFUW8wcUhpT0pXRkVYem1FSFctdENuRkw1d003NXF0dERhUGtzcjR6UHQzdXdMNjJ5R2d5aG9JY1hjN3FWWTlPQzhaS1pZUDZaVmFWMS1Yc0R4bmNiekc3VmY0dmNs0gH6AUFVX3lxTE5id0NpdXBfRkV5YUI4Vi10anpxYjF6em1ZMFA3eVYtM3BJR2VHamhBM3JlRXJoWFJveWlMVFE2TWk1RS1ueWVmc01QRVZKRXMxU1h3VUhFRTA2SV9RR21DM2I2NTgtWlhIWGVVS2xSS2p2WWNfQTNaWlcyOVlLQlFJem5BMlhGSWVIYV9RaEpmaDJnZXNwZXBnRUdOYzBwVEl3ZXVlbHBldTZiLTNrOG1FTjhHOWpYM2ZXSzdQTGplYk5sMGhPSFB1akw0amFfbENUSU8zcDdha2hDRFBRclRnd1FhaExmT240X0syN2hJTEdObi1WTjZjQUE?oc=5
+
+- Max Healthcare: NCLT hearing on Kalinga Hospital petitions adjourned to Oct 29
+  29 Sep 2026 | https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQkZscnZWaG1zVFJMWVR2ZmVwbEstTzVwMFd4OWZtNk1FTkw2QzFISU1UVG5HZWtDVVdPWWd5MS1YcHlvOUQzYWNER0p1bEozM01LaDRRN0M0eEVrUkhnNmhQd0JPWl9QWkQxQVlQSTd4cXJ6RlE3d2xYZ2ViQS1YOTRHeS11M3YtcUFva29YZU1aSlVVLU9ta1k0VXRkWnMzM0F4TG5XWk5mT0pJUWFVOGE0a1dwd1h6c3JFLVNBSjVaZWc?oc=5
+
+[Fortis Healthcare Ltd (FORTIS, -6.27%)]
+
+- SC Upholds HC Order, Clarifies Scope of Fortis Forensic Audit
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMjRyWlg0STlJRkxNQnB2V3Vybm1GaVFSVWVLX3VOUHA2b3lvZGJyS2p0Xy1FbThGNnBuSlZxM05ObHphQkZXZkNEMlBLejQ1TDFJRjJMTGoxdFB5VDVvRDY0dDhXWVFrZERVNlBFTzVUTkQwR0RpMTJxdkk2Z3ZIc2dDT3RRSGhGTW8xd1BZT0lycWpDdG1tTnBnaDBaVUVCQm1WcjIycE5kR1lyLXJpdEhVTG1uYWZE?oc=5
+
+- Supreme Court allows forensic audit in Fortis case
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMiugFBVV95cUxOQmdjNnk5cDZEUTgySVppLThoWTFrRGl0dEhvczktdFZnTDBmak1uYk5Ic2RWem5kSGUzaEktR0lNSHJlNFE4eU9UUWxJWTRuZ1FOckZIa0VNTWhmNTZhYy0xOWZtajR6VXlmWVRzMkt4aFdBTlJCNzNSU3JRVHNZVnl0N2tSandYVFJ4Z2NUdFBYTDc3dy1UZ3dvWUVXTmRrN0pxVjBWSDNHVUMza3l0eGRBR0x2QWkzN1HSAb8BQVVfeXFMT2xON0RYbU5HOS1lTVlOcE1XaTdZWmlwUlUxenlfTkttTG8zODVVS3E0THpEa3YzNF9GN1k1eThLOEwwUTNxcWszMU5qcTFWdHpDbVM3dDdxRGtWWldVeXV3Q3FYcEpxVmZneVNWVkdGTkhQUUhWVVpHQ0pPWkp0SG85eUE0bnVOcWl6R2otTFVyNEZ5NnFzU010Ty1lWWp2Z1VNQUtGTkp6YzlxQjluUWphNUc2c295RFNLRk9tMGc?oc=5
+
+- Fortis La Femme Hosts GYNAECON 2026 on Women’s Healthcare
+  29 Sep 2026 | https://news.google.com/rss/articles/CBMilgFBVV95cUxOWFFiMEprZ3ZKUF9TUTVQNksta1NDa0Nna3RuQnBHZHVhQVV2djFMdVhWRmZmTUU4X1pUOFhRaHJHVGFrR0JyV0daZFgyR2U5SUNFWDFNR1ZzWl82UndHM05iZlJ3NkFRTHhaTjBqNHZZRlFReWM1bmdaUWtnQVEweEg1R19qeG9Pck5mUGZzd2VLeXlNb2c?oc=5
+
+[Kirloskar Oil Engines Ltd (KIRLOSENG, -5.84%)]
 
 - Kirloskar Oil Engines And 2 Indian Nuclear Power Stocks To Watch
   29 Sep 2026 | https://news.google.com/rss/articles/CBMi7AFBVV95cUxNSmJoMzkwcHppeVl2NzNiY0dSQTNNVm5GM1hRdUZhUnFNNENVRlNzRjh3enpMcF9MWWdEemY1ejRwZW5vUlg5TzJWcUswWW5pUUxKSFJRVjVsTDMzeW9YcjU2cjZIcUNDNVZUWHhOX2ZvQ3ZCdkxiM2VPOGZnNVNUNVFxSS1Ydllvbk14bGZEN0FsVi1sMW1DYXNDNnBmczVnXzRFV1hhWWxtbmQxM2pBckhyVUN2OUY0TlBiM0JmTS0wNk9TNnEzU015MDNTaXZMajJnLThRSTlRcUNkY2poaUEtZFZNcDItRThXWtIB8gFBVV95cUxPZEFQM3pFVUhTRGRIZWVmR0hmU09ybFBDS2pfYl9ScGpJYmFiTzc3NXU2c2xLNjQ3bVcydlg1a1U0SkNSaXh1U3JiUDduaU92SmYxYVNtSEdkZEk0bW1CbFJmSE5CVGNVNVJ2dW52ZkhuWjBkMjNpYmlLbFl6M25Vcy1ieDQ0VV9YNXpNaDFQN1paMkI0d2tLMWJjVkVTd2xwcmxhaEJ2STFhbzZiRndsQnc2aTZtNE9oWGZiR25IRUtiRzZZVC1WWnhFVXBIbGJDNFktd2ZaOS02anA0VmZ2c201MGlkUEs4MDdMS1RoekNnUQ?oc=5
 
-- Kirloskar Oil Engines among 3 stocks that closed crossing above VWAP
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMi1wFBVV95cUxNNmdfZGthR0NQV1BqZzVLZmlGQlpUWWxFYm1wdmxISmhyX3ViWDYyTmE2SHFZeENZcUpFb2x6Ui0tME52cWxVOFBPdUV3dEEtZkxPQm1MSF92YUNyVUk4YmtoUllFbGFPOXRVM251LVNSVUsydld5N1IyUS1lUXZmN0IyYjhybjBEQzR2WlJ2aTVMYUVuTEZoVWhhc0tRXzZzZUdqRkFYZVdVamxMQmpLZjNvLWdHSjhOQU1waU9iQWpnS0VqaWFKNmZsQzZQRFlPZzhMeTlUYw?oc=5
+- Kirloskar Oil Engines among 5 stocks with RSI trending up
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi1AFBVV95cUxOOGUtWEFUQTBtYzliNjNMc3I2VG1INHlFMlFnaVFKYjlZcy1RM3BaeUFmVDM3QnZobzdqclpvVGdXRjhiVXJIUUlreTAwYWMwaUdrS21mQmlUR3ZuWTVHUHcyZ1FNWGpSNy1pNHlSLUZrZHVzQUhGcGVXYzJoR3lvenZxcXdXUzFYdkdGU1I2S3FneFpBaXR0eU50V1ZmeDhsVEJYZG1jNnoybUFTQi04OEFSQThOcmpwV1FqMklGdVNxVjFxUmhKLW5Qb1I3cnh4dUluSA?oc=5
 
 - Kirloskar Oil Engines holds analyst call with Valiant Capital
   29 Sep 2026 | https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeVppaUhTcDdpZ2JWUEFxUUN0NUZmTldNT1ZkSjFOYVNrY0t6YW9HU0RZVHdjSl90LVpiWWJPTlhpSmFlZk51TzRhZmlHWHRTTjlKdUxpMTRMbEVnU0cwWXF3MTVMQ0VhMkRobWE0SkpFNnBmbEZtSFNzZGprdlVaRXJ4T3JucWxucWhOQmxBM1k4TTh4THo5Y1AyUTdEbVJwRHFQM1VZZm10T2dMaWJRcklIcmRvMzEyYVh3?oc=5
 
-[Sun Tv Network Ltd (SUNTV, +6.41%)]
+[Aster Dm Quality Care Ltd (ASTERDM, -5.23%)]
 
-- Sun TV Network Share Price Today: SUNTV fundamental view
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMigAFBVV95cUxObnpsUzJ4WlZScHRPbnlVd0htSWlUd1FKcmMteENxVm42WEp0bHhEc0JhUTZvNHoxZVZwVE0zMUtLU09wRjRWRFVUX05vZmwwOXRYcWJhWGttaE5WRzhyaThERDZ4X281VEJVTnB2LWNrSi0wN01KS3RjR2hzbURyWA?oc=5
+- Buy Aster DM Quality Care Ltd for the Target Rs 910 by Motilal Oswal Financial Services Ltd
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi1wFBVV95cUxQVnNCNENKNHpmQWw4dXJiUWYtU2twQUhlWmNEOGptM01MTUhDN1lrOGZUa1NIQlUxQVV1bkxhOEpUeVpKaGZLc1N6Ulk0SXVYSFdEcks4ZVVYbndSWFpNVDFaMzF0ZHExX2NNWVdVSXpBMERWZzBDc3hVcldhd0RFLWVRRW1HYjlxZVV0MDVHMUR4LW82djMyTVdxVl94SnBvblgwQmw0azB4LXYtMk1uQTQ4bXpBeF9VNktxeTJtZE5uVld3N0ZmVTJJVFRqcFo3MC1VRHFUSQ?oc=5
 
-[Adani Enterprises Ltd (ADANIENT, +5.01%)]
+- Moopen family adds 0.57% stake in Aster DM Quality Care for ₹350 crore
+  29 Sep 2026 | https://news.google.com/rss/articles/CBMiwgFBVV95cUxNcUJXd3pHNkM1N2ZlOUdXYU5IMEJaVHVZQkxfNFRsWXNxMEhxRkVKZ2IzWkxmeEtYUTVSM3dybEhaQnRyN3k3M2ZVSTR0Wlp4bkt2b1dQRUc4cDZUWjNfSlRiMkpLWllNcVV6MjBWWi0yUnQ2RFY1QTYtMkdOZWo5b0Y2Rkhla3FBY3FqZ3U0QnRFRXNvTVVESjlLVy1HZ3lCVkR1Rlc2eUFOMDZZQmdUY0pKajNySHVLcl9taDhTZUFlQQ?oc=5
 
-- Adani stocks today: Adani Power, Adani Energy, Adani Enterprises slip after Rs.1.48 crore SEBI settlement
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMi8AFBVV95cUxOdWRJZnVmQjBHaG00UjUxUEdEWFkwVUtXQ2NXV0Q3Z0VVYWJxTnBpdTRpQTNTWF9LSTFadEloeDJfOWNIdTJ3eHk4dUFaSzdhazlma1B4ZUhhcUt4V0hWMm1ucUlPTXJ5MlBkVzF4SlNZc3Jfb2pyaVF2UEtTTXkwRVh5N2pkT0o4dU5ad0hYRFJNRFg1TVluODJSQi1LZ2xYdHl3ZXU2Rko5azRza3cyTWFiemNtd2RXV3ZscDRnVVdpRk1jdXdYZjdReTVPSzNHcVFEZFhUUExSLXZHSXNMYmtLNEFQS2hDTjdPV2FUTi0?oc=5
-
-- Adani Group Settles Six-Year SEBI Shareholding Probe for $154,100
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMidkFVX3lxTE5WZmFWZXc0aFdQYXVVa05tVmgtd2E4aEFld2gxa1ZqdFNrQi1wdWg5NFBBcEx5aDN5Z01nNWxwZlR5UHhKVkNhV0NKdk9ZMG1pZldLem0tdkk3TlNZbzJ0Qm1iemM4SGNIMkFqdGVPbkhkd3hSb3c?oc=5
-
-- Five Stocks To Buy Today, Sept 30: FirstCry, Inox Wind, Lloyds Metals And More
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMi6wFBVV95cUxORVJuNFdCZHFxcHc2a0VYc3RzcEt5aTlfOU9RWDE5cTNYbTJvRXZTRHE4LVdjUnVZelZhZk9qaUN4Q2dCQXRZQ0JIemFCU1poOXdQQTZLLU9WbXk2ZV9YMnZfSlFRSTRGbzdMYUw3Q3MxY2dEbjBjTlV5bS05MGVnajctZ1JYMFBpdWtvVTdSUnZIR2IyZ0ZyYlhuWVdVWEZ0OFRVZUlWa1lVLUxLeHh4TDZrb2tTS3p0VWl2VWU5bS11RkRjdk05MVN4N3V0VDExOWd2WWhhbktfYzRXdjMyNnk5dlZPUHB0QjFj0gHzAUFVX3lxTE45cmg5dmRSU1RNMVJsMTFYQ1dDZzB3WXBGS1VxbWxSdWRUNjFGNFJTd0h4SW1qR1BlOXRyVUlsNmJITjltWndzMzNvYzNVbnJiRHVncEtmZjBxeE93dHp2V2xCemx2cXNwZm1KZDBSVjFzUXBWZGdJZ2k0Tk1FdUlhX1prYUdELU51QlZTejJ2RTVIUkxLbklXVXU3YS1BVzBTa3lZcEJVWDVTa1lKNk1WUlRvU2J4MnhtTFRsWFgyR1NFRFF6SjgyaEF2MTVXb1l6SWFUTlB5UEd4TTA3UnB6UlVubjRaYmhGcWo2WGd0Sk9Vaw?oc=5
-
-[Hfcl Ltd (HFCL, +5.00%)]
-
-- HFCL shareholders adopt FY26 financials at 39th AGM
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcElZbWJBYy1NcUpHa3dlQzF2eE1sLTVSSnFOWm9lVW91cjhZRlUyQmlTT2V0akVjLUZsSGF1ZnFhNWhPS3JBTDVqRXMzUVN3bncyWHg1d2lGU0dyY2thelA2NHVKRjRSbWpuVEdsNUZiNDJxNndYTTY0cGRRYnloOUZWbGJIeW1zSXBCdTdLMEctd21oTDlPTE0ycFBBMlFfVThWX3ZtalY?oc=5
-
-[Glenmark Pharmaceuticals Ltd (GLENMARK, +4.98%)]
-
-- Glenmark Receives US FDA Inspection Report for Goa Facility
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMimAFBVV95cUxNdG41NXRWYUdKWFBONVRWVlk2OEMyalRYeGs1NlNOV3dYekZaQXdmREttVEVhbWt2OF9UVThrcUEyaFJ2NmR1ckpodnNVNzNwTTJUT3A5RHdrNEM2MkZPaDh5dWU2amswV3BQcUJtV19XY1NUS19aZVp1Q08yTXF6LW1IVkpzZnljODhRbmxIZGNFYzNiTnlUdg?oc=5
-
-- Glenmark Pharmaceuticals Ltd. Share Price today: key levels
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMijgFBVV95cUxOU0UtUHVSWGxSd09kbWJ5a3REVHhRSG1ldUJzTnhxYlJCekZXR25WZGNrTzVjZzhNNHNjT2RIa2JlU0htcFMxcHNHV2FiWjhRYkZna3VQLVN4V1l3d0hUeERGdTRLbmM0ZUhPR3hkMzZXWXp1eFkwMjRTaW9EWkpDeGt6S3BpQ3g0Uk1ZeDFR?oc=5
-
-[[Top Losers]]
-
-[Pb Fintech Ltd (POLICYBZR, -6.11%)]
-
-- PB Fintech shares crash 43% in 4 sessions: What is driving the fall?
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMiygFBVV95cUxNQmNYd19ldHFpM21IZjAyYjRqMGkyYkd2c1FwY19zNHoyd1VzSDlHQVhiZndqUWtfS0ZUZ2ZQR1JzTGJxQnctcmdReGhzckdCR21WQlNWeFJvMjctaHp4ckV3ckRqRFk0cUJaSlZkeUkzUUVySzRjR2xUNkZvYjNaY056ckNNN3M0X1JMd1YxLVkyNXlEWTc0OWhHbmtsN09kX3FoNThXdEhHb1ZCSGdNd3NYZ1RxV2JLaGhSbmRGOVRoOWd4ZWZSbGNR0gHQAUFVX3lxTE93bzRqT3N2ZzFYaFlnLVljTGdNWjAwaFVaZkFvcFZVaWxuU0twSHl4bFM3THF4NHRreEdKa3FZaXRVQWszNFk3cE0ycjRPS3FVcHg0ZmIzckxrLWJKOWlERlVXTWVMZmJvNnZlUXZMMUVObE1YYXBBbmtJZ0czS2hWbDBNN3RqZGNSRjVaZGFPTWVjSUYxRi14a3FCbk9YOEV1NXZxY3pWZWx5dUVHVW1Nd051UFZ3ZHRzQUlXaEpNd1RNdDZybGR1OGgzNFRkdVQ?oc=5
-
-- PB Fintech shares crash another 6% today, lose 43% in 4 straight sessions as IRDAI proposals continue to...
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMiggJBVV95cUxOMmNxRFU1RVJRdXVCVWJGbFA0cmhTS0phenFGODJLQVIxeXZSNTl6TEQtMDktMGNURl9YcFFYaWQtQ1p5X0ZrY28zREpzaUkwZ1p1T2pHb2VoWV9zZ212UlYtaXVDbkZOWm1iUVJ3ZGliYVd6cHNUVFlXUFFJRkZueUxudVd4ZWVBNFJvaElWcUJESWEyNlA1a3o2aTl5cGRFblpuVm02cFV2Zkh4NHVNZk5kcG5wTEJ1ck9NSjNvX3QzNi1jVFN5dUpzeGxzbHdyYzg1VHQ0WlVST3EyTE5YZkFXZ3Y0V0g0QW5EU0tZc09zMHdPdmJ4bUtMUHF2MzVJdEHSAYcCQVVfeXFMT3VENGxFc1J1WmdLeVJzWHNZT1J1ZGhBdTdmOXdxRG4yaUxEZFRrMi1Jdk1GdUd4b1c3MlhsU0ZTQTZlcEtNNklYRTFTUzA2RTd5bm9ydk4wN1pYYjBxT3F1Z0FaNmxHdC1lcmpKMGg2bU52b1YtaVNLQ1ItYmJYUUJhTUVtX0hWcGhIdG1Ra09oRERENTJzUERXb3draW1ULUkxOTVIeEh2QUUwN0d1ZFZOMmhpY21iVDlUeElrRVN2bTVpUUJLa1VFZWU1elNTemNaazVPZVNWeDRleUpYcG5oUHlqVUJaMzA2dWk2MjZFYzB6d3RKSTgwNnlkbXAtb3k4QWozQTg?oc=5
-
-- PB Fintech shares suffer Rs 37,000 crore shock in 4 days but Jefferies, Bernstein see up to 100% upside
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMihAJBVV95cUxPRGlsZDFaQkhueWFrZ2tqSFhlbFZtMnNSd25tMGYwMEU1bmliSWFlZ0R4czVBdVpsTVBvY2JsMkVXRGZQb0ZnemVYaWxCYVRjUzgtdldiUFEzMnZpdHh6MXJFeTNmVTl1TkJsZVBabWZBYkVDV2NoOE9GREdiSWQydVJ4eGdBYmZId2xoSTA4MTN1ZnNuSHhpaE15SXZHZXZLcTJNZ1ZybnJLVGY2R01PQ3JCUE50aXdlVWcydnA1N09qaFQ5ZF9WSUtDZEV0YVN6V19RWkZvVTM4Slo3bzdjaVZlRVI5ZzdKUG1jZnFSZmhCdTdYSU5udGo3elBPMTJPU2x1UtIBigJBVV95cUxOcWtKRWI3MHJSSllhTW9nUUlnb3RxenpuRnNESERqbDdpZzZhNHRuWDcteEZYcTRadmtCVGRaNkZMSEVlVlA0NktfXzVnWUp5WVF6NWJyZjg0Z1lxb01rNTAxSjZnWWgtQUVHcWlKQmdTVGxybko2YUNjaTFlcjdsVzl1clU1Mkx4UlR3cTNDd1hjb0M0di1DU2FzQUtFZGhDRnI5RjJUNWt4MngwX0RfLTlvUkJxeV9VRnRubWxGMk5hUGtwS0tkS3Y1SzJTUzhvZUN0Njl0Q1NZYnJkODRRT0RULUxjTjFlejVJX25TYlNSX1pSckJYZDZOV1VMdGxKOXVKQlpZalFfUQ?oc=5
-
-[Coromandel International Ltd (COROMANDEL, -5.59%)]
-
-- Coromandel International Share Price News: Large Cap Drops
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ1NfVlZVNEFBclNreFRXT1B6LTl0LTh4SnR4ck42U1hLVl84aFhiZ2IxbWhiX3hNckdDR0t5aVNrWnRldm5Wd2hydlBpWTlxbUN1Uzh0dzg5aDRBanZEQVFWY2lKcjZXRWtldTBWZWZCb1dkc3pDcVJwTGJtYnpibVBIczZqMmNP?oc=5
-
-[Amber Enterprises India Ltd (AMBER, -5.49%)]
-
-- AMBER ENTERPRISES INDIA Share Price Today Down 4%
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMivwJBVV95cUxQQmlCbFFhUzRfcVNPVkpLNTlDVGhqd1NPSVVMNkxIaW9OcG55bjVpX1hITm9jY2puakw1WFJ3Q2p1Y0Judm9hMUdGZEJTU1pMVHQ4Q0I3WlV3dUhDei0wX2twaUh6RVNibUJFRElURURlM1JLWGoxM2JZZjI4WjBYRTJPemxCdmRFZk53UkJySkMxUHZmZERCQ0RncWM3MTB5SnZjTWZldXRXM1hBZ2x0OEU4Zm9YTjhLRHNaQkpEQlk1Rmk4ZjR2OUlKaFFkdnNNcWFqNHUyZzQtN3BnUVRpeWctMVpPQ0lmR0sxRmJZMWxaSHBCRWFzWjJPbkx1OFdIV3VmdER4MGw1a2dOZ0E1bC1hMnRXX1hONUVjaUhibVpDZUlqVnpqWjlIeGJWVXprMHR2NWdZM0FIclNYSm9J?oc=5
-
-- Amber Enterprises closes trading window ahead of Q2FY27 results
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcG5QWi04Rk96VFp5Y1N4ZndGRHpYVF9UeGpKRVJ6Q3FKNzliSS1YcE45XzBIMlFteFp2V0R3NkQ2Q29uTU5XNHloamgzUzR4aGZNY3ByZjZxX2FqeDFvanY2WmJkNlNPV1ZDdDc3UDY0WUwtSk5uUzlpUkJqTlI5eHZBMkp4RTBETnNwSHQ5WmRfdnZSMzExUTA3OGxfdHBpT0V5a1M3QnJnX1NFbXFWV3F1T2lMalFC?oc=5
-
-- Amber Enterprises AMBER Trading Window Closure Oct 2026
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMi0AFBVV95cUxNVDFmUEJ0UlhSUVpXR0hSRkFNRDhYSzBucjRjN3JyWGVoS3JiVUppZjVyR0V3cVVLb1ZZWjB1ZERLbVZ4cTBsa1dDdkE5cjdDUU1tSEp6dmVUN2JGdHplS2RnaENuazBWZFFRNkw1NnRsWXdmUTh4eVVfWTBCMlFkUHltZE0zSHJKSXdDajVlaENmdnhmZmpKdHF0YV9FbkdZY2tsNE1CODZ3akdHdzBpLThlQjViaDNraU15elJDSlRxMTBDb25jZGd3TExCd045?oc=5
-
-[Honasa Consumer Ltd (HONASA, -5.24%)]
-
-- Sequoia Capital Global, Peak xv Partners Sell 13.3 Mlns Honasa Consumer Shares Via Bulk Deal On NSE - Exchange Data
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMijwJBVV95cUxPQjh4UERDZDBtQmNtMzdLWExJbjhwRXppU0tONDlWQkRLQlM1ckxxT0RvM3lYQlJmcUNrVVhWelRJRDljczlOeVF1MnJWZDNKeFVEZC1CRFlFX0pVWUNpakl6bW5oa2xMa1pkSWxHSktQeTlOc1pISFR6RFpsSzNEekVuNjdURVdFd2d0XzM4NTE1R0JDcTBoYWROV2hreWhJU0txQ21mN01jTUhEajI4a1hCZ293MGZfNHBrVU5UOXZvaGdWRkhhdTl4cU52X0Jqc3lCSWZxT1BxakxOLXBDNjhjVWJnOFZMUTdpODhvd25RcENEUWFDb0dXdVRMRGtiSW5HVUhFNHJna2E0SjN3?oc=5
-
-- Honasa Consumer Share Price Falls Over 3% On Block Deal Buzz
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMipgFBVV95cUxNam55UlFEUWJaSEhTblVYcHFYSzBNM05qRWs4NU43RUktNHJoR241anM1cEdham50RHVQYk1wRWNGejBHUU5qT2FuemtTU0Nqc1lPbEp3TW5vdkRSRXRjXy1mV2NCNU1kYUlWR2dGN2hERWJCcjRqT05ST1g5bmF6OFBvNUZCd2FBOUQyZlV4Q3ZUNDIwQm10a3dEbHhwTC1yT0xUVGhn0gGuAUFVX3lxTFAydmNtcXVqZ3RhQ0ZOUTQ3T3U2MjROVDZGMjFkamptdjJwZjY1T2FXLTBoTno2Sm1GSGRDYjBhaHI4YWJUZkpCbjNNcVIzdUVXZjNCUm9PUUpNMnNWSXFiem9FbzdtcmtVa2IzUEFfQVBpNzkwcXktS3dMY1E5cjlzUmhBcXRCV292bS1JUGl1NzFKN2FvSWhacHNWUlczQlczc0UwSU5Cc0g2cUNJUQ?oc=5
-
-- Volumes spurt at Honasa Consumer Ltd counter
-  29 Sep 2026 | https://news.google.com/rss/articles/CBMixAFBVV95cUxOcERyeVJOQmhNY3UtbzVGNkFLd3RKZjJmN0czUTB4bmlxRUhDUGpHUnVlQ2dPb2dtLW9pMmZFVTFLTWdXR1VmaERXSklIUWRnN0FjeTVzNUJYY2FYd3oyajlmYW9KUkliNnJDU05weEUxOUp5T0VzRWIyUy0yc2EyVlNTdzJWaXF4WS1YWk5iSzRiNndVN3JvRll2alhMZkx4bGlzWDVlNUoyMDJFVlB4aUR4Mkc5ZG5ibWRtdThVOEJ3cHpm0gHKAUFVX3lxTFA1TEJpU1Q2OU5oQXU5NjladFBCQ2RmcHBORHhRb1pyWUh2cW1jVEUyNFNaeUVkTGdNUGZpN2R6WHg4Q3pfc21CWTJfcnAxeWlPNGtXbmlGWUU4eFBzRGt4eDhUN2Z2dElyNXNsTjBCbnVaRHMtY0V5LWc3UFIxZ1duX24yVk5iOEdndEJweThLbnVFNHkzaUdsZ1UwQjBONkZLbkMxNUwyT3hXdkJIZ3J3bUJCZlZscjZTQUVYNEtoMGtOVXNrYlJGb0E?oc=5
-
-[Kfin Technologies Ltd (KFINTECH, -5.19%)]
+- Cyril Amarchand Mangaldas advises Centella Mauritius Holdings on ₹4,700 crore sale of equity shares of Aster DM Quality Care
+  29 Sep 2026 | https://news.google.com/rss/articles/CBMigAJBVV95cUxNMl8taFgxclNMQWl2UFNQbENtX2dpM01CLXJkWjZnNnRSd1BRSVE2MDY2akZ2QVpsbUhnZUs5NS15V1BkbHFGTVZ6Y0pCdU9nRFR0aWdSRjIzbGtIUVRacHVuX01lWGhfNDZWWFFlVlpVX0txRDZERVBRSTl5aGJzSTMxdUdiOXZ3MUMwX2JYX0xsNjdiOE1LN0NQc3hieFJDYTZrWmJRaDZQQ1pqMXNiNDN0R2pfekpiNWt2R08yOUJuT3pnVS1DRHZyVUZvZVNOSVN5a0lmRlVKSUZGOHdnMWlSeGhPY0RHUXlodlNYd1lSTXhGRjVLd25WQTlFUjFw0gGOAkFVX3lxTE50bHZoellUZjlZT1ZUYWU5REk5Q3pxWkdzSmxKdUo3RzdkMEZiMUVPaWNpc2tWODlvTnNTZ0JYejBVM1RyeUMwR2VlLTRwcm91UFZJeFNyTWwwUFAxa3E1alY5Ni1JeFRWM3phMC1nN0dGWGJNdnRaXzRZdDFkMDZMLWU5MzBzaFZsQU1hTkJNX2F5bkJpVjdZaHhWaGU1TkNKUmp5aUpqVmE5cWJobUFRRDlLTElEWWU4VHMzQTBoSFZQNmpxc1ZYZUdHc1BOQ3QxbzNXWk9yVTVzblJhRFBUM2NzcW5NXzlKbmx1RzJMNnoyZU9wMlExYmJXZU45NU04cTNGb2tQWllnVGQ0QQ?oc=5
