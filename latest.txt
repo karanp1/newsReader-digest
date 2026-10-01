@@ -4,20 +4,130 @@ Nifty PE Ratio | 19.36 | 30 Sep 2026 | https://nifty-pe-ratio.com/
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+URL: https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/palmonas-offline-push-indiaais-gpu-crunch/articleshow/134605893.cms
+
+Happy Thursday! Demi-fine jewellery brand Palmonas is betting on offline stores, cofounder Pallavi Mohadikar said. This and more in today’s ETtech Morning Dispatch.
+
+Also in the letter:
+
+■ India’s E2W market grows
+
+■ Simple Energy’s fundraise
+
+■ Apple Pay launched in India
+
+ET Startup Awards 2026: Palmonas leans on offline retail expansion as branded jewellery market gets crowded
+
+Demi-fine jewellery brand Palmonas
+
+is using its expanding offline store network and high repeat-purchase rates to compete with both legacy jewellers and a wave of new entrants, cofounder Pallavi Mohadikar told ET.
+
+Mohadikar
+
+was named joint winner in the ‘Woman Ahead’ category at the ET Startup Awards 2026, sharing the honour with Pallavi Shrivastava, founder of supply-chain financing startup Progcap.
+
+Offline as a growth lever: Palmonas currently operates 105 stores and expects to end the fiscal year with about 160. Mohadikar said repeat purchase rates are 46% in offline stores versus 32% online, and average order values are significantly higher in physical outlets.
+
+“The top agenda is lowering marketing costs as a percentage of revenue. That happens as your retail presence grows and you get more repeat customers organically,” she said.
+
+Financial surge: Founded in 2021 by Mohadikar and Amol Patwari, with actor Shraddha Kapoor joining as a cofounder in 2024, the company has raised $47 million from Xponentia Capital and Vertex Growth Fund and is valued at over $200 million.
+
+In FY26, Palmonas’ revenue was up by more than five times to Rs 230 crore from Rs 39 crore in FY25. Its net profit stood at Rs 11 crore, up from Rs 7.8 crore in FY25.
+
+IndiaAI Mission likely to reset after GPU glitch
+
+The government
+
+is recalibrating the IndiaAI Mission as critical compute components, especially GPUs, face severe supply constraints and sharply higher costs, people in the know told us.
+
+Driving the news: Since the programme’s launch in March 2024, GPU and memory prices have more than doubled in many cases, disrupting procurement plans under the Rs 10,372-crore mission.
+
+IndiaAI currently has access to about 30,000 GPUs against a total commitment of 45,000. Several empanelled cloud providers have been unable to deliver pledged capacity due to market pressures. A senior official said the ministry is issuing fresh bids, pressing companies to meet commitments and, in a strategic shift, moving to own some compute directly.
+
+Yes, and: In a shift from its earlier strategy of not owning compute, it also plans to buy 3,000 GPUs through the Centre for Development of Advanced Computing (C-DAC). The capacity will be used by the government and will be made available to startups and researchers.
+
+Cost pressure: Industry insiders reported steep cost increases across the stack:
+
+Nvidia’s H200 GPU price has risen from about $20,000 to over $40,000.
+
+A typical AI server that cost around Rs 2 crore a year ago now costs about Rs 4 crore.
+
+Currency movement (from about Rs 88 to Rs 96-97 per dollar) has added roughly 10% to costs for some consortia.
+
+Verbatim: “We have some agreed rates, and those agreed rates are up to a point,” an official said. “Now we are actually trying to build our own compute, and also on a longer-term basis, contract compute. So for that, we are doing some more bids.”
+
+Also Read: Govt eyes Rs 20,000 crore fund to power up frontier AI and compute ecosystem
+
+Electric 2-wheeler sales cross 15 lakh in just nine months as adoption rockets
+
+India’s electric two-wheeler market
+
+is growing at a rapid clip , with registrations jumping 62% year-on-year to 15.61 lakh units in the first nine months of 2026, from 9.61 lakh units in the same period last year.
+
+Number-wise: The nine-month tally has already surpassed the 13.42 lakh units registered through the whole of 2025. In September alone, registrations rose 7.7% month-on-month to 1.97 lakh units, according to Vahan data, a proxy for sales.
+
+Incumbents pull ahead: Established automakers are steadily taking a larger share of the market, with TVS Motor, Bajaj Auto, Ather Energy and Hero MotoCorp together accounting for about 76% of registrations so far this year. TVS and Bajaj alone accounted for nearly half of September registrations.
+
+Yes, and: Newer players are still expanding, although from a smaller base. River Mobility’s share has nearly doubled from 1.27% in 2025 to 2.46% so far this year, while Ultraviolette and Oben Electric have also gained ground.
+
+Funding up: The intensifying competition is also fuelling a fresh fundraising cycle. Ola Electric, Ather, River, Simple Energy, Bounce, Oben, Ultraviolette and Matter have all sought additional capital in recent months to expand production, distribution and product portfolios as the market increasingly moves into the mass-market scooter segment.
+
+Other Top Stories By Our Reporters
+
+Shreshth Mishra, Suhas Rajkumar and Ankit Gupta, cofounders, Simple Energy
+
+Simple Energy raises $180 million: Bengaluru-based electric two-wheeler maker Simple Energy has raised Rs 1,750 crore ($180 million) in its largest funding round to date. It plans to use the capital to increase production capacity and expand its retail footprint, aiming to become one of the country’s top five electric two-wheeler makers.
+
+Apple Pay launches in India: Apple launched its payments service in India on Wednesday, allowing customers to pay using their Apple devices after years of preparations to enter a market dominated by the Unified Payments Interface (UPI).
+
+SatLEO to launch India’s first thermal payload: IN-SPACe-incubated spacetech startup SatLeo Labs is set to launch TAPAS-1, its first commercial thermal-imaging payload, aboard SpaceX’s Falcon 9 as part of the Transporter-18 rideshare mission on October 1.
+
+Global Picks We Are Reading
+
+■ How AI is really changing jobs (
+
+FT )
+
+■ AI companies want to embed safety evaluators, but countries need their own (
+
+Rest of World )
+
+■ Black Twitter is thriving—on Threads (
+
+Wired )
 
 ============================================================
 
 SOURCE 2: The Hindu - Editorials
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Good foundation: on India’s strong industrial growth performance
+01 Oct 2026 | https://www.thehindu.com/opinion/editorial/good-foundation-on-indias-strong-industrial-growth-performance/article71524281.ece
+
+India’s industrial growth performance in August continued its strong streak since the beginning of the financial year, and sets the economy up well for the upcoming festive season. Growth in the Index of Industrial Production (IIP) quickened to 8% in August 2026, the second fastest that it has been since at least April 2024, which is the earliest month for which the new series of the IIP has growth data. The fastest growth in this period, of 8.8%, came as recently as June 2026. In fact, IIP growth in the April-August period of this financial year stood at a robust 6.8%, faster than that seen during the corresponding periods of the previous two years. The new series has an updated base year, more data sources, and improved methodology, so this growth performance is as accurate an indication of industrial growth as government data can provide. Moreover, apart from a few divergences, IIP data largely match the trends evident in the Index of Core Industries (ICI), the other government index that measures industrial performance. For example, the IIP shows that the electricity sector’s growth quickened to 12.3% in August 2026, while the ICI pegs it at 11.6%. Similarly, the construction goods sector saw growth come in at a relatively strong 6.4%, albeit slower than July’s 8%. In keeping with that, the ICI shows that the cement sector grew by a robust 12.5% in August, though this was slightly slower than the 12.7% in July. The older series of both indices often provided contrary indications, so this alignment is welcome.
+
+The IIP for August also lays out some core strengths that seem to be developing in the economy. The manufacturing sector grew by nearly 9% in August, and averaged 7.6% in the April-August 2026 period. Given that it had grown by about 4.2% in the first five months of the previous financial year, this acceleration is good to see, especially since it comes at a time when producers are facing several input-related pressures. At the start of this calendar year, manufacturing growth seemed to have been driven by a growth in exports. The August data show that this is now being supplemented by a recovery in domestic consumption. The growth in consumer durables stood at 11.1% in August. The consumer non-durables sector returned to growth, of a little more than 2%, after having contracted in July. The effect of the Goods and Services Tax rate cuts in September 2025 should have petered out by now, so this boost in durables production likely means that producers are expecting a strong festive season ahead. The third quarter of the financial year will therefore be crucial for the economy, but the groundwork seems to be in place for a relatively good one.
+
+Published - October 01, 2026 12:20 am IST
 
 ============================================================
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
-- I watch Air Crash Investigation: Flydubai passenger on how he took control of the jet
+- Smit Machchhar: Who is the Indian flydubai pilot hailed a ‘hero’
+  01 Oct 2026 | https://www.thehindu.com/news/international/smit-machchhar-flydubai-pilot-who-is-he/article71531666.ece
+  Flydubai plane FZ1073, piloted by Smit Machhar and his co-pilot, lost nearly 14,000 feet in less than 30 seconds.
+
+- India will always support Sri Lanka’s progress, prosperity: Jaishankar
+  01 Oct 2026 | https://www.thehindu.com/news/international/india-will-always-support-sri-lankas-progress-prosperity-jaishankar/article71531976.ece
+  Had a good discussion on strengthening our deep bonds of friendship, says Jaishankar after meeting Janatha Vimukthi Peramuna General Secretary Tilvin Silva
+
+- I watch Air Crash Investigation: Flydubai passenger on how he took control of the jet
   01 Oct 2026 | https://www.thehindu.com/news/international/air-crash-investigation-flydubaipassenger-control-of-flight/article71531468.ece
   The flydubai passenger, identified as Yaniv Hayun by Israeli media, claimed that he knew some basic concepts about flying from watching the show, Air Crash Investigation
+
+- Christa Pike botched execution: How lethal injection is used in death penalty
+  01 Oct 2026 | https://www.thehindu.com/news/international/christa-pike-botched-execution-how-lethal-injections-work/article71531575.ece
+  Christa Gail Pike, 50, survived Tennessee’s first attempted execution of a woman in about two centuries after two doses of pentobarbital were administered for the murder of classmate Colleen Slemmer in 1995
 
 - Flydubai incident: altercation, emergency landing and investigation | Explained
   01 Oct 2026 | https://www.thehindu.com/news/international/flydubai-incident-altercation-emergency-landing-and-investigation-explained/article71531532.ece
@@ -63,10 +173,6 @@ SOURCE 3: The Hindu - International (headlines + summary)
   01 Oct 2026 | https://www.thehindu.com/news/international/hegseth-announces-new-drone-command-cuts-to-20-of-generals-in-state-of-the-force-speech/article71531255.ece
   The Pentagon will also launch an effort to study the future of warfare that will be led in part by SpaceX CEO Elon Musk and former Republican House Speaker Newt Gingrich, Pete Hegseth said
 
-- U.S. Supreme Court clears way for Tennessee woman's imminent execution
-  01 Oct 2026 | https://www.thehindu.com/news/international/us-supreme-court-clears-way-for-tennessee-womans-imminent-execution/article71531199.ece
-  A decision by the U.S. Supreme Court late on September 30 cleared the way for Christa Pike to be given a lethal injection after hours of dramatic legal wrangling up and down the judicial system
-
 ============================================================
 
 SOURCE 4: Entrackr Weekly Funding Report
@@ -75,7 +181,42 @@ No new Weekly Funding Report since the last check. Most recent report: https://e
 ============================================================
 
 SOURCE 5: The Hindu - Business (headlines + summary)
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+[Economy] India's manufacturing sector growth hits seven-month high in Sept. 2026 on strong demand: PMI
+  01 Oct 2026 | https://www.thehindu.com/business/Economy/indias-manufacturing-sector-growth-september-2026-strong-demand-pmi/article71531702.ece
+  Strong demand across electronics, food, pharma, and textiles pushed total sales growth to its highest level since February. Moreover, export orders also expanded at a quicker pace from clients in Brazil, Europe, the UAE and the U.S.
+
+[Economy] GST mop-up grows 14.7% to over ₹2.03 lakh crore in September 2026
+  01 Oct 2026 | https://www.thehindu.com/business/Economy/gst-collections-september-2026/article71531826.ece
+  Goods and Services Tax (GST) refunds, however, slowed to ₹27,001 crore in September, a decline of 3% year on year
+
+[Economy] India's manufacturing sector activity growth falls to 5-year low in July amid challenging market condition: PMI
+  01 Oct 2026 | https://www.thehindu.com/business/Economy/indias-manufacturing-sector-activity-growth-falls-to-5-year-low-in-july-amid-challenging-market-condition-pmi/article71302500.ece
+  The HSBC India Manufacturing Purchasing Managers’ Index (PMI) is a gauge of overall conditions derived from measures of new orders, output, employment, supplier delivery times and stocks of purchases.
+
+[Technology] Google launches Gemini 4 Argon to a select group
+  01 Oct 2026 | https://www.thehindu.com/sci-tech/technology/google-restricts-access-to-new-ai-model-over-safety-concerns/article71530282.ece
+  Google said Argon is designed to refuse requests that could help carry out cyberattacks or develop chemical, biological or nuclear weapons
+
+[Industry] ATF prices increased by around ₹16 from ₹121 per litre to ₹137 per litre
+  01 Oct 2026 | https://www.thehindu.com/business/Industry/atf-prices-increased-by-around-16-from-121-per-litre-to-137-per-litre/article71531663.ece
+  The latest revision comes after ATF prices were raised by ₹6.28 per litre, or 5.46%, in September, following a ₹5 per litre increase in August
+
+[Economy] Productive discussion with USTR Greer on early conclusion of trade deal: Goyal
+  01 Oct 2026 | https://www.thehindu.com/business/Economy/productive-discussion-with-ustr-greer-on-early-conclusion-of-trade-deal-goyal/article71531414.ece
+  The meeting came on a day when Prime Minister Narendra Modi and US President Donald Trump held a telephone conversation to review progress in bilateral cooperation
+
+[Markets] Rupee trades in narrow range against U.S. dollar in early trade
+  01 Oct 2026 | https://www.thehindu.com/business/markets/rupee-trades-in-narrow-range-against-us-dollar-in-early-trade/article71531481.ece
+  However, RBI-backed dollar sales across spot and forward markets continue to cap losses, keeping the exchange rate below the 96.00 threshold
+
+[Markets] Stock markets decline in early trade on relentless foreign fund outflows
+  01 Oct 2026 | https://www.thehindu.com/business/markets/stock-markets-decline-in-early-trade-on-relentless-foreign-fund-outflows/article71531485.ece
+  The 30-share BSE Sensex declined 215 points to 72,257.30 in early trade. The 50-share NSE Nifty was down 107.25 points to 22,518.90
+
+[Business] Anup Kumar Saha to be next MD & CEO of Kotak Mahindra Bank; RBI clears appointment
+  01 Oct 2026 | https://www.thehindu.com/business/anup-kumar-saha-to-be-next-md-ceo-of-kotak-mahindra-bank-rbi-clears-appointment/article71531423.ece
+  Anup Saha, who joined the bank in January 2026, is currently Whole-time Director (Executive Director) of Kotak Mahindra Bank. He has overseen the Retail Bank, Data Analytics and Marketing functions since March
 
 ============================================================
 
@@ -86,14 +227,14 @@ SOURCE 6: Watchlist (headlines + summary)
 - Ex-NCA officer must repay £1.8m of Bitcoin stolen from criminals
   30 Sep 2026 | https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TRkxvaHJtSjNDZDlfcmFjUEswQ3VPQm1ZUjZvMjlxSzNmY1ZfQXNBQ1VZeUE5VDJzend6ZmJucWU2RV9YbVlLRmtMcHh5LWdVUU92bm9NdFJHUkU?oc=5
 
-- Citi raises bitcoin, ether forecasts on strong crypto activity
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMisAFBVV95cUxPVHIxQ2w0Yk5PREktR1RYTlhhbF9DY2tMNTZnVmk0V2dNUTQ3NlRnNHdFVGRZcUtsa2drNGdIZTlhcXFtaUJpaDIwQTJLeEFwaW1DUWhGTWxhMXdIblplX2NqcVIwdWlRdkphUmRhRzZvY3EtZ3pyRE1tM2MwV3dzSENXaHBzY2syUmtHWmF5Q1pwUHF1am05eFJMOF9zaXp4S1J6aldBVmN5OUNKMTUzTA?oc=5
+- Trump loses favor with crypto fans who call him out for cashing in
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQ1lMUGlaMEZRMWpjR0JocVBTd3pmRTB5RnBSc1U5R1c3cTVwQmJTRnd3akdULTNJR1M5ZDk4XzRld29wRnNMRnFUWmhZaXdUMzdReVZ1VjJsT01DMUs1UWNmTUIzaktNcm15YTZ5X21oNmprbW42dG1Fck1qQ29leEE0SnRqeG80cnJlVWdfZkJkTWV6eTNhTTQ0cTVHekJNTkZUTEM5c1ZpNlo5RkkyZDRNU2FTMW9H?oc=5
+
+- Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMivAFBVV95cUxNa1FvampNWHlZUk1sNFhKQW9VN0s5UUZlRjlMbmdBUkYyZkdmS0NLZUxOdS1hQ1lpWjV4ZEp4MlctZEt4bDctdU1HNGxZdmMxXzA3Y0xaOWx4SmVCR0o4ZUxUWkt0NmdsT2xFbGNNX3FnNGh3aGJqRHBzMVp1SER6a3lOMjhQU0YtWTJHRzQ3U0YxQUdzZEhOSWJXbkNhZFEtU0dYSFdMZm9Td2o0NjNpMlc3UlFzSXdDbGNTRg?oc=5
 
 - Which Major Cryptocurrency Has the Most Potential for Growth? Ranking Bitcoin, Ethereum, XRP, and Solana by Distance from Their All-Time Highs
   30 Sep 2026 | https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNzV6dG50TEhXNGtuemcwTVdNSGt5bHZTdEQtZ0xMY0w1SVRfcjJ2NnZhRWs5ZlFrWVVpcTdwZEN3eDB2OUVtaU1ndEVQMmxLVjJUeHZIOFJDSFZoRU8yY0NLSENQT0xNMXhWMnk1Rml2Yjh0dVVSSTl6U0Nvdl9QcHZBczZGRC1Nc0g5Z1RKaVBiV2ZXY3JLXzFQaUs4SlpxTkJ0LXVzbUxHSEk?oc=5
-
-- ‘I’m never selling’: I’m 47 and buy bitcoin with every dollar I earn. Am I crazy?
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRlZsOTNPZHZuNkY0Z0J0LVdjNXd2RVpQdUlHN0FRSHRqYlB4UXlKc1MxWlVrbEJoZFFtQ19pNkx4R1FxRjhUSjU2X0V6cmRveGZ6YlMxaURmajJjQ1NlQ21kNkhGcTRVZzhhZloxR05WclA1YjFZeEpQZU04T0J1M1NFV291LXFEaF9QX2dVVFhBZ2JVQU1tWUVSbnAwTnFWMUxVdHRuSktfYnh1WWJ3amJUcjhGcTlv?oc=5
 
 [Gold]
 
@@ -120,11 +261,11 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Infoedge/Naukri]
 
-- Gravity raises $15 mn in funding led by 3one4 Capital and Info Edge Ventures
-  30 Sep 2026 | https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdDFwMTNhNWEwNkVReFVFV2lXTlJBazc4RVpVcmEyQ0FHM1JuZFJFZnFRMHhSb2QzWTlPYkIxY0ZoamVwcXFTY0JKZ21uZGVqQ3NTQ01OUnZCcGo4YXEtMEF3ZEVUajJaYnR2cTBnRDRHMWZjTU9Kc0tVZnZTYjFMYzlxdTlhX0o1ZXR4ZHN1aWRkdnlDeENZNWRWWUpOaThGTEZPUnhmNG9JY1U4X05YV0E4YmxlcDlKZXlzSENQNGpZLW15YUJrOHRWLTYxdm43cWxpWVN6U19ZQdIB4AFBVV95cUxQYVVFS3dfMmRXMUlDa2tNQmpOLTdLQTBVUVU4bkgzcVRTT01uQ09Kb1J5Mm5vVFNHQUpTUzVocTZKRjJESlNxdGVJcElaLWRFQXBzWUVZbVVWeDd4YjVvVUhaWWRPRURRRVhHdG1rT29VMWxLUlVqZHlMV25oQ1pHV2tzNE5peGppQ24xbFY3dnhuN0pzSmowMkFtSGdRZEo4U0RUTUNqMFdVbEI3TGFYVnZSOXJrOU4zV2dyX191QVl4RTN1b19HQWR1VGJEbnZzc2NGVHNBVWFWaDh6eFN1Ug?oc=5
-
 - Gravity raises $15mn in funding led by 3one4 Capital, Info Edge Ventures
   01 Oct 2026 | https://news.google.com/rss/articles/CBMiuAFBVV95cUxNX2FWQk1xX1FveU5tT19uRTZBMGF6c1g4dy0wX2trVi1JUVBMNHN3RXV2MWJRMEdKdENmeXpQUjJsS25HbjBuNFBuWmNoM3FmZlBBakx6R0M5TkprekNjb0QwYlFUN3dIY01UX202ZG8xb2ZYZ2dzWldMclJCZ1ZPcWU4ckJ4OU11anhRcUcxcldfeHFzRVA5Wmo5RFhEX2ZtWU9kUGR0Qzk5SUpLSjQ4cERwci1CM29a?oc=5
+
+- Gravity raises $15 mn in funding led by 3one4 Capital and Info Edge Ventures
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdDFwMTNhNWEwNkVReFVFV2lXTlJBazc4RVpVcmEyQ0FHM1JuZFJFZnFRMHhSb2QzWTlPYkIxY0ZoamVwcXFTY0JKZ21uZGVqQ3NTQ01OUnZCcGo4YXEtMEF3ZEVUajJaYnR2cTBnRDRHMWZjTU9Kc0tVZnZTYjFMYzlxdTlhX0o1ZXR4ZHN1aWRkdnlDeENZNWRWWUpOaThGTEZPUnhmNG9JY1U4X05YV0E4YmxlcDlKZXlzSENQNGpZLW15YUJrOHRWLTYxdm43cWxpWVN6U19ZQdIB4AFBVV95cUxQYVVFS3dfMmRXMUlDa2tNQmpOLTdLQTBVUVU4bkgzcVRTT01uQ09Kb1J5Mm5vVFNHQUpTUzVocTZKRjJESlNxdGVJcElaLWRFQXBzWUVZbVVWeDd4YjVvVUhaWWRPRURRRVhHdG1rT29VMWxLUlVqZHlMV25oQ1pHV2tzNE5peGppQ24xbFY3dnhuN0pzSmowMkFtSGdRZEo4U0RUTUNqMFdVbEI3TGFYVnZSOXJrOU4zV2dyX191QVl4RTN1b19HQWR1VGJEbnZzc2NGVHNBVWFWaDh6eFN1Ug?oc=5
 
 - Gravity raises $15 mn led by 3one4 Capital, Info Edge Ventures
   30 Sep 2026 | https://news.google.com/rss/articles/CBMizgFBVV95cUxOWU1WV29wWTBJaklQSlZ0bDR1a2E4aXdIMWFCQVBxdEgzTzktWXBxV3dnNzIxTjRncFhXS1JFTUtLU3FObDVIVzVHQ1ltZ3otejNzdmVxUU9pZ1RrQl82Nm1ya0dGV0RnMnpocE55ZjRNUF84a2JEeEhwZ3JXV3BuY3BYM2xQVDBXbUVQOUxJOXJDTjNNNVltUEZkeWdBMF9JSk5TZHdzZjFGNUFYZkkwUFotZUlLM1NrS1BYWDFvbl9qRXp4aW03VlVVeHZ0QdIB0wFBVV95cUxOTTBocFhNQllySzVrbUY2MWUzcFRlQzFxdWV4SHdrLUFtZVB3b2tnQ25vN2hoWXdwRzNhd3NGdWxmZmVOSDluRkNubUR2ZXd2Vl83emJyMklmQ2x2enJDdGdSVmpnOTVqMnFLRWt1WF9BZWpVOGtwUzlOWXJmbFN3Y25TZWdKUUVQUnNRVFE2U3EzNk5vc1JsdGpBbmhncjliVklZVnpFWlJyekVab0xCc2I5ZFJ2Qnh4dC1ybm00TWE3M0ZuRDhUeWVKREJxS3ltbEtz?oc=5
@@ -135,6 +276,9 @@ SOURCE 6: Watchlist (headlines + summary)
 [Reliance Intelligence]
 
 [Jio Platforms]
+
+- Jio IPO: Reliance Jio’s Growth Story And Public Market Expectations
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMitgFBVV95cUxNQVBCQi0yRHpqOHdhRmd5a3BWaTBBOFl0eUlYR1pfcENvMEl4NGRmRnMwVFdfZDFpT21FRGZ4SEUweGcwZnJCWGxSbGFzbmtwcUYzbHBpeHJUUDhxZ2NhLWItTU0zaHFXd0Y2V0hnYnpyYlFIQ0ZJN0VCUWFLSVpNSmRkM2Ixclc1a09QQms2d1FqMi0xOHF2cTlmNU1PaERmeWRucU9FWF81SXVGemJndlRKbTVxQQ?oc=5
 
 [Flipkart]
 
@@ -147,8 +291,8 @@ SOURCE 6: Watchlist (headlines + summary)
 - Expired Food, Cobwebs, Cockroaches Found At Swiggy Instamart, Flipkart, Zepto Dark Stores In Hyderabad
   01 Oct 2026 | https://news.google.com/rss/articles/CBMizgFBVV95cUxNWjBTS0F3YVd0N3Y5Zk1EVFlmRXVBbWMtazBIeUhGbTNtelZXYUZMQnBjeDE4SHVaeFFiS3VBUHozSllDdzFndGdJanp2ZDFlZVQwUDRINlJsZkJCdm9oYU5Md191ZlExeVRsQnEzd20xWHExUk16Wk1mM0Q3MWlhM05oVjJhSE9zck9ZaVZxUDlfc0xERjhLMzRGTmwtbUFTamM2UmwzRktqVUoyLU1lV3FrTUc3cHE3M1dZSllWMWw4NU9ZSzVmRXdfOHZVZ9IB1gFBVV95cUxQREQ3alUwcFV6Y0lFR2VWR2Izc3l0aEdiSUtBOFFYSGgzYnZ5UkdSYUREckd0dXRQb3VXWVNfaV8wdmpGM21sZVFocGJYcHRPdVo4TTNWNkhmUFgySGZIYlQ5UHRYREVueUZad0JIR3JQZ2huQUlpU19BZzNzTFJaQjhHdEpSc0ZTSzFvX0FmR1Y0bFJMZXNyenZhVjc0Z1g0TE9ONVlMbVZYNFMxZjZqWHZJX24wLU9SNWtJOWFncFNiWndQOEdycVl6Y1FhQm5NY18xX1Bn?oc=5
 
-- McCann India gives Flipkart’s Big Billion Days a dose of luck and speed to new campaign
-  30 Sep 2026 | https://news.google.com/rss/articles/CBMixwFBVV95cUxOM3BidlYwcFdFd2xaUjhZQ3M4V1dBQjZKNWcxYkYwU0pzME1BUThKX1NJaHZtcHRmV1FJWDhiZE9YcmhxYm01dHVxTW5vMEwtZzlCYlQ1Q3RDWUF4WTV6SDhIUmtNbFRJNzM3LWpJc3FrSDNYTlA3NXFfR3ZObVY3aUZqbTlJa1FZcGxVQmhIZHRrNVZZYnZfNkpwMFdlamtmNmtsZWlXNkVuYWFiMlBUM2x5ZW9HR0dSeXc1SklBeXBVVTBEZDhN?oc=5
+- Piyush Mishra revisits his biggest regret in Flipkart’s new ad
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMirgFBVV95cUxOM2hWR2g5NGwxYmVfbWVFSHZ1Nk10SzRGQlFNTmN5RmZKYWVlYjh4dzFUbHN3c3dzVkg2Rl9lVzUwbndhRGxGVTFjWnRoUi02UEI3OURkejA0anNmTmZTcXZYZEVBLUNPZlFuOURLUnprMC1lTTU5ckg4cHJFNE1TYnRoRUJaN0h1Um9kdkpnUVk2aDdSVDAtVlluelZNelNPMVFFOEVIQ2dWVzl5b2c?oc=5
 
 [Flipkart Minutes]
 
@@ -163,11 +307,11 @@ SOURCE 6: Watchlist (headlines + summary)
 - FTC opens probe into AI giants including Anthropic and OpenAI
   30 Sep 2026 | https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdzYzcTVSY1JmRld3cFRBRlRaX0w0YVZHTjU3NWVvVG5BcXFIZGFwdXViLXBLNnhJQ3d0RS13T2VURWdNQ19ySkJuVXNlV2NWX0E3LUExYUZQaFBsTTVEaC1NMXJtR0RGYlllQVotQmM3VlRaVmd2em04YWdzTXFkMjhsUlQ0b1JlcVJBRENNRFFBT1NLcU00YUtqU0N5LUlJa0YxaEhzdU1mR1lkUTJ0MFhLMjA3a1FJVlQ5RXpMOEIxdw?oc=5
 
-- F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms
-  30 Sep 2026 | https://news.google.com/rss/articles/CBMijgFBVV95cUxQUXRlYTZFSW1aWEJENkZxOXVwNTY5RDJ0M0JhUURZY1R0VzcycXZaTG9JTTU4UHdINEk1M0NTMC1tX0FIdUI2WWJBSnBlVHA0RnAzdkJQS1lramV3SE1GSC1VN2x4eDE1LWpsVVlDaVNGdDBhZ3NWZWpFeVMzYlAxOEF1cVlGUWxEc3JaMUhR?oc=5
-
 - FTC is investigating OpenAI, Anthropic and other AI companies over product risks
   30 Sep 2026 | https://news.google.com/rss/articles/CBMidEFVX3lxTFBaX3E1SXJOeEJHVWxxNEpSUDZxRmRJZFBTQ3hDU1R2Z3FLT0hOREVTZEQ4eXNQdmRKNkQwMExCXzA0blJRRE5kb3oxb2haU1h0eGFyQ3NrOGxJSjFNYzBIVU1DU1Z1SEhkWExyelZIeHh5amE40gF6QVVfeXFMUEI1a0NEa0xqMTNScWtrWXZjS3ppbE5xVHQyWXJjVWJMQUZDby1HNlE2bG1DNUtFOFgzdDlDXy00QW1VSHJ1RDFaZ1lnUE50b2VSdjI1YlJ6LTdMUktDaWtTdm9JUG5PbDF1dFVXOUNQSFhndHpmWjlMLVE?oc=5
+
+- F.T.C. Investigates OpenAI and Anthropic Over Potential Consumer Harms
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMijgFBVV95cUxQUXRlYTZFSW1aWEJENkZxOXVwNTY5RDJ0M0JhUURZY1R0VzcycXZaTG9JTTU4UHdINEk1M0NTMC1tX0FIdUI2WWJBSnBlVHA0RnAzdkJQS1lramV3SE1GSC1VN2x4eDE1LWpsVVlDaVNGdDBhZ3NWZWpFeVMzYlAxOEF1cVlGUWxEc3JaMUhR?oc=5
 
 ============================================================
 
@@ -175,54 +319,45 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [[Top Gainers]]
 
-[Sterlite Technologies Ltd (STLTECH, +4.96%)]
+[Schneider Electric Infrastructure Ltd (SCHNEIDER, +6.20%)]
 
-- Sterlite Technologies stock up 5%, bags $1.2 billion hyperscale order
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMiyAFBVV95cUxOQW9TVW5Wc1VwUmlmZGd4WkZaNGFMOEwyeXFTdUNNcUZBUU9VVm9HVUM0TEk0OHZHVERMbU9QbjBWQnpUb05LZUxtcFQzdmdwQk9EdV9kRDVMby1XLS11MEJadUdIcDE2M2pQRENDZlBldmVCOVlRUm5ac1lZTzBTU2N6MlJ4VGxmNTZPeUg3bFFfMFZMR1ptX3puWVcyZ1loOXZXMlBRNTBEMXJoVzFzY2JxSkhMQXdfeFNVZkFUNnBHeElIdVdOQQ?oc=5
-
-- Sterlite Technologies Signs $1.2 Billion Pact; Shares Rise 4.93%
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMikgFBVV95cUxPaTJfbEs2aVFrTzFZVnVKOFdlQUc5bEJKUFF1S08zZVlueFlkaWVjY0podGV3ZDZPeVg2TXZSNUV1Wi16TTd6d3B6b1FPckpHSkkwSkhaZHMzMnZjLVk1WE5wRDNyT1B2WDZnZF9EQXdzRFRDejdMSVpEeUwtRnE3aTN1eVh1LTctVVJSTGY1TTR0Zw?oc=5
-
-- Sterlite Tech shares extend 2026 gains to 800% after $1.2 billion long-term supply agreement
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMivwFBVV95cUxQdndJa055UTJ5aEVJV0pIRDFabmNoX3dYUGwxLTE1QlJLTDJTa0FYMUhPVEp5QVhHYldvY0MzZnhoa3dXdHVtZjBTQ2NQYWtlbDR4VW5zUXIxZU8xNEp1UTRTT2VKeVU2WmE0WjhJNXgyU0xaWW9HRUoxNHdlYlZscmlHRTl6S3lQM1VkZHZSSGZLal9XOTZWWkh2RmVWdlYxV2tXTURKVFRycjc2bnhHR2lsc1E2S2VXWkZpSi1qUdIBxAFBVV95cUxQTzFkSlBpdXBhSlNvcUNDSHp5cUR5T0RvZzNzd2ZSX2Y4Rkp5aFdCQ0d4SGttV0lNTEtrX3k0SW9DNmNKeC1CRURCN2poY2Z3Tm96UDEtWDUtV0c3YkxpSVdWZk1ZVWFFSVZ5YVFSamplQWljUlhiMkpxeFFsQjk1OTBSOGhCc3FQTW90Uks4VHBvNXBxaFlkdTJveGcxbnhxRDctdl9GM3p4bVd5bk5rdnMzdW1CbjBtOE5vbmxQN0NHODJU?oc=5
-
-[Schneider Electric Infrastructure Ltd (SCHNEIDER, +4.86%)]
+- Schneider Electric Infrastructure leads the gainers of group A on BSE
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMiugFBVV95cUxNclpYNVllVnVhV0l2Yk01djE2U0VJWW5CTElQQWFvTHdpN3RrYnp6dG5KZzJVUm1pc01wUURpemthNFdlbTctWjloSzJydm9lVGlRaG91dmhXWjVKaWs1cEhjVXlmMlJEMjYyUTFMZTNlejZfQkN2eXMtOGltUTA4LTJ5Mk1fcHU0SVVUSlBPbWxFVXBCcTBfTEdNUmF5d2tzSC1sT0ZYLVhCRWprT3VVMHdGbFUwV0FtSFE?oc=5
 
 - Schneider Electric partners with Networks for Humanity to advance India’s Digital Energy Grid
   30 Sep 2026 | https://news.google.com/rss/articles/CBMiugFBVV95cUxOTlhBOUR3YXJjR3g5NkQybzVDeFliR0N6el9pb0tPVXlaQXFvQTJnN1ZhUVpyWE1ONWZhUG5peUx5YVVlRC0xZTZTRWxyanlPeXJVRnRMWjlYeTFSUTlSaERIdDZIT1ZCY3NLSU5aQ1Z4UVZUQTVMSzhsTUJ5S3d0OXlxRHFUd0dwWWNwaXZOUUYyTlhVZHRyQlF5dUFoMWtrYjlKZ2I0cG5EckQ5NnZpTmRaNGM0aUFOMUHSAb8BQVVfeXFMUG41Wm51SEkxMEZuMjVCeGJIS3JxUFJHWi12TmFKMzFJMk1CdC1WcGY1eTAwTjg4d2U0NFluM2QtU2JMYXJvc0NkWTBlaDBlMWFSaG54WV9ja2twaUJpUzlUbDVxN0pwd196YjF1SVFqS3gtTE52dVBPdElwaGZMWEdmb1ExQ1pZWG5FU3Uzd01BbXhGQ1djUVc2VXVrUTgzODZ6SjhkLVhtb0ZqR3RFamNIM2VSdHBzZTJ4Q19QS0U?oc=5
 
-[Transformers Rectifiers India Ltd (TARIL, +4.54%)]
+[Idbi Bank Ltd (IDBI, +5.96%)]
 
-[Hfcl Ltd (HFCL, +4.37%)]
+- IDBI Bank Clarifies Disinvestment Status Amid Market Speculation
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMiygFBVV95cUxOSTRPV1UycEJmSzRfSS1BVzdpdFVRNDdPRjdsM2hpd3MxTWU2UTBIbGFDZjVCTlc1aGlUMWlSODROYUR2a2VVdWdYQ1QyVVFreHZHMm1BTmdDZVNYdjRuS0dYYm5WUDg5X3hNSC1uQ0FrWjlTQWNlcDNySmo2YlJVMUZZano1Vzd3T0lVZ2xWM2hja2VQQ1NsbTVtLXIxNTJnQTBkNHlDQXdLVVBGVjVzcENvaWhWcW13TUVxRDd0R1VkQ0tiZ2hrblp3?oc=5
 
-- Multibagger stock: HFCL shares hit 5% upper circuit for 3rd straight day
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMi0wFBVV95cUxNV2VWeDVRaGJ5blk3N2p5djVtZ3hFSXZ6S3JsRmphYTdhX2NScDI2ajBpQ3dhazB4OVRJd2JoRVh4VjAxLTd6ZFpSUW9Wa1gwUFlNLUlJVk5rdW9wRFlhalFFNkFoM0hFU29GV1FoeWNvMllCMEhweVBQWTZVR3IzNXNrakJfRVFvMWtWX29kRFY1VmI2MjBDUnJXT0xBM2N3TEV1MlF1aDVTMFZ3cVhuOWxla0h3SVVFNkpJS3dzU1pReGZiTkdUWXhXVUtSWC1fQ0Zj0gHYAUFVX3lxTE5kcV9RU2VUb0VydVMxSTZiZjdzYUYzVGJudXpFY09uTDRZYU9zbENRV0FDU1I3WE9vS2Z6eWlwcGJNS3ozVGNPRVFUQ2dlM0o1bkQwal9QbmVXZ1VWSm1wejdZSU4xTkpGeHVEd3o4MkFxbGs4QjBhcHNOSVlTcVJfei1pd3hqRkctZjV4Z1dWQ0ZNQllEblZqMEttaGNaRDQxaUdOSllCSmRqQzVlV3otMkdwWTN6amItbnlReENuRWtwazZyaG1zbUlTNkNXVEVaRE44Y2RjQQ?oc=5
+[Transformers Rectifiers India Ltd (TARIL, +5.15%)]
 
-- Price Band Hitters, October 1, 2026 at 12:00 PM IST: Hero Motors, HFCL, STL Technologies
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMidkFVX3lxTE56YUx1bFBaWGR2eGkwS3lTclR6aWJ2c2J2MzlFZUk0eUtkM0w4Y29EMDliZ3h3dDd5Zm96U2xIUHlndFR3bVRwLWhvM01uTGZkM3ZQeFVPQVBYOVNCeVE2M3lrTktJMmlyZjhzN056WWZsWWpyR2c?oc=5
+[Welspun Living Ltd (WELSPUNLIV, +5.13%)]
 
-- HFCL reschedules Nivetti stake sale completion to Sep 30, 2026
-  30 Sep 2026 | https://news.google.com/rss/articles/CBMiugFBVV95cUxQOE1qemNnQTBvRTQ3Y1duQ20wVl9mcHlsWDRBa3htdHRkRWdFaUdIYlRGdDYtNXlFTHRGR2dab2FVOHMyRjlvOWF3YTBPemtqWmNmaWxFM191Mzc2UnRIaV9peTlKMjVVQWhGVlFkNlhDYUFYQ083MWFmTXg4X1o5S2ZhWVJMTXJ2dEZ3Y1ZSMjNuUlc1V3hpMmRPRHBRVDIwX2xKMXJrOUZOYUVRQV9rTHltQl9NT3V6Vmc?oc=5
+- Welspun Living zooms 112% in 6 months, hits new high; what's driving stock?
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd01lSF94Tm95cGRCQ1MwNWdwLUtoaWE5RGMzRDlod3lOTjNUekpxWFdJdlo1aUFFVzRZRElFcjhDalhOTmxaVFJkSGxRd2lTNGFpRHNfa216Rk42bVE2LW40dzVneWVYS3o1Ym9kWGpPcGFtN3pSeUM4MWIyTFpzVmVwSFV5ZmFXcUtHbTMwYWk2TzlnMnhUdmlXMXk0eHpoVUdfSEV0MEJyRm5nTEdwUmFvUmo2TEFfVkEzaHVGQUtWOGF5Zm1BU3NaeUVPVklQR3JGRtIB2gFBVV95cUxPUngtb0wycE1rTUgzT0p2bEQ5a1NSdngxQVVCckNwVTFEZnVRMW55X09aTlZxNWdDVmdMMnhBYlJzc0tCME1HQm5ydWJUXzhRTU90TjRFb3kwX081YzlKcC1LeGFJMVpGa0ptQVBRQjRKTThnSG9rZGdmcmszcGhzZzZOaXNYczVWdWJHNkE4MF96dS1lS0xOdTJxTGQyelVlTmppeENiVEljQ2lGTFhhMEZOUHJWUVRDd2NkN1hsVVNyRlRvYU5zODhCZUFWZk5vTjRiMk05QTM2dw?oc=5
 
-[Inox India Ltd (INOXINDIA, +4.12%)]
+[Inox India Ltd (INOXINDIA, +5.05%)]
 
 - Doraemon Makes India Theatrical Debut as PVR INOX Pictures Sets October 2 Release
   30 Sep 2026 | https://news.google.com/rss/articles/CBMipAFBVV95cUxNUGJFUWVKdjZWbmpDQ3lRYnFCeWtKUXI4aFNkWjBHaHBIUHFPNDB1WHZyWGhCQjRkUlVvM0RkbG5yR0RhT3EzVWptSjNmMkFuOGVTOE40elh3TFgtcE9IWHZhRnl5eXhMQTNNSS1vbm5PQXpraXhxekZ1VmlNYWY3cXZpaEFJYi11UzJBNWNVUlR2SzJSc3ZrcHY2dGxwclQwVEp1YQ?oc=5
 
 [[Top Losers]]
 
-[Pb Fintech Ltd (POLICYBZR, -8.94%)]
+[Pb Fintech Ltd (POLICYBZR, -7.89%)]
+
+- PB Fintech wipes out five years of gains in six sessions, slips below IPO price - CNBC TV18
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMitgFBVV95cUxNWFFEQzlxX3NIdUZXN0RfdFRtckx4YWtPQUh6LUVxdlFmRWVsMEduNmV6bmQ1dXRiZE9BTHNlSUl6NEtheDVVazEyTGZXNGdWaFV2Q0o2WlBRWWlEOWxQNXhMdUpLbks1dzhkeDc3VDQtQmlsdGEzNUJrNE1YbnZ5VTk1aU1fR3hUc2FsZmpHTXhvdWVzYVZnTHViQnpzSDFtY2Nfc1k3Ul8zYmtWZEVLeVdIbXVOdw?oc=5
 
 - What PB Fintech Investors Were Actually Arguing About
   01 Oct 2026 | https://news.google.com/rss/articles/CBMizAFBVV95cUxQZngzQ1V6NFY1bjFVX3FTbHh4MDl4MVNLWl9zNl9NbDZ0RUY1YmtRMkVoczlXMWMxeXMzQk9EWUZFb2RfSjB1bWs4MG56STJ1alhubFowVFBmMDdtMW9oZDRWUEVxZUlTV21LSUhwdk0zdFFFOUFTTmI1Y0pOS1JoamJJNHBJa2xtbFhiMjdqblhvREhvMzVKYzJLZ0hOTGR4N3VHdWt2MUFJbUExN0QtN3lkZTVtNUotdThac1hOVUQ3N1h2Z1VCeWtra2jSAdIBQVVfeXFMTzVaV0N2ckgxNkszak5CamJMakpYaWY5RUVNNHVkRHFOcXdZRmpocUxxbU9zeDJfUUsxekNPQjVrYm9IaG5oS1BWcERqeUpGeHo1LUdrYnhickVzaVgxYjhMYkpwUl9BcU1hdVMwQVZiSmVaVUtNMmZrUno3VEJBT3FZX0NJdXVzeE9rLVFrN2hKdG1RSVdIcktLZno0UjVoZXE5ZU0zRGtreFJ3Z1pnMlpKam1kNkduM203aTRpaHFwbm9WUDdSMXNtZzhkaDR0TkdB?oc=5
 
-- Mid, Smallcaps In Deep Red: PB Fintech, MRPL, Chennai Petro, IFCI, Others Lead Broader Market Pullback
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVkRUcHZKOGs4cURNcXNLSno3RlRscV80NFZhUXJFMnpadWVzMzNGc1hvcTJwWTk3eFZ6X2JXWnMxb01PNzVXakhLOXFNUHdkMHBGS0ZkaUJzbktBbGpMdGlNb3ljYkg1QWZEenhvcGV5Yzhrdm1fb0NhYUVTZ3MzZkdXekFDdW1XV3hEZmVIMkRONVF4YV9XYi1QT1ZTeEU3b3BjWG1pckl1SGVWalJJWFdZb1hmc21nb1V5N3VPV1VnNXdQdGRINXUwSFo2Yl9CT1HSAdoBQVVfeXFMUGtQY3Q5WWRTbWFRZFRuMDBBSmFEUW1qVXJfSFIySC1aRDRKYWJJWUlGNjc0b0hPbUZFQjF2amJXUVY4ZklmcnZBNjZ6a1VYZVJ3Ty02cWk5elE2YS1OM25KQmV1WklGaWVsb1R2SjByX1dPZmFISGdjajVlNjZZbUgzS1JaMko0eVVGQzJRRzMyQ1JvekJQbjZ1NzF3VWNyZmxfSzNFdi1VQ2ZlLU1SczE4RVI2aFhWcmpIcGk1X0lPLUFFejNQaElMSHRjM3hTTGJkSzEyNW01eXc?oc=5
+- PB Fintech shares crash 50% from peak, fall below 2021 IPO price. More downside coming?
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMi7gFBVV95cUxORXRyTll2MFVDU211M3pNQVh0UXFwR3k1bEFWTS1RWjRMb1hsYnlWbTVTTlF3TldrRHFaV25nNzNZS0d6bDl0NUhPa2NlcURvbTJsc29aUWRBeW5ZUlo0U1JsMEZuMnVIQjZEZ2F1b3h5QUoteTRycXFPQ0Jqd0ExMm1CVXFkU2EtZ3NzVlp5V2xJQ0Q3Ni1mdHpPdGdfZjczN1hrRFNoU2hoYzZvNjhOdExYMUNLN3NtRmZFTkY5XzdBVzVjNE5lS2UtNDhnMGxUZ2I3aHFGdXJXSGhMcEFzS3BfZ0tjNXVxZFc3czRn0gHzAUFVX3lxTFBDa2t6VkdHXzZmN1U1RU9Dc3dHd2hxOWxtRzNFOFpfYi1DZ3JxZ01yLVozLXpQdUlrTDNCZzg5MmVLVUtrVk15ZmNEQm5aSm9QempjS01qOXJsTER0alQ0WHEwUEgxOThrajFRaTI5X0tkQVJLdXZKejA5My1iVURXeUt1VTYtMm1MUFpjYWx0MnJRQ09kN0lXX1NsUVdrdi1Ud19aUUp6bFloUmF2S0ZGOVhzOVhSWkZxSS1IWno1S1lmR0I0czJNeTlkWXVPNkJSQTJ0ekhIdVU2b2NVTXVnbDBZYTZxdkhfRVpjNi1fNVp0SQ?oc=5
 
-- At 52-week lows: RIL, ONGC, M&M, Airtel, PB Fintech, 69 other BSE500 stocks
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMi4gFBVV95cUxNUHVwMEh6V3FuMXpNX0dpOU8tOC1UTG5FNkJMZE5yWmJnRFRScGZsNFRJYm1IbHVIQlVTaFRHRmZ4QkR1Z3ItLWFQaU5CRTFWWUZPclRXcGxkOW5NWk9VVUpfdFZVeVpFOW5sUDFDS2ZKdGhQbXBJZVIzZ3NsN2hIazFrV284TE5aUmJNYlc0RU93ejRWN2htTS16NFp5S1RrWDVveG40ZktUMnc0YkljU1pWLW1VOUNLZ1NHX1FXbEkzaHJzSTRiUFhfR283dXZzelhNeWw3MUFhMHFpbzNqdEJR0gHnAUFVX3lxTE5lV1ZodjJXX1BiUlhHU2hsaTZqbVNROGU3N2VNcXRkRHhVcm0yYUt4UmV3T0xQbWw0U3UwemNzR01jb2xSUmdmWFhfc1YxNnd5eXc3dXVTdk8tUDJQUEdJTWNFZkxnVlJ1cGdra1B2bnRzNFdOYzVMdGhyMjdjRzZBNGphSDBmNzU5ZnMzd3BNaG0yajBzN3BlbUo0X1hVYmg1SmpuNW9HVlhyV29OeVFHMWduRGdiNnJNUFBScDN2V2stNElHMkdUTWUxdGVpekFFakIxZkFZSTRpS1VoVU04YV9BNjhXQQ?oc=5
-
-[Bajaj Auto Ltd (BAJAJ-AUTO, -8.19%)]
+[Bajaj Auto Ltd (BAJAJ-AUTO, -7.62%)]
 
 - Shares of Indian auto companies slide as sales soften in September, after hitting record highs in August
   01 Oct 2026 | https://news.google.com/rss/articles/CBMiggFBVV95cUxQSTVjOUhMekxrR0NhRnlEZU1nRVo4aGhkbFlXalhvUF90Q25PcmJCYzlpb3RnSE9GLXYtTjgwcVRpNFJsSE1fWkZUTnlMcEREMTZhZ0ZVdVRXai1FRUg5b1Z0TjhyMjFLVDhmcXlXb1RUTHNZb2FmT2tRSXp0bEU5MDl30gGHAUFVX3lxTE1QdF9TckJJUVFhYXBiUndWejdIaU16NVQxaEZCZ09QU2RSTkxtVzdVLVZJZlprV1VoX0JlUnZrOXNHOG1HMXQzSEliWEtRMVN4cDU0OG5wenptcDItaXF3ZzdmbHI2R0lSMWxkV3U3UHJTN3NCQlpjVWtfZklSenlOQi1MNTFHYw?oc=5
@@ -233,23 +368,17 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 - Bajaj Auto - September 2026 Total Sales Up 5% To 538,443 Units
   01 Oct 2026 | https://news.google.com/rss/articles/CBMiyAFBVV95cUxObWJoM2NVYkgyTEo4Rm9ER0t0VndZS003UWFKSGlkODUxbmNTZjVnSHBSdzFaaVJMLUNXTFlMX2RZUHhOYUp6QWFmMHJLdGdsMUNZX0ZpS1NqelJ6dERVNHhGVkh5Yk9UdExESFpXbTBsMkl4bVZ6UkpXRklHcU9oVUZPUVdHMUp3bGxoMHR1bjQ2QmQteUVnOTZ6Z1lWTDFkdWlPRnlkQllkejVPOV95Z3NBemdKRWZ2dTRVYUJaUzVSZGN5YzhhdQ?oc=5
 
-[Chennai Petroleum Corporation Ltd (CHENNPETRO, -6.81%)]
+[Chennai Petroleum Corporation Ltd (CHENNPETRO, -6.64%)]
 
-[Welspun Corp Ltd (WELCORP, -6.28%)]
+[Sansera Engineering Ltd (SANSERA, -6.14%)]
 
-- Welspun Corp: What could drive the stock over the next 5 years
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMiugFBVV95cUxQUHZic01iMWxvdlpjN2MtTDFHUHdINEx2OFo2MWdVSFNHWXU0N1BmSHdDQjExZkI0Z1JYZTB2dFkyUExEYklCdzh4YlpMaTBsb29iU3dmRlB3azNaVTFHNExZWGFuamxxMC1Pcm9YLW9aaWo2cGdsTzlETWpFLUN5SWNVTU9WUXJ2T2RvWVBrakF2YUt0TUV4UHpsVFJkUGlYUFRhbFZXelE2cUxMa1Z0RWMzM1dfXzFGVEE?oc=5
+[Ksb Ltd (KSB, -5.75%)]
 
-- Welspun Corp: What could drive the stock over the next 5 years
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMiywFBVV95cUxPS2l1NFZjV2xyWTJ4RW8tc28xLWF4QVBiYzhVY0tqZ1F1eFItLUtad29iS1prdE9ZZDdTaDJwMllfR3U0VEhxckxEcVE2WURkUlhwS0dPRUJNUXZ3dnB2RlNtVVZOb2pTVTdHUU5BVHc5a2hxYnRTbGk3S1A4NHlVRXNjWm5jdVl1QW5GVTRadHBqaFkwNW14VFhGOE42SmprdE9UcE5DdHVxMmZNYnRveEJMbFZPT0ZXUlFJbjdUamFrWXROa19TVTdkTdIB0AFBVV95cUxQa3FIOXNWNGs4VGVPcXBaaWUtZVdvUkdkeFhwRlFGRFFROFZDa0lSTFl0NjV4NE8tTjlXT0VxeW9sb3FEOFM1bmhqUFE2WWlRWU1TOHo3a29Ka1FuWHcta1ZVb2NyTVlGMElnY3BGRDZkLTBucVRFQjREMHdxcmFQVVVCcFhrc1BKdC1XR0FZV2dnMVkyTklTUkhVSU1tX0o0RDRrbkJtZ05raUhYRGlqeUVBMzVfMW80cmZsbzduR2JCS2t6RVFYSzJLeGNseGp2?oc=5
+- KSB Share Price Update: Today’s Fall, Fundamentals, Peers
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMibEFVX3lxTE1DSzkxaW9TRmh1VUVBaGNnZldQaDN6QnNTUlhuM1JrR3BGd2FrYjV3VkZRTkNJenBBWGJDV2VNUEpSUXg2U2FlaWU4YXJETnpGaVVPNjVEeEpqXy0zemxUMlZvYV9zQnNoZ1haZA?oc=5
 
-- Welspun Corp Extends Mauritius Arm Stake Acquisition Deadline to March 31, 2027
-  30 Sep 2026 | https://news.google.com/rss/articles/CBMipwFBVV95cUxQa005d0hUb1dfcE9ISWRyRnhmZnpsVXYtRF8tRkt4a1ljcFRFQVlyUVpobjlYdjIwUW8td1pJdHR2bVFYNFdveEtCSzJfUjZjS3dyYzk0VGw0LVRCLURuTWpaaGFNRFNrWmV5bVBoV1ppS2JvWjdCdXdFNzNaUEZWYjdxcG9ZMDVUeXFsRUozUTA4ZHY3WmRleF9wQWdFeTFveUUxOGMzaw?oc=5
+- KSB stock after-hours: prior close at EUR 830.50
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNEpmV2JDTTVpWkpDZjRsUldPVkZ5S1lHdldvQWpqLTBhU0NvZWp2N2paSjBuUWFfTVVwbnFaSmZhQS1XTUxrWkoyNENzT21mOU5aMEg5VjdEUVp1Y0tYSmZRNm5YRFlMUy1EQjVNVGRWZ1pOMFNTazRhbkhNNlpDVWhnUFZaQVVvemE1bkFPMEl4bG5uZjJjZHJZcHV5ajM5UGU0TnNTVWJwdw?oc=5
 
-[Ifci Ltd (IFCI, -6.25%)]
-
-- Mid, Smallcaps In Deep Red: PB Fintech, MRPL, Chennai Petro, IFCI, Others Lead Broader Market Pullback
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVkRUcHZKOGs4cURNcXNLSno3RlRscV80NFZhUXJFMnpadWVzMzNGc1hvcTJwWTk3eFZ6X2JXWnMxb01PNzVXakhLOXFNUHdkMHBGS0ZkaUJzbktBbGpMdGlNb3ljYkg1QWZEenhvcGV5Yzhrdm1fb0NhYUVTZ3MzZkdXekFDdW1XV3hEZmVIMkRONVF4YV9XYi1QT1ZTeEU3b3BjWG1pckl1SGVWalJJWFdZb1hmc21nb1V5N3VPV1VnNXdQdGRINXUwSFo2Yl9CT1HSAdoBQVVfeXFMUGtQY3Q5WWRTbWFRZFRuMDBBSmFEUW1qVXJfSFIySC1aRDRKYWJJWUlGNjc0b0hPbUZFQjF2amJXUVY4ZklmcnZBNjZ6a1VYZVJ3Ty02cWk5elE2YS1OM25KQmV1WklGaWVsb1R2SjByX1dPZmFISGdjajVlNjZZbUgzS1JaMko0eVVGQzJRRzMyQ1JvekJQbjZ1NzF3VWNyZmxfSzNFdi1VQ2ZlLU1SczE4RVI2aFhWcmpIcGk1X0lPLUFFejNQaElMSHRjM3hTTGJkSzEyNW01eXc?oc=5
-
-- “Sanctity Is The Reward Of Legality”: Supreme Court Invalidates IFCI’s SARFAESI Auction Of Ooty Resort...
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMiuAFBVV95cUxQa2k4YXJGeHA5TF9jTi14T0pCdWJzTzBqYm93YzNQa1RJaU9hOWZXZkxIODBWS3pnMXVOZmpGUGNaZzB3MUNiQXNyS3NtWVlEWWQ1RFhZSElzUWZucGF1dWQtWW1wWk9FS0VoazZZWVZ4RVA2RWFfWnpjVURGR0RMTVNQQW02N2tzajJtY3E0Qkt6M3ZkaWR5WHFBM0VKbTFfZDVWZkhkekVNdU1pdG9wLXBSSkg1SDc20gG-AUFVX3lxTFB0bkd3ZXR4SERVTU44dFNlcXZfMjc4X2doOV9zSlAzX2sxdFlhMkkxQjViWG4tQkpiVlZFa3N2SWdOWXRUUmlva2xSVDJRQmdObDlIczRheXUzcmVpemdFQmhtX2c1aDEwT1Vrem5jVE5QNVJ0QVZmajI3ZkxPM2p3NE9iRkg3YjhWTmt6OC1zYnBRNXRlZEk3Rkt2ZVdsTUZSc1NQME5HdkFoSDVCbXQ1UFg0NTd1OExEc1U1cFE?oc=5
+- KSB stock trades at EUR 832.00 as order intake rises 8.80 percent
+  30 Sep 2026 | https://news.google.com/rss/articles/CBMixwFBVV95cUxQbXJvNFFNQ29NSFFEOU16TXpLSTdYOTlkUHZGSDFwREowRXdPVGRnbE54YkpmemlPMVdjMEJHLUZYQktrMHBtVG9EV0lscG5aZHZXbVU3TjVPSjJ2clY4UzVuRE1uWnRUUzlWSmNrajhQdDczTnE2Yno2ZUtDWFktSjdPd05oLXFyNDl1WGlzMlRaMDRjUEFEVEdxUUlXTEpqU1dnVmVMVDg0VTRPMXVKV1ZYZGc3QlR5WmwzRjFJNzFabVEwYzE4?oc=5
