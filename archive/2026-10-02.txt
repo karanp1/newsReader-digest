@@ -4,12 +4,121 @@ Nifty PE Ratio | 19.19 | 1 Oct 2026 | https://nifty-pe-ratio.com/
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+URL: https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/it-fresher-hiring-rebounds-agranis-rs-800-crore-raise/articleshow/134630053.cms
+
+Happy Friday! After nearly two years of subdued fresher intake, hiring is picking up across the technology and IT industry. This and more in today’s ETtech Morning Dispatch.
+
+Also in the letter:
+
+■ Moneyview's listing pop
+
+■ UPI transaction volume dips
+
+■ RDI funding pause
+
+IT sector sees an uptick in fresher hiring after two years of slowdown
+
+India’s $300 billion technology and
+
+IT services industry is seeing a revival in fresher onboarding after nearly two years of subdued hiring.
+
+Even so, entry-level recruitment remains below mid-level hiring as demand for experienced AI talent stays strong.
+
+Number wise: Fresher hiring, which fell to a record low of around 110,000 in FY26, is expected to rise to 115,000-135,000 in the current fiscal year, according to recruitment firm Quess Group. That implies a 4.5-22.7% increase.
+
+The decline had been steady:
+
+FY22: 380,000
+
+FY23: 250,000
+
+FY24: 155,000
+
+FY25: 125,000
+
+FY26: ~110,000
+
+A rebound began in the June quarter, with TCS, Infosys and HCLTech together recruiting about 19,000 entry-level staff, Nasscom said in its September quarter report covering 29 IT services firms.
+
+Higher bar for freshers: Experts told us the bar for entry-level talent has risen. Firms increasingly want specialised capabilities in AI, cloud, data and cybersecurity to improve revenue visibility, meet client demands and ensure deployment readiness with limited ramp-up time.
+
+Agrani in talks to raise Rs 800-850 crore from Samsung, 360 One, Peak XV
+
+Dheemanth Nagaraj, Ashok Jagannathan, Rajesh Vivekanandham and Srikanth Nimmagadda, cofounders, Agrani Labs
+
+Bengaluru-based semiconductor startup Agrani Labs
+
+is in talks to raise Rs 800-850 crore in a funding round that could include South Korean conglomerate Samsung, 360 One Asset Management and existing backer Peak XV Partners, people aware of the matter told ET.
+
+The company is also looking to tap around Rs 120-130 crore under the government-backed Research, Development and Innovation (RDI) scheme as part of the fundraise.
+
+Deal details:
+
+Peak XV is likely to invest about Rs 180-200 crore; the exact amounts for Samsung and 360 One could not be immediately confirmed.
+
+The round is expected to value Agrani at approximately Rs 2,400-2,500 crore on a post-money basis.
+
+If completed, this would be among the largest early-stage fundraises by an Indian semiconductor startup.
+
+What Agrani is building: Founded by former Intel and AMD executives Dheemanth Nagaraj, Ashok Jagannathan, Srikanth Nimmagadda and Rajesh Vivekanandham, Agrani is developing high-performance AI GPUs for data centres along with a full software stack. The startup emerged from stealth earlier this year after an $8 million seed round led by Peak XV.
+
+Also Read: Intel-AMD veterans' Agrani Labs scouts for $100 million to build AI chip
+
+Moneyview closes 67% above IPO price, boosts paper gains for Ribbit, Accel
+
+Puneet Agarwal, cofounder and CEO, Moneyview
+
+Digital lender Moneyview’s shares
+
+closed 67% above their IPO (initial public offering) price on Thursday, sharply increasing the paper value of the residual holdings of early investors Ribbit Capital, Accel, and Tiger Global, who partially monetised their stake through the public offering.
+
+IPO proceeds: Ribbit, Accel and Tiger Global realised about Rs 39 crore, Rs 83 crore and Rs 52 crore, respectively, by selling part of their holdings through the IPO’s OFS (offer for sale) portion at Rs 34 apiece.
+
+Investor gains: Ribbit’s remaining stake was worth about Rs 826 crore at the closing price, while Accel’s was valued at around Rs 1,775 crore. Tiger Global’s residual holding was worth about Rs 1,117 crore.
+
+Financials:
+
+Revenue: Total income rose 43% to Rs 3,404 crore in FY26 from Rs 2,379 crore in FY25.
+
+Profit: PAT increased 1% to Rs 243 crore from Rs 240 crore in FY25.
+
+UPI transaction volume dips to 24.07 billion in September
+
+India's Unified Payments Interface (UPI)
+
+processed 24.07 billion transactions worth Rs 29.37 lakh crore in September, moderating from a record high in August, according to data released by the NPCI (National Payments Corporation of India).
+
+What’s happening: Transaction volumes dipped 1.8% from 24.51 billion in August, while the value of transactions also fell marginally month-on-month. On a year-on-year basis, transaction
+
+MDR backdrop: The September numbers come ahead of changes to the MDR (merchant discount rate) framework that take effect from October 15. NPCI announced a 0.4% MDR on UPI transactions for person-to-merchant payments above 2,000, keeping small-ticket transactions outside its remit. There will be no charge on peer-to-peer payments.
+
+Other Top Stories By Our Reporters
+
+RDI funding pause: The Technology Development Board (TDB) has closed its call for proposals under the government's Research, Development and Innovation (RDI) scheme for administrative reasons, its secretary Rajesh Kumar Pathak told ET, denying that a shortage of funds had prompted the move.
+
+Ex-Elevation Capital partner joins Bessemer: Mayank Khanduja, a former partner at Elevation Capital, has joined Silicon Valley-based venture capital firm Bessemer Venture Partners as a partner in its India team, the firm said in a statement on Wednesday.
+
+SBI Mutual Fund increases Swiggy stake: SBI Mutual Fund, India’s largest asset management company, has raised its stake in food and grocery delivery company Swiggy to above 5% purchasing 1.18 crore shares worth around Rs 300 crore through open-market transactions, an exchange filing showed.
+
+Global Picks We Are Reading
+
+■ Why we can thumb our noses at AI (
+
+FT )
+
+■ Saudi Arabia’s new EV brand takes on the US rival it already controls (
+
+Rest of World )
+
+■ Cracks emerge in AI’s debt-fueled data center boom (
+
+The Information )
 
 ============================================================
 
 SOURCE 2: The Hindu - Editorials
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+[No editorials published today — feed had entries, none dated today]
 
 ============================================================
 
@@ -27,7 +136,8 @@ No new Weekly Funding Report since the last check. Most recent report: https://e
 ============================================================
 
 SOURCE 5: The Hindu - Business (headlines + summary)
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+[No items published today — feed had entries, none dated today]
 
 ============================================================
 
@@ -41,25 +151,25 @@ SOURCE 6: Watchlist (headlines + summary)
 - Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K
   01 Oct 2026 | https://news.google.com/rss/articles/CBMiiwFBVV95cUxNak5yWm93NTZDX3FweGk3N0h3TWU4SnpmYkpvWE42V2xQSnI0cHhCeUVRLTlVUFVmdFJabGtZbTUxOGhNTzYwTjJuaEtZSVBsU25HSDl6Wk9RUnBnZzBmWk43b1JORURzTWt6NTUtV0RIMjJHX0JZNnNPSldHZVlqWFZZRDJ6aDJsdDBv?oc=5
 
+- US Treasury Buys $6 Billion of Bonds as Bitcoin Battles 24-Year-High Yields
+  02 Oct 2026 | https://news.google.com/rss/articles/CBMilgFBVV95cUxObWlPeEg0QklrWUV6akRaMjlJOWZHTjdNQUpiQmxLUnpWMFdWZk9jX0MzRUJrSWpzRi1pemhjWEpodWh5Y2VsYVJaMVFYQWtBSVpIM2l2U2wzdVpwNFNSUHNUWktINW0ySUFUY1VpNjQ1b18weEkzQVlHdFNQMG5MM3pmZTJCOE1XejJVRWFveVc4Q2tDNkE?oc=5
+
 - Three reasons why bitcoin's recent bounce could be the start of a bigger bullish move
   01 Oct 2026 | https://news.google.com/rss/articles/CBMivgFBVV95cUxNYjhtOXFoNHJBRFNyb2JSZ3RRdV9PWDJrMkZORUxBM2NmVVY4YTBVUUpnMGQxX0VKZ3JsdWs3YjNxaVl6TmY1SkEyU29ic0hiLWM1YU51YThMV2Y1dFo5X3VPZEdVM1YtTmsxM0d4d3kzU1VRa1FzY3JXNUE3TlpTQmRBYUZMT1F0N1JrV3Jpak5pTl9Ib0xlQUY3TVY3RFhCOF90V2JwQ0pScG02N0trY1liaGtRVGE2R0pSalp3?oc=5
 
-- Bitcoin just landed a surprising new bull
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSHptNHNLakpPOUltUERnSnQxeFZ4S0JtMmN2NDhabU1UTEU3SzN2RFJPMkxIZ0tjbkFsNHFrQmFhQXhiSXJmV0FybzFkcTM1TWgwTTJqTUplVEhWMVhPb3lPbExCTHlManRFODdaT1RkekFVTTVLYlVtaEo4Nk84SGFJejZncWdVd1ZrMi1nMnM1Z19KeTR5VFdvNENQdjVwanJ3SFZZUmk?oc=5
-
 [Gold]
-
-- Gold edges up as softer inflation data dents Fed rate-hike bets
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMiswFBVV95cUxNRjFDcnNwNW1uWWdUaW5iaWRNLV8wbnl4QlBGWHFjN0twMDlINnBTclUwYnRGN1pTVTJYbE94MFEyRk5yQ0FUcXlQLXNkYkdPQXQ3eFlDUko4cXF1Vkc5TUg2LXZKSTAzc3hnOGJrT1hoNl92bG1mY1lSM2MwR3lBcGVQS2NmNDVEWUdURERqcDVkYUhpVTVXZDZqUEF6c1RCMjFFeWpOZWNKVzdGS3dFNzQ3VQ?oc=5
-
-- Current price of gold as of October 1, 2026
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMickFVX3lxTE9IRlkzOFZwY2t4TjJ4ZW1LVk5va0d3MTg5dlRsOEFTd0tQZkdCY2l6WTE2Y1dJUE1OcjRFSURyUGxBR3F5NjB1R3U5R0pBNGZVWldILTF5WFZKWkV2QVNCb041ZllEbHdMalE5aGlNSUxBdw?oc=5
-
-- Gold Price Forecast: Breakdown Risk Grows as Buyers Struggle
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMirwFBVV95cUxQSl9UUGFqa0FXS3BUcE05ZV9tOVFYUDBwM2Q2dTNpWndoQlhEVm1DbklMdkM0X1NPWWg0a0hfZmRwd0IzaS1waW5HRVlwekc5NDdZcE1tYUJDc1ptSHBNa0RjNEczdklwbkR3SENzRlkzS2M1VUtzbXBzcFFkV0RkMmpPaUFaN21XejNVcTJ1WlJpaXNPdlJJcGFUMUxFSTY2Z3FEWlZBb0pjZXA2dUdJ?oc=5
 
 - Gold, silver price prediction: Gold to move up on fresh buying interest? Check outlook on October 1, 2026
   01 Oct 2026 | https://news.google.com/rss/articles/CBMiuAJBVV95cUxPMC1mdFNLaEpreDYxRmRudEFxUjVqMjFiVk55MEh2MVFtdXlWZVhaRm9ldDNQbHhtQ01yWlZiZ1ZrcTZXT004M2NfQzdHYmVEX1V1R3lDemtmM1JrWHAwdkl5X04teE5HOGJveURUb3JnR29mYnVKM0lKVnV5cWpXNWlLQ0ZkTVVscVctYU0wUjMzUmJjRVdXYUFqZzdKN2huM2RGM0xPREVSdHN5eDItaTgyazh3VGpMVDJhUFJmdV9RZXVmOUJGdnE3SXZzQzcwMk9zc0FwTkVNSnNPZ2JKcWtuYVQ1NHB2Tnc5elRPcXR1ZW5aX255OVh0UTFmLUg0TG4wTEtlcUIzemdtTTh5WHlsX0xaZHp3d1hXaXFlV0FnQkN0RFdpdGItczJ3Q1l2X1pmNmNqZVLSAb4CQVVfeXFMTXZkemNpMi1fcHZaeTVjMXVKcFRTMWlTZVB5OXBuM2lmOGYtNWZ0YVR4cE9MdFlteWVJR01aQjlscXNxQW8zWFpIWl9WRk94OGV0QWFqdF9NQkFjWGhNQ21qSGFnN2tlN0s4SWhQM29TcUVUSm9TM1NFRTZXTWhrR3Jrd2hzang2WFdjcUxINUZ0OHBKR1E4NW82ZFIydmJxcU10S3Vfdkl1Nm84a25YOTBReHJ1RFhQUEFkYTFlTGxrVGZicENLcDZJRlNPYjNYRUd2a09nOEMxR2ZBekdLYXBmMms4WEZnUjRCOWh4d1lmaWFZMTcxaUlHVG5kdjRvbTgteXgwVGpKQVV6SHpSdWJ6MmhRdTNjSWJEWVhQbHNkWm9WQ09GUTF4Yk8wRm5sRjIwSFhKRlNiWEVXZXRR?oc=5
+
+- Gold Price Today on October 01, 2026
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZnc0a0dETTRpLTNIMW5mNkpPX3FHMm4zclhpZUh5dUhEVWlUUDVtMHFLdjZaM0RzZ053OXZtbnRGX2pNRUsxeTlvcWhuTFZ2VVl5YmV5V21adzF3cGtScmk1X0J2WkJMWVplMEl2cHFyc0hzWU1VNHF3S2pXV1A3amhKTS0zd2lKd21POWxEQXNlR21aQktyTk1sa1JtSmJfa3EzSHhJMTkwZw?oc=5
+
+- Gold price at $4,158/oz after ISM Manufacturing PMI dips to 54.5, prices shoot higher
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMivAFBVV95cUxPYlVjNGZibXVSSy00TUhxNEtiTTNMNkxwaVhhbHgyS3FpSlRTbkpTaWxzbzRFLTZVaGtXSXBlTW5ORi1BWTVHMkFWeVctTjFJRHVraFoybjY1VndTaG8tWE9sQ2NDRGtULXViYUxnZm5PRmFnRUVocTBmWldweUJpUHo2Q0FZMTdhODJJOG1DOC1tX09kazEzaTVJcnlReUpfOGdRSTNkbERNMWtvR1pwRUoyY3VFNGFBQWwxVA?oc=5
+
+- Risks rising that gold prices fall below $4,000 in Q4 - Bank of America
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMipAFBVV95cUxNU0EyQVVCNHgzNnBSQ3NkWGp2Z0RhSXM3emdYUU1wXzFKUDJFazhDdktTMWhBeXdOMTdCNFRqNHl3TDZtTGc1YzNQUmZ1QU56c1k5Q0ZNTFhCSzI0N21ycEpYYVV0aEw0eXI2Ukx5SEY2Q3JNZjdMZnZydHc5YkF4X19QakhpNkFIWEk5RG9qSXo4MlFWN1BORkZGS2RHaUMtQzZ6Zg?oc=5
 
 [HAL]
 
@@ -133,11 +243,11 @@ SOURCE 6: Watchlist (headlines + summary)
 - Anthropic reportedly looking to IPO as early as mid-November
   01 Oct 2026 | https://news.google.com/rss/articles/CBMivAFBVV95cUxPdVBVRTlWN09BMkZIMzh5a0tzSXlJRGw2b1dtVGdZRzZkbWlfWHpCZnZPUTdVTmxldEt2eGJPWEU1cE1VT3pPUHF0ZTRRNzJRdm00YlpPVmVHM1ItNjhvNDd2cGd5R0lDZGRsLVE3MVM3eTU0dHlseVJEWTJ0RkpEWnMzLUU2SGdHOHpoYTB1SF9qaG8xT1g0MGhINlJHemRCVjYxVExGSVpuaTA5TnAtWW9mUUpiWjFLLU1Ccw?oc=5
 
-- Anthropic Targets Mega-IPO Before Thanksgiving Holiday
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMisgFBVV95cUxNcUlUbXBSYkVLUzFtY2ptTGZ6Nk5HSHBpdFJBZlF1QU1JbXU3VG1Nb2g3OW95elBUTHV1czlHRUNKUFRBV0Nsa3QtVndGNDh2U3dBWFdRenZhRlVEX3hGTm04bl9TcVpuMkxsRkJNQ2NJbzhmYTYzZ01uRTJIS3g1ek80QmRDdE9iaUxRNmhsbzBDci02bnVaS2dpNDJsZzVJb243b2ppUVk0OFpDTWVQLW5B?oc=5
-
 - Exclusive | OpenAI Fires Researchers for Allegedly Sharing Information with AI Safety Group
   01 Oct 2026 | https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQWJYd0owc0RKM3JUWFRMZHA5dVk4REotM1NxS2Z4NktpQ0RRZzh5NHVUaDdoOVMwWFBSRnkyNEtrUXlNQy1ZNTN5MnVxdHR5VFlQaG5GZDZKWDIwXzlyQWpNQXpTaWlFdnlzTUNxSlRQdzh4SDBBei1RR29seS1vTURiT1hWZHlxSDN4NlkzNWRlWFNwM0VWSHJrYmtWV1FzaXJyUWtPSkFNTEhkQ2N2OEYycUFRd0VB?oc=5
+
+- OpenAI says rogue agents may have affected more than 100 organizations
+  02 Oct 2026 | https://news.google.com/rss/articles/CBMiwgFBVV95cUxONWR3QVJLeUtCbFN2LXkwdkFyYTI2S2dsUUlnOUp4bkhITlpacWZNM2FnQUxOUlZ6Z0l0ek5lc0xqQzNjanNCQ1dOUDViYXZnMDA2dk5hV3FlaUV4RkhudG9NXzY5Q1J0US02LTJFTWV0cXVWX0NyQ2R3SGw4MW5VSVRKLTJPVTB4TVdxc2lCeDJpV1dFd1h1dXAxYk9SdWRoNnpzSy1KLWZZUlJXeFpxRGoxd0ZWdXh0SldlNmVhXzlWdw?oc=5
 
 ============================================================
 
@@ -169,21 +279,21 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
   01 Oct 2026 | https://news.google.com/rss/articles/CBMi1AFBVV95cUxPd01lSF94Tm95cGRCQ1MwNWdwLUtoaWE5RGMzRDlod3lOTjNUekpxWFdJdlo1aUFFVzRZRElFcjhDalhOTmxaVFJkSGxRd2lTNGFpRHNfa216Rk42bVE2LW40dzVneWVYS3o1Ym9kWGpPcGFtN3pSeUM4MWIyTFpzVmVwSFV5ZmFXcUtHbTMwYWk2TzlnMnhUdmlXMXk0eHpoVUdfSEV0MEJyRm5nTEdwUmFvUmo2TEFfVkEzaHVGQUtWOGF5Zm1BU3NaeUVPVklQR3JGRtIB2gFBVV95cUxPUngtb0wycE1rTUgzT0p2bEQ5a1NSdngxQVVCckNwVTFEZnVRMW55X09aTlZxNWdDVmdMMnhBYlJzc0tCME1HQm5ydWJUXzhRTU90TjRFb3kwX081YzlKcC1LeGFJMVpGa0ptQVBRQjRKTThnSG9rZGdmcmszcGhzZzZOaXNYczVWdWJHNkE4MF96dS1lS0xOdTJxTGQyelVlTmppeENiVEljQ2lGTFhhMEZOUHJWUVRDd2NkN1hsVVNyRlRvYU5zODhCZUFWZk5vTjRiMk05QTM2dw?oc=5
 
 - Welspun Living shares gain 5%; Jefferies retains 'Buy' call; check target price
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMi2gFBVV95cUxOVUtkTzRQWnAyMGJCaFBhU2NjRXZVS0gzVXpZS3RqSHQtM0VCbVczRVZ5aGRCdWpkbVRWT2hVSG05NGN6SHNwU2ZiS0VXSng1R01KQ09vUU5ndHNFYTVEakhpdGdmcXJGRFhQNF9qUmlkNEE1MmM2ZmlQVXRoX25IWk9IeEN4cTN3eWVNcFMxV0hPNHhnVTNCVkc5UzUxOTdsZ1FZR3hvWG53cEtTYU5hZEZ2elllaThYckVMNHk4ZjVnbVdLS2VvUVVVcXgtdnJXekgzWFc0Mnlnd9IB3wFBVV95cUxNS3pnb3dQb3hvc0tTcG92eVdLaUhvQUpNYkNFclh6WjFpYVlDakFZQlNySGNINm16ZkJKVjA1ajhBMVNTV2lHbzRkc0JDYU5vaFJ1MUx5RGxRRDdhM2JZMzY3RkNqbFd6MG42NE02bk9TZlVhWGhlNnlqNndHVzA0dkExbEwxR05nNUhTNjBFWlM5bmxiblplUG9TWDg2bExDTWVjbkt0YkhHZ3puejVldnJaRU80UFNKRkZvTXNFdEZQRzVJNGVmbXNJUmYzYndER2NYNHRva3dFNEhLWFBn?oc=5
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMi3wFBVV95cUxNS3pnb3dQb3hvc0tTcG92eVdLaUhvQUpNYkNFclh6WjFpYVlDakFZQlNySGNINm16ZkJKVjA1ajhBMVNTV2lHbzRkc0JDYU5vaFJ1MUx5RGxRRDdhM2JZMzY3RkNqbFd6MG42NE02bk9TZlVhWGhlNnlqNndHVzA0dkExbEwxR05nNUhTNjBFWlM5bmxiblplUG9TWDg2bExDTWVjbkt0YkhHZ3puejVldnJaRU80UFNKRkZvTXNFdEZQRzVJNGVmbXNJUmYzYndER2NYNHRva3dFNEhLWFBn0gHfAUFVX3lxTE1Lemdvd1BveG9zS1Nwb3Z5V0tpSG9BSk1iQ0VyWHpaMWlhWUNqQVlCU3JIY0g2bXpmQkpWMDVqOEExU1NXaUdvNGRzQkNhTm9oUnUxTHlEbFFEN2EzYlkzNjdGQ2psV3owbjY0TTZuT1NmVWFYaGU2eWo2d0dXMDR2QTFsTDFHTmc1SFM2MEVaUzlubGJuWmVQb1NYODZsTENNZWNuS3RiSEdnem56NWV2clpFTzRQU0pGRm9Nc0V0RlBHNUk0ZWZtc0lSZjNid0RHY1g0dG9rd0U0SEtYUGc?oc=5
 
 - MOMS Outdoor takes OOH route for Quik Dry Towels monsoon campaign
   01 Oct 2026 | https://news.google.com/rss/articles/CBMiywFBVV95cUxOdUdpVjVfd1NQRV82emlfdWVpbnFDNlB3RUg4SkY4WmdNQ1ZGMEpFeWFQTG1kbnZkXzNDRkpjdXh3cUd6ck94OWd3cWVkRjFETnBSWVRSS21PTFc0OS1GWXA5bHJSVWktMXQxZi1sU0gzQThGOWtYSUZGTzhnRXVpVVBqb3RIUWF2NTBGQmxMckFsR1RWQnNRaXhFcFpCS1pzcmZ4Q1VfeFdsbGR3ZUNiNFVRZ3k0endiU0M3OVNhS1d1elJlWE5NV1h0NA?oc=5
 
 [Hfcl Ltd (HFCL, +5.00%)]
 
-- HFCL shareholders approve all resolutions at 39th AGM
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcElZbWJBYy1NcUpHa3dlQzF2eE1sLTVSSnFOWm9lVW91cjhZRlUyQmlTT2V0akVjLUZsSGF1ZnFhNWhPS3JBTDVqRXMzUVN3bncyWHg1d2lGU0dyY2thelA2NHVKRjRSbWpuVEdsNUZiNDJxNndYTTY0cGRRYnloOUZWbGJIeW1zSXBCdTdLMEctd21oTDlPTE0ycFBBMlFfVThWX3ZtalY?oc=5
-
 - HFCL shares rally 15% in 3 sessions; analysts flag Rs 260 resistance, consolidation risk
   01 Oct 2026 | https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZVVkMEpVcDZ5b25IbE9ieTQySWhZT3ZLbTNfNlh3bHJDMkdsUFZ4YXJEMGd5ZzZHQkdSMWp0UmtkczFOWjkxVDROM05tbXZ6dzhkMEZjaGU0VUE0SnVSWGw3YmpSVGFIQzhLWWdodXFCSFo5OTZjT3p1ZzZ5U2c2NFJIZjdUbzFONU91SHRXcUZLX1FNS0syTEtIT1g0NTBXc2lwQ1RvdzcwMVlMTGtHbmYwbXY0YjNBdU1yMVFTNXJvdkVEcXU3ZVp1M1RBaGpqWTFucWlyd3BiUEppaEJvX19aZ9IB6AFBVV95cUxOSktyNS1qbEZucGo0dWFsendCMFV4T0g1MU1kV21zUy1FQTlCR3Z5c3dRVTVWYWxqMjMyT1NFLXlQR0hZOWdtd2otaEJaTEgybkU3SU56S3p3Z2ppOFdPaXZyc0JzQVRLaG5RemJnWmoyUmRKa1hqZjZvV1hmWS1MQzNoSUR1M19xMHVOT3NzZUxrV01qY2VEbDZXTEpoVGtkQTJsVzYtZHNKM0lDd1o2X2djSTFPVF91NXhLc1V6NUExQi01a2tmQnVoOXhxY3dtZ2pvX256YmcxWUVwa1RUZkZpbGVRY2Zi?oc=5
 
-- 228% Jump In Six Months: This Multibagger Telecom Stock Surged 15% In Three Sessions. Here's Why
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMi5wFBVV95cUxOYnAyZHhzd3dzZXpfTU1pTllxM0dySXdoVjBObGNQRWdPQzlydkZydmM4Vmx6Y2N1TWw0OTU2Vy1xODg4VFJ0bGUxWlQ0Y0lmX0ZNWjJRbXhGSTZTb21tQnlpSmR0R1JKUDJhcUZKdmNjclBCbmo1VUJLcEJ1VlBVZFVKaGJvNzY2bENSek41LWZXTnR1ZXBKQVdIVDJWX3R2Z29SbzJnQ3RfS29EMmx4QkZ0VU5CR1l3clpoMHFwLS05VkE2UlhvWnUxRFFHbWFrOXN6b1NSZXZKMTZndEw5cC0wVTdvcWfSAe8BQVVfeXFMT0RWSUgxZ09EMHJwQU0zdGlkTmMwRTJLbnB0amUzQ3MxSDlZcF9tSXgzb05yWllfYXVvLVRVcUM4NkZqbmItWS1URlQ0UGtoTUNSbWZDbjVDdXduZEJHanZ0WEVGbXpRVlU4NkdvTzR3WEMtVW1YMjlEa0RhM3BhclZoc3d2SC00Y1MzSFhkUVphRWdFdjJGVk01eHluZzZDTzZFTkJfRXo3ai1aekdzRUpzZFRSX0lwVWxzOEJScnZ3Wm9QT0hjNVNCS0lnRGVrMG9uZGJfT0lfN3BkMFpLUTZHSzBDWi1WVFRRMjNPNWs?oc=5
+- NSE:HFCL Chart Image by Marketik
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMiUEFVX3lxTE01Y2t6RXhXM05EVjNhaEJDMG0wS2NyUXAtQ2x4WGFab3NlSnRBaUdmdDhqMEUtN0lFUGYzeVVQRDl2UnoweGkzdTFPck1MUnJB?oc=5
+
+- HFCL shareholders approve all resolutions at 39th AGM
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcElZbWJBYy1NcUpHa3dlQzF2eE1sLTVSSnFOWm9lVW91cjhZRlUyQmlTT2V0akVjLUZsSGF1ZnFhNWhPS3JBTDVqRXMzUVN3bncyWHg1d2lGU0dyY2thelA2NHVKRjRSbWpuVEdsNUZiNDJxNndYTTY0cGRRYnloOUZWbGJIeW1zSXBCdTdLMEctd21oTDlPTE0ycFBBMlFfVThWX3ZtalY?oc=5
 
 [[Top Losers]]
 
@@ -195,8 +305,8 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 - PB Fintech shares crash 48% in six sessions; stock barely holds above IPO price - BusinessToday
   01 Oct 2026 | https://news.google.com/rss/articles/CBMixgFBVV95cUxNMEhWZ0hVeExyc3lBY0hUenVJdnJIVy1HQ1NTdFBBbW16MWJOX0xMNlA2bEZTUTF5Sk5UWUVMa2x2VURLVERtS09TS0JIaDA3TXBpUVctcVRrMlBhMUhNR3hXdFlwakp2SUw5RnpyQlQtQkhydHhKenNtRU9sOUNzcDJBUlBDQVltNmVNNUxzb0ZRUUZsUXpnY0NkbGtNLVl4TmtwamVhR0hBRkhldkxRZjlwY3J0X0xpTjQzeVpUZWlWZFZEQnc?oc=5
 
-- PB Fintech shares crash 50% from peak, fall below 2021 IPO price. More downside coming?
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMi7gFBVV95cUxORXRyTll2MFVDU211M3pNQVh0UXFwR3k1bEFWTS1RWjRMb1hsYnlWbTVTTlF3TldrRHFaV25nNzNZS0d6bDl0NUhPa2NlcURvbTJsc29aUWRBeW5ZUlo0U1JsMEZuMnVIQjZEZ2F1b3h5QUoteTRycXFPQ0Jqd0ExMm1CVXFkU2EtZ3NzVlp5V2xJQ0Q3Ni1mdHpPdGdfZjczN1hrRFNoU2hoYzZvNjhOdExYMUNLN3NtRmZFTkY5XzdBVzVjNE5lS2UtNDhnMGxUZ2I3aHFGdXJXSGhMcEFzS3BfZ0tjNXVxZFc3czRn0gHzAUFVX3lxTFBDa2t6VkdHXzZmN1U1RU9Dc3dHd2hxOWxtRzNFOFpfYi1DZ3JxZ01yLVozLXpQdUlrTDNCZzg5MmVLVUtrVk15ZmNEQm5aSm9QempjS01qOXJsTER0alQ0WHEwUEgxOThrajFRaTI5X0tkQVJLdXZKejA5My1iVURXeUt1VTYtMm1MUFpjYWx0MnJRQ09kN0lXX1NsUVdrdi1Ud19aUUp6bFloUmF2S0ZGOVhzOVhSWkZxSS1IWno1S1lmR0I0czJNeTlkWXVPNkJSQTJ0ekhIdVU2b2NVTXVnbDBZYTZxdkhfRVpjNi1fNVp0SQ?oc=5
+- PB Fintech: What IRDAI's commission caps mean for its stock
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMioAFBVV95cUxPZ0laY0o3ODhZOGVCb2pWWU9vNl9RY0RaaUhlbFdfdU9XeTVlR2RwYjZHckFFN1VvdHlmelo1RzZ5WUtRUloyVld3OXQyVWRRTzlMcWNPZ2Joa19kUTRFX1dwV1QxUUhLT0lUVHpVeC1oUnJXemZQdUZDTkx4eVFoNmNDRW8tS2p4aXJGSlk2bVlMaUpOMmNzY19EUEJqQUlV?oc=5
 
 [Bajaj Auto Ltd (BAJAJ-AUTO, -7.62%)]
 
@@ -213,14 +323,14 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [Ircon International Ltd (IRCON, -5.84%)]
 
-- Ircon International, Aegis Logistics among 6 stocks showing RSI trending up
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMi9gFBVV95cUxQNVB1X01JWUt3T3YtVGUwdWV5NUE4RnVrNGRrcXdUeVR3dW1tcVpjbUNvaU84eWRucGZ5NEhSaG5VTDhiSjd0aXlBd0xhR0hmYkZqX3dBYXQwRUs1eUdRT0tFT1ZKUmpmTDJNdjRkeHByTWRkMjBBSzRNM3Z0VDQtVkhvekdVWlA0NE5ySGxURVBGQk9ZWEh4cDRQWEQtM3lzMXJNLVFjOUlGUXBjRk1SakZiUi0zSkwtbnZpYzJDcV9Cd0MwNVlLRVJyU3VPYnY2b3Jkb1V5cGpVdDA0WUx4b2pmV3Q2cFp3R19yQzJORFV3U3d5T3c?oc=5
-
 - Ircon International NSE:IRCON Volume Spurt Clarification
   01 Oct 2026 | https://news.google.com/rss/articles/CBMiuwFBVV95cUxQOXU2a3Ayd2dfQ3ZCVFVSVTNWNDdUUnQ4dEVjNDFzQ1UtZjlNd2hfNzlpVVVUQV9vTzEyTmZhcHhjRXNYenpUS0RzclVFNTRWdE9JLVhHdzQwS3dhZmZSQXFDcGFMNVlhajVYSFlOclNzck45Ulh6bldwdHhzeE13RnJUR3BESWtpMGVSNUdhcEVBcUNXbjBORkpxMHhHYktKeU5QdnhGc0pzSXg1aTdZUTZENTNLNXpqemVr?oc=5
 
 - Railway Stocks Fall: IRCON, RailTel, IRCTC, RVNL Tank Up To 6% — Here's Why
   01 Oct 2026 | https://news.google.com/rss/articles/CBMi_gFBVV95cUxQS0dla0phbmlmQTdZSTlXRVd0anN3TzNLQURCU1ZkRzBnT19zeW5JRmMzQTdtRFhkRE15dDlkb01zeEZzQ0psdnZ5QTQ0NkF3Z09VWmJXLUNPZjk2ZU94c3RwX3RmR3FiVHZ2Qk5fVzQ5VjF3QVV4QXh6aWxLbklpOGRIRE0wMG8xWXlvVVczTmRxd1FFaFNOTmVfZ2pRQjVId25QQmw1S1pKV3EzQUhMY0tuREtzYWU3c3RmX0FRc3lCTjIyb2pEc1RTWFNKVGdhSFM3V255NTB0UWlvNnJmZU5LYnZnTzE5NmZnazF0TkZmcFVxQUI3M29oSGxJUdIBhgJBVV95cUxPQUZzSnpKMDRRRkV2WXlnVms2T0FtWC1pUjFkRVoza1lUdFg1MWhvS21QcTJ5SDhWcWVXMkNqN0xjN2dtNXJqOWtBbWFPQ2FZQWdObVB0SENPanA2cWRma2JPVWtITDNaYk16Vl9kUnFQY082RTFqVWZLUUZzZmdxTUhfcW0xVF9oR0Fxb3JQMmNwazFYOEJYZ1BVOW5uU09NY3lTYUNKby1pQWktbTZkUWNjclhnTmRMYmdwa1V1YnFxU1N4SUM1VXNtWVZZRFc4aWJ5MWkzWDBsMlZYbUE2VjVIc3JhMTAyeG16RXV2TmcyRmFvYlY0VXo2X29NWmhQbWJtOWhn?oc=5
+
+- IRFC, RVNL, IRCON, RITES, BEML, Jupitar Wagons, IRCTC, Concor: Are Railway Stocks Attractive Before Q1 Results
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQTdNNTg3OTBDV1ItV3dyYW4xMmZ5V3FTXzhESGNHdVJqcmNJQ0tVVlNHX1psQkZkelduV0FHUGhlSVhJakMwT1hpTzdnX09IbTczSExnQTlpcHp3cXN1cFZYT0lvR193QkVIOUk4QUFzMjUzcXAwZGtwY3hSUXdpREJQazdDUzgyRDJycElPTS16SVBqdlBjX04wUGYtQXd6VWVLQV9QT3pKblFNbS01QUhpeUk4aGpYTmhyN0RlajM1clhHQXg5aEpYcEstbkQtazJFVXdGOXJXakpM?oc=5
 
 [Ksb Ltd (KSB, -5.80%)]
 
@@ -230,5 +340,5 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 - KSB stock trades 33.72 percent below its 52-week high
   01 Oct 2026 | https://news.google.com/rss/articles/CBMitwFBVV95cUxOOC1PR2xmTnhXalRUQ05WSmhuSDVGbGxadzBwc3k2MnJ2VzJjQ1o3S0FEV0MtT2tjc3JGOXJ0THNxcDdVTDVPMXVkV1dZUmExcnNfVlFURG1KT0JIdlBLbDlvMjRqandSbkY5UlVjVG15eFZ1VkxVUVNMbXZJNnU1allxdGtmYWIyRDQ5TmZUMDYyXy15ZEJYekdsTkc3TVJUeVJITy1qd05Ka2xpaHNhZGJTQW9xak0?oc=5
 
-- KSB Share Price Update: Today’s Fall, Fundamentals, Peers
-  01 Oct 2026 | https://news.google.com/rss/articles/CBMibEFVX3lxTE1DSzkxaW9TRmh1VUVBaGNnZldQaDN6QnNTUlhuM1JrR3BGd2FrYjV3VkZRTkNJenBBWGJDV2VNUEpSUXg2U2FlaWU4YXJETnpGaVVPNjVEeEpqXy0zemxUMlZvYV9zQnNoZ1haZA?oc=5
+- Ksb vs Nifty 50: Share Price Performance Compared
+  01 Oct 2026 | https://news.google.com/rss/articles/CBMickFVX3lxTE00R1RQNGMteVFSRTNFek5EMkgzb2xfMVdMV2pCQkdNRnViVEhWTS1ZZHJKWE4tTFZoVzhrNnEwUlpleVlmRFZSaW9XakJnUFhhNVloTnlRZjl5eVlxaVgxRU5NSjRiMDR3QUxVQ0xFUVQyUQ?oc=5
