@@ -775,5 +775,61 @@
   "description": "Microfinance lender; Q2 AUM jumped 19.5% to Rs 30,946 crore.",
   "first_added": "2026-10-08",
   "last_mentioned": "2026-10-08"
+ },
+ "jeevansathi": {
+  "name": "Jeevansathi",
+  "sector": "Matchmaking",
+  "description": "Info Edge's matrimony platform; Q2 billings rose 18.4% to Rs 39.7 crore.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "99acres": {
+  "name": "99acres",
+  "sector": "Real estate",
+  "description": "Info Edge's property listings platform; Q2 billings grew 21.2% to Rs 148.3 crore.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "mivi": {
+  "name": "Mivi",
+  "sector": "Consumer electronics",
+  "description": "Smartphone brand selling its Mivi One 5G exclusively on Flipkart's Big Billion Days.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "nothing": {
+  "name": "Nothing",
+  "sector": "Consumer electronics",
+  "description": "Smartphone maker whose Nothing Phone (4b) is discounted in Flipkart's festive sale.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "poco": {
+  "name": "Poco",
+  "sector": "Consumer electronics",
+  "description": "Smartphone brand offering the X8 Pro Max 5G in Flipkart's Big Billion Days sale.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "realme": {
+  "name": "Realme",
+  "sector": "Consumer electronics",
+  "description": "Smartphone maker offering the P4 5G at Rs 29,999 during the Flipkart sale.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "moto": {
+  "name": "Moto",
+  "sector": "Consumer electronics",
+  "description": "Smartphone brand selling the Edge 70 Fusion from Rs 29,999 in festive sales.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "vivo": {
+  "name": "Vivo",
+  "sector": "Consumer electronics",
+  "description": "Smartphone maker offering the T5x at Rs 24,999 during Flipkart's sale.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
  }
 }
