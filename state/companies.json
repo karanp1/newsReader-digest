@@ -600,5 +600,180 @@
   "description": "LIC-promoted mortgage lender whose shares rose 4.12% after the RBI repo rate hike.",
   "first_added": "2026-10-08",
   "last_mentioned": "2026-10-08"
+ },
+ "paytm": {
+  "name": "Paytm",
+  "sector": "Fintech",
+  "description": "Digital payments firm; RBI removed its associate Paytm Payments Bank from scheduled banks list.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "seruminstituteofindia": {
+  "name": "Serum Institute of India",
+  "sector": "Pharmaceuticals",
+  "description": "Vaccine maker; WHO prequalified its CERVAVAC quadrivalent HPV vaccine.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "strategy": {
+  "name": "Strategy",
+  "sector": "Crypto",
+  "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "arkinvest": {
+  "name": "Ark Invest",
+  "sector": "Asset management",
+  "description": "Trimmed its Robinhood stake, selling 151,903 HOOD shares through ARKK.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "barclays": {
+  "name": "Barclays",
+  "sector": "Banking",
+  "description": "Raised its Robinhood price target to $132 from $105.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "bofa": {
+  "name": "BofA",
+  "sector": "Banking",
+  "description": "Raised its Robinhood price target to $156 from $140.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "qualcomm": {
+  "name": "Qualcomm",
+  "sector": "Semiconductors",
+  "description": "Partnered with Tejas Networks to demonstrate pre-standard 6G ISAC technology.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "nokia": {
+  "name": "Nokia",
+  "sector": "Telecom equipment",
+  "description": "Part of the global 6G development coalition with Tejas and Qualcomm.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "tcs": {
+  "name": "TCS",
+  "sector": "IT services",
+  "description": "Issued a Rs 1,537 crore Letter of Intent to Tejas for BSNL 4G RAN equipment.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "blinkit": {
+  "name": "Blinkit",
+  "sector": "Quick commerce",
+  "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "swiggyinstamart": {
+  "name": "Swiggy Instamart",
+  "sector": "Quick commerce",
+  "description": "Ranked third in product availability at 83.8%, per Bernstein.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "zepto": {
+  "name": "Zepto",
+  "sector": "Quick commerce",
+  "description": "Ranked fourth in product availability at 82.5%, per Bernstein.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "criteo": {
+  "name": "Criteo",
+  "sector": "Adtech",
+  "description": "Dibyendu Sen drove retail media monetisation there before joining Flipkart Minutes.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "ifci": {
+  "name": "IFCI",
+  "sector": "NBFC",
+  "description": "Government-owned lender for long-term industrial projects; shares jumped 6% on high volume.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "powerfinance": {
+  "name": "Power Finance Corporation",
+  "sector": "NBFC",
+  "description": "Peer comparison for IFCI; ROCE of 9.71% and P/E of 4.10.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "rec": {
+  "name": "REC",
+  "sector": "NBFC",
+  "description": "Peer comparison for IFCI; ROCE of 9.71% and P/E of 4.87.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "irfc": {
+  "name": "IRFC",
+  "sector": "NBFC",
+  "description": "Peer comparison for IFCI; ROCE of 5.64% and P/E of 13.57.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "pnbhousing": {
+  "name": "PNB Housing",
+  "sector": "Housing finance",
+  "description": "Peer comparison for LIC Housing; trades at 12.84 times earnings.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "bajajhousing": {
+  "name": "Bajaj Housing",
+  "sector": "Housing finance",
+  "description": "Peer comparison for LIC Housing; trades at 25.46 times earnings.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "aadharhousingfinance": {
+  "name": "Aadhar Housing Finance",
+  "sector": "Housing finance",
+  "description": "Peer comparison for LIC Housing; trades at 17.24 times earnings.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "godrejconsumer": {
+  "name": "Godrej Consumer",
+  "sector": "Consumer goods",
+  "description": "Peer comparison for Cupid; ROCE of 18.75% and P/E of 42.57.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "dabur": {
+  "name": "Dabur",
+  "sector": "Consumer goods",
+  "description": "Peer comparison for Cupid; ROCE of 20.28% and P/E of 33.93.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "colgatepalmolive": {
+  "name": "Colgate-Palmolive",
+  "sector": "Consumer goods",
+  "description": "Competes in consumer health and personal care.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "giihealthcare": {
+  "name": "GII Healthcare",
+  "sector": "Healthcare",
+  "description": "Cupid holds an investment in it and put in $5 million more.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "creditaccessgrameen": {
+  "name": "CreditAccess Grameen",
+  "sector": "Microfinance",
+  "description": "Microfinance lender; Q2 AUM jumped 19.5% to Rs 30,946 crore.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
  }
 }
