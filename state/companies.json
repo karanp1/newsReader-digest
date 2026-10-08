@@ -551,5 +551,54 @@
   "description": "Travel distribution platform connecting travel agents and suppliers globally.",
   "first_added": "2026-10-08",
   "last_mentioned": "2026-10-08"
+ },
+ "cae": {
+  "name": "CAE",
+  "sector": "Simulation",
+  "description": "Canadian company selling its 50% stake in HATSOFF helicopter training venture to HAL.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "hatsoffhelicoptertraining": {
+  "name": "HATSOFF Helicopter Training",
+  "sector": "Defence training",
+  "description": "Simulator-based helicopter pilot training venture becoming a wholly owned HAL subsidiary.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "robinhood": {
+  "name": "Robinhood",
+  "sector": "Fintech",
+  "description": "Trading app that added $25 million of bitcoin to its corporate balance sheet, its first proprietary holding.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "metaplanet": {
+  "name": "Metaplanet",
+  "sector": "Crypto treasury",
+  "description": "Sold 10,000 BTC and rebought 11,000, ending with 44,000 BTC on its balance sheet.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "firstsourcesolutions": {
+  "name": "Firstsource Solutions",
+  "sector": "Business process management",
+  "description": "RP-Sanjiv Goenka Group firm running customer experience and back-office services; shares jumped 6.1%.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "cemindiaprojects": {
+  "name": "Cemindia Projects",
+  "sector": "Construction",
+  "description": "Adani Group's main EPC arm, formerly ITD Cementation, with a Rs 31,307 crore order book.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
+ },
+ "lichousingfinance": {
+  "name": "LIC Housing Finance",
+  "sector": "Housing finance",
+  "description": "LIC-promoted mortgage lender whose shares rose 4.12% after the RBI repo rate hike.",
+  "first_added": "2026-10-08",
+  "last_mentioned": "2026-10-08"
  }
 }
