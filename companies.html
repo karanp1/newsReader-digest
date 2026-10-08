@@ -1,0 +1,205 @@
+<title>Morning Wire — Company log</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:wght@700&family=Public+Sans:wght@400;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #EEF0EE; --ink: #1B2320; --ink-soft: #59645D; --border: #DCE0DA;
+  --accent-ink: #6E4708; --surface-2: #F5F6F3;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #12151A; --ink: #E7E9E4; --ink-soft: #9FA8A2;
+    --border: #2B323A; --accent-ink: #F0C878; --surface-2: #20262E;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #12151A; --ink: #E7E9E4; --ink-soft: #9FA8A2;
+  --border: #2B323A; --accent-ink: #F0C878; --surface-2: #20262E;
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--bg); color: var(--ink); font-family: "Public Sans", system-ui, sans-serif; }
+main { max-width: 960px; margin: 0 auto; padding: 32px 20px 60px; }
+a.back {
+  font-family: "IBM Plex Mono", monospace; font-size: 0.75rem; text-transform: uppercase;
+  letter-spacing: 0.04em; color: var(--ink-soft); text-decoration: none;
+}
+h1 { font-family: "Fraunces", serif; font-weight: 700; font-size: 1.7rem; margin: 10px 0 6px; }
+.sub { color: var(--ink-soft); font-size: 0.85rem; margin: 0 0 18px; }
+#filter {
+  width: 100%; max-width: 320px; padding: 8px 12px; margin: 0 0 16px;
+  border: 1px solid var(--border); border-radius: 8px; background: var(--surface-2);
+  color: var(--ink); font: inherit; font-size: 0.9rem;
+}
+.table-wrap { overflow-x: auto; }
+table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+th, td { text-align: left; vertical-align: top; padding: 10px 14px 10px 0; border-bottom: 1px solid var(--border); }
+th {
+  font-family: "IBM Plex Mono", monospace; font-size: 0.68rem; text-transform: uppercase;
+  letter-spacing: 0.04em; color: var(--ink-soft); white-space: nowrap;
+}
+td.name { font-weight: 600; white-space: nowrap; }
+td.date { font-family: "IBM Plex Mono", monospace; font-size: 0.75rem; color: var(--ink-soft); white-space: nowrap; }
+.empty { color: var(--ink-soft); font-style: italic; padding: 14px 0; }
+</style>
+<div id="mw-gate" style="min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px;background:var(--bg);">
+  <form id="mw-gate-form" style="max-width:280px;width:100%;text-align:center;font-family:'Public Sans',system-ui,sans-serif;">
+    <p style="font-family:'Fraunces',serif;font-weight:700;font-size:1.3rem;color:var(--ink);margin:0 0 16px;">Morning Wire</p>
+    <input id="mw-gate-input" type="password" placeholder="Password" autocomplete="off"
+      style="width:100%;box-sizing:border-box;padding:10px 12px;font-size:1rem;border:1px solid var(--border);border-radius:8px;background:var(--surface);color:var(--ink);margin-bottom:10px;">
+    <button type="submit" style="width:100%;padding:10px 12px;font-size:0.9rem;font-weight:600;border:none;border-radius:8px;background:var(--accent);color:#fff;cursor:pointer;">Unlock</button>
+    <p id="mw-gate-error" style="display:none;color:#c0392b;font-size:0.8rem;margin-top:10px;">Wrong password.</p>
+  </form>
+</div>
+<script>
+(function () {
+  var HASH = "9447d60f27823a109168f19de1046a91fc23bb4f157ae19b35efbf7403d177cd";
+
+  // The real content div is written *after* this script in the HTML
+  // stream, so it doesn't exist yet if queried at top-level execution —
+  // wait for the full document to parse first.
+  document.addEventListener("DOMContentLoaded", function () {
+  var gate = document.getElementById("mw-gate");
+  var content = document.getElementById("mw-content");
+  var form = document.getElementById("mw-gate-form");
+  var input = document.getElementById("mw-gate-input");
+  var error = document.getElementById("mw-gate-error");
+
+  function sha256Hex(text) {
+    return crypto.subtle.digest("SHA-256", new TextEncoder().encode(text)).then(function (buf) {
+      return Array.from(new Uint8Array(buf)).map(function (b) {
+        return b.toString(16).padStart(2, "0");
+      }).join("");
+    });
+  }
+
+  function unlock() {
+    gate.style.display = "none";
+    content.style.display = "";
+    try { localStorage.setItem("mw_unlocked", "1"); } catch (e) {}
+  }
+
+  var alreadyUnlocked = false;
+  try { alreadyUnlocked = localStorage.getItem("mw_unlocked") === "1"; } catch (e) {}
+  if (alreadyUnlocked) unlock();
+
+  form.addEventListener("submit", function (ev) {
+    ev.preventDefault();
+    sha256Hex(input.value).then(function (hex) {
+      if (hex === HASH) {
+        unlock();
+      } else {
+        error.style.display = "block";
+        input.value = "";
+        input.focus();
+      }
+    });
+  });
+  });
+})();
+</script>
+
+<div id="mw-content" style="display:none">
+<main>
+  <a class="back" href="./">&larr; Back to today</a>
+  <h1>Company log</h1>
+  <p class="sub">79 companies. The date is when a company was last mentioned in the digest.</p>
+  <input id="filter" type="search" placeholder="Filter by name or sector" autocomplete="off">
+<div class="table-wrap"><table id="log"><thead><tr><th>Company</th><th>Sector</th><th>What it does</th><th>Date</th></tr></thead><tbody>
+<tr><td class="name">Walmart</td><td>Retail</td><td>US retail giant and majority owner of Flipkart; facing pressure over employee stock option liquidity.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Vodafone Idea</td><td>Telecom</td><td>Indian telecom operator with negative earnings, competing with Airtel and Jio.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Tiger Global</td><td>Investment management</td><td>Global investment firm and early Flipkart backer that has exited its stake.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Tejas Networks</td><td>Telecom equipment</td><td>Indian maker of optical networking and broadband equipment for telecom operators.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">TBO Tek</td><td>Travel technology</td><td>Travel distribution platform connecting travel agents and suppliers globally.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Syrma SGS</td><td>Electronics manufacturing</td><td>Indian electronics manufacturing services company producing components and systems.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Starlink</td><td>Satellite internet</td><td>SpaceX&#x27;s satellite broadband service awaiting security approvals for its India launch.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">SpaceX</td><td>Space aerospace</td><td>Rocket launch and satellite company; parent of Starlink broadband service.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">SolarWinds</td><td>Software</td><td>Infrastructure management software company; former employer of CDK&#x27;s new CEO.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">SK Hynix</td><td>Semiconductors</td><td>South Korean memory chip maker leading in high-bandwidth memory for AI processors; building Indiana packaging plant.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Secret Alchemist</td><td>D2C personal care</td><td>Direct-to-consumer perfume brand selling through quick commerce and other online channels.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Samsung</td><td>Consumer electronics</td><td>South Korean conglomerate making memory chips, smartphones and displays; competing in high-bandwidth memory.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Reliance Jio</td><td>Telecom</td><td>India&#x27;s largest mobile operator with 524 million subscribers; opposes fixed-fee satellite spectrum allocation.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Reliance Industries</td><td>Conglomerate</td><td>Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Recur Club</td><td>Revenue-based financing</td><td>Financing platform providing growth capital to consumer brands, including food and snacking companies.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Razorpay</td><td>Fintech</td><td>Payments and banking platform for businesses; partnered with OpenAI for ChatGPT advertising in India.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">PVR Inox</td><td>Cinema exhibition</td><td>India&#x27;s largest multiplex chain with 1,763 screens across 111 cities; also streams live events.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">PTC Industries</td><td>Defence aerospace</td><td>Makes precision metal castings and forgings for defence, aerospace and marine use; raising Rs 1,800 crore.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">OpenAI</td><td>AI</td><td>Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Ola Electric</td><td>Electric vehicles</td><td>Manufacturer of electric scooters and two-wheelers in India; raised Rs 1,000 crore via rights issue.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Nvidia</td><td>Semiconductors</td><td>Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Novartis</td><td>Pharmaceuticals</td><td>Swiss drugmaker selling Ruxolitinib abroad as Jakavi for cancer and related conditions.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Naukri</td><td>Job portal</td><td>India&#x27;s largest job listing platform publishing monthly hiring data through its JobSpeak report.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Myntra</td><td>E-commerce</td><td>Online fashion retailer owned by Flipkart; former CEO Mukesh Bansal among ESOP petitioners.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Motilal Oswal</td><td>Financial services</td><td>Indian brokerage and financial services firm; values Jio Platforms and rates Reliance Industries a buy.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Michael &amp; Susan Dell Foundation</td><td>Philanthropy</td><td>Charitable foundation funding education, health and livelihood initiatives; invested in ByteXL.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Meta</td><td>Social media</td><td>Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">LVRG Research</td><td>Crypto research</td><td>Cryptocurrency market research firm analysing leverage and trading trends.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Lupin</td><td>Pharmaceuticals</td><td>Indian drugmaker launching a triple-combination inhaler for COPD treatment in India.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Larsen &amp; Toubro</td><td>Engineering construction</td><td>Indian infrastructure and engineering major; won initial nod for Jharkhand thermal power plant package.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Kross</td><td>Auto components</td><td>Indian manufacturer of forged and machined components for commercial vehicles.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Kalaari Capital</td><td>Venture capital</td><td>Indian venture capital firm investing in early-stage technology startups.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Jio Platforms</td><td>Telecom</td><td>Digital services arm of Reliance Industries; targeting $114 billion valuation in India&#x27;s largest IPO.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Info Edge</td><td>Internet classifieds</td><td>Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Indifi</td><td>Lending fintech</td><td>Digital lender providing working capital loans to small businesses, including quick-commerce sellers.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Indian Oil</td><td>Oil refining</td><td>India&#x27;s largest state-owned oil refining and marketing company.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Incyte</td><td>Pharmaceuticals</td><td>US biopharma selling Ruxolitinib as Jakafi for cancers and related conditions.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">IATA</td><td>Aviation</td><td>Global airline industry trade body urging alternatives to flight cuts at Mumbai airport.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">HPCL</td><td>Oil refining</td><td>State-owned Hindustan Petroleum refining and selling petroleum products in India.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Hindustan Aeronautics</td><td>Defence aerospace</td><td>Indian state-owned aircraft maker producing Tejas fighters; awaiting GE engines for deliveries.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Happy Forgings</td><td>Auto components</td><td>Indian manufacturer of forged and machined components for commercial vehicles and industrials.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Groww</td><td>Fintech</td><td>Online investment platform offering stock trading, mutual funds, bonds and wealth advisory services to retail investors in India.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Granules India</td><td>Pharmaceuticals</td><td>Indian generic drugmaker seeking first-to-file status for generic Ruxolitinib in the US.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Gradiant</td><td>Water treatment</td><td>Massachusetts water treatment company supplying ultrapure water and recycling systems to Indian manufacturers.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Google</td><td>Internet services</td><td>Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Go Digit</td><td>Insurance</td><td>Indian general insurance company offering motor, health and travel policies digitally.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">GE Aerospace</td><td>Defence aerospace</td><td>US engine maker shipping F404-IN20 engines to HAL for Tejas LCA Mk 1A fighter jets.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Flipkart</td><td>E-commerce</td><td>Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">FlexiLoans</td><td>Lending fintech</td><td>Digital lending platform offering short-term credit to small businesses and online sellers.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Fisdom</td><td>Wealthtech</td><td>Digital wealth management platform serving affluent customers; acquired by Groww for Rs 961 crore.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Elevar Equity</td><td>Venture capital</td><td>Impact investment firm focused on emerging markets; led ByteXL&#x27;s Series B round.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">DRDO</td><td>Defence research</td><td>India&#x27;s Defence Research and Development Organisation developing military technology and systems.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Deloitte</td><td>Professional services</td><td>Global consulting and audit firm advising on GST and tax policy matters.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Datum Intelligence</td><td>Market research</td><td>Research firm tracking consumer and retail trends, including quick commerce spending data.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Damodar Valley Corporation</td><td>Power generation</td><td>Government power utility operating thermal and hydel plants in eastern India.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Cupid</td><td>Healthcare products</td><td>Makes male and female condoms, personal lubricants and in-vitro diagnostic kits; joined Nifty Smallcap 250.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Connplex Cinemas</td><td>Cinema exhibition</td><td>Indian multiplex operator running cinemas in smaller cities and towns.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Coinglass</td><td>Crypto data</td><td>Cryptocurrency derivatives data platform tracking liquidations and open interest.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Coinbase</td><td>Crypto exchange</td><td>US cryptocurrency exchange acting as custodian for US government seized crypto assets.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Coal India</td><td>Mining</td><td>State-owned coal mining company; joint venture partner in the Chandrapura thermal project.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Chennai Petroleum</td><td>Oil refining</td><td>Government-owned standalone refiner in Chennai producing fuels and lubricating oil additives.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">CDK Global</td><td>Software</td><td>Sells software to car dealerships; appointed Sudhakar Ramakrishna as president and CEO.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">ByteXL</td><td>Edtech</td><td>B2B education technology startup providing AI-led learning tools; raised $9 million in Series B.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">BTC Markets</td><td>Crypto exchange</td><td>Australian cryptocurrency exchange providing market analysis and trading services.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Brookfield</td><td>Asset management</td><td>Canadian investment firm owning CDK Global and other infrastructure and real estate assets.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">BrahMos Aerospace</td><td>Defence aerospace</td><td>Indo-Russian joint venture producing the BrahMos supersonic cruise missile.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">BPCL</td><td>Oil refining</td><td>State-owned Bharat Petroleum refining and marketing fuels across India.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Bharti Hexacom</td><td>Telecom</td><td>Airtel-branded mobile operator in Rajasthan and Northeast India; also sells broadband in Rajasthan.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Bharti Airtel</td><td>Telecom</td><td>Indian telecom operator providing mobile, broadband and enterprise services across the country.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Bank of Maharashtra</td><td>Banking</td><td>Indian public sector bank providing retail and corporate banking services.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Arkham</td><td>Blockchain analytics</td><td>Blockchain intelligence firm tracking crypto wallets including US government holdings.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Aragen Life Sciences</td><td>Pharmaceuticals</td><td>Contract research and manufacturing firm; opened high-potency API platform in Hyderabad.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Apollo Crypto</td><td>Crypto investment</td><td>Cryptocurrency investment firm providing market commentary and analysis.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Amazon</td><td>E-commerce</td><td>Global online retailer running Great Indian Festival sale in competition with Flipkart.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Alameda Research</td><td>Crypto trading</td><td>Defunct crypto trading firm founded by Sam Bankman-Fried; seized BNB traced to it.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">AIA Engineering</td><td>Industrial machinery</td><td>Manufacturer of high-chromium grinding media and wear parts for mining and cement.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Aerolloy Technologies</td><td>Defence aerospace</td><td>PTC Industries subsidiary making titanium and superalloy castings for aircraft and defence.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Adani</td><td>Conglomerate</td><td>Indian conglomerate spanning ports, airports, energy and infrastructure; owns Mumbai and Navi Mumbai airports.</td><td class="date">08 Oct 2026</td></tr>
+<tr><td class="name">Accel</td><td>Venture capital</td><td>Global venture capital firm and early Flipkart investor that has exited with large returns.</td><td class="date">08 Oct 2026</td></tr>
+</tbody></table></div>
+</main>
+<script>
+(function () {
+  var box = document.getElementById("filter");
+  var rows = document.querySelectorAll("#log tbody tr");
+  box.addEventListener("input", function () {
+    var q = box.value.trim().toLowerCase();
+    rows.forEach(function (tr) {
+      tr.style.display = !q || tr.textContent.toLowerCase().indexOf(q) !== -1 ? "" : "none";
+    });
+  });
+})();
+</script>
+</div>

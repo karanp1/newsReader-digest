@@ -2,5 +2,33 @@
  "myclaw": {
   "ident": "https://newsletter.myclaw.ai/a-eur401k-prize-for-ai-film/",
   "day": "2026-10-08"
+ },
+ "ai|https://openai.com/index/teens-learn-and-plan": {
+  "ident": "https://openai.com/index/teens-learn-and-plan",
+  "day": "2026-10-08"
+ },
+ "ai|https://openai.com/index/radisson": {
+  "ident": "https://openai.com/index/radisson",
+  "day": "2026-10-08"
+ },
+ "ai|https://www.anthropic.com/news/cyber-verification-program": {
+  "ident": "https://www.anthropic.com/news/cyber-verification-program",
+  "day": "2026-10-08"
+ },
+ "ai|https://www.anthropic.com/news/claude-frontier-academy": {
+  "ident": "https://www.anthropic.com/news/claude-frontier-academy",
+  "day": "2026-10-08"
+ },
+ "ai|https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/": {
+  "ident": "https://deepmind.google/blog/embeddinggemma-2-an-open-lightweight-multimodal-embedding-model/",
+  "day": "2026-10-08"
+ },
+ "ai|https://mistral.ai/news/mistral-large-4/": {
+  "ident": "https://mistral.ai/news/mistral-large-4/",
+  "day": "2026-10-08"
+ },
+ "ai|https://newsletter.myclaw.ai/a-eur401k-prize-for-ai-film/": {
+  "ident": "https://newsletter.myclaw.ai/a-eur401k-prize-for-ai-film/",
+  "day": "2026-10-08"
  }
 }
