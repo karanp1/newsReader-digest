@@ -165,7 +165,7 @@
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-09"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-09"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -1214,6 +1214,111 @@
   "name": "NTPC",
   "sector": "Power",
   "description": "State-run power generator; parent of NTPC Green Energy.",
+  "first_added": "2026-10-09",
+  "last_mentioned": "2026-10-09"
+ },
+ "cognizant": {
+  "name": "Cognizant",
+  "sector": "IT services",
+  "description": "IT services firm; suspended from the US PERM green card programme.",
+  "first_added": "2026-10-09",
+  "last_mentioned": "2026-10-09"
+ },
+ "infosys": {
+  "name": "Infosys",
+  "sector": "IT services",
+  "description": "Indian IT services firm; suspended from the US PERM green card programme.",
+  "first_added": "2026-10-09",
+  "last_mentioned": "2026-10-09"
+ },
+ "hcl": {
+  "name": "HCL",
+  "sector": "IT services",
+  "description": "IT services firm; suspended from the US PERM green card programme.",
+  "first_added": "2026-10-09",
+  "last_mentioned": "2026-10-09"
+ },
+ "capgemini": {
+  "name": "Capgemini",
+  "sector": "IT services",
+  "description": "French IT services firm; suspended from the US PERM green card programme.",
+  "first_added": "2026-10-09",
+  "last_mentioned": "2026-10-09"
+ },
+ "microsoft": {
+  "name": "Microsoft",
+  "sector": "Software",
+  "description": "US software giant; suspended from the US PERM green card programme.",
+  "first_added": "2026-10-09",
+  "last_mentioned": "2026-10-09"
+ },
+ "adobe": {
+  "name": "Adobe",
+  "sector": "Software",
+  "description": "US software company; suspended from the US PERM green card programme.",
+  "first_added": "2026-10-09",
+  "last_mentioned": "2026-10-09"
+ },
+ "nestlehealthscience": {
+  "name": "Nestle Health Science",
+  "sector": "Nutrition",
+  "description": "Nestle's health science unit; received an FSSAI notice over misleading health claims.",
+  "first_added": "2026-10-09",
+  "last_mentioned": "2026-10-09"
+ },
+ "tirupatiwellness": {
+  "name": "Tirupati Wellness",
+  "sector": "Nutrition",
+  "description": "Wellness products company; received an FSSAI notice over misleading health claims.",
+  "first_added": "2026-10-09",
+  "last_mentioned": "2026-10-09"
+ },
+ "netmeds": {
+  "name": "Netmeds",
+  "sector": "Online pharmacy",
+  "description": "Online pharmacy platform; received an FSSAI notice over misleading health claims.",
+  "first_added": "2026-10-09",
+  "last_mentioned": "2026-10-09"
+ },
+ "shreyashretail": {
+  "name": "Shreyash Retail",
+  "sector": "Retail",
+  "description": "Seller on Flipkart whose licence was suspended by FSSAI over expired or rotten food.",
+  "first_added": "2026-10-09",
+  "last_mentioned": "2026-10-09"
+ },
+ "nexinternational": {
+  "name": "Nex International",
+  "sector": "Food trading",
+  "description": "Company facing FSSAI prosecution over loose raisins with pesticide residues above limits.",
+  "first_added": "2026-10-09",
+  "last_mentioned": "2026-10-09"
+ },
+ "block": {
+  "name": "Block",
+  "sector": "Fintech",
+  "description": "Payments and crypto company; shares fell over 2% in the crypto selloff.",
+  "first_added": "2026-10-09",
+  "last_mentioned": "2026-10-09"
+ },
+ "riotplatforms": {
+  "name": "Riot Platforms",
+  "sector": "Bitcoin mining",
+  "description": "Bitcoin miner; shares fell more than 9% during the crypto selloff.",
+  "first_added": "2026-10-09",
+  "last_mentioned": "2026-10-09"
+ },
+ "ciphermining": {
+  "name": "Cipher Mining",
+  "sector": "Bitcoin mining",
+  "description": "Bitcoin miner; shares fell 7.9% during the crypto selloff.",
+  "first_added": "2026-10-09",
+  "last_mentioned": "2026-10-09"
+ },
+ "cyient": {
+  "name": "Cyient",
+  "sector": "Engineering services",
+  "description": "Engineering research and development services company; shares jumped 6%.",
   "first_added": "2026-10-09",
   "last_mentioned": "2026-10-09"
  }

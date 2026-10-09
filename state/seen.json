@@ -110,5 +110,9 @@
  "ai|https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/": {
   "ident": "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/",
   "day": "2026-10-09"
+ },
+ "ai|https://openai.com/index/sophos": {
+  "ident": "https://openai.com/index/sophos",
+  "day": "2026-10-09"
  }
 }
