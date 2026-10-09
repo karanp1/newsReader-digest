@@ -62,5 +62,53 @@
  "ai|https://www.pymnts.com/news/artificial-intelligence/2026/ai-targets-trade-finance-paperwork-bottleneck/": {
   "ident": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-targets-trade-finance-paperwork-bottleneck/",
   "day": "2026-10-08"
+ },
+ "ai|https://openai.com/index/oracle": {
+  "ident": "https://openai.com/index/oracle",
+  "day": "2026-10-09"
+ },
+ "ai|https://openai.com/index/pollo-ai": {
+  "ident": "https://openai.com/index/pollo-ai",
+  "day": "2026-10-09"
+ },
+ "ai|https://www.anthropic.com/news/2026-usage-policy-update": {
+  "ident": "https://www.anthropic.com/news/2026-usage-policy-update",
+  "day": "2026-10-09"
+ },
+ "ai|https://www.anthropic.com/news/genesis-mission-commitment": {
+  "ident": "https://www.anthropic.com/news/genesis-mission-commitment",
+  "day": "2026-10-09"
+ },
+ "ai|https://www.cityam.com/hsbc-set-to-axe-uk-wealth-jobs-as-ai-takes-hold/": {
+  "ident": "https://www.cityam.com/hsbc-set-to-axe-uk-wealth-jobs-as-ai-takes-hold/",
+  "day": "2026-10-09"
+ },
+ "ai|https://fortune.com/2026/10/07/citi-slashes-promotion-timeline-analyst-program-hiring-war-private-equity-ai/": {
+  "ident": "https://fortune.com/2026/10/07/citi-slashes-promotion-timeline-analyst-program-hiring-war-private-equity-ai/",
+  "day": "2026-10-09"
+ },
+ "ai|https://www.pymnts.com/news/artificial-intelligence/2026/carmax-lets-ai-take-the-call-not-the-sale/": {
+  "ident": "https://www.pymnts.com/news/artificial-intelligence/2026/carmax-lets-ai-take-the-call-not-the-sale/",
+  "day": "2026-10-09"
+ },
+ "ai|https://www.pymnts.com/restaurant-technology/2026/toast-deploys-ai-labor-management-tools-for-restaurateurs/": {
+  "ident": "https://www.pymnts.com/restaurant-technology/2026/toast-deploys-ai-labor-management-tools-for-restaurateurs/",
+  "day": "2026-10-09"
+ },
+ "ai|https://gizmodo.com/guy-who-made-millions-by-creating-ai-music-ouroboros-receives-18-month-prison-sentence-2000822638": {
+  "ident": "https://gizmodo.com/guy-who-made-millions-by-creating-ai-music-ouroboros-receives-18-month-prison-sentence-2000822638",
+  "day": "2026-10-09"
+ },
+ "ai|https://www.fastcompany.com/91618486/homebuying-real-estate-agent-survey-resiclub-zoodealio-ai-to-help-buy-home": {
+  "ident": "https://www.fastcompany.com/91618486/homebuying-real-estate-agent-survey-resiclub-zoodealio-ai-to-help-buy-home",
+  "day": "2026-10-09"
+ },
+ "ai|https://mediaproject.wesleyan.edu/releases-090426/": {
+  "ident": "https://mediaproject.wesleyan.edu/releases-090426/",
+  "day": "2026-10-09"
+ },
+ "ai|https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/": {
+  "ident": "https://the-decoder.com/wikimedia-confirms-openais-rogue-ai-agents-edited-wikis-tried-to-compromise-tools-and-hammered-its-infrastructure/",
+  "day": "2026-10-09"
  }
 }
