@@ -4,7 +4,7 @@
   "sector": "Fintech",
   "description": "Online investment platform offering stock trading, mutual funds, bonds and wealth advisory services to retail investors in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "fisdom": {
   "name": "Fisdom",
@@ -46,7 +46,7 @@
   "sector": "Market research",
   "description": "Research firm tracking consumer and retail trends, including quick commerce spending data.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "meta": {
   "name": "Meta",
@@ -137,7 +137,7 @@
   "sector": "Satellite internet",
   "description": "SpaceX's satellite broadband service awaiting security approvals for its India launch.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "spacex": {
   "name": "SpaceX",
@@ -151,42 +151,42 @@
   "sector": "Telecom",
   "description": "India's largest mobile operator with 524 million subscribers; opposes fixed-fee satellite spectrum allocation.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "jioplatforms": {
   "name": "Jio Platforms",
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
   "sector": "Telecom",
   "description": "Indian telecom operator providing mobile, broadband and enterprise services across the country.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "motilaloswal": {
   "name": "Motilal Oswal",
   "sector": "Financial services",
   "description": "Indian brokerage and financial services firm; values Jio Platforms and rates Reliance Industries a buy.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "flipkart": {
   "name": "Flipkart",
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "walmart": {
   "name": "Walmart",
@@ -207,7 +207,7 @@
   "sector": "Venture capital",
   "description": "Global venture capital firm and early Flipkart investor that has exited with large returns.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "tigerglobal": {
   "name": "Tiger Global",
@@ -221,7 +221,7 @@
   "sector": "E-commerce",
   "description": "Global online retailer running Great Indian Festival sale in competition with Flipkart.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "chennaipetroleum": {
   "name": "Chennai Petroleum",
@@ -333,7 +333,7 @@
   "sector": "Engineering construction",
   "description": "Indian infrastructure and engineering major; won initial nod for Jharkhand thermal power plant package.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "damodarvalley": {
   "name": "Damodar Valley Corporation",
@@ -347,7 +347,7 @@
   "sector": "Mining",
   "description": "State-owned coal mining company; joint venture partner in the Chandrapura thermal project.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "geaerospace": {
   "name": "GE Aerospace",
@@ -361,7 +361,7 @@
   "sector": "Defence aerospace",
   "description": "Indian state-owned aircraft maker producing Tejas fighters; awaiting GE engines for deliveries.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "lupin": {
   "name": "Lupin",
@@ -473,7 +473,7 @@
   "sector": "Crypto data",
   "description": "Cryptocurrency derivatives data platform tracking liquidations and open interest.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "lvrgresearch": {
   "name": "LVRG Research",
@@ -501,21 +501,21 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "naukri": {
   "name": "Naukri",
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "godigit": {
   "name": "Go Digit",
@@ -648,7 +648,7 @@
   "sector": "Semiconductors",
   "description": "Partnered with Tejas Networks to demonstrate pre-standard 6G ISAC technology.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "nokia": {
   "name": "Nokia",
@@ -662,7 +662,7 @@
   "sector": "IT services",
   "description": "Issued a Rs 1,537 crore Letter of Intent to Tejas for BSNL 4G RAN equipment.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "blinkit": {
   "name": "Blinkit",
@@ -781,14 +781,14 @@
   "sector": "Matchmaking",
   "description": "Info Edge's matrimony platform; Q2 billings rose 18.4% to Rs 39.7 crore.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "99acres": {
   "name": "99acres",
   "sector": "Real estate",
   "description": "Info Edge's property listings platform; Q2 billings grew 21.2% to Rs 148.3 crore.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "mivi": {
   "name": "Mivi",
@@ -837,98 +837,98 @@
   "sector": "E-commerce",
   "description": "Indian e-commerce marketplace; cofounder Vidit Aatrey spoke at the ET Startup Awards.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "pixxel": {
   "name": "Pixxel",
   "sector": "Spacetech",
   "description": "Indian spacetech startup building hyperspectral imaging satellites.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "brainsightai": {
   "name": "BrainSight AI",
   "sector": "Healthtech AI",
   "description": "Startup using AI for brain imaging and neuroscience diagnostics.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "agranilabs": {
   "name": "Agrani Labs",
   "sector": "AI semiconductors",
   "description": "Startup developing AI semiconductor technology.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "wipro": {
   "name": "Wipro",
   "sector": "IT services",
   "description": "Indian IT services company; chairman Rishad Premji led the ET Startup Awards jury.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "porsche": {
   "name": "Porsche",
   "sector": "Automotive",
   "description": "German sports car maker; signed five-year partnership with TCS and is selling its MHP unit.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "mhp": {
   "name": "MHP",
   "sector": "IT consulting",
   "description": "Porsche's Germany-based management and IT consulting subsidiary, being acquired by TCS.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "bestbuy": {
   "name": "Best Buy",
   "sector": "Retail",
   "description": "US electronics retailer; TCS will take over its India global capability centre.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "amazonwebservices": {
   "name": "Amazon Web Services",
   "sector": "Cloud computing",
   "description": "Amazon's cloud arm; its ventures chief expects AI to fuel a new startup wave.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "dailyobjects": {
   "name": "DailyObjects",
   "sector": "Lifestyle accessories",
   "description": "Lifestyle accessories brand; raised Rs 332 crore at a Rs 1,050 crore valuation.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "xponentiacapitalpartners": {
   "name": "Xponentia Capital Partners",
   "sector": "Private equity",
   "description": "Investment firm; led DailyObjects' Rs 332 crore funding round.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "anicutcapital": {
   "name": "Anicut Capital",
   "sector": "Private equity",
   "description": "Investment firm; participated in DailyObjects' Rs 332 crore funding round.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "axiomasiacapital": {
   "name": "Axiom Asia Private Capital",
   "sector": "Private equity",
   "description": "Asia-focused private equity firm; invested in DailyObjects' funding round.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "neuralink": {
   "name": "Neuralink",
   "sector": "Neurotechnology",
   "description": "Elon Musk's brain-implant company; executive Shivon Zilis announced their relationship ended.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "ssplsolutions": {
   "name": "SSPL Solutions",
@@ -963,7 +963,7 @@
   "sector": "Satellite internet",
   "description": "Satellite broadband operator that already holds an Indian authorisation.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "texprocil": {
   "name": "Texprocil",
@@ -984,7 +984,7 @@
   "sector": "IT services",
   "description": "IT services firm; launched 20 purpose-built Industry AI Solutions across sectors.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "airindia": {
   "name": "Air India",
@@ -1061,14 +1061,14 @@
   "sector": "Asset management",
   "description": "Asset manager; its IBIT bitcoin ETF led $487.1 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "fidelity": {
   "name": "Fidelity",
   "sector": "Asset management",
   "description": "Asset manager; its FBTC bitcoin ETF saw $105.2 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "arkhamintelligence": {
   "name": "Arkham Intelligence",
@@ -1096,7 +1096,7 @@
   "sector": "Crypto analytics",
   "description": "On-chain data firm; noted bitcoin's sell wall at $86,500 and buy orders near $81,000.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "kraken": {
   "name": "Kraken",
@@ -1117,7 +1117,7 @@
   "sector": "Defence aerospace",
   "description": "Engine maker; expects HTT-40 engine deliveries to HAL ahead of schedule.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "bsnl": {
   "name": "BSNL",
@@ -1138,14 +1138,14 @@
   "sector": "Education",
   "description": "Info Edge's education portal; billings fell 27.2% as AI search cut referral traffic.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "flipkartminutes": {
   "name": "Flipkart Minutes",
   "sector": "Quick commerce",
   "description": "Flipkart's quick-commerce arm; hired Dibyendu Sen for brand partnerships.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "safari": {
   "name": "Safari",
@@ -1201,7 +1201,7 @@
   "sector": "Stock exchange",
   "description": "National Stock Exchange; listed on 24 September at Rs 1,785 per share.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "ntpcgreenenergy": {
   "name": "NTPC Green Energy",
@@ -1222,14 +1222,14 @@
   "sector": "IT services",
   "description": "IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "infosys": {
   "name": "Infosys",
   "sector": "IT services",
   "description": "Indian IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "hcl": {
   "name": "HCL",
@@ -1243,21 +1243,21 @@
   "sector": "IT services",
   "description": "French IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "microsoft": {
   "name": "Microsoft",
   "sector": "Software",
   "description": "US software giant; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "adobe": {
   "name": "Adobe",
   "sector": "Software",
   "description": "US software company; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "nestlehealthscience": {
   "name": "Nestle Health Science",
@@ -1320,6 +1320,237 @@
   "sector": "Engineering services",
   "description": "Engineering research and development services company; shares jumped 6%.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
+ },
+ "tvsmotor": {
+  "name": "TVS Motor",
+  "sector": "Automotive",
+  "description": "Two-wheeler maker; at the centre of an ownership dispute in Venu Srinivasan's family branch.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "tvsholdings": {
+  "name": "TVS Holdings",
+  "sector": "Holding company",
+  "description": "TVS Group holding firm; disclosed Sudarshan Venu as a Significant Beneficial Owner.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "bharat6galliance": {
+  "name": "Bharat 6G Alliance",
+  "sector": "Telecom industry body",
+  "description": "Alliance for 6G research; expanded to over 90 organisations including 30-plus deep-tech AI firms.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "apple": {
+  "name": "Apple",
+  "sector": "Consumer electronics",
+  "description": "iPhone and MacBook maker; discounts on MacBook Neo offered during Flipkart's sale.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "icicibank": {
+  "name": "ICICI Bank",
+  "sector": "Banking",
+  "description": "Private bank; offered credit card discounts on MacBook Neo during Flipkart sale.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "hdfcbank": {
+  "name": "HDFC Bank",
+  "sector": "Banking",
+  "description": "Private bank; offered debit card discounts on MacBook Neo during Flipkart sale.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "inoxwind": {
+  "name": "Inox Wind",
+  "sector": "Wind energy",
+  "description": "Wind turbine maker; shares rose 6.76% on group sentiment after sister firm's acquisition.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "inoxgreenenergyservices": {
+  "name": "Inox Green Energy Services",
+  "sector": "Renewable services",
+  "description": "Inox Group firm; announced acquisition of Wind World India's 4.5 GW O&M business for Rs 550 crore.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "windworldindia": {
+  "name": "Wind World India",
+  "sector": "Wind energy",
+  "description": "Wind energy firm; selling its 4.5 GW operations and maintenance business.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "kecinternational": {
+  "name": "KEC International",
+  "sector": "Infrastructure EPC",
+  "description": "RPG Group infrastructure arm; shares jumped 5.79% on Rs 1,030 crore order wins.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "criticalmetals": {
+  "name": "Critical Metals",
+  "sector": "Mining",
+  "description": "Mining firm; its CEO commented on gold price risks ahead of the Fed meeting.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "saigongoldjewelrycompany": {
+  "name": "Saigon Gold Jewelry Company",
+  "sector": "Gold retail",
+  "description": "Vietnamese gold firm; its gold bar price rose 0.91% on the global rally.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "saxobank": {
+  "name": "Saxo Bank",
+  "sector": "Banking",
+  "description": "Investment bank; analyst Ole Hansen commented on gold's rangebound outlook.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "lplfinancial": {
+  "name": "LPL Financial",
+  "sector": "Financial services",
+  "description": "Brokerage; analyst Adam Turnquist commented on the dollar index and gold.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "kotakinstitutionalequities": {
+  "name": "Kotak Institutional Equities",
+  "sector": "Brokerage",
+  "description": "Brokerage; upgraded Info Edge to Buy with a Rs 1,400 target.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "jpmorgan": {
+  "name": "JPMorgan",
+  "sector": "Banking",
+  "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "citi": {
+  "name": "Citi",
+  "sector": "Banking",
+  "description": "Investment bank; maintains Buy on Info Edge with up to 27% upside.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "nuvama": {
+  "name": "Nuvama",
+  "sector": "Financial services",
+  "description": "Brokerage; valued Jio at Rs 331-450 per Reliance share.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "yessecurities": {
+  "name": "Yes Securities",
+  "sector": "Brokerage",
+  "description": "Brokerage; forecast net interest income up 14.7% and valued Jio.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "hdfcsecurities": {
+  "name": "HDFC Securities",
+  "sector": "Brokerage",
+  "description": "Brokerage; its analyst Dilip Parmar gave rupee resistance and support levels.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "equinomicsresearch": {
+  "name": "Equinomics Research",
+  "sector": "Research",
+  "description": "Research firm; its founder commented on Reliance's holding-company discount.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "changeglobalinvestment": {
+  "name": "Change Global Investment",
+  "sector": "Investment management",
+  "description": "Investment firm; analyst commented on parent-company discounts for Reliance.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "omnicomadvertisingindia": {
+  "name": "Omnicom Advertising India",
+  "sector": "Advertising",
+  "description": "Ad agency; its unit 22feet created Flipkart's 'Ek Size Bada Le Lo' campaign.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "22feet": {
+  "name": "22feet",
+  "sector": "Advertising",
+  "description": "Creative agency under Omnicom; created Flipkart's Big Billion Days TV campaign.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "tirupurdomesticgarmentsmanufacturersassociation": {
+  "name": "Tirupur Domestic Garments Manufacturers Association",
+  "sector": "Trade body",
+  "description": "Tiruppur apparel makers' body; co-organising a domestic garment exhibition in January.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "southindiahosierymanufacturersassociation": {
+  "name": "South India Hosiery Manufacturers Association",
+  "sector": "Trade body",
+  "description": "Tiruppur garment and inner wear makers' body; co-organising the January exhibition.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "chamberoftradeandindustry": {
+  "name": "Chamber of Trade and Industry",
+  "sector": "Trade body",
+  "description": "Traders' group; asked for a ban on large protests in central Delhi till Diwali.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "vdma": {
+  "name": "VDMA",
+  "sector": "Industry association",
+  "description": "German Engineering Federation; said German machinery exports to India rose 11% in H1 2026.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "unctad": {
+  "name": "UNCTAD",
+  "sector": "Multilateral body",
+  "description": "UN trade body; reported India drew 5.7% of global greenfield investment in 2020-25.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "bloombergintelligence": {
+  "name": "Bloomberg Intelligence",
+  "sector": "Research",
+  "description": "Research arm of Bloomberg; analyst James Seyffart estimated bitcoin ETF average entry price.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "tradenation": {
+  "name": "Trade Nation",
+  "sector": "Brokerage",
+  "description": "Brokerage; analyst David Morrison commented on gold's MACD momentum.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "fxtm": {
+  "name": "FXTM",
+  "sector": "Brokerage",
+  "description": "Brokerage; analyst Lukman Otunuga commented on gold's medium-term outlook.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "forexcom": {
+  "name": "FOREX.com",
+  "sector": "Brokerage",
+  "description": "Trading platform; analyst Fawad Razaqzada commented on gold and Fed policy.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
  }
 }
