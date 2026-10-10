@@ -39,7 +39,7 @@
   "sector": "Revenue-based financing",
   "description": "Financing platform providing growth capital to consumer brands, including food and snacking companies.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "datumintelligence": {
   "name": "Datum Intelligence",
@@ -53,14 +53,14 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "google": {
   "name": "Google",
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "olaelectric": {
   "name": "Ola Electric",
@@ -88,14 +88,14 @@
   "sector": "Edtech",
   "description": "B2B education technology startup providing AI-led learning tools; raised $9 million in Series B.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "elevarequity": {
   "name": "Elevar Equity",
   "sector": "Venture capital",
   "description": "Impact investment firm focused on emerging markets; led ByteXL's Series B round.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "kalaaricapital": {
   "name": "Kalaari Capital",
@@ -130,7 +130,7 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "starlink": {
   "name": "Starlink",
@@ -235,7 +235,7 @@
   "sector": "Oil refining",
   "description": "India's largest state-owned oil refining and marketing company.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "bpcl": {
   "name": "BPCL",
@@ -319,7 +319,7 @@
   "sector": "Telecom",
   "description": "Indian telecom operator with negative earnings, competing with Airtel and Jio.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "cupid": {
   "name": "Cupid",
@@ -452,7 +452,7 @@
   "sector": "Crypto exchange",
   "description": "US cryptocurrency exchange acting as custodian for US government seized crypto assets.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "alamedaresearch": {
   "name": "Alameda Research",
@@ -466,7 +466,7 @@
   "sector": "Blockchain analytics",
   "description": "Blockchain intelligence firm tracking crypto wallets including US government holdings.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "coinglass": {
   "name": "Coinglass",
@@ -606,7 +606,7 @@
   "sector": "Fintech",
   "description": "Digital payments firm; RBI removed its associate Paytm Payments Bank from scheduled banks list.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "seruminstituteofindia": {
   "name": "Serum Institute of India",
@@ -641,7 +641,7 @@
   "sector": "Banking",
   "description": "Raised its Robinhood price target to $156 from $140.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "qualcomm": {
   "name": "Qualcomm",
@@ -669,21 +669,21 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
   "sector": "Quick commerce",
   "description": "Ranked third in product availability at 83.8%, per Bernstein.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "zepto": {
   "name": "Zepto",
   "sector": "Quick commerce",
   "description": "Ranked fourth in product availability at 82.5%, per Bernstein.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "criteo": {
   "name": "Criteo",
@@ -956,7 +956,7 @@
   "sector": "Conglomerate",
   "description": "Mukesh Ambani-led conglomerate; its satellite arm already holds India authorisation.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "oneweb": {
   "name": "OneWeb",
@@ -1550,6 +1550,566 @@
   "name": "FOREX.com",
   "sector": "Brokerage",
   "description": "Trading platform; analyst Fawad Razaqzada commented on gold and Fed policy.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "qwiksupply": {
+  "name": "Qwik Supply",
+  "sector": "Not enough detail in today's digest",
+  "description": "Reliance-linked firm reported to have donated to political parties through electoral bonds.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "jiosatcom": {
+  "name": "Jio Satcom",
+  "sector": "Satellite internet",
+  "description": "Reliance Jio's satellite communications venture, one of three licensed satcom providers in India.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "googlecloud": {
+  "name": "Google Cloud",
+  "sector": "Cloud computing",
+  "description": "Google's cloud unit, which appointed an interim India head this week.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "beyondappliances": {
+  "name": "Beyond Appliances",
+  "sector": "Consumer appliances",
+  "description": "Smart kitchen appliance startup that raised Rs 110 crore in a Series B led by Fireside Ventures.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "firesideventures": {
+  "name": "Fireside Ventures",
+  "sector": "Venture capital",
+  "description": "Consumer-focused venture fund that led Beyond Appliances' Series B round.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "neogrowth": {
+  "name": "NeoGrowth",
+  "sector": "Fintech lending",
+  "description": "MSME-focused digital lender that raised Rs 85 crore in equity and debt from FMO and LeapFrog.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "fmo": {
+  "name": "FMO",
+  "sector": "Development finance",
+  "description": "Dutch development bank that funded MSME lender NeoGrowth.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "leapfroginvestments": {
+  "name": "LeapFrog Investments",
+  "sector": "Impact investing",
+  "description": "Impact investment firm that funded MSME lender NeoGrowth.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "quanfluence": {
+  "name": "Quanfluence",
+  "sector": "Quantum technology",
+  "description": "Photonic quantum technology startup that raised $10 million from Chiratae Ventures and Rainmatter.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "chirataeventures": {
+  "name": "Chiratae Ventures",
+  "sector": "Venture capital",
+  "description": "Indian venture fund that invested in quantum startup Quanfluence.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "rainmatter": {
+  "name": "Rainmatter",
+  "sector": "Venture capital",
+  "description": "Zerodha-backed fund that invested in quantum startup Quanfluence.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "sunfoxtechnologies": {
+  "name": "Sunfox Technologies",
+  "sector": "Medtech",
+  "description": "Medtech startup that raised $7 million in a Series A co-led by Alchemy Capital and 3one4 Capital.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "alchemycapital": {
+  "name": "Alchemy Capital",
+  "sector": "Asset management",
+  "description": "Investment firm that co-led Sunfox Technologies' Series A round.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "3one4capital": {
+  "name": "3one4 Capital",
+  "sector": "Venture capital",
+  "description": "Venture fund that co-led medtech startup Sunfox Technologies' Series A.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "qpiai": {
+  "name": "QpiAI",
+  "sector": "Quantum computing",
+  "description": "Quantum computing startup that raised Rs 50 crore in debt from InnoVen Capital.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "innovencapital": {
+  "name": "InnoVen Capital",
+  "sector": "Venture debt",
+  "description": "Venture debt provider that funded quantum computing startup QpiAI.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "kisah": {
+  "name": "Kisah",
+  "sector": "Menswear",
+  "description": "Omnichannel menswear brand that raised early-stage funding this week.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "zomint": {
+  "name": "Zomint",
+  "sector": "Wealth management",
+  "description": "Wealth management startup that raised early-stage funding this week.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "desibleai": {
+  "name": "Desible.ai",
+  "sector": "AI",
+  "description": "Artificial intelligence startup that raised early-stage funding this week.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "supermush": {
+  "name": "SuperMush",
+  "sector": "Healthtech",
+  "description": "Healthtech startup that raised early-stage funding this week.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "gramiyaa": {
+  "name": "Gramiyaa",
+  "sector": "Food and beverage",
+  "description": "Cold-pressed oil brand that raised early-stage funding this week.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "travclan": {
+  "name": "TravClan",
+  "sector": "Travel tech",
+  "description": "Travel technology platform that raised an undisclosed funding round this week.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "moneytruva": {
+  "name": "MoneyTruVa",
+  "sector": "Financial information",
+  "description": "Financial information platform that raised an undisclosed funding round this week.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "betternutrition": {
+  "name": "Better Nutrition",
+  "sector": "Food and beverage",
+  "description": "Biofortified staples brand that raised an undisclosed funding round this week.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "sorrysugar": {
+  "name": "Sorry Sugar",
+  "sector": "Food and beverage",
+  "description": "Company that named Palash Arneja as Founder and CEO this week.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "snabbit": {
+  "name": "Snabbit",
+  "sector": "Home services",
+  "description": "Startup that appointed Ramesh Srinivasan as Head of Growth and Revenue.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "altenindia": {
+  "name": "ALTEN India",
+  "sector": "Engineering services",
+  "description": "Engineering and technology consulting firm that named Prabhakar Atla as CEO.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "eggoz": {
+  "name": "Eggoz",
+  "sector": "Food and beverage",
+  "description": "Egg brand that onboarded actor Boman Irani as its brand ambassador.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "genefied": {
+  "name": "Genefied",
+  "sector": "Agritech",
+  "description": "Company that promoted Krishna Khandelwal to Chief Sales Officer.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "sarvamai": {
+  "name": "Sarvam AI",
+  "sector": "AI",
+  "description": "Indian AI startup that appointed former Google Cloud India MD Sashikumar Sreedharan as President.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "otpless": {
+  "name": "OTPless",
+  "sector": "Fintech",
+  "description": "Authentication and payments startup that named Geetanshu Singla as CTO.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "marico": {
+  "name": "Marico",
+  "sector": "FMCG",
+  "description": "Consumer goods major that acquired an additional 24.09% stake in Satiya Nutraceuticals.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "satiyanutraceuticals": {
+  "name": "Satiya Nutraceuticals",
+  "sector": "Beauty and wellness",
+  "description": "Parent of the Plix brand, in which Marico raised its stake for Rs 1,012 crore.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "plix": {
+  "name": "Plix",
+  "sector": "Beauty and wellness",
+  "description": "Plant-based nutrition and wellness brand owned by Satiya Nutraceuticals.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "hoolahealth": {
+  "name": "Hoola Health",
+  "sector": "Paediatric healthcare",
+  "description": "Paediatric healthcare company that acquired early-childhood development platform UpTodd.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "uptodd": {
+  "name": "UpTodd",
+  "sector": "Edtech",
+  "description": "Early-childhood development platform acquired by Hoola Health.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "naveliventures": {
+  "name": "Naveli Ventures",
+  "sector": "Venture capital",
+  "description": "New venture arm of the Nanda Family Office investing in deeptech, AI, clean energy, space and healthcare.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "nabventures": {
+  "name": "NABVENTURES",
+  "sector": "Venture capital",
+  "description": "Fund that secured Rs 450 crore in the first close of its second fund.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "phonepe": {
+  "name": "PhonePe",
+  "sector": "Fintech",
+  "description": "Payments platform that partnered with DPCGC to simplify OTT regulatory compliance for merchants.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "pluckk": {
+  "name": "Pluckk",
+  "sector": "FMCG",
+  "description": "Digital-first clean-label FMCG brand that entered the UK market with protein bars and juices.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "pinelabs": {
+  "name": "Pine Labs",
+  "sector": "Fintech",
+  "description": "Merchant payments company that launched a unified payments and engagement platform in Singapore.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "startuppolicyforum": {
+  "name": "Startup Policy Forum",
+  "sector": "Policy",
+  "description": "Industry body that launched DeepVerse, a deeptech policy platform with 30 partners.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "bessemerventurepartners": {
+  "name": "Bessemer Venture Partners",
+  "sector": "Venture capital",
+  "description": "Venture fund partnering on the DeepVerse deeptech policy platform.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "lightspeed": {
+  "name": "Lightspeed",
+  "sector": "Venture capital",
+  "description": "Venture fund partnering on the DeepVerse deeptech policy platform.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "climatecollectivefoundation": {
+  "name": "Climate Collective Foundation",
+  "sector": "Climate tech",
+  "description": "Organisation hosting the first Bangalore Climate Data Week from October 12 to 16.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "sahi": {
+  "name": "Sahi",
+  "sector": "Stock broking",
+  "description": "Broking platform that recorded the fastest month-on-month client growth among top 20 brokers.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "pbfintech": {
+  "name": "PB Fintech",
+  "sector": "Fintech",
+  "description": "Policybazaar parent whose price target BofA cut 19% on IRDAI commission change risks.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "hindustanpetroleum": {
+  "name": "Hindustan Petroleum",
+  "sector": "Oil and gas",
+  "description": "State oil marketing company covered by the RBI's special dollar window.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "bharatpetroleum": {
+  "name": "Bharat Petroleum",
+  "sector": "Oil and gas",
+  "description": "State oil marketing company covered by the RBI's special dollar window.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "kotakmahindracapital": {
+  "name": "Kotak Mahindra Capital",
+  "sector": "Investment banking",
+  "description": "One of 19 banks appointed for Jio Platforms' IPO.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "morganstanley": {
+  "name": "Morgan Stanley",
+  "sector": "Financial services",
+  "description": "Investment bank appointed for Jio Platforms' IPO.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "bankofamerica": {
+  "name": "Bank of America",
+  "sector": "Financial services",
+  "description": "Investment bank appointed for Jio Platforms' IPO.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "axiscapital": {
+  "name": "Axis Capital",
+  "sector": "Investment banking",
+  "description": "Investment bank appointed for Jio Platforms' IPO.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "bnpparibas": {
+  "name": "BNP Paribas",
+  "sector": "Financial services",
+  "description": "Investment bank appointed for Jio Platforms' IPO.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "citigroup": {
+  "name": "Citigroup",
+  "sector": "Financial services",
+  "description": "Investment bank appointed for Jio Platforms' IPO.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "publicinvestmentfund": {
+  "name": "Public Investment Fund",
+  "sector": "Sovereign wealth",
+  "description": "Saudi sovereign fund and existing Jio Platforms investor not selling in the IPO.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "kkr": {
+  "name": "KKR",
+  "sector": "Private equity",
+  "description": "Existing Jio Platforms investor holding its stake through the IPO.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "vistaequitypartners": {
+  "name": "Vista Equity Partners",
+  "sector": "Private equity",
+  "description": "Existing Jio Platforms investor holding its stake through the IPO.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "silverlake": {
+  "name": "Silver Lake",
+  "sector": "Private equity",
+  "description": "Existing Jio Platforms investor holding its stake through the IPO.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "mubadala": {
+  "name": "Mubadala",
+  "sector": "Sovereign wealth",
+  "description": "Abu Dhabi sovereign fund and existing Jio Platforms investor.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "generalatlantic": {
+  "name": "General Atlantic",
+  "sector": "Private equity",
+  "description": "Existing Jio Platforms investor holding its stake through the IPO.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "abudhabiinvestmentauthority": {
+  "name": "Abu Dhabi Investment Authority",
+  "sector": "Sovereign wealth",
+  "description": "Existing Jio Platforms investor holding its stake through the IPO.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "tpg": {
+  "name": "TPG",
+  "sector": "Private equity",
+  "description": "Existing Jio Platforms investor holding its stake through the IPO.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "jaadhuholdings": {
+  "name": "Jaadhu Holdings",
+  "sector": "Holding company",
+  "description": "Meta affiliate and largest external Jio Platforms investor with a 9.98% stake.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "googleinternational": {
+  "name": "Google International",
+  "sector": "Holding company",
+  "description": "Google entity holding a 7.73% stake in Jio Platforms.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "beatthestreet": {
+  "name": "Beat The Street",
+  "sector": "Financial research",
+  "description": "Research firm whose co-founder estimated Reliance's holding-company discount at 36%.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "lttechnology": {
+  "name": "L&T Technology",
+  "sector": "Engineering services",
+  "description": "Engineering services firm used as a valuation comparison for Cyient.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "tatatechnologies": {
+  "name": "Tata Technologies",
+  "sector": "Engineering services",
+  "description": "Engineering services firm used as a valuation comparison for Cyient.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "sagility": {
+  "name": "Sagility",
+  "sector": "Healthcare services",
+  "description": "Business process services firm used as a valuation comparison for Cyient.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "deribit": {
+  "name": "Deribit",
+  "sector": "Crypto derivatives",
+  "description": "Crypto options exchange whose CEO commented on bitcoin tail risk and VaR measures.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "londonbullionmarketassociation": {
+  "name": "London Bullion Market Association",
+  "sector": "Bullion trade body",
+  "description": "Industry body whose conference delegates projected gold at $5,000 within a year.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "bundesbank": {
+  "name": "Bundesbank",
+  "sector": "Central bank",
+  "description": "Germany's central bank, whose president noted gold is nearly a quarter of global central bank reserves.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "eternal": {
+  "name": "Eternal",
+  "sector": "E-commerce",
+  "description": "Parent company of quick-commerce platform Blinkit.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "bernstein": {
+  "name": "Bernstein",
+  "sector": "Financial research",
+  "description": "Brokerage that ranked quick-commerce platforms on product availability.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "hyundaimotorindia": {
+  "name": "Hyundai Motor India",
+  "sector": "Automotive",
+  "description": "Carmaker whose October 2024 IPO was India's largest before Jio Platforms' offering.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "dolatcapital": {
+  "name": "Dolat Capital",
+  "sector": "Financial services",
+  "description": "Brokerage that valued Jio Platforms at about $110 billion in June estimates.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "dpcgc": {
+  "name": "DPCGC",
+  "sector": "Regulatory body",
+  "description": "Digital Publisher Content Grievances Council that signed a compliance MoU with PhonePe.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "iamai": {
+  "name": "IAMAI",
+  "sector": "Industry association",
+  "description": "Internet industry body under which the DPCGC self-regulatory council operates.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "ekart": {
+  "name": "Ekart",
+  "sector": "Logistics",
+  "description": "Flipkart's logistics arm, part of its expanded festive supply chain network.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "fave": {
+  "name": "Fave",
+  "sector": "Fintech",
+  "description": "Pine Labs' rewards and customer engagement app used in its new Singapore platform.",
   "first_added": "2026-10-10",
   "last_mentioned": "2026-10-10"
  }
