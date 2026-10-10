@@ -459,7 +459,7 @@
   "sector": "Crypto trading",
   "description": "Defunct crypto trading firm founded by Sam Bankman-Fried; seized BNB traced to it.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-10"
  },
  "arkham": {
   "name": "Arkham",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-10"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -2110,6 +2110,20 @@
   "name": "Fave",
   "sector": "Fintech",
   "description": "Pine Labs' rewards and customer engagement app used in its new Singapore platform.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "ledger": {
+  "name": "Ledger",
+  "sector": "Crypto hardware",
+  "description": "Hardware wallet maker; investigating missing crypto linked to reseller.",
+  "first_added": "2026-10-10",
+  "last_mentioned": "2026-10-10"
+ },
+ "cryptobilis": {
+  "name": "CryptoBilis",
+  "sector": "Crypto reseller",
+  "description": "Southeast Asian reseller; asked by Ledger to suspend sales.",
   "first_added": "2026-10-10",
   "last_mentioned": "2026-10-10"
  }
