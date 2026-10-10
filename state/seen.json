@@ -114,5 +114,37 @@
  "ai|https://openai.com/index/sophos": {
   "ident": "https://openai.com/index/sophos",
   "day": "2026-10-09"
+ },
+ "ai|https://openai.com/index/asana-browser-agent": {
+  "ident": "https://openai.com/index/asana-browser-agent",
+  "day": "2026-10-10"
+ },
+ "ai|https://www.pymnts.com/news/artificial-intelligence/2026/ai-cant-fire-you-in-california-without-a-human/": {
+  "ident": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-cant-fire-you-in-california-without-a-human/",
+  "day": "2026-10-10"
+ },
+ "ai|https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/": {
+  "ident": "https://www.zdnet.com/innovation/manager-ai-use-highwire-survey/",
+  "day": "2026-10-10"
+ },
+ "ai|https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/": {
+  "ident": "https://siliconangle.com/2026/10/07/anthropic-releases-claude-haiku-5-5-small-model-and-halves-sonnet-5-5-cache-read-prices/",
+  "day": "2026-10-10"
+ },
+ "ai|https://www.businessinsider.com/amazon-layoffs-hit-hundreds-of-employees-across-multiple-teams-2026-10": {
+  "ident": "https://www.businessinsider.com/amazon-layoffs-hit-hundreds-of-employees-across-multiple-teams-2026-10",
+  "day": "2026-10-10"
+ },
+ "ai|https://siliconangle.com/2026/10/06/meta-teams-up-with-bret-taylors-sierra-technologies-on-new-standards-for-ai-agent-commerce/": {
+  "ident": "https://siliconangle.com/2026/10/06/meta-teams-up-with-bret-taylors-sierra-technologies-on-new-standards-for-ai-agent-commerce/",
+  "day": "2026-10-10"
+ },
+ "ai|https://www.adexchanger.com/daily-news-roundup/ai-agents-are-coming-for-ctv-its-cheaper-for-politicians-to-buy-national-ads-than-to-target-texas/": {
+  "ident": "https://www.adexchanger.com/daily-news-roundup/ai-agents-are-coming-for-ctv-its-cheaper-for-politicians-to-buy-national-ads-than-to-target-texas/",
+  "day": "2026-10-10"
+ },
+ "ai|https://www.mas.gov.sg/news/media-releases/2026/mas-sets-out-supervisory-expectations-on-responsible-ai-adoption-by-financial-institutions": {
+  "ident": "https://www.mas.gov.sg/news/media-releases/2026/mas-sets-out-supervisory-expectations-on-responsible-ai-adoption-by-financial-institutions",
+  "day": "2026-10-10"
  }
 }
