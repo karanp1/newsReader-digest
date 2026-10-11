@@ -137,14 +137,14 @@
   "sector": "Satellite internet",
   "description": "SpaceX's satellite broadband service awaiting security approvals for its India launch.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-11"
  },
  "spacex": {
   "name": "SpaceX",
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-11"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-11"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-11"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1432,7 +1432,7 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-11"
  },
  "citi": {
   "name": "Citi",
@@ -1558,14 +1558,14 @@
   "sector": "Not enough detail in today's digest",
   "description": "Reliance-linked firm reported to have donated to political parties through electoral bonds.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-11"
  },
  "jiosatcom": {
   "name": "Jio Satcom",
   "sector": "Satellite internet",
   "description": "Reliance Jio's satellite communications venture, one of three licensed satcom providers in India.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-11"
  },
  "googlecloud": {
   "name": "Google Cloud",
@@ -2334,6 +2334,69 @@
   "name": "Reserve Bank of India",
   "sector": "Central bank",
   "description": "India's central bank; opened special dollar window for PSU oil firms.",
+  "first_added": "2026-10-11",
+  "last_mentioned": "2026-10-11"
+ },
+ "titan": {
+  "name": "Titan",
+  "sector": "Jewellery",
+  "description": "Indian jewellery and watches retailer; Q2 FY27 revenue grew 25% year-on-year.",
+  "first_added": "2026-10-11",
+  "last_mentioned": "2026-10-11"
+ },
+ "kalyanjewellers": {
+  "name": "Kalyan Jewellers",
+  "sector": "Jewellery",
+  "description": "Indian jewellery retailer; grew over 26% in the September quarter.",
+  "first_added": "2026-10-11",
+  "last_mentioned": "2026-10-11"
+ },
+ "sencogold": {
+  "name": "Senco Gold",
+  "sector": "Jewellery",
+  "description": "Jewellery retailer; reported 29% retail growth and record first-half top line.",
+  "first_added": "2026-10-11",
+  "last_mentioned": "2026-10-11"
+ },
+ "pngadgiljewellers": {
+  "name": "PN Gadgil Jewellers",
+  "sector": "Jewellery",
+  "description": "Jewellery retailer; grew 22.4% in the September quarter.",
+  "first_added": "2026-10-11",
+  "last_mentioned": "2026-10-11"
+ },
+ "pcjeweller": {
+  "name": "PC Jeweller",
+  "sector": "Jewellery",
+  "description": "Jewellery retailer; grew 28% in the September quarter.",
+  "first_added": "2026-10-11",
+  "last_mentioned": "2026-10-11"
+ },
+ "crisilratings": {
+  "name": "Crisil Ratings",
+  "sector": "Credit ratings",
+  "description": "Rating agency; noted divergence between value and volume growth in gold jewellery.",
+  "first_added": "2026-10-11",
+  "last_mentioned": "2026-10-11"
+ },
+ "midhani": {
+  "name": "MIDHANI",
+  "sector": "Defence materials",
+  "description": "Mishra Dhatu Nigam; supplies superalloys for indigenous aero-engine programmes.",
+  "first_added": "2026-10-11",
+  "last_mentioned": "2026-10-11"
+ },
+ "elta": {
+  "name": "ELTA",
+  "sector": "Defence electronics",
+  "description": "Israel-based radar maker; supplies AESA radar software for Tejas Mk1A.",
+  "first_added": "2026-10-11",
+  "last_mentioned": "2026-10-11"
+ },
+ "airbus": {
+  "name": "Airbus",
+  "sector": "Aerospace",
+  "description": "European planemaker; building a commercial MRO hub in Nashik with HAL.",
   "first_added": "2026-10-11",
   "last_mentioned": "2026-10-11"
  }
