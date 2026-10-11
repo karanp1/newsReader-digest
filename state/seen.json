@@ -150,5 +150,13 @@
  "entrackr": {
   "ident": "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-5-oct-10-12662210",
   "day": "2026-10-10"
+ },
+ "ai|https://openai.com/index/legalon-halves-codex-costs": {
+  "ident": "https://openai.com/index/legalon-halves-codex-costs",
+  "day": "2026-10-11"
+ },
+ "ai|https://www.anthropic.com/news/anthropic-cyber-mission": {
+  "ident": "https://www.anthropic.com/news/anthropic-cyber-mission",
+  "day": "2026-10-11"
  }
 }
