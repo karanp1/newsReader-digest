@@ -95,7 +95,7 @@
   "sector": "Venture capital",
   "description": "Impact investment firm focused on emerging markets; led ByteXL's Series B round.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "kalaaricapital": {
   "name": "Kalaari Capital",
@@ -130,7 +130,7 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "starlink": {
   "name": "Starlink",
@@ -221,7 +221,7 @@
   "sector": "E-commerce",
   "description": "Global online retailer running Great Indian Festival sale in competition with Flipkart.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "chennaipetroleum": {
   "name": "Chennai Petroleum",
@@ -235,7 +235,7 @@
   "sector": "Oil refining",
   "description": "India's largest state-owned oil refining and marketing company.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "bpcl": {
   "name": "BPCL",
@@ -347,7 +347,7 @@
   "sector": "Mining",
   "description": "State-owned coal mining company; joint venture partner in the Chandrapura thermal project.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "geaerospace": {
   "name": "GE Aerospace",
@@ -361,7 +361,7 @@
   "sector": "Defence aerospace",
   "description": "Indian state-owned aircraft maker producing Tejas fighters; awaiting GE engines for deliveries.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "lupin": {
   "name": "Lupin",
@@ -515,7 +515,7 @@
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "godigit": {
   "name": "Go Digit",
@@ -907,21 +907,21 @@
   "sector": "Private equity",
   "description": "Investment firm; led DailyObjects' Rs 332 crore funding round.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "anicutcapital": {
   "name": "Anicut Capital",
   "sector": "Private equity",
   "description": "Investment firm; participated in DailyObjects' Rs 332 crore funding round.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "axiomasiacapital": {
   "name": "Axiom Asia Private Capital",
   "sector": "Private equity",
   "description": "Asia-focused private equity firm; invested in DailyObjects' funding round.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "neuralink": {
   "name": "Neuralink",
@@ -1586,7 +1586,7 @@
   "sector": "Venture capital",
   "description": "Consumer-focused venture fund that led Beyond Appliances' Series B round.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "neogrowth": {
   "name": "NeoGrowth",
@@ -1600,14 +1600,14 @@
   "sector": "Development finance",
   "description": "Dutch development bank that funded MSME lender NeoGrowth.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "leapfroginvestments": {
   "name": "LeapFrog Investments",
   "sector": "Impact investing",
   "description": "Impact investment firm that funded MSME lender NeoGrowth.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "quanfluence": {
   "name": "Quanfluence",
@@ -1621,14 +1621,14 @@
   "sector": "Venture capital",
   "description": "Indian venture fund that invested in quantum startup Quanfluence.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "rainmatter": {
   "name": "Rainmatter",
   "sector": "Venture capital",
   "description": "Zerodha-backed fund that invested in quantum startup Quanfluence.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "sunfoxtechnologies": {
   "name": "Sunfox Technologies",
@@ -1642,14 +1642,14 @@
   "sector": "Asset management",
   "description": "Investment firm that co-led Sunfox Technologies' Series A round.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "3one4capital": {
   "name": "3one4 Capital",
   "sector": "Venture capital",
   "description": "Venture fund that co-led medtech startup Sunfox Technologies' Series A.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "qpiai": {
   "name": "QpiAI",
@@ -1663,7 +1663,7 @@
   "sector": "Venture debt",
   "description": "Venture debt provider that funded quantum computing startup QpiAI.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "kisah": {
   "name": "Kisah",
@@ -1887,14 +1887,14 @@
   "sector": "Oil and gas",
   "description": "State oil marketing company covered by the RBI's special dollar window.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "bharatpetroleum": {
   "name": "Bharat Petroleum",
   "sector": "Oil and gas",
   "description": "State oil marketing company covered by the RBI's special dollar window.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "kotakmahindracapital": {
   "name": "Kotak Mahindra Capital",
@@ -3202,6 +3202,76 @@
   "name": "Vatican",
   "sector": "Religious institution",
   "description": "Said Pope Leo is expected to need about a week of recovery after lung surgery.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "zetwerk": {
+  "name": "Zetwerk",
+  "sector": "Manufacturing",
+  "description": "Manufacturing and supply chain platform; raised its IPO fresh issue to Rs 2,830 crore.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "olxindia": {
+  "name": "OLX India",
+  "sector": "Classifieds",
+  "description": "Classifieds business acquired by CarTrade Tech; UBS sees it as undervalued.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "carwale": {
+  "name": "CarWale",
+  "sector": "Auto classifieds",
+  "description": "Car marketplace operated by CarTrade Tech.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "bikewale": {
+  "name": "BikeWale",
+  "sector": "Auto classifieds",
+  "description": "Bike marketplace operated by CarTrade Tech.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "shriramautomall": {
+  "name": "Shriram Automall",
+  "sector": "Auto classifieds",
+  "description": "Vehicle remarketing platform operated by CarTrade Tech.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "tatasons": {
+  "name": "Tata Sons",
+  "sector": "Holding company",
+  "description": "Holding company controlling the Tata group; reportedly in early talks with banks about a potential listing.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "birlasoft": {
+  "name": "Birlasoft",
+  "sector": "IT services",
+  "description": "Mid-sized IT services firm part of the CK Birla Group; stock fell 4.4% without fresh company news.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "amfi": {
+  "name": "AMFI",
+  "sector": "Industry body",
+  "description": "Association of Mutual Funds in India; reported record SIP inflows of Rs 32,490 crore in September.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "godigitinsurance": {
+  "name": "Godigit Insurance",
+  "sector": "Insurance",
+  "description": "General insurance company; mentioned in the watchlist context.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "relianceintelligence": {
+  "name": "Reliance Intelligence",
+  "sector": "AI",
+  "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
   "last_mentioned": "2026-10-12"
  }
