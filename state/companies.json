@@ -74,14 +74,14 @@
   "sector": "Fintech",
   "description": "Payments and banking platform for businesses; partnered with OpenAI for ChatGPT advertising in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-12"
  },
  "openai": {
   "name": "OpenAI",
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -445,7 +445,7 @@
   "sector": "Professional services",
   "description": "Global consulting and audit firm advising on GST and tax policy matters.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-12"
  },
  "coinbase": {
   "name": "Coinbase",
@@ -837,14 +837,14 @@
   "sector": "E-commerce",
   "description": "Indian e-commerce marketplace; cofounder Vidit Aatrey spoke at the ET Startup Awards.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "pixxel": {
   "name": "Pixxel",
   "sector": "Spacetech",
   "description": "Indian spacetech startup building hyperspectral imaging satellites.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "brainsightai": {
   "name": "BrainSight AI",
@@ -858,7 +858,7 @@
   "sector": "AI semiconductors",
   "description": "Startup developing AI semiconductor technology.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "wipro": {
   "name": "Wipro",
@@ -1061,7 +1061,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its IBIT bitcoin ETF led $487.1 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "fidelity": {
   "name": "Fidelity",
@@ -1572,7 +1572,7 @@
   "sector": "Cloud computing",
   "description": "Google's cloud unit, which appointed an interim India head this week.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "beyondappliances": {
   "name": "Beyond Appliances",
@@ -2216,7 +2216,7 @@
   "sector": "Specialty chemicals",
   "description": "Aarti group flagship making NCB-based specialty chemicals; shares fell 3.74% amid sector-wide selling.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "asana": {
   "name": "Asana",
@@ -2307,7 +2307,7 @@
   "sector": "Central bank",
   "description": "China's central bank; bought 740,000 ounces of gold, its largest purchase since 2023.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "miraeassetmf": {
   "name": "Mirae Asset MF",
@@ -2740,6 +2740,118 @@
   "name": "Screener",
   "sector": "Financial data",
   "description": "Indian stock research platform; flagged valuation and return metrics for several stocks.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "tdsecurities": {
+  "name": "TD Securities",
+  "sector": "Financial services",
+  "description": "Investment dealer; said trend-following funds are covering gold shorts.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "pidilite": {
+  "name": "Pidilite",
+  "sector": "Specialty chemicals",
+  "description": "Adhesives and chemicals firm; cited as a peer trading at 57 times earnings.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "navinfluorine": {
+  "name": "Navin Fluorine",
+  "sector": "Specialty chemicals",
+  "description": "Fluorine chemicals maker; cited as a peer trading at 54 times earnings.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "atul": {
+  "name": "Atul",
+  "sector": "Specialty chemicals",
+  "description": "Specialty chemicals firm; cited as a peer trading at 21.8 times earnings.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "deepaknitrite": {
+  "name": "Deepak Nitrite",
+  "sector": "Specialty chemicals",
+  "description": "Chemicals maker; cited as a peer trading at 27.9 times earnings.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "legalontechnologies": {
+  "name": "LegalOn Technologies",
+  "sector": "Legal tech",
+  "description": "Legal tech firm; cut estimated daily AI costs about 65% by matching models to tasks.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "anthropic": {
+  "name": "Anthropic",
+  "sector": "AI",
+  "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "accenture": {
+  "name": "Accenture",
+  "sector": "IT services",
+  "description": "Consulting and technology firm; a founding partner in Anthropic's Critical Infrastructure Defense Program.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "crowdstrike": {
+  "name": "CrowdStrike",
+  "sector": "Cybersecurity",
+  "description": "Cybersecurity firm; a founding partner in Anthropic's infrastructure defense program.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "dragos": {
+  "name": "Dragos",
+  "sector": "Cybersecurity",
+  "description": "Industrial cybersecurity firm; a founding partner in Anthropic's infrastructure defense program.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "hitachi": {
+  "name": "Hitachi",
+  "sector": "Industrial technology",
+  "description": "Industrial conglomerate; a founding partner in Anthropic's infrastructure defense program.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "nozominetworks": {
+  "name": "Nozomi Networks",
+  "sector": "Cybersecurity",
+  "description": "Operational technology security firm; a founding partner in Anthropic's defense program.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "paloaltonetworks": {
+  "name": "Palo Alto Networks",
+  "sector": "Cybersecurity",
+  "description": "Cybersecurity firm; a founding partner in Anthropic's infrastructure defense program.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "pwc": {
+  "name": "PwC",
+  "sector": "Professional services",
+  "description": "Professional services firm; a founding partner in Anthropic's infrastructure defense program.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "rockwellautomation": {
+  "name": "Rockwell Automation",
+  "sector": "Industrial automation",
+  "description": "Industrial automation firm; a founding partner in Anthropic's defense program.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "copernicusclimatechangeservice": {
+  "name": "Copernicus Climate Change Service",
+  "sector": "Climate monitoring",
+  "description": "EU monitor; reported record September sea surface temperatures in the Nino3.4 zone.",
   "first_added": "2026-10-12",
   "last_mentioned": "2026-10-12"
  }
