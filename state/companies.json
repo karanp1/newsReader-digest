@@ -851,7 +851,7 @@
   "sector": "Healthtech AI",
   "description": "Startup using AI for brain imaging and neuroscience diagnostics.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "agranilabs": {
   "name": "Agrani Labs",
@@ -984,7 +984,7 @@
   "sector": "IT services",
   "description": "IT services firm; launched 20 purpose-built Industry AI Solutions across sectors.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "airindia": {
   "name": "Air India",
@@ -1012,7 +1012,7 @@
   "sector": "Aviation",
   "description": "India's largest airline; raised domestic fuel surcharges 37-50%.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-12"
  },
  "paytmpaymentsbank": {
   "name": "Paytm Payments Bank",
@@ -3272,6 +3272,97 @@
   "name": "Reliance Intelligence",
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "gartner": {
+  "name": "Gartner",
+  "sector": "Research",
+  "description": "Research firm; reported a 22.4% year-on-year fall in worldwide PC shipments in Q3 2026.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "lenovo": {
+  "name": "Lenovo",
+  "sector": "Technology hardware",
+  "description": "PC maker and market leader; shipments fell 22.4% in Q3 2026 on memory prices.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "hp": {
+  "name": "HP",
+  "sector": "Technology hardware",
+  "description": "PC maker; shipments fell 30.9% in Q3 2026, the worst among top six vendors.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "rblbank": {
+  "name": "RBL Bank",
+  "sector": "Banking",
+  "description": "Private sector bank; Q2 net profit jumped 170% to Rs 482 crore with clean bad-loan ratio.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "agilisium": {
+  "name": "Agilisium",
+  "sector": "Life sciences IT",
+  "description": "Life sciences technology firm; aims to cut CS hires below 30% and reach $500 million revenue.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "ltts": {
+  "name": "LTTS",
+  "sector": "Engineering services",
+  "description": "L&T Technology Services; bets on manufacturing AI, targeting 80% revenue from six areas.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "siemens": {
+  "name": "Siemens",
+  "sector": "Industrial technology",
+  "description": "Industrial technology firm; technology partner for LTTS's Bengaluru manufacturing AI lab.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "elaracapital": {
+  "name": "Elara Capital",
+  "sector": "Financial services",
+  "description": "Brokerage firm; expects two more RBI rate hikes this financial year.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "tatamotors": {
+  "name": "Tata Motors",
+  "sector": "Automotive",
+  "description": "Automaker; deepened partnership with Stellantis to develop global vehicles in India.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "stellantis": {
+  "name": "Stellantis",
+  "sector": "Automotive",
+  "description": "Global automaker; signed a definitive agreement with Tata Motors for India-built global vehicles.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "goldman": {
+  "name": "Goldman",
+  "sector": "Financial services",
+  "description": "Investment bank; lifted its December Brent forecast to $90 from $85.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "icra": {
+  "name": "ICRA",
+  "sector": "Credit rating",
+  "description": "Rating agency; its economist expects another RBI rate hike in December.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "eutelsat": {
+  "name": "Eutelsat",
+  "sector": "Satellite communications",
+  "description": "European satellite operator; Sunil Bharti Mittal serves as vice-chairman.",
   "first_added": "2026-10-12",
   "last_mentioned": "2026-10-12"
  }
