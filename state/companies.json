@@ -4,7 +4,7 @@
   "sector": "Fintech",
   "description": "Online investment platform offering stock trading, mutual funds, bonds and wealth advisory services to retail investors in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "fisdom": {
   "name": "Fisdom",
@@ -39,7 +39,7 @@
   "sector": "Revenue-based financing",
   "description": "Financing platform providing growth capital to consumer brands, including food and snacking companies.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "datumintelligence": {
   "name": "Datum Intelligence",
@@ -53,14 +53,14 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "google": {
   "name": "Google",
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "olaelectric": {
   "name": "Ola Electric",
@@ -88,7 +88,7 @@
   "sector": "Edtech",
   "description": "B2B education technology startup providing AI-led learning tools; raised $9 million in Series B.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "elevarequity": {
   "name": "Elevar Equity",
@@ -137,14 +137,14 @@
   "sector": "Satellite internet",
   "description": "SpaceX's satellite broadband service awaiting security approvals for its India launch.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "spacex": {
   "name": "SpaceX",
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -158,14 +158,14 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -186,28 +186,28 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "walmart": {
   "name": "Walmart",
   "sector": "Retail",
   "description": "US retail giant and majority owner of Flipkart; facing pressure over employee stock option liquidity.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-12"
  },
  "myntra": {
   "name": "Myntra",
   "sector": "E-commerce",
   "description": "Online fashion retailer owned by Flipkart; former CEO Mukesh Bansal among ESOP petitioners.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-12"
  },
  "accel": {
   "name": "Accel",
   "sector": "Venture capital",
   "description": "Global venture capital firm and early Flipkart investor that has exited with large returns.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "tigerglobal": {
   "name": "Tiger Global",
@@ -333,7 +333,7 @@
   "sector": "Engineering construction",
   "description": "Indian infrastructure and engineering major; won initial nod for Jharkhand thermal power plant package.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "damodarvalley": {
   "name": "Damodar Valley Corporation",
@@ -354,7 +354,7 @@
   "sector": "Defence aerospace",
   "description": "US engine maker shipping F404-IN20 engines to HAL for Tejas LCA Mk 1A fighter jets.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-12"
  },
  "hindustanaeronautics": {
   "name": "Hindustan Aeronautics",
@@ -501,14 +501,14 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "naukri": {
   "name": "Naukri",
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
@@ -522,14 +522,14 @@
   "sector": "Insurance",
   "description": "Indian general insurance company offering motor, health and travel policies digitally.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-12"
  },
  "syrmasgs": {
   "name": "Syrma SGS",
   "sector": "Electronics manufacturing",
   "description": "Indian electronics manufacturing services company producing components and systems.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "bankofmaharashtra": {
   "name": "Bank of Maharashtra",
@@ -606,7 +606,7 @@
   "sector": "Fintech",
   "description": "Digital payments firm; RBI removed its associate Paytm Payments Bank from scheduled banks list.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "seruminstituteofindia": {
   "name": "Serum Institute of India",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -641,7 +641,7 @@
   "sector": "Banking",
   "description": "Raised its Robinhood price target to $156 from $140.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "qualcomm": {
   "name": "Qualcomm",
@@ -662,28 +662,28 @@
   "sector": "IT services",
   "description": "Issued a Rs 1,537 crore Letter of Intent to Tejas for BSNL 4G RAN equipment.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "blinkit": {
   "name": "Blinkit",
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
   "sector": "Quick commerce",
   "description": "Ranked third in product availability at 83.8%, per Bernstein.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "zepto": {
   "name": "Zepto",
   "sector": "Quick commerce",
   "description": "Ranked fourth in product availability at 82.5%, per Bernstein.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "criteo": {
   "name": "Criteo",
@@ -865,7 +865,7 @@
   "sector": "IT services",
   "description": "Indian IT services company; chairman Rishad Premji led the ET Startup Awards jury.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "porsche": {
   "name": "Porsche",
@@ -900,7 +900,7 @@
   "sector": "Lifestyle accessories",
   "description": "Lifestyle accessories brand; raised Rs 332 crore at a Rs 1,050 crore valuation.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "xponentiacapitalpartners": {
   "name": "Xponentia Capital Partners",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1145,7 +1145,7 @@
   "sector": "Quick commerce",
   "description": "Flipkart's quick-commerce arm; hired Dibyendu Sen for brand partnerships.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "safari": {
   "name": "Safari",
@@ -1201,7 +1201,7 @@
   "sector": "Stock exchange",
   "description": "National Stock Exchange; listed on 24 September at Rs 1,785 per share.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "ntpcgreenenergy": {
   "name": "NTPC Green Energy",
@@ -1229,14 +1229,14 @@
   "sector": "IT services",
   "description": "Indian IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "hcl": {
   "name": "HCL",
   "sector": "IT services",
   "description": "IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-12"
  },
  "capgemini": {
   "name": "Capgemini",
@@ -1320,7 +1320,7 @@
   "sector": "Engineering services",
   "description": "Engineering research and development services company; shares jumped 6%.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "tvsmotor": {
   "name": "TVS Motor",
@@ -1348,7 +1348,7 @@
   "sector": "Consumer electronics",
   "description": "iPhone and MacBook maker; discounts on MacBook Neo offered during Flipkart's sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "icicibank": {
   "name": "ICICI Bank",
@@ -1369,7 +1369,7 @@
   "sector": "Wind energy",
   "description": "Wind turbine maker; shares rose 6.76% on group sentiment after sister firm's acquisition.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "inoxgreenenergyservices": {
   "name": "Inox Green Energy Services",
@@ -1390,7 +1390,7 @@
   "sector": "Infrastructure EPC",
   "description": "RPG Group infrastructure arm; shares jumped 5.79% on Rs 1,030 crore order wins.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "criticalmetals": {
   "name": "Critical Metals",
@@ -1579,7 +1579,7 @@
   "sector": "Consumer appliances",
   "description": "Smart kitchen appliance startup that raised Rs 110 crore in a Series B led by Fireside Ventures.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "firesideventures": {
   "name": "Fireside Ventures",
@@ -1593,7 +1593,7 @@
   "sector": "Fintech lending",
   "description": "MSME-focused digital lender that raised Rs 85 crore in equity and debt from FMO and LeapFrog.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "fmo": {
   "name": "FMO",
@@ -1614,7 +1614,7 @@
   "sector": "Quantum technology",
   "description": "Photonic quantum technology startup that raised $10 million from Chiratae Ventures and Rainmatter.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "chirataeventures": {
   "name": "Chiratae Ventures",
@@ -1635,7 +1635,7 @@
   "sector": "Medtech",
   "description": "Medtech startup that raised $7 million in a Series A co-led by Alchemy Capital and 3one4 Capital.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "alchemycapital": {
   "name": "Alchemy Capital",
@@ -1656,7 +1656,7 @@
   "sector": "Quantum computing",
   "description": "Quantum computing startup that raised Rs 50 crore in debt from InnoVen Capital.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "innovencapital": {
   "name": "InnoVen Capital",
@@ -1670,217 +1670,217 @@
   "sector": "Menswear",
   "description": "Omnichannel menswear brand that raised early-stage funding this week.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "zomint": {
   "name": "Zomint",
   "sector": "Wealth management",
   "description": "Wealth management startup that raised early-stage funding this week.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "desibleai": {
   "name": "Desible.ai",
   "sector": "AI",
   "description": "Artificial intelligence startup that raised early-stage funding this week.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "supermush": {
   "name": "SuperMush",
   "sector": "Healthtech",
   "description": "Healthtech startup that raised early-stage funding this week.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "gramiyaa": {
   "name": "Gramiyaa",
   "sector": "Food and beverage",
   "description": "Cold-pressed oil brand that raised early-stage funding this week.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "travclan": {
   "name": "TravClan",
   "sector": "Travel tech",
   "description": "Travel technology platform that raised an undisclosed funding round this week.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "moneytruva": {
   "name": "MoneyTruVa",
   "sector": "Financial information",
   "description": "Financial information platform that raised an undisclosed funding round this week.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "betternutrition": {
   "name": "Better Nutrition",
   "sector": "Food and beverage",
   "description": "Biofortified staples brand that raised an undisclosed funding round this week.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "sorrysugar": {
   "name": "Sorry Sugar",
   "sector": "Food and beverage",
   "description": "Company that named Palash Arneja as Founder and CEO this week.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "snabbit": {
   "name": "Snabbit",
   "sector": "Home services",
   "description": "Startup that appointed Ramesh Srinivasan as Head of Growth and Revenue.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "altenindia": {
   "name": "ALTEN India",
   "sector": "Engineering services",
   "description": "Engineering and technology consulting firm that named Prabhakar Atla as CEO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "eggoz": {
   "name": "Eggoz",
   "sector": "Food and beverage",
   "description": "Egg brand that onboarded actor Boman Irani as its brand ambassador.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "genefied": {
   "name": "Genefied",
   "sector": "Agritech",
   "description": "Company that promoted Krishna Khandelwal to Chief Sales Officer.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "sarvamai": {
   "name": "Sarvam AI",
   "sector": "AI",
   "description": "Indian AI startup that appointed former Google Cloud India MD Sashikumar Sreedharan as President.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "otpless": {
   "name": "OTPless",
   "sector": "Fintech",
   "description": "Authentication and payments startup that named Geetanshu Singla as CTO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "marico": {
   "name": "Marico",
   "sector": "FMCG",
   "description": "Consumer goods major that acquired an additional 24.09% stake in Satiya Nutraceuticals.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "satiyanutraceuticals": {
   "name": "Satiya Nutraceuticals",
   "sector": "Beauty and wellness",
   "description": "Parent of the Plix brand, in which Marico raised its stake for Rs 1,012 crore.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "plix": {
   "name": "Plix",
   "sector": "Beauty and wellness",
   "description": "Plant-based nutrition and wellness brand owned by Satiya Nutraceuticals.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "hoolahealth": {
   "name": "Hoola Health",
   "sector": "Paediatric healthcare",
   "description": "Paediatric healthcare company that acquired early-childhood development platform UpTodd.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "uptodd": {
   "name": "UpTodd",
   "sector": "Edtech",
   "description": "Early-childhood development platform acquired by Hoola Health.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "naveliventures": {
   "name": "Naveli Ventures",
   "sector": "Venture capital",
   "description": "New venture arm of the Nanda Family Office investing in deeptech, AI, clean energy, space and healthcare.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "nabventures": {
   "name": "NABVENTURES",
   "sector": "Venture capital",
   "description": "Fund that secured Rs 450 crore in the first close of its second fund.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "phonepe": {
   "name": "PhonePe",
   "sector": "Fintech",
   "description": "Payments platform that partnered with DPCGC to simplify OTT regulatory compliance for merchants.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "pluckk": {
   "name": "Pluckk",
   "sector": "FMCG",
   "description": "Digital-first clean-label FMCG brand that entered the UK market with protein bars and juices.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "pinelabs": {
   "name": "Pine Labs",
   "sector": "Fintech",
   "description": "Merchant payments company that launched a unified payments and engagement platform in Singapore.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "startuppolicyforum": {
   "name": "Startup Policy Forum",
   "sector": "Policy",
   "description": "Industry body that launched DeepVerse, a deeptech policy platform with 30 partners.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "bessemerventurepartners": {
   "name": "Bessemer Venture Partners",
   "sector": "Venture capital",
   "description": "Venture fund partnering on the DeepVerse deeptech policy platform.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "lightspeed": {
   "name": "Lightspeed",
   "sector": "Venture capital",
   "description": "Venture fund partnering on the DeepVerse deeptech policy platform.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "climatecollectivefoundation": {
   "name": "Climate Collective Foundation",
   "sector": "Climate tech",
   "description": "Organisation hosting the first Bangalore Climate Data Week from October 12 to 16.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "sahi": {
   "name": "Sahi",
   "sector": "Stock broking",
   "description": "Broking platform that recorded the fastest month-on-month client growth among top 20 brokers.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "pbfintech": {
   "name": "PB Fintech",
   "sector": "Fintech",
   "description": "Policybazaar parent whose price target BofA cut 19% on IRDAI commission change risks.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "hindustanpetroleum": {
   "name": "Hindustan Petroleum",
@@ -1943,70 +1943,70 @@
   "sector": "Sovereign wealth",
   "description": "Saudi sovereign fund and existing Jio Platforms investor not selling in the IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "kkr": {
   "name": "KKR",
   "sector": "Private equity",
   "description": "Existing Jio Platforms investor holding its stake through the IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "vistaequitypartners": {
   "name": "Vista Equity Partners",
   "sector": "Private equity",
   "description": "Existing Jio Platforms investor holding its stake through the IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "silverlake": {
   "name": "Silver Lake",
   "sector": "Private equity",
   "description": "Existing Jio Platforms investor holding its stake through the IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "mubadala": {
   "name": "Mubadala",
   "sector": "Sovereign wealth",
   "description": "Abu Dhabi sovereign fund and existing Jio Platforms investor.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "generalatlantic": {
   "name": "General Atlantic",
   "sector": "Private equity",
   "description": "Existing Jio Platforms investor holding its stake through the IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "abudhabiinvestmentauthority": {
   "name": "Abu Dhabi Investment Authority",
   "sector": "Sovereign wealth",
   "description": "Existing Jio Platforms investor holding its stake through the IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "tpg": {
   "name": "TPG",
   "sector": "Private equity",
   "description": "Existing Jio Platforms investor holding its stake through the IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "jaadhuholdings": {
   "name": "Jaadhu Holdings",
   "sector": "Holding company",
   "description": "Meta affiliate and largest external Jio Platforms investor with a 9.98% stake.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "googleinternational": {
   "name": "Google International",
   "sector": "Holding company",
   "description": "Google entity holding a 7.73% stake in Jio Platforms.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "beatthestreet": {
   "name": "Beat The Street",
@@ -2020,21 +2020,21 @@
   "sector": "Engineering services",
   "description": "Engineering services firm used as a valuation comparison for Cyient.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "tatatechnologies": {
   "name": "Tata Technologies",
   "sector": "Engineering services",
   "description": "Engineering services firm used as a valuation comparison for Cyient.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "sagility": {
   "name": "Sagility",
   "sector": "Healthcare services",
   "description": "Business process services firm used as a valuation comparison for Cyient.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "deribit": {
   "name": "Deribit",
@@ -2069,7 +2069,7 @@
   "sector": "Financial research",
   "description": "Brokerage that ranked quick-commerce platforms on product availability.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "hyundaimotorindia": {
   "name": "Hyundai Motor India",
@@ -2090,7 +2090,7 @@
   "sector": "Regulatory body",
   "description": "Digital Publisher Content Grievances Council that signed a compliance MoU with PhonePe.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "iamai": {
   "name": "IAMAI",
@@ -2104,14 +2104,14 @@
   "sector": "Logistics",
   "description": "Flipkart's logistics arm, part of its expanded festive supply chain network.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "fave": {
   "name": "Fave",
   "sector": "Fintech",
   "description": "Pine Labs' rewards and customer engagement app used in its new Singapore platform.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "ledger": {
   "name": "Ledger",
@@ -2167,14 +2167,14 @@
   "sector": "Telecom",
   "description": "Reliance's telecom operator with 524.4 million customers; up to Rs 27,500 crore of Jio IPO proceeds will repay its borrowings.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "persistentsystems": {
   "name": "Persistent Systems",
   "sector": "IT services",
   "description": "IT services firm; secured about 94.04% of Nagarro's share capital after its voluntary public takeover offer closed.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "nagarro": {
   "name": "Nagarro",
@@ -2188,28 +2188,28 @@
   "sector": "Video surveillance",
   "description": "Makes CP Plus branded cameras, recorders and security systems; shares jumped 5.36% to lead NIFTY 500 gainers.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "anandrathiwealth": {
   "name": "Anand Rathi Wealth",
   "sector": "Wealth management",
   "description": "Non-bank wealth manager; AUM crossed Rs 1 lakh crore but reported Q2 profit slipped, sending shares down 4.68%.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "canarahsbclifeinsurance": {
   "name": "Canara HSBC Life Insurance",
   "sector": "Life insurance",
   "description": "Canara Bank-HSBC joint venture insurer; H1 FY27 VNB rose 24% but shares fell 4.36%.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "primefocus": {
   "name": "Prime Focus",
   "sector": "Media services",
   "description": "Mumbai-based post-production and VFX company; shares fell 3.99% amid a broader pullback.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "aartiindustries": {
   "name": "Aarti Industries",
@@ -2265,14 +2265,14 @@
   "sector": "Capital goods",
   "description": "Electrification and automation company; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "hitachienergy": {
   "name": "Hitachi Energy",
   "sector": "Capital goods",
   "description": "Power grid equipment maker; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "kaynestech": {
   "name": "Kaynes Tech",
@@ -2384,20 +2384,363 @@
   "sector": "Defence materials",
   "description": "Mishra Dhatu Nigam; supplies superalloys for indigenous aero-engine programmes.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "elta": {
   "name": "ELTA",
   "sector": "Defence electronics",
   "description": "Israel-based radar maker; supplies AESA radar software for Tejas Mk1A.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "airbus": {
   "name": "Airbus",
   "sector": "Aerospace",
   "description": "European planemaker; building a commercial MRO hub in Nashik with HAL.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
+ },
+ "choicebroking": {
+  "name": "Choice Broking",
+  "sector": "Financial services",
+  "description": "Brokerage firm; issued a technical buy call on Go Digit General Insurance.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "zetwerkmanufacturing": {
+  "name": "Zetwerk Manufacturing",
+  "sector": "Manufacturing",
+  "description": "Contract manufacturing platform; among companies tapping India's primary market in October.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "avaadaelectro": {
+  "name": "Avaada Electro",
+  "sector": "Renewable energy",
+  "description": "Solar manufacturing arm of Avaada Group; among October IPO candidates.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "fusioncx": {
+  "name": "Fusion CX",
+  "sector": "Business services",
+  "description": "Business process and customer experience firm; among October IPO candidates.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "hdfireprotect": {
+  "name": "HD Fire Protect",
+  "sector": "Fire safety",
+  "description": "Fire protection equipment maker; among October IPO candidates.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "tonboimaging": {
+  "name": "Tonbo Imaging",
+  "sector": "Defence imaging",
+  "description": "Defence imaging and electro-optics company; among October IPO candidates.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "bonfigliolitransmissions": {
+  "name": "Bonfiglioli Transmissions",
+  "sector": "Industrial equipment",
+  "description": "Gearbox and transmission maker; among October IPO candidates.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "sahajanandmedicaltechnologies": {
+  "name": "Sahajanand Medical Technologies",
+  "sector": "Medtech",
+  "description": "Medical device maker; among October IPO candidates.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "parashealthcare": {
+  "name": "Paras Healthcare",
+  "sector": "Healthcare",
+  "description": "Hospital chain; among October IPO candidates.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "ndrinvittrust": {
+  "name": "NDR InvIT Trust",
+  "sector": "Infrastructure",
+  "description": "Infrastructure investment trust; among October IPO candidates.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "gujaratvictoryforgings": {
+  "name": "Gujarat Victory Forgings",
+  "sector": "Manufacturing",
+  "description": "Forgings manufacturer; among October IPO candidates.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "sfcenvironmentaltechnologies": {
+  "name": "SFC Environmental Technologies",
+  "sector": "Environmental services",
+  "description": "Water and environmental technology firm; among October IPO candidates.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "jmfinancial": {
+  "name": "JM Financial",
+  "sector": "Financial services",
+  "description": "Investment bank; its Neha Agarwal commented on institutional demand for IPOs.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "cleartrip": {
+  "name": "Cleartrip",
+  "sector": "Travel",
+  "description": "Online travel agency owned by Flipkart; former staff joined the ESOP petition.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "shopsy": {
+  "name": "Shopsy",
+  "sector": "E-commerce",
+  "description": "Flipkart's value-focused e-commerce platform; former staff joined the ESOP petition.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "supermoney": {
+  "name": "Supermoney",
+  "sector": "Fintech",
+  "description": "Flipkart's lending and credit platform; former staff joined the ESOP petition.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "anscommerce": {
+  "name": "ANS Commerce",
+  "sector": "E-commerce",
+  "description": "E-commerce enablement firm owned by Flipkart; former staff joined the ESOP petition.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "suzlonenergy": {
+  "name": "Suzlon Energy",
+  "sector": "Wind energy",
+  "description": "Wind turbine maker; gained over 5% on the same CERC regulatory change.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "saregamaindia": {
+  "name": "Saregama India",
+  "sector": "Media",
+  "description": "Music and entertainment company; cited as a peer comparison for Prime Focus.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "tipsmusic": {
+  "name": "Tips Music",
+  "sector": "Media",
+  "description": "Music label; cited as a peer comparison for Prime Focus.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "basilicflystudio": {
+  "name": "Basilic Fly Studio",
+  "sector": "Media services",
+  "description": "VFX and post-production studio; cited as a peer comparison for Prime Focus.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "netweb": {
+  "name": "Netweb",
+  "sector": "Technology hardware",
+  "description": "Server and high-performance computing maker; cited as a peer for Cyient.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "siemensenergyindia": {
+  "name": "Siemens Energy India",
+  "sector": "Power equipment",
+  "description": "Power generation and grid equipment firm; cited as a peer for Inox Wind.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "kalpataruprojects": {
+  "name": "Kalpataru Projects",
+  "sector": "Engineering",
+  "description": "EPC firm in power transmission and infrastructure; cited as a peer for KEC.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "railvikas": {
+  "name": "Rail Vikas",
+  "sector": "Infrastructure",
+  "description": "Rail infrastructure PSU; cited as a peer for KEC International.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "nbcc": {
+  "name": "NBCC",
+  "sector": "Construction",
+  "description": "State-owned construction and project management firm; cited as a peer for KEC.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "techmahindra": {
+  "name": "Tech Mahindra",
+  "sector": "IT services",
+  "description": "Indian IT services firm; cited as a peer for Persistent Systems.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "honeywellauto": {
+  "name": "Honeywell Auto",
+  "sector": "Industrial equipment",
+  "description": "Honeywell Automation India; cited as a peer for Aditya Infotech.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "indomim": {
+  "name": "Indo-MIM",
+  "sector": "Manufacturing",
+  "description": "Metal injection moulding firm; cited as a peer for Aditya Infotech.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "prudent": {
+  "name": "Prudent Corp",
+  "sector": "Wealth management",
+  "description": "Financial advisory and wealth management firm; cited as a peer for Anand Rathi Wealth.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "dharnicapital": {
+  "name": "Dharni Capital",
+  "sector": "Financial services",
+  "description": "Financial services firm; cited as a peer for Anand Rathi Wealth.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "sodhanicapital": {
+  "name": "Sodhani Capital",
+  "sector": "Financial services",
+  "description": "Financial services firm; cited as a peer for Anand Rathi Wealth.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "canarabank": {
+  "name": "Canara Bank",
+  "sector": "Banking",
+  "description": "Public sector bank holding 51% of Canara HSBC Life Insurance.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "hsbc": {
+  "name": "HSBC",
+  "sector": "Banking",
+  "description": "Global bank; its Asia Pacific insurance arm holds 26% of Canara HSBC Life Insurance.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "ubs": {
+  "name": "UBS",
+  "sector": "Banking",
+  "description": "Swiss bank; kept a $5,400 gold target for September 2027 while warning of a $4,000 retest.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "crditagricole": {
+  "name": "Crédit Agricole",
+  "sector": "Banking",
+  "description": "French bank; forecasts gold at $5,000 an ounce by December 2026.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "worldgoldcouncil": {
+  "name": "World Gold Council",
+  "sector": "Industry body",
+  "description": "Gold industry body; reported a record $31 billion into gold ETFs in Q3.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "abra": {
+  "name": "Abra",
+  "sector": "Cryptocurrency",
+  "description": "Crypto wealth platform; its CEO Bill Barhydt cited an M2 chart predicting higher Bitcoin.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "decrypt": {
+  "name": "Decrypt",
+  "sector": "Media",
+  "description": "Crypto news outlet; its ETF tracker reported October Bitcoin ETF outflows.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "stocktwits": {
+  "name": "Stocktwits",
+  "sector": "Social media",
+  "description": "Investor social platform; its retail sentiment on Bitcoin was bearish.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "cme": {
+  "name": "CME",
+  "sector": "Financial services",
+  "description": "Derivatives exchange; its FedWatch tool tracks rate hike probabilities.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "unitedaircraft": {
+  "name": "United Aircraft Corporation",
+  "sector": "Aerospace",
+  "description": "Russian aircraft maker; in talks with HAL on licensed SJ-100 regional aircraft production.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "aeronauticaldevelopmentagency": {
+  "name": "Aeronautical Development Agency",
+  "sector": "Defence research",
+  "description": "Indian agency leading Tejas and AMCA fighter development; HAL is its manufacturing partner.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "irdai": {
+  "name": "IRDAI",
+  "sector": "Insurance regulator",
+  "description": "India's insurance regulator; proposed changes to insurance commissions and product rules.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "centralelectricityregulatorycommission": {
+  "name": "Central Electricity Regulatory Commission",
+  "sector": "Power regulator",
+  "description": "India's power regulator; eased grid connection deadline fees for clean energy developers.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "inoxleasing": {
+  "name": "Inox Leasing",
+  "sector": "Financial services",
+  "description": "Promoter-group entity that sold 30 lakh Inox Wind shares to Devansh Trademart.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "devanshtrademart": {
+  "name": "Devansh Trademart",
+  "sector": "Trading",
+  "description": "Promoter-group entity that bought 30 lakh Inox Wind shares from Inox Leasing.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "atomicenergycommission": {
+  "name": "Atomic Energy Commission",
+  "sector": "Government",
+  "description": "India's atomic energy body; its chairman forecast private nuclear investment by 2047.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "screener": {
+  "name": "Screener",
+  "sector": "Financial data",
+  "description": "Indian stock research platform; flagged valuation and return metrics for several stocks.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
  }
 }

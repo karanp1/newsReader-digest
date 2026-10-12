@@ -158,5 +158,9 @@
  "ai|https://www.anthropic.com/news/anthropic-cyber-mission": {
   "ident": "https://www.anthropic.com/news/anthropic-cyber-mission",
   "day": "2026-10-11"
+ },
+ "ai|https://openai.com/index/disrupting-ai-enabled-false-front-operations": {
+  "ident": "https://openai.com/index/disrupting-ai-enabled-false-front-operations",
+  "day": "2026-10-12"
  }
 }
