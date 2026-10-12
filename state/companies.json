@@ -172,7 +172,7 @@
   "sector": "Telecom",
   "description": "Indian telecom operator providing mobile, broadband and enterprise services across the country.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "motilaloswal": {
   "name": "Motilal Oswal",
@@ -963,7 +963,7 @@
   "sector": "Satellite internet",
   "description": "Satellite broadband operator that already holds an Indian authorisation.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "texprocil": {
   "name": "Texprocil",
@@ -1215,7 +1215,7 @@
   "sector": "Power",
   "description": "State-run power generator; parent of NTPC Green Energy.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-12"
  },
  "cognizant": {
   "name": "Cognizant",
@@ -1439,7 +1439,7 @@
   "sector": "Banking",
   "description": "Investment bank; maintains Buy on Info Edge with up to 27% upside.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "nuvama": {
   "name": "Nuvama",
@@ -1565,7 +1565,7 @@
   "sector": "Satellite internet",
   "description": "Reliance Jio's satellite communications venture, one of three licensed satcom providers in India.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "googlecloud": {
   "name": "Google Cloud",
@@ -1908,7 +1908,7 @@
   "sector": "Financial services",
   "description": "Investment bank appointed for Jio Platforms' IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "bankofamerica": {
   "name": "Bank of America",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -2097,7 +2097,7 @@
   "sector": "Industry association",
   "description": "Internet industry body under which the DPCGC self-regulatory council operates.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "ekart": {
   "name": "Ekart",
@@ -2335,7 +2335,7 @@
   "sector": "Central bank",
   "description": "India's central bank; opened special dollar window for PSU oil firms.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "titan": {
   "name": "Titan",
@@ -2852,6 +2852,356 @@
   "name": "Copernicus Climate Change Service",
   "sector": "Climate monitoring",
   "description": "EU monitor; reported record September sea surface temperatures in the Nino3.4 zone.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "volvocarindia": {
+  "name": "Volvo Car India",
+  "sector": "Automotive",
+  "description": "Swedish carmaker's Indian arm; launched the electric EX90 luxury SUV at ₹1.26 crore, with deliveries from January 2027.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "gallanttispat": {
+  "name": "Gallantt Ispat",
+  "sector": "Steel",
+  "description": "Integrated steelmaker in Gorakhpur and Kutch; shares jumped 16% on a 244x volume spike with no fundamental trigger.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "newindiaassurance": {
+  "name": "New India Assurance",
+  "sector": "Insurance",
+  "description": "India's largest non-life insurer; shares rose 13% after FY26 profit rose about 40% to ₹1,384 crore.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "cartradetech": {
+  "name": "CarTrade Tech",
+  "sector": "Auto classifieds",
+  "description": "Runs CarWale, BikeWale and OLX India; shares rose 8% after UBS reiterated Buy with a ₹4,000 target.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "tatachemicals": {
+  "name": "Tata Chemicals",
+  "sector": "Chemicals",
+  "description": "Soda ash, salt and specialty ingredients maker; shares rose 7% as soda ash volumes and scFOS sales recovered.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "lenskart": {
+  "name": "Lenskart",
+  "sector": "Eyewear retail",
+  "description": "Omnichannel eyewear brand; fell 4.5% as Alpha Wave sold a ₹1,895 crore block stake.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "avenuesupermarts": {
+  "name": "Avenue Supermarts",
+  "sector": "Retail",
+  "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "ushamartin": {
+  "name": "Usha Martin",
+  "sector": "Steel products",
+  "description": "India's largest wire rope maker; fell 3.3% after a valuation downgrade to Hold.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "itc": {
+  "name": "ITC",
+  "sector": "FMCG",
+  "description": "Cigarettes, packaged foods and paperboards conglomerate; fell 3.25% on FII selling and weak Q1 FY27 results.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "jefferies": {
+  "name": "Jefferies",
+  "sector": "Financial services",
+  "description": "Investment bank; raised Reliance's model portfolio weight to 7.50% and cut DMart's target to ₹4,000.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "clsa": {
+  "name": "CLSA",
+  "sector": "Financial services",
+  "description": "Brokerage; stayed positive on DMart after its September-quarter results.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "marketsmojo": {
+  "name": "MarketsMOJO",
+  "sector": "Financial services",
+  "description": "Research firm; downgraded Tech Mahindra to Sell and cut Usha Martin's grade to Hold.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "alphawaveventures": {
+  "name": "Alpha Wave Ventures",
+  "sector": "Venture capital",
+  "description": "Investor in Lenskart; sold a ₹1,895 crore block stake, or 1.67% of equity.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "gqgpartners": {
+  "name": "GQG Partners",
+  "sector": "Asset management",
+  "description": "Investment firm; sold a 2.91% stake in ITC for ₹9,395 crore on October 7.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "nipponindia": {
+  "name": "Nippon India",
+  "sector": "Asset management",
+  "description": "Mutual fund; bought ITC shares in the block deal where GQG sold its stake.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "iciciprudential": {
+  "name": "ICICI Prudential",
+  "sector": "Asset management",
+  "description": "Mutual fund; bought ITC shares in the block deal where GQG sold its stake.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "sbi": {
+  "name": "SBI",
+  "sector": "Banking",
+  "description": "State Bank of India; bought ITC shares in the block deal where GQG sold its stake.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "aramco": {
+  "name": "Aramco",
+  "sector": "Energy",
+  "description": "Saudi state oil company; Houthis claimed attacks on its sites in eastern Saudi Arabia, which Saudi Arabia has not confirmed.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "safran": {
+  "name": "Safran",
+  "sector": "Aerospace",
+  "description": "French aerospace firm; its Ardiden 1H1 engine is produced under licence by HAL as the Shakti.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "welspun": {
+  "name": "Welspun Corp",
+  "sector": "Steel products",
+  "description": "Pipe maker; cited as a valuation peer for Gallantt Ispat and Usha Martin.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "aplapollo": {
+  "name": "APL Apollo",
+  "sector": "Steel products",
+  "description": "Steel tube maker; cited as a valuation peer for Gallantt Ispat and Usha Martin.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "shyammetalics": {
+  "name": "Shyam Metalics",
+  "sector": "Steel",
+  "description": "Steel producer; cited as a valuation peer for Gallantt Ispat and Usha Martin.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "ratnamanimetals": {
+  "name": "Ratnamani Metals",
+  "sector": "Steel products",
+  "description": "Pipe and tube maker; cited as a valuation peer for Usha Martin.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "jindalsaw": {
+  "name": "Jindal Saw",
+  "sector": "Steel products",
+  "description": "Pipe maker; cited as a valuation peer for Usha Martin.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "icicilombard": {
+  "name": "ICICI Lombard",
+  "sector": "Insurance",
+  "description": "Private general insurer; cited as a valuation peer for New India Assurance.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "generalinsurance": {
+  "name": "General Insurance Corporation",
+  "sector": "Insurance",
+  "description": "State-run reinsurer; cited as a valuation peer for New India Assurance.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "trent": {
+  "name": "Trent",
+  "sector": "Retail",
+  "description": "Tata group retailer; cited as a valuation peer for Lenskart and among Sensex gainers.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "adityavision": {
+  "name": "Aditya Vision",
+  "sector": "Retail",
+  "description": "Electronics retailer; cited as a valuation peer for Lenskart.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "v2retail": {
+  "name": "V2 Retail",
+  "sector": "Retail",
+  "description": "Value fashion retailer; cited as a valuation peer for Lenskart.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "vedantfashions": {
+  "name": "Vedant Fashions",
+  "sector": "Retail",
+  "description": "Ethnic wear retailer; cited as a valuation peer for Lenskart.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "vishalmegamart": {
+  "name": "Vishal Mega Mart",
+  "sector": "Retail",
+  "description": "Value retailer; cited as a valuation peer for DMart.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "vmartretail": {
+  "name": "V-Mart Retail",
+  "sector": "Retail",
+  "description": "Value fashion retailer; cited as a valuation peer for DMart.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "electronicsmart": {
+  "name": "Electronics Mart",
+  "sector": "Retail",
+  "description": "Electronics retailer; cited as a valuation peer for DMart.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "hindustanunilever": {
+  "name": "Hindustan Unilever",
+  "sector": "FMCG",
+  "description": "Consumer goods major; cited as a dividend-yield and valuation peer for ITC.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "hindustanfoods": {
+  "name": "Hindustan Foods",
+  "sector": "FMCG",
+  "description": "Contract manufacturer of consumer goods; cited as a valuation peer for ITC.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "srf": {
+  "name": "SRF",
+  "sector": "Chemicals",
+  "description": "Specialty chemicals and packaging films maker; cited as a valuation peer for Tata Chemicals.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "gujaratalkalies": {
+  "name": "Gujarat Alkalies",
+  "sector": "Chemicals",
+  "description": "Caustic soda and chlor-alkali producer; cited as a valuation peer for Tata Chemicals.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "hcltechnologies": {
+  "name": "HCL Technologies",
+  "sector": "IT services",
+  "description": "IT services firm; cited as a valuation peer for Tech Mahindra and traded lower.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "bharatelectronics": {
+  "name": "Bharat Electronics",
+  "sector": "Defence electronics",
+  "description": "State-run defence electronics maker; among the Sensex gainers on Monday.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "mahindraandmahindra": {
+  "name": "Mahindra and Mahindra",
+  "sector": "Automotive",
+  "description": "Auto and farm equipment major; among the Sensex gainers on Monday.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "bajajfinance": {
+  "name": "Bajaj Finance",
+  "sector": "Financial services",
+  "description": "Non-bank lender; among the Sensex gainers on Monday.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "tatasteel": {
+  "name": "Tata Steel",
+  "sector": "Steel",
+  "description": "Steel major; among the Sensex gainers on Monday.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "axisbank": {
+  "name": "Axis Bank",
+  "sector": "Banking",
+  "description": "Private sector bank; among the Sensex laggards on Monday.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "karnatakaplantersassociation": {
+  "name": "Karnataka Planters' Association",
+  "sector": "Agriculture",
+  "description": "Represents over 70% of India's coffee growers; objected to the draft Western Ghats ESA notification.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "digitalpublishercontentgrievancescouncil": {
+  "name": "Digital Publisher Content Grievances Council",
+  "sector": "Media regulation",
+  "description": "Self-regulatory body under IAMAI; signed an MoU with PhonePe on OTT compliance certification.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "usda": {
+  "name": "USDA",
+  "sector": "Government",
+  "description": "US Department of Agriculture; put global 2025-26 coffee production at 178.83 million bags, up 2 million.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "japansweatheragency": {
+  "name": "Japan's weather agency",
+  "sector": "Government",
+  "description": "Called the current El Nino the strongest on record, differing from Copernicus's assessment.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "southkoreasjointchiefsofstaff": {
+  "name": "South Korea's Joint Chiefs of Staff",
+  "sector": "Government",
+  "description": "Said North Korea fired at least one projectile toward its eastern waters on Monday.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "slpp": {
+  "name": "SLPP",
+  "sector": "Political party",
+  "description": "Sri Lanka Podujana Peramuna; said former President Mahinda Rajapaksa was admitted to hospital for urgent care.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "vatican": {
+  "name": "Vatican",
+  "sector": "Religious institution",
+  "description": "Said Pope Leo is expected to need about a week of recovery after lung surgery.",
   "first_added": "2026-10-12",
   "last_mentioned": "2026-10-12"
  }
