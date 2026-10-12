@@ -571,14 +571,14 @@
   "sector": "Fintech",
   "description": "Trading app that added $25 million of bitcoin to its corporate balance sheet, its first proprietary holding.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-12"
  },
  "metaplanet": {
   "name": "Metaplanet",
   "sector": "Crypto treasury",
   "description": "Sold 10,000 BTC and rebought 11,000, ending with 44,000 BTC on its balance sheet.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-12"
  },
  "firstsourcesolutions": {
   "name": "Firstsource Solutions",
@@ -1250,7 +1250,7 @@
   "sector": "Software",
   "description": "US software giant; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "adobe": {
   "name": "Adobe",
@@ -1432,7 +1432,7 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-12"
  },
  "citi": {
   "name": "Citi",
@@ -1915,7 +1915,7 @@
   "sector": "Financial services",
   "description": "Investment bank appointed for Jio Platforms' IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-12"
  },
  "axiscapital": {
   "name": "Axis Capital",
@@ -3363,6 +3363,174 @@
   "name": "Eutelsat",
   "sector": "Satellite communications",
   "description": "European satellite operator; Sunil Bharti Mittal serves as vice-chairman.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "boozallen": {
+  "name": "Booz Allen",
+  "sector": "Defence consulting",
+  "description": "Government and defence consulting firm; founding partner of Anthropic's Critical Infrastructure Defense Program.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "insanecyber": {
+  "name": "Insane Cyber",
+  "sector": "Cybersecurity",
+  "description": "Cybersecurity firm; founding partner of Anthropic's Critical Infrastructure Defense Program.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "kroger": {
+  "name": "Kroger",
+  "sector": "Grocery retail",
+  "description": "US grocery chain; outlined AI strategy including AI Shopping Assistant and associate training.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "codeandtheory": {
+  "name": "Code and Theory",
+  "sector": "Digital agency",
+  "description": "Digital transformation agency; co-authored report on enterprise AI orchestration gap.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "reveliolabs": {
+  "name": "Revelio Labs",
+  "sector": "Data analytics",
+  "description": "Workforce data analytics firm; reported global call center employment decline.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "bendingspoons": {
+  "name": "Bending Spoons",
+  "sector": "Software",
+  "description": "Software company that acquires and overhauls apps like AOL, Vimeo, WeTransfer and Evernote using AI.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "miro": {
+  "name": "Miro",
+  "sector": "Collaboration software",
+  "description": "Workplace collaboration platform; being acquired by Bending Spoons for $1.355 billion.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "astonmartin": {
+  "name": "Aston Martin",
+  "sector": "Automotive",
+  "description": "Luxury carmaker whose Formula One team uses AI to transcribe and sort race radio channels.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "coreweave": {
+  "name": "CoreWeave",
+  "sector": "Cloud computing",
+  "description": "AI cloud computing firm; built AI platform for Aston Martin's Formula One team.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "apollo": {
+  "name": "Apollo",
+  "sector": "Asset management",
+  "description": "Asset manager whose chief economist warned AI agents could move cash out of bank deposits.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "plaid": {
+  "name": "Plaid",
+  "sector": "Fintech",
+  "description": "Financial data network connecting apps to bank accounts; powers Meta's Muse.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "fortishealthcare": {
+  "name": "Fortis Healthcare",
+  "sector": "Healthcare",
+  "description": "Runs hospitals and diagnostics chain SRL across India, Nepal, Dubai and Sri Lanka.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "nomura": {
+  "name": "Nomura",
+  "sector": "Financial services",
+  "description": "Investment bank; estimated Jio Platforms equity value at Rs 9.8-10.3 lakh crore.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "zomato": {
+  "name": "Zomato",
+  "sector": "Food delivery",
+  "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "swiggy": {
+  "name": "Swiggy",
+  "sector": "Food delivery",
+  "description": "Food delivery and quick commerce platform; ran drone delivery trials in 2021 and 2022.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "cdot": {
+  "name": "C-DoT",
+  "sector": "Telecom R&D",
+  "description": "Government telecom research centre; said BSNL equipment meets TRAI quality benchmarks.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "strive": {
+  "name": "Strive",
+  "sector": "Bitcoin",
+  "description": "Bitcoin investment firm; bought 2,000 Bitcoin for $169 million.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "urbancompany": {
+  "name": "Urban Company",
+  "sector": "Home services",
+  "description": "Home services platform; past ET Startup Award winner.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "zerodha": {
+  "name": "Zerodha",
+  "sector": "Broking",
+  "description": "Discount stockbroking firm; past ET Startup Award winner.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "delhivery": {
+  "name": "Delhivery",
+  "sector": "Logistics",
+  "description": "Logistics and supply chain company; past ET Startup Award winner.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "ofbusiness": {
+  "name": "OfBusiness",
+  "sector": "Fintech",
+  "description": "B2B financing and procurement platform; past ET Startup Award winner.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "freshworks": {
+  "name": "Freshworks",
+  "sector": "Software",
+  "description": "Business software company; past ET Startup Award winner.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "oyo": {
+  "name": "Oyo",
+  "sector": "Hospitality",
+  "description": "Hotel booking and hospitality chain; past ET Startup Award winner.",
+  "first_added": "2026-10-12",
+  "last_mentioned": "2026-10-12"
+ },
+ "ola": {
+  "name": "Ola",
+  "sector": "Mobility",
+  "description": "Ride-hailing and mobility company; past ET Startup Award winner.",
   "first_added": "2026-10-12",
   "last_mentioned": "2026-10-12"
  }
