@@ -190,5 +190,13 @@
  "ai|https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised": {
   "ident": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
   "day": "2026-10-12"
+ },
+ "ai|https://openai.com/index/gpt-6-for-everyone": {
+  "ident": "https://openai.com/index/gpt-6-for-everyone",
+  "day": "2026-10-13"
+ },
+ "ai|https://x.ai/news/x-subscription": {
+  "ident": "https://x.ai/news/x-subscription",
+  "day": "2026-10-13"
  }
 }

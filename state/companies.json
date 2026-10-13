@@ -53,14 +53,14 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "google": {
   "name": "Google",
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "olaelectric": {
   "name": "Ola Electric",
@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -130,14 +130,14 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "starlink": {
   "name": "Starlink",
   "sector": "Satellite internet",
   "description": "SpaceX's satellite broadband service awaiting security approvals for its India launch.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "spacex": {
   "name": "SpaceX",
@@ -158,14 +158,14 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -186,21 +186,21 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "walmart": {
   "name": "Walmart",
   "sector": "Retail",
   "description": "US retail giant and majority owner of Flipkart; facing pressure over employee stock option liquidity.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "myntra": {
   "name": "Myntra",
   "sector": "E-commerce",
   "description": "Online fashion retailer owned by Flipkart; former CEO Mukesh Bansal among ESOP petitioners.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "accel": {
   "name": "Accel",
@@ -347,21 +347,21 @@
   "sector": "Mining",
   "description": "State-owned coal mining company; joint venture partner in the Chandrapura thermal project.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "geaerospace": {
   "name": "GE Aerospace",
   "sector": "Defence aerospace",
   "description": "US engine maker shipping F404-IN20 engines to HAL for Tejas LCA Mk 1A fighter jets.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "hindustanaeronautics": {
   "name": "Hindustan Aeronautics",
   "sector": "Defence aerospace",
   "description": "Indian state-owned aircraft maker producing Tejas fighters; awaiting GE engines for deliveries.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "lupin": {
   "name": "Lupin",
@@ -501,28 +501,28 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "naukri": {
   "name": "Naukri",
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "godigit": {
   "name": "Go Digit",
   "sector": "Insurance",
   "description": "Indian general insurance company offering motor, health and travel policies digitally.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "syrmasgs": {
   "name": "Syrma SGS",
@@ -662,14 +662,14 @@
   "sector": "IT services",
   "description": "Issued a Rs 1,537 crore Letter of Intent to Tejas for BSNL 4G RAN equipment.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "blinkit": {
   "name": "Blinkit",
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -984,7 +984,7 @@
   "sector": "IT services",
   "description": "IT services firm; launched 20 purpose-built Industry AI Solutions across sectors.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "airindia": {
   "name": "Air India",
@@ -1124,7 +1124,7 @@
   "sector": "Telecom",
   "description": "State-run telecom operator; rolling out 4G across 18,685 sites with Tejas RAN gear.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-13"
  },
  "aisle": {
   "name": "Aisle",
@@ -1250,7 +1250,7 @@
   "sector": "Software",
   "description": "US software giant; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "adobe": {
   "name": "Adobe",
@@ -1348,7 +1348,7 @@
   "sector": "Consumer electronics",
   "description": "iPhone and MacBook maker; discounts on MacBook Neo offered during Flipkart's sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "icicibank": {
   "name": "ICICI Bank",
@@ -1432,14 +1432,14 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "citi": {
   "name": "Citi",
   "sector": "Banking",
   "description": "Investment bank; maintains Buy on Info Edge with up to 27% upside.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "nuvama": {
   "name": "Nuvama",
@@ -2209,7 +2209,7 @@
   "sector": "Media services",
   "description": "Mumbai-based post-production and VFX company; shares fell 3.99% amid a broader pullback.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "aartiindustries": {
   "name": "Aarti Industries",
@@ -2496,21 +2496,21 @@
   "sector": "Travel",
   "description": "Online travel agency owned by Flipkart; former staff joined the ESOP petition.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "shopsy": {
   "name": "Shopsy",
   "sector": "E-commerce",
   "description": "Flipkart's value-focused e-commerce platform; former staff joined the ESOP petition.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "supermoney": {
   "name": "Supermoney",
   "sector": "Fintech",
   "description": "Flipkart's lending and credit platform; former staff joined the ESOP petition.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "anscommerce": {
   "name": "ANS Commerce",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "accenture": {
   "name": "Accenture",
@@ -2860,56 +2860,56 @@
   "sector": "Automotive",
   "description": "Swedish carmaker's Indian arm; launched the electric EX90 luxury SUV at ₹1.26 crore, with deliveries from January 2027.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "gallanttispat": {
   "name": "Gallantt Ispat",
   "sector": "Steel",
   "description": "Integrated steelmaker in Gorakhpur and Kutch; shares jumped 16% on a 244x volume spike with no fundamental trigger.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "newindiaassurance": {
   "name": "New India Assurance",
   "sector": "Insurance",
   "description": "India's largest non-life insurer; shares rose 13% after FY26 profit rose about 40% to ₹1,384 crore.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "cartradetech": {
   "name": "CarTrade Tech",
   "sector": "Auto classifieds",
   "description": "Runs CarWale, BikeWale and OLX India; shares rose 8% after UBS reiterated Buy with a ₹4,000 target.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "tatachemicals": {
   "name": "Tata Chemicals",
   "sector": "Chemicals",
   "description": "Soda ash, salt and specialty ingredients maker; shares rose 7% as soda ash volumes and scFOS sales recovered.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "lenskart": {
   "name": "Lenskart",
   "sector": "Eyewear retail",
   "description": "Omnichannel eyewear brand; fell 4.5% as Alpha Wave sold a ₹1,895 crore block stake.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "avenuesupermarts": {
   "name": "Avenue Supermarts",
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "ushamartin": {
   "name": "Usha Martin",
   "sector": "Steel products",
   "description": "India's largest wire rope maker; fell 3.3% after a valuation downgrade to Hold.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "itc": {
   "name": "ITC",
@@ -3252,7 +3252,7 @@
   "sector": "IT services",
   "description": "Mid-sized IT services firm part of the CK Birla Group; stock fell 4.4% without fresh company news.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "amfi": {
   "name": "AMFI",
@@ -3273,14 +3273,14 @@
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "gartner": {
   "name": "Gartner",
   "sector": "Research",
   "description": "Research firm; reported a 22.4% year-on-year fall in worldwide PC shipments in Q3 2026.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "lenovo": {
   "name": "Lenovo",
@@ -3294,35 +3294,35 @@
   "sector": "Technology hardware",
   "description": "PC maker; shipments fell 30.9% in Q3 2026, the worst among top six vendors.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "rblbank": {
   "name": "RBL Bank",
   "sector": "Banking",
   "description": "Private sector bank; Q2 net profit jumped 170% to Rs 482 crore with clean bad-loan ratio.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "agilisium": {
   "name": "Agilisium",
   "sector": "Life sciences IT",
   "description": "Life sciences technology firm; aims to cut CS hires below 30% and reach $500 million revenue.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "ltts": {
   "name": "LTTS",
   "sector": "Engineering services",
   "description": "L&T Technology Services; bets on manufacturing AI, targeting 80% revenue from six areas.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "siemens": {
   "name": "Siemens",
   "sector": "Industrial technology",
   "description": "Industrial technology firm; technology partner for LTTS's Bengaluru manufacturing AI lab.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "elaracapital": {
   "name": "Elara Capital",
@@ -3336,14 +3336,14 @@
   "sector": "Automotive",
   "description": "Automaker; deepened partnership with Stellantis to develop global vehicles in India.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "stellantis": {
   "name": "Stellantis",
   "sector": "Automotive",
   "description": "Global automaker; signed a definitive agreement with Tata Motors for India-built global vehicles.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "goldman": {
   "name": "Goldman",
@@ -3357,7 +3357,7 @@
   "sector": "Credit rating",
   "description": "Rating agency; its economist expects another RBI rate hike in December.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "eutelsat": {
   "name": "Eutelsat",
@@ -3385,70 +3385,70 @@
   "sector": "Grocery retail",
   "description": "US grocery chain; outlined AI strategy including AI Shopping Assistant and associate training.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "codeandtheory": {
   "name": "Code and Theory",
   "sector": "Digital agency",
   "description": "Digital transformation agency; co-authored report on enterprise AI orchestration gap.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "reveliolabs": {
   "name": "Revelio Labs",
   "sector": "Data analytics",
   "description": "Workforce data analytics firm; reported global call center employment decline.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "bendingspoons": {
   "name": "Bending Spoons",
   "sector": "Software",
   "description": "Software company that acquires and overhauls apps like AOL, Vimeo, WeTransfer and Evernote using AI.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "miro": {
   "name": "Miro",
   "sector": "Collaboration software",
   "description": "Workplace collaboration platform; being acquired by Bending Spoons for $1.355 billion.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "astonmartin": {
   "name": "Aston Martin",
   "sector": "Automotive",
   "description": "Luxury carmaker whose Formula One team uses AI to transcribe and sort race radio channels.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "coreweave": {
   "name": "CoreWeave",
   "sector": "Cloud computing",
   "description": "AI cloud computing firm; built AI platform for Aston Martin's Formula One team.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "apollo": {
   "name": "Apollo",
   "sector": "Asset management",
   "description": "Asset manager whose chief economist warned AI agents could move cash out of bank deposits.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "plaid": {
   "name": "Plaid",
   "sector": "Fintech",
   "description": "Financial data network connecting apps to bank accounts; powers Meta's Muse.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "fortishealthcare": {
   "name": "Fortis Healthcare",
   "sector": "Healthcare",
   "description": "Runs hospitals and diagnostics chain SRL across India, Nepal, Dubai and Sri Lanka.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "nomura": {
   "name": "Nomura",
@@ -3462,21 +3462,21 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "swiggy": {
   "name": "Swiggy",
   "sector": "Food delivery",
   "description": "Food delivery and quick commerce platform; ran drone delivery trials in 2021 and 2022.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "cdot": {
   "name": "C-DoT",
   "sector": "Telecom R&D",
   "description": "Government telecom research centre; said BSNL equipment meets TRAI quality benchmarks.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "strive": {
   "name": "Strive",
@@ -3533,5 +3533,61 @@
   "description": "Ride-hailing and mobility company; past ET Startup Award winner.",
   "first_added": "2026-10-12",
   "last_mentioned": "2026-10-12"
+ },
+ "xai": {
+  "name": "xAI",
+  "sector": "AI",
+  "description": "Elon Musk's AI company; launched The X Subscription bundling Grok, Grok Bot, Cursor and X Premium.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "aol": {
+  "name": "AOL",
+  "sector": "Internet media",
+  "description": "Internet media brand acquired and overhauled by Bending Spoons.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "vimeo": {
+  "name": "Vimeo",
+  "sector": "Video software",
+  "description": "Video hosting and tools platform owned by Bending Spoons.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "wetransfer": {
+  "name": "WeTransfer",
+  "sector": "File sharing",
+  "description": "File transfer service owned by Bending Spoons.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "evernote": {
+  "name": "Evernote",
+  "sector": "Productivity software",
+  "description": "Note-taking app owned by Bending Spoons.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "adnoc": {
+  "name": "ADNOC",
+  "sector": "Oil and gas",
+  "description": "Abu Dhabi state energy firm open to more long-term LPG deals and storage expansion in India.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "cfminternational": {
+  "name": "CFM International",
+  "sector": "Aerospace",
+  "description": "GE-Safran jet engine venture powering most Indian commercial aircraft, with fleet set to grow.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "fiatindia": {
+  "name": "Fiat India",
+  "sector": "Automobiles",
+  "description": "50:50 Tata Motors-Stellantis joint venture that will build vehicles for global markets.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
  }
 }

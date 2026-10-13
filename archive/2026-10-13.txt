@@ -1,0 +1,337 @@
+DAILY NEWS DIGEST — 2026-10-13
+METRICS
+Nifty PE Ratio | 19.12 | 12 Oct 2026 | https://nifty-pe-ratio.com/
+============================================================
+
+SOURCE 8: AI News
+
+[OpenAI] Disrupting AI-enabled “false front” operations
+  08 Oct 2026 | https://openai.com/index/disrupting-ai-enabled-false-front-operations
+  • OpenAI banned two covert influence operations, one from Russia and one from Iran, that used its models to support false-front entities laundering geopolitical messaging. ¶ • The Iranian operation ran seven journalist personas pitching long-form articles to small and medium outlets worldwide, while the Russian operation co-opted unwitting people in Latin America to run a think tank. ¶ • On the IO Breakout Scale of 1 to 6, the Russia-origin operation scored Category 5, the first such operation OpenAI has disrupted, and the Iran-origin operation reached Category 4. ¶ • Across the 30 covert influence operations OpenAI has exposed in two and a half years, those landing content in real media outlets rather than fake social media tend to have the highest potential reach. ¶ • The Russian cluster, nicknamed Dark Clark, used VPNs to access ChatGPT from Russia and controlled a Latin American research platform called the Social Research Center via a fake persona named Mia Clark.
+
+[OpenAI] GPT-6 and Intelligent UI for everyone
+  07 Oct 2026 | https://openai.com/index/gpt-6-for-everyone
+  • OpenAI is rolling out a new GPT-6 model in ChatGPT with Intelligent UI to its more than 1.2 billion weekly users. ¶ • Intelligent UI lets ChatGPT answer with interactive elements such as graphics, tappable buttons, forms, charts, and tools built in the conversation. ¶ • GPT-6 can begin answering while it continues to think, and for web search questions GPT-6 Instant starts answering 44% sooner on average than GPT-5.6 Instant. ¶ • In internal evaluations, GPT-6 Extra High begins answering as fast as GPT-5.6 Medium while scoring better than GPT-5.6 Extra High on everyday agentic tasks. ¶ • The rollout starts today for Plus, Pro, Business and Enterprise tiers in the Chat tab, expanding to Free and Go tiers tomorrow.
+
+[xAI] Introducing The X Subscription
+  12 Oct 2026 | https://x.ai/news/x-subscription
+  • X introduced The X Subscription, bundling Grok, Grok Bot, Cursor, and X Premium into one plan, rolling out globally over the next few days. ¶ • Paid plans include a shared pool of Grok model usage across Grok and Cursor, and each tier gives more usage per dollar than the plan it replaces. ¶ • Each X Subscription plan includes at least twice as much coding usage with X's models as the comparable Cursor plan, with third-party models billed separately at API list prices. ¶ • Team users get Premium, Super, and Ultra at the same per-seat prices as individual plans, with 3x more coding usage than older Cursor Teams plus SSO, admin controls, and SOC 2 compliance. ¶ • Existing SuperGrok, Cursor, and X Premium subscribers keep their current plan, price, and features, or can switch for a prorated refund and limited-time offers.
+
+[Open Claw Newsletter] No More Grocery List
+  12 Oct 2026 | https://www.thekrogerco.com/ir-feed-item/kroger-details-ai-strategy-built-on-decades-retail-expertise-at-groceryshop-2026/
+  • Kroger outlined its AI strategy at GroceryShop 2026, built on customer insights, operational data and proprietary models. ¶ • Chief Digital Officer Yael Cosset described three stages of AI adoption: assisted, augmented and autonomous. ¶ • Kroger is making AI literacy training and tools available to more than 400,000 associates across the enterprise. ¶ • The AI Shopping Assistant helps customers plan meals, find recipes and build carts around budget and dietary needs. ¶ • Cosset said the future goal is grocery as a managed service, where AI agents handle planning, shopping and fulfillment.
+
+[Open Claw Newsletter] Enterprise AI Hits Orchestration Gap
+  12 Oct 2026 | https://www.newswire.com/news/x-2099506
+  • Enterprises average 183 AI tools but 85% lack systems to connect them, per a WSJ Intelligence and Code and Theory report. ¶ • The study surveyed 801 C-suite executives at U.S. companies with at least $500 million in annual revenue. ¶ • 94% say better orchestration of tools is essential to growth, yet only 15% of AI investments run as a unified system. ¶ • 42% of CEOs and 57% of technology leaders each claim ownership of AI orchestration, and one in four companies say no one is accountable. ¶ • Barriers cited are cultural and structural: siloed mindsets (61%), fragmented data (58%) and no centralized operating layer (56%).
+
+[Open Claw Newsletter] Cheap Labor Loses Its Edge
+  12 Oct 2026 | https://www.reveliolabs.com/news/ai-and-work/after-a-decade-of-growth-global-call-center-employment-is-shrinking
+  • Global call center employment is 5.3% below its December 2023 peak, with the steepest quarterly drop yet in the most recent quarter, according to Revelio Labs. ¶ • Call center headcount fell year-over-year in eight of the last eight quarters, the only such declines among 70 quarter-end readings since 2009. ¶ • The decline spread from high-income to middle- and lower-income countries, though China and Nigeria still show growth. ¶ • Revelio wage data shows average call center pay of $22.52 per hour in high-income countries, $5.44 in upper-middle-income and $2.32 in lower-middle-income countries. ¶ • Of workers leaving call centers, 49.7% move sideways and only 10.8% reach higher-paying technical support, customer success or software and data roles.
+
+[Open Claw Newsletter] Bending Spoons Rebuilds Software With AI
+  12 Oct 2026 | https://www.pymnts.com/news/artificial-intelligence/2026/bending-spoons-deploys-ai-to-overhaul-acquired-software-companies/
+  • Bending Spoons began trading on the Nasdaq Global Select Market on July 1 and said July 2 its IPO gross proceeds totaled about $953.9 million. ¶ • The company uses AI to write at least 90% of its code, design products, optimize monetization and evaluate job applications. ¶ • In its June IPO filing, Bending Spoons said it had identified more than 1,000 digital businesses as potential acquisition targets, representing close to $400 billion in aggregate estimated annual revenue in 2025. ¶ • Bending Spoons said Sept. 10 it was preparing to acquire workplace collaboration platform Miro in a $1.355 billion deal, with plans to invest substantially in its fundamentals. ¶ • When Bending Spoons buys and overhauls companies like AOL, Vimeo, WeTransfer and Evernote, it often boosts revenue per customer by cutting staff and raising subscription prices.
+
+[Open Claw Newsletter] Aston Martin Turns AI Into Racecraft
+  12 Oct 2026 | https://www.pymnts.com/news/artificial-intelligence/2026/aston-martin-f1-uses-ai-to-monitor-rival-radio/
+  • Aston Martin's Formula One team now uses AI to transcribe and sort all 40 race radio channels within five seconds, CoreWeave said. ¶ • At the 2026 Monaco Grand Prix, teams spoke over 380,000 words across 50 hours of audio and 21,000 messages, according to CoreWeave. ¶ • CoreWeave engineers built the platform on site from October 2025; it ran as a test at the final two 2025 races before full use in 2026. ¶ • Formula One caps team spending on car performance at $215 million for 2026, with wind tunnel time also rationed by the FIA. ¶ • Aston Martin added three AI partners in 18 months, as AI and machine learning brands make up 4 of the top 15 new sponsorship investors, per SponsorUnited.
+
+[Open Claw Newsletter] Agents Threaten Cheap Bank Deposits
+  12 Oct 2026 | https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-wake-up-1-6-trillion-in-sleepy-bank-deposits/
+  • Apollo chief economist Torsten Sløk warned in a Sept. 27 note that AI agents could move household cash out of cheap bank deposits. ¶ • About $7.12 trillion sits in U.S. consumer and business checking accounts, which pay a national average of 0.1% versus 3.3% to 5% elsewhere. ¶ • Meta launched Muse on Sept. 8; it connects to bank accounts through Plaid, which shares balances and transactions but does not describe moving money. ¶ • Citi's Andrew Coombs expects trust, reliability, transparency and regulation to limit third-party agents, with banks building AI tools into their own apps. ¶ • JPMorgan's Jamie Dimon wrote that Smart Cash will let clients move money automatically between checking and higher-yielding brokerage products in 2026.
+
+[Open Claw Newsletter] Nadella Wants an AI Emergency Brake
+  12 Oct 2026 | https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised
+  • Microsoft CEO Satya Nadella posted on X that advanced AI models pose dangers and need new controls. ¶ • Nadella rejects treating AI as nested black boxes whose advice and actions we simply accept or reject. ¶ • He calls for models that can be contained, observed, and leave tamper-proof human readable evidence. ¶ • Nadella says an authorized person should always be able to pause or shut down a model mid-task, like an emergency brake. ¶ • His recommendations align with industry calls for incident disclosure, independent audits, and verifiable data, though he uses the term super intelligence throughout.
+
+============================================================
+
+SOURCE 7: Dynamic Watchlist (headlines + summary)
+
+[[Top Gainers]]
+
+[Gallantt Ispat Ltd (GALLANTT, +18.23%)]
+
+- ~
+  12 Oct 2026 | https://www.tradingview.com/news/moodys:cc53469534c85:0-gallantt-ispat-share-price-jumps-15-what-s-driving-the-rally-key-levels-to-watch/
+  ## What the sector does ¶ • Indian steelmakers sell long products like TMT bars and billets to construction, infrastructure and housing customers, plus flat products to auto and appliance makers. ¶ • Revenue tracks steel prices, construction demand and government infrastructure spending, while cost is driven by iron ore, coking coal, power and freight. ¶ ## What the company does ¶ • Gallantt Ispat runs integrated steel plants at Gorakhpur, Uttar Pradesh and Kutch, Gujarat, making pellets, sponge iron, billets and TMT bars, with captive power. ¶ • It has about 1 million tonnes of finished steel capacity, 129.5 MW captive power and a 7 MW solar plant, and employs more than 5,000 people. ¶ ## Why it moved today ¶ • No company announcement explained the 12 October move; Mint and Univest both reported the rally came on heavy volumes and a bounce from near ₹500 support. ¶ • Volume on 12 October was about 1.73 crore shares, roughly 244 times the one-week average of 70,994 shares, and the stock closed at ₹595.60, up 18.23%. ¶ ## The numbers (Screener) ¶ • Stock P/E is 33.0, book value ₹137, ROCE 18.2%, ROE 15.6% and dividend yield 0.34%, with a market cap of ₹14,371 crore. ¶ • June 2026 quarter sales were ₹1,146 crore with net profit ₹124 crore and EPS ₹5.13, versus ₹1,013 crore sales and ₹89 crore profit in September 2025. ¶ ## What the numbers say ¶ • At a P/E of 33.0, Gallantt trades above the peer median of 22.75 and above Shyam Metalics at 27.05 and Usha Martin at 27.02, but below APL Apollo Tubes at 48.74. ¶ • ROCE of 18.2% beats the peer median of 13.01% and Shyam Metalics at 13.01%, though June 2026 net profit fell 28.84% year on year on higher raw material costs and a pellet plant shutdown. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:cc53469534c85:0-gallantt-ispat-share-price-jumps-15-what-s-driving-the-rally-key-levels-to-watch/ ;; univest.in|https://univest.in/blogs/gallantt-ispat-share-price-jumps-15-percent-whats-driving-the-rally-key-levels-to-watch ;; upstox.com|https://upstox.com/news/market-news/stocks/gallantt-ispat-swaraj-engines-new-india-assurance-others-rally-up-to-18-check-list-of-high-volume-stocks/article-201688/
+
+[The New India Assurance Company Ltd (NIACL, +15.28%)]
+
+- ~
+  2026-10-13 |
+  ## What the sector does ¶ • General insurance sells motor, health, fire and marine cover to individuals and businesses, earning premium upfront and paying claims later. ¶ • Profit depends on premium growth, claims ratios and investment income on the float; India's main players are New India Assurance, ICICI Lombard, General Insurance and Star Health. ¶ ## What the company does ¶ • New India Assurance is India's largest non-life insurer, about 86% owned by the Government of India, with gross written premium of ₹43,292 crore in FY2025-26, up 9%. ¶ • It earns from motor, health, fire and marine premiums across India and overseas, and held a 12.6% market share in FY25, rising to 15.5% in Q1FY26 with assets under management of ₹1,00,802 crore. ¶ ## Why it moved today ¶ • No news article explained the 15.28% jump; the move came with heavy value turnover of ₹382.3 crore on 2.16 crore shares and a gap-up open of 10.71%, as reported by marketsmojo.com. ¶ • As context only, shares had already risen 16.20% over the week before this session, with the move described by market.news as stock-specific buying rather than a broad market rally. ¶ ## The numbers (Screener) ¶ • The stock trades at a P/E of 40.06 against a peer median of 39.67, and about 1.08 times its book value of ₹173, per Screener data. ¶ • June 2026 quarter net profit was a loss of ₹239.15 crore on sales of ₹11,899.69 crore, up 1.54%, versus a profit of ₹580 crore in the March 2026 quarter. ¶ ## What the numbers say ¶ • ROCE of 4.29% and ROE of 4.92% sit far below the peer median ROCE of 11.39%, while ICICI Lombard earns 21.88% and General Insurance 17.35%, so New India earns less on capital than peers. ¶ • Its P/E of 40.06 is near the peer median but the June 2026 quarter swung to a ₹239.15 crore loss, so the rally reflects momentum rather than improving earnings.
+
+[Cartrade Tech Ltd (CARTRADE, +8.14%)]
+
+- ~
+  12 Oct 2026 | https://www.tradingview.com/news/cnbctv:adeec57d3094b:0/
+  ## What the sector does ¶ • India's online auto classifieds and used-vehicle platforms earn from dealer listings, lead generation, advertising and value-added services like inspections and auctions. ¶ • Revenue depends on dealer count, listing volumes and used-car transactions; costs are mainly technology, marketing and sales staff, with margins rising as platforms scale. ¶ ## What the company does ¶ • CarTrade Tech runs multi-channel auto platforms including CarWale, CarTrade, BikeWale, Shriram Automall and OLX India, connecting buyers, sellers, dealers and OEMs. ¶ • It earns from dealer subscriptions, advertising, auction fees and value-added services across new and used vehicles, with a market cap of ₹15,515 crore. ¶ ## Why it moved today ¶ • UBS reiterated a Buy rating with a ₹4,000 target price, saying the market underestimates OLX India's growth potential, CNBC TV18 reported on 12 October 2026. ¶ • UBS noted OLX's operating margin exceeds 30% and projected revenue could grow 3.8 times in five years under its base case, driving the stock up 8.14%. ¶ ## The numbers (Screener) ¶ • The stock trades at a P/E of 65.2 and 6.15 times book value of ₹519, with ROCE of 11.8% and ROE of 9.65%, per Screener data. ¶ • June 2026 quarter sales were ₹201 crore with net profit of ₹57 crore and EPS of ₹10.67, down from ₹71 crore profit in the March 2026 quarter. ¶ ## What the numbers say ¶ • At a P/E of 65.2, CarTrade trades above the peer median of 55.01 but below high-multiple peers like Eternal at 720 and FSN E-Commerce at 366. ¶ • ROCE of 11.8% and ROE of 9.65% exceed the peer median ROCE of 1.52%, but June quarter net profit fell to ₹57 crore from ₹71 crore in March, showing slowing growth. ¶ ↗ tradingview.com|https://www.tradingview.com/news/cnbctv:adeec57d3094b:0/
+
+[Tata Chemicals Ltd (TATACHEM, +8.00%)]
+
+- ~
+  12 Oct 2026 | https://www.standardmedia.co.ke/crime-and-justice/article/2001559989/tata-chemicals-questions-closure-order-over-community-complaints
+  ## What the sector does ¶ • Basic chemistry companies make soda ash, caustic soda, chlorine and acids, sold to glass, detergent, aluminium and textile makers. ¶ • Revenue tracks global soda ash and caustic soda prices, energy and raw material costs, and demand from construction and consumer goods. ¶ ## What the company does ¶ • Tata Chemicals, incorporated in 1939, makes and exports basic chemistry and specialty products from plants in India, Kenya, the US and Europe. ¶ • It is India's largest soda ash producer and among the world's largest, with annual sales of about ₹16,000 crore and a market cap of ₹16,227 crore. ¶ ## Why it moved today ¶ • The news articles do not explain the 8% rise; they report Tata Chemicals Magadi's court challenge to Kenya's suspension of its soda ash operations since July 28, 2026. ¶ • Context: the June 2026 quarter showed sales of ₹4,255 crore and a net profit of ₹60 crore, recovering from a ₹2,116 crore loss in the March 2026 quarter. ¶ ## The numbers (Screener) ¶ • The stock trades at ₹637, or 0.77 times its book value of ₹832, with a dividend yield of 1.73% and a market cap of ₹16,227 crore. ¶ • ROCE is 3.42% and ROE 1.27%; quarterly net profit swung from ₹154 crore in September 2025 to a ₹2,116 crore loss in March 2026 and ₹60 crore in June 2026. ¶ ## What the numbers say ¶ • Tata Chemicals trades below book value while peers like SRF (P/E 32.9, ROCE 14.6%) and Deepak Fertilisers (P/E 17.9, ROCE 11.4%) earn far more on capital. ¶ • Its 3.42% ROCE and 1.27% ROE are well below the peer median ROCE of 10.3%, so the 8% bounce follows a weak profit record rather than a proven turnaround. ¶ ↗ standardmedia.co.ke|https://www.standardmedia.co.ke/crime-and-justice/article/2001559989/tata-chemicals-questions-closure-order-over-community-complaints ;; peopledaily.digital|https://peopledaily.digital/business/tata-chemicals-warns-of-1000-jobs-at-risk-in-kajiado-rates-row ;; citizen.digital|https://citizen.digital/article/tata-chemicals-warns-of-500-job-losses-as-legal-battle-over-magadi-mine-shutdown-intensifies-n391909
+
+[Prime Focus Ltd (PFOCUS, +7.99%)]
+
+- ~
+  2026-10-13 |
+  ## What the sector does ¶ • Media and entertainment services firms sell post-production work such as visual effects, digital intermediate and 2D-to-3D conversion to film, streaming and television producers worldwide. ¶ • Revenue comes from per-project and per-episode contracts, while cost is driven by artist salaries, studios and rendering capacity; listed peers include Saregama India, Tips Music and Balaji Telefilms. ¶ ## What the company does ¶ • Prime Focus Ltd provides end-to-end post-production services, from visual effects and animation to sound stages and equipment rental, through its ReDefine and DNEG businesses. ¶ • The Mumbai-based company operates in 18 cities across five continents and serves Hollywood and Bollywood productions; it owns what it calls India's largest integrated studio and is one of the world's largest post-production providers. ¶ ## Why it moved today ¶ • No news article explaining the move was retrieved, and none of the search results state a reason for the 7.99% rise to ₹281.95 on 12 October 2026. ¶ • The rally came days after the June 2026 quarter reported a net loss of ₹45.78 crore on sales of ₹1,266.81 crore, but that was context, not a stated cause of the move. ¶ ## The numbers (Screener) ¶ • Prime Focus trades at a P/E of 123 and 10.5 times book value of ₹26.9 per share, with ROCE (return on capital employed) of 11.3% and ROE of 15.7%, as of the 12 October 2026 close. ¶ • Sales rose from ₹1,061 crore in the September 2025 quarter to ₹1,384 crore in the March 2026 quarter before slipping to ₹1,267 crore in June 2026, when net profit fell to a loss of ₹45.78 crore. ¶ ## What the numbers say ¶ • At a P/E of 123 against the peer median of 41.24, Prime Focus is priced at roughly three times the median, while its 11.28% ROCE sits above the 7.27% peer median but below Saregama's 17.29% and Tips Music's 118.47%. ¶ • The June 2026 quarter's sales grew 23.81% year on year, the second-fastest among peers after Balaji Telefilms, but the swing from ₹118 crore profit in March 2026 to a loss shows earnings remain uneven.
+
+[[Top Losers]]
+
+[Birlasoft Ltd (BSOFT, -4.36%)]
+
+- ~
+  2026-10-13 |
+  ## What the sector does ¶ • Indian IT services firms sell software development, consulting and maintenance work to clients in banking, insurance, life sciences, energy and manufacturing, mostly in the US and Europe. ¶ • Revenue comes from billed engineers on long-term contracts, so hiring, wages, deal wins and client technology budgets drive earnings; TCS, Infosys, HCL Tech and Wipro dominate. ¶ ## What the company does ¶ • Birlasoft, part of the CK Birla Group, provides software development and IT consulting to customers mainly in banking and financial services, life sciences, energy and utilities, and manufacturing. ¶ • It employs over 10,000 professionals and ranks 25th by market capitalisation within IT software, far smaller than peers TCS, Infosys, HCL Technologies and Wipro. ¶ ## Why it moved today ¶ • No news article explained the fall; Birlasoft closed down 4.36% at ₹272.85 on the NSE on 12 October 2026, hitting a 52-week low of ₹269.20 that session ([cnbctv18.com](https://www.cnbctv18.com/market/stocks/birlasoft-ltd-share-price/KPI02/), [stockanalysis.com](https://stockanalysis.com/quote/nse/BSOFT/history/)). ¶ • As context, not the cause: the stock had risen 4.97% on 9 October and its June-quarter net profit of ₹161 crore fell 8.49% from the March quarter, when it was ₹176 crore ([stockanalysis.com](https://stockanalysis.com/quote/nse/BSOFT/history/), [economictimes.indiatimes.com](https://economictimes.indiatimes.com/birlasoft-ltd/stocks/companyid-4471.cms)). ¶ ## The numbers (Screener) ¶ • The stock trades at a P/E of 12.8 with price to book of about 1.85, a dividend yield of 2.38%, ROCE of 21.2% and ROE of 14.1%, against a 52-week range of ₹267 to ₹474. ¶ • June 2026 quarter sales were ₹1,379 crore (up 7.35% year on year) and net profit ₹161 crore (up 51.27% year on year), though profit fell 8.5% from the March 2026 quarter's ₹176 crore. ¶ ## What the numbers say ¶ • Birlasoft's P/E of 12.8 is below TCS (14.07), Infosys (13.28) and HCL Technologies (17.44), but its ROCE of 21.2% trails TCS at 63%, Infosys at 40% and HCL at 30.4%. ¶ • June-quarter sales growth of 7.35% lags peers like Infosys (14.03%) and Persistent Systems (29.09%), and the quarterly profit dip sits against a stock already down 42% from its 52-week high, near the low of ₹267.
+
+[Lenskart Solutions Ltd (LENSKART, -4.33%)]
+
+- ~
+  12 Oct 2026 | https://www.linkedin.com/posts/cnbc-tv18_lenskart-solutions-shares-fall-5-after-1895-activity-7515299466745151489-IiIP
+  ## What the sector does ¶ • The eyewear industry designs, makes and retails prescription glasses, sunglasses and contact lenses to consumers, mostly through branded stores and online channels. ¶ • Revenue comes from selling frames, lenses and contacts, so store additions, same-store sales and lens mix drive growth, while rents, staff and manufacturing set costs. ¶ ## What the company does ¶ • Lenskart Solutions designs, makes, brands and retails prescription eyeglasses, sunglasses and contact lenses, selling mainly to Indian consumers through an omnichannel network of stores and its app. ¶ • It earns from eyewear sales across India and international markets, with a range starting at ₹500 spectacles with lenses, and reported ₹2,714 crore sales in the June 2026 quarter. ¶ ## Why it moved today ¶ • Alpha Wave Ventures LP sold 2.64 crore shares, or 1.51% of equity, for ₹1,704.8 crore at an average ₹645.31, per CNBC TV18, and the stock closed 4.33% lower at ₹648.30. ¶ • The block deal was the direct cause; no other company-specific news explained the fall, and the stock's ₹648.30 close was its lowest since August 28, according to the reports. ¶ ## The numbers (Screener) ¶ • The stock trades at a P/E of 171 and 12.9 times book value of ₹50.3, with a market cap of ₹1,12,759 crore and price ₹648 against a 52-week high of ₹725, as per Screener data. ¶ • June 2026 quarter sales were ₹2,714 crore with operating profit ₹588 crore (22% margin) and net profit ₹228 crore; sales rose from ₹2,096 crore in September 2025, while June EPS was ₹1.28. ¶ ## What the numbers say ¶ • At 171 P/E, Lenskart is far more expensive than the peer median P/E of 34.2 and Trent's 85, even though its ROCE of 8.08% and ROE of 6.33% trail the peer median ROCE of 15.02%. ¶ • Sales grew 43.27% year-on-year in the June quarter against the peer median of 16.65% and net profit jumped 240.31%, but the 4.33% fall reflects stake-sale supply rather than weak growth, with the quarter's numbers already reported. ¶ ↗ linkedin.com|https://www.linkedin.com/posts/cnbc-tv18_lenskart-solutions-shares-fall-5-after-1895-activity-7515299466745151489-IiIP ;; moneycontrol.com|https://www.moneycontrol.com/news/business/markets/alpha-wave-ventures-pares-lenskart-solutions-stake-worth-rs-1-705-crore-14050427.html ;; tradingview.com|https://www.tradingview.com/news/moodys:d2ea5fec4d807:0-lenskart-shares-slide-5-as-block-deals-drive-heavy-trading/
+
+[Avenue Supermarts Ltd (DMART, -4.32%)]
+
+- ~
+  13 Oct 2026 | https://simplywall.st/stocks/in/consumer-retailing/nse-dmart/avenue-supermarts-shares/news/avenue-supermarts-limited-earnings-missed-analyst-estimates
+  ## What the sector does ¶ • India's value-retail supermarket sector sells food, groceries, household goods and apparel to mass-market households through large store networks. ¶ • Revenue comes from store footfall and basket size, while costs are store rent, staff, logistics and procurement; margins depend on scale and pricing power. ¶ ## What the company does ¶ • Avenue Supermarts runs the DMart chain of value supermarkets, selling foods, non-food FMCG and general merchandise and apparel to everyday shoppers. ¶ • It earns from store sales across India, with a market cap of ₹2,19,496 crore and a stock P/E of 70.4, among the most expensive retailers in its peer set. ¶ ## Why it moved today ¶ • Avenue Supermarts shares fell 4.32% after its September-quarter earnings per share of ₹11.40 came in 18% below analyst estimates, according to Simply Wall St. ¶ • Prabhudas Lilladher cut its rating to Reduce and its target to ₹3,214, citing margin pressure from quick-commerce competition and muted store metrics. ¶ ## The numbers (Screener) ¶ • September-quarter sales rose 17.8% to ₹19,644 crore, but net profit fell to ₹743 crore from ₹856 crore in the December 2025 quarter. ¶ • The stock trades at 70.4 times earnings and 8.41 times book value, with ROCE of 17.2% and ROE of 12.9%. ¶ ## What the numbers say ¶ • At a P/E of 70.4, Avenue Supermarts trades well above the peer median of 42.17 and Vishal Mega Mart's 50.58, even as its September-quarter profit growth of 8.55% lagged the peer median of 39.04%. ¶ • Its ROCE of 17.2% beats the peer median of 11.66%, but ROE has slipped to 12.9% and operating margin fell to 7% in the September quarter from 8% a year earlier. ¶ ↗ simplywall.st|https://simplywall.st/stocks/in/consumer-retailing/nse-dmart/avenue-supermarts-shares/news/avenue-supermarts-limited-earnings-missed-analyst-estimates ;; linkedin.com|https://www.linkedin.com/posts/cnbc-tv18_avenue-supermarts-shares-fall-over-4-after-activity-7515297826281562112-NU8r ;; tradingview.com|https://www.tradingview.com/news/moneycontrol:a80bfcdb4094b:0-reduce-avenue-supermarts-target-of-rs-3214-prabhudas-lilladher/
+
+[Usha Martin Ltd (USHAMART, -3.76%)]
+
+- ~
+  2026-10-13 |
+  ## What the sector does ¶ • The wire rope industry sells steel wire ropes, strands and cords to crane, mining, elevator, oil and offshore, fishing and general engineering customers worldwide. ¶ • Revenue is driven by end-market demand and product mix, while cost is dominated by steel wire rod prices, energy and freight; global players include WireCo and Kiswire. ¶ ## What the company does ¶ • Usha Martin makes specialty steel wire ropes, strands, cords, LRPC strand and wire drawing machines, with plants in Ranchi, Hoshiarpur, Dubai, Bangkok and the UK. ¶ • It is India's largest wire rope maker and among the world's top five, earning from domestic and export sales; revenue was ₹1,033 crore in the June 2026 quarter. ¶ ## Why it moved today ¶ • No news article explaining the 3.76% fall to ₹483.15 on 12 October 2026 could be found, so the cause is not established from available sources. ¶ • Context: the stock had fallen 5.36% over five sessions and traded at a P/E of 27 against a sector P/E of 20.32, after June-quarter net profit rose 40.7% year on year. ¶ ## The numbers (Screener) ¶ • Stock P/E 27.0, price to book 4.46, dividend yield 0.78%, ROCE 19.5% and ROE 15.1%, with book value ₹108 per share, as of 12 October 2026. ¶ • June 2026 quarter: sales ₹1,033 crore, up 16.4% year on year; net profit ₹142 crore, up 40.7%; operating margin 20%, against 22% in the March 2026 quarter. ¶ ## What the numbers say ¶ • At a P/E of 27.0, Usha Martin trades below APL Apollo Tubes (48.74) and Ratnamani Metals (40.69) but above Shyam Metalics (27.05) and Jindal Saw (27.51), near the peer median of 22.75. ¶ • ROCE of 19.5% sits above the peer median of 13.01% and Jindal Saw's 10.43%, while June-quarter sales growth of 16.4% is in line with the peer median of 16.58%.
+
+[Fortis Healthcare Ltd (FORTIS, -3.69%)]
+
+- ~
+  12 Oct 2026 | https://www.sahi.com/news/fortis-healthcare-to-buy-26-stake-in-clean-max-sau-for-1-85-crore
+  ## What the sector does ¶ • Private hospitals sell inpatient and outpatient care, diagnostics and day-care procedures to patients, insurers and corporates, earning from bed occupancy, procedure mix and price per admission. ¶ • Revenue rises with beds, occupancy and case complexity, while doctor salaries, drugs, consumables and power are the main costs; Apollo, Max, Manipal, Aster and Fortis lead the listed space. ¶ ## What the company does ¶ • Fortis Healthcare runs 36 healthcare facilities with about 4,000 operational beds across India, Nepal, Dubai and Sri Lanka, plus diagnostics through 57%-owned SRL, one of India's largest private lab chains. ¶ • It earns from hospital services and SRL's testing network across 600-plus cities; September 2025 quarter sales were ₹2,331 crore, and market cap is ₹57,169 crore against Apollo's ₹1,11,793 crore. ¶ ## Why it moved today ¶ • Hospital stocks including Fortis fell after the Supreme Court's 12 October hearing on drug price caps, where the court questioned why the government cannot control the entire drug market; Fortis closed down 3.69%. ¶ • The court suggested a uniform 16% margin on all medicines and the next hearing is 27 October; existing 30% trade-margin caps apply only to non-scheduled anti-cancer drugs. No Fortis-specific cause for the fall was reported. ¶ ## The numbers (Screener) ¶ • Stock trades at P/E 53.6 and 5.78 times book value of ₹131, with ROCE 13.4% and ROE 11.2%; dividend yield is 0.13%. ¶ • June 2026 quarter sales were ₹2,545 crore with net profit ₹273 crore and EPS ₹3.53, versus ₹2,331 crore sales and ₹329 crore profit in September 2025. ¶ ## What the numbers say ¶ • Fortis's P/E of 53.6 sits near Apollo's 53.1 and Max's 56.3 but below Manipal's 100.9 and Aster's 164.1, and above the peer median P/E of 45.5. ¶ • Its ROCE of 13.4% and ROE of 11.2% trail Apollo's 17.5% and Global Health's 17.4% ROCE and the 14.7% peer median, while June 2026 net profit of ₹273 crore rose only 3.4% from a year earlier. ¶ ↗ sahi.com|https://www.sahi.com/news/fortis-healthcare-to-buy-26-stake-in-clean-max-sau-for-1-85-crore ;; cnbctv18.com|https://www.cnbctv18.com/market/apollo-hospitals-fortis-aster-max-health-park-medi-share-price-why-they-fell-on-monday-supreme-court-drug-pricing-20009921.htm ;; scanx.trade|https://scanx.trade/stock-market-news/debt-markets/fortis-healthcare-lists-1-550-crore-private-placement-debt-securities/53339194
+
+============================================================
+
+SOURCE 6: Watchlist (headlines + summary)
+
+[Jio Platforms]
+
+- ~
+  12 Oct 2026 | https://www.tradingview.com/news/moodys:ba259310488ca:0-ril-shares-reliance-industries-stock-slides-6-in-a-month-can-jio-platforms-ipo-aid-the-bounce-back-experts-views/
+  • Jio Platforms targets a $106 billion valuation in what is expected to be India's largest-ever IPO, with a price band of ₹1,065 to ₹1,119 apiece. ¶ • Elon Musk vowed to price Starlink affordably in India, escalating public criticism of Mukesh Ambani's 'de facto' monopoly days before the Jio IPO. ¶ • Both Starlink and Jio's satellite internet venture await final security clearance from the Indian government before launching services. ¶ • RIL shares fell 6% in a month, with analysts citing the Jio Platforms IPO and lower-than-expected valuations around $114 billion as the trigger. ¶ • Jio reported revenue growing from ₹1.1 lakh crore to ₹1.47 lakh crore, profit near ₹30,000 crore, and leverage down to 0.36 times. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:ba259310488ca:0-ril-shares-reliance-industries-stock-slides-6-in-a-month-can-jio-platforms-ipo-aid-the-bounce-back-experts-views/ ;; cnbctv18.com|https://www.cnbctv18.com/market/jio-platforms-ipo-much-beyond-just-a-telecom-play-digital-technology-subscribers-broadband-financial-growth-20010371.htm ;; indianewsnetwork.com|https://www.indianewsnetwork.com/en/elon-musk-promises-affordable-starlink-amid-rivalry-reliance-jio-20261012 ;; stratnewsglobal.com|https://stratnewsglobal.com/technology/musk-affordable-starlink-india-jio-ipo/
+
+- Outlook: Neutral
+  2026-10-13 |
+  §VIEW§{"stance": "neutral", "text": "The IPO at a lower valuation and RIL's 6% slide weigh on sentiment, while Jio's strong financials and 524 million subscribers support the long-term case. The split is near-term price pressure against resilient business fundamentals."}
+
+[Reliance Intelligence]
+
+- ~
+  12 Oct 2026 | https://www.goodreturns.in/news/jio-platforms-ipo-filing-sebi-reliance-roadmap-ai-satellite-clean-energy-011-1516873.html
+  • Jio Platforms filed draft IPO papers with SEBI for a fresh issue of up to 27 crore shares, potentially raising about ₹37,700 crore (USD 4 billion). ¶ • Reliance is working with Google, Meta and Nvidia on AI infrastructure and services, targeting consumers, enterprises and governments at scale. ¶ • Reliance aims to shift its entire Jio subscriber base to 5G by 2030; Reliance Jio had 524.4 million subscribers as of March 31, including 268.5 million 5G users. ¶ • Reliance targets 20 GW of integrated solar manufacturing capacity and plans to scale battery output to 120 GWh each year. ¶ • Reliance set an export ambition of USD 125 billion to USD 150 billion by 2032 and crossed 20,000 retail stores during the year. ¶ ↗ goodreturns.in|https://www.goodreturns.in/news/jio-platforms-ipo-filing-sebi-reliance-roadmap-ai-satellite-clean-energy-011-1516873.html
+
+- Outlook: Bullish
+  2026-10-13 |
+  §VIEW§{"stance": "bullish", "text": "The Jio Platforms IPO filing and AI partnerships with Google, Meta and Nvidia signal fresh capital and execution momentum. Telecom scale, clean energy targets and export goals support growth."}
+
+[Reliance]
+
+- ~
+  12 Oct 2026 | https://www.tradingview.com/news/moodys:ba259310488ca:0-ril-shares-reliance-industries-stock-slides-6-in-a-month-can-jio-platforms-ipo-aid-the-bounce-back-experts-views/
+  • Reliance shares hit an 18-month low of ₹1,157, down 28% from the 52-week high of ₹1,611.20 on January 5, 2026. ¶ • Jio Platforms IPO price band set at ₹1,065-1,119 per share, with valuations around $114 billion, below earlier estimates of $130-170 billion. ¶ • Supreme Court directed MMRDA to deposit ₹646 crore by November 6 in a dispute over alleged delay in Reliance's BKC complex. ¶ • YES Securities estimates cheap Venezuelan crude could add ₹8,400-12,600 crore to annual O2C EBITDA, maintaining a buy rating with target ₹1,660. ¶ • Elon Musk revived criticism of Mukesh Ambani, sharing reports on Reliance-linked political donations and accusing him of blocking Starlink's India entry. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:ba259310488ca:0-ril-shares-reliance-industries-stock-slides-6-in-a-month-can-jio-platforms-ipo-aid-the-bounce-back-experts-views/ ;; indiawest.com|https://indiawest.com/musk-revives-ambani-feud-with-reports-on-reliance-funding-of-bjp/ ;; business-standard.com|https://www.business-standard.com/markets/news/reliance-industries-hits-18-month-low-stock-down-28-from-january-low-126101200375_1.html ;; m.economictimes.com|https://m.economictimes.com/news/company/corporate-trends/supreme-court-asks-mmrda-to-deposit-rs-646-crore-in-reliance-industries-bkc-case/articleshow/134884362.cms
+
+- Outlook: Bearish
+  2026-10-13 |
+  §VIEW§{"stance": "bearish", "text": "Near-term pressure from Jio IPO valuation concerns and stock hitting an 18-month low. Offsetting positives like potential Venezuelan crude benefits and brokerage buy ratings may support a rebound."}
+
+[Flipkart]
+
+- ~
+  12 Oct 2026 | https://retailnews.asia/former-flipkart-staff-mobilise-for-share-in-proposed-2-billion-share-buyback
+  • Over 1,000 former Flipkart employees petitioned Walmart and Flipkart's board on October 11 for equal access to ESOP liquidity and an extended exercise window. ¶ • The petition aims to mobilise 20,000-30,000 ex-staff from Flipkart, Myntra, Cleartrip, Shopsy and Super Money, demanding inclusion in a proposed $2 billion buyback. ¶ • Former executives, including Myntra cofounder Mukesh Bansal, sent an October 1 letter to Walmart's board seeking an exit route for options granted 10-15 years ago. ¶ • Walmart's legal counsel responded that former staff would be considered during an eventual IPO, but offered no timeline or binding commitment. ¶ • Flipkart's Big Billion Days sale features discounts on iPhone 17 Pro, Samsung Galaxy S25 at ₹57,999, and up to 44% off premium Bluetooth headphones. ¶ ↗ retailnews.asia|https://retailnews.asia/former-flipkart-staff-mobilise-for-share-in-proposed-2-billion-share-buyback ;; m.economictimes.com|https://m.economictimes.com/tech/newsletters/tech-top-5/zetwerk-ipo-promises-big-returns-flipkart-alumni-seek-esop-buyback/articleshow/134893539.cms ;; hrkatha.com|https://www.hrkatha.com/news/over-1000-former-flipkart-employees-seek-equal-access-to-esop-liquidity/ ;; telecomtalk.info|https://telecomtalk.info/appleiphone17pro-sale-amazon-vs-flipkart-offers-compared/1012778/
+
+- Outlook: Bearish
+  2026-10-13 |
+  §VIEW§{"stance": "bearish", "text": "Walmart's refusal to include ex-staff in the $2 billion buyback, despite a $50 million payout to current employees in July, risks reputational damage and talent loyalty. The lack of IPO timeline adds uncertainty."}
+
+[Zomato]
+
+- ~
+  12 Oct 2026 | https://www.afaqs.com/news/advertising/cleartrip-appears-to-apologise-to-swiggy-and-zomato-in-cheeky-ads-12669762
+  • Zomato founder Deepinder Goyal said on X that the company could move to drones if it runs out of delivery partners, though no concrete plan was announced. ¶ • Zomato and Blinkit used 31 lakh delivery partners in FY2025-26, a figure expected to grow in coming years, according to company figures. ¶ • Goyal said parent company Eternal supports well over 1% of India's population including employees, warehouse workers and families, and hopes to reach 5% by 2030. ¶ • Cleartrip ran front-page apology ads in The Economic Times and The Gurgaon Times on October 10, targeting Swiggy and Zomato with orange and red backgrounds. ¶ • Redseer estimated e-commerce platforms recorded around ₹24,000 crore in gross merchandise value in the first two days of festive sales in 2026, across about 8-9 crore orders. ¶ ↗ indiatoday.in|https://www.indiatoday.in/technology/news/story/zomato-could-use-drones-if-it-runs-out-of-delivery-partners-says-deepinder-goyal-3015412-2026-10-12 ;; afaqs.com|https://www.afaqs.com/news/advertising/cleartrip-appears-to-apologise-to-swiggy-and-zomato-in-cheeky-ads-12669762
+
+- Outlook: Neutral
+  2026-10-13 |
+  §VIEW§{"stance": "neutral", "text": "Goyal's drone comment signals a possible answer to a future labour shortage, but no plan exists yet. Delivery partner growth and Eternal's 2030 livelihood goal show the current model still scaling."}
+
+[HAL]
+
+- ~
+  12 Oct 2026 | https://www.asianmilitaryreview.com/2026/10/hal-to-increase-indias-fighter-and-helicopter-engine-output-foc/
+  • HAL will raise annual AL-31FP engine output from 30 to 50 units and add a second Shakti helicopter engine line with capacity up to 100 engines annually. ¶ • HAL delivered 63 engines against a target of 60 by the second year of its 240-engine AL-31FP order, valued at INR260 billion (US$3 billion) and due by 2032. ¶ • The second Shakti engine production line is scheduled to be fully established by 2028-29, supporting Dhruv and Prachand helicopter production. ¶ • HAL expects indigenous content in the AL-31FP programme to reach 63% by the end and average over 54% across the whole programme. ¶ • HAL is also contracted to deliver twelve additional Su-30MKI fighters to the IAF under a December 2024 deal valued at INR135 billion (US$1.58 billion). ¶ ↗ asianmilitaryreview.com|https://www.asianmilitaryreview.com/2026/10/hal-to-increase-indias-fighter-and-helicopter-engine-output-foc/
+
+- Outlook: Bullish
+  2026-10-13 |
+  §VIEW§{"stance": "bullish", "text": "Engine capacity rises to 50 AL-31FP units yearly and a second Shakti line adds up to 100 engines, with 63 delivered against 60 and indigenous content heading to 63%. That supports higher output and margins."}
+
+[Tejas Networks]
+
+- ~
+  12 Oct 2026 | https://m.economictimes.com/industry/telecom/telecom-news/suppliers-tejas-c-dot-claim-bsnl-equipment-meet-trai-standards/articleshow/134901843.cms
+  • Tejas Networks and C-DoT said their BSNL equipment meets or exceeds TRAI quality-of-service benchmarks, after BSNL sought relaxed norms citing its indigenous sourcing mandate. ¶ • Tejas plans to enter Europe and the Global South, pitching AI-integrated 4G and 5G solutions with TCS as systems integrator, its chief strategy officer said. ¶ • Tejas won a commercial end-to-end 5G network deployment order in a South American market in the quarter ended June. ¶ • Tejas deployed BSNL's 4G network across over 100,000 sites from 2023 to early this year, and work on a second order for 18,000 more sites is underway. ¶ • Tejas reported revenue of ₹402 crore for the quarter ended June, split evenly between domestic and international markets, with a net loss of ₹202 crore and an order book of ₹1,529 crore. ¶ ↗ m.economictimes.com|https://m.economictimes.com/industry/telecom/telecom-news/suppliers-tejas-c-dot-claim-bsnl-equipment-meet-trai-standards/articleshow/134901843.cms ;; business-standard.com|https://www.business-standard.com/companies/news/tata-backed-tejas-plans-entry-into-new-markets-in-europe-global-south-126101201146_1.html
+
+- Outlook: Neutral
+  2026-10-13 |
+  §VIEW§{"stance": "neutral", "text": "Tejas is expanding abroad with a South America 5G order and a Europe deal, but its June-quarter net loss of Rs 202 crore and 93% domestic order book show the business still depends on India."}
+
+[Dmart]
+
+- ~
+  12 Oct 2026 | https://www.livemint.com/market/stock-market-news/avenue-supermarts-shares-fall-4-extend-losses-for-third-straight-session-why-is-damani-led-dmart-stock-declining-11791778039107.html
+  • Avenue Supermarts reported Q2FY27 net profit up 8.5% YoY to ₹742.98 crore, missing analyst estimates, while revenue rose 17.8% to ₹19,644 crore. ¶ • EBITDA margin contracted to 7.1% from 7.3% a year earlier, as higher operating expenses, including entry-level wage inflation, outpaced revenue growth. ¶ • Like-for-like growth improved to 9.5% in Q2FY27 from 6.8% in Q2FY26, but store productivity weakened with EBITDA per store falling 4.9% to ₹2.7 crore. ¶ • The company added 15 stores in Q2FY27, taking the total store count to 518, and targets 15% annual store-count expansion. ¶ • Brokerages remained divided: Citi maintained Sell with a target of ₹3,250, while CLSA retained Outperform with a target of ₹5,723. ¶ ↗ livemint.com|https://www.livemint.com/market/stock-market-news/avenue-supermarts-shares-fall-4-extend-losses-for-third-straight-session-why-is-damani-led-dmart-stock-declining-11791778039107.html ;; tradingview.com|https://www.tradingview.com/news/moodys:8e4373f3519e5:0-dmart-shares-fall-4-as-margin-pressure-overshadows-strong-same-store-growth/ ;; moneycontrol.com|https://www.moneycontrol.com/news/business/markets/dmart-stock-slides-3-after-q2-results-as-margin-pressure-overshadows-demand-recovery-brokerages-divided-14049785.html ;; business-standard.com|https://www.business-standard.com/markets/news/dmart-s-margin-recovery-may-take-time-amid-rising-costs-store-expansion-126101200675_1.html
+
+- Outlook: Bearish
+  2026-10-13 |
+  §VIEW§{"stance": "bearish", "text": "Margin contraction and earnings misses dominate, with EBITDA margin at 7.1% and profit growth lagging revenue. Quick-commerce competition and rising costs pressure profitability, though strong LFL growth and store expansion offer some support."}
+
+[Godigit Insurance]
+
+- ~
+  12 Oct 2026 | https://simplywall.st/stocks/in/insurance/nse-godigit/go-digit-general-insurance-shares/news/go-digit-fell-while-sales-rose
+  • Go Digit General Insurance shares fell 22.3% over the past year, including dividends, as the stock dropped from ₹363 to ₹279. ¶ • Q1 2027 revenue rose to ₹24,275.9m from ₹22,363.6m, showing strong top-line expansion. ¶ • Net income fell to ₹863.9m from ₹1,383.3m, and net margin slipped to 3.6% from 6.2%. ¶ • The bullish case had assumed net margins would rise to 7.2% and a future P/E of 55.6x in 2028. ¶ • The bearish case had projected a 6.0% margin and a 48.0x P/E, citing climate claims, competition, and motor policy reliance. ¶ ↗ simplywall.st|https://simplywall.st/stocks/in/insurance/nse-godigit/go-digit-general-insurance-shares/news/go-digit-fell-while-sales-rose
+
+- Outlook: Bearish
+  2026-10-13 |
+  §VIEW§{"stance": "bearish", "text": "Margin collapse to 3.6% and a 22.3% share decline show the bullish margin story failed. Until underwriting profitability recovers, the risk stays to the downside."}
+
+[Infoedge/Naukri]
+
+- ~
+  12 Oct 2026 | https://www.thehindubusinessline.com/companies/61-of-jobseekers-willing-to-disclose-mental-health-leave-survey-finds/article71574548.ece
+  • Naukri.com's report, based on 10,000 jobseekers across 8 cities and 83 industries, found 61% are open to disclosing mental health-related leave. ¶ • Poor work-life balance was cited by 42% of respondents as the biggest workplace factor affecting mental health, ahead of lack of managerial support at 27%. ¶ • 33% of respondents said their biggest concern about opening up on mental health at work was losing career opportunities, and 32% worried nobody would care. ¶ • 53% of respondents said clearer boundaries between work and personal time would be the most effective way companies could support employee mental health. ¶ • 22% favoured training managers to spot burnout signs, while 13% preferred dedicated mental health leave and 12% wanted greater access to counselling support. ¶ ↗ thehindubusinessline.com|https://www.thehindubusinessline.com/companies/61-of-jobseekers-willing-to-disclose-mental-health-leave-survey-finds/article71574548.ece
+
+- Outlook: Neutral
+  2026-10-13 |
+  §VIEW§{"stance": "neutral", "text": "The report shows jobseekers increasingly accept mental health leave, a modest positive for Naukri's engagement. But it is survey sentiment, not revenue or user growth, so it splits from any hard financial signal."}
+
+[Bitcoin]
+
+- ~
+  13 Oct 2026 | https://www.mitrade.com/au/insights/crypto/bitcoin/beincrypto-BTCUSD-202610130933
+  • Bitcoin fell below $82,000 on October 12, with about $120 million in crypto long positions liquidated in 15 minutes. ¶ • The US Dollar Index hit an 18-month high near 102.56 as the 10-year Treasury yield touched 5.35%, pressuring bitcoin and tech stocks. ¶ • US spot Bitcoin ETFs saw $487 million in single-day outflows, removing a source of steady institutional buying. ¶ • Analyst Root projects bitcoin could reclaim its $126,000 all-time high by June 2027, based on past cycle recovery timelines. ¶ • Bitcoin trades about 35% below its record $126,000 peak and roughly 52% below its October 2025 high, with a 2026 low near $60,000. ¶ ↗ mitrade.com|https://www.mitrade.com/au/insights/crypto/bitcoin/beincrypto-BTCUSD-202610130933 ;; mitrade.com|https://www.mitrade.com/au/insights/currency/usd/beincrypto-USDOLLARF-202610130935 ;; coindesk.com|https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge ;; tradingview.com|https://www.tradingview.com/news/cryptobriefing:3bdd3f16b094b:0-bitcoin-falls-below-82-000-as-120-million-in-crypto-longs-get-liquidated/
+
+- Outlook: Bearish
+  2026-10-13 |
+  §VIEW§{"stance": "bearish", "text": "A stronger dollar, 5.35% Treasury yields and $487 million ETF outflows are pulling money from bitcoin, while $120 million in long liquidations show fragile leverage. The path to a new high depends on inflation cooling and the $81,300-$82,000 support holding."}
+
+[Gold]
+
+- ~
+  12 Oct 2026 | https://www.kitco.com/news/article/2026-10-12/gold-silver-soften-markets-price-december-fed-hike-risk-kitco-pm-report
+  • Spot gold fell 0.59% to $4,168.90 an ounce as a firmer dollar and 10-year Treasury yield at 5.24% pressured the metal. ¶ • Markets price an 87.7% probability of at least one Fed hike by December, with September CPI due Wednesday and PPI and retail sales Thursday. ¶ • Brent settled up 1.8% at $106.65 a barrel after Iran's Mohsen Rezaei called the latest U.S. response on reopening the Strait of Hormuz insufficient. ¶ • Bank of America kept a cautious near-term view, forecasting gold to average $4,000 an ounce in 4Q26 and $4,813 in CY27, citing weak physical demand. ¶ • Gold in India rose to INR 13,069.17 per gram from INR 13,050.29 on Friday, while ETF inflows hit a four-year high and China's central bank bought about 740,000 ounces in September. ¶ ↗ kitco.com|https://www.kitco.com/news/article/2026-10-12/gold-silver-soften-markets-price-december-fed-hike-risk-kitco-pm-report ;; fxstreet.com|https://www.fxstreet.com/news/india-gold-price-today-gold-rises-according-to-fxstreet-data-202610120430 ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-october-12-2026-week-should-you-buy-or-sell-mcx-gold-us-iran-war-middle-east-us-fed-rate-hike/articleshow/134884555.cms ;; kitco.com|https://www.kitco.com/news/article/2026-10-12/gold-price-needs-dovish-fed-or-renewed-debasement-fears-reverse-its
+
+- Outlook: Bearish
+  2026-10-13 |
+  §VIEW§{"stance": "bearish", "text": "Higher yields, a firmer dollar and December hike odds near 87.7% cap gold, and BofA sees prices unable to hold above $4,000 near term. ETF inflows and central-bank buying support the market but have not offset the rate headwind."}
+
+============================================================
+
+SOURCE 2: The Hindu - Editorials
+[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+============================================================
+
+SOURCE 1: ET Morning Dispatch
+[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+============================================================
+
+SOURCE 3: The Hindu - International (headlines + summary)
+
+- Musk has spent $276 million on midterms to help Republicans retain control of Congress
+  13 Oct 2026 | https://www.thehindu.com/news/international/musk-has-spent-276-million-on-midterms-to-help-republicans-retain-control-of-congress/article71577755.ece
+  • Elon Musk has spent $366 million in the 2026 midterm cycle, including $276 million since July to help Republicans keep Congress. ¶ • Most of the $276 million went to the Senate Leadership Fund ($158 million) and his America PAC ($76 million), with $20 million to House Republicans.
+
+============================================================
+
+SOURCE 4: Entrackr Weekly Funding Report
+No new Weekly Funding Report since the last check (the latest covers Oct 5 to Oct 10). Most recent report: https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-5-oct-10-12662210
+
+============================================================
+
+SOURCE 5: The Hindu - Business (headlines + summary)
+
+[Economy] ADNOC open to further long-term LPG deals with India, sees India among most important energy markets: Acting CEO, Marketing
+  12 Oct 2026 | https://www.thehindu.com/business/Economy/adnoc-open-to-long-term-lpg-deals-with-india-eyes-bigger-strategic-reserves/article71575015.ece
+  • ADNOC supplied over 500,000 barrels of crude oil a day to India in 2025, about one in ten barrels of India's crude imports, its acting marketing CEO said. ¶ • ADNOC and ISPRL are exploring crude, LNG and LPG storage expansion in India, potentially raising ADNOC's crude storage from 5.86 million barrels in Mangaluru to 30 million barrels.
+
+[Business] PC market witnessed a massive contraction in Q3 of 2026: Gartner
+  12 Oct 2026 | https://www.thehindu.com/business/pc-market-witnessed-a-massive-contraction-in-q3-of-2026-gartner/article71576559.ece
+  • Worldwide PC shipments fell 22.4% year-over-year in the third quarter of 2026 to 55.4 million units, a level last seen in early 2023, per Gartner. ¶ • A fivefold year-over-year rise in DRAM (Dynamic Random-Access Memory) costs in the second quarter pushed vendors to raise prices, and all top six vendors declined, with HP down 30.9% and Apple falling least.
+
+[Business] RBL Bank’s Q2 net profit jumps 170% YoY
+  12 Oct 2026 | https://www.thehindu.com/business/rbl-banks-q2-net-profit-jumps-170-yoy/article71576398.ece
+  • RBL Bank's net profit rose 170% year-on-year to ₹482 crore in the September quarter, with net interest income up 37% to ₹2,131 crore. ¶ • Net advances grew 42% YoY to ₹1.42 lakh crore and gross non-performing assets fell 131 basis points YoY to 1.02%.
+
+[Business] HCLTech posts 21% YoY jump in Q2 net profit
+  12 Oct 2026 | https://www.thehindu.com/business/hcltech-posts-21-yoy-jump-in-q2-net-profit/article71576496.ece
+  • HCLTech's consolidated net profit rose 21.2% YoY to ₹5,132 crore in the September 2026 quarter, with revenue up 11.5% to ₹35,620 crore. ¶ • Advanced AI revenue reached $219 million, up 78% YoY in constant currency, as HCLTech signed a global partnership with Anthropic for enterprise agentic AI deployments.
+
+[Industry] GE to double India sourcing to $400 mn by 2030; GE-CFM engines set to power 9 in 10 aircraft
+  12 Oct 2026 | https://www.thehindu.com/business/Industry/ge-to-double-india-sourcing-to-400-mn-by-2030-ge-cfm-engines-set-to-power-9-in-10-aircraft/article71575196.ece
+  • GE Aerospace plans to nearly double annual component sourcing from India to $400 million by 2030, up from about $200 million in 2025. ¶ • CFM International's India fleet is expected to grow from over 1,400 commercial engines in December 2025 to 3,200 within nine to 10 years, with GE or CFM powering nine in 10 Indian engines.
+
+[Business] Coffee sector plans AI-led mechanisation push with support from IIT Dharwad, IIT Roorkee
+  12 Oct 2026 | https://www.thehindu.com/business/coffee-sector-plans-ai-led-mechanisation-push-with-support-from-iit-dharwad-iit-roorkee/article71576200.ece
+  • The Coffee Board proposed a joint effort with planters' bodies and IIT Dharwad and IIT Roorkee to develop AI-based farm equipment and mechanisation tools, with IIT Roorkee already holding a harvesting machine prototype. ¶ • Karnataka, which grows nearly 70% of India's coffee, is the focus, and the Board set December 2026 as the expected compliance timeline for the EU Deforestation Regulation, adding an EUDR module to its India Coffee App.
+
+[Industry] Agilisium aims to cut CS hire below 30%, eyes $500 mn revenue in next 5-7 years
+  12 Oct 2026 | https://www.thehindu.com/business/Industry/agilisium-aims-to-cut-cs-hire-below-30-eyes-500-mn-revenue-in-next-5-7-years/article71575204.ece
+  • Agilisium plans to hire fewer computer science graduates, keeping them under 30% of new recruits, and instead recruit biotechnology, microbiology, pharmacy and medicine professionals. ¶ • The life sciences technology company targets $100 million revenue next year and $500 million in five to seven years, with Hyderabad expected to grow to 2,000-5,000 employees from nearly 200.
+
+[Economy] Hall and Woodford win 2026 Economics Nobel for macroeconomic stabilisation work
+  12 Oct 2026 | https://www.thehindu.com/business/Economy/the-2026-nobel-winning-insights-into-how-govts-should-stabilise-economies/article71574871.ece
+  • Robert E. Hall of Stanford and Michael Woodford of Columbia won the 2026 Economics Nobel for the microeconomic foundations of macroeconomic stabilisation. ¶ • Their models let well-timed fiscal and monetary policy smooth economic peaks and troughs, and the prize is worth 12 million Swedish crowns ($1.2 million).
+
+[Economy] Food, fuel and precious metals drive September retail inflation to 23-month high of 5.5%
+  12 Oct 2026 | https://www.thehindu.com/business/Economy/retail-inflation-rises-in-september-on-costlier-food-items/article71574789.ece
+  • Retail inflation hit a 23-month high of 5.5% in September 2026, up from 4.8% in August and above the RBI's 6% upper comfort limit trajectory. ¶ • Food and beverages inflation rose to 7.4% from 5.7%, while transport inflation hit 5% for the fifth straight month, prompting ICRA to forecast another rate hike in December.
+
+[Industry] LTTS bets on manufacturing AI; eyes 80% revenue from six strategic areas in next 5 years
+  12 Oct 2026 | https://www.thehindu.com/business/Industry/ltts-bets-on-manufacturing-ai-eyes-80-revenue-from-six-strategic-areas-in-next-5-years/article71575004.ece
+  • L&T Technology Services opened an Engineering Intelligence Lab for manufacturing and operations in Bengaluru, built on Siemens and NVIDIA technologies, and plans a second US lab this financial year. ¶ • CEO Amit Chadha said the six strategic bets were about 50% of revenue last fiscal year and should reach about 80% in five years; AI tools and licences now bring in 1% of revenue.
+
+[Markets] Stock markets tumble on oil price spike, FII outflows; Sensex drops 548 points
+  12 Oct 2026 | https://www.thehindu.com/business/markets/stock-markets-tumble-on-oil-price-spike-fii-outflows-sensex-drops-548-points/article71574919.ece
+  • Sensex fell 547.65 points, or 0.76%, to close at 71,924.68 on Monday, with Nifty down 157.10 points, or 0.70%, at 22,363.35. ¶ • Foreign investors sold equities worth ₹3,568.90 crore on Friday as Brent crude rose 1.14% to $105.8 per barrel and retail inflation hit 5.54% in September.
+
+[Industry] Tata Motors, Stellantis deepen partnership to develop global vehicles in India
+  12 Oct 2026 | https://www.thehindu.com/business/Industry/tata-motors-stellantis-deepen-partnership-to-develop-global-vehicles-in-india/article71574776.ece
+  • Tata Motors Passenger Vehicles and Stellantis signed a definitive agreement to develop vehicles using Tata's product technology and architecture. ¶ • The vehicles will be built at their 50:50 Fiat India joint venture and sold in more than 50 global markets.
+
+[Economy] RBI tightens forex derivative rules; rupee jumps 96 paise to 95.75
+  12 Oct 2026 | https://www.thehindu.com/business/Economy/explained-rbis-worries-about-pressure-on-rupee-and-measures-to-curb-volatility-in-forex-market/article71574231.ece
+  • The RBI cut the threshold for forex derivative trades without underlying exposure from $100 million to $5 million and imposed a 20% Foreign Exchange Risk Reserve on INR contracts above $2 million. ¶ • The rupee rose 96 paise to close at 95.75 against the dollar on October 12, its steepest single-day gain in over six months, though recovery depends on crude prices and capital flows.
+
+[Economy] Coal stocks at thermal plants hold above 18 MT as supply deficit narrows
+  12 Oct 2026 | https://www.thehindu.com/business/Economy/coal-stocks-at-thermal-plants-hold-above-18-mt-as-supply-deficit-narrows/article71574429.ece
+  • Domestic thermal plants held coal stocks of 18.205 MT as of October 10, with daily supplies averaging 2.49 MT, the Coal Ministry said. ¶ • The stock depletion rate fell to 0.06 MT per day in the first 10 days of October from 0.24 MT per day in September, as daily rakes loaded rose 10% to 469.
+
+[Industry] SIPs register recorded ₹32,490 crore of inflows in September 2026
+  12 Oct 2026 | https://www.thehindu.com/business/Industry/sips-register-recorded-32490-crore-of-inflows-in-september-2026/article71574295.ece
+  • SIP inflows hit a record ₹32,490 crore in September, with SIP assets at ₹17.86 lakh crore, or 21.6% of total industry assets. ¶ • Mutual fund industry assets fell 5.1% on month to ₹82.64 lakh crore, as debt fund outflows and mark-to-market losses offset equity inflows of ₹38,306.55 crore.
+
+[Economy] ‘Excess’: More to pay, not more to receive
+  12 Oct 2026 | https://www.thehindu.com/business/Economy/excess-more-to-pay-not-more-to-receive/article71570551.ece
+  • An excess, also called a deductible, is the first part of a claim you pay yourself, such as the first ₹1,000, before the insurer pays the rest. ¶ • The general insurance industry is reportedly considering a compulsory 10% co-payment on all new hospitalisation policies from the new year in exchange for a lower premium.
+
+[Economy] When our meandering money leaves a mark
+  12 Oct 2026 | https://www.thehindu.com/business/Economy/when-our-meandering-money-leaves-a-mark/article71570547.ece
+  • Digital payments leave a permanent trail of every rupee spent, revealing tastes, habits and priorities, the article says. ¶ • India's DPDP Act, 2023 regulates how banks and apps collect and use this data, with privacy a fundamental right under the Constitution.
+
+[Industry] Volvo Car India introduces electric luxury SUV EX90 at ₹1.26 crore
+  12 Oct 2026 | https://www.thehindu.com/business/Industry/volvo-car-india-introduces-electric-luxury-suv-ex90-at-126-crore/article71574275.ece
+  • Volvo Car India opened bookings for the all-electric EX90 SUV at an introductory ₹1.26 crore ex-showroom, with deliveries from January 2027. ¶ • The 6-seater runs a 106 kWh battery with a twin-motor setup producing 335 kW and an ICAT-rated range of up to 725 km.
