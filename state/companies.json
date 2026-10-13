@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1663,7 +1663,7 @@
   "sector": "Venture debt",
   "description": "Venture debt provider that funded quantum computing startup QpiAI.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "kisah": {
   "name": "Kisah",
@@ -3210,7 +3210,7 @@
   "sector": "Manufacturing",
   "description": "Manufacturing and supply chain platform; raised its IPO fresh issue to Rs 2,830 crore.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-13"
  },
  "olxindia": {
   "name": "OLX India",
@@ -3587,6 +3587,132 @@
   "name": "Fiat India",
   "sector": "Automobiles",
   "description": "50:50 Tata Motors-Stellantis joint venture that will build vehicles for global markets.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "bandhanbank": {
+  "name": "Bandhan Bank",
+  "sector": "Banking",
+  "description": "Indian private bank focused on microfinance and underbanked markets.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "eleconengineering": {
+  "name": "Elecon Engineering",
+  "sector": "Industrial machinery",
+  "description": "Makes industrial gearboxes and material handling equipment for steel, cement and power.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "kpittechnologies": {
+  "name": "KPIT Technologies",
+  "sector": "Automotive software",
+  "description": "Pune-based automotive software specialist for autonomous, electric and connected vehicles.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "sterlitetechnologies": {
+  "name": "Sterlite Technologies",
+  "sector": "Optical fibre",
+  "description": "India's largest optical fibre and cable maker, also selling power transmission cables.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "aegislogistics": {
+  "name": "Aegis Logistics",
+  "sector": "Oil and gas logistics",
+  "description": "Runs bulk liquid terminals, LPG import terminals and pipelines in India.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "rrkabel": {
+  "name": "R R Kabel",
+  "sector": "Wires and cables",
+  "description": "Makes wires, cables and FMEG products for residential, industrial and infrastructure customers.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "aetherindustries": {
+  "name": "Aether Industries",
+  "sector": "Specialty chemicals",
+  "description": "Surat-based maker of advanced intermediates and specialty chemicals with CRAMS contracts.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "sarvam": {
+  "name": "Sarvam",
+  "sector": "AI",
+  "description": "Builds Indian-language AI models for government, banks and insurers; raising at $3 billion.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "indigoventures": {
+  "name": "IndiGo Ventures",
+  "sector": "Venture capital",
+  "description": "IndiGo's investment arm; participated in Sarvam's funding extension.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "mesaschoolofbusiness": {
+  "name": "Mesa School of Business",
+  "sector": "Education",
+  "description": "Bengaluru school offering startup leadership programmes; raised Rs 110 crore.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "dharanacapital": {
+  "name": "Dharana Capital",
+  "sector": "Venture capital",
+  "description": "Co-led Mesa School of Business's Rs 85 crore equity round.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "elevationcapital": {
+  "name": "Elevation Capital",
+  "sector": "Venture capital",
+  "description": "Co-led Mesa School of Business's Rs 85 crore equity round.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "alteriacapital": {
+  "name": "Alteria Capital",
+  "sector": "Venture debt",
+  "description": "Provided venture debt to Mesa School of Business.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "nazaratechnologies": {
+  "name": "Nazara Technologies",
+  "sector": "Gaming",
+  "description": "Indian gaming company; founder Nitish Mittersain stepped down as MD.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "insta360": {
+  "name": "Insta360",
+  "sector": "Cameras",
+  "description": "Action camera maker opening US stores; drone brand Antigravity won FCC approval.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "dji": {
+  "name": "DJI",
+  "sector": "Drones",
+  "description": "Chinese drone and camera maker blocked by the FCC from selling new devices in the US.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "antigravity": {
+  "name": "Antigravity",
+  "sector": "Drones",
+  "description": "Insta360's drone brand; A1 drone won FCC approval before the foreign-drone ban.",
+  "first_added": "2026-10-13",
+  "last_mentioned": "2026-10-13"
+ },
+ "npci": {
+  "name": "NPCI",
+  "sector": "Payments",
+  "description": "Runs UPI; said MDR charges on select UPI merchant transactions start post-Diwali.",
   "first_added": "2026-10-13",
   "last_mentioned": "2026-10-13"
  }
