@@ -60,7 +60,7 @@
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "olaelectric": {
   "name": "Ola Electric",
@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -137,7 +137,7 @@
   "sector": "Satellite internet",
   "description": "SpaceX's satellite broadband service awaiting security approvals for its India launch.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "spacex": {
   "name": "SpaceX",
@@ -228,7 +228,7 @@
   "sector": "Oil refining",
   "description": "Government-owned standalone refiner in Chennai producing fuels and lubricating oil additives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-14"
  },
  "indianoil": {
   "name": "Indian Oil",
@@ -452,7 +452,7 @@
   "sector": "Crypto exchange",
   "description": "US cryptocurrency exchange acting as custodian for US government seized crypto assets.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-14"
  },
  "alamedaresearch": {
   "name": "Alameda Research",
@@ -508,7 +508,7 @@
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
@@ -599,7 +599,7 @@
   "sector": "Housing finance",
   "description": "LIC-promoted mortgage lender whose shares rose 4.12% after the RBI repo rate hike.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-14"
  },
  "paytm": {
   "name": "Paytm",
@@ -837,7 +837,7 @@
   "sector": "E-commerce",
   "description": "Indian e-commerce marketplace; cofounder Vidit Aatrey spoke at the ET Startup Awards.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "pixxel": {
   "name": "Pixxel",
@@ -984,7 +984,7 @@
   "sector": "IT services",
   "description": "IT services firm; launched 20 purpose-built Industry AI Solutions across sectors.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "airindia": {
   "name": "Air India",
@@ -1054,7 +1054,7 @@
   "sector": "Media",
   "description": "News network; Mark Thompson kept as editor-in-chief after the Paramount-Warner merger.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-14"
  },
  "blackrock": {
   "name": "BlackRock",
@@ -1124,7 +1124,7 @@
   "sector": "Telecom",
   "description": "State-run telecom operator; rolling out 4G across 18,685 sites with Tejas RAN gear.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "aisle": {
   "name": "Aisle",
@@ -1362,7 +1362,7 @@
   "sector": "Banking",
   "description": "Private bank; offered debit card discounts on MacBook Neo during Flipkart sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-14"
  },
  "inoxwind": {
   "name": "Inox Wind",
@@ -2412,7 +2412,7 @@
   "sector": "Manufacturing",
   "description": "Contract manufacturing platform; among companies tapping India's primary market in October.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "avaadaelectro": {
   "name": "Avaada Electro",
@@ -2979,7 +2979,7 @@
   "sector": "Energy",
   "description": "Saudi state oil company; Houthis claimed attacks on its sites in eastern Saudi Arabia, which Saudi Arabia has not confirmed.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "safran": {
   "name": "Safran",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3476,7 +3476,7 @@
   "sector": "Telecom R&D",
   "description": "Government telecom research centre; said BSNL equipment meets TRAI quality benchmarks.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "strive": {
   "name": "Strive",
@@ -3818,6 +3818,69 @@
   "name": "Signpost India",
   "sector": "Out-of-home advertising",
   "description": "Outdoor advertising firm that partnered with Flipkart on a bus-stop fashion store.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "transformersrectifiersindia": {
+  "name": "Transformers & Rectifiers India",
+  "sector": "Electrical equipment",
+  "description": "Makes power, furnace and rectifier transformers for utilities and industry; won first nuclear order from NPCIL.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "vedantapower": {
+  "name": "Vedanta Power",
+  "sector": "Power generation",
+  "description": "Thermal power arm of Vedanta Group, supplying electricity to industries and state utilities.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "idbibank": {
+  "name": "IDBI Bank",
+  "sector": "Banking",
+  "description": "Private-sector bank taking deposits and lending to retail, small business and corporate customers.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "cholamandalaminvestment": {
+  "name": "Cholamandalam Investment",
+  "sector": "Non-bank finance",
+  "description": "Murugappa Group NBFC lending for vehicle finance, home loans, property and SME credit.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "shriramfinance": {
+  "name": "Shriram Finance",
+  "sector": "Non-bank finance",
+  "description": "Large NBFC financing commercial vehicles, especially used trucks, through branches and rural centres.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "mufg": {
+  "name": "MUFG",
+  "sector": "Banking",
+  "description": "Japanese banking group holding about 20% of Shriram Finance and exploring majority control.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "glenfarne": {
+  "name": "Glenfarne",
+  "sector": "Energy infrastructure",
+  "description": "Backs the 1,300-km Alaska gas pipeline that Taiwan will buy 30% of gas from for 20 years.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "politico": {
+  "name": "Politico",
+  "sector": "News media",
+  "description": "Political news outlet that won a court ruling keeping its White House press access.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "msnow": {
+  "name": "MS Now",
+  "sector": "News media",
+  "description": "US news outlet that won a court ruling keeping its White House press access.",
   "first_added": "2026-10-14",
   "last_mentioned": "2026-10-14"
  }
