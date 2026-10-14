@@ -158,14 +158,14 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -186,7 +186,7 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "walmart": {
   "name": "Walmart",
@@ -361,7 +361,7 @@
   "sector": "Defence aerospace",
   "description": "Indian state-owned aircraft maker producing Tejas fighters; awaiting GE engines for deliveries.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "lupin": {
   "name": "Lupin",
@@ -501,7 +501,7 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "naukri": {
   "name": "Naukri",
@@ -515,7 +515,7 @@
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "godigit": {
   "name": "Go Digit",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -1215,7 +1215,7 @@
   "sector": "Power",
   "description": "State-run power generator; parent of NTPC Green Energy.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "cognizant": {
   "name": "Cognizant",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "accenture": {
   "name": "Accenture",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -3119,7 +3119,7 @@
   "sector": "IT services",
   "description": "IT services firm; cited as a valuation peer for Tech Mahindra and traded lower.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "bharatelectronics": {
   "name": "Bharat Electronics",
@@ -3252,7 +3252,7 @@
   "sector": "IT services",
   "description": "Mid-sized IT services firm part of the CK Birla Group; stock fell 4.4% without fresh company news.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "amfi": {
   "name": "AMFI",
@@ -3301,7 +3301,7 @@
   "sector": "Banking",
   "description": "Private sector bank; Q2 net profit jumped 170% to Rs 482 crore with clean bad-loan ratio.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "agilisium": {
   "name": "Agilisium",
@@ -3483,7 +3483,7 @@
   "sector": "Bitcoin",
   "description": "Bitcoin investment firm; bought 2,000 Bitcoin for $169 million.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "urbancompany": {
   "name": "Urban Company",
@@ -3539,7 +3539,7 @@
   "sector": "AI",
   "description": "Elon Musk's AI company; launched The X Subscription bundling Grok, Grok Bot, Cursor and X Premium.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "aol": {
   "name": "AOL",
@@ -3595,49 +3595,49 @@
   "sector": "Banking",
   "description": "Indian private bank focused on microfinance and underbanked markets.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "eleconengineering": {
   "name": "Elecon Engineering",
   "sector": "Industrial machinery",
   "description": "Makes industrial gearboxes and material handling equipment for steel, cement and power.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "kpittechnologies": {
   "name": "KPIT Technologies",
   "sector": "Automotive software",
   "description": "Pune-based automotive software specialist for autonomous, electric and connected vehicles.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "sterlitetechnologies": {
   "name": "Sterlite Technologies",
   "sector": "Optical fibre",
   "description": "India's largest optical fibre and cable maker, also selling power transmission cables.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "aegislogistics": {
   "name": "Aegis Logistics",
   "sector": "Oil and gas logistics",
   "description": "Runs bulk liquid terminals, LPG import terminals and pipelines in India.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "rrkabel": {
   "name": "R R Kabel",
   "sector": "Wires and cables",
   "description": "Makes wires, cables and FMEG products for residential, industrial and infrastructure customers.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "aetherindustries": {
   "name": "Aether Industries",
   "sector": "Specialty chemicals",
   "description": "Surat-based maker of advanced intermediates and specialty chemicals with CRAMS contracts.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "sarvam": {
   "name": "Sarvam",
@@ -3714,6 +3714,111 @@
   "sector": "Payments",
   "description": "Runs UPI; said MDR charges on select UPI merchant transactions start post-Diwali.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
+ },
+ "higgsfieldai": {
+  "name": "Higgsfield AI",
+  "sector": "AI video",
+  "description": "AI video generation startup whose platform lets users create videos over 10 minutes long, up from a one-minute cap.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "googledeepmind": {
+  "name": "Google DeepMind",
+  "sector": "AI research",
+  "description": "Google's AI research unit; builds the Gemma and Gemini model families and on-device scam detection tools.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "palantir": {
+  "name": "Palantir",
+  "sector": "Data analytics",
+  "description": "Data analytics and software company selling to governments and enterprises; CTO Shyam Sankar commented on AI culture.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "warnermusicindia": {
+  "name": "Warner Music India",
+  "sector": "Music",
+  "description": "Indian arm of Warner Music expanding into publishing, distribution, artist services and live entertainment.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "lic": {
+  "name": "LIC",
+  "sector": "Insurance",
+  "description": "Life Insurance Corporation of India, the state-owned insurer; launched three new non-par individual plans.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "vantrockrealassets": {
+  "name": "Vantrock Real Assets",
+  "sector": "Real estate",
+  "description": "Developer planning 11.5 million sq ft of warehousing, industrial and logistics parks worth Rs 4,200 crore.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "adaniairports": {
+  "name": "Adani Airports",
+  "sector": "Airports",
+  "description": "Adani's airport operator; deferred shifting foreign airlines from Mumbai to Navi Mumbai.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "hyundaimotorgroup": {
+  "name": "Hyundai Motor Group",
+  "sector": "Automotive",
+  "description": "Korean automaker group investing $15.5 billion in India through 2032 for manufacturing and R&D.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "tatapower": {
+  "name": "Tata Power",
+  "sector": "Power",
+  "description": "Indian power utility with over 26 GW capacity; signed an energy transition research MoU with Imperial College London.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "ibmindia": {
+  "name": "IBM India",
+  "sector": "IT services",
+  "description": "IBM's Indian arm; launched Bharat Core tools for sovereign AI and signed an MoU with MeitY Startup Hub.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "indianrailways": {
+  "name": "Indian Railways",
+  "sector": "Rail transport",
+  "description": "India's state rail operator; freight loading rose 6.14% in September 2026 year on year.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "tristarholdings": {
+  "name": "Tristar Holdings",
+  "sector": "Logistics",
+  "description": "Dubai-based liquid logistics and terminalling company being acquired by Aegis Logistics for $809 million.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "puma": {
+  "name": "Puma",
+  "sector": "Sportswear",
+  "description": "German sportswear brand; its former India sports marketing head moved to Blinkit's Bistro.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "blaupunkt": {
+  "name": "Blaupunkt",
+  "sector": "Consumer electronics",
+  "description": "Audio and TV brand that launched smart TVs on Flipkart starting at Rs 7,999.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "signpostindia": {
+  "name": "Signpost India",
+  "sector": "Out-of-home advertising",
+  "description": "Outdoor advertising firm that partnered with Flipkart on a bus-stop fashion store.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
  }
 }

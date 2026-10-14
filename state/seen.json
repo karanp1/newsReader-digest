@@ -198,5 +198,41 @@
  "ai|https://x.ai/news/x-subscription": {
   "ident": "https://x.ai/news/x-subscription",
   "day": "2026-10-13"
+ },
+ "ai|https://openai.com/index/higgsfield-longer-videos-voice": {
+  "ident": "https://openai.com/index/higgsfield-longer-videos-voice",
+  "day": "2026-10-14"
+ },
+ "ai|https://deepmind.google/blog/on-device-ai-scam-detection-mddi/": {
+  "ident": "https://deepmind.google/blog/on-device-ai-scam-detection-mddi/",
+  "day": "2026-10-14"
+ },
+ "ai|https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/": {
+  "ident": "https://deepmind.google/blog/developing-gemini-4-argon-responsibly-and-safely/",
+  "day": "2026-10-14"
+ },
+ "ai|https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10": {
+  "ident": "https://www.businessinsider.com/ai-researchers-smoking-ai-cure-cancer-palantir-cto-2026-10",
+  "day": "2026-10-14"
+ },
+ "ai|https://x.com/SenSanders/status/2109737211704844704": {
+  "ident": "https://x.com/SenSanders/status/2109737211704844704",
+  "day": "2026-10-14"
+ },
+ "ai|https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html": {
+  "ident": "https://www.cnbc.com/2026/10/10/ai-lawyers-billable-hour-legal-careers.html",
+  "day": "2026-10-14"
+ },
+ "ai|https://www.pymnts.com/news/artificial-intelligence/2026/white-house-says-all-ai-companies-must-report-security-incidents/": {
+  "ident": "https://www.pymnts.com/news/artificial-intelligence/2026/white-house-says-all-ai-companies-must-report-security-incidents/",
+  "day": "2026-10-14"
+ },
+ "ai|https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-give-main-street-businesses-big-business-muscle/": {
+  "ident": "https://www.pymnts.com/news/artificial-intelligence/2026/ai-agents-give-main-street-businesses-big-business-muscle/",
+  "day": "2026-10-14"
+ },
+ "ai|https://fortune.com/2026/10/12/mckinsey-automation-could-absorb-half-of-u-s-work-hours-by-2035-bigger-challenge-skills/": {
+  "ident": "https://fortune.com/2026/10/12/mckinsey-automation-could-absorb-half-of-u-s-work-hours-by-2035-bigger-challenge-skills/",
+  "day": "2026-10-14"
  }
 }
