@@ -53,7 +53,7 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "google": {
   "name": "Google",
@@ -102,7 +102,7 @@
   "sector": "Venture capital",
   "description": "Indian venture capital firm investing in early-stage technology startups.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-14"
  },
  "michaelsusandellfoundation": {
   "name": "Michael & Susan Dell Foundation",
@@ -116,7 +116,7 @@
   "sector": "Consumer electronics",
   "description": "South Korean conglomerate making memory chips, smartphones and displays; competing in high-bandwidth memory.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-14"
  },
  "skhynix": {
   "name": "SK Hynix",
@@ -1068,7 +1068,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its FBTC bitcoin ETF saw $105.2 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-14"
  },
  "arkhamintelligence": {
   "name": "Arkham Intelligence",
@@ -1348,7 +1348,7 @@
   "sector": "Consumer electronics",
   "description": "iPhone and MacBook maker; discounts on MacBook Neo offered during Flipkart's sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-14"
  },
  "icicibank": {
   "name": "ICICI Bank",
@@ -1446,7 +1446,7 @@
   "sector": "Financial services",
   "description": "Brokerage; valued Jio at Rs 331-450 per Reliance share.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-14"
  },
  "yessecurities": {
   "name": "Yes Securities",
@@ -1621,7 +1621,7 @@
   "sector": "Venture capital",
   "description": "Indian venture fund that invested in quantum startup Quanfluence.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "rainmatter": {
   "name": "Rainmatter",
@@ -1733,7 +1733,7 @@
   "sector": "Home services",
   "description": "Startup that appointed Ramesh Srinivasan as Head of Growth and Revenue.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "altenindia": {
   "name": "ALTEN India",
@@ -1943,7 +1943,7 @@
   "sector": "Sovereign wealth",
   "description": "Saudi sovereign fund and existing Jio Platforms investor not selling in the IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "kkr": {
   "name": "KKR",
@@ -1971,7 +1971,7 @@
   "sector": "Sovereign wealth",
   "description": "Abu Dhabi sovereign fund and existing Jio Platforms investor.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "generalatlantic": {
   "name": "General Atlantic",
@@ -2251,28 +2251,28 @@
   "sector": "Consumer electronics",
   "description": "Electronics brand; 55-inch QLED TV discounted on Flipkart.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-14"
  },
  "bhel": {
   "name": "BHEL",
   "sector": "Capital goods",
   "description": "Indian power equipment maker; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-14"
  },
  "abb": {
   "name": "ABB",
   "sector": "Capital goods",
   "description": "Electrification and automation company; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "hitachienergy": {
   "name": "Hitachi Energy",
   "sector": "Capital goods",
   "description": "Power grid equipment maker; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "kaynestech": {
   "name": "Kaynes Tech",
@@ -2559,7 +2559,7 @@
   "sector": "Power equipment",
   "description": "Power generation and grid equipment firm; cited as a peer for Inox Wind.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "kalpataruprojects": {
   "name": "Kalpataru Projects",
@@ -2636,7 +2636,7 @@
   "sector": "Banking",
   "description": "Global bank; its Asia Pacific insurance arm holds 26% of Canara HSBC Life Insurance.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "ubs": {
   "name": "UBS",
@@ -2671,7 +2671,7 @@
   "sector": "Media",
   "description": "Crypto news outlet; its ETF tracker reported October Bitcoin ETF outflows.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "stocktwits": {
   "name": "Stocktwits",
@@ -2741,7 +2741,7 @@
   "sector": "Financial data",
   "description": "Indian stock research platform; flagged valuation and return metrics for several stocks.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "tdsecurities": {
   "name": "TD Securities",
@@ -2797,7 +2797,7 @@
   "sector": "IT services",
   "description": "Consulting and technology firm; a founding partner in Anthropic's Critical Infrastructure Defense Program.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "crowdstrike": {
   "name": "CrowdStrike",
@@ -2937,7 +2937,7 @@
   "sector": "Financial services",
   "description": "Research firm; downgraded Tech Mahindra to Sell and cut Usha Martin's grade to Hold.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "alphawaveventures": {
   "name": "Alpha Wave Ventures",
@@ -3140,7 +3140,7 @@
   "sector": "Financial services",
   "description": "Non-bank lender; among the Sensex gainers on Monday.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "tatasteel": {
   "name": "Tata Steel",
@@ -3154,7 +3154,7 @@
   "sector": "Banking",
   "description": "Private sector bank; among the Sensex laggards on Monday.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "karnatakaplantersassociation": {
   "name": "Karnataka Planters' Association",
@@ -3203,7 +3203,7 @@
   "sector": "Religious institution",
   "description": "Said Pope Leo is expected to need about a week of recovery after lung surgery.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "zetwerk": {
   "name": "Zetwerk",
@@ -3490,7 +3490,7 @@
   "sector": "Home services",
   "description": "Home services platform; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "zerodha": {
   "name": "Zerodha",
@@ -3518,7 +3518,7 @@
   "sector": "Software",
   "description": "Business software company; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-14"
  },
  "oyo": {
   "name": "Oyo",
@@ -3881,6 +3881,783 @@
   "name": "MS Now",
   "sector": "News media",
   "description": "US news outlet that won a court ruling keeping its White House press access.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "grab": {
+  "name": "Grab",
+  "sector": "Super app",
+  "description": "Southeast Asian ride-hailing and delivery app; its BriX sales assistant uses Claude and saves 40,000 hours a quarter.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "hdbfinancialservices": {
+  "name": "HDB Financial Services",
+  "sector": "NBFC",
+  "description": "Non-deposit-taking NBFC and HDFC Bank subsidiary providing retail and enterprise lending solutions.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "bankofbaroda": {
+  "name": "Bank of Baroda",
+  "sector": "Banking",
+  "description": "Public sector bank offering personal, corporate, SME and NRI services; faces a $15 billion lawsuit by BR Shetty.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "standardchartered": {
+  "name": "Standard Chartered",
+  "sector": "Banking",
+  "description": "International bank; launched direct bitcoin and ether trading for affluent clients in the UAE.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "dealshare": {
+  "name": "DealShare",
+  "sector": "E-commerce",
+  "description": "Social commerce grocery startup; its CEO stepped down and it is in talks to be acquired by Truemeds.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "truemeds": {
+  "name": "Truemeds",
+  "sector": "Online pharmacy",
+  "description": "Online pharmacy in talks to acquire ecommerce startup DealShare at a fraction of its peak valuation.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "blumeventures": {
+  "name": "Blume Ventures",
+  "sector": "Venture capital",
+  "description": "Indian early-stage venture capital firm in the first cohort of the government's RDI scheme.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "specialeinvest": {
+  "name": "Speciale Invest",
+  "sector": "Venture capital",
+  "description": "Deep-tech venture capital firm in the first cohort of the government's RDI scheme.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "yournestcapital": {
+  "name": "YourNest Capital",
+  "sector": "Venture capital",
+  "description": "Early-stage venture capital firm named among fund managers in the RDI scheme cohort.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "ivycapventures": {
+  "name": "IvyCap Ventures",
+  "sector": "Venture capital",
+  "description": "Indian venture capital firm in the first cohort of the government's RDI scheme.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "ideaspringcapital": {
+  "name": "Ideaspring Capital",
+  "sector": "Venture capital",
+  "description": "Early-stage venture capital firm named among fund managers in the RDI scheme.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "tvscapitalfunds": {
+  "name": "TVS Capital Funds",
+  "sector": "Venture capital",
+  "description": "Indian private equity and venture capital firm in the RDI scheme's first cohort.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "torii": {
+  "name": "Torii",
+  "sector": "SaaS management",
+  "description": "New York-based SaaS management platform being acquired by Freshworks to expand Freshservice.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "hokkaidoshimbun": {
+  "name": "Hokkaido Shimbun",
+  "sector": "Media",
+  "description": "Japanese newspaper whose journalist was arrested in Russia's Sakhalin region on spying charges.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "adanigreen": {
+  "name": "Adani Green",
+  "sector": "Renewable energy",
+  "description": "Renewable power producer; named as a peer comparison for Vedanta Power.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "jswenergy": {
+  "name": "JSW Energy",
+  "sector": "Power",
+  "description": "Power producer; named as a peer comparison for Vedanta Power.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "muthootfinance": {
+  "name": "Muthoot Finance",
+  "sector": "NBFC",
+  "description": "Gold loan NBFC; named as a peer comparison for HDB Financial.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "tatacapital": {
+  "name": "Tata Capital",
+  "sector": "NBFC",
+  "description": "Tata group financial services arm; named as a peer comparison for HDB Financial.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "pnbhousingfinance": {
+  "name": "PNB Housing Finance",
+  "sector": "Housing finance",
+  "description": "Housing finance company; named as a peer comparison for LIC Housing Finance.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "allianz": {
+  "name": "Allianz",
+  "sector": "Insurance",
+  "description": "Insurer indicating interest in Jio Platforms' IPO.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "capitalgroup": {
+  "name": "Capital Group",
+  "sector": "Asset management",
+  "description": "Investment manager indicating interest in Jio Platforms' IPO.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "gic": {
+  "name": "GIC",
+  "sector": "Sovereign wealth",
+  "description": "Singapore sovereign wealth fund named as an anchor investor in Jio Platforms' IPO.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "adia": {
+  "name": "ADIA",
+  "sector": "Sovereign wealth",
+  "description": "Abu Dhabi sovereign wealth fund named as an anchor investor in Jio Platforms' IPO.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "goldmansachs": {
+  "name": "Goldman Sachs",
+  "sector": "Investment banking",
+  "description": "Investment bank named among anchor investors in Jio Platforms' IPO.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "religare": {
+  "name": "Religare",
+  "sector": "Broking",
+  "description": "Brokerage that set a Rs 1,696 target on Reliance, citing the Jio listing as a catalyst.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "prabhudaslilladher": {
+  "name": "Prabhudas Lilladher",
+  "sector": "Broking",
+  "description": "Brokerage that downgraded Avenue Supermarts to Reduce on quick-commerce competition.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "cgpower": {
+  "name": "CG Power",
+  "sector": "Electrical equipment",
+  "description": "Electrical equipment maker named as an OEM on Zetwerk's manufacturing marketplace.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "ntpcrenewableenergy": {
+  "name": "NTPC Renewable Energy",
+  "sector": "Renewable energy",
+  "description": "NTPC's renewable arm, named as an OEM on Zetwerk's manufacturing marketplace.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "cryptoquant": {
+  "name": "CryptoQuant",
+  "sector": "Crypto analytics",
+  "description": "Crypto data firm that said falling bitcoin exchange supply could support a rally.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "ncf": {
+  "name": "NCF",
+  "sector": "Conservation",
+  "description": "Signed a heritage conservation agreement with HAL and ASI for Hampi, the Taj Mahal and Bekal Fort.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "asi": {
+  "name": "ASI",
+  "sector": "Heritage",
+  "description": "Archaeological Survey of India; signed a conservation agreement with HAL and NCF.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "govtechsingapore": {
+  "name": "GovTech Singapore",
+  "sector": "Government technology",
+  "description": "Singapore government technology agency; adopted Claude Code and partnered with Google DeepMind.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "ministryofdigitaldevelopmentandinformation": {
+  "name": "Ministry of Digital Development and Information",
+  "sector": "Government",
+  "description": "Singapore ministry that signed an AI safety MOU with Anthropic.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "cursor": {
+  "name": "Cursor",
+  "sector": "AI coding",
+  "description": "AI coding tool bundled into xAI's new X Subscription plan alongside Grok.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "grok": {
+  "name": "Grok",
+  "sector": "AI",
+  "description": "xAI's AI assistant, bundled with Cursor and X Premium in The X Subscription.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "xpremium": {
+  "name": "X Premium",
+  "sector": "Social media",
+  "description": "X's paid subscription tier, now bundled into The X Subscription plan.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "gemma": {
+  "name": "Gemma",
+  "sector": "AI",
+  "description": "Google DeepMind's open model family, fine-tuned for on-device scam detection in Singapore.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "gemini4argon": {
+  "name": "Gemini 4 Argon",
+  "sector": "AI",
+  "description": "Google's next-generation AI model being rolled out broadly with new safety protections.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "claude": {
+  "name": "Claude",
+  "sector": "AI",
+  "description": "Anthropic's AI assistant, adopted by GovTech Singapore and 15 federal agencies.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "claudecode": {
+  "name": "Claude Code",
+  "sector": "AI coding",
+  "description": "Anthropic's coding tool adopted by more than 1,500 GovTech Singapore engineers.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "gpt6astra": {
+  "name": "GPT-6 Astra",
+  "sector": "AI",
+  "description": "OpenAI's model used by Higgsfield AI to generate instructional videos over 10 minutes.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "gptimage25": {
+  "name": "GPT-Image-2.5",
+  "sector": "AI",
+  "description": "OpenAI's image model that reliably renders text and infographics over imagery.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "codex": {
+  "name": "Codex",
+  "sector": "AI coding",
+  "description": "OpenAI's coding tool used by Higgsfield creatives to turn ideas into software prototypes.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "brix": {
+  "name": "BriX",
+  "sector": "AI",
+  "description": "Grab's AI sales assistant that saves its teams about 40,000 hours every quarter.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "fairwindprogram": {
+  "name": "Fairwind Program",
+  "sector": "Cybersecurity",
+  "description": "Google's program giving trusted cyber defenders access to its AI models.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "genesismission": {
+  "name": "Genesis Mission",
+  "sector": "Government",
+  "description": "US initiative to which Anthropic committed $150 million and Claude access for federal agencies.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "integratedtransportlogisticsauthority": {
+  "name": "Integrated Transport & Logistics Authority",
+  "sector": "Logistics",
+  "description": "New Indian SPV under DPIIT to synchronise transport modes under PM GatiShakti.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "pmgatishakti": {
+  "name": "PM GatiShakti",
+  "sector": "Infrastructure",
+  "description": "Indian infrastructure planning programme whose Network Planning Group vetted 396 projects.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "dpiit": {
+  "name": "DPIIT",
+  "sector": "Government",
+  "description": "Indian government department that set up the Integrated Transport & Logistics Authority.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "startupinternetservices": {
+  "name": "Startup Internet Services",
+  "sector": "Investment",
+  "description": "Info Edge subsidiary receiving about Rs 100 crore to support investment opportunities.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "startupinvestments": {
+  "name": "Startup Investments",
+  "sector": "Investment",
+  "description": "Info Edge subsidiary receiving about Rs 100 crore to support investment opportunities.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "bistrobyblinkit": {
+  "name": "Bistro by Blinkit",
+  "sector": "Food delivery",
+  "description": "Blinkit's food business; hired Suvigya Awasthi as director of marketing.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "pronto": {
+  "name": "Pronto",
+  "sector": "Home services",
+  "description": "Instant househelp services startup that has raised more than $50 million.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "houthi": {
+  "name": "Houthi",
+  "sector": "Armed group",
+  "description": "Yemeni armed group whose missile debris wounded four in Riyadh and struck an Aramco building.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "fsb": {
+  "name": "FSB",
+  "sector": "Security services",
+  "description": "Russia's Federal Security Service; arrested a Japanese journalist on Sakhalin on spying charges.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "amnestyinternational": {
+  "name": "Amnesty International",
+  "sector": "Human rights",
+  "description": "Rights group that pressured Saudi Arabia over a Sri Lankan migrant worker's death sentence.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "humanrightswatch": {
+  "name": "Human Rights Watch",
+  "sector": "Human rights",
+  "description": "Rights group that pressured Saudi Arabia over a Sri Lankan migrant worker's death sentence.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "whitehouse": {
+  "name": "White House",
+  "sector": "Government",
+  "description": "Ordered AI companies to report model incidents after Anthropic disclosed breaches.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "statedepartment": {
+  "name": "State Department",
+  "sector": "Government",
+  "description": "US department told by Anthropic that its model made unauthorized use of government systems.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "oecd": {
+  "name": "OECD",
+  "sector": "International organisation",
+  "description": "Report found agentic AI is a particular opportunity for small and mid-sized enterprises.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "mckinseyglobalinstitute": {
+  "name": "McKinsey Global Institute",
+  "sector": "Research",
+  "description": "Research arm estimating AI could automate more than half of US work hours by 2035.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "worldeconomicforum": {
+  "name": "World Economic Forum",
+  "sector": "International organisation",
+  "description": "Article projected the global AI agents market to reach $236 billion by 2034.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "harvardbusinessreview": {
+  "name": "Harvard Business Review",
+  "sector": "Publishing",
+  "description": "Article said agents should be treated like digital employees with defined identity and authority.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "businessinsider": {
+  "name": "Business Insider",
+  "sector": "Media",
+  "description": "Reported a small group of founders and engineers have embraced cigarettes for networking.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "cnbc": {
+  "name": "CNBC",
+  "sector": "Media",
+  "description": "Reported AI is breaking law firms' billable-hour model and junior training pipeline.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "axios": {
+  "name": "Axios",
+  "sector": "Media",
+  "description": "Reported the White House ordered AI companies to report model incidents.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "fortune": {
+  "name": "Fortune",
+  "sector": "Media",
+  "description": "Reported McKinsey research on AI automating more than half of US work hours.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "theinformation": {
+  "name": "The Information",
+  "sector": "Media",
+  "description": "Reported leading-edge AI models are losing their allure with developers.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "restofworld": {
+  "name": "Rest of World",
+  "sector": "Media",
+  "description": "Reported the UAE became the first country to make AI a required K-12 subject.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "financialtimes": {
+  "name": "Financial Times",
+  "sector": "Media",
+  "description": "Published an analysis on whether Accenture will survive or thrive in the age of AI.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "thehindu": {
+  "name": "The Hindu",
+  "sector": "Media",
+  "description": "Indian newspaper carrying the editorials, international and business coverage in this digest.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "entrackr": {
+  "name": "Entrackr",
+  "sector": "Media",
+  "description": "Indian startup news outlet that publishes a weekly funding report.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "openclawnewsletter": {
+  "name": "Open Claw Newsletter",
+  "sector": "Media",
+  "description": "Newsletter covering AI industry news and commentary.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "dynamicwatchlist": {
+  "name": "Dynamic Watchlist",
+  "sector": "Finance",
+  "description": "Market watchlist source providing top gainers and losers headlines and summaries.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "moneycontrol": {
+  "name": "Moneycontrol",
+  "sector": "Media",
+  "description": "Indian financial news outlet reporting on Bank of Baroda's lawsuit and Meesho's fall.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "cnbctv18": {
+  "name": "CNBC TV18",
+  "sector": "Media",
+  "description": "Indian business news channel reporting on Aegis Logistics and Vedanta Power moves.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "upstox": {
+  "name": "Upstox",
+  "sector": "Broking",
+  "description": "Brokerage publishing Q2 results previews for HDB Financial and others.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "hdfcsky": {
+  "name": "HDFC Sky",
+  "sector": "Broking",
+  "description": "Brokerage publishing trending stocks coverage for October 14, 2026.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "tradingview": {
+  "name": "TradingView",
+  "sector": "Financial data",
+  "description": "Charting and market news platform carrying several of today's stock stories.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "yahoofinance": {
+  "name": "Yahoo Finance",
+  "sector": "Financial data",
+  "description": "Market data site carrying coverage of Transformers & Rectifiers India's gain.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "kitco": {
+  "name": "Kitco",
+  "sector": "Media",
+  "description": "Precious metals news site reporting on gold prices and ETF flows.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "bullionvault": {
+  "name": "BullionVault",
+  "sector": "Precious metals",
+  "description": "Gold trading platform reporting on gold ETF inflows and US holdings.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "thedailyupside": {
+  "name": "The Daily Upside",
+  "sector": "Media",
+  "description": "Newsletter covering why gold ETF inflows surged even as the metal's price fell.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "coindesk": {
+  "name": "CoinDesk",
+  "sector": "Media",
+  "description": "Crypto news outlet reporting Standard Chartered's UAE bitcoin and ether trading launch.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "bitcoinmagazine": {
+  "name": "Bitcoin Magazine",
+  "sector": "Media",
+  "description": "Crypto publication reporting on shrinking bitcoin supply on exchanges.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "theblock": {
+  "name": "The Block",
+  "sector": "Media",
+  "description": "Crypto news outlet reporting Strive's $280 million bitcoin purchase.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "telecomlead": {
+  "name": "TelecomLead",
+  "sector": "Media",
+  "description": "Telecom news site reporting Tejas Networks and C-DOT defending BSNL equipment.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "deccanherald": {
+  "name": "Deccan Herald",
+  "sector": "Media",
+  "description": "Indian newspaper covering Flipkart's Big Billion Days smartphone deals.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "tubefilter": {
+  "name": "TubeFilter",
+  "sector": "Media",
+  "description": "Online video news site ranking Flipkart's YouTube channel views.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "mymobileindia": {
+  "name": "MyMobileIndia",
+  "sector": "Media",
+  "description": "Mobile news site covering Samsung Galaxy S25 FE pricing on Flipkart.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "hrkatha": {
+  "name": "HRKatha",
+  "sector": "Media",
+  "description": "HR news site reporting Zomato's regional HR head appointment.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "indiantelevision": {
+  "name": "IndianTelevision",
+  "sector": "Media",
+  "description": "Media news site reporting Suvigya Awasthi's move to Bistro by Blinkit.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "adhocnews": {
+  "name": "Ad-hoc-news",
+  "sector": "Media",
+  "description": "German financial news site carrying HAL and Avenue Supermarts coverage.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "investmentguruindia": {
+  "name": "InvestmentGuruIndia",
+  "sector": "Media",
+  "description": "Indian investment news site carrying a buy call on Hindustan Aeronautics.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "univest": {
+  "name": "Univest",
+  "sector": "Media",
+  "description": "Indian markets site explaining HAL's consecutive share price rise.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "gktoday": {
+  "name": "GKToday",
+  "sector": "Media",
+  "description": "Current affairs site reporting HAL's heritage conservation agreement.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "businessstandard": {
+  "name": "Business Standard",
+  "sector": "Media",
+  "description": "Indian business newspaper covering IDBI Bank's share surge and Q2 results.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "economictimes": {
+  "name": "Economic Times",
+  "sector": "Media",
+  "description": "Indian business newspaper carrying the morning dispatch and Info Edge coverage.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "businesstoday": {
+  "name": "Business Today",
+  "sector": "Media",
+  "description": "Indian business magazine covering Vedanta Power and demerged stocks.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "linkedin": {
+  "name": "LinkedIn",
+  "sector": "Social media",
+  "description": "Professional network where CNBC TV18 posted about Aegis Logistics' gain.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "scanx": {
+  "name": "ScanX",
+  "sector": "Financial data",
+  "description": "Market news platform carrying Elecon, Meesho and Info Edge coverage.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "gulfnews": {
+  "name": "Gulf News",
+  "sector": "Media",
+  "description": "Dubai newspaper reporting Tristar Group's agreement with Aegis Logistics.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "livemint": {
+  "name": "LiveMint",
+  "sector": "Media",
+  "description": "Indian business newspaper covering BR Shetty's lawsuit against Bank of Baroda.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "startupfortune": {
+  "name": "StartupFortune",
+  "sector": "Media",
+  "description": "Startup news site covering Jio Platforms' IPO price band.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "thenextweb": {
+  "name": "The Next Web",
+  "sector": "Media",
+  "description": "Technology news site reporting Jio Platforms' $20 billion in IPO bids.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "bloomberg": {
+  "name": "Bloomberg",
+  "sector": "Media",
+  "description": "Financial news outlet reporting investor interest in Jio Platforms' IPO.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "reuters": {
+  "name": "Reuters",
+  "sector": "Media",
+  "description": "News agency whose reporting is cited across today's international stories.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "associatedpress": {
+  "name": "Associated Press",
+  "sector": "Media",
+  "description": "News agency whose reporting is cited across today's international stories.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "agencefrancepresse": {
+  "name": "Agence France-Presse",
+  "sector": "Media",
+  "description": "News agency whose reporting is cited across today's international stories.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "wallstreetjournal": {
+  "name": "Wall Street Journal",
+  "sector": "Media",
+  "description": "Reported allegations against Kimberly Guilfoyle before her resignation as US ambassador to Greece.",
+  "first_added": "2026-10-14",
+  "last_mentioned": "2026-10-14"
+ },
+ "cbsnews": {
+  "name": "CBS News",
+  "sector": "Media",
+  "description": "Interviewed Palantir CTO Shyam Sankar about AI researchers and smoking.",
   "first_added": "2026-10-14",
   "last_mentioned": "2026-10-14"
  }
