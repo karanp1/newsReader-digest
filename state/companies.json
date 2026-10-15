@@ -158,21 +158,21 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
   "sector": "Telecom",
   "description": "Indian telecom operator providing mobile, broadband and enterprise services across the country.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "motilaloswal": {
   "name": "Motilal Oswal",
@@ -361,7 +361,7 @@
   "sector": "Defence aerospace",
   "description": "Indian state-owned aircraft maker producing Tejas fighters; awaiting GE engines for deliveries.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "lupin": {
   "name": "Lupin",
@@ -515,14 +515,14 @@
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "godigit": {
   "name": "Go Digit",
   "sector": "Insurance",
   "description": "Indian general insurance company offering motor, health and travel policies digitally.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-15"
  },
  "syrmasgs": {
   "name": "Syrma SGS",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -662,14 +662,14 @@
   "sector": "IT services",
   "description": "Issued a Rs 1,537 crore Letter of Intent to Tejas for BSNL 4G RAN equipment.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-15"
  },
  "blinkit": {
   "name": "Blinkit",
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -732,7 +732,7 @@
   "sector": "Housing finance",
   "description": "Peer comparison for LIC Housing; trades at 25.46 times earnings.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-15"
  },
  "aadharhousingfinance": {
   "name": "Aadhar Housing Finance",
@@ -865,7 +865,7 @@
   "sector": "IT services",
   "description": "Indian IT services company; chairman Rishad Premji led the ET Startup Awards jury.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "porsche": {
   "name": "Porsche",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-15"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1124,7 +1124,7 @@
   "sector": "Telecom",
   "description": "State-run telecom operator; rolling out 4G across 18,685 sites with Tejas RAN gear.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "aisle": {
   "name": "Aisle",
@@ -1215,7 +1215,7 @@
   "sector": "Power",
   "description": "State-run power generator; parent of NTPC Green Energy.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "cognizant": {
   "name": "Cognizant",
@@ -1355,7 +1355,7 @@
   "sector": "Banking",
   "description": "Private bank; offered credit card discounts on MacBook Neo during Flipkart sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-15"
  },
  "hdfcbank": {
   "name": "HDFC Bank",
@@ -1446,7 +1446,7 @@
   "sector": "Financial services",
   "description": "Brokerage; valued Jio at Rs 331-450 per Reliance share.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "yessecurities": {
   "name": "Yes Securities",
@@ -1915,7 +1915,7 @@
   "sector": "Financial services",
   "description": "Investment bank appointed for Jio Platforms' IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "axiscapital": {
   "name": "Axis Capital",
@@ -2027,7 +2027,7 @@
   "sector": "Engineering services",
   "description": "Engineering services firm used as a valuation comparison for Cyient.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "sagility": {
   "name": "Sagility",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -2076,7 +2076,7 @@
   "sector": "Automotive",
   "description": "Carmaker whose October 2024 IPO was India's largest before Jio Platforms' offering.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-15"
  },
  "dolatcapital": {
   "name": "Dolat Capital",
@@ -2167,7 +2167,7 @@
   "sector": "Telecom",
   "description": "Reliance's telecom operator with 524.4 million customers; up to Rs 27,500 crore of Jio IPO proceeds will repay its borrowings.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "persistentsystems": {
   "name": "Persistent Systems",
@@ -2258,21 +2258,21 @@
   "sector": "Capital goods",
   "description": "Indian power equipment maker; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "abb": {
   "name": "ABB",
   "sector": "Capital goods",
   "description": "Electrification and automation company; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "hitachienergy": {
   "name": "Hitachi Energy",
   "sector": "Capital goods",
   "description": "Power grid equipment maker; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "kaynestech": {
   "name": "Kaynes Tech",
@@ -2328,14 +2328,14 @@
   "sector": "Regulator",
   "description": "India's securities regulator; to issue guidelines on closing auction session.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-15"
  },
  "reservebankofindia": {
   "name": "Reserve Bank of India",
   "sector": "Central bank",
   "description": "India's central bank; opened special dollar window for PSU oil firms.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "titan": {
   "name": "Titan",
@@ -2412,7 +2412,7 @@
   "sector": "Manufacturing",
   "description": "Contract manufacturing platform; among companies tapping India's primary market in October.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "avaadaelectro": {
   "name": "Avaada Electro",
@@ -2629,7 +2629,7 @@
   "sector": "Banking",
   "description": "Public sector bank holding 51% of Canara HSBC Life Insurance.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "hsbc": {
   "name": "HSBC",
@@ -2657,7 +2657,7 @@
   "sector": "Industry body",
   "description": "Gold industry body; reported a record $31 billion into gold ETFs in Q3.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "abra": {
   "name": "Abra",
@@ -2881,14 +2881,14 @@
   "sector": "Auto classifieds",
   "description": "Runs CarWale, BikeWale and OLX India; shares rose 8% after UBS reiterated Buy with a ₹4,000 target.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-15"
  },
  "tatachemicals": {
   "name": "Tata Chemicals",
   "sector": "Chemicals",
   "description": "Soda ash, salt and specialty ingredients maker; shares rose 7% as soda ash volumes and scFOS sales recovered.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-15"
  },
  "lenskart": {
   "name": "Lenskart",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -2923,7 +2923,7 @@
   "sector": "Financial services",
   "description": "Investment bank; raised Reliance's model portfolio weight to 7.50% and cut DMart's target to ₹4,000.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "clsa": {
   "name": "CLSA",
@@ -3126,7 +3126,7 @@
   "sector": "Defence electronics",
   "description": "State-run defence electronics maker; among the Sensex gainers on Monday.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "mahindraandmahindra": {
   "name": "Mahindra and Mahindra",
@@ -3140,7 +3140,7 @@
   "sector": "Financial services",
   "description": "Non-bank lender; among the Sensex gainers on Monday.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "tatasteel": {
   "name": "Tata Steel",
@@ -3245,7 +3245,7 @@
   "sector": "Holding company",
   "description": "Holding company controlling the Tata group; reportedly in early talks with banks about a potential listing.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "birlasoft": {
   "name": "Birlasoft",
@@ -3322,7 +3322,7 @@
   "sector": "Industrial technology",
   "description": "Industrial technology firm; technology partner for LTTS's Bengaluru manufacturing AI lab.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-15"
  },
  "elaracapital": {
   "name": "Elara Capital",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3476,7 +3476,7 @@
   "sector": "Telecom R&D",
   "description": "Government telecom research centre; said BSNL equipment meets TRAI quality benchmarks.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "strive": {
   "name": "Strive",
@@ -3504,7 +3504,7 @@
   "sector": "Logistics",
   "description": "Logistics and supply chain company; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "ofbusiness": {
   "name": "OfBusiness",
@@ -3602,7 +3602,7 @@
   "sector": "Industrial machinery",
   "description": "Makes industrial gearboxes and material handling equipment for steel, cement and power.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "kpittechnologies": {
   "name": "KPIT Technologies",
@@ -3714,7 +3714,7 @@
   "sector": "Payments",
   "description": "Runs UPI; said MDR charges on select UPI merchant transactions start post-Diwali.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "higgsfieldai": {
   "name": "Higgsfield AI",
@@ -3749,7 +3749,7 @@
   "sector": "Insurance",
   "description": "Life Insurance Corporation of India, the state-owned insurer; launched three new non-par individual plans.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "vantrockrealassets": {
   "name": "Vantrock Real Assets",
@@ -3826,35 +3826,35 @@
   "sector": "Electrical equipment",
   "description": "Makes power, furnace and rectifier transformers for utilities and industry; won first nuclear order from NPCIL.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "vedantapower": {
   "name": "Vedanta Power",
   "sector": "Power generation",
   "description": "Thermal power arm of Vedanta Group, supplying electricity to industries and state utilities.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "idbibank": {
   "name": "IDBI Bank",
   "sector": "Banking",
   "description": "Private-sector bank taking deposits and lending to retail, small business and corporate customers.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "cholamandalaminvestment": {
   "name": "Cholamandalam Investment",
   "sector": "Non-bank finance",
   "description": "Murugappa Group NBFC lending for vehicle finance, home loans, property and SME credit.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "shriramfinance": {
   "name": "Shriram Finance",
   "sector": "Non-bank finance",
   "description": "Large NBFC financing commercial vehicles, especially used trucks, through branches and rural centres.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "mufg": {
   "name": "MUFG",
@@ -3896,14 +3896,14 @@
   "sector": "NBFC",
   "description": "Non-deposit-taking NBFC and HDFC Bank subsidiary providing retail and enterprise lending solutions.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "bankofbaroda": {
   "name": "Bank of Baroda",
   "sector": "Banking",
   "description": "Public sector bank offering personal, corporate, SME and NRI services; faces a $15 billion lawsuit by BR Shetty.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "standardchartered": {
   "name": "Standard Chartered",
@@ -3987,35 +3987,35 @@
   "sector": "Renewable energy",
   "description": "Renewable power producer; named as a peer comparison for Vedanta Power.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "jswenergy": {
   "name": "JSW Energy",
   "sector": "Power",
   "description": "Power producer; named as a peer comparison for Vedanta Power.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "muthootfinance": {
   "name": "Muthoot Finance",
   "sector": "NBFC",
   "description": "Gold loan NBFC; named as a peer comparison for HDB Financial.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "tatacapital": {
   "name": "Tata Capital",
   "sector": "NBFC",
   "description": "Tata group financial services arm; named as a peer comparison for HDB Financial.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "pnbhousingfinance": {
   "name": "PNB Housing Finance",
   "sector": "Housing finance",
   "description": "Housing finance company; named as a peer comparison for LIC Housing Finance.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "allianz": {
   "name": "Allianz",
@@ -4057,21 +4057,21 @@
   "sector": "Broking",
   "description": "Brokerage that set a Rs 1,696 target on Reliance, citing the Jio listing as a catalyst.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "prabhudaslilladher": {
   "name": "Prabhudas Lilladher",
   "sector": "Broking",
   "description": "Brokerage that downgraded Avenue Supermarts to Reduce on quick-commerce competition.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "cgpower": {
   "name": "CG Power",
   "sector": "Electrical equipment",
   "description": "Electrical equipment maker named as an OEM on Zetwerk's manufacturing marketplace.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "ntpcrenewableenergy": {
   "name": "NTPC Renewable Energy",
@@ -4211,21 +4211,21 @@
   "sector": "Logistics",
   "description": "New Indian SPV under DPIIT to synchronise transport modes under PM GatiShakti.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "pmgatishakti": {
   "name": "PM GatiShakti",
   "sector": "Infrastructure",
   "description": "Indian infrastructure planning programme whose Network Planning Group vetted 396 projects.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "dpiit": {
   "name": "DPIIT",
   "sector": "Government",
   "description": "Indian government department that set up the Integrated Transport & Logistics Authority.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "startupinternetservices": {
   "name": "Startup Internet Services",
@@ -4660,5 +4660,502 @@
   "description": "Interviewed Palantir CTO Shyam Sankar about AI researchers and smoking.",
   "first_added": "2026-10-14",
   "last_mentioned": "2026-10-14"
+ },
+ "amp": {
+  "name": "Amp",
+  "sector": "AI developer tools",
+  "description": "AI coding agent startup expanding its agents beyond code to design and planning, using OpenAI models.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "sentinelone": {
+  "name": "SentinelOne",
+  "sector": "Cybersecurity",
+  "description": "Cybersecurity firm using OpenAI models to reverse engineer malware in hours instead of weeks.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "oxylabs": {
+  "name": "Oxylabs",
+  "sector": "Data infrastructure",
+  "description": "Lithuanian web intelligence and proxy data platform serving AI companies and Fortune 500 firms.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "warburgpincus": {
+  "name": "Warburg Pincus",
+  "sector": "Private equity",
+  "description": "Global private equity firm with over $105 billion in assets under management.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "publicisgroupe": {
+  "name": "Publicis Groupe",
+  "sector": "Advertising",
+  "description": "Advertising and communications group pitching AI services directly to CEOs.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "pepsico": {
+  "name": "PepsiCo",
+  "sector": "Food and beverage",
+  "description": "Global snacks and drinks company that awarded its media business to Publicis without a pitch.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "cocacola": {
+  "name": "Coca-Cola",
+  "sector": "Food and beverage",
+  "description": "Global beverage company whose media business Publicis dropped out of pitching for.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "socitgnrale": {
+  "name": "Société Générale",
+  "sector": "Banking",
+  "description": "French bank expecting up to 600 million euros of AI savings by 2029.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "commerzbank": {
+  "name": "Commerzbank",
+  "sector": "Banking",
+  "description": "German bank planning about 600 million euros of AI investment from 2026 to 2030.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "jreast": {
+  "name": "JR East",
+  "sector": "Rail transport",
+  "description": "Japanese rail group that disclosed a data leak amid Japan's cyber emergency.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "fairfaxfinancialholdings": {
+  "name": "Fairfax Financial Holdings",
+  "sector": "Insurance",
+  "description": "Canadian financial holding company buying a 60.72% stake in IDBI Bank.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "iiflcapital": {
+  "name": "IIFL Capital",
+  "sector": "Financial services",
+  "description": "Investment banking and wealth management firm Fairfax plans to contribute to IDBI Bank.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "vedantaoilandgas": {
+  "name": "Vedanta Oil and Gas",
+  "sector": "Oil and gas",
+  "description": "Oil and gas explorer operating under the Cairn brand with blocks across India.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "vedantairon": {
+  "name": "Vedanta Iron",
+  "sector": "Metals and mining",
+  "description": "Demerged Vedanta Group entity for iron ore and steel operations.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "piramalfinance": {
+  "name": "Piramal Finance",
+  "sector": "Housing finance",
+  "description": "Lends to retail customers for home purchase, construction and loans against property.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "zyduslifesciences": {
+  "name": "Zydus Lifesciences",
+  "sector": "Pharmaceuticals",
+  "description": "Indian drugmaker whose Moraiya plant received five US FDA observations.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "ticvictechnologies": {
+  "name": "Ticvic Technologies",
+  "sector": "Network software",
+  "description": "Bengaluru network software firm owed $672,102 by an overseas customer for completed work.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "gmraerotechnic": {
+  "name": "GMR Aero Technic",
+  "sector": "Aviation MRO",
+  "description": "Hyderabad aircraft maintenance firm setting up a cabin interiors centre with UUDS Aero.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "uudsaero": {
+  "name": "UUDS Aero",
+  "sector": "Aviation interiors",
+  "description": "France-based firm partnering with GMR Aero Technic on aircraft cabin design and manufacturing.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "nmchealthcare": {
+  "name": "NMC Healthcare",
+  "sector": "Healthcare",
+  "description": "Failed hospital operator whose founder B R Shetty sued Bank of Baroda for $15 billion.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "tatatrusts": {
+  "name": "Tata Trusts",
+  "sector": "Philanthropy",
+  "description": "Charitable trusts owning 66% of Tata Sons, facing governance complaints.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "nykaa": {
+  "name": "Nykaa",
+  "sector": "E-commerce",
+  "description": "Indian beauty and fashion e-commerce platform seeing stronger festive user growth.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "asus": {
+  "name": "Asus",
+  "sector": "Consumer electronics",
+  "description": "Taiwanese laptop maker discounting ExpertBook models on Flipkart's festive sale.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "dreame": {
+  "name": "Dreame",
+  "sector": "Home appliances",
+  "description": "Vacuum cleaner brand discounted on Flipkart and Amazon during festive sales.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "eurekaforbes": {
+  "name": "Eureka Forbes",
+  "sector": "Home appliances",
+  "description": "Indian vacuum cleaner and water purifier brand discounted in festive sales.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "portronics": {
+  "name": "Portronics",
+  "sector": "Consumer electronics",
+  "description": "Indian accessories and appliance brand discounted in festive sales.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "curefit": {
+  "name": "Curefit",
+  "sector": "Health and fitness",
+  "description": "Indian health and fitness company where Zomato's new HR head previously worked.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "k33": {
+  "name": "K33",
+  "sector": "Crypto research",
+  "description": "Crypto research firm analysing Strategy's bitcoin holdings and financing.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "globalantiscamalliance": {
+  "name": "Global Anti-Scam Alliance",
+  "sector": "Anti-scam advocacy",
+  "description": "Alliance estimating global scam losses at $442 billion across 42 countries.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "democracyworks": {
+  "name": "Democracy Works",
+  "sector": "Civic technology",
+  "description": "Nonprofit providing official voting information used in Claude.ai election responses.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "glm": {
+  "name": "GLM",
+  "sector": "AI",
+  "description": "AI model family capable of end-to-end self-replication in Anthropic's simplified evaluations.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "servicenow": {
+  "name": "ServiceNow",
+  "sector": "Enterprise software",
+  "description": "Enterprise workflow software company whose EVA-Bench tests voice agents.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "artificialanalysis": {
+  "name": "Artificial Analysis",
+  "sector": "AI research",
+  "description": "Analytics firm ranking speech-to-speech AI models.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "harrispoll": {
+  "name": "Harris Poll",
+  "sector": "Market research",
+  "description": "Polling firm surveying CEOs on AI investment pressure.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "sapient": {
+  "name": "Sapient",
+  "sector": "Digital consulting",
+  "description": "Publicis Groupe's technology and consulting arm.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "centralelectricityauthority": {
+  "name": "Central Electricity Authority",
+  "sector": "Power regulation",
+  "description": "Indian statutory body chairing the National Electricity Data Sharing framework committee.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "ministryofroadtransportandhighways": {
+  "name": "Ministry of Road Transport and Highways",
+  "sector": "Government",
+  "description": "Indian ministry proposing BS-VII emission norms from April 2029.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "nitiaayog": {
+  "name": "NITI Aayog",
+  "sector": "Government",
+  "description": "Indian government policy think tank whose former member heads the sugarcane farmer panel.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "bombayhighcourt": {
+  "name": "Bombay High Court",
+  "sector": "Judiciary",
+  "description": "Indian court hearing the NMC founder's suit against Bank of Baroda and Tata Trusts caveats.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "maharashtracharitycommissioner": {
+  "name": "Maharashtra Charity Commissioner",
+  "sector": "Government",
+  "description": "Office handling complaints about governance at Tata Trusts.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "usfda": {
+  "name": "US FDA",
+  "sector": "Regulator",
+  "description": "US drug regulator that issued observations to Zydus Lifesciences' Moraiya plant.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "bharatnet": {
+  "name": "BharatNet",
+  "sector": "Telecom infrastructure",
+  "description": "Indian government broadband network programme that buys optical fibre.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "trai": {
+  "name": "TRAI",
+  "sector": "Telecom regulator",
+  "description": "Indian telecom regulator whose quality-of-service benchmarks Tejas and C-DOT cited.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "3gpp": {
+  "name": "3GPP",
+  "sector": "Standards body",
+  "description": "Telecom standards organisation whose specifications Tejas and C-DOT cited.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "ibm": {
+  "name": "IBM",
+  "sector": "Technology",
+  "description": "Technology company hosting Think 2026 and partnering on quantum computing in Andhra Pradesh.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "andhrapradesh": {
+  "name": "Andhra Pradesh",
+  "sector": "Government",
+  "description": "Indian state partnering with IBM on a quantum computing initiative.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "comoros": {
+  "name": "Comoros",
+  "sector": "Government",
+  "description": "Flag state of the tanker that caught fire in Romanian waters.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "romania": {
+  "name": "Romania",
+  "sector": "Government",
+  "description": "Country in whose waters the tanker Yara J caught fire.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "turkey": {
+  "name": "Turkey",
+  "sector": "Government",
+  "description": "Central bank that sold 82 tons of gold through August.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "russia": {
+  "name": "Russia",
+  "sector": "Government",
+  "description": "Central bank that sold 56 tons of gold through August.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "ongc": {
+  "name": "ONGC",
+  "sector": "Oil and gas",
+  "description": "Indian state oil and gas explorer, a peer to Vedanta Oil and Gas.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "oilindia": {
+  "name": "Oil India",
+  "sector": "Oil and gas",
+  "description": "Indian state oil and gas producer, a peer to Vedanta Oil and Gas.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "gevernovatd": {
+  "name": "GE Vernova T&D",
+  "sector": "Electrical equipment",
+  "description": "Power transmission and distribution equipment maker, a peer to Transformers & Rectifiers India.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "kotakmahindrabank": {
+  "name": "Kotak Mahindra Bank",
+  "sector": "Banking",
+  "description": "Indian private bank, a peer to IDBI Bank.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "statebankofindia": {
+  "name": "State Bank of India",
+  "sector": "Banking",
+  "description": "India's largest bank, a peer to IDBI Bank.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "aadharhousing": {
+  "name": "Aadhar Housing",
+  "sector": "Housing finance",
+  "description": "Indian housing finance company, a peer to LIC Housing Finance.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "fsn": {
+  "name": "FSN",
+  "sector": "E-commerce",
+  "description": "Indian e-commerce company, a peer to Meesho.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "balrampurchinimills": {
+  "name": "Balrampur Chini Mills",
+  "sector": "Sugar",
+  "description": "Indian sugar producer mentioned in trade spotlight coverage.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "coforge": {
+  "name": "Coforge",
+  "sector": "IT services",
+  "description": "Indian IT services company mentioned in trade spotlight coverage.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "stlnetworks": {
+  "name": "STL Networks",
+  "sector": "Telecom services",
+  "description": "Demerged global services business of Sterlite Technologies.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "ge": {
+  "name": "GE",
+  "sector": "Industrial equipment",
+  "description": "Large industrial equipment maker, a peer in the electrical equipment sector.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "dmart": {
+  "name": "DMart",
+  "sector": "Retail",
+  "description": "Indian supermarket chain operated by Avenue Supermarts.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "indianairforce": {
+  "name": "Indian Air Force",
+  "sector": "Defence",
+  "description": "India's air force, whose trust in HAL was questioned over Tejas Mk1A delays.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "ministryofdefence": {
+  "name": "Ministry of Defence",
+  "sector": "Government",
+  "description": "Indian ministry that announced HAL's engine capacity expansion.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "michaelsaylor": {
+  "name": "Michael Saylor",
+  "sector": "Crypto",
+  "description": "Strategy co-founder predicting bitcoin will surpass $100,000 in the next year.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "bitcoin": {
+  "name": "Bitcoin",
+  "sector": "Crypto",
+  "description": "Leading cryptocurrency that fell to $82,000 after higher-than-expected CPI.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "gold": {
+  "name": "Gold",
+  "sector": "Commodities",
+  "description": "Precious metal trading near $4,100 with record ETF holdings.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "yaraj": {
+  "name": "Yara J",
+  "sector": "Shipping",
+  "description": "Comoros-flagged tanker that caught fire in Romanian waters.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "sulina": {
+  "name": "Sulina",
+  "sector": "Shipping",
+  "description": "Romanian canal near where the tanker Yara J caught fire.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "blacksea": {
+  "name": "Black Sea",
+  "sector": "Shipping",
+  "description": "Region where five commercial ships have been hit since early October.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "bulgaria": {
+  "name": "Bulgaria",
+  "sector": "Government",
+  "description": "Country off whose coast commercial ships have been hit in the Black Sea.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
  }
 }

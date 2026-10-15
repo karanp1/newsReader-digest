@@ -238,5 +238,49 @@
  "ai|https://www.anthropic.com/news/singapore-office-opening": {
   "ident": "https://www.anthropic.com/news/singapore-office-opening",
   "day": "2026-10-14"
+ },
+ "ai|https://openai.com/index/amp-beyond-coding": {
+  "ident": "https://openai.com/index/amp-beyond-coding",
+  "day": "2026-10-15"
+ },
+ "ai|https://openai.com/index/sentinelone": {
+  "ident": "https://openai.com/index/sentinelone",
+  "day": "2026-10-15"
+ },
+ "ai|https://www.anthropic.com/news/2026-us-midterms": {
+  "ident": "https://www.anthropic.com/news/2026-us-midterms",
+  "day": "2026-10-15"
+ },
+ "ai|https://x.ai/news/grok-voice-3": {
+  "ident": "https://x.ai/news/grok-voice-3",
+  "day": "2026-10-15"
+ },
+ "ai|https://warburgpincus.com/2026/07/09/oxylabs-announces-130-million-investment-from-warburg-pincus/": {
+  "ident": "https://warburgpincus.com/2026/07/09/oxylabs-announces-130-million-investment-from-warburg-pincus/",
+  "day": "2026-10-15"
+ },
+ "ai|https://www.eweek.com/news/ai-scam-losses-442-billion/": {
+  "ident": "https://www.eweek.com/news/ai-scam-losses-442-billion/",
+  "day": "2026-10-15"
+ },
+ "ai|https://www.anthropic.com/research/self-replicating-ai": {
+  "ident": "https://www.anthropic.com/research/self-replicating-ai",
+  "day": "2026-10-15"
+ },
+ "ai|https://digiday.com/media-buying/publicis-is-selling-directly-to-ai-anxious-ceos-as-it-steps-away-from-traditional-pitches/": {
+  "ident": "https://digiday.com/media-buying/publicis-is-selling-directly-to-ai-anxious-ceos-as-it-steps-away-from-traditional-pitches/",
+  "day": "2026-10-15"
+ },
+ "ai|https://keynews.ai/news/japan-declares-cyber-space-emergency-as-attacks-soar-51934": {
+  "ident": "https://keynews.ai/news/japan-declares-cyber-space-emergency-as-attacks-soar-51934",
+  "day": "2026-10-15"
+ },
+ "ai|https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/": {
+  "ident": "https://www.wired.com/story/book-excerpt-the-last-best-place-on-the-internet-wikipedia-artificial-intelligence/",
+  "day": "2026-10-15"
+ },
+ "ai|https://www.pymnts.com/news/artificial-intelligence/2026/banks-stop-counting-ai-hours-and-start-counting-returns/": {
+  "ident": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-stop-counting-ai-hours-and-start-counting-returns/",
+  "day": "2026-10-15"
  }
 }
