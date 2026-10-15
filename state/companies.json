@@ -53,14 +53,14 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "google": {
   "name": "Google",
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "olaelectric": {
   "name": "Ola Electric",
@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -137,7 +137,7 @@
   "sector": "Satellite internet",
   "description": "SpaceX's satellite broadband service awaiting security approvals for its India launch.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "spacex": {
   "name": "SpaceX",
@@ -186,7 +186,7 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "walmart": {
   "name": "Walmart",
@@ -501,7 +501,7 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "naukri": {
   "name": "Naukri",
@@ -592,7 +592,7 @@
   "sector": "Construction",
   "description": "Adani Group's main EPC arm, formerly ITD Cementation, with a Rs 31,307 crore order book.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-15"
  },
  "lichousingfinance": {
   "name": "LIC Housing Finance",
@@ -1887,7 +1887,7 @@
   "sector": "Oil and gas",
   "description": "State oil marketing company covered by the RBI's special dollar window.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "bharatpetroleum": {
   "name": "Bharat Petroleum",
@@ -1978,7 +1978,7 @@
   "sector": "Private equity",
   "description": "Existing Jio Platforms investor holding its stake through the IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "abudhabiinvestmentauthority": {
   "name": "Abu Dhabi Investment Authority",
@@ -2188,7 +2188,7 @@
   "sector": "Video surveillance",
   "description": "Makes CP Plus branded cameras, recorders and security systems; shares jumped 5.36% to lead NIFTY 500 gainers.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-15"
  },
  "anandrathiwealth": {
   "name": "Anand Rathi Wealth",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "accenture": {
   "name": "Accenture",
@@ -2867,7 +2867,7 @@
   "sector": "Steel",
   "description": "Integrated steelmaker in Gorakhpur and Kutch; shares jumped 16% on a 244x volume spike with no fundamental trigger.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-15"
  },
  "newindiaassurance": {
   "name": "New India Assurance",
@@ -3252,7 +3252,7 @@
   "sector": "IT services",
   "description": "Mid-sized IT services firm part of the CK Birla Group; stock fell 4.4% without fresh company news.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "amfi": {
   "name": "AMFI",
@@ -3539,7 +3539,7 @@
   "sector": "AI",
   "description": "Elon Musk's AI company; launched The X Subscription bundling Grok, Grok Bot, Cursor and X Premium.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "aol": {
   "name": "AOL",
@@ -3728,7 +3728,7 @@
   "sector": "AI research",
   "description": "Google's AI research unit; builds the Gemma and Gemini model families and on-device scam detection tools.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "palantir": {
   "name": "Palantir",
@@ -3889,7 +3889,7 @@
   "sector": "Super app",
   "description": "Southeast Asian ride-hailing and delivery app; its BriX sales assistant uses Claude and saves 40,000 hours a quarter.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "hdbfinancialservices": {
   "name": "HDB Financial Services",
@@ -4085,7 +4085,7 @@
   "sector": "Crypto analytics",
   "description": "Crypto data firm that said falling bitcoin exchange supply could support a rally.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "ncf": {
   "name": "NCF",
@@ -4106,7 +4106,7 @@
   "sector": "Government technology",
   "description": "Singapore government technology agency; adopted Claude Code and partnered with Google DeepMind.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-15"
  },
  "ministryofdigitaldevelopmentandinformation": {
   "name": "Ministry of Digital Development and Information",
@@ -5155,6 +5155,118 @@
   "name": "Bulgaria",
   "sector": "Government",
   "description": "Country off whose coast commercial ships have been hit in the Black Sea.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "rites": {
+  "name": "Rites",
+  "sector": "Transport consultancy",
+  "description": "Public sector transport consultancy and engineering firm, and an Indian Railways export arm.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "technipenergies": {
+  "name": "Technip Energies",
+  "sector": "Engineering services",
+  "description": "Engineering and technology firm awarded an EPC contract for units at HPCL's Mumbai refinery.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "netwebtechnologies": {
+  "name": "Netweb Technologies",
+  "sector": "Computing hardware",
+  "description": "Designs and builds high-performance computing, AI systems and data centre servers.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "tdpowersystems": {
+  "name": "TD Power Systems",
+  "sector": "Electrical equipment",
+  "description": "Makes AC generators and electric motors to customer specifications near Bengaluru.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "hdfcdefencefund": {
+  "name": "HDFC Defence Fund",
+  "sector": "Asset management",
+  "description": "Mutual fund scheme that added HAL shares in September.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "skyrootaerospace": {
+  "name": "Skyroot Aerospace",
+  "sector": "Space launch",
+  "description": "Indian private rocket maker in talks to raise $300 million in two tranches.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "generalcatalyst": {
+  "name": "General Catalyst",
+  "sector": "Venture capital",
+  "description": "Global venture capital firm in talks to invest in Skyroot Aerospace.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "benchmark": {
+  "name": "Benchmark",
+  "sector": "Venture capital",
+  "description": "Venture capital firm in talks to invest in Skyroot Aerospace.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "chryscapital": {
+  "name": "ChrysCapital",
+  "sector": "Private equity",
+  "description": "Indian private equity firm in talks to invest in ice cream brand Hocco.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "hocco": {
+  "name": "Hocco",
+  "sector": "Ice cream",
+  "description": "Ahmedabad-based ice cream brand in talks to raise Rs 300-400 crore.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "sauce": {
+  "name": "Sauce",
+  "sector": "Venture capital",
+  "description": "Early investor in Hocco that may sell some stake in the new round.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "scimplify": {
+  "name": "Scimplify",
+  "sector": "Speciality chemicals",
+  "description": "Bengaluru speciality chemicals maker that raised $25 million to expand in the US.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "hitachiventures": {
+  "name": "Hitachi Ventures",
+  "sector": "Venture capital",
+  "description": "Corporate venture arm of Hitachi that led Scimplify's $25 million round.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "foundry": {
+  "name": "Foundry",
+  "sector": "Consumer technology",
+  "description": "New consumer technology startup focused on premium home appliances, launched by ex-Dyson India MD.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "beenext": {
+  "name": "Beenext",
+  "sector": "Venture capital",
+  "description": "Venture capital firm that led Foundry's Rs 12 crore round.",
+  "first_added": "2026-10-15",
+  "last_mentioned": "2026-10-15"
+ },
+ "kettleboroughvc": {
+  "name": "Kettleborough VC",
+  "sector": "Venture capital",
+  "description": "Venture capital firm that co-led Foundry's Rs 12 crore round.",
   "first_added": "2026-10-15",
   "last_mentioned": "2026-10-15"
  }
