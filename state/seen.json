@@ -282,5 +282,53 @@
  "ai|https://www.pymnts.com/news/artificial-intelligence/2026/banks-stop-counting-ai-hours-and-start-counting-returns/": {
   "ident": "https://www.pymnts.com/news/artificial-intelligence/2026/banks-stop-counting-ai-hours-and-start-counting-returns/",
   "day": "2026-10-15"
+ },
+ "ai|https://openai.com/index/introducing-the-rosalind-academic-plan": {
+  "ident": "https://openai.com/index/introducing-the-rosalind-academic-plan",
+  "day": "2026-10-16"
+ },
+ "ai|https://openai.com/index/teaching-students-to-think-and-learn-through-questions": {
+  "ident": "https://openai.com/index/teaching-students-to-think-and-learn-through-questions",
+  "day": "2026-10-16"
+ },
+ "ai|https://www.anthropic.com/news/an-update-on-independent-evaluators": {
+  "ident": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
+  "day": "2026-10-16"
+ },
+ "ai|https://deepmind.google/blog/accelerating-antimicrobial-discovery/": {
+  "ident": "https://deepmind.google/blog/accelerating-antimicrobial-discovery/",
+  "day": "2026-10-16"
+ },
+ "ai|https://deepmind.google/blog/gemini-4-argon-for-robotics/": {
+  "ident": "https://deepmind.google/blog/gemini-4-argon-for-robotics/",
+  "day": "2026-10-16"
+ },
+ "ai|https://mistral.ai/news/timestral/": {
+  "ident": "https://mistral.ai/news/timestral/",
+  "day": "2026-10-16"
+ },
+ "ai|https://www.pymnts.com/study_posts/from-prompt-to-purchase-who-wins-the-ai-shopper/": {
+  "ident": "https://www.pymnts.com/study_posts/from-prompt-to-purchase-who-wins-the-ai-shopper/",
+  "day": "2026-10-16"
+ },
+ "ai|https://shopify.dev/changelog/posts/add-shopping-and-shop-pay-checkout-to-any-agent-with-shop-mcp": {
+  "ident": "https://shopify.dev/changelog/posts/add-shopping-and-shop-pay-checkout-to-any-agent-with-shop-mcp",
+  "day": "2026-10-16"
+ },
+ "ai|https://blog.google/intl/en-mena/product-updates/explore-get-answers/gemini-4-argon-built-to-solve-your-hardest-problems/": {
+  "ident": "https://blog.google/intl/en-mena/product-updates/explore-get-answers/gemini-4-argon-built-to-solve-your-hardest-problems/",
+  "day": "2026-10-16"
+ },
+ "ai|https://www.pymnts.com/earnings/2026/unitedhealth-says-chart-review-time-falls-33percent-with-ai-usage/": {
+  "ident": "https://www.pymnts.com/earnings/2026/unitedhealth-says-chart-review-time-falls-33percent-with-ai-usage/",
+  "day": "2026-10-16"
+ },
+ "ai|https://tech.yahoo.com/ai/articles/elon-musk-says-hes-had-145358590.html": {
+  "ident": "https://tech.yahoo.com/ai/articles/elon-musk-says-hes-had-145358590.html",
+  "day": "2026-10-16"
+ },
+ "ai|https://robinhood.com/newsroom/hood-summit-2026/": {
+  "ident": "https://robinhood.com/newsroom/hood-summit-2026/",
+  "day": "2026-10-16"
  }
 }
