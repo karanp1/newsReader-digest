@@ -4,7 +4,7 @@
   "sector": "Fintech",
   "description": "Online investment platform offering stock trading, mutual funds, bonds and wealth advisory services to retail investors in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-17"
  },
  "fisdom": {
   "name": "Fisdom",
@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -137,7 +137,7 @@
   "sector": "Satellite internet",
   "description": "SpaceX's satellite broadband service awaiting security approvals for its India launch.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "spacex": {
   "name": "SpaceX",
@@ -193,7 +193,7 @@
   "sector": "Retail",
   "description": "US retail giant and majority owner of Flipkart; facing pressure over employee stock option liquidity.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-17"
  },
  "myntra": {
   "name": "Myntra",
@@ -578,7 +578,7 @@
   "sector": "Crypto treasury",
   "description": "Sold 10,000 BTC and rebought 11,000, ending with 44,000 BTC on its balance sheet.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-17"
  },
  "firstsourcesolutions": {
   "name": "Firstsource Solutions",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -1068,7 +1068,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its FBTC bitcoin ETF saw $105.2 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-17"
  },
  "arkhamintelligence": {
   "name": "Arkham Intelligence",
@@ -1124,7 +1124,7 @@
   "sector": "Telecom",
   "description": "State-run telecom operator; rolling out 4G across 18,685 sites with Tejas RAN gear.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "aisle": {
   "name": "Aisle",
@@ -1915,7 +1915,7 @@
   "sector": "Financial services",
   "description": "Investment bank appointed for Jio Platforms' IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "axiscapital": {
   "name": "Axis Capital",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -2412,7 +2412,7 @@
   "sector": "Manufacturing",
   "description": "Contract manufacturing platform; among companies tapping India's primary market in October.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "avaadaelectro": {
   "name": "Avaada Electro",
@@ -2657,7 +2657,7 @@
   "sector": "Industry body",
   "description": "Gold industry body; reported a record $31 billion into gold ETFs in Q3.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "abra": {
   "name": "Abra",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "accenture": {
   "name": "Accenture",
@@ -3126,7 +3126,7 @@
   "sector": "Defence electronics",
   "description": "State-run defence electronics maker; among the Sensex gainers on Monday.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "mahindraandmahindra": {
   "name": "Mahindra and Mahindra",
@@ -3728,7 +3728,7 @@
   "sector": "AI research",
   "description": "Google's AI research unit; builds the Gemma and Gemini model families and on-device scam detection tools.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "palantir": {
   "name": "Palantir",
@@ -4022,14 +4022,14 @@
   "sector": "Insurance",
   "description": "Insurer indicating interest in Jio Platforms' IPO.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-17"
  },
  "capitalgroup": {
   "name": "Capital Group",
   "sector": "Asset management",
   "description": "Investment manager indicating interest in Jio Platforms' IPO.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-17"
  },
  "gic": {
   "name": "GIC",
@@ -4050,7 +4050,7 @@
   "sector": "Investment banking",
   "description": "Investment bank named among anchor investors in Jio Platforms' IPO.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-17"
  },
  "religare": {
   "name": "Religare",
@@ -5470,6 +5470,111 @@
   "name": "Nat Habit",
   "sector": "Consumer brands",
   "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "maka": {
+  "name": "Maka",
+  "sector": "Streaming",
+  "description": "New ad-free streaming app for kids aged 0 to 6 with 25 shows and no autoplay.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "yalechildstudycenter": {
+  "name": "Yale Child Study Center",
+  "sector": "Research",
+  "description": "Yale research center that helped build Imprint, the child development framework used by Maka.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "sbicard": {
+  "name": "SBI Card",
+  "sector": "Financial services",
+  "description": "Credit card issuer that partnered with Eternal on a co-branded card.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "fssai": {
+  "name": "FSSAI",
+  "sector": "Food regulator",
+  "description": "India's food safety regulator that issued notices to Flipkart, BigBasket and Gemini Edibles.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "bigbasket": {
+  "name": "BigBasket",
+  "sector": "E-commerce",
+  "description": "Online grocery platform that received an FSSAI notice over health claims on rice bran oil.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "geminiedibles": {
+  "name": "Gemini Edibles",
+  "sector": "Food processing",
+  "description": "Edible oil maker that received an FSSAI notice over cholesterol and heart-health claims.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "maharashtrafda": {
+  "name": "Maharashtra FDA",
+  "sector": "Food regulator",
+  "description": "State food and drug authority that seized stock and filed an FIR naming Blinkit and Zomato Hyperpure.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "zomatohyperpure": {
+  "name": "Zomato Hyperpure",
+  "sector": "Food supply",
+  "description": "Zomato's restaurant supply arm; named in a Maharashtra FDA FIR over expired products.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "dnvfoodproducts": {
+  "name": "DNV Food Products",
+  "sector": "Food processing",
+  "description": "Food company whose licence was suspended by FSSAI for food safety non-compliance.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "jhanvittanni": {
+  "name": "Jhanvittanni",
+  "sector": "Food processing",
+  "description": "Food company whose licence was cancelled by FSSAI for food safety non-compliance.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "flipkartinternet": {
+  "name": "Flipkart Internet",
+  "sector": "E-commerce",
+  "description": "Flipkart's ecommerce marketplace business; FY26 revenue fell 19% and net loss nearly tripled.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "pewresearchcenter": {
+  "name": "Pew Research Center",
+  "sector": "Research",
+  "description": "Survey organization whose 2025 data found only 17% of US adults expect positive AI impact.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "stanford": {
+  "name": "Stanford",
+  "sector": "Research",
+  "description": "University whose 2025 AI Index found high AI optimism in China, Indonesia and Thailand.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "commonsensemedia": {
+  "name": "Common Sense Media",
+  "sector": "Research",
+  "description": "Organization whose 2020 study found most YouTube videos watched by young kids had weak educational value.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "ryazanoilrefinery": {
+  "name": "Ryazan oil refinery",
+  "sector": "Oil refining",
+  "description": "Russian refinery struck by Ukraine, suspending one of its primary crude distillation units.",
   "first_added": "2026-10-17",
   "last_mentioned": "2026-10-17"
  }
