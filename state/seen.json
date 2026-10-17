@@ -148,8 +148,8 @@
   "day": "2026-10-10"
  },
  "entrackr": {
-  "ident": "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-5-oct-10-12662210",
-  "day": "2026-10-10"
+  "ident": "https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867",
+  "day": "2026-10-17"
  },
  "ai|https://openai.com/index/legalon-halves-codex-costs": {
   "ident": "https://openai.com/index/legalon-halves-codex-costs",
@@ -330,5 +330,41 @@
  "ai|https://robinhood.com/newsroom/hood-summit-2026/": {
   "ident": "https://robinhood.com/newsroom/hood-summit-2026/",
   "day": "2026-10-16"
+ },
+ "ai|https://openai.com/index/itau-generative-ai": {
+  "ident": "https://openai.com/index/itau-generative-ai",
+  "day": "2026-10-17"
+ },
+ "ai|https://openai.com/index/stack-overflow-chatgpt-plugin": {
+  "ident": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+  "day": "2026-10-17"
+ },
+ "ai|https://magica.com/news/mckinsey-ai-client-avatar-job-interviews": {
+  "ident": "https://magica.com/news/mckinsey-ai-client-avatar-job-interviews",
+  "day": "2026-10-17"
+ },
+ "ai|https://www.frandroid.com/marques/3284277_wordcraft-gridcraft-deckcraft-les-clones-gratuits-doffice-codes-avec-claude-sont-encore-loin-du-compte": {
+  "ident": "https://www.frandroid.com/marques/3284277_wordcraft-gridcraft-deckcraft-les-clones-gratuits-doffice-codes-avec-claude-sont-encore-loin-du-compte",
+  "day": "2026-10-17"
+ },
+ "ai|https://www.prnewswire.com/news-releases/ai-polished-resumes-are-top-stressor-for-recruiters-employ-report-finds-302908070.html": {
+  "ident": "https://www.prnewswire.com/news-releases/ai-polished-resumes-are-top-stressor-for-recruiters-employ-report-finds-302908070.html",
+  "day": "2026-10-17"
+ },
+ "ai|https://www.euronews.com/2026/10/14/entire-swedish-reality-show-season-lost-weeks-before-premiere-amid-disputed-ai-claims": {
+  "ident": "https://www.euronews.com/2026/10/14/entire-swedish-reality-show-season-lost-weeks-before-premiere-amid-disputed-ai-claims",
+  "day": "2026-10-17"
+ },
+ "ai|https://hoodline.com/2026/10/richmond-wants-ai-to-field-60-of-nonemergency-calls-but-it-s-stuck-near-20/": {
+  "ident": "https://hoodline.com/2026/10/richmond-wants-ai-to-field-60-of-nonemergency-calls-but-it-s-stuck-near-20/",
+  "day": "2026-10-17"
+ },
+ "ai|https://www.bandt.com.au/zambrero-cmo-wants-marketers-to-become-human-sandwich-or-risk-the-scourge-of-ai-sameness/": {
+  "ident": "https://www.bandt.com.au/zambrero-cmo-wants-marketers-to-become-human-sandwich-or-risk-the-scourge-of-ai-sameness/",
+  "day": "2026-10-17"
+ },
+ "ai|https://www.servnetuk.com/news/uk-government-aging-it-cybersecurity-risk-2026": {
+  "ident": "https://www.servnetuk.com/news/uk-government-aging-it-cybersecurity-risk-2026",
+  "day": "2026-10-17"
  }
 }

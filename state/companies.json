@@ -144,7 +144,7 @@
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-17"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -158,7 +158,7 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
@@ -186,7 +186,7 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "walmart": {
   "name": "Walmart",
@@ -221,7 +221,7 @@
   "sector": "E-commerce",
   "description": "Global online retailer running Great Indian Festival sale in competition with Flipkart.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-17"
  },
  "chennaipetroleum": {
   "name": "Chennai Petroleum",
@@ -508,14 +508,14 @@
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-17"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "godigit": {
   "name": "Go Digit",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -865,7 +865,7 @@
   "sector": "IT services",
   "description": "Indian IT services company; chairman Rishad Premji led the ET Startup Awards jury.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "porsche": {
   "name": "Porsche",
@@ -956,7 +956,7 @@
   "sector": "Conglomerate",
   "description": "Mukesh Ambani-led conglomerate; its satellite arm already holds India authorisation.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-17"
  },
  "oneweb": {
   "name": "OneWeb",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1432,7 +1432,7 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-17"
  },
  "citi": {
   "name": "Citi",
@@ -2587,7 +2587,7 @@
   "sector": "IT services",
   "description": "Indian IT services firm; cited as a peer for Persistent Systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-17"
  },
  "honeywellauto": {
   "name": "Honeywell Auto",
@@ -3273,7 +3273,7 @@
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-17"
  },
  "gartner": {
   "name": "Gartner",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3630,7 +3630,7 @@
   "sector": "Wires and cables",
   "description": "Makes wires, cables and FMEG products for residential, industrial and infrastructure customers.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-17"
  },
  "aetherindustries": {
   "name": "Aether Industries",
@@ -3896,7 +3896,7 @@
   "sector": "NBFC",
   "description": "Non-deposit-taking NBFC and HDFC Bank subsidiary providing retail and enterprise lending solutions.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "bankofbaroda": {
   "name": "Bank of Baroda",
@@ -5093,7 +5093,7 @@
   "sector": "Retail",
   "description": "Indian supermarket chain operated by Avenue Supermarts.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "indianairforce": {
   "name": "Indian Air Force",
@@ -5240,7 +5240,7 @@
   "sector": "Speciality chemicals",
   "description": "Bengaluru speciality chemicals maker that raised $25 million to expand in the US.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-17"
  },
  "hitachiventures": {
   "name": "Hitachi Ventures",
@@ -5269,5 +5269,208 @@
   "description": "Venture capital firm that co-led Foundry's Rs 12 crore round.",
   "first_added": "2026-10-15",
   "last_mentioned": "2026-10-15"
+ },
+ "ita": {
+  "name": "Itaú",
+  "sector": "Banking",
+  "description": "Brazilian bank that launched ia.i, a conversational AI layer for banking, serving customers with text or voice.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "stackoverflow": {
+  "name": "Stack Overflow",
+  "sector": "Developer tools",
+  "description": "Runs a question-and-answer site for programmers and built Stack Overflow for Agents, an agentic product with a ChatGPT plugin.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "metr": {
+  "name": "METR",
+  "sector": "AI safety",
+  "description": "Independent evaluator given employee-like access to Anthropic's frontier AI models, able to publish risk assessments.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "securebio": {
+  "name": "SecureBio",
+  "sector": "Biosecurity",
+  "description": "Works with Anthropic as an independent evaluator of its frontier AI models.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "huggingface": {
+  "name": "Hugging Face",
+  "sector": "AI",
+  "description": "AI platform company in early discussions with Anthropic about becoming an independent evaluator.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "bostondynamics": {
+  "name": "Boston Dynamics",
+  "sector": "Robotics",
+  "description": "Builds the Spot quadruped robot, controlled by Google DeepMind's Gemini 4 Argon model in tests.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "mistral": {
+  "name": "Mistral",
+  "sector": "AI",
+  "description": "French AI company that released Timestral, a family of time-series foundation models running on standard CPUs.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "mckinsey": {
+  "name": "McKinsey",
+  "sector": "Consulting",
+  "description": "Consulting firm adding an AI client simulation with an avatar to interviews for entry-level applicants in North America.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "artcraft": {
+  "name": "ArtCraft",
+  "sector": "Software",
+  "description": "Studio founded by Brandon Thomas that released WordCraft, GridCraft and DeckCraft, open-source clones of Microsoft Office apps.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "employ": {
+  "name": "Employ",
+  "sector": "HR technology",
+  "description": "Published its annual Recruiter Nation report on recruiter stress, AI-polished resumes and hiring challenges.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "tv4": {
+  "name": "TV4",
+  "sector": "Broadcasting",
+  "description": "Swedish broadcaster that lost an edited season of The Challenge Sverige to a technical failure, delaying its premiere.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "zambrero": {
+  "name": "Zambrero",
+  "sector": "Restaurants",
+  "description": "Mexican food chain whose CMO warns marketers against accepting AI's first answer and producing generic work.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "messy": {
+  "name": "Messy",
+  "sector": "Advertising",
+  "description": "Agency that wrote about pitch decks listing AI tools without explaining how they improve work quality or speed.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "nsi": {
+  "name": "NS&I",
+  "sector": "Financial services",
+  "description": "UK government-backed savings body whose IT overhaul ran £1.3 billion over estimate, per a Public Accounts Committee report.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "bankofengland": {
+  "name": "Bank of England",
+  "sector": "Central banking",
+  "description": "Delivered its Real-Time Gross Settlement overhaul for £431 million in April 2025, per a UK parliamentary report.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "hblengineering": {
+  "name": "HBL Engineering",
+  "sector": "Auto components",
+  "description": "Makes specialised batteries and railway safety systems such as train collision avoidance equipment, expanding into electric mobility motors.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "sprautotechnologies": {
+  "name": "SPR Auto Technologies",
+  "sector": "Auto components",
+  "description": "Formerly Shriram Pistons & Rings, makes pistons, piston pins, piston rings and engine valves for vehicle makers.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "thangamayiljewellery": {
+  "name": "Thangamayil Jewellery",
+  "sector": "Jewellery retail",
+  "description": "Runs retail jewellery stores across Tamil Nadu selling gold, silver, diamonds and platinum, with in-house manufacturing units.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "cclproducts": {
+  "name": "CCL Products",
+  "sector": "Coffee",
+  "description": "Makes instant coffee, spray-dried and freeze-dried, and trades and distributes coffee from plants in India, Vietnam and Switzerland.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "aparindustries": {
+  "name": "Apar Industries",
+  "sector": "Electrical equipment",
+  "description": "Makes conductors, transformer and specialty oils, and power and telecom cables for utilities, EPC contractors and telecom firms.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "syrmasgstechnology": {
+  "name": "Syrma SGS Technology",
+  "sector": "Electronics manufacturing",
+  "description": "Chennai-based electronics system design and manufacturing firm making hardware for industrial, automotive and medical clients.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "msci": {
+  "name": "MSCI",
+  "sector": "Financial services",
+  "description": "Index provider that finalized rules to exclude non-operating companies from its Global Investable Market Indexes.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "fundstrat": {
+  "name": "Fundstrat",
+  "sector": "Research",
+  "description": "Research firm whose analyst Sean Farrell put selling across MSCI-linked products at around $2 billion.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "yandex": {
+  "name": "Yandex",
+  "sector": "Technology",
+  "description": "Russian technology company whose Kaluga data centre was hit by Ukraine, per reports.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "tessolvesemiconductor": {
+  "name": "Tessolve Semiconductor",
+  "sector": "Semiconductors",
+  "description": "Hero Electronix company providing semiconductor engineering and testing services; raised $75 million from Vector Line Capital.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "boldfit": {
+  "name": "Boldfit",
+  "sector": "Sports and fitness",
+  "description": "Homegrown sports brand selling sports and fitness products in India; raised over Rs 400 crore in a Series B led by Bharat Value Fund.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "rapidcanvas": {
+  "name": "RapidCanvas",
+  "sector": "AI",
+  "description": "AI agent startup building agents for enterprise workflows; secured $29 million from Vertex Ventures.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "origin": {
+  "name": "Origin",
+  "sector": "Construction robotics",
+  "description": "Builds robots for construction work; raised $20 million in a round co-led by Accel and Zacua Ventures.",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
+ },
+ "nathabit": {
+  "name": "Nat Habit",
+  "sector": "Consumer brands",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-17",
+  "last_mentioned": "2026-10-17"
  }
 }
