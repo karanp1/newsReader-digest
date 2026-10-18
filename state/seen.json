@@ -366,5 +366,17 @@
  "ai|https://www.servnetuk.com/news/uk-government-aging-it-cybersecurity-risk-2026": {
   "ident": "https://www.servnetuk.com/news/uk-government-aging-it-cybersecurity-risk-2026",
   "day": "2026-10-17"
+ },
+ "ai|https://openai.com/index/benefit-street-partners": {
+  "ident": "https://openai.com/index/benefit-street-partners",
+  "day": "2026-10-18"
+ },
+ "ai|https://deepmind.google/blog/introducing-gemini-4-argon/": {
+  "ident": "https://deepmind.google/blog/introducing-gemini-4-argon/",
+  "day": "2026-10-18"
+ },
+ "ai|https://api-docs.deepseek.com/news/news261017": {
+  "ident": "https://api-docs.deepseek.com/news/news261017",
+  "day": "2026-10-18"
  }
 }

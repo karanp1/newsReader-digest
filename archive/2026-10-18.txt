@@ -1,0 +1,719 @@
+DAILY NEWS DIGEST — 2026-10-18
+METRICS
+Nifty PE Ratio | 19.77 | 16 Oct 2026 | https://nifty-pe-ratio.com/
+============================================================
+
+SOURCE 8: AI News
+
+[OpenAI] How Itaú is building generative AI for its entire customer base
+  16 Oct 2026 | https://openai.com/index/itau-generative-ai
+  • Itaú launched ia.i, a conversational AI layer for banking, activated by text or voice, after starting Inteligência Itaú capabilities in 2024. ¶ • The first phase reached about 300,000 customers, covering checking accounts, credit, cards, insurance, and investment advice. ¶ • Itaú's study with Grupo Consumoteca found 80% of Brazilians want help organizing finances and 65% want a financial copilot. ¶ • IARA, Itaú's governance and orchestration platform, gives teams controlled access to multiple models, including OpenAI's, for cost, accuracy, and responsible AI. ¶ • The legal department's IARA solution handles over 90 million documents and 2 million tasks monthly, with 20% to 80% efficiency gains.
+
+[OpenAI] Benefit Street Partners answers questions faster with Codex
+  16 Oct 2026 | https://openai.com/index/benefit-street-partners
+  • Benefit Street Partners analysts now answer investment committee follow-up questions in a day with Codex, and often during the meeting itself, says portfolio manager Anant Kumar. ¶ • Kumar built a tracker comparing how firms value the same loan using public SEC filings from business development companies, taking a day for the first version and 10-12 hours total. ¶ • A second tool analyzes credit agreements of 300 pages or longer, producing a first-pass analysis in about 20 minutes plus an hour or more of human review. ¶ • The credit agreement analyzer is refactored with GPT-6 Astra and live in the company-hosted portal, which Kumar calls a second brain within the organization. ¶ • BSP aims to connect information across deals for continuous underwriting, monitoring loans as news happens instead of re-underwriting only after an event.
+
+[Google DeepMind] Gemini 4 Argon: Built to solve your hardest problems
+  13 Oct 2026 | https://deepmind.google/blog/introducing-gemini-4-argon/
+  • Gemini 4 Argon is now globally available via the API in AI Studio and Gemini platform, in Google Antigravity, and in the Gemini app and AI Mode in Search. ¶ • Argon ranks #1 on the Vals Index, which measures model performance across economic sectors including finance, coding, legal, and tax work. ¶ • It launches at an introductory price of $2 per million input tokens and $10 per million output tokens, with cached input tokens at 95% off. ¶ • In Antigravity, Argon helped Google teams increase agentic code submissions by more than 35% while reducing code rollbacks by nearly a third. ¶ • Argon helped the Chrome team refactor a ~6 million line legacy folder within Chromium's 40 million-line codebase, completing months of work in weeks.
+
+[DeepSeek] DeepSeek-V4.1-Flash-1017: Wish-Driven Programming Made Real
+  17 Oct 2026 | https://api-docs.deepseek.com/news/news261017
+  • DeepSeek released DeepSeek-V4.1-Flash-1017, a new model live on its website, app, and API. ¶ • The company calls it a Pareto improvement: stronger benchmark performance, faster task completion, and shorter outputs than the previous version. ¶ • It uses reinforcement learning with self-feedback to build full projects, including a 3D Forbidden City model and a Portal 2 recreation in the Godot engine. ¶ • Search and Fetch APIs are now open to everyone at $0.75 per 1,000 calls per endpoint, backed by an in-house search engine serving hundreds of millions of daily requests. ¶ • Calls through server-side tools in DeepSeek Harness, Claude Code, and Codex are free for DeepSeek API users until billing starts Oct 31, 2026, at 16:00 UTC.
+
+[Open Claw Newsletter] McKinsey Makes Candidates Debate AI
+  16 Oct 2026 | https://magica.com/news/mckinsey-ai-client-avatar-job-interviews
+  • McKinsey is adding an AI client simulation to interviews for some entry-level consulting applicants in North America. ¶ • Candidates face a roughly ten-minute conversation with an avatar playing different client personalities, testing how they handle difficult questions and think on their feet. ¶ • Human assessors evaluate the interaction, while the avatar itself does not score applicants.
+
+[Open Claw Newsletter] Opus 5.5 Clones Microsoft Office
+  16 Oct 2026 | https://www.frandroid.com/marques/3284277_wordcraft-gridcraft-deckcraft-les-clones-gratuits-doffice-codes-avec-claude-sont-encore-loin-du-compte
+  • Brandon Thomas, founder of studio ArtCraft, released WordCraft, GridCraft and DeckCraft, three free open-source clones of Word, Excel and PowerPoint written with Claude Opus 5.5. ¶ • By his own roadmap, WordCraft covers 88% of Word's ribbon features but only about 60% of the way to replacing Word at work. ¶ • GridCraft runs 513 of Excel's 523 functions, or 98%, yet its maturity is estimated at 50% for the functions Excel users really use. ¶ • DeckCraft, the PowerPoint clone, is in early development and only 80% of the way to its first alpha test version. ¶ • The tools target AI agents driven by MCP, an open protocol from Anthropic letting AI control an app without the screen, but .docx files and French spellcheck remain unfinished.
+
+[Open Claw Newsletter] Perfect Resumes Are Frustrating Recruiters
+  16 Oct 2026 | https://www.prnewswire.com/news-releases/ai-polished-resumes-are-top-stressor-for-recruiters-employ-report-finds-302908070.html
+  • Employ Inc. published its 19th annual Recruiter Nation report, based on a Zogby Analytics survey of over 1,200 U.S. HR recruiters and managers in August 2026. ¶ • AI-polished resumes are the top recruiter stressor at 33%, the first time in 19 years that AI has led the list, overtaking lack of qualified candidates. ¶ • Improving candidate quality is the leading recruiting priority at 43%, while identifying qualified candidates is the top challenge at 30%. ¶ • Confirmed AI-driven candidate fraud rose to 27% of organizations from 23% in 2025, and half of affected teams estimate over 50 fraudulent applications. ¶ • Satisfaction with primary recruiting systems fell to 69% from 82% in 2025, with 64% at least somewhat likely to change systems within 12 to 24 months.
+
+[Open Claw Newsletter] Backup Disaster Delays TV4 Premiere
+  16 Oct 2026 | https://www.euronews.com/2026/10/14/entire-swedish-reality-show-season-lost-weeks-before-premiere-amid-disputed-ai-claims
+  • Swedish broadcaster TV4 has postponed the November 22 premiere of reality series The Challenge until spring 2027 after a production company’s backup system failed. ¶ • Aftonbladet reported that an AI agent deleted the edited footage, allegedly destroying hundreds of days of work. ¶ • The production team must now re-edit the entire season from scratch.
+
+[Open Claw Newsletter] Richmond Wants AI Answering Most Calls
+  16 Oct 2026 | https://hoodline.com/2026/10/richmond-wants-ai-to-field-60-of-nonemergency-calls-but-it-s-stuck-near-20/
+  • Richmond wants AI to handle 50% to 60% of nonemergency calls, but its Amazon Connect system handled only 19.3% without a dispatcher in the last fiscal year. ¶ • The system transferred nearly 81% of roughly 111,000 nonemergency calls to the city's 911 center, and launched in April 2025. ¶ • Deputy technology director Jackie Crotts wants the AI to hold real conversations with callers, and the city is working with Amazon Connect on changes. ¶ • Council member Reva Trammell said residents may not realize they are speaking with AI, echoing a Virginia commission's October recommendation that chatbots disclose their non-human nature. ¶ • The AI assistant has cost more than $52,000 to date, and any replacement would depend on available funding, with an interim goal of 25% of calls by January 1, 2027.
+
+[Open Claw Newsletter] Zambrero CMO Warns of AI Sameness
+  16 Oct 2026 | https://www.bandt.com.au/zambrero-cmo-wants-marketers-to-become-human-sandwich-or-risk-the-scourge-of-ai-sameness/
+  • Zambrero CMO Bronwyn Heys says marketers who feed prompts into AI and accept the first answer are wasting time and risk producing generic work. ¶ • Heys calls her approach the "human sandwich": people set creative direction, AI accelerates the middle, then people question and refine the output. ¶ • Heys, six months into the CMO role after four years as CEO of the Australian Marketing Institute, says she hears of "AI sameness" increasingly in agency pitches. ¶ • Agency Messy wrote that pitch decks list tools like ChatGPT, Claude, Midjourney and Firefly without saying how they change the quality or speed of work. ¶ • Heys says marketers must repeatedly question AI output, doing things five to 10 times, and that prompting and critical thinking are now required skills.
+
+[Open Claw Newsletter] UK Chases AI, Neglects Aging IT
+  16 Oct 2026 | https://www.servnetuk.com/news/uk-government-aging-it-cybersecurity-risk-2026
+  • The Public Accounts Committee's second annual report warns Whitehall is chasing AI while leaving ageing IT estates untouched, with chair Sir Geoffrey Clifton-Brown saying AI is approaching government like a tsunami. ¶ • Only 6 percent of civil servants work in digital and data roles against a government target of 10 percent, and senior specialists are in particularly short supply. ¶ • The report says government shows a worrying lack of urgency on legacy IT systems, which create significant cyber security risks and block benefits of new technologies. ¶ • Fraud and error costs taxpayers an estimated £55 billion to £81 billion a year, and the DWP overpaid £9.9 billion in benefits through fraud and error in 2025-26, 3.2 percent of its spending. ¶ • NS&I's IT overhaul, begun in 2020, reached £3 billion by December 2024, £1.3 billion over estimate and rated red since 2022-23, while the Bank of England delivered its Real-Time Gross Settlement overhaul for £431 million in April 2025.
+
+============================================================
+
+SOURCE 7: Dynamic Watchlist (headlines + summary)
+
+[[Top Gainers]]
+
+[Hbl Engineering Ltd (HBLENGINE, +17.27%)]
+
+- ~
+  2026-10-18 |
+  ## What the sector does ¶ • Industrial consumables covers batteries, welding, heat exchangers and railway safety gear sold to railways, telecom, defence and industrial buyers. ¶ • Revenue comes from B2B and B2G contracts, so order wins, tender awards and raw material costs drive profits. ¶ ## What the company does ¶ • HBL Engineering makes industrial batteries (lead-acid, lithium, submarine and torpedo types) and railway electronics such as collision avoidance and signalling systems. ¶ • It earns from defence and railway contracts, telecom battery supply and industrial power systems, with about 35% of revenue from telecom batteries. ¶ ## Why it moved today ¶ • No news article explaining the 17.27% jump was retrieved, so the cause of the move is not confirmed. ¶ • Context: HBL's June 2026 quarter revenue was ₹638.03 crore, up 6.03% year on year, and net profit ₹109.14 crore, down 25.07%, per Screener peer data. ¶ ## The numbers (Screener) ¶ • Stock P/E 28.8, price to book 10.4 times, ROCE 59.3%, ROE 45.3% and dividend yield 0.36%, per Screener. ¶ • Net profit fell from ₹387 crore in September 2025 to ₹220 crore in December 2025, ₹64 crore in March 2026 and ₹109 crore in June 2026. ¶ ## What the numbers say ¶ • At a P/E of 28.8 against a peer median of 25.73, HBL trades at a premium, while its ROCE of 59.3% beats the peer median of 16.17%. ¶ • The 10.4 times book value is rich, and net profit has fallen for three straight quarters from the September 2025 peak, so the 17.27% move is not backed by improving earnings.
+
+[Tech Mahindra Ltd (TECHM, +8.48%)]
+
+- ~
+  18 Oct 2026 | https://simplywall.st/stocks/in/software/nse-techm/tech-mahindra-shares/news/1747-thats-what-analysts-think-tech-mahindra-limited-nsetech
+  ## What the sector does ¶ • Indian IT services firms sell software development, maintenance, consulting and back-office outsourcing to banks, insurers, manufacturers, retailers and telecoms worldwide, mostly on multi-year contracts billed in US dollars. ¶ • Revenue grows with client technology spending and new deal wins, while costs are mainly salaries and subcontractors, so margins hinge on wage inflation, utilisation and currency moves. ¶ ## What the company does ¶ • Tech Mahindra provides IT services, application development and maintenance, consulting and enterprise business solutions to corporate customers across telecom, banking, manufacturing, healthcare and other industries. ¶ • It earns from long-term service contracts and projects billed to clients in the US, Europe and other markets, and ranks fifth among listed Indian IT peers by quarterly sales of ₹16,180 crore in the September 2026 quarter. ¶ ## Why it moved today ¶ • The articles do not give a single direct cause for the 8.48% one-day rise; Simply Wall St noted the stock had surged 18% over the week to ₹1,790 after its September-quarter results. ¶ • Context: Nifty IT gained about 11.72% over the week, its best sector performance, and SBI Securities' Sudeep Shah said Tech Mahindra had broken above its July 29 swing high of ₹1,687 with RSI and MACD turning higher. ¶ ## The numbers (Screener) ¶ • September 2026 quarter: sales ₹16,180 crore, operating profit ₹2,878 crore, operating margin 18%, net profit ₹1,610 crore and EPS ₹16.18, with net profit up 32.74% year on year. ¶ • The stock trades at a P/E of 30.7 with market cap ₹1,75,448 crore, dividend yield 2.85%, ROCE 23.1%, ROE 17.5% and book value ₹303. ¶ ## What the numbers say ¶ • At a P/E of 30.7, Tech Mahindra is the most expensive of the large peers shown, above TCS at 16.32, Infosys at 15.12, HCL Technologies at 19.68 and Wipro at 13.87, and above the peer median of 19.68. ¶ • Its ROCE of 23.1% is below TCS at 63.03%, Infosys at 39.95% and HCL at 30.40%, but quarterly net profit grew 32.74% year on year against 7.41% at TCS and 12.25% at Infosys, so the move reflects faster earnings growth rather than cheap valuation. ¶ ↗ simplywall.st|https://simplywall.st/stocks/in/software/nse-techm/tech-mahindra-shares/news/1747-thats-what-analysts-think-tech-mahindra-limited-nsetech ;; m.economictimes.com|https://m.economictimes.com/markets/expert-view/fo-talk-niftys-break-above-23450-could-push-index-to-23650-sudeep-shah-picks-tech-mahindra-tcs-strategy/articleshow/135009790.cms
+
+[Spr Auto Technologies Ltd (SHRIPISTON, +6.85%)]
+
+[Thangamayil Jewellery Ltd (THANGAMAYL, +6.41%)]
+
+- ~
+  2026-10-18 |
+  ## What the sector does ¶ • Indian jewellery retail sells gold, diamond and silver ornaments to households, mostly for weddings and festivals, with Tamil Nadu alone accounting for 40% of national gold consumption. ¶ • Revenue tracks gold prices and footfall, while cost is dominated by bullion purchases, making inventory and hedging the main margin drivers; Titan, Kalyan Jewellers and Senco Gold are the large listed peers. ¶ ## What the company does ¶ • Thangamayil Jewellery runs about 66 retail outlets across Tamil Nadu with roughly 1,25,000 square feet of operating area, and gold jewellery brings in 75% of revenue. ¶ • It earns from over-the-counter ornament sales, crafts designer pieces at four in-house manufacturing units, and reported ₹9,622 crore revenue and ₹391 crore net profit over the trailing twelve months. ¶ ## Why it moved today ¶ • No article in the input explains the 16 October move, so the cause is not established; the stock closed at ₹5,098, up ₹307 or 6.41%, on volume of 2,25,466 shares. ¶ • Context only: jewellery stocks averaged +2.81% that session against +0.65% for the Nifty 50, and Thangamayil had the widest day range in the group at about 9.27% of its price. ¶ ## The numbers (Screener) ¶ • Stock P/E is 40.4, price to book 10.56 on book value of ₹456, ROCE 25.5% and ROE 28.1%, with dividend yield 0.35%. ¶ • June 2026 quarter sales were ₹2,666 crore with net profit ₹85 crore and EPS ₹27.38, against ₹2,839 crore sales and ₹143 crore profit in the March 2026 quarter. ¶ ## What the numbers say ¶ • At a P/E of 40.4 and price to book of 10.56, the stock trades at a premium to the sector's large peers, so the June quarter's sequential fall in sales and profit sits awkwardly with that rating. ¶ • ROCE of 25.5% and ROE of 28.1% show the business earns well on capital, and the 6.41% jump leaves the price near the top of its day range, close to the ₹7,430 52-week high.
+
+[Wipro Ltd (WIPRO, +5.95%)]
+
+- ~
+  17 Oct 2026 | https://timesofindia.indiatimes.com/city/aurangabad/wipro-to-shut-waluj-plant-by-dec-10-208-jobs-on-the-line/articleshow/135019880.cms
+  ## What the sector does ¶ • Indian IT services firms sell software development, cloud migration, consulting and business process outsourcing to banks, insurers, retailers and manufacturers worldwide, mostly in the US and Europe. ¶ • Revenue comes from multi-year contracts billed per project or per engineer, so growth depends on client technology budgets and deal wins, while costs are mainly salaries, visas and real estate. ¶ ## What the company does ¶ • Wipro is India's fourth-largest IT services company, offering consulting, application development, cloud, engineering and business process services to clients across banking, healthcare, retail and telecom. ¶ • It earns from time-and-material and fixed-price contracts, reporting revenue of ₹24,753 crore in the September 2026 quarter, with a workforce of 236,328 employees. ¶ ## Why it moved today ¶ • The articles do not explain the 5.95% rise; the Waluj plant closure affects Wipro Enterprises, a separate unlisted entity, and the Q2 FY27 results reported a 1.9% year-on-year profit decline. ¶ • Context: Wipro's September quarter revenue rose 9.1% year on year to ₹24,752.7 crore, IT services margin improved to 16.5% from 16% sequentially, and December quarter revenue guidance was $2.571-2.625 billion. ¶ ## The numbers (Screener) ¶ • Stock P/E is 13.9, price to book is about 2.3 times (₹184 price against ₹79.7 book value), dividend yield is 5.97%, ROCE is 17.8% and ROE is 15.5%. ¶ • September 2026 quarter sales were ₹24,753 crore, up 1.1% sequentially, operating margin was 20%, net profit was ₹3,200 crore, down 4.7% sequentially, and EPS was ₹3.23. ¶ ## What the numbers say ¶ • Wipro's P/E of 13.9 is below the peer median of 19.68 and cheaper than Infosys at 15.12 and TCS at 16.32, while its dividend yield of 5.97% is the highest among the listed peers. ¶ • ROCE of 17.8% and ROE of 15.5% trail the peer median ROCE of 22.09% and are far below TCS's 63.03%, reflecting weaker profitability on capital. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/city/aurangabad/wipro-to-shut-waluj-plant-by-dec-10-208-jobs-on-the-line/articleshow/135019880.cms ;; indiantelevision.com|https://indiantelevision.com/mam/wipro-sheds-6716-employees-as-q2-profit-falls-1-9-per-cent/
+
+[[Top Losers]]
+
+[R R Kabel Ltd (RRKABEL, -8.29%)]
+
+- ~
+  17 Oct 2026 | https://finance.yahoo.com/markets/stocks/articles/missed-r-r-kabels-run-170826027.html
+  ## What the sector does ¶ • The wires and cables industry makes power and control cables for buildings, factories, utilities and infrastructure projects. ¶ • Revenue depends on construction, power capex and real estate demand, while copper and aluminium prices drive input costs most. ¶ ## What the company does ¶ • R R Kabel, incorporated in 1995, sells wires and cables such as house wires, industrial wires, power cables and special cables. ¶ • Its smaller FMEG segment sells fans, lighting, switches and appliances, and it competes with Polycab India and KEI Industries. ¶ ## Why it moved today ¶ • The news article does not explain the 8.29% fall on 17 October 2026. ¶ • Context: as of the article's 17 October date, R R Kabel had risen 62.9% since the start of 2026 and its story depends on cable capacity expansion and Middle East export exposure. ¶ ## The numbers (Screener) ¶ • For the June 2026 quarter, R R Kabel reported sales of ₹3,168 crore, operating profit of ₹283 crore, operating margin of 9%, and net profit of ₹205 crore. ¶ • At ₹2,388 the stock trades at a P/E of 44.2, 10.5 times book value of ₹228, with ROCE of 28.1% and ROE of 21.3%. ¶ ## What the numbers say ¶ • R R Kabel's June 2026 net profit jumped 117.32% year-on-year while sales rose 53.90%, the strongest quarterly profit growth in the peer table. ¶ • Its P/E of 44.2 is above the peer median of 26.85, against Polycab at 39.25 P/E and 33.21% ROCE and Finolex at 26.14 P/E and 16.01% ROCE. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/stocks/articles/missed-r-r-kabels-run-170826027.html
+
+[Ccl Products India Ltd (CCL, -7.10%)]
+
+- ~
+  2026-10-18 |
+  ## What the sector does ¶ • The tea and coffee sector sells packaged beverages and bulk instant coffee to households, cafes, hotels and industrial buyers, with revenue driven by volumes, global coffee prices and brand pricing power. ¶ • Green bean costs, freight and currency swings drive costs, while branded players earn more per kilo than bulk exporters; Tata Consumer, Hindustan Unilever and CCL are the main listed names. ¶ ## What the company does ¶ • CCL Products makes instant coffee, freeze-dried coffee and private-label coffee at plants in India, Vietnam and Switzerland, selling to food companies and retailers in over 90 countries. ¶ • It earns from bulk exports and its own Continental brand, with revenue of ₹1,211 crore in the September 2026 quarter and a market cap of ₹13,464 crore, the largest in its sector. ¶ ## Why it moved today ¶ • The stock fell 7.1% to ₹1,008.30 on 16 October, its biggest single-day drop since March 2020, after September-quarter results showed flat margins despite higher profit, [moneycontrol.com](https://hindi.moneycontrol.com/news/markets/why-ccl-products-share-price-slips-over-8-percent-biggest-single-day-fall-since-2020-2448223.html). ¶ • Net profit rose 29% year on year to ₹130.09 crore and revenue rose 7.5% to ₹1,210.76 crore, but EBITDA margin stayed flat at 17.5%, disappointing investors, [airnews.in](https://www.airnews.in/articles/ad94a39229-ccl-products-net-profit-jumps-29-shares-drop-9-on-q3?feed=stocks). ¶ ## The numbers (Screener) ¶ • Stock P/E is 29.2, price to book 5.06 times, ROCE 15.8%, ROE 18.0% and dividend yield 0.57%, per Screener data on 16 October 2026. ¶ • Net profit rose from ₹100 crore in December 2025 to ₹130 crore in September 2026, with EPS up from ₹7.51 to ₹9.74 over the same quarters. ¶ ## What the numbers say ¶ • At a P/E of 29.2, CCL trades below Tata Consumer's 58.7 but above the peer median of 16.25, while its ROCE of 15.8% beats Tata Consumer's 9.2% and the peer median of 5.1%. ¶ • Profit grew 29% year on year in the September quarter, but sales rose only 7.5% and margins stayed flat, so the 7.1% fall reflects disappointment over slowing growth rather than weak earnings.
+
+[Apar Industries Ltd (APARINDS, -5.21%)]
+
+- ~
+  2026-10-18 |
+  ## What the sector does ¶ • Electrical equipment makers sell transmission conductors, cables, transformer oils and solar gear to power utilities, EPC contractors and renewable developers, earning from project orders and replacement demand. ¶ • Revenue tracks power capex, grid expansion and renewable additions, while cost is driven by copper, aluminium and crude-linked inputs, with margins set by metal pass-through and order mix. ¶ ## What the company does ¶ • Apar Industries, founded in 1958, makes power transmission conductors, transformer and specialty oils, and power and telecom cables across three segments. ¶ • It ranks among the top three global conductor makers, the fourth largest transformer oil producer and the largest domestic renewable-energy cable maker, with ₹67,134 crore market cap. ¶ ## Why it moved today ¶ • No article explaining the 5.21% fall could be retrieved, so the trigger for the drop is not confirmed in the available news. ¶ • Context: the stock had risen 114.47% over the past year and 42.3% over six months, and was trading at 11.9 times book value, per Screener data. ¶ ## The numbers (Screener) ¶ • Stock P/E is 55.7, price ₹16,033, market cap ₹67,134 crore, book value ₹1,343, dividend yield 0.37%, ROCE 31.8% and ROE 20.3%. ¶ • June 2026 quarter sales ₹6,591 crore, up 29.13% year on year, net profit ₹467.45 crore, up 77.8%, with operating margin at 11% versus 8% in the prior three quarters. ¶ ## What the numbers say ¶ • At a P/E of 55.7, Apar trades well above the peer median of 26.12, while its ROCE of 31.8% beats the peer median of 21.28%, so the premium rests on superior capital returns. ¶ • June 2026 net profit of ₹467.45 crore rose 77.8% year on year against a peer median profit growth of 30.91%, yet the stock still fell 5.21%, suggesting the drop reflects valuation rather than weak results.
+
+[Hdb Financial Services Ltd (HDBFS, -4.92%)]
+
+- ~
+  18 Oct 2026 | https://m.economictimes.com/markets/stocks/news/bonus-issues-stock-splits-dividends-hdb-financial-irfc-techm-among-19-stocks-turning-ex-record-date-this-week/articleshow/135024511.cms
+  ## What the sector does ¶ • Non-bank lenders sell retail and business loans to borrowers who may not get bank credit, earning interest income minus the cost of funds they borrow. ¶ • Revenue rises with loan growth and yields; profits depend on borrowing costs and credit losses, with main players Bajaj Finance, Shriram Finance, Cholamandalam and Muthoot Finance. ¶ ## What the company does ¶ • HDB Financial Services, a non-deposit-taking NBFC and HDFC Bank subsidiary, lends through enterprise lending, asset finance and consumer finance verticals. ¶ • It offers business loans, loan against property, commercial vehicle and tractor loans, personal and auto loans, plus BPO and insurance distribution fees, with revenue of ₹16,300 crore in FY25. ¶ ## Why it moved today ¶ • HDB Financial shares fell 4.92% in the last session, but the news article does not explain the decline; it only lists the company's ₹2 per share dividend record date of October 23. ¶ • Context: in the March 2025 quarter net profit fell 19.09% year-on-year to ₹530.90 crore, and the stock trades near its 52-week low of ₹507. ¶ ## The numbers (Screener) ¶ • Stock P/E is 19.6, ROCE 9.79%, ROE 14.7%, dividend yield 0.78%, and the current price of ₹513 is close to the 52-week low of ₹507. ¶ • Net profit was ₹656 crore in March 2024, ₹472 crore in December 2024 and ₹531 crore in March 2025; EPS moved from ₹8.27 to ₹5.95 to ₹6.67. ¶ ## What the numbers say ¶ • At a P/E of 19.6, HDB Financial is cheaper than most peers such as Bajaj Finance (29.9), Tata Capital (25.2) and Cholamandalam (23.4), but its ROCE of 9.79% is below the peer median of about 10.1%. ¶ • March 2025 quarter net profit fell 19.09% year-on-year while peers grew 19% to 60%, and the stock's fall to near its 52-week low reflects that weak profit trend. ¶ ↗ m.economictimes.com|https://m.economictimes.com/markets/stocks/news/bonus-issues-stock-splits-dividends-hdb-financial-irfc-techm-among-19-stocks-turning-ex-record-date-this-week/articleshow/135024511.cms ;; upstox.com|https://upstox.com/stocks/hdb-financial-services-l-share-price/
+
+[Syrma Sgs Technology Ltd (SYRMA, -4.90%)]
+
+- ~
+  2026-10-18 |
+  ## What the sector does ¶ • Electronics manufacturing services (EMS) companies build printed circuit boards and electronic assemblies for original equipment makers in autos, industrials, healthcare and consumer devices. ¶ • Revenue comes from contract manufacturing volumes and design services; cost is dominated by components, labour and plant utilisation, so margins move with mix and scale. ¶ ## What the company does ¶ • Syrma SGS Technology is a Chennai-based EMS company incorporated in 2004, offering engineering, design and manufacturing services, with a market cap of ₹30,942 crore. ¶ • It makes printed circuit board assemblies, electronic sub-systems and box-build products for automotive, industrial, healthcare and consumer customers, earning from contract manufacturing and design-led orders. ¶ ## Why it moved today ¶ • The stock fell 4.90% to ₹1,604.60 on October 16, 2026, among the NIFTY 500's top losers, and no news article explaining the drop could be retrieved. ¶ • Context: the stock had already fallen for four straight sessions, losing 7.63% over that period, and traded below its 5-day and 20-day moving averages of ₹1,683 and ₹1,711. ¶ ## The numbers (Screener) ¶ • Stock P/E is 83.3 and price to book is about 10.8 times, with book value of ₹148 per share and a dividend yield of 0.09%. ¶ • June 2026 quarter sales were ₹1,589 crore with net profit of ₹106 crore and EPS of ₹5.19, while ROCE was 16.8% and ROE 14.0%. ¶ ## What the numbers say ¶ • At a P/E of 83.3, Syrma trades above the peer median of 34.91 and above Honeywell Auto's 50.72 and Kaynes Technology's 63.51, though below Aditya Infotech's 104.40. ¶ • Its ROCE of 16.78% matches the peer median but trails Indo-MIM's 24.98% and Aditya Infotech's 28.56%, and June-quarter sales grew 68.29% year on year while net profit rose 101.19%.
+
+============================================================
+
+SOURCE 6: Watchlist (headlines + summary)
+
+[Jio Platforms]
+
+- ~
+  17 Oct 2026 | https://www.briefs.co/news/jio-platforms-sets-3-2-billion-ipo-to-test-reliance-s-pull-w/
+  • Jio Platforms opens its IPO on October 21 at ₹1,065-1,119 per share, raising ₹30,188 crore at the top end for India's largest ever issue. ¶ • Up to ₹27,500 crore of proceeds will repay borrowings at Reliance Jio Infocomm, roughly 91% of the total. ¶ • Jio reported 524.4 million customers as of March 31, 2026, with 268.5 million on 5G and over 60% of India's data traffic. ¶ • Revenue grew from about ₹1.09 lakh crore to over ₹1.46 lakh crore in three years, with EBITDA margin at 53.3% in the June quarter. ¶ • Jio entered the global top 20 WIPO patent filers with 7,220 filings as of March 31, 2026, spanning 5G, early 6G, satellite and AI. ¶ ↗ briefs.co|https://www.briefs.co/news/jio-platforms-sets-3-2-billion-ipo-to-test-reliance-s-pull-w/ ;; m.economictimes.com|https://m.economictimes.com/wealth/invest/jio-platforms-joins-global-top-20-patent-filers-as-reliance-readies-first-ipo-in-30-years/articleshow/135024955.cms ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/with-524-million-customers-and-268-5-million-on-5g-jio-steps-out-of-reliances-results/articleshow/135024938.cms ;; finance.biggo.com|https://finance.biggo.com/news/d8dddd9e-baae-44c8-b26f-1a3800ddba0a
+
+- Outlook: Neutral
+  2026-10-18 |
+  §VIEW§{"stance": "neutral", "text": "Demand above $20 billion and a valuation below Bharti Airtel's $125 billion support the issue, while the price sits below earlier $131 billion talk. Retail flipping within a week and unproven digital monetisation split the case."}
+
+[Reliance Intelligence]
+
+[Reliance]
+
+- ~
+  18 Oct 2026 | https://timesofindia.indiatimes.com/business/india-business/ahead-of-reliance-industries-investing-in-texas-refinery-rubio-to-meet-ambani-in-jamnagar/articleshow/135022685.cms
+  • US secretary of state Marco Rubio will visit Reliance's Jamnagar refinery complex on his two-day India trip and meet Mukesh Ambani, ahead of Reliance's planned investment in a Texas oil refinery. ¶ • Reliance said its Jio satellite services also await government clearances, after Elon Musk accused powerful business interests of blocking Starlink's India entry. ¶ • Starlink said it has spent over five years working with Indian regulators and built in-country gateways, and is ready to connect India with high-speed internet. ¶ • Musk replied "Much appreciated" to Reliance's post welcoming competition, softening his earlier attacks on Ambani. ¶ • Jio Platforms' IPO, a ₹30,213 crore fresh issue at ₹1,065 to ₹1,119 per share, opens 21 October with a grey market premium of ₹221, hinting at 19.75% listing gains. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/ahead-of-reliance-industries-investing-in-texas-refinery-rubio-to-meet-ambani-in-jamnagar/articleshow/135022685.cms ;; benzinga.com|https://www.benzinga.com/markets/tech/26/10/62427304/starlink-india-reliance-jio-ipo-musk ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/jamnagar-on-rubios-two-day-itinerary-musk-mellows-on-reliance-appreciates-post/articleshow/135022222.cms ;; tradingview.com|https://www.tradingview.com/news/moodys:4c46c9c605a14:0-reliance-jio-ipo-gmp-today-listing-day-jackpot-or-long-term-bet-how-should-investors-play-mukesh-ambani-s-mega-ipo/
+
+- Outlook: Bullish
+  2026-10-18 |
+  §VIEW§{"stance": "bullish", "text": "Rubio's Jamnagar visit and the Texas refinery plan tie Reliance to India-US energy cooperation, while Musk's conciliatory reply eases the Starlink dispute. The Jio IPO, a Rs 30,213 crore issue, keeps the telecom arm in focus."}
+
+[Flipkart]
+
+- ~
+  17 Oct 2026 | https://timesofindia.indiatimes.com/technology/appliances/thomson-expands-tv-lineup-with-50-inch-qled-and-55-inch-mini-qd-models-during-flipkart-big-billion-days-sale/articleshow/135014412.cms
+  • Ekart, Flipkart's logistics arm, narrowed its FY26 loss by 98.3% to ₹26 crore from ₹1,508 crore in FY25. ¶ • Ekart's revenue from contracts with customers fell 4.2% to ₹13,194 crore in FY26, with Flipkart contributing ₹9,112 crore, about 69%. ¶ • Ekart's total expenses dropped 13% to ₹13,638 crore in FY26, as freight, handling and servicing costs fell 17.1% to ₹9,191 crore. ¶ • Thomson launched a 50-inch QLED TV at ₹23,499 and a 55-inch Mini-QD 4K TV at ₹34,999 on Flipkart during Big Billion Days. ¶ • Thomson added a 12kg semi-automatic washing machine at ₹12,999 and is running a 10-day lucky draw with a Tata Punch among prizes. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/technology/appliances/thomson-expands-tv-lineup-with-50-inch-qled-and-55-inch-mini-qd-models-during-flipkart-big-billion-days-sale/articleshow/135014412.cms ;; inc42.com|https://inc42.com/buzz/ekart-fy26-loss-narrows-by-98-to-%E2%82%B926-cr-despite-a-fall-in-top-line/
+
+- Outlook: Bullish
+  2026-10-18 |
+  §VIEW§{"stance": "bullish", "text": "Ekart nearly broke even with a Rs 26 crore FY26 loss, and festive launches from brands like Thomson widen Flipkart's Big Billion Days catalogue. Revenue fell 4.2%, so the improvement rests on cost cuts rather than growth."}
+
+[Zomato]
+
+- India food probe names Reliance, Blinkit
+  17 Oct 2026 | https://tribune.com.pk/story/2635418/india-food-probe-names-reliance-blinkit
+  India's food safety authority has named officials of Reliance retail and consumer units and of Eternal's Blinkit and Hyperpure units, including Blinkit CEO Albinder Dhindsa, in a probe over expired food products that have allegedly…
+
+- FDA uncovers expired food resale; FIR filed against Reliance, Blinkit executives
+  17 Oct 2026 | https://timesofindia.indiatimes.com/city/mumbai/fda-uncovers-expired-food-resale-fir-filed-against-reliance-blinkit-executives/articleshow/135018928.cms
+  Mumbai: An investigation by the Food and Drug Administration (FDA) has uncovered the alleged resale of expired, spoiled, rejected and customer-returned food items that were meant to be destroyed after disposal. An FIR has been registered…
+
+- Indian state food safety authority names Blinkit, Reliance executives in expired food probe
+  17 Oct 2026 | https://www.tradingview.com/news/reuters.com,2026:newsml_L1N463039:0-indian-state-food-safety-authority-names-blinkit-reliance-executives-in-expired-food-probe/
+
+- Maha FDA names Blinkit's Dhindsa, Reliance officials in expired food probe
+  17 Oct 2026 | https://www.business-standard.com/industry/news/maha-fda-names-blinkit-s-dhindsa-reliance-officials-in-expired-food-probe-126101700541_1.html
+  India's food safety authority has named officials of Reliance retail and consumer units and of Eternal's Blinkit and ​Hyperpure units, including Blinkit CEO Albinder Dhindsa, in a probe over expired food products ​that have allegedly…
+
+[HAL]
+
+- ~
+  17 Oct 2026 | https://timesofindia.indiatimes.com/education/news/hal-junior-executive-recruitment-2026-last-date-today-for-150-engineering-vacancies/articleshow/135009923.cms
+  • HAL closed applications today for 150 Junior Executive engineering vacancies under Advertisement No. HAL/CHRC-TAR/RECT-03/2026. ¶ • Selected candidates get E0 grade with basic pay of ₹30,000 per month, on short-term engagement of up to three years. ¶ • The drive covers nine engineering disciplines, with a 60% aggregate requirement for UR, OBC-NCL and EWS candidates. ¶ • Selection is by shortlisting at a 1:10 ratio based on engineering marks, then a personal interview and medical exam. ¶ • The application fee is ₹500 for UR, OBC and EWS candidates, while SC, ST and PwBD applicants are exempt. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/education/news/hal-junior-executive-recruitment-2026-last-date-today-for-150-engineering-vacancies/articleshow/135009923.cms
+
+- Outlook: Neutral
+  2026-10-18 |
+  §VIEW§{"stance": "neutral", "text": "The news is a routine hiring drive for 150 short-term engineering roles, with no order, revenue or contract detail. It neither adds nor removes from the investment case, so the flow is neutral."}
+
+[Tejas Networks]
+
+- ~
+  17 Oct 2026 | https://themachinemaker.com/news/tejas-networks-and-qualcomm-demonstrate-5g-based-sensing-technology-at-imc-2026/
+  • Tejas Networks reported Q2 FY27 revenue of ₹406 crore, up from ₹262 crore in Q2 FY26, while net loss narrowed to ₹207 crore from ₹307 crore. ¶ • The company secured a Letter of Intent for over 18,000 BSNL 4G sites, lifting its closing order book to ₹2,315 crore from ₹1,529 crore in Q1 FY27. ¶ • Tejas Networks and Qualcomm Technologies demonstrated Integrated Sensing and Communication (ISAC) technology at India Mobile Congress 2026, using 5G signals to detect vehicles and drones. ¶ • The ISAC showcase combined Tejas Networks' 5G base station with Qualcomm's Radio Unit and Distributed Unit chipsets, running on low-power computing and AI inference. ¶ • Tejas Networks designs and manufactures wireline and wireless networking products for telecom service providers, ISPs, utilities, defence and government agencies in more than 75 countries. ¶ ↗ themachinemaker.com|https://themachinemaker.com/news/tejas-networks-and-qualcomm-demonstrate-5g-based-sensing-technology-at-imc-2026/ ;; sahi.com|https://www.sahi.com/news/tejas-networks-q2-fy27-revenue-grows-to-406-crore-order-book-reaches-2-315-crore
+
+- Outlook: Neutral
+  2026-10-18 |
+  §VIEW§{"stance": "neutral", "text": "Revenue growth of about 55% YoY and an order book of Rs 2,315 crore support the pipeline, but a Rs 207 crore quarterly net loss keeps profitability unproven. Execution on the 18,000+ BSNL 4G sites decides which side wins."}
+
+[Dmart]
+
+[Godigit Insurance]
+
+[Infoedge/Naukri]
+
+[Bitcoin]
+
+- ~
+  17 Oct 2026 | https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed
+  • Nine crypto firms launched the Quantum Alliance, an open standards body to define and test quantum-resistance claims, warning that about 6.04 million BTC, roughly 30% of supply, sits quantum-exposed. ¶ • Bitcoin traded at $81,689, up 0.08%, after retreating from a recovery attempt toward $87,333 and nearing the $80,000 level. ¶ • Bitcoin holders who bought six to twelve months ago cut transfers to exchanges from 40.4% in June to 4.4% by October 15, though their 30-day transfer volume rose to 205,400 BTC from 157,700 BTC. ¶ • Peter Schiff urged investors to sell Bitcoin and buy gold on October 16, when Bitcoin traded at $81,548, down 35.3% from its $126,080 record of October 6, 2025. ¶ • John Paulson called Bitcoin a limited supply of nothing and said 99% of cryptocurrencies issued since the craze began have effectively become worthless. ¶ ↗ decrypt.co|https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed ;; sg.finance.yahoo.com|https://sg.finance.yahoo.com/news/bitcoin-struggles-above-80k-whale-070040528.html ;; 247wallst.com|https://247wallst.com/investing/cryptocurrency/2026/10/17/peter-schiff-says-sell-bitcoin-and-buy-gold-is-he-right-this-time/ ;; calcalistech.com|https://www.calcalistech.com/ctechnews/article/vcr9qyvn3
+
+- Outlook: Bearish
+  2026-10-18 |
+  §VIEW§{"stance": "bearish", "text": "Bitcoin sits 35.3% below its record with spot exchange netflows positive at $18.65 million, adding sellable supply. Quantum exposure of 6.04 million BTC and public sell calls from Schiff and Paulson keep sentiment heavy."}
+
+[Gold]
+
+- Golden Pursuit Eyes Access and Partner for Staged 200,000 m Gold Drill Programme at Gordon Lake Gold District
+  18 Oct 2026 | https://www.cruxinvestor.com/posts/golden-pursuit-eyes-access-and-partner-for-staged-200-000-m-gold-drill-programme-at-gordon-lake-gold-district
+  Golden Pursuit owns 100% of the consolidated Gordon Lake district in the Northwest Territories (NWT), Canada., which hosts six historic mines and around 10 royalty-free deposits.
+
+- Gold Price Slides on Hot Inflation, but Schiff Says It’s a Gift
+  17 Oct 2026 | https://beincrypto.com/gold-price-hot-inflation-peter-schiff/
+
+- Gold Price Slides on Hot Inflation, but Schiff Says It’s a Gift
+  17 Oct 2026 | https://finance.yahoo.com/markets/commodities/articles/gold-price-slides-hot-inflation-111321622.html
+  Gold price slid this week on hotter-than-expected US inflation data. Yet economist Peter Schiff called gold at $4,145 a gift, arguing the Federal Reserve has already lost its inflation fight.
+
+- Safe Havens, Dwindling Assets: What SSR’s Roxmore Acquisition Means for Gold M&A
+  17 Oct 2026 | https://www.cruxinvestor.com/posts/safe-havens-dwindling-assets-what-ssrs-roxmore-acquisition-means-for-gold-m-a
+  SSR Mining has agreed to acquire Roxmore Resources for C$6.75 per share in cash plus shares in a new exploration SpinCo, a deal that remains subject to shareholder and court approval and is expected to close in Q4 2026.
+
+============================================================
+
+SOURCE 2: The Hindu - Editorials
+[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+============================================================
+
+SOURCE 1: ET Morning Dispatch
+[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+============================================================
+
+SOURCE 3: The Hindu - International (headlines + summary)
+
+- Russian military satellite stalks U.S. radar satellite in orbit
+  18 Oct 2026 | https://www.thehindu.com/sci-tech/science/russian-military-satellite-stalks-us-radar-satellite-in-orbit/article71599219.ece
+  • Cosmos-2612 manoeuvred to within 1-2 km of ICEYE-X36 by October 17, a non-consensual rendezvous and proximity operation, or RPO, with no sign ICEYE invited the approach. ¶ • ICEYE-X36, a roughly 90 kg synthetic aperture radar satellite whose fleet supplies radar data to Ukraine, could be intimidated, jammed or physically attacked, though no attack was established as of 10 am IST on October 18.
+
+- China says ready to address each other’s concerns after FM Sitharaman flags trade barriers
+  18 Oct 2026 | https://www.thehindu.com/news/international/china-says-ready-to-address-each-others-concerns-after-fm-sitharaman-flags-trade-barriers/article71593446.ece
+  • China said it is ready to work with India to address each other's economic and trade concerns in a balanced way, after Nirmala Sitharaman flagged non-tariff barriers. ¶ • India's trade deficit with China widened to $105.93 billion in January-September, up 20.7%, as bilateral trade grew 25.4% to $144.45 billion.
+
+- Vice-President Vance faces tough questions on Iran war, immigration and more in CBS town hall
+  18 Oct 2026 | https://www.thehindu.com/news/international/vice-president-vance-faces-tough-questions-on-iran-war-immigration-and-more-in-cbs-town-hall/article71599161.ece
+  • Vice-President J.D. Vance faced voter questions on Iran war costs, immigration enforcement and White House ethics in a CBS News town hall that aired Saturday, October 17, 2026. ¶ • Vance said he had not heard of the six US soldiers killed by an Iranian drone strike in Kuwait on March 1, the day after Trump began the war with Iran, and acknowledged troop positioning was a huge mistake.
+
+- Italy prolongs Schengen suspension with Spain, talks loom
+  18 Oct 2026 | https://www.thehindu.com/news/international/italy-prolongs-schengen-suspension-with-spain-talks-loom/article71594031.ece
+  • Italy extended by another week its suspension of the EU's border-free Schengen arrangements with Spain, matching Madrid's own extension until October 22. ¶ • The two countries' interior ministers will work over the coming week on lifting the controls, after Italy first suspended Schengen on July 31 over more than 72,000 migrants entering Ceuta.
+
+- Philippines protests Chinese envoy's remarks, calling them a 'thinly veiled threat'
+  18 Oct 2026 | https://www.thehindu.com/news/international/philippines-protests-chinese-envoys-remarks-calling-them-a-thinly-veiled-threat/article71594014.ece
+  • Manila's foreign ministry protested Chinese Ambassador Jing Quan's remark that China could "easily win" if it used force, calling it a thinly veiled threat. ¶ • President Marcos said the comment sounded like a threat, while China's embassy accused Manila of taking Jing's words out of context.
+
+- Iran's military says oil tanker on fire in Gulf of Oman
+  18 Oct 2026 | https://www.thehindu.com/news/international/irans-military-says-oil-tanker-on-fire-in-gulf-of-oman/article71593986.ece
+  • Iran's military said a non-compliant oil tanker caught fire in the Gulf of Oman after switching off its tracking systems to enter a prohibited zone. ¶ • The cause and responsibility remain unclear, and CENTCOM, enforcing a blockade on Iranian ports, did not immediately comment.
+
+- Israeli settlers burn olive trees, injure journalist in West Bank attack
+  18 Oct 2026 | https://www.thehindu.com/news/international/israeli-settlers-burn-olive-trees-injure-journalist-in-west-bank-attack/article71593869.ece
+  • About 80 masked Israeli settlers burned olive trees and threw rocks at Palestinian villagers harvesting olives in Abu Falah on Friday, injuring two people including Washington Post photojournalist Heidi Levine. ¶ • Yesh Din has recorded at least 170 settler attacks in the occupied West Bank since September 27, where some 500,000 settlers and 3 million Palestinians live.
+
+- Bulgaria seeks NATO anti-drone systems, says defence minister
+  18 Oct 2026 | https://www.thehindu.com/news/international/bulgaria-seeks-nato-anti-drone-systems-says-defence-minister/article71593808.ece
+  Drones hit two ships which caught fire off Romania’s ‌Black Sea coast this week.
+
+- Ethiopia appoints interim Tigray government
+  18 Oct 2026 | https://www.thehindu.com/news/international/ethiopia-appoints-interim-tigray-government/article71593766.ece
+  • Prime Minister Abiy Ahmed set up a caretaker administration to run Tigray for six months, after rebels lost Mekelle and their strongholds. ¶ • The TPLF, banned as a party last year, called the new administration puppets; a 2020-22 war in the region killed an estimated 600,000 people.
+
+- Trump exempts Russia from Graham Act sanctions, drawing bipartisan criticism
+  18 Oct 2026 | https://www.thehindu.com/news/international/many-dont-know-what-my-decision-is-donald-trump-on-sanctions-waiver-to-russia/article71599103.ece
+  • Trump signed an executive order on October 16 exempting Russia from the Graham Act sanctions and waiving 100% tariffs on the top five buyers of Russian oil and gas, including China and India. ¶ • Secretary of State Marco Rubio said Trump wants 60 days to analyse the economic impact, while senators from both parties criticised the move.
+
+- Saudi Arabia intercepts Houthi drones as Egypt weighs defensive support
+  18 Oct 2026 | https://www.thehindu.com/news/international/saudi-arabia-intercepts-houthi-drones-as-egypt-weighs-defensive-support/article71599060.ece
+  • Saudi Arabia said it intercepted and destroyed four drones over Riyadh, the Eastern Province and the South on Saturday, October 17, 2026. ¶ • Egypt's President Abdel Fattah al-Sisi offered defensive support to Saudi Arabia, and Egypt's parliament will hold an emergency session on Sunday, October 18, 2026.
+
+- China considers new export curbs on solar, AI, biotech
+  18 Oct 2026 | https://www.thehindu.com/news/international/china-considers-new-export-curbs-on-solar-ai-biotech/article71591880.ece
+  The draft plan, “Announcement No. 48”, proposes a complete export ban on 14 technologies and restrictions on 26 more, including next-generation solar technologies that could affect countries such as India seeking to reduce dependence on China
+
+- Major fire breaks out in Alberta after deadly incident at military base
+  18 Oct 2026 | https://www.thehindu.com/news/international/major-fire-breaks-out-in-alberta-casualties-reported/article71599017.ece
+  • An incident at CFB Wainwright in Alberta killed and injured people and caused a major fire, Defence Minister David McGuinty said, without giving casualty figures or a cause. ¶ • The fire crossed the base fence and spread fast in high winds, with no evacuation order in effect and the province due to vote on an independence process days later.
+
+- Sri Lanka’s Tamil parties seek sustained Indian push to realise spirit of Indo-Lanka Accord
+  18 Oct 2026 | https://www.thehindu.com/news/international/sri-lankas-tamil-parties-seek-sustained-indian-push-to-realise-spirit-of-indo-lanka-accord/article70883508.ece
+  • Tamil party leaders from Sri Lanka's north and east asked Vice-President C.P. Radhakrishnan, on a two-day visit to Colombo, for sustained Indian engagement on the 1987 Indo-Lanka Accord. ¶ • ITAK said the Accord and the 13th Amendment remain unimplemented, and pressed for a federal arrangement with irrevocable power sharing.
+
+============================================================
+
+SOURCE 4: Entrackr Weekly Funding Report
+
+### Tessolve Semiconductor
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Raised $75 million from US-based Vector Line Capital in the week's largest growth-stage deal.
+
+• Tessolve is a Hero Electronix company.
+
+• The report describes it as a semiconductor company under Hero Electronix.
+
+• It is a semiconductor engineering and testing services firm.
+
+### Boldfit
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Raised over ₹400 crore in a Series B round led by Bharat Value Fund.
+
+• The round was the largest homegrown consumer brand raise of the week.
+
+• The report calls it a homegrown sports brand.
+
+• It sells sports and fitness products in India.
+
+### RapidCanvas
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Secured $29 million from Vertex Ventures.
+
+• The deal was among the week's growth-stage rounds.
+
+• The report describes it as an AI agent startup.
+
+• It builds AI agents for enterprise workflows.
+
+### Scimplify
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Raised $25 million in a strategic round led by Hitachi Ventures.
+
+• The Bengaluru-based company was among the week's growth-stage deals.
+
+• The report does not describe what it does.
+
+• It is a Bengaluru-based company.
+
+### Origin
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Raised $20 million in a round co-led by Accel and Zacua Ventures.
+
+• The deal was among the week's growth-stage rounds.
+
+• The report describes it as a construction robotics startup.
+
+• It builds robots for construction work.
+
+### Nat Habit
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Is raising ₹142.6 crore ($15 million) in a fresh round led by Trident Growth Partners.
+
+• The deal was among the week's growth-stage rounds.
+
+• The report describes it as a D2C personal care brand.
+
+• It sells personal care products directly to consumers.
+
+### MakeO
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Raised ₹90 crore from Singularity AMC.
+
+• MakeO is the parent of Toothsi.
+
+• The report identifies it as the parent of Toothsi.
+
+• It runs the Toothsi dental and skincare brand.
+
+### CapGrid
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Secured ₹46.28 crore ($4.87 million) in a pre-Series B round led by Hero Enterprise Partner Ventures.
+
+• The deal was among the week's growth-stage rounds.
+
+• The report describes it as a B2B manufacturing startup.
+
+• It provides manufacturing sourcing and supply chain services.
+
+### Mesa School of Business
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Raised ₹110 crore, including around ₹85 crore in Series A equity funding co-led by Dharana Capital and existing investor Elevation Capital.
+
+• The round led the week's early-stage deals.
+
+• The report describes it as a school of business.
+
+• It offers business education programs.
+
+### Confido Health
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Secured $12.5 million in a Series A round led by Z47.
+
+• The deal was among the week's early-stage rounds.
+
+• The report describes it as a healthtech startup.
+
+• It builds healthcare technology products.
+
+### Spill Games
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Raised $10.5 million in a Series A round led by Elevation Capital.
+
+• The Bengaluru-based company was among the week's early-stage deals.
+
+• The report describes it as an AI gaming studio.
+
+• It builds AI-powered games.
+
+### Clueso
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Secured $10 million from Dharana Capital.
+
+• The deal was among the week's early-stage rounds.
+
+• The report describes it as an AI video platform.
+
+• It uses AI to create and edit videos.
+
+### Parallel Loop
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Raised $6.6 million in a seed round led by 3one4 Capital.
+
+• The deal was among the week's early-stage rounds.
+
+• The report describes it as an AI startup.
+
+• It builds AI products.
+
+### Shamrock AI
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Raised $5 million in a seed round led by Endiya Partners.
+
+• The deal was among the week's early-stage rounds.
+
+• The report describes it as an AI startup.
+
+• It builds AI products.
+
+### NuSynth Technologies
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Raised ₹36.5 crore (around $4 million) in a seed round co-led by Avaana Capital and Shastra VC.
+
+• The Bengaluru-based company was among the week's early-stage deals.
+
+• The report describes it as a chemical process innovation startup.
+
+• It develops chemical process technologies.
+
+### Nazara Technologies
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Founder Nitish Mittersain will step down as MD to become founder and non-executive director.
+
+• The company redesignated Mithun Padam Sacheti as executive director and appointed Arun Agrawal as CFO.
+
+• The report describes it as a company with a founder-MD transition.
+
+• It is a listed Indian gaming and sports media company.
+
+### Indofast Energy
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Kamaldeep Singh, former CEO of DealShare, joined as chief executive officer.
+
+• Indofast Energy is a joint venture between IndianOil and SUN Mobility.
+
+• The report describes it as a joint venture between IndianOil and SUN Mobility.
+
+• It is an energy venture focused on battery swapping.
+
+### InCred Capital
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Appointed Abhinav Khanna as CEO of Capital Markets and Abhimanyu Kalra as managing director and co-head of equities.
+
+• The appointments support its expansion of institutional equities business in India.
+
+• The report describes it as expanding its institutional equities business in India.
+
+• It is a financial services firm.
+
+### Fundamentum Frontier Advisors (F2A)
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Secured ₹3,000 crore in subscriptions from Indian and overseas investors for its growth-stage AI and deeptech investment strategy.
+
+• Nandan Nilekani joined as an anchor investor and mentor; the fund plans to invest ₹100 crore to ₹200 crore each in 12 to 15 companies over two to three years.
+
+• The report describes it as a growth-stage AI and deeptech investment fund.
+
+• It is led by Ashish Kumar, Debraj Banerjee and Vivek Singla.
+
+### boAt
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Expanded into Sri Lanka and Bhutan as part of its international growth strategy.
+
+• The move follows more than 2X growth in international revenue in FY26.
+
+• The report describes it as India's leading audio and wearables brand.
+
+• It sells consumer technology products across Southeast Asia and the GCC.
+
+### Swiggy
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Launched a Multi Restaurant Ordering feature allowing users to order from up to five restaurants in a single transaction.
+
+• The feature gives one checkout, one payment and a shared tracking screen for all orders.
+
+• The report describes it as a food delivery platform.
+
+• It offers food ordering and delivery services in India.
+
+### CoinSwitch Ventures
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Rebranded as BlackLane Capital, an independent global early-stage investment firm.
+
+• The fund plans to invest up to $5 million per startup and facilitate over $100 million in funding over five years.
+
+• The report describes it as an early-stage investment firm expanding beyond Web3 into fintech, enterprise infrastructure, consumer applications and digital assets.
+
+• It was established in 2022 and has backed more than 26 startups.
+
+### HospitalStore
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Launched HospitalCloud.ai to expand into digital hospital infrastructure.
+
+• Its portfolio includes HospitraX.ai and EquipTrax AI.
+
+• The report describes it as a B2B healthcare procurement and technology platform.
+
+• It provides hospital management and medical equipment management software.
+
+### FinStackk
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Launched SalesTaxx, an end-to-end US sales tax compliance platform, at TechCrunch Disrupt 2026 where it is a Silver Partner.
+
+• The platform tracks tax obligations across US states, calculates rates and prepares returns for filing.
+
+• The report describes it as a company offering a US sales tax compliance platform for businesses and accounting firms.
+
+• It integrates with accounting, e-commerce and payment platforms including QuickBooks, Xero, Zoho, Shopify, Amazon and Stripe.
+
+### Urban Company
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Approved a proposal to raise up to ₹2,500 crore through equity shares and convertible securities, including a QIP.
+
+• The fundraise could support expansion of its InstaHelp vertical and customer acquisition amid competition from Snabbit and Pronto.
+
+• The report describes it as a company with an InstaHelp vertical facing competition from Snabbit and Pronto.
+
+• It is a home services platform.
+
+### Zetwerk
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Secured ₹2,251 crore from anchor investors ahead of its IPO.
+
+• Capital Group's two arms received around ₹288 crore, or 12.88% of the total allocation.
+
+• The report describes it as Zetwerk Manufacturing Businesses.
+
+• It is a contract manufacturing and supply chain company.
+
+### Groww
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Equity derivatives revenue declined 14.3% QoQ in Q2 FY27, largely due to SEBI's Closing Auction System introduced on August 3.
+
+• Parent Billionbrains Garage Ventures reported a 54% year-on-year rise in net profit to ₹725.6 crore, while revenue grew 44% to ₹1,541 crore.
+
+• The report describes it as a platform with equity derivatives revenue and a parent called Billionbrains Garage Ventures.
+
+• It is an investment and trading platform.
+
+### Nabventures
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Plans to invest ₹30 crore to ₹70 crore per company through its second fund, which has raised ₹450 crore at first close against a ₹1,500 crore target.
+
+• The fund will back growth-stage and technology-driven businesses across agriculture and the rural economy.
+
+• The report describes it as NABARD's venture capital arm.
+
+• It invests in agriculture and rural economy businesses.
+
+### NPCI
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Deferred the implementation of MDR on select UPI transactions until after Diwali, postponing the October 15 rollout.
+
+• Under the framework, eligible merchant transactions above ₹2,000 will attract a 0.4% MDR capped at ₹300, while capital market transactions attract 0.02% capped at ₹300.
+
+• The report describes it as the body implementing MDR on UPI transactions.
+
+• It runs India's retail payments and settlement systems.
+
+### Shadowfax Technologies
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Qualcomm Ventures sold 0.98% of the company for ₹157.28 crore through an open market transaction, following a ₹183.85 crore stake sale in August.
+
+• Across the two transactions, the investor offloaded shares worth around ₹341 crore.
+
+• The report describes it as a logistics company.
+
+• It provides last-mile delivery and logistics services.
+
+### Nutrifresh
+Week of Oct 12 to Oct 17 | https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
+
+• Reported a 51% year-on-year rise in revenue to ₹219.3 crore in FY26 and expects ₹400 crore in FY27.
+
+• Secured a ₹90 crore first tranche from the US DFC as part of a proposed ₹400 crore investment and signed a 1,000-acre smart agriculture MoU with the Maharashtra government.
+
+• The report describes it as an agritech firm with farms near Pune.
+
+• It operates smart agriculture and farming operations.
+
+============================================================
+
+SOURCE 5: The Hindu - Business (headlines + summary)
+
+[Business] Indian refiners’ fuel exports to West surge 43% amid Russian crude imports
+  18 Oct 2026 | https://www.thehindu.com/business/indian-refiners-fuel-exports-to-west-surge-43-amid-russian-crude-imports/article71599323.ece
+  • Refineries in India, Turkiye and Brunei running on Russian crude shipped 1 billion euros ($1.2 billion) of oil products to sanctioning countries in September, up 43% from August, CREA said. ¶ • India's Russian crude imports fell 13% in September, the second straight monthly decline, though Vadinar overtook Jamnagar as the largest importer.
+
+[Economy] India’s crude imports rise 7% in September, bill surges 47%
+  18 Oct 2026 | https://www.thehindu.com/business/Economy/indias-crude-imports-rise-7-in-september-bill-surges-47/article71593638.ece
+  • India's crude oil import bill jumped 47% year-on-year to $15.4 billion in September as imports rose 7% to 21.7 million metric tonnes. ¶ • The wider net oil and gas import bill grew 39.6% to $13.4 billion, while petroleum product exports fell 24.2% to 4.7 MMT.
+
+[Industry] Indian Bank net profit rises 14.7% to ₹3,462 crore in Q2
+  18 Oct 2026 | https://www.thehindu.com/business/Industry/indian-bank-net-profit-rises-147-to-3462-crore-in-q2/article71596730.ece
+  • Indian Bank's net profit rose 14.71% year-on-year to ₹3,462 crore in the September quarter, with operating profit up 46.58% to ₹7,090 crore. ¶ • Gross non-performing assets fell to 1.61% of gross advances from 2.60% a year earlier, while total business grew 14.22% to ₹15.96 lakh crore.
+
+[Business] Audi introduces all new Q3 at ₹51.99 lakh
+  18 Oct 2026 | https://www.thehindu.com/business/audi-introduces-all-new-q3-at-5199-lakh/article71593666.ece
+  • Audi India launched the all-new Q3 compact SUV at an introductory price of ₹51.99 lakh, with deliveries starting immediately from dealerships nationwide. ¶ • Audi plans two more new products in the coming months as it makes a comeback in India, which it considers an important market.
+
+[Business] India, Europe must build a technology superhighway for mobility: NASSCOM
+  18 Oct 2026 | https://www.thehindu.com/business/india-europe-must-build-a-technology-superhighway-for-mobility-nasscom/article71589567.ece
+  As vehicles become increasingly software-defined and AI-enabled, competitiveness will depend on how well we integrate capabilities across software, electronics, semiconductors, batteries, cybersecurity and validation
+
+[Business] As climate risks become harder to predict and insure, India must price catastrophe without leaving people unprotected
+  18 Oct 2026 | https://www.thehindu.com/business/as-climate-risks-become-harder-to-predict-and-insure-india-must-price-catastrophe-without-leaving-people-unprotected/article71587747.ece
+  • India's 2026 monsoon was forecast deficient in April and El Niño strengthened into a very strong event by September, with uneven rainfall leaving regional deficits. ¶ • Swiss Re estimates $26 trillion to $29 trillion of Indian property is exposed to natural catastrophes, with 93% of that exposure uninsured in 2022.
+
+[Industry] ADB, Japan to finance AM Green Ammonia’s project
+  18 Oct 2026 | https://www.thehindu.com/business/Industry/adb-japan-to-finance-am-green-ammonias-project/article71593592.ece
+  • ADB and Japan signed financing agreements with AM Green Ammonia to build a renewable-powered green ammonia plant in India with capacity of about 1.1 million tonnes per year. ¶ • The deal includes a $100 million loan from the Leading Asia's Private Infrastructure Fund 2, financed by JICA and administered by ADB, as the first investment under the ACCEL initiative.
+
+[Industry] Bengaluru space-tech firm The Guild unveils 150-acre rocket testing facility near Sriharikota
+  18 Oct 2026 | https://www.thehindu.com/business/Industry/bengaluru-space-tech-firm-the-guild-unveils-150-acre-rocket-testing-facility-near-sriharikota/article71593162.ece
+  • The Guild opened The Anchorage, a 150-acre rocket development and testing site in Space City, about 40 km from the Satish Dhawan Space Centre in Tirupati district. ¶ • The facility will test the fully reusable Razor Crest Mk 1, whose Pegasus and Stallion engines are built in-house for booster and upper-stage reuse.
+
+[Business] Federal Bank Q2 profit jumps 45% to record ₹1,386 crore
+  18 Oct 2026 | https://www.thehindu.com/business/federal-bank-q2-profit-jumps-45-to-record-1386-crore/article71592134.ece
+  • Federal Bank's net profit rose 45% year-on-year to a record ₹1,386 crore in the September quarter, with gross NPA at a decade-low 1.32%. ¶ • Net advances grew 22% YoY to ₹2.49 lakh crore and other income hit a record ₹1,490 crore, up nearly 38%.
+
+[Hyderabad] Boeing 737NG, ATR, Dash 8 upgrades on agenda of GMR Aero Technic’s pact with Canadian firm
+  18 Oct 2026 | https://www.thehindu.com/news/cities/Hyderabad/boeing-737ng-atr-dash-8-upgrades-on-agenda-of-gmr-aero-technics-pact-with-canadian-firm/article71591955.ece
+  • GMR Aero Technic signed an MoU with Canada's Corporation Logic Air Inc. to collaborate on aircraft modification, engineering, certification and component obsolescence solutions. ¶ • The partnership covers navigation and operational upgrades for Boeing 737NG jets, engine indication system modernisation for ATR and Dash 8 aircraft, and freighter conversions for customers in India, the Middle East and Asia Pacific.
+
+[Industry] Funskool eyes ₹400 crore turnover amid China dependence
+  18 Oct 2026 | https://www.thehindu.com/business/Industry/funskool-eyes-400-crore-turnover-amid-china-dependence/article71592205.ece
+  • Funskool India expects FY27 revenue of ₹380-400 crore against a ₹350 crore budget, after about ₹250 crore in the first half. ¶ • Exports are around 70% of its business across 63-plus countries, but Indian toy makers still depend on China for specialised tooling and electronic components.
+
+[Industry] Logistics has moved from Just-in-Time delivery to ‘anyhow, anytime’ due to West Asia crisis: DP World Global CEO
+  18 Oct 2026 | https://www.thehindu.com/business/Industry/logistics-has-moved-from-just-in-time-delivery-to-anyhow-anytime-due-to-west-asia-crisis-dp-world-global-ceo/article71592006.ece
+  • DP World CEO Yuvraj Narayan said the West Asia crisis has broken Just-in-Time supply chains, with shippers now forced to get cargo anyhow, anytime. ¶ • Traffic through Dubai's Jebel Ali port will fall to about 1 million TEUs in 10 months this year from 15 million in normal years.
+
+[India] What changes under India’s proposed BS-VII vehicle emission rules | Explained
+  18 Oct 2026 | https://www.thehindu.com/news/national/what-changes-under-indias-proposed-bs-vii-vehicle-emission-rules-explained/article71591595.ece
+  • The Ministry of Road Transport and Highways proposes BS-VII standards starting April 2029 for cars, April 2030 for light commercial vehicles, and April 2031 for buses and heavy trucks. ¶ • The draft adds brake-particle limits of 3 mg/km for electric cars and 7 mg/km for others from April 2031, plus tyre-abrasion rules and battery-performance benchmarks.
+
+[Business] Yes Bank weighs legal option after SC ruling, stares at 250 bps CET1 impact
+  18 Oct 2026 | https://www.thehindu.com/business/yes-bank-weighs-legal-option-after-sc-ruling-stares-at-250-bps-cet1-impact/article71592213.ece
+  • The Supreme Court dismissed Yes Bank's appeal against the Bombay High Court's setting aside of its ₹8,415 crore write-down of AT1 bonds from March 2020. ¶ • Reinstating the bonds would cut Common Equity Tier-1 ratio by 250 basis points on a pro forma basis, though the bank's shares fell 3.20% to close at ₹17.57.
+
+[Markets] Rupee rises 7 paise to close at 94.92 against U.S. dollar on RBI intervention
+  18 Oct 2026 | https://www.thehindu.com/business/markets/rupee-rises-7-paise-to-close-at-9492-against-us-dollar-on-rbi-intervention/article71592196.ece
+  • The rupee settled 7 paise higher at 94.92 against the dollar on Friday, its sixth straight gain, after touching an intraday low of 95.06. ¶ • The RBI has deployed about $75-80 billion in spot dollar sales and dollar-rupee swaps since June 8, while FIIs sold equities worth ₹5,285.37 crore on Thursday.
+
+[Business] Stock markets end higher for second day, led by strong buying in IT firms
+  18 Oct 2026 | https://www.thehindu.com/business/stock-markets-end-higher-for-second-day-led-by-strong-buying-in-it-firms/article71592103.ece
+  • Sensex rose 413.66 points, or 0.56%, to 74,729.27 and Nifty gained 148.80 points, or 0.65%, to 23,146.15 on October 16. ¶ • Tech Mahindra jumped 8.45% after reporting a 32.74% rise in consolidated net profit to ₹1,585.6 crore for the July-September quarter of FY27.
+
+[Industry] Telecom operators to show KYC name of incoming callers from November 1
+  18 Oct 2026 | https://www.thehindu.com/business/Industry/telecom-operators-to-show-kyc-name-of-incoming-callers-from-november-1/article71587959.ece
+  • The Department of Telecommunications mandated in an October 15 circular that all telecom operators display KYC-linked names of incoming callers starting November 1. ¶ • Operators must handle the feature without hurting call quality or retaining displayed names, and users who got SIMs as minors will see a parent's name until ownership is transferred.
+
+[Economy] Robert E. Hall and Michael Woodford | Putting people in economics
+  18 Oct 2026 | https://www.thehindu.com/business/Economy/robert-e-hall-and-michael-woodford-putting-people-in-economics/article71597633.ece
+  • Robert E. Hall and Michael Woodford won the 2026 Sveriges Riksbank Prize in Economic Sciences in Memory of Alfred Nobel. ¶ • Their work gave macroeconomics foundations in individual behavior, showing household consumption reflects future expectations and inflation stems from firms with sticky prices, which change slowly.
+
+[Industry] Air India sets up multi-disciplinary panel to identify cost-saving opportunities
+  18 Oct 2026 | https://www.thehindu.com/business/Industry/air-india-sets-up-multi-disciplinary-panel-to-identify-cost-saving-opportunities/article71591329.ece
+  • New CEO Tewolde Gebremariam set up a full-time cross-functional Cost Savings Team to review all expenditure and find savings across the organisation. ¶ • Air India's consolidated loss widened to ₹22,238.23 crore in the year ended March 2026 from ₹10,858.83 crore a year earlier, as total income fell to ₹71,869.94 crore.
+
+[Business] Export levy on petrol hiked, diesel lowered
+  18 Oct 2026 | https://www.thehindu.com/business/india-raises-windfall-tax-on-petrol-cuts-duty-on-diesel/article71590967.ece
+  • The government raised the export levy on petrol to ₹2.5 per litre from ₹0.5 and cut the diesel levy to ₹8.5 per litre from ₹16. ¶ • The ATF export levy stayed at ₹10.5 per litre, and domestic retail fuel duties were unchanged, with the rates applying from October 16 for fifteen days.
