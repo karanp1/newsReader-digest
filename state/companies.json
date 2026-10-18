@@ -4,7 +4,7 @@
   "sector": "Fintech",
   "description": "Online investment platform offering stock trading, mutual funds, bonds and wealth advisory services to retail investors in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-17"
+  "last_mentioned": "2026-10-18"
  },
  "fisdom": {
   "name": "Fisdom",
@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-17"
+  "last_mentioned": "2026-10-18"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -137,7 +137,7 @@
   "sector": "Satellite internet",
   "description": "SpaceX's satellite broadband service awaiting security approvals for its India launch.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-17"
+  "last_mentioned": "2026-10-18"
  },
  "spacex": {
   "name": "SpaceX",
@@ -193,7 +193,7 @@
   "sector": "Retail",
   "description": "US retail giant and majority owner of Flipkart; facing pressure over employee stock option liquidity.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-17"
+  "last_mentioned": "2026-10-18"
  },
  "myntra": {
   "name": "Myntra",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-17"
+  "last_mentioned": "2026-10-18"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -1124,7 +1124,7 @@
   "sector": "Telecom",
   "description": "State-run telecom operator; rolling out 4G across 18,685 sites with Tejas RAN gear.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-17"
+  "last_mentioned": "2026-10-18"
  },
  "aisle": {
   "name": "Aisle",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-17"
+  "last_mentioned": "2026-10-18"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -2412,7 +2412,7 @@
   "sector": "Manufacturing",
   "description": "Contract manufacturing platform; among companies tapping India's primary market in October.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-17"
+  "last_mentioned": "2026-10-18"
  },
  "avaadaelectro": {
   "name": "Avaada Electro",
@@ -3728,7 +3728,7 @@
   "sector": "AI research",
   "description": "Google's AI research unit; builds the Gemma and Gemini model families and on-device scam detection tools.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-17"
+  "last_mentioned": "2026-10-18"
  },
  "palantir": {
   "name": "Palantir",
@@ -5366,14 +5366,14 @@
   "sector": "Financial services",
   "description": "UK government-backed savings body whose IT overhaul ran £1.3 billion over estimate, per a Public Accounts Committee report.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-17"
+  "last_mentioned": "2026-10-18"
  },
  "bankofengland": {
   "name": "Bank of England",
   "sector": "Central banking",
   "description": "Delivered its Real-Time Gross Settlement overhaul for £431 million in April 2025, per a UK parliamentary report.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-17"
+  "last_mentioned": "2026-10-18"
  },
  "hblengineering": {
   "name": "HBL Engineering",
@@ -5478,7 +5478,7 @@
   "sector": "Streaming",
   "description": "New ad-free streaming app for kids aged 0 to 6 with 25 shows and no autoplay.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-17"
+  "last_mentioned": "2026-10-18"
  },
  "yalechildstudycenter": {
   "name": "Yale Child Study Center",
@@ -5527,7 +5527,7 @@
   "sector": "Food supply",
   "description": "Zomato's restaurant supply arm; named in a Maharashtra FDA FIR over expired products.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-17"
+  "last_mentioned": "2026-10-18"
  },
  "dnvfoodproducts": {
   "name": "DNV Food Products",
