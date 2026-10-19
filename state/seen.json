@@ -378,5 +378,13 @@
  "ai|https://api-docs.deepseek.com/news/news261017": {
   "ident": "https://api-docs.deepseek.com/news/news261017",
   "day": "2026-10-18"
+ },
+ "ai|https://openai.com/index/sullivan-cromwell": {
+  "ident": "https://openai.com/index/sullivan-cromwell",
+  "day": "2026-10-19"
+ },
+ "ai|https://www.anthropic.com/news/public-benefit-fund": {
+  "ident": "https://www.anthropic.com/news/public-benefit-fund",
+  "day": "2026-10-19"
  }
 }
