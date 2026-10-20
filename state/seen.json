@@ -386,5 +386,37 @@
  "ai|https://www.anthropic.com/news/public-benefit-fund": {
   "ident": "https://www.anthropic.com/news/public-benefit-fund",
   "day": "2026-10-19"
+ },
+ "ai|https://openai.com/index/low-resource-programming-languages": {
+  "ident": "https://openai.com/index/low-resource-programming-languages",
+  "day": "2026-10-20"
+ },
+ "ai|https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/": {
+  "ident": "https://www.wired.com/story/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+  "day": "2026-10-20"
+ },
+ "ai|https://finance.yahoo.com/video/blocks-ai-layoffs-taught-far-201748853.html": {
+  "ident": "https://finance.yahoo.com/video/blocks-ai-layoffs-taught-far-201748853.html",
+  "day": "2026-10-20"
+ },
+ "ai|https://api-docs.deepseek.com/quick_start/pricing/?model_version=DeepSeek-V4-Pro-0813": {
+  "ident": "https://api-docs.deepseek.com/quick_start/pricing/?model_version=DeepSeek-V4-Pro-0813",
+  "day": "2026-10-20"
+ },
+ "ai|https://www.pymnts.com/news/delivery/2026/ups-capital-uses-ai-to-stop-holiday-delivery-disasters/": {
+  "ident": "https://www.pymnts.com/news/delivery/2026/ups-capital-uses-ai-to-stop-holiday-delivery-disasters/",
+  "day": "2026-10-20"
+ },
+ "ai|https://businessbearings.com/articles/ai-cited-in-21-of-2026-layoffs-a-record-as-top-job-cut-reason-bdacd395": {
+  "ident": "https://businessbearings.com/articles/ai-cited-in-21-of-2026-layoffs-a-record-as-top-job-cut-reason-bdacd395",
+  "day": "2026-10-20"
+ },
+ "ai|https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/": {
+  "ident": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+  "day": "2026-10-20"
+ },
+ "ai|https://www.pymnts.com/news/banking/2026/pnc-combats-ai-enabled-deposit-flight-with-better-tech-service/": {
+  "ident": "https://www.pymnts.com/news/banking/2026/pnc-combats-ai-enabled-deposit-flight-with-better-tech-service/",
+  "day": "2026-10-20"
  }
 }
