@@ -6781,5 +6781,40 @@
   "description": "Electric vehicle and energy company; earnings to test Musk's AI spending ambitions amid SpaceX merger talk.",
   "first_added": "2026-10-20",
   "last_mentioned": "2026-10-20"
+ },
+ "tataconsultancyservices": {
+  "name": "Tata Consultancy Services",
+  "sector": "IT services",
+  "description": "Indian IT services firm that issued a letter of intent to Tejas Networks for BSNL 4G sites.",
+  "first_added": "2026-10-20",
+  "last_mentioned": "2026-10-20"
+ },
+ "psg": {
+  "name": "PSG",
+  "sector": "Sports",
+  "description": "Paris Saint-Germain football club playing Barcelona in the Champions League amid French unrest.",
+  "first_added": "2026-10-20",
+  "last_mentioned": "2026-10-20"
+ },
+ "fcbarcelona": {
+  "name": "FC Barcelona",
+  "sector": "Sports",
+  "description": "Spanish football club playing PSG in the Champions League in Paris.",
+  "first_added": "2026-10-20",
+  "last_mentioned": "2026-10-20"
+ },
+ "elytron": {
+  "name": "Elytron",
+  "sector": "AI",
+  "description": "Company paid by Flávio Bolsonaro's campaign for AI voter targeting in Brazil's presidential race.",
+  "first_added": "2026-10-20",
+  "last_mentioned": "2026-10-20"
+ },
+ "instagram": {
+  "name": "Instagram",
+  "sector": "Social media",
+  "description": "Meta-owned platform that reportedly blocked Lula's ads for 24 hours on October 9-10.",
+  "first_added": "2026-10-20",
+  "last_mentioned": "2026-10-20"
  }
 }
