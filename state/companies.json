@@ -333,7 +333,7 @@
   "sector": "Engineering construction",
   "description": "Indian infrastructure and engineering major; won initial nod for Jharkhand thermal power plant package.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-21"
  },
  "damodarvalley": {
   "name": "Damodar Valley Corporation",
@@ -1201,7 +1201,7 @@
   "sector": "Stock exchange",
   "description": "National Stock Exchange; listed on 24 September at Rs 1,785 per share.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-21"
  },
  "ntpcgreenenergy": {
   "name": "NTPC Green Energy",
@@ -2027,7 +2027,7 @@
   "sector": "Engineering services",
   "description": "Engineering services firm used as a valuation comparison for Cyient.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-21"
  },
  "sagility": {
   "name": "Sagility",
@@ -2328,7 +2328,7 @@
   "sector": "Regulator",
   "description": "India's securities regulator; to issue guidelines on closing auction session.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-21"
  },
  "reservebankofindia": {
   "name": "Reserve Bank of India",
@@ -2671,7 +2671,7 @@
   "sector": "Media",
   "description": "Crypto news outlet; its ETF tracker reported October Bitcoin ETF outflows.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "stocktwits": {
   "name": "Stocktwits",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "accenture": {
   "name": "Accenture",
@@ -2937,7 +2937,7 @@
   "sector": "Financial services",
   "description": "Research firm; downgraded Tech Mahindra to Sell and cut Usha Martin's grade to Hold.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-21"
  },
  "alphawaveventures": {
   "name": "Alpha Wave Ventures",
@@ -2993,7 +2993,7 @@
   "sector": "Steel products",
   "description": "Pipe maker; cited as a valuation peer for Gallantt Ispat and Usha Martin.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-21"
  },
  "aplapollo": {
   "name": "APL Apollo",
@@ -3014,14 +3014,14 @@
   "sector": "Steel products",
   "description": "Pipe and tube maker; cited as a valuation peer for Usha Martin.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-21"
  },
  "jindalsaw": {
   "name": "Jindal Saw",
   "sector": "Steel products",
   "description": "Pipe maker; cited as a valuation peer for Usha Martin.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-21"
  },
  "icicilombard": {
   "name": "ICICI Lombard",
@@ -3700,7 +3700,7 @@
   "sector": "Drones",
   "description": "Chinese drone and camera maker blocked by the FCC from selling new devices in the US.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-21"
  },
  "antigravity": {
   "name": "Antigravity",
@@ -4064,7 +4064,7 @@
   "sector": "Broking",
   "description": "Brokerage that downgraded Avenue Supermarts to Reduce on quick-commerce competition.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "cgpower": {
   "name": "CG Power",
@@ -4379,7 +4379,7 @@
   "sector": "Media",
   "description": "Indian newspaper carrying the editorials, international and business coverage in this digest.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "entrackr": {
   "name": "Entrackr",
@@ -4407,7 +4407,7 @@
   "sector": "Media",
   "description": "Indian financial news outlet reporting on Bank of Baroda's lawsuit and Meesho's fall.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-21"
  },
  "cnbctv18": {
   "name": "CNBC TV18",
@@ -4421,7 +4421,7 @@
   "sector": "Broking",
   "description": "Brokerage publishing Q2 results previews for HDB Financial and others.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-21"
  },
  "hdfcsky": {
   "name": "HDFC Sky",
@@ -5947,7 +5947,7 @@
   "sector": "IT services",
   "description": "Bought LTTS's Smart World and Communication business for Rs 452 crore.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "evenhealthcare": {
   "name": "Even Healthcare",
@@ -6129,7 +6129,7 @@
   "sector": "News",
   "description": "Indian investment research site reporting Finolex Cables' share price fall.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "techcrunch": {
   "name": "TechCrunch",
@@ -7584,6 +7584,300 @@
   "name": "Zenataris Renewable Energy",
   "sector": "Renewable energy",
   "description": "Renewable energy company in which India Cements agreed to acquire a 3.62% stake.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "gettyimages": {
+  "name": "Getty Images",
+  "sector": "Media licensing",
+  "description": "Visual media licensing company; began Chapter 11 proceedings to restructure debt and go private.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "kochequitydevelopment": {
+  "name": "Koch Equity Development",
+  "sector": "Investment",
+  "description": "Koch Industries affiliate investing up to $533 million in Getty Images' restructuring.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "zenatarisrenewable": {
+  "name": "Zenataris Renewable",
+  "sector": "Renewable energy",
+  "description": "Renewable energy company in which India Cements is acquiring a 3.62% stake.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "calamos": {
+  "name": "Calamos",
+  "sector": "Asset management",
+  "description": "Fund manager whose protected bitcoin fund fell just 1% in a year.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "wiikwemkoonguncededterritory": {
+  "name": "Wiikwemkoong Unceded Territory",
+  "sector": "Indigenous community",
+  "description": "Ontario First Nation that installed a data centre to store language recordings and health data locally.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "inventurusknowledge": {
+  "name": "Inventurus Knowledge",
+  "sector": "Engineering services",
+  "description": "Indian ER&D services company, a peer of L&T Technology Services.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "aplapollotubes": {
+  "name": "APL Apollo Tubes",
+  "sector": "Steel pipes",
+  "description": "Indian steel tube maker, a peer of Jindal Saw.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "shreecement": {
+  "name": "Shree Cement",
+  "sector": "Cement",
+  "description": "Indian cement producer, a peer of India Cements.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "acc": {
+  "name": "ACC",
+  "sector": "Cement",
+  "description": "Indian cement maker, a peer of India Cements.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "epsiloncarbon": {
+  "name": "Epsilon Carbon",
+  "sector": "Specialty chemicals",
+  "description": "Indian carbon materials maker, a peer of Himadri Speciality Chemical.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "ondc": {
+  "name": "ONDC",
+  "sector": "E-commerce network",
+  "description": "Open network Flipkart uses to source restaurants for its Eat-in food delivery pilot.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "finma": {
+  "name": "FINMA",
+  "sector": "Regulator",
+  "description": "Swiss regulator that approved the country's first retail ETF holding Bitcoin directly.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "bse": {
+  "name": "BSE",
+  "sector": "Stock exchange",
+  "description": "Indian exchange where Jio Platforms' IPO bids and Reliance share moves were recorded.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "dcgi": {
+  "name": "DCGI",
+  "sector": "Regulator",
+  "description": "Indian drug regulator that approved Dr. Reddy's Zytorvi for advanced esophageal cancer.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "defencecyberagency": {
+  "name": "Defence Cyber Agency",
+  "sector": "Defence",
+  "description": "Indian agency that alerted SBI to the suspected dark web exposure of customer records.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "kochindustries": {
+  "name": "Koch Industries",
+  "sector": "Conglomerate",
+  "description": "Parent of Koch Equity Development, investing up to $533 million in Getty Images' restructuring.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "money2020": {
+  "name": "Money20/20",
+  "sector": "Events",
+  "description": "Fintech conference where World unveiled World ID for banking and finance.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "zytorvi": {
+  "name": "Zytorvi",
+  "sector": "Pharmaceuticals",
+  "description": "Dr. Reddy's toripalimab drug approved for first-line advanced esophageal cancer treatment.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "dusterstronghybridetech160": {
+  "name": "Duster Strong Hybrid E-Tech 160",
+  "sector": "Automotive",
+  "description": "Renault's hybrid SUV launched in India from Rs 16.99 lakh with 29 km/l efficiency.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "jackdaw": {
+  "name": "Jackdaw",
+  "sector": "Oil and gas",
+  "description": "North Sea gas field approved for drilling by the UK government, operated by Adura.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "rosebank": {
+  "name": "Rosebank",
+  "sector": "Oil and gas",
+  "description": "North Sea oil and gas field that with Jackdaw could supply about 6% of UK production.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "isharesbitcoinmanagedprotectetf": {
+  "name": "iShares Bitcoin Managed Protect ETF",
+  "sector": "Asset management",
+  "description": "BlackRock fund seeking bitcoin upside while limiting losses.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "zytorvitoripalimab": {
+  "name": "Zytorvi (toripalimab)",
+  "sector": "Pharmaceuticals",
+  "description": "Dr. Reddy's cancer drug approved for first-line advanced esophageal squamous cell carcinoma.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "perm": {
+  "name": "PERM",
+  "sector": "Immigration",
+  "description": "US green card sponsorship programme from which Microsoft, Infosys and others were suspended.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "indianewzealandfta": {
+  "name": "India-New Zealand FTA",
+  "sector": "Trade",
+  "description": "Trade deal in force October 20, 2026, giving India duty-free access to 100% of New Zealand tariff lines.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "thegreatnorth": {
+  "name": "The Great North",
+  "sector": "Trade",
+  "description": "Banner under which nearly 200 North of England delegates travelled to India to build trade ties.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "nobelprize": {
+  "name": "Nobel Prize",
+  "sector": "Awards",
+  "description": "Robert E. Hall and Michael Woodford won the 2026 economics Nobel for behavioural macroeconomics work.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "phillipscurve": {
+  "name": "Phillips Curve",
+  "sector": "Economics",
+  "description": "Economic theory of an inverse unemployment-inflation relationship challenged by Nobel winners' research.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "alberta": {
+  "name": "Alberta",
+  "sector": "Government",
+  "description": "Canadian province where over 75% of voters backed remaining in Canada in a referendum.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "limoges": {
+  "name": "Limoges",
+  "sector": "Government",
+  "description": "French city whose 1883 town hall was destroyed by arson during Saturday protests.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "tirana": {
+  "name": "Tirana",
+  "sector": "Government",
+  "description": "Albanian capital where police clashed with anti-government protesters for an eighth day.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "saintpetersburg": {
+  "name": "Saint Petersburg",
+  "sector": "Government",
+  "description": "Russian city where US envoy Steve Witkoff arrived to meet Vladimir Putin.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "hyderabad": {
+  "name": "Hyderabad",
+  "sector": "Government",
+  "description": "Indian city hosting Infosys and Truist's AI-first Global Capability Center.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "etmorningdispatch": {
+  "name": "ET Morning Dispatch",
+  "sector": "Newsletter",
+  "description": "Economic Times newsletter covering Indian tech and business news.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "constructionworld": {
+  "name": "Construction World",
+  "sector": "News",
+  "description": "Indian construction and infrastructure news outlet.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "bbc": {
+  "name": "BBC",
+  "sector": "News",
+  "description": "UK public broadcaster covering business and international news.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "billionairesafrica": {
+  "name": "Billionaires Africa",
+  "sector": "News",
+  "description": "News site covering African and Indian business figures.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "inc42": {
+  "name": "Inc42",
+  "sector": "News",
+  "description": "Indian startup and technology news outlet.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "veloxxmedia": {
+  "name": "Veloxx Media",
+  "sector": "News",
+  "description": "Media outlet covering corporate appointments.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "theglobeandmail": {
+  "name": "The Globe and Mail",
+  "sector": "News",
+  "description": "Canadian newspaper carrying market news.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "tipranks": {
+  "name": "TipRanks",
+  "sector": "Financial data",
+  "description": "Investment research and analyst ratings platform.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "sgfinanceyahoo": {
+  "name": "SG Finance Yahoo",
+  "sector": "Financial data",
+  "description": "Yahoo Finance's Singapore edition carrying market news.",
   "first_added": "2026-10-21",
   "last_mentioned": "2026-10-21"
  }
