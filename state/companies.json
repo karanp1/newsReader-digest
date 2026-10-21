@@ -53,7 +53,7 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "google": {
   "name": "Google",
@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -130,7 +130,7 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-21"
  },
  "starlink": {
   "name": "Starlink",
@@ -144,7 +144,7 @@
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -158,7 +158,7 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
@@ -172,21 +172,21 @@
   "sector": "Telecom",
   "description": "Indian telecom operator providing mobile, broadband and enterprise services across the country.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-21"
  },
  "motilaloswal": {
   "name": "Motilal Oswal",
   "sector": "Financial services",
   "description": "Indian brokerage and financial services firm; values Jio Platforms and rates Reliance Industries a buy.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "flipkart": {
   "name": "Flipkart",
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "walmart": {
   "name": "Walmart",
@@ -221,7 +221,7 @@
   "sector": "E-commerce",
   "description": "Global online retailer running Great Indian Festival sale in competition with Flipkart.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "chennaipetroleum": {
   "name": "Chennai Petroleum",
@@ -354,7 +354,7 @@
   "sector": "Defence aerospace",
   "description": "US engine maker shipping F404-IN20 engines to HAL for Tejas LCA Mk 1A fighter jets.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-21"
  },
  "hindustanaeronautics": {
   "name": "Hindustan Aeronautics",
@@ -445,14 +445,14 @@
   "sector": "Professional services",
   "description": "Global consulting and audit firm advising on GST and tax policy matters.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-21"
  },
  "coinbase": {
   "name": "Coinbase",
   "sector": "Crypto exchange",
   "description": "US cryptocurrency exchange acting as custodian for US government seized crypto assets.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-21"
  },
  "alamedaresearch": {
   "name": "Alameda Research",
@@ -501,21 +501,21 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "naukri": {
   "name": "Naukri",
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "godigit": {
   "name": "Go Digit",
@@ -634,14 +634,14 @@
   "sector": "Banking",
   "description": "Raised its Robinhood price target to $132 from $105.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "bofa": {
   "name": "BofA",
   "sector": "Banking",
   "description": "Raised its Robinhood price target to $156 from $140.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-21"
  },
  "qualcomm": {
   "name": "Qualcomm",
@@ -655,7 +655,7 @@
   "sector": "Telecom equipment",
   "description": "Part of the global 6G development coalition with Tejas and Qualcomm.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-21"
  },
  "tcs": {
   "name": "TCS",
@@ -956,7 +956,7 @@
   "sector": "Conglomerate",
   "description": "Mukesh Ambani-led conglomerate; its satellite arm already holds India authorisation.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "oneweb": {
   "name": "OneWeb",
@@ -1061,7 +1061,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its IBIT bitcoin ETF led $487.1 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "fidelity": {
   "name": "Fidelity",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1124,7 +1124,7 @@
   "sector": "Telecom",
   "description": "State-run telecom operator; rolling out 4G across 18,685 sites with Tejas RAN gear.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "aisle": {
   "name": "Aisle",
@@ -1145,7 +1145,7 @@
   "sector": "Quick commerce",
   "description": "Flipkart's quick-commerce arm; hired Dibyendu Sen for brand partnerships.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-21"
  },
  "safari": {
   "name": "Safari",
@@ -1250,7 +1250,7 @@
   "sector": "Software",
   "description": "US software giant; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-21"
  },
  "adobe": {
   "name": "Adobe",
@@ -1432,7 +1432,7 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "citi": {
   "name": "Citi",
@@ -1446,7 +1446,7 @@
   "sector": "Financial services",
   "description": "Brokerage; valued Jio at Rs 331-450 per Reliance share.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-21"
  },
  "yessecurities": {
   "name": "Yes Securities",
@@ -1460,7 +1460,7 @@
   "sector": "Brokerage",
   "description": "Brokerage; its analyst Dilip Parmar gave rupee resistance and support levels.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "equinomicsresearch": {
   "name": "Equinomics Research",
@@ -2062,14 +2062,14 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "bernstein": {
   "name": "Bernstein",
   "sector": "Financial research",
   "description": "Brokerage that ranked quick-commerce platforms on product availability.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-21"
  },
  "hyundaimotorindia": {
   "name": "Hyundai Motor India",
@@ -2104,7 +2104,7 @@
   "sector": "Logistics",
   "description": "Flipkart's logistics arm, part of its expanded festive supply chain network.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "fave": {
   "name": "Fave",
@@ -2496,7 +2496,7 @@
   "sector": "Travel",
   "description": "Online travel agency owned by Flipkart; former staff joined the ESOP petition.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-21"
  },
  "shopsy": {
   "name": "Shopsy",
@@ -2510,7 +2510,7 @@
   "sector": "Fintech",
   "description": "Flipkart's lending and credit platform; former staff joined the ESOP petition.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "anscommerce": {
   "name": "ANS Commerce",
@@ -2657,7 +2657,7 @@
   "sector": "Industry body",
   "description": "Gold industry body; reported a record $31 billion into gold ETFs in Q3.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "abra": {
   "name": "Abra",
@@ -2741,7 +2741,7 @@
   "sector": "Financial data",
   "description": "Indian stock research platform; flagged valuation and return metrics for several stocks.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-21"
  },
  "tdsecurities": {
   "name": "TD Securities",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-21"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -2972,7 +2972,7 @@
   "sector": "Banking",
   "description": "State Bank of India; bought ITC shares in the block deal where GQG sold its stake.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-21"
  },
  "aramco": {
   "name": "Aramco",
@@ -3175,7 +3175,7 @@
   "sector": "Government",
   "description": "US Department of Agriculture; put global 2025-26 coffee production at 178.83 million bags, up 2 million.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "japansweatheragency": {
   "name": "Japan's weather agency",
@@ -3266,14 +3266,14 @@
   "sector": "Insurance",
   "description": "General insurance company; mentioned in the watchlist context.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-21"
  },
  "relianceintelligence": {
   "name": "Reliance Intelligence",
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "gartner": {
   "name": "Gartner",
@@ -3462,14 +3462,14 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "swiggy": {
   "name": "Swiggy",
   "sector": "Food delivery",
   "description": "Food delivery and quick commerce platform; ran drone delivery trials in 2021 and 2022.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "cdot": {
   "name": "C-DoT",
@@ -3490,7 +3490,7 @@
   "sector": "Home services",
   "description": "Home services platform; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "zerodha": {
   "name": "Zerodha",
@@ -3749,7 +3749,7 @@
   "sector": "Insurance",
   "description": "Life Insurance Corporation of India, the state-owned insurer; launched three new non-par individual plans.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-21"
  },
  "vantrockrealassets": {
   "name": "Vantrock Real Assets",
@@ -4351,7 +4351,7 @@
   "sector": "Media",
   "description": "Reported McKinsey research on AI automating more than half of US work hours.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-21"
  },
  "theinformation": {
   "name": "The Information",
@@ -4386,14 +4386,14 @@
   "sector": "Media",
   "description": "Indian startup news outlet that publishes a weekly funding report.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "openclawnewsletter": {
   "name": "Open Claw Newsletter",
   "sector": "Media",
   "description": "Newsletter covering AI industry news and commentary.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "dynamicwatchlist": {
   "name": "Dynamic Watchlist",
@@ -4435,21 +4435,21 @@
   "sector": "Financial data",
   "description": "Charting and market news platform carrying several of today's stock stories.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-21"
  },
  "yahoofinance": {
   "name": "Yahoo Finance",
   "sector": "Financial data",
   "description": "Market data site carrying coverage of Transformers & Rectifiers India's gain.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "kitco": {
   "name": "Kitco",
   "sector": "Media",
   "description": "Precious metals news site reporting on gold prices and ETF flows.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "bullionvault": {
   "name": "BullionVault",
@@ -4470,7 +4470,7 @@
   "sector": "Media",
   "description": "Crypto news outlet reporting Standard Chartered's UAE bitcoin and ether trading launch.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-21"
  },
  "bitcoinmagazine": {
   "name": "Bitcoin Magazine",
@@ -4484,14 +4484,14 @@
   "sector": "Media",
   "description": "Crypto news outlet reporting Strive's $280 million bitcoin purchase.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-21"
  },
  "telecomlead": {
   "name": "TelecomLead",
   "sector": "Media",
   "description": "Telecom news site reporting Tejas Networks and C-DOT defending BSNL equipment.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "deccanherald": {
   "name": "Deccan Herald",
@@ -4540,14 +4540,14 @@
   "sector": "Media",
   "description": "Indian investment news site carrying a buy call on Hindustan Aeronautics.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-21"
  },
  "univest": {
   "name": "Univest",
   "sector": "Media",
   "description": "Indian markets site explaining HAL's consecutive share price rise.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "gktoday": {
   "name": "GKToday",
@@ -4568,14 +4568,14 @@
   "sector": "Media",
   "description": "Indian business newspaper carrying the morning dispatch and Info Edge coverage.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "businesstoday": {
   "name": "Business Today",
   "sector": "Media",
   "description": "Indian business magazine covering Vedanta Power and demerged stocks.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-21"
  },
  "linkedin": {
   "name": "LinkedIn",
@@ -4617,7 +4617,7 @@
   "sector": "Media",
   "description": "Technology news site reporting Jio Platforms' $20 billion in IPO bids.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-21"
  },
  "bloomberg": {
   "name": "Bloomberg",
@@ -4813,7 +4813,7 @@
   "sector": "E-commerce",
   "description": "Indian beauty and fashion e-commerce platform seeing stronger festive user growth.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-21"
  },
  "asus": {
   "name": "Asus",
@@ -4953,7 +4953,7 @@
   "sector": "Telecom infrastructure",
   "description": "Indian government broadband network programme that buys optical fibre.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "trai": {
   "name": "TRAI",
@@ -5037,7 +5037,7 @@
   "sector": "Banking",
   "description": "Indian private bank, a peer to IDBI Bank.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "statebankofindia": {
   "name": "State Bank of India",
@@ -5093,7 +5093,7 @@
   "sector": "Retail",
   "description": "Indian supermarket chain operated by Avenue Supermarts.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "indianairforce": {
   "name": "Indian Air Force",
@@ -5121,14 +5121,14 @@
   "sector": "Crypto",
   "description": "Leading cryptocurrency that fell to $82,000 after higher-than-expected CPI.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "gold": {
   "name": "Gold",
   "sector": "Commodities",
   "description": "Precious metal trading near $4,100 with record ETF holdings.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "yaraj": {
   "name": "Yara J",
@@ -5317,7 +5317,7 @@
   "sector": "AI",
   "description": "French AI company that released Timestral, a family of time-series foundation models running on standard CPUs.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "mckinsey": {
   "name": "McKinsey",
@@ -5590,7 +5590,7 @@
   "sector": "AI",
   "description": "Chinese AI lab that released the DeepSeek-V4.1-Flash-1017 model and search APIs.",
   "first_added": "2026-10-18",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "amazonconnect": {
   "name": "Amazon Connect",
@@ -5842,7 +5842,7 @@
   "sector": "Telecom equipment",
   "description": "Makes optical fibre and cable, telecom equipment and does network integration for operators and data centres.",
   "first_added": "2026-10-19",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "punjabnationalbank": {
   "name": "Punjab National Bank",
@@ -5863,7 +5863,7 @@
   "sector": "Speciality chemicals",
   "description": "India's largest coal tar pitch maker and only producer of advanced carbon materials.",
   "first_added": "2026-10-19",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "finolexcables": {
   "name": "Finolex Cables",
@@ -5905,7 +5905,7 @@
   "sector": "Banking",
   "description": "Public sector Indian bank lending to retail, agriculture and MSME customers; Q2 net profit rose 30%.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "jammukashmirbank": {
   "name": "Jammu & Kashmir Bank",
@@ -6038,14 +6038,14 @@
   "sector": "Telecom",
   "description": "Japanese mobile operator; featured in telecom news alongside Broadcom and Tejas Networks.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "broadcom": {
   "name": "Broadcom",
   "sector": "Semiconductors",
   "description": "US chip and infrastructure software maker; featured in telecom news.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "metlife": {
   "name": "MetLife",
@@ -6094,7 +6094,7 @@
   "sector": "Speciality chemicals",
   "description": "Indian carbon black maker; peer comparison for Himadri Speciality Chemical.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "shiprocket": {
   "name": "Shiprocket",
@@ -6115,7 +6115,7 @@
   "sector": "Broking",
   "description": "Indian brokerage cited on Jio's customer base and 5G position.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "mint": {
   "name": "Mint",
@@ -6150,7 +6150,7 @@
   "sector": "News",
   "description": "Payments and commerce news site covering UPS Capital and PNC.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "opendemocracy": {
   "name": "Open Democracy",
@@ -6171,616 +6171,616 @@
   "sector": "News",
   "description": "News source covering OpenAI, Anthropic and other AI company updates.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "farmserviceagency": {
   "name": "Farm Service Agency",
   "sector": "Government",
   "description": "USDA agency administering one-time harvest fuel relief payments to farmers.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "nationalhousingbank": {
   "name": "National Housing Bank",
   "sector": "Regulator",
   "description": "Indian regulator that supervises housing finance companies including Sammaan Capital.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "mnre": {
   "name": "MNRE",
   "sector": "Government",
   "description": "India's Ministry of New and Renewable Energy; expects over 5 GW of agrivoltaic capacity.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "financeministry": {
   "name": "Finance Ministry",
   "sector": "Government",
   "description": "Indian ministry working with MNRE on a central agrivoltaic incentive scheme.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "metalsfocus": {
   "name": "Metals Focus",
   "sector": "Research",
   "description": "Precious metals research firm forecasting gold averaging $5,330 an ounce in 2027.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "uscensusbureau": {
   "name": "US Census Bureau",
   "sector": "Government",
   "description": "US agency reporting nearly 4.2 million business applications in the first eight months of 2026.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "parispolice": {
   "name": "Paris police",
   "sector": "Government",
   "description": "Imposed an overnight curfew in two Paris areas after weekend rioting and looting.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "nariogovernment": {
   "name": "Nariño government",
   "sector": "Government",
   "description": "Colombian provincial government responding to a gold mine collapse that killed at least 14.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "california": {
   "name": "California",
   "sector": "Government",
   "description": "US state where 28 green card holders, including two Indian nationals, were charged with election fraud.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "indiaembassyinrome": {
   "name": "India embassy in Rome",
   "sector": "Government",
   "description": "Told Indian nationals to avoid crowded areas amid European protests.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "sensex": {
   "name": "Sensex",
   "sector": "Markets",
   "description": "Indian benchmark index that fell 876.37 points to 73,852.90.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "nifty": {
   "name": "Nifty",
   "sector": "Markets",
   "description": "Indian benchmark index that dropped 257.20 points to 22,888.95.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "bsecapitalgoodsindex": {
   "name": "BSE Capital Goods Index",
   "sector": "Markets",
   "description": "Indian sector index that fell 0.5% as Finolex Cables plunged 7%.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "brentcrude": {
   "name": "Brent crude",
   "sector": "Commodities",
   "description": "Oil benchmark at $107.79 a barrel, down 1.88%, a key risk to the rupee.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "rupee": {
   "name": "Rupee",
   "sector": "Currency",
   "description": "Indian currency that closed 3 paise lower at 94.92 against the US dollar.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "usdollar": {
   "name": "US dollar",
   "sector": "Currency",
   "description": "US currency that firmed against gold and pressured the rupee.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "ustreasury": {
   "name": "US Treasury",
   "sector": "Government",
   "description": "10-year Treasury yield rose to about 5.135%, pressuring gold prices.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "chinacentralbank": {
   "name": "China central bank",
   "sector": "Government",
   "description": "Added about 740,000 ounces of gold in September, its biggest month in roughly three years.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "fed": {
   "name": "Fed",
   "sector": "Government",
   "description": "US Federal Reserve; rate-hike odds for October 28 dropped, supporting Bitcoin.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "usspotbitcoinetfs": {
   "name": "US spot Bitcoin ETFs",
   "sector": "Crypto",
   "description": "Recorded about $228 million of net withdrawals in the five sessions through October 16.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "ibit": {
   "name": "IBIT",
   "sector": "Crypto",
   "description": "BlackRock's spot Bitcoin ETF; subject of a new downside-protection filing.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "noahdoe": {
   "name": "Noah Doe",
   "sector": "Legal",
   "description": "Pseudonymous plaintiff in a New York lawsuit seeking ownership of dormant Bitcoin wallets.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "newyork": {
   "name": "New York",
   "sector": "Government",
   "description": "Venue for a lawsuit seeking ownership of 39,069 dormant Bitcoin wallets as abandoned property.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "trump": {
   "name": "Trump",
   "sector": "Government",
   "description": "US president who announced farm fuel relief and commented on French riots.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "truthsocial": {
   "name": "Truth Social",
   "sector": "Social media",
   "description": "Platform where Trump wrote that France must close its borders fast.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "usmidterms": {
   "name": "US midterms",
   "sector": "Government",
   "description": "November 3 elections where the economy matters to 82% of voters per Pew.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "france": {
   "name": "France",
   "sector": "Government",
   "description": "Country hit by weeks of protests over fuel costs, schools, public services and housing.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "italy": {
   "name": "Italy",
   "sector": "Government",
   "description": "Country where inflation rose to 4.2% in September amid protests over living costs.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "spain": {
   "name": "Spain",
   "sector": "Government",
   "description": "Country facing a November snap election after failed affordable housing measures.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "portugal": {
   "name": "Portugal",
   "sector": "Government",
   "description": "Country hit by weeks of protests over living costs and housing.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "albania": {
   "name": "Albania",
   "sector": "Government",
   "description": "Country hit by weeks of protests over living costs and housing.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "paris": {
   "name": "Paris",
   "sector": "Government",
   "description": "City where looting occurred and police imposed an overnight curfew in two areas.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "marseille": {
   "name": "Marseille",
   "sector": "Government",
   "description": "French city where looting occurred during protests.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "lyon": {
   "name": "Lyon",
   "sector": "Government",
   "description": "French city where looting occurred during protests.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "bordeaux": {
   "name": "Bordeaux",
   "sector": "Government",
   "description": "French city where looting occurred during protests.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "lille": {
   "name": "Lille",
   "sector": "Government",
   "description": "French city that imposed curfews for minors after protests.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "nice": {
   "name": "Nice",
   "sector": "Government",
   "description": "French city that imposed curfews for minors after protests.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "colombia": {
   "name": "Colombia",
   "sector": "Government",
   "description": "Country where an unlicensed gold mine collapse killed at least 14 miners.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "santabarbaradeiscuande": {
   "name": "Santa Barbara de Iscuande",
   "sector": "Government",
   "description": "Colombian town near the unlicensed gold mine that collapsed Monday.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "fostasesta": {
   "name": "FOSTA-SESTA",
   "sector": "Government",
   "description": "2018 US law that led many sites to censor adult content, per creator Jiz Lee.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "vanniall": {
   "name": "Vanniall",
   "sector": "Creator platform",
   "description": "OnlyFans creator whose Instagram with over 100,000 followers is restricted.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "jizlee": {
   "name": "Jiz Lee",
   "sector": "Creator platform",
   "description": "Adult content creator who traces online censorship to FOSTA-SESTA.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "tracyclayton": {
   "name": "Tracy Clayton",
   "sector": "Social media",
   "description": "Meta spokesperson defending Muse's private adult chats versus social media promotion.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "muse": {
   "name": "Muse",
   "sector": "AI",
   "description": "Meta's AI agent that generates explicit text in private chats with adult users.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "gpt61sol": {
   "name": "GPT-6.1 Sol",
   "sector": "AI",
   "description": "OpenAI model reaching 86.6% accuracy on the COBOL migration evaluation at low reasoning effort.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "gpt56sol": {
   "name": "GPT-5.6 Sol",
   "sector": "AI",
   "description": "Earlier OpenAI model that scored 26.8% on MultiLangBench and 5.4% on COBOL migration.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "multilangbench": {
   "name": "MultiLangBench",
   "sector": "AI",
   "description": "Evaluation benchmark for coding in low-resource languages, released on GitHub by OpenAI.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "cobol": {
   "name": "COBOL",
   "sector": "Software",
   "description": "Legacy programming language supporting over 40% of online banking systems.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "fortran": {
   "name": "Fortran",
   "sector": "Software",
   "description": "Legacy programming language used in weather forecasting and nuclear reactor safety analysis.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "visualbasic": {
   "name": "Visual Basic",
   "sector": "Software",
   "description": "Legacy programming language with less training data, targeted by OpenAI's coding models.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "github": {
   "name": "GitHub",
   "sector": "Software",
   "description": "Code hosting platform where OpenAI released the MultiLangBench evaluation setup and test suite.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "chatgptenterprise": {
   "name": "ChatGPT Enterprise",
   "sector": "AI",
   "description": "OpenAI's enterprise chatbot product used in Sullivan & Cromwell's Agreement Analyzer.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "deepseekharness": {
   "name": "DeepSeek Harness",
   "sector": "AI",
   "description": "DeepSeek's tool-calling product; free until per-request billing starts November 1, 2026.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "deepseekv41flash1017": {
   "name": "DeepSeek-V4.1-Flash-1017",
   "sector": "AI",
   "description": "DeepSeek's upgraded Flash model serving retired model names at Flash pricing.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "commerceshield": {
   "name": "CommerceShield",
   "sector": "Logistics",
   "description": "UPS Capital tool running language models on shipping data to predict delivery success.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "upscapital": {
   "name": "UPS Capital",
   "sector": "Logistics",
   "description": "UPS's financial and insurance arm; launched CommerceShield delivery-risk scoring.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "atlas": {
   "name": "Atlas",
   "sector": "AI",
   "description": "Amazon's in-house AI tool scoring warehouses from 100 to 900 on union risk.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "agreementanalyzer": {
   "name": "Agreement Analyzer",
   "sector": "Legal tech",
   "description": "Sullivan & Cromwell tool reviewing draft agreements against precedents and client priorities.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "anthropicpublicbenefitfund": {
   "name": "Anthropic Public Benefit Fund",
   "sector": "Philanthropy",
   "description": "Wholly-owned LLC receiving 5% of Anthropic shares for public benefit giving.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "eatinbyminutes": {
   "name": "Eat-in by Minutes",
   "sector": "Food delivery",
   "description": "Flipkart's food delivery pilot expanded to over 8,000 employees in Bengaluru.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "native": {
   "name": "Native",
   "sector": "Consumer goods",
   "description": "Urban Company's brand selling water purifiers and smart locks, exploring air conditioners.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "cats": {
   "name": "CATS",
   "sector": "Defence aerospace",
   "description": "HAL's combat air teaming system lineup to be displayed at Aero India 2027.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "warriorphaseii": {
   "name": "Warrior Phase-II",
   "sector": "Defence aerospace",
   "description": "HAL's larger, stealthier drone planned for display at Aero India 2027.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "lightutilityhelicopters": {
   "name": "Light Utility Helicopters",
   "sector": "Defence aerospace",
   "description": "HAL helicopters with first 12 deliveries planned for FY 2027-28 to the Army and Air Force.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "sukhoienginedivision": {
   "name": "Sukhoi Engine Division",
   "sector": "Defence aerospace",
   "description": "HAL Nashik unit that tendered Rs 14.13 lakh to repair faulty Siemens electronics.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "aeroindia2027": {
   "name": "Aero India 2027",
   "sector": "Defence aerospace",
   "description": "Defence exhibition where HAL will display an expanded CATS lineup.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "smartworldandcommunication": {
   "name": "Smart World and Communication",
   "sector": "IT services",
   "description": "LTTS business sold to AMI Paradigm Solutions for Rs 452 crore, booked a Rs 165 crore gain.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "globalcapabilitycenter": {
   "name": "Global Capability Center",
   "sector": "IT services",
   "description": "Truist's AI-first Hyderabad centre built with Infosys, adding 1,000 employees.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "creaticity": {
   "name": "Creaticity",
   "sector": "Retail",
   "description": "Deepak Fertilisers' retail and real estate business.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "freedomcookingricebranoil": {
   "name": "Freedom Cooking Rice Bran Oil",
   "sector": "Consumer goods",
   "description": "Product whose health claims drew FSSAI notices to Flipkart and BigBasket.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "radissonbludelhi": {
   "name": "Radisson Blu Delhi",
   "sector": "Hospitality",
   "description": "Hotel operator that received an FSSAI notice over food safety violations.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "sagardaryani": {
   "name": "Sagar Daryani",
   "sector": "Food services",
   "description": "Restaurant body president cited on Flipkart's proposed 10% base commission.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "kaifees": {
   "name": "Kaifee S.",
   "sector": "E-commerce",
   "description": "Appointed Vice President – Human Resources at Flipkart to lead people strategy.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "williamdemchak": {
   "name": "William Demchak",
   "sector": "Banking",
   "description": "PNC CEO who warned agentic AI transacting in customer accounts is incredibly unsafe.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "johnsavva": {
   "name": "John Savva",
   "sector": "Legal services",
   "description": "Sullivan & Cromwell partner who built Agreement Analyzer as a proof of concept with Codex.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "amitchadha": {
   "name": "Amit Chadha",
   "sector": "IT services",
   "description": "LTTS CEO who said H2 will be better than H1 on order backlog and inflow.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "santoshkumarsarangi": {
   "name": "Santosh Kumar Sarangi",
   "sector": "Government",
   "description": "MNRE Secretary who said India's agrivoltaic capacity could exceed 5 GW in three to four years.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "sbastienlecornu": {
   "name": "Sébastien Lecornu",
   "sector": "Government",
   "description": "French Prime Minister who said no one was killed despite severe violence and property damage.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "amandeepkaur": {
   "name": "Amandeep Kaur",
   "sector": "Legal",
   "description": "Indian national, 30, among 28 green card holders charged with election fraud in California.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "kamleshshah": {
   "name": "Kamlesh Shah",
   "sector": "Legal",
   "description": "Indian national, 67, among 28 green card holders charged with election fraud in California.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "odisha": {
   "name": "Odisha",
   "sector": "Government",
   "description": "Indian state that ran its own agrivoltaic pilot project.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "maharashtra": {
   "name": "Maharashtra",
   "sector": "Government",
   "description": "Indian state that ran its own agrivoltaic pilot project.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "madhyapradesh": {
   "name": "Madhya Pradesh",
   "sector": "Government",
   "description": "Indian state that ran its own agrivoltaic pilot project.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "oilmarketingcompanies": {
   "name": "oil marketing companies",
   "sector": "Energy",
   "description": "Told by the government to cut sugar diversion for ethanol to zero for 2026/27.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "nifty50": {
   "name": "Nifty 50",
   "sector": "Markets",
   "description": "Indian benchmark index that gained 2.25% over the past week.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "fii": {
   "name": "FII",
   "sector": "Markets",
   "description": "Foreign institutional investors whose outflows pressured the rupee and markets.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "tesla": {
   "name": "Tesla",
   "sector": "Electric vehicles",
   "description": "Electric vehicle and energy company; earnings to test Musk's AI spending ambitions amid SpaceX merger talk.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "tataconsultancyservices": {
   "name": "Tata Consultancy Services",
@@ -6816,5 +6816,719 @@
   "description": "Meta-owned platform that reportedly blocked Lula's ads for 24 hours on October 9-10.",
   "first_added": "2026-10-20",
   "last_mentioned": "2026-10-20"
+ },
+ "paysend": {
+  "name": "Paysend",
+  "sector": "Fintech",
+  "description": "UK-based money transfer and payments company; limits AI tool access to top-performing staff.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "lloydsbankinggroup": {
+  "name": "Lloyds Banking Group",
+  "sector": "Banking",
+  "description": "UK bank; rolled out 40,000 Microsoft 365 Copilot licences to employees.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "world": {
+  "name": "World",
+  "sector": "Digital identity",
+  "description": "Company behind World ID, a proof-of-human identity system to counter deepfake and AI impersonation fraud.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "regionsfinancial": {
+  "name": "Regions Financial",
+  "sector": "Banking",
+  "description": "US regional bank; flagged higher cybersecurity costs and is rebuilding its deposit platform.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "deere": {
+  "name": "Deere",
+  "sector": "Machinery",
+  "description": "US maker of agricultural, construction and forestry equipment; a victim of AI-agent website hacks.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "sharkninja": {
+  "name": "SharkNinja",
+  "sector": "Consumer goods",
+  "description": "US maker of home appliances and cleaning products; a standalone support site was hacked.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "cummins": {
+  "name": "Cummins",
+  "sector": "Industrial engines",
+  "description": "US maker of engines, generators and power equipment; a victim of AI-agent website hacks.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "disney": {
+  "name": "Disney",
+  "sector": "Media",
+  "description": "US entertainment conglomerate; bidding for Character.AI technology and hiring its staff.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "characterai": {
+  "name": "Character.AI",
+  "sector": "AI",
+  "description": "US chatbot platform in bankruptcy; Disney is the first bidder for a licence to its technology.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "reflectionai": {
+  "name": "Reflection AI",
+  "sector": "AI",
+  "description": "US AI company that released open-weight models in October 2026.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "birlatyres": {
+  "name": "Birla Tyres",
+  "sector": "Tyres",
+  "description": "Indian tyre maker; Himadri plans a Rs 500 crore expansion.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "sicona": {
+  "name": "Sicona",
+  "sector": "Battery materials",
+  "description": "Battery technology company; raised $10.3 million and is an associate of Himadri.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "internationalbatterycompany": {
+  "name": "International Battery Company",
+  "sector": "Battery materials",
+  "description": "Battery maker associated with Himadri Speciality Chemical.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "pcbl": {
+  "name": "PCBL",
+  "sector": "Speciality chemicals",
+  "description": "Indian carbon black and speciality chemicals maker.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "honeywell": {
+  "name": "Honeywell",
+  "sector": "Aerospace",
+  "description": "US industrial and aerospace company supplying TPE331 engines for India's HTT-40 trainers.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "blocktowercapital": {
+  "name": "BlockTower Capital",
+  "sector": "Crypto",
+  "description": "US crypto investment firm whose founder accused Coinbase of losing about $25 million of its assets.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "baincapital": {
+  "name": "Bain Capital",
+  "sector": "Private equity",
+  "description": "US investment firm; a design partner for World ID banking use cases.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "vaneckfunds": {
+  "name": "VanEck Funds",
+  "sector": "Asset management",
+  "description": "US fund manager; a design partner for World ID banking use cases.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "panteracapital": {
+  "name": "Pantera Capital",
+  "sector": "Crypto",
+  "description": "US crypto investment firm; a design partner for World ID banking use cases.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "openexchange": {
+  "name": "OpenExchange",
+  "sector": "Financial technology",
+  "description": "Design partner for World ID banking and finance use cases.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "outtake": {
+  "name": "Outtake",
+  "sector": "Cybersecurity",
+  "description": "Design partner for World ID banking and finance use cases.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "terminalx": {
+  "name": "Terminal X",
+  "sector": "AI",
+  "description": "Builds Capital Memory systems that encode investment firms' judgment into AI agents.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "norforge": {
+  "name": "NorForge",
+  "sector": "Cybersecurity",
+  "description": "Security research firm that reported AI-agent hacking of over 100 company websites.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "cairn": {
+  "name": "Cairn",
+  "sector": "Cybersecurity",
+  "description": "Open-source platform used by a hacker to run AI agents against company websites.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "schlotzskys": {
+  "name": "Schlotzsky's",
+  "sector": "Restaurants",
+  "description": "US sandwich chain; a franchisee uses ChatGPT Work for pricing and operations.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "cinnabon": {
+  "name": "Cinnabon",
+  "sector": "Restaurants",
+  "description": "US bakery chain co-branded with Schlotzsky's at a franchisee using ChatGPT Work.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "yougov": {
+  "name": "YouGov",
+  "sector": "Market research",
+  "description": "UK polling and research firm; ran Meta's survey of small business owners in APAC.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "indiantexpreneursfederation": {
+  "name": "Indian Texpreneurs Federation",
+  "sector": "Textiles",
+  "description": "Indian industry body forecasting a 25% rise in monthly apparel exports in 2027.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "nrai": {
+  "name": "NRAI",
+  "sector": "Restaurants",
+  "description": "National Restaurant Association of India, an industry body for Indian restaurants.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "siconabatterytechnologies": {
+  "name": "Sicona Battery Technologies",
+  "sector": "Battery materials",
+  "description": "Not enough detail in today's digest.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "ericsson": {
+  "name": "Ericsson",
+  "sector": "Telecom equipment",
+  "description": "Swedish telecom network equipment maker.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "softbank": {
+  "name": "SoftBank",
+  "sector": "Investment",
+  "description": "Japanese technology investment group.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "certin": {
+  "name": "CERT-In",
+  "sector": "Cybersecurity",
+  "description": "India's national computer emergency response team; issued an advisory on AI agent threats.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "humantechnologyinstitute": {
+  "name": "Human Technology Institute",
+  "sector": "Research",
+  "description": "Australian institute warning about AI-driven workplace surveillance.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "minderoo": {
+  "name": "Minderoo",
+  "sector": "Philanthropy",
+  "description": "Australian philanthropic foundation that commissioned a poll on AI workplace monitoring.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "fairworkcommission": {
+  "name": "Fair Work Commission",
+  "sector": "Regulator",
+  "description": "Australian workplace tribunal proposed as the venue for AI monitoring complaints.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "aws": {
+  "name": "AWS",
+  "sector": "Cloud computing",
+  "description": "Amazon's cloud unit; launched the open-source TorchNeuron tool for its Trainium chips.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "trainium": {
+  "name": "Trainium",
+  "sector": "Semiconductors",
+  "description": "Amazon's in-house AI accelerator chip line, now on Trainium2 and Trainium3.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "pytorch": {
+  "name": "PyTorch",
+  "sector": "AI software",
+  "description": "Open-source machine learning framework used by most AI developers.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "cuda": {
+  "name": "CUDA",
+  "sector": "AI software",
+  "description": "Nvidia's software platform for running AI workloads on its chips.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "whisper": {
+  "name": "Whisper",
+  "sector": "AI",
+  "description": "OpenAI's speech recognition model, compared against Mistral's Voxtral 3.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "gemini": {
+  "name": "Gemini",
+  "sector": "AI",
+  "description": "Google's AI model family; its transcription model was compared with Voxtral 3.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "scribe": {
+  "name": "Scribe",
+  "sector": "AI",
+  "description": "Speech-to-text transcription model compared against Mistral's Voxtral 3.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "voxtral": {
+  "name": "Voxtral",
+  "sector": "AI",
+  "description": "Mistral's family of speech-to-text and text-to-speech models, now in version 3.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "chatgpt": {
+  "name": "ChatGPT",
+  "sector": "AI",
+  "description": "OpenAI's AI assistant; its Work version is used by a restaurant franchisee.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "himadri": {
+  "name": "Himadri",
+  "sector": "Speciality chemicals",
+  "description": "India's largest coal pitch maker, diversifying into tyres and battery materials.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "unionbank": {
+  "name": "Union Bank",
+  "sector": "Banking",
+  "description": "Indian public sector bank with a Rs 11.3 trillion loan book.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "jio": {
+  "name": "Jio",
+  "sector": "Telecom",
+  "description": "Reliance's telecom brand, India's largest mobile network by subscribers.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "airtel": {
+  "name": "Airtel",
+  "sector": "Telecom",
+  "description": "Bharti Airtel, Indian telecom operator with higher ARPU than Jio.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "pnb": {
+  "name": "PNB",
+  "sector": "Banking",
+  "description": "Punjab National Bank, an Indian public sector bank.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "fsnecommerce": {
+  "name": "FSN E-Commerce",
+  "sector": "Retail",
+  "description": "Indian beauty and fashion retailer, operator of Nykaa.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "instahelp": {
+  "name": "InstaHelp",
+  "sector": "Home services",
+  "description": "Urban Company's quick home tasks service, in a long investment phase.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "bigbilliondays": {
+  "name": "Big Billion Days",
+  "sector": "E-commerce",
+  "description": "Flipkart's annual festive sale event; daily active users hit a new high.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "torchneuron": {
+  "name": "TorchNeuron",
+  "sector": "AI software",
+  "description": "AWS open-source tool that runs PyTorch code on Trainium chips with one config change.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "trainium2": {
+  "name": "Trainium2",
+  "sector": "Semiconductors",
+  "description": "Amazon's second-generation AI accelerator chip.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "trainium3": {
+  "name": "Trainium3",
+  "sector": "Semiconductors",
+  "description": "Amazon's third-generation AI accelerator chip.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "voxtral3": {
+  "name": "Voxtral 3",
+  "sector": "AI",
+  "description": "Mistral's speech-to-text and text-to-speech model family with a voice agent SDK.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "voxtralsmalltranscribe3": {
+  "name": "Voxtral Small Transcribe 3",
+  "sector": "AI",
+  "description": "Mistral transcription model covering 50+ languages.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "voxtralminitts3": {
+  "name": "Voxtral Mini TTS 3",
+  "sector": "AI",
+  "description": "Mistral text-to-speech model speaking 35+ languages and 50+ dialects.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "provoice": {
+  "name": "Pro Voice",
+  "sector": "AI",
+  "description": "Mistral feature that clones a speaker's style from 30 minutes of audio.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "worldid": {
+  "name": "World ID",
+  "sector": "Digital identity",
+  "description": "World's proof-of-human identity system, now offered for banking and finance.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "worldidforagents": {
+  "name": "World ID for Agents",
+  "sector": "Digital identity",
+  "description": "World product to verify human presence in agent-driven transactions.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "worldidforzoom": {
+  "name": "World ID for Zoom",
+  "sector": "Digital identity",
+  "description": "World product to verify human presence in video calls.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "capitalmemory": {
+  "name": "Capital Memory",
+  "sector": "AI",
+  "description": "Terminal X system that encodes an investment firm's judgment into AI agents.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "evalagent": {
+  "name": "Eval Agent",
+  "sector": "AI",
+  "description": "Terminal X agent that scores investment judgments against a senior reviewer.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "htt40": {
+  "name": "HTT-40",
+  "sector": "Defence aerospace",
+  "description": "HAL's basic trainer aircraft; first three handed to the Indian Air Force.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "honeywelltpe33112b": {
+  "name": "Honeywell TPE331-12B",
+  "sector": "Aerospace",
+  "description": "Engine powering the HTT-40 trainer; deliveries delayed by supply chain issues.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "bharatnetphaseiii": {
+  "name": "BharatNet Phase III",
+  "sector": "Telecom infrastructure",
+  "description": "Third phase of India's rural optical fibre programme; Tejas won an IP router LoI.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "amendedbharatnetprogramme": {
+  "name": "Amended BharatNet Programme",
+  "sector": "Telecom infrastructure",
+  "description": "Indian programme upgrading gram panchayats with optical fibre connectivity.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "certinadvisory": {
+  "name": "CERT-In advisory",
+  "sector": "Cybersecurity",
+  "description": "Indian advisory flagging AI agent risks to IT infrastructure.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "dpdpact": {
+  "name": "DPDP Act",
+  "sector": "Regulation",
+  "description": "India's data protection law, enforced from 2027.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "itact2000": {
+  "name": "IT Act 2000",
+  "sector": "Regulation",
+  "description": "India's information technology law, with an accountability gap for autonomous agents.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "fairworkact": {
+  "name": "Fair Work Act",
+  "sector": "Regulation",
+  "description": "Australian workplace law proposed as a test for fair AI monitoring.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "microsoft365copilot": {
+  "name": "Microsoft 365 Copilot",
+  "sector": "AI",
+  "description": "Microsoft's workplace AI assistant, rolled out to 40,000 Lloyds employees.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "chatgptwork": {
+  "name": "ChatGPT Work",
+  "sector": "AI",
+  "description": "OpenAI's business version of ChatGPT, used for pricing and operations tasks.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "gpt61": {
+  "name": "GPT-6.1",
+  "sector": "AI",
+  "description": "OpenAI model used by Terminal X for investment judgment evaluation.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "gemini35transcribe": {
+  "name": "Gemini 3.5 Transcribe",
+  "sector": "AI",
+  "description": "Google transcription model compared against Mistral's Voxtral 3.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "scribev2": {
+  "name": "Scribe v2",
+  "sector": "AI",
+  "description": "Speech-to-text model compared against Mistral's Voxtral 3.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "deepseekr1": {
+  "name": "DeepSeek-R1",
+  "sector": "AI",
+  "description": "Chinese open-weight reasoning model intensifying global AI competition.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "starshield": {
+  "name": "Starshield",
+  "sector": "Space",
+  "description": "SpaceX's military satellite service; Musk reportedly capped speeds for Ukraine.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "jamnagarrefinery": {
+  "name": "Jamnagar refinery",
+  "sector": "Energy",
+  "description": "Reliance's 1.4 million barrel per day refinery, the world's largest single-site complex.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "greatnorth": {
+  "name": "Great North",
+  "sector": "Trade",
+  "description": "North of England trade delegation to India building investment and academic ties.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "itf": {
+  "name": "ITF",
+  "sector": "Textiles",
+  "description": "Indian Texpreneurs Federation, forecasting apparel export growth.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "kotak": {
+  "name": "Kotak",
+  "sector": "Banking",
+  "description": "Kotak Mahindra Bank's arm, projecting Eternal's Q2 FY27 revenue and EBITDA.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "motilaloswalfinancialservices": {
+  "name": "Motilal Oswal Financial Services",
+  "sector": "Financial services",
+  "description": "Indian brokerage issuing ratings and targets on Union Bank and Urban Company.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "emkayglobalfinancialservices": {
+  "name": "Emkay Global Financial Services",
+  "sector": "Financial services",
+  "description": "Indian brokerage that maintained a Buy rating on Urban Company.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "rediff": {
+  "name": "Rediff",
+  "sector": "Media",
+  "description": "Indian news and web portal publishing business reports.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "wirecable": {
+  "name": "Wirecable",
+  "sector": "Media",
+  "description": "Indian trade publication covering the wire and cable industry.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "thehindubusinessline": {
+  "name": "The Hindu BusinessLine",
+  "sector": "Media",
+  "description": "Indian business newspaper.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "hindustantimes": {
+  "name": "Hindustan Times",
+  "sector": "Media",
+  "description": "Indian newspaper.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "aljazeera": {
+  "name": "Al Jazeera",
+  "sector": "Media",
+  "description": "Qatar-based international news network.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "theguardian": {
+  "name": "The Guardian",
+  "sector": "Media",
+  "description": "UK newspaper.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "prnewswire": {
+  "name": "PR Newswire",
+  "sector": "Media",
+  "description": "Press release distribution service.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "bizinsider": {
+  "name": "BizInsider",
+  "sector": "Media",
+  "description": "Business news site.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "bankgenx": {
+  "name": "BankGenX",
+  "sector": "Media",
+  "description": "Banking technology news site.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "timesofindia": {
+  "name": "Times of India",
+  "sector": "Media",
+  "description": "Indian newspaper.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "openthemagazine": {
+  "name": "OpenTheMagazine",
+  "sector": "Media",
+  "description": "Indian news magazine.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "niftytrader": {
+  "name": "NiftyTrader",
+  "sector": "Financial data",
+  "description": "Indian markets data site.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "mezha": {
+  "name": "Mezha",
+  "sector": "Media",
+  "description": "Ukrainian technology news site.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "mitrade": {
+  "name": "Mitrade",
+  "sector": "Financial services",
+  "description": "Online trading platform publishing market commentary.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "moodys": {
+  "name": "Moody's",
+  "sector": "Ratings",
+  "description": "Credit ratings and research agency.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "sec": {
+  "name": "SEC",
+  "sector": "Regulator",
+  "description": "US Securities and Exchange Commission.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
  }
 }
