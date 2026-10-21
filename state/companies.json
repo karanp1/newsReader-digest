@@ -774,7 +774,7 @@
   "sector": "Microfinance",
   "description": "Microfinance lender; Q2 AUM jumped 19.5% to Rs 30,946 crore.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-21"
  },
  "jeevansathi": {
   "name": "Jeevansathi",
@@ -1026,7 +1026,7 @@
   "sector": "Pharmaceuticals",
   "description": "Drugmaker; its Andhra Pradesh plant received two U.S. FDA observations.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-21"
  },
  "paramount": {
   "name": "Paramount",
@@ -1222,7 +1222,7 @@
   "sector": "IT services",
   "description": "IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-21"
  },
  "infosys": {
   "name": "Infosys",
@@ -1236,14 +1236,14 @@
   "sector": "IT services",
   "description": "IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-21"
  },
  "capgemini": {
   "name": "Capgemini",
   "sector": "IT services",
   "description": "French IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-21"
  },
  "microsoft": {
   "name": "Microsoft",
@@ -1257,7 +1257,7 @@
   "sector": "Software",
   "description": "US software company; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-21"
  },
  "nestlehealthscience": {
   "name": "Nestle Health Science",
@@ -1985,7 +1985,7 @@
   "sector": "Sovereign wealth",
   "description": "Existing Jio Platforms investor holding its stake through the IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-21"
  },
  "tpg": {
   "name": "TPG",
@@ -2076,7 +2076,7 @@
   "sector": "Automotive",
   "description": "Carmaker whose October 2024 IPO was India's largest before Jio Platforms' offering.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-21"
  },
  "dolatcapital": {
   "name": "Dolat Capital",
@@ -7556,6 +7556,34 @@
   "name": "NATO",
   "sector": "Defence alliance",
   "description": "Military alliance deploying planes, drones and radars to the Black Sea after attacks on ships.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "renault": {
+  "name": "Renault",
+  "sector": "Automobiles",
+  "description": "French carmaker; launched the Duster Strong Hybrid E-Tech 160 SUV in India from Rs 16.99 lakh.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "adura": {
+  "name": "Adura",
+  "sector": "Oil and gas",
+  "description": "Operator of the Jackdaw gas field in the North Sea, approved for drilling by the UK government.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "indiacements": {
+  "name": "India Cements",
+  "sector": "Cement",
+  "description": "Chennai-based cement maker with about 14.45 million tonnes capacity, mainly South India; also owns Chennai Super Kings.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "zenatarisrenewableenergy": {
+  "name": "Zenataris Renewable Energy",
+  "sector": "Renewable energy",
+  "description": "Renewable energy company in which India Cements agreed to acquire a 3.62% stake.",
   "first_added": "2026-10-21",
   "last_mentioned": "2026-10-21"
  }
