@@ -4,7 +4,7 @@
   "sector": "Fintech",
   "description": "Online investment platform offering stock trading, mutual funds, bonds and wealth advisory services to retail investors in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "fisdom": {
   "name": "Fisdom",
@@ -193,7 +193,7 @@
   "sector": "Retail",
   "description": "US retail giant and majority owner of Flipkart; facing pressure over employee stock option liquidity.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "myntra": {
   "name": "Myntra",
@@ -207,7 +207,7 @@
   "sector": "Venture capital",
   "description": "Global venture capital firm and early Flipkart investor that has exited with large returns.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "tigerglobal": {
   "name": "Tiger Global",
@@ -235,7 +235,7 @@
   "sector": "Oil refining",
   "description": "India's largest state-owned oil refining and marketing company.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "bpcl": {
   "name": "BPCL",
@@ -522,7 +522,7 @@
   "sector": "Insurance",
   "description": "Indian general insurance company offering motor, health and travel policies digitally.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "syrmasgs": {
   "name": "Syrma SGS",
@@ -578,7 +578,7 @@
   "sector": "Crypto treasury",
   "description": "Sold 10,000 BTC and rebought 11,000, ending with 44,000 BTC on its balance sheet.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "firstsourcesolutions": {
   "name": "Firstsource Solutions",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -648,7 +648,7 @@
   "sector": "Semiconductors",
   "description": "Partnered with Tejas Networks to demonstrate pre-standard 6G ISAC technology.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "nokia": {
   "name": "Nokia",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -837,7 +837,7 @@
   "sector": "E-commerce",
   "description": "Indian e-commerce marketplace; cofounder Vidit Aatrey spoke at the ET Startup Awards.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "pixxel": {
   "name": "Pixxel",
@@ -865,7 +865,7 @@
   "sector": "IT services",
   "description": "Indian IT services company; chairman Rishad Premji led the ET Startup Awards jury.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "porsche": {
   "name": "Porsche",
@@ -1068,7 +1068,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its FBTC bitcoin ETF saw $105.2 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "arkhamintelligence": {
   "name": "Arkham Intelligence",
@@ -1229,7 +1229,7 @@
   "sector": "IT services",
   "description": "Indian IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "hcl": {
   "name": "HCL",
@@ -1299,7 +1299,7 @@
   "sector": "Fintech",
   "description": "Payments and crypto company; shares fell over 2% in the crypto selloff.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "riotplatforms": {
   "name": "Riot Platforms",
@@ -1355,14 +1355,14 @@
   "sector": "Banking",
   "description": "Private bank; offered credit card discounts on MacBook Neo during Flipkart sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "hdfcbank": {
   "name": "HDFC Bank",
   "sector": "Banking",
   "description": "Private bank; offered debit card discounts on MacBook Neo during Flipkart sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "inoxwind": {
   "name": "Inox Wind",
@@ -1425,7 +1425,7 @@
   "sector": "Brokerage",
   "description": "Brokerage; upgraded Info Edge to Buy with a Rs 1,400 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-21"
  },
  "jpmorgan": {
   "name": "JPMorgan",
@@ -1649,7 +1649,7 @@
   "sector": "Venture capital",
   "description": "Venture fund that co-led medtech startup Sunfox Technologies' Series A.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "qpiai": {
   "name": "QpiAI",
@@ -1817,7 +1817,7 @@
   "sector": "Venture capital",
   "description": "Fund that secured Rs 450 crore in the first close of its second fund.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "phonepe": {
   "name": "PhonePe",
@@ -1915,7 +1915,7 @@
   "sector": "Financial services",
   "description": "Investment bank appointed for Jio Platforms' IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "axiscapital": {
   "name": "Axis Capital",
@@ -2412,7 +2412,7 @@
   "sector": "Manufacturing",
   "description": "Contract manufacturing platform; among companies tapping India's primary market in October.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "avaadaelectro": {
   "name": "Avaada Electro",
@@ -2587,7 +2587,7 @@
   "sector": "IT services",
   "description": "Indian IT services firm; cited as a peer for Persistent Systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "honeywellauto": {
   "name": "Honeywell Auto",
@@ -2867,7 +2867,7 @@
   "sector": "Steel",
   "description": "Integrated steelmaker in Gorakhpur and Kutch; shares jumped 16% on a 244x volume spike with no fundamental trigger.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "newindiaassurance": {
   "name": "New India Assurance",
@@ -3105,7 +3105,7 @@
   "sector": "Chemicals",
   "description": "Specialty chemicals and packaging films maker; cited as a valuation peer for Tata Chemicals.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "gujaratalkalies": {
   "name": "Gujarat Alkalies",
@@ -3126,7 +3126,7 @@
   "sector": "Defence electronics",
   "description": "State-run defence electronics maker; among the Sensex gainers on Monday.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "mahindraandmahindra": {
   "name": "Mahindra and Mahindra",
@@ -3154,7 +3154,7 @@
   "sector": "Banking",
   "description": "Private sector bank; among the Sensex laggards on Monday.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "karnatakaplantersassociation": {
   "name": "Karnataka Planters' Association",
@@ -3210,7 +3210,7 @@
   "sector": "Manufacturing",
   "description": "Manufacturing and supply chain platform; raised its IPO fresh issue to Rs 2,830 crore.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-21"
  },
  "olxindia": {
   "name": "OLX India",
@@ -3315,14 +3315,14 @@
   "sector": "Engineering services",
   "description": "L&T Technology Services; bets on manufacturing AI, targeting 80% revenue from six areas.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "siemens": {
   "name": "Siemens",
   "sector": "Industrial technology",
   "description": "Industrial technology firm; technology partner for LTTS's Bengaluru manufacturing AI lab.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "elaracapital": {
   "name": "Elara Capital",
@@ -3616,7 +3616,7 @@
   "sector": "Optical fibre",
   "description": "India's largest optical fibre and cable maker, also selling power transmission cables.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "aegislogistics": {
   "name": "Aegis Logistics",
@@ -3630,7 +3630,7 @@
   "sector": "Wires and cables",
   "description": "Makes wires, cables and FMEG products for residential, industrial and infrastructure customers.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "aetherindustries": {
   "name": "Aether Industries",
@@ -3658,21 +3658,21 @@
   "sector": "Education",
   "description": "Bengaluru school offering startup leadership programmes; raised Rs 110 crore.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "dharanacapital": {
   "name": "Dharana Capital",
   "sector": "Venture capital",
   "description": "Co-led Mesa School of Business's Rs 85 crore equity round.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "elevationcapital": {
   "name": "Elevation Capital",
   "sector": "Venture capital",
   "description": "Co-led Mesa School of Business's Rs 85 crore equity round.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "alteriacapital": {
   "name": "Alteria Capital",
@@ -3686,7 +3686,7 @@
   "sector": "Gaming",
   "description": "Indian gaming company; founder Nitish Mittersain stepped down as MD.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "insta360": {
   "name": "Insta360",
@@ -5926,21 +5926,21 @@
   "sector": "Edtech",
   "description": "Bankrupt parent of Byju's; used a Great Learning loan repayment to fund Aakash's rights issue.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "greatlearning": {
   "name": "Great Learning",
   "sector": "Edtech",
   "description": "Upskilling company once part of Byju's; repaid a Rs 160 crore unsecured loan to Think & Learn.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "aakasheducationalservices": {
   "name": "Aakash Educational Services",
   "sector": "Test prep",
   "description": "Indian coaching and test-prep chain; raised a rights issue subscribed by its Byju's-linked parent.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "amiparadigmsolutions": {
   "name": "AMI Paradigm Solutions",
@@ -5954,28 +5954,28 @@
   "sector": "Healthcare",
   "description": "Bengaluru-based managed care provider; raised $50 million led by Khosla Ventures.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "khoslaventures": {
   "name": "Khosla Ventures",
   "sector": "Venture capital",
   "description": "US venture firm; led Even Healthcare's $50 million funding round.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "alphawave": {
   "name": "Alpha Wave",
   "sector": "Venture capital",
   "description": "Investment firm that participated in Even Healthcare's $50 million round.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "truist": {
   "name": "Truist",
   "sector": "Banking",
   "description": "US financial services company building an AI-first Global Capability Center in Hyderabad with Infosys.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-21"
  },
  "ultratechcement": {
   "name": "UltraTech Cement",
@@ -7528,6 +7528,34 @@
   "name": "SEC",
   "sector": "Regulator",
   "description": "US Securities and Exchange Commission.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "netflix": {
+  "name": "Netflix",
+  "sector": "Streaming",
+  "description": "US streaming service; posted record India subscriber growth in Q3 2026 helped by a Flipkart bundle.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "cibc": {
+  "name": "CIBC",
+  "sector": "Banking",
+  "description": "Canadian bank; cut its Q4 gold forecast to $4,500 an ounce.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "iea": {
+  "name": "IEA",
+  "sector": "Energy",
+  "description": "International Energy Agency; its chief sees little chance of oil market normalisation in 2027.",
+  "first_added": "2026-10-21",
+  "last_mentioned": "2026-10-21"
+ },
+ "nato": {
+  "name": "NATO",
+  "sector": "Defence alliance",
+  "description": "Military alliance deploying planes, drones and radars to the Black Sea after attacks on ships.",
   "first_added": "2026-10-21",
   "last_mentioned": "2026-10-21"
  }

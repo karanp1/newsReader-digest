@@ -3,8 +3,8 @@ METRICS
 Nifty PE Ratio | 19.33 | 19 Oct 2026 | https://nifty-pe-ratio.com/
 Gold rate, Bengaluru (per 10 g) | 24K ₹1,46,070, 22K ₹1,33,900 | 21 Oct 2026 | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 22,888.95 (+0.73%) | 19 Oct 2026, 03:31 PM IST | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹78,54,120 (+1.4% 24h) | 21 Oct 2026 | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $82,909 (+1.7% 24h) | 21 Oct 2026 | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹78,34,006 (+0.8% 24h) | 21 Oct 2026 | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $82,705 (+1.1% 24h) | 21 Oct 2026 | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -12,12 +12,12 @@ SOURCE 6: Watchlist (headlines + summary)
 [Jio Platforms]
 
 - ~
-  20 Oct 2026 | https://kfgo.com/2026/10/20/indias-jio-ipo-opens-for-public-bids-in-record-3-2-billion-sale/
-  • Public bidding opened on 21 October for Jio Platforms' ₹30,213 crore IPO, India's largest share sale, with a price band of ₹1,065 to ₹1,119 per share. ¶ • Anchor investors were allotted 7.24 crore shares at ₹1,119 each, raising ₹8,109.85 crore, with LIC receiving the largest allocation at ₹499.98 crore. ¶ • The IPO values Jio Platforms at up to $108.3 billion, with trading scheduled to start on 28 October and about one-third of shares reserved for retail investors. ¶ • Jio Platforms earned about $3.2 billion in profit on $15.5 billion revenue in the year to March, with telecom contributing around 90% of both figures. ¶ • Jio's monthly average revenue per user was ₹215.6 versus Bharti Airtel's ₹263.9 in the June 2026 quarter, while its Ebitda margin of 50-53% trails Airtel's 56-57%. ¶ ↗ kfgo.com|https://kfgo.com/2026/10/20/indias-jio-ipo-opens-for-public-bids-in-record-3-2-billion-sale/ ;; ua.news|https://ua.news/en/money/v-indiyi-vidkrili-priiom-zaiavok-na-ipo-jio-platforms-na-3-2-mlrd-channel-newsasia ;; m.economictimes.com|https://m.economictimes.com/markets/ipos/fpos/can-jio-platforms-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/135078638.cms ;; tradingview.com|https://www.tradingview.com/news/moodys:0f89fbc5b45a8:0-jio-platforms-ipo-draws-lic-s-rs-500-cr-anchor-investment/
+  21 Oct 2026 | https://ua.news/en/money/v-indiyi-vidkrili-priiom-zaiavok-na-ipo-jio-platforms-na-3-2-mlrd-channel-newsasia
+  • Jio Platforms opened its $3.2 billion IPO on October 21, India's largest share sale, with a price band of 1,065–1,119 rupees per share. ¶ • The issue raised ₹8,109.85 crore from anchor investors at ₹1,119 a share, with LIC taking the largest allocation at ₹499.98 crore. ¶ • Anchor demand exceeded $25 billion for the reserved portion, and the IPO values Jio at up to $108.3 billion at the upper band, with trading due October 28. ¶ • Jio's monthly ARPU was ₹215.6 versus Bharti Airtel's ₹263.9 in the June 2026 quarter, and its EBITDA margin of 50–53% trails Airtel's 56–57%. ¶ • The IPO prices Jio at a P/E of 34.3 on FY26 earnings against Bharti Airtel's 43.8, and the offer is a fresh issue with proceeds mainly for debt reduction. ¶ ↗ ua.news|https://ua.news/en/money/v-indiyi-vidkrili-priiom-zaiavok-na-ipo-jio-platforms-na-3-2-mlrd-channel-newsasia ;; m.economictimes.com|https://m.economictimes.com/markets/ipos/fpos/can-jio-platforms-ipo-deliver-long-term-growth-for-high-risk-investors/articleshow/135078638.cms ;; tradingview.com|https://www.tradingview.com/news/moodys:0f89fbc5b45a8:0-jio-platforms-ipo-draws-lic-s-rs-500-cr-anchor-investment/ ;; tradingview.com|https://www.tradingview.com/news/cnbctv:c7b634276094b:0/
 
-- Outlook: Neutral
+- Outlook: Bullish
   2026-10-21 |
-  §VIEW§{"stance": "neutral", "text": "Strong anchor demand and valuation comfort versus Bharti Airtel support the issue, but Jio's lower ARPU and Ebitda margin than Airtel split the case. The IPO prices at 34.3 times FY26 earnings."}
+  §VIEW§{"stance": "bullish", "text": "Anchor demand above $25 billion and a P/E of 34.3 versus Airtel's 43.8 support the pricing. Weaker ARPU and EBITDA margin than Airtel are the offset."}
 
 [Reliance Intelligence]
 
@@ -35,31 +35,31 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   20 Oct 2026 | https://www.tradingview.com/news/moodys:186fc777824c7:0-flipkart-elevates-kaifee-s-to-hr-vice-president/
-  • Flipkart's daily active users hit a new high on day one of its Big Billion Days sale, with new customers up 34% and non-metros about 60% of demand, per a BofA report. ¶ • Flipkart expanded its Eat-in by Minutes food delivery pilot to over 8,000 employees, using a dedicated Ekart fleet separate from Flipkart Minutes riders. ¶ • Flipkart is preparing to challenge Zomato and Swiggy in food delivery, a market Bernstein estimates is growing 18% to 20% annually. ¶ • Super.money reported about ₹292 crore operating revenue in FY26 and a ₹264 crore loss, with its loan marketplace contributing ₹248 crore, nearly 85% of revenue. ¶ • Cleartrip's FY26 operating revenue rose 20.8% while net loss widened 28.1%, with cashbacks and discounts up 47.5% to ₹897.5 crore. ¶ ↗ economictimes.indiatimes.com|https://economictimes.indiatimes.com/tech/technology/festive-ecommerce-season-off-to-strong-start-flipkart-daus-hit-new-high-bofa-report/articleshow/135071770.cms ;; openthemagazine.com|https://openthemagazine.com/business/flights-payments-losses-the-flipkart-family-package ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/technology/tech-news/flipkart-may-be-planning-to-challenge-zomato-and-swiggy-with-enter-food-delivery-business/articleshow/135066372.cms ;; entrackr.com|https://entrackr.com/news/flipkart-expands-eat-in-pilot-to-over-8000-employees-12691236
+  • Flipkart's daily active users hit a new high on the first day of its Big Billion Days sale, with new customers up 34% and about 60% of demand from non-metros, per a BofA report. ¶ • Flipkart plans to roll out its food delivery service, Eat-in by Minutes, to the general public by October-end, expanding from an internal Bengaluru pilot of more than 8,000 employees to six cities by 2026-end. ¶ • Netflix India posted its highest-ever subscriber growth in Q3 2026, with India revenue up 18% and viewing hours up 24% YoY, helped by its Flipkart loyalty bundle partnership. ¶ • Flipkart elevated Kaifee S. to Vice President – Human Resources effective October 2026; Kaifee joined in September 2017 and was Senior Director – HR since October 2024. ¶ • Cleartrip's FY26 operating revenue rose 20.8% while net loss widened 28.1% and cashbacks and discounts rose 47.5% to ₹897.5 crore; super.money lost ₹264 crore on ₹292 crore operating revenue. ¶ ↗ economictimes.indiatimes.com|https://economictimes.indiatimes.com/tech/technology/festive-ecommerce-season-off-to-strong-start-flipkart-daus-hit-new-high-bofa-report/articleshow/135071770.cms ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/technology/tech-news/flipkart-may-be-planning-to-challenge-zomato-and-swiggy-with-enter-food-delivery-business/articleshow/135066372.cms ;; inc42.com|https://inc42.com/buzz/apples-fy26-snapshot-flipkarts-foodtech-foray-more/ ;; moneycontrol.com|https://www.moneycontrol.com/technology/netflix-registers-record-subscriber-additions-in-india-in-q3-on-strong-content-slate-flipkart-bundle-article-14056231.html
 
 - Outlook: Neutral
   2026-10-21 |
-  §VIEW§{"stance": "neutral", "text": "Festive demand is strong, with Flipkart DAUs at a new high and new customers up 34%. But food delivery entry and widening losses at Super.money and Cleartrip keep spending high, splitting the picture."}
+  §VIEW§{"stance": "neutral", "text": "Festive demand is strong: Flipkart DAUs hit a new high, new customers rose 34% and the Netflix bundle drove record India signups. Offsetting this, Cleartrip and super.money losses widened and the food delivery push adds spend."}
 
 [Zomato]
 
 - ~
   20 Oct 2026 | https://timesofindia.indiatimes.com/technology/tech-news/flipkart-may-be-planning-to-challenge-zomato-and-swiggy-with-enter-food-delivery-business/articleshow/135066372.cms
-  • Flipkart is piloting food delivery internally with over 8,000 employees and plans a public launch by end-October, expanding to five or six cities by year-end. ¶ • Flipkart has proposed a base commission of about 10% to restaurants, versus the 20% to 25% typically paid to Zomato and Swiggy, per NRAI president Sagar Daryani. ¶ • Bernstein estimates new entrants could save customers only ₹20 to ₹30 per order, possibly too little to pull users from Zomato and Swiggy. ¶ • Eternal, Zomato's parent, reports Q2 FY27 results on October 21; Kotak expects revenue of ₹23,729.3 crore and EBITDA of ₹854.2 crore. ¶ • HDFC Securities projects Zomato food-delivery NOV growth of 20% year-on-year and adjusted revenue of ₹3,490 crore, up 22% year-on-year. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/technology/tech-news/flipkart-may-be-planning-to-challenge-zomato-and-swiggy-with-enter-food-delivery-business/articleshow/135066372.cms ;; mezha.net|https://mezha.net/eng/news/mezha-2bd238535e48e95d389fe241_flipkart_is_testing/ ;; niftytrader.in|https://www.niftytrader.in/markets/eternal-q2-fy27-results-on-oct-21/
+  • Eternal, Zomato's parent, reports Q2 FY27 results on October 21, 2026, with Kotak Institutional Equities estimating consolidated revenue of ₹23,729.3 crore and PAT of ₹293.2 crore, up 351.1% year-on-year. ¶ • Flipkart is piloting food delivery internally, expanding its team to more than 8,000 employees and branding trial orders 'Eat-in by Minutes' in Bengaluru, per a TechCrunch report. ¶ • HDFC Securities expects Blinkit's net order value to grow 75% year-on-year and 19% quarter-on-quarter, with about 2,693 dark stores by quarter end, roughly 250 additions in Q2. ¶ • Zomato's food delivery net order value is projected to rise 20% year-on-year, with adjusted revenue of ₹3,490 crore, up 22% year-on-year, according to HDFC Securities. ¶ • Bernstein estimates India's food delivery market is growing 18% to 20% annually, with digital ordering just over 15% of the total food-services market. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/technology/tech-news/flipkart-may-be-planning-to-challenge-zomato-and-swiggy-with-enter-food-delivery-business/articleshow/135066372.cms ;; niftytrader.in|https://www.niftytrader.in/markets/eternal-q2-fy27-results-on-oct-21/
 
 - Outlook: Neutral
   2026-10-21 |
-  §VIEW§{"stance": "neutral", "text": "Flipkart's entry with ~10% commissions threatens Zomato's take rate, but Bernstein sees only Rs 20-30 per order savings for customers. Q2 estimates show steady 20% food-delivery NOV growth, so the threat is real but unproven."}
+  §VIEW§{"stance": "neutral", "text": "Eternal's Q2 estimates show strong profit growth and Blinkit expansion, but Flipkart's pilot adds a deep-pocketed rival."}
 
 [HAL]
 
 - ~
   20 Oct 2026 | https://sg.finance.yahoo.com/news/ge-aerospace-beats-estimates-raises-112234074.html
-  • HAL handed over the first three HTT-40 basic trainer aircraft to the Indian Air Force, though full training operations may take up to two years. ¶ • The IAF ordered 70 HTT-40 trainers for ₹6,838 crore three years ago, and will need a fleet of 25-30 aircraft before rookie pilot training begins. ¶ • Honeywell TPE331-12B engine deliveries were delayed by supply chain bottlenecks, and HAL can build 20 HTT-40s a year if supplies stabilise. ¶ • Under a $100 million contract, Honeywell will supply 16 of 88 engines directly while HAL manufactures the rest under a technology transfer agreement. ¶ • The HTT-40 currently has 56% local content, which will rise above 60% through further indigenisation of components and sub-systems. ¶ ↗ hindustantimes.com|https://www.hindustantimes.com/india-news/htt40-india-iaf-hindustan-aeronautics-limited-delivery-training-pilots-101792547232649-amp.html
+  • HAL handed over the first three HTT-40 basic trainer aircraft to the Indian Air Force, but full training operations may take up to two years. ¶ • The IAF ordered 70 HTT-40 trainers for ₹6,838 crore three years ago; deliveries depend on Honeywell TPE331-12B engines. ¶ • Honeywell will supply 16 engines directly under a $100 million contract for 88 engines and kits, with HAL making the rest via technology transfer. ¶ • If engine supplies stabilise, HAL can produce 20 HTT-40s a year at its Bengaluru and Nashik factories. ¶ • The HTT-40 currently has 56% local content, which will rise above 60% through further indigenisation of components and sub-systems. ¶ ↗ hindustantimes.com|https://www.hindustantimes.com/india-news/htt40-india-iaf-hindustan-aeronautics-limited-delivery-training-pilots-101792547232649.html
 
 - Outlook: Neutral
   2026-10-21 |
-  §VIEW§{"stance": "neutral", "text": "The first HTT-40 deliveries and a Rs 6,838 crore order support HAL's trainer franchise, but full operations may take two years and engine supply delays cap near-term output. Execution timing splits the read."}
+  §VIEW§{"stance": "neutral", "text": "The HTT-40 handover is a milestone, but full training use is up to two years away and depends on Honeywell engine supplies. That split keeps the near-term news flow neutral."}
 
 [Tejas Networks]
 
@@ -88,30 +88,22 @@ SOURCE 6: Watchlist (headlines + summary)
 [Bitcoin]
 
 - ~
-  21 Oct 2026 | https://finance.yahoo.com/markets/crypto/articles/jim-cramer-prefers-gold-bitcoin-011941894.html
-  • JPMorgan Asset Management issued its first long-term bitcoin forecast, projecting 10% compounded annual returns over 10 to 15 years, above its 7.5% estimate for U.S. large-cap stocks and 5.5% for gold. ¶ • JPMorgan assigned bitcoin 55% annualized volatility, roughly three times its 18% assumption for U.S. large-cap equities, and called unstable correlations an obstacle to portfolio inclusion. ¶ • Bitcoin traded at $81,257.31 at 8:15 a.m. Eastern on October 20, down $1,183.42 from the prior morning and about $29,316 from a year earlier. ¶ • BlackRock's spot bitcoin ETF IBIT drew $665 million in inflows on Monday, its largest single-day inflow since October 2025. ¶ • BlockTower Capital founder Ari Paul accused Coinbase of losing about $25 million of his firm's assets and concealing hacks exceeding $1 billion across a dozen institutions; Coinbase denies it. ¶ ↗ theblock.co|https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436 ;; coindesk.com|https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/jpmorgan-bitcoin-forecast-gives-btc-072246717.html ;; fortune.com|https://fortune.com/article/price-of-bitcoin-10-20-2026/
+  20 Oct 2026 | https://finance.yahoo.com/markets/crypto/articles/jpmorgan-asset-sees-bitcoin-beating-155653867.html
+  • JPMorgan Asset Management issued its first long-term bitcoin forecast, projecting 10% compound annual returns over 10 to 15 years, topping US large-cap stocks at 7.5% and gold at 5.5%. ¶ • The bank set bitcoin's annualized volatility at 55% and kept it out of its main portfolio models, citing unstable correlations with other assets. ¶ • Bitcoin traded near $82,000, down 6.8% year-to-date, after falling more than 30% from its 2025 peak of $126,200. ¶ • US spot bitcoin ETFs drew $526.7 million on Monday, led by BlackRock's IBIT at $665.2 million, trimming October's net outflows to about $88 million. ¶ • Tron founder Justin Sun said AI and quantum computing could threaten bitcoin's security within 12 to 18 months, while developers work on quantum-resistant BIP 360. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/jpmorgan-asset-sees-bitcoin-beating-155653867.html ;; tradingview.com|https://www.tradingview.com/news/invezz:85ae20328094b:0-mstr-stock-eyes-a-rebound-as-jpmorgan-delivers-bold-bitcoin-prediction/ ;; coindesk.com|https://www.coindesk.com/markets/2026/10/20/jpmorgan-sees-10-annual-bitcoin-returns-topping-stocks-bonds-and-gold-over-next-decade ;; theblock.co|https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436
 
 - Outlook: Neutral
   2026-10-21 |
-  §VIEW§{"stance": "neutral", "text": "JPMorgan's first 10% long-term forecast and IBIT's $665 million inflow support the bull case, but 55% modeled volatility and the unresolved Coinbase custody dispute split the flow."}
+  §VIEW§{"stance": "neutral", "text": "JPMorgan's first 10% forecast and $526.7 million ETF inflows support bitcoin, but 55% volatility, unstable correlations and Sun's security warning split the flow."}
 
 [Gold]
 
-- Gold declines below $4,150 as elevated oil prices reinforce prospects of further Fed tightening
-  20 Oct 2026 | https://www.mitrade.com/au/insights/news/live-news/article-2-2178481-20261021
-  Gold price declines to around $4,120 in Wednesday’s early Asian session.
-
-- Current price of gold as of October 20, 2026
+- ~
   20 Oct 2026 | https://fortune.com/article/current-price-of-gold-10-20-2026/
-  Gold was trading at $4,120 per ounce at 9 a.m. Eastern Time today. This is a $44 fall from yesterday at the same hour and $196 lower than a year ago.
+  • Spot gold traded at $4,120 per ounce, down $44 from yesterday and $196 lower than a year ago. ¶ • CIBC cut its Q4 gold forecast to $4,500 per ounce, down 31% from its earlier $6,500 estimate, but sees a 2027 average of $5,200. ¶ • Global gold ETF holdings reached 101.19 Moz, up 2.26% year-to-date, with India's ETFs adding INR44.5bn in September, the highest in seven months. ¶ • Money managers cut bullish gold bets by 3,741 lots to 111,079 lots, the least bullish in 18 weeks, as short positions rose to a 12-week high. ¶ • India's domestic gold discount narrowed to $8 per ounce from $66 in September, as festive and wedding demand improved. ¶ ↗ fortune.com|https://fortune.com/article/current-price-of-gold-10-20-2026/ ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-where-are-gold-rates-headed-on-october-20-2026-and-in-the-near-term-mcx-gold-silver-prices/articleshow/135060390.cms ;; gold.org|https://www.gold.org/goldhub/gold-focus/2026/10/india-gold-market-update-seasonal-demand-shows-early-strength ;; kitco.com|https://www.kitco.com/news/article/2026-10-20/spot-gold-price-near-low-after-us-housing-starts-fall-52-building-permits
 
-- Spot gold price near low after U.S. housing starts fall 5.2%, building permits fall 0.2% in September
-  20 Oct 2026 | https://www.kitco.com/news/article/2026-10-20/spot-gold-price-near-low-after-us-housing-starts-fall-52-building-permits
-  (Kitco News) - Gold prices are trading near session lows this morning after the latest data showed the U.S. housing market delivering a weaker-than-expected performance last month.
-
-- India gold market update: Seasonal demand shows early strength | Post by Kavita Chacko | Insights
-  20 Oct 2026 | https://www.gold.org/goldhub/gold-focus/2026/10/india-gold-market-update-seasonal-demand-shows-early-strength
-  Gold prices retreated in September , ending the month at US$4,176/oz, 2 down 8.5% m/m as higher US Treasury yields, a stronger dollar and reduced futures positioning weighed on prices, despite strength in global ETF inflows. Domestic…
+- Outlook: Bearish
+  2026-10-21 |
+  §VIEW§{"stance": "bearish", "text": "Near-term pressure from high oil prices, rising Treasury yields and reduced futures positioning weighs on gold. CIBC's forecast cuts and weak housing data add to the bearish tone, though central bank demand and ETF inflows offer long-term support."}
 
 ============================================================
 
@@ -162,7 +154,7 @@ SOURCE 8: AI News
 SOURCE 2: The Hindu - Editorials
 
 ### Unknown vulnerabilities: on the cybersecurity advisory by CERT-In
-20 Oct 2026 | https://www.thehindu.com/opinion/editorial/unknown-vulnerabilities-on-the-cybersecurity-advisory-by-cert-in/article71604650.ece
+21 Oct 2026 | https://www.thehindu.com/opinion/editorial/unknown-vulnerabilities-on-the-cybersecurity-advisory-by-cert-in/article71604650.ece
 
 • CERT-In's advisory flags two threats to Indian IT infrastructure: AI companies testing autonomous agents beyond set limits, and bad actors weaponising open-source agentic AI tools.
 
@@ -235,18 +227,95 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
-- Rubio says India-U.S. trade deal close, urges New Delhi to boost U.S. energy, defence buys
-  21 Oct 2026 | https://www.thehindu.com/news/international/india-us-talks-push-energy-defence-cooperation/article71606041.ece
-  • Secretary of State Marco Rubio said the India-U.S. Bilateral Trade Agreement is close, with "a small number of items left to wrap up" and a signing hoped for shortly. ¶ • Rubio urged India to buy more U.S. energy and defence technology, and advocated processing more Venezuelan crude in India ahead of a visit to Reliance's Jamnagar refinery.
+[[Ukraine and NATO]]
+
+- NATO sending planes, radars to Black Sea after drone attacks
+  21 Oct 2026 | https://www.thehindu.com/news/international/nato-boosts-black-sea-presence-with-planes-drones-and-radars/article71606091.ece
+  • NATO is deploying maritime patrol aircraft, drones, radar systems and intelligence personnel to the Black Sea after attacks on ships near Romania and Bulgaria. ¶ • EU diplomat Kaja Kallas said six attacks in 10 days by suspected Russian drones killed or left missing a score of sailors and threaten Ukrainian grain exports.
 
 - Musk ordered reduction in Starshield services for Ukraine: report
   21 Oct 2026 | https://www.thehindu.com/news/international/musk-ordered-reduced-starshield-services-for-ukraine/article71606038.ece
   • The Wall Street Journal reported Musk capped connection speeds for Ukrainian equipment, making some Kyiv drones useless, citing anonymous US officials. ¶ • Hegseth and Trump both denied directing any Starshield limits, while Musk said any caps were decided by the US military and ultimately the President.
 
+[[Trade and tariffs]]
+
+- Rubio says India-U.S. trade deal close, urges New Delhi to boost U.S. energy, defence buys
+  21 Oct 2026 | https://www.thehindu.com/news/international/india-us-talks-push-energy-defence-cooperation/article71606041.ece
+  • Secretary of State Marco Rubio said the India-U.S. Bilateral Trade Agreement is close, with "a small number of items left to wrap up" and a signing hoped for shortly. ¶ • Rubio urged India to buy more U.S. energy and defence technology, and advocated processing more Venezuelan crude in India ahead of a visit to Reliance's Jamnagar refinery.
+
+[[Oil market outlook]]
+
+- IEA chief sees little chance of oil market 'normalisation' next year
+  21 Oct 2026 | https://www.thehindu.com/news/international/iea-chief-warns-2027-likely-wont-normalize-oil-markets-amid-west-asia-war/article71606077.ece
+  • IEA head Fatih Birol said he sees no credible pathway to normal oil markets in 2027 after Gulf supply disruptions from U.S. and Israeli attacks on Iran in February. ¶ • Oil prices have topped $100 a barrel from below $70 before the war, and the IEA has released up to 400 million barrels of strategic reserves, about 20% of its stock.
+
+[[France security]]
+
+- France arrests man, calls in anti-terror police over town hall protest fire
+  21 Oct 2026 | https://www.thehindu.com/news/international/france-arrests-a-man-linked-to-ultra-left-groups-for-historic-limoges-town-hall-fire/article71606103.ece
+  • French police arrested a 34-year-old man linked to ultra-left movements over the arson that destroyed Limoges' 1883 town hall during Saturday protests. ¶ • Around 5,000 people joined the Limoges demonstration, including 700 described by authorities as radicalised and extremely violent, and 10 were arrested for looting a shop.
+
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Byju’s parent uses Great Learning loan repayment to fund Aakash rights issue
+20 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/how-byjus-parent-funded-aakash-rights-issue-zetwerk-ipo-fully-subscribed/articleshow/135059351.cms
+
+• Think & Learn Pvt Ltd, the bankrupt parent of Byju’s, used part of a loan repayment from Great Learning to subscribe to Aakash Educational Services’ rights issue.
+
+• The money represented repayment of a ₹160 crore loan by Great Learning, an upskilling company once part of Byju’s.
+
+• The ₹160 crore loan was unsecured and carried 6.25% annual interest, with ₹100 crore due by July 25, 2025 and ₹60 crore by November 30, 2025.
+
+• The transaction shows how the cash-strapped company funded its effort to preserve its holding in one of the few valuable assets remaining in the Byju’s ecosystem.
+
+### Zetwerk IPO subscribed three times, retail portion falls short
+20 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/how-byjus-parent-funded-aakash-rights-issue-zetwerk-ipo-fully-subscribed/articleshow/135059351.cms
+
+• Zetwerk’s ₹5,012-crore IPO was subscribed 3.06 times on Monday, its final bidding day, with institutional demand driving the sale while the retail portion remained undersubscribed.
+
+• Qualified institutional buyers bid 4.73 times their allocation, non-institutional investors bid 1.40 times, and retail bids covered 73% of the shares reserved for them.
+
+• Overall, investors sought 566.3 million shares against 182.9 million on offer, excluding the anchor allocation.
+
+• The company is seeking a valuation of up to ₹25,583 crore ($2.69 billion) at the upper end of the price band of ₹143-151 per share.
+
+### LTTS reports 67% net profit surge to Rs 548.2 crore, driven by SWC business
+20 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/how-byjus-parent-funded-aakash-rights-issue-zetwerk-ipo-fully-subscribed/articleshow/135059351.cms
+
+• L&T Technology Services reported a nearly 67% year-on-year increase in September-quarter net profit, helped by a one-time gain from the sale of its Smart World and Communication (SWC) business.
+
+• Net profit rose 67% to ₹548 crore, revenue grew 12% on-year to ₹3,040.4 crore, and operating margin expanded 0.6 percentage points sequentially to 16.3%.
+
+• The Pune-headquartered company booked a capital gain of ₹165 crore from the SWC divestment, agreed in March to AMI Paradigm Solutions for ₹452 crore, with proceeds directed toward AI, software and digital manufacturing.
+
+• CEO Amit Chadha said, “We are clearly seeing our clients talking about how to grow their markets. And given where we are on our order backlog and where we are on our order inflow, we are fairly comfortable to say that H2 will be better than H1.”
+
+### Flipkart-backed Super.money’s revenue triples to Rs 292 crore, loss widens 78%
+20 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/how-byjus-parent-funded-aakash-rights-issue-zetwerk-ipo-fully-subscribed/articleshow/135059351.cms
+
+• Walmart-owned Flipkart’s payments and financial services platform Super.money more than tripled its FY26 operating revenues as its credit marketplace scaled up.
+
+• Operating revenue rose to ₹292.4 crore during the year.
+
+• Net loss widened 78% to ₹263.8 crore.
+
+• Total income climbed to ₹293.3 crore from ₹94 crore in FY25.
+
+### Even Healthcare raises funds
+20 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/how-byjus-parent-funded-aakash-rights-issue-zetwerk-ipo-fully-subscribed/articleshow/135059351.cms
+
+• Bengaluru-based Even Healthcare has raised $50 million in a funding round led by existing investor Khosla Ventures, with participation from Alpha Wave.
+
+• The company plans to expand its hospital network and scale up its managed care model.
+
+### Infosys expands partnership with Truist
+20 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/how-byjus-parent-funded-aakash-rights-issue-zetwerk-ipo-fully-subscribed/articleshow/135059351.cms
+
+• Infosys announced the expansion of its collaboration with US-based financial services company Truist to help build the bank’s AI-first Global Capability Center in Hyderabad.
+
+• The GCC will be adding 1,000 employees later this month and is expected to further expand with more people.
 
 ============================================================
 
@@ -269,7 +338,7 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 - ~
   20 Oct 2026 | https://www.tradingview.com/news/moodys:f459819836ac4:0-hfcl-posts-record-q2-profit-jumps-5x-revenue-over-2-fold/
-  ## What the sector does ¶ • Telecom equipment and optical fibre makers sell cables, gear and network build-outs to telecom operators, hyperscale data centres and defence buyers, earning from product sales and turnkey contracts. ¶ • Revenue tracks operator capex, data-centre and AI build-outs and government programmes like BharatNet; cost is dominated by optical fibre preform, which is 60-70% of fibre cost. ¶ ## What the company does ¶ • HFCL makes optical fibre and optical fibre cable, telecom equipment and systems, and runs turnkey telecom infrastructure projects, with a growing defence and aerospace business. ¶ • Customers are telecom operators, international hyperscalers and data-centre builders, plus defence buyers; exports were 57% of its record ₹28,900 crore order book. ¶ ## Why it moved today ¶ • HFCL shares rose 5.00% after its 20 October 2026 results showed September-quarter net profit up 448.14% year-on-year to ₹394.22 crore and revenue up 143.62% to ₹2,541.79 crore. ¶ • Nuvama raised its target price to ₹410 from ₹380 and repeated a Buy rating, while HFCL lifted FY27 revenue growth guidance to at least 80% from 40%. ¶ ## The numbers (Screener) ¶ • September 2026 quarter: sales ₹2,542 crore, operating profit ₹630 crore, operating margin 25%, net profit ₹394 crore and EPS ₹2.37. ¶ • Stock trades at a P/E of 47.4 and 7.28 times book value of ₹36.9, with ROCE of 10.8%, ROE of 6.98% and dividend yield of 0.07%. ¶ ## What the numbers say ¶ • HFCL's P/E of 47.4 is more than three times the peer median of 14.49, and its 7.28 times book value sits against a median market cap of just ₹3,245 crore. ¶ • Its ROCE of 10.8% is below the peer median of 13.16%, but September-quarter sales grew 143.62% and profit 434.79% year-on-year, far ahead of any peer. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:f459819836ac4:0-hfcl-posts-record-q2-profit-jumps-5x-revenue-over-2-fold/ ;; businesstoday.in|https://www.businesstoday.in/markets/stocks/story/hfcl-shares-why-this-multibagger-stock-gets-53-upside-target-despite-290-jump-in-2026-562586-2026-10-20 ;; wirecable.in|https://www.wirecable.in/hfcl/
+  ## What the sector does ¶ • Telecom equipment and optical fibre makers sell cables, gear and turnkey networks to telecom operators, hyperscalers and defence buyers. ¶ • Revenue follows operator capex and data-centre buildouts; cost is driven by glass preform, fibre and cable raw material prices. ¶ ## What the company does ¶ • HFCL makes optical fibre and cable, telecom equipment and systems, and runs turnkey telecom infrastructure projects from its base in Himachal Pradesh. ¶ • It sells to Indian telecom operators, overseas hyperscalers and defence customers, and its order book stood at ₹28,911 crore with exports at 57%. ¶ ## Why it moved today ¶ • HFCL shares rose 5% after its September-quarter net profit jumped 448% year-on-year to ₹394.22 crore on revenue of ₹2,541.79 crore, up 143.62%. ¶ • The company raised FY27 revenue growth guidance to at least 80% and said its ₹10,000 crore annual revenue target could come before 2028-29. ¶ ## The numbers (Screener) ¶ • Stock P/E is 47.4 and price to book is 7.28 times, with market cap ₹41,144 crore and dividend yield 0.07%. ¶ • September 2026 quarter sales were ₹2,542 crore, operating margin 25%, net profit ₹394 crore and EPS ₹2.37, against ₹1,211 crore sales in December 2025. ¶ ## What the numbers say ¶ • At a P/E of 47.4, HFCL trades well above the peer median of 14.49 and Indus Towers' 14.10, while its ROCE of 10.8% and ROE of 6.98% sit below the peer median ROCE of 13.16%. ¶ • September quarter sales grew 143.62% year-on-year and profit 434.79%, far ahead of the peer median sales growth of 18.69%, though the five-year sales growth of 2.27% shows how recent the acceleration is. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:f459819836ac4:0-hfcl-posts-record-q2-profit-jumps-5x-revenue-over-2-fold/ ;; wirecable.in|https://www.wirecable.in/hfcl/ ;; businesstoday.in|https://www.businesstoday.in/markets/stocks/story/hfcl-shares-why-this-multibagger-stock-gets-53-upside-target-despite-290-jump-in-2026-562586-2026-10-20
 
 [[Top Losers]]
 
