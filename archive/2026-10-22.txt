@@ -2,9 +2,9 @@ DAILY NEWS DIGEST — 2026-10-22
 METRICS
 Nifty PE Ratio | 19.26 | 21 Oct 2026 | https://nifty-pe-ratio.com/
 Gold rate, Bengaluru (per 10 g) | 24K ₹1,44,380, 22K ₹1,32,350 | 22 Oct 2026 | https://groww.in/gold-rates/gold-rate-today-in-bangalore
-Nifty 50 | 22,708.45 (-1.26%) | 22 Oct 2026, 01:00 PM IST | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹77,87,743 (-0.8% 24h) | 22 Oct 2026 | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $82,247 (-0.6% 24h) | 22 Oct 2026 | https://coinmarketcap.com/currencies/bitcoin/
+Nifty 50 | 22,618.45 (-1.65%) | 22 Oct 2026, 02:05 PM IST | https://groww.in/indices/nifty
+Bitcoin (INR) | ₹77,60,796 (-1.2% 24h) | 22 Oct 2026 | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $81,958 (-1.4% 24h) | 22 Oct 2026 | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -12,12 +12,12 @@ SOURCE 6: Watchlist (headlines + summary)
 [Jio Platforms]
 
 - ~
-  21 Oct 2026 | https://timesofindia.indiatimes.com/business/india-business/rupee-hits-6-week-high-surges-53-paise-to-94-38-against-dollar-on-jio-ipo-inflows-rbi-support/articleshow/135096229.cms
-  • Jio Platforms' ₹30,213-crore IPO was fully subscribed within 100 minutes of opening on 21 October, a record for an Indian mega IPO. ¶ • Qualified institutional buyers led demand, bidding 9.42 times their reserved portion, with total bids about ₹69,800 crore for 62.36 crore shares. ¶ • The retail portion was fully subscribed by 11:00 am on day two, with overall subscription at 3.47 times and non-institutional investors at 2.34 times. ¶ • The grey market premium rose to ₹247 per share, implying a listing price of ₹1,366 against the upper price band of ₹1,119. ¶ • Jio raised ₹8,110 crore from 212 anchor investors, and Moody's called the IPO credit positive as up to ₹27,500 crore of proceeds will repay Reliance Jio Infocomm borrowings. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/rupee-hits-6-week-high-surges-53-paise-to-94-38-against-dollar-on-jio-ipo-inflows-rbi-support/articleshow/135096229.cms ;; tradingview.com|https://www.tradingview.com/news/moodys:92c189d3b53fa:0-retail-portion-of-jio-platforms-ipo-fully-subscribed/ ;; indiainfoline.com|https://www.indiainfoline.com/news/ipo/jio-platforms-ipo-day-2-gmp-trend-and-subscription-status ;; rediff.com|https://www.rediff.com/business/report/jio-platforms-ipo-subscribed-301-times-draws-rs-66500-cr-bids-after-record-100-minute-sellout/20261021.htm
+  22 Oct 2026 | https://www.tradingview.com/news/moodys:92c189d3b53fa:0-retail-portion-of-jio-platforms-ipo-fully-subscribed/
+  • Jio Platforms' ₹30,213-crore IPO was fully subscribed in 100 minutes on Day 1, the fastest mega IPO in India, with bids worth about ₹69,800 crore for 62.36 crore shares by 5 pm. ¶ • The IPO was subscribed 3.65 times by 12:03 IST on Day 2, with the retail portion fully booked at 1.10 times after closing Day 1 at 72%. ¶ • Qualified institutional buyers led demand at 9.42 times, while non-institutional investors were subscribed 2.85 times and the employee portion 1.71 times. ¶ • The grey market premium stood at ₹247 per share on October 22, implying an estimated listing price of ₹1,366 against the upper price band of ₹1,119. ¶ • Jio Platforms raised ₹8,109.84 crore from 212 anchor investors on October 19 at ₹1,119 per share, and plans to use ₹27,500 crore of proceeds to repay borrowings at Reliance Jio Infocomm. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:92c189d3b53fa:0-retail-portion-of-jio-platforms-ipo-fully-subscribed/ ;; indiainfoline.com|https://www.indiainfoline.com/news/ipo/jio-platforms-ipo-day-2-gmp-trend-and-subscription-status ;; tradingview.com|https://www.tradingview.com/news/moodys:40e7b9c35e764:0-jio-platforms-ipo-sees-strong-qib-demand-on-day-1/ ;; rediff.com|https://www.rediff.com/business/report/jio-platforms-ipo-subscribed-301-times-draws-rs-66500-cr-bids-after-record-100-minute-sellout/20261021.htm
 
 - Outlook: Bullish
   2026-10-22 |
-  §VIEW§{"stance": "bullish", "text": "Institutional demand at 9.42x and anchor commitments of Rs 8,110 crore show strong conviction in the issue. Debt repayment of up to Rs 27,500 crore and a 22% grey market premium support the bullish case."}
+  §VIEW§{"stance": "bullish", "text": "Institutional demand at 9.42 times and a grey market premium of Rs 247 point to strong listing interest. Proceeds of Rs 27,500 crore for debt repayment at Reliance Jio Infocomm lower interest costs, a credit positive per Moody's."}
 
 [Reliance Intelligence]
 
@@ -25,21 +25,21 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   21 Oct 2026 | https://www.linkedin.com/posts/moneycontrol_marco-rubio-visits-reliance-industries-jamnagar-activity-7518692488816148481-EP5k
-  • US Secretary of State Marco Rubio visited Reliance's Jamnagar complex on Wednesday, with Washington seeking more Indian refining of Venezuelan crude and expanded US energy exports to India. ¶ • Jio Platforms' IPO opened for subscription on October 21 and closes October 23, aiming to raise about ₹30,213 crore, which would make it India's largest IPO by issue size. ¶ • Reliance shares rose more than 2.5% on Wednesday to a day's high of ₹1,234.60 on BSE as the Jio Platforms IPO opened. ¶ • Jio Platforms is priced at ₹1,065 to ₹1,119 per share, valuing it at about $108.3 billion at the upper end; the issue dilutes Reliance's stake from about 66.43% to 64.4%. ¶ • Russian crude accounted for about a third of Jamnagar's feedstock in July-September 2026, and Reliance's Jamnagar complex can process about 1.4 million barrels of crude oil a day. ¶ ↗ linkedin.com|https://www.linkedin.com/posts/moneycontrol_marco-rubio-visits-reliance-industries-jamnagar-activity-7518692488816148481-EP5k ;; energyintel.com|https://www.energyintel.com/000001a1-5fe0-db0e-adb1-dffee5110000 ;; tradingview.com|https://www.tradingview.com/news/moodys:38a83c754a347:0-reliance-industries-shares-jump-2-5-on-jio-platforms-ipo-opening-today-should-you-buy-ril-now-gmp-price-band-more/ ;; sahi.com|https://www.sahi.com/news/reliance-industries-hosts-us-secretary-of-state-at-jamnagar-for-energy-partnership
+  • US Secretary of State Marco Rubio visited Reliance's Jamnagar refinery on Wednesday, as Washington pushes for more Indian refining of Venezuelan crude. ¶ • US Ambassador Sergio Gor said India's imports of US LPG surged from under 10% to 67% over the past year, making the US the largest supplier. ¶ • Reliance's Jamnagar complex can process about 1.4 million barrels of crude oil a day and is a major supplier of diesel to global markets. ¶ • Russian crude accounted for about a third of Jamnagar's feedstock in July-September 2026, analysts said, so any shift depends on prices and freight costs. ¶ • ICRA reaffirmed Reliance's AAA (Stable) rating on ₹12,000 crore of non-convertible debentures and assigned the same to ₹50,000 crore of bank loans. ¶ ↗ linkedin.com|https://www.linkedin.com/posts/moneycontrol_marco-rubio-visits-reliance-industries-jamnagar-activity-7518692488816148481-EP5k ;; energyintel.com|https://www.energyintel.com/000001a1-5fe0-db0e-adb1-dffee5110000 ;; moneycontrol.com|https://www.moneycontrol.com/news/business/marco-rubio-visits-reliance-industries-jamnagar-refinery-as-us-pushes-energy-ties-venezuelan-crude-14056973.html ;; devdiscourse.com|https://www.devdiscourse.com/article/international/3995847-marco-rubio-us-envoy-visit-reliances-jamnagar-refinery-gor-says-us-share-of-indias-lpg-imports-rises-to-67
 
-- Outlook: Bullish
+- Outlook: Neutral
   2026-10-22 |
-  §VIEW§{"stance": "bullish", "text": "The Jio Platforms IPO, India's largest at about Rs 30,213 crore, opens value discovery in Reliance's digital arm and lifted the stock 2.5%. Rubio's Jamnagar visit adds strategic energy ties, though no binding deals were disclosed."}
+  §VIEW§{"stance": "neutral", "text": "Rubio's visit and rising US LPG share signal closer energy ties, but Russian crude still supplies a third of Jamnagar's feedstock. The credit rating affirmation is steady, leaving the flow balanced."}
 
 [Flipkart]
 
 - ~
   22 Oct 2026 | https://www.moneycontrol.com/news/business/startup/walmart-owned-flipkart-sees-three-more-vp-exits-taking-senior-level-churn-to-14-in-over-a-year-14057486.html
-  • Flipkart's 11-day Big Billion Days 2026 sale ended with buyers, orders and units each up 20-22% year-on-year, and unique visitors up nearly 10%. ¶ • Three more vice presidents are leaving Flipkart: Kanchan Mishra (Smartphones), Amit Sachan (Product and Tech) and Kamal Chopra (Corporate Tax), taking reported senior-level exits to at least 14 in about a year. ¶ • More than 1,000 former Flipkart group employees have appealed to Walmart and the board for fairer access to ESOP (employee stock option) liquidity programmes. ¶ • Flipkart promoted Renuka Singaram to senior vice president, handing her oversight of non-large supply chain, the Minutes quick commerce business and the design organisation. ¶ • Flipkart Internet's revenue from operations rose 18% year-on-year to ₹1,45,880 crore in FY26, while consolidated net loss narrowed to ₹8,468 crore from ₹8,646 crore in FY25. ¶ ↗ moneycontrol.com|https://www.moneycontrol.com/news/business/startup/walmart-owned-flipkart-sees-three-more-vp-exits-taking-senior-level-churn-to-14-in-over-a-year-14057486.html ;; m.economictimes.com|https://m.economictimes.com/tech/technology/flipkart-elevates-renuka-singaram-as-svp-as-focus-shifts-to-quick-commerce/articleshow/135110933.cms ;; thehindubusinessline.com|https://www.thehindubusinessline.com/companies/flipkart-promotes-renuka-singaram-to-svp-amid-quick-commerce-push-esop-concerns/article71608153.ece ;; business-standard.com|https://www.business-standard.com/companies/news/flipkart-s-big-billion-days-draws-9-in-10-shoppers-as-orders-rise-20-22-126102101427_1.html
+  • Flipkart's Big Billion Days sale saw orders, units sold and buyers rise 20-22% year-on-year, with beauty and grooming buyers up 40%. ¶ • Three more VPs are leaving Flipkart, taking senior-level exits to at least 14 in over a year amid IPO uncertainty. ¶ • Flipkart promoted Renuka Singaram to SVP, giving her charge of quick commerce and logistics as Minutes expands. ¶ • More than 1,000 former Flipkart employees appealed to Walmart and the board for fairer access to ESOP liquidity. ¶ • A Flipkart Minutes delivery worker died after a dispute over a torn ₹10 note; two accused were arrested. ¶ ↗ moneycontrol.com|https://www.moneycontrol.com/news/business/startup/walmart-owned-flipkart-sees-three-more-vp-exits-taking-senior-level-churn-to-14-in-over-a-year-14057486.html ;; m.economictimes.com|https://m.economictimes.com/tech/technology/flipkart-elevates-renuka-singaram-as-svp-as-focus-shifts-to-quick-commerce/articleshow/135110933.cms ;; storyboard18.com|https://www.storyboard18.com/brand-marketing/flipkarts-big-billion-days-sees-orders-buyers-grow-20-22-beauty-and-grooming-up-40-ws-lo-113124.htm ;; indiatoday.in|https://www.indiatoday.in/india/story/flipkart-delivery-worker-dies-torn-rs-10-note-assault-delhi-two-arrested-3022555-2026-10-22
 
-- Outlook: Neutral
+- Outlook: Bearish
   2026-10-22 |
-  §VIEW§{"stance": "neutral", "text": "Festive demand was strong, with orders up 20-22%, and FY26 revenue rose 18% while losses narrowed. Against that, at least 14 senior exits, over 1,000 ex-employees seeking ESOP liquidity and no IPO date keep sentiment split."}
+  §VIEW§{"stance": "bearish", "text": "Heavy senior exits and ESOP liquidity complaints signal internal strain and IPO delay risk. Strong Big Billion Days growth and the quick-commerce promotion are positives, but governance and morale issues dominate."}
 
 [Zomato]
 
@@ -65,6 +65,14 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Dmart]
 
+- ~
+  21 Oct 2026 | https://www.tradingview.com/news/moodys:10e45ce93ada0:0-vishal-mega-mart-s-value-proposition-faces-a-test-as-it-reshapes-strategy/
+  • Vishal Mega Mart's September-quarter net profit grew just 3.7% to ₹157.9 crore while revenue rose 14% to ₹3,398.5 crore. ¶ • Operating Ebitda margin narrowed to 7.7% from 8.5% a year earlier, and reported same-store sales growth was 5.4%. ¶ • The company said the festive calendar shift cut reported SSSG, estimating about 9% growth without that timing impact. ¶ • Vishal Mega Mart shares fell as much as 8.2% on Wednesday and were down 33.73% year-to-date as of 21 October. ¶ • The retailer is piloting Belong & Co., a premium apparel brand, and testing smaller-format stores in Gujarat and Maharashtra. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:10e45ce93ada0:0-vishal-mega-mart-s-value-proposition-faces-a-test-as-it-reshapes-strategy/
+
+- Outlook: Bearish
+  2026-10-22 |
+  §VIEW§{"stance": "bearish", "text": "Margin narrowed to 7.7% and profit grew only 3.7%, with SSSG at 5.4% and the stock down 33.73% year-to-date. The festive shift explains part of it, but December-quarter SSSG of 12-13% is now needed."}
+
 [Godigit Insurance]
 
 - ~
@@ -81,21 +89,21 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   21 Oct 2026 | https://finance.yahoo.com/markets/crypto/articles/prediction-0-1-bitcoin-worth-193024364.html
-  • Bitcoin traded near $82,800 on Thursday, giving back a late-Wednesday surge that topped out near $84,800 and then fell over $2,000 in about six hours. ¶ • U.S. spot Bitcoin ETFs hold $106 billion in net assets, with a proposed DOL rule that could open 401(k) plans to crypto. ¶ • J.P. Morgan projects Bitcoin will return 10% compounded annually over the next 10 to 15 years, the highest of any asset in its 2027 assumptions. ¶ • The OCC issued a final rule implementing the GENIUS Act, setting requirements for payment stablecoin issuers, which Treasury Secretary Scott Bessent compared to Lincoln's 1863 National Currency Act. ¶ • The FBI logged 181,565 crypto-related complaints and $11.366 billion in crypto fraud losses in 2025, with crypto investment scams draining $7.2 billion. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/prediction-0-1-bitcoin-worth-193024364.html ;; coindesk.com|https://www.coindesk.com/markets/2026/10/22/bitcoin-gives-back-its-run-at-usd85-000-as-tesla-and-meta-fail-to-calm-ai-nerves ;; tradingview.com|https://www.tradingview.com/news/benzinga:c288fdfb7094b:0-bitcoin-ethereum-xrp-dogecoin-rise-as-scott-bessent-compares-genius-act-to-lincoln-s-currency-milestone-analyst-notes-btc-s-sentiment-defying-move/ ;; bitcoinmagazine.com|https://bitcoinmagazine.com/news/president-trump-to-highlight-crackdown
+  • J.P. Morgan projects Bitcoin will return 10% a year compounded for 10 to 15 years, the highest of all assets in its 2027 long-term assumptions. ¶ • Bitcoin traded near $84,557 on October 21, up 3.55% over the week, with 24-hour volume up 6.8% to $27.56 billion. ¶ • 172 public companies hold about 1.27 million BTC, roughly 6% of supply, now worth about $107 billion and up about 11.1% unrealized. ¶ • Chinese prosecutors moved to seize over 61,800 Bitcoin tied to a 40.378 billion yuan ($5.7 billion) fraud that raised money from more than 102,000 investors. ¶ • FBI data showed $11.366 billion in US crypto fraud losses in 2025 across 181,565 complaints, with crypto investment scams taking $7.2 billion. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/prediction-0-1-bitcoin-worth-193024364.html ;; finbold.com|https://finbold.com/trading-expert-hints-manipulation-for-bitcoin-xrp-and-cardano/ ;; coindesk.com|https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme ;; tradingview.com|https://www.tradingview.com/news/cryptobriefing:1312afc6e094b:0-bitcoin-treasury-companies-return-to-profit-as-prices-exceed-80k/
 
 - Outlook: Neutral
   2026-10-22 |
-  §VIEW§{"stance": "neutral", "text": "Institutional projections and stablecoin rulemaking support the asset, but price stalled under $85,000 and fraud losses of $11.37 billion invite tighter scrutiny. Flows and regulation pull against each other."}
+  §VIEW§{"stance": "neutral", "text": "J.P. Morgan's 10% return call and treasury firms back in profit support prices. Offsetting that, corporate buying has stalled, ETF and 401(k) flows hinge on a proposed DOL rule, and record fraud losses invite regulation."}
 
 [Gold]
 
 - ~
-  21 Oct 2026 | https://www.kitco.com/news/article/2026-10-21/gold-gains-treasury-yields-stabilize-nasdaq-surges-despite-fed-tightening
-  • Gold fell below $4,100 on 22 October, threatening the $4,100-4,200 range that has capped prices since late September. ¶ • Spot gold traded near $4,141.01 an ounce late on 21 October, up 0.66%, supported by a softer dollar and easing crude oil. ¶ • US housing starts fell 5.2% in September to a 1.221 million annual rate, below the 1.305 million expected, while pending home sales dropped 7.3%. ¶ • The Royal Mint reported gold coin revenue up 21% in the third quarter from the prior quarter and up 10% over the first nine months of 2026, but the US Mint sold only 111,500 ounces of gold this year. ¶ • BlackRock's Evy Hambro said gold miners are again delivering roughly 3:1 leverage to the gold price as mine cost inflation stays below price gains. ¶ ↗ kitco.com|https://www.kitco.com/news/article/2026-10-21/gold-gains-treasury-yields-stabilize-nasdaq-surges-despite-fed-tightening ;; investinglive.com|https://investinglive.com/technical-analysis/chart-of-the-day-gold-price-falls-below-4-100-as-sellers-threaten-another-breakdown/ ;; usatoday.com|https://www.usatoday.com/story/money/personalfinance/2026/10/21/gold-price-on-october-21-2026/92359388007/ ;; kitco.com|https://www.kitco.com/news/article/2026-10-21/price-gold-will-reflect-pain-elsewhere-and-gold-equities-are-working
+  21 Oct 2026 | https://fortune.com/article/current-price-of-gold-10-21-2026/
+  • Gold fell below $4,100 on October 22, threatening the $4,100 to $4,200 range that has held for weeks. ¶ • Spot gold traded near $4,141.01 an ounce on October 21, up 0.66%, as a softer dollar and easing crude oil prices supported the metal. ¶ • Russia sold 200,000 troy ounces of gold, or 6.2 tonnes, in September, cutting reserves to 72.8 million troy ounces, the lowest since 2019. ¶ • Gold sits 24.44% below its 52-week high of $5,477.79 and 5.15% above its 52-week low of $3,936.55. ¶ • BlackRock's Evy Hambro said gold miners still deliver roughly 3:1 leverage to the gold price, with that relationship intact over recent years. ¶ ↗ fortune.com|https://fortune.com/article/current-price-of-gold-10-21-2026/ ;; investinglive.com|https://investinglive.com/technical-analysis/chart-of-the-day-gold-price-falls-below-4-100-as-sellers-threaten-another-breakdown/ ;; usatoday.com|https://www.usatoday.com/story/money/personalfinance/2026/10/21/gold-price-on-october-21-2026/92359388007/ ;; kitco.com|https://www.kitco.com/news/article/2026-10-21/gold-gains-treasury-yields-stabilize-nasdaq-surges-despite-fed-tightening
 
 - Outlook: Bearish
   2026-10-22 |
-  §VIEW§{"stance": "bearish", "text": "Gold sits below $4,100 as elevated Treasury yields, a year-end Fed hike priced in and rising crude keep non-yielding metal under pressure. Physical demand is split: Royal Mint gold revenue rose 21% in Q3, yet the US Mint is heading for its worst year since 2000."}
+  §VIEW§{"stance": "bearish", "text": "Gold is testing the $4,100 floor while elevated Treasury yields, renewed oil-driven inflation worries and Fed tightening expectations weigh on a non-yielding asset. A firm close below $4,100 opens $4,000 and the July low near $3,960."}
 
 ============================================================
 
@@ -187,17 +195,7 @@ SOURCE 2: The Hindu - Editorials
 
 SOURCE 5: The Hindu - Business (headlines + summary)
 
-[[India trade agreements]]
-
-- India has huge scope to expand processed food exports to U.K. after trade pact: TPCI
-  22 Oct 2026 | https://www.thehindu.com/business/Industry/indias-processed-foods-export-potential-to-the-uk-grows-post-ceta/article71610333.ece
-  • India supplies just 0.6% ($309.5 million) of Britain's $50.68 billion annual processed food imports, TPCI said after the India-U.K. CETA took effect on July 15. ¶ • CETA scrapped U.K. tariffs of up to 70% on processed foods, 4.2-8.5% on shrimp and duties on instant coffee, and TPCI signed an MoU with UKIBC to build trade ties.
-
-- CII urges exporters, MSMEs to tap opportunities under India-New Zealand FTA
-  22 Oct 2026 | https://www.thehindu.com/business/Industry/cii-urges-exporters-and-msmes-to-leverage-indias-nz-fta-benefits/article71610296.ece
-  • India and New Zealand implemented their free trade agreement on October 20, giving Indian exporters duty-free access across all tariff lines in New Zealand. ¶ • CII's Sanjay Budhia urged MSMEs to engage New Zealand buyers early and use the Export Promotion Mission, noting tariffs up to 10% on engineering goods, textiles, leather and footwear are now zero.
-
-[[Markets and rupee]]
+[[Markets and Rupee]]
 
 - Sensex, Nifty decline in early trade as power, metal stocks drag markets lower
   22 Oct 2026 | https://www.thehindu.com/business/markets/stock-markets-sensex-and-nifty-on-october-22-2026/article71610117.ece
@@ -215,15 +213,29 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   21 Oct 2026 | https://www.thehindu.com/business/Industry/core-industrial-growth-hits-historic-high-of-79-in-september-2026/article71607475.ece
   • India's core industrial growth rose to 7.9% in September 2026, the highest since at least April 2024, helped by coal, refinery products and iron ore. ¶ • Coal output grew 10.7% on a low base, refinery products 10.3%, iron ore 18.4% and electricity 11.4%, while fertiliser contracted 11.7% for a seventh straight month.
 
-[[Corporate investments and projects]]
+[[Trade and Exports]]
+
+- India's West Asia oil imports return to pre-war levels in September
+  22 Oct 2026 | https://www.thehindu.com/business/markets/indias-west-asia-oil-imports-return-to-pre-war-levels-in-september/article71610506.ece
+  • India's crude imports from West Asia jumped to about 2.8 million barrels per day in September, the highest since February, taking Gulf oil to about 54% of overall imports. ¶ • Russian oil imports fell about 14% on month to about 1.8 million bpd, cutting Russia's share to 33.5% from 46.6%, and purchases are likely to stay subdued as Russian premiums narrowed to $1-$2 per barrel against Brent.
+
+- India has huge scope to expand processed food exports to U.K. after trade pact: TPCI
+  22 Oct 2026 | https://www.thehindu.com/business/Industry/indias-processed-foods-export-potential-to-the-uk-grows-post-ceta/article71610333.ece
+  • India supplies just 0.6% ($309.5 million) of Britain's $50.68 billion annual processed food imports, TPCI said after the India-U.K. CETA took effect on July 15. ¶ • CETA scrapped U.K. tariffs of up to 70% on processed foods, 4.2-8.5% on shrimp and duties on instant coffee, and TPCI signed an MoU with UKIBC to build trade ties.
+
+- CII urges exporters, MSMEs to tap opportunities under India-New Zealand FTA
+  22 Oct 2026 | https://www.thehindu.com/business/Industry/cii-urges-exporters-and-msmes-to-leverage-indias-nz-fta-benefits/article71610296.ece
+  • India and New Zealand implemented their free trade agreement on October 20, giving Indian exporters duty-free access across all tariff lines in New Zealand. ¶ • CII's Sanjay Budhia urged MSMEs to engage New Zealand buyers early and use the Export Promotion Mission, noting tariffs up to 10% on engineering goods, textiles, leather and footwear are now zero.
+
+[[Company Investments and IPOs]]
+
+- Retail portion of Jio Platforms’ IPO fully subscribed
+  22 Oct 2026 | https://www.thehindu.com/business/Industry/retail-portion-of-jio-platforms-ipo-fully-subscribed/article71610351.ece
+  • The retail portion of Jio Platforms' ₹30,213-crore IPO was fully subscribed by 11:00 a.m. on Day 2, October 22, 2026. ¶ • Overall the issue was subscribed 3.47 times, with qualified institutional buyers leading at 9.42 times, and bidding stays open until October 23.
 
 - SAVance sets up luxury watch servicing facility in Belagavi
   22 Oct 2026 | https://www.thehindu.com/news/national/karnataka/savance-sets-up-luxury-watch-servicing-facility-in-belagavi/article71607793.ece
   • SAVance opened a luxury watch servicing and restoration facility at the Aequs Special Economic Zone in Belagavi, Karnataka. ¶ • The site employs more than 30 watchmakers, polishers and technicians, with US-based affiliate SAVance LLC handling international partners.
-
-- Andhra Pradesh-Transco to tap the capital markets soon
-  22 Oct 2026 | https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-transco-to-tap-the-capital-markets-soon/article71609982.ece
-  • AP-Transco will float an IPO under a Ministry of Power mandate that each State list at least one power utility, per an October 21 office order. ¶ • Its restructuring plan targets cutting interest on borrowings to 8.00%-8.60% and aims for a AAA+ credit rating.
 
 - Discussed opportunities for partnerships in conventional, new energy: RIL on Rubio visit
   21 Oct 2026 | https://www.thehindu.com/business/Industry/discussed-opportunities-for-partnerships-in-conventional-new-energy-ril-on-rubio-visit/article71608874.ece
@@ -237,45 +249,41 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   21 Oct 2026 | https://www.thehindu.com/business/Industry/essar-ports-bags-2276-crore-tuna-tekra-terminal-project-in-gujarat/article71607875.ece
   • Essar Ports won a Letter of Award from Deendayal Port Authority to build a multipurpose cargo terminal at Tuna Tekra in Kandla, Gujarat, at an estimated cost of ₹2,276.06 crore. ¶ • The terminal will handle 18.33 million tonnes of cargo a year across four berths and accommodate Cape-size vessels of up to 170,000 deadweight tonnes.
 
-[[Tech and AI]]
+[[Energy and Power]]
 
-- Retail portion of Jio Platforms’ IPO fully subscribed
-  22 Oct 2026 | https://www.thehindu.com/business/Industry/retail-portion-of-jio-platforms-ipo-fully-subscribed/article71610351.ece
-  • The retail portion of Jio Platforms' ₹30,213-crore IPO was fully subscribed by 11:00 a.m. on Day 2, October 22, 2026. ¶ • Overall the issue was subscribed 3.47 times, with qualified institutional buyers leading at 9.42 times, and bidding stays open until October 23.
-
-- Anthropic PB admits to having an Indian subsidiary, contradicts earlier stand in court
-  22 Oct 2026 | https://www.thehindu.com/news/national/karnataka/anthropic-pb-admits-to-having-an-indian-subsidiary-contradicts-earlier-stand-in-court-caught-lying-in-indian-court/article71607673.ece
-  • Anthropic PBC told the Belagavi Commercial Court that a wholly owned Indian subsidiary exists, naming Irina Ghose as its managing director. ¶ • Belagavi-based Anthropic Softwares Private Limited, which says it registered the name first, argues this contradicts Anthropic India's earlier sworn denial of promoting PBC's business.
-
-- India is a highly fragmented media viewing market, says U.S. audience measurement firm Nielsen
-  21 Oct 2026 | https://www.thehindu.com/business/Industry/india-is-a-highly-fragmented-media-viewing-market-says-us-audience-measurement-firm-nielsen/article71605157.ece
-  • Nielsen CTO Anil Goel said India is the company's largest innovation base, with its Bengaluru hub driving product innovation, automation and AI adoption. ¶ • Nielsen agreed to acquire DoubleVerify for $2.15 billion, subject to regulatory approvals, to combine audience measurement with media quality verification.
-
-- NVIDIA targets 14-day AI data centre deployment with modular system
-  21 Oct 2026 | https://www.thehindu.com/business/Industry/nvidia-targets-14-day-ai-data-centre-deployment-with-modular-system/article71607755.ece
-  • NVIDIA unveiled DSX POD, a factory-built modular AI data centre system that ships in containers with computing racks, networking, cabling, power and cooling pre-integrated and tested. ¶ • Deliveries start worldwide in early 2027, and Huang said a data centre due $40 billion in annual revenue would lose $10 billion if delayed three months.
-
-[[Energy and sustainability]]
-
-- The broken promise of the right to work
-  21 Oct 2026 | https://www.thehindu.com/business/Economy/the-broken-promise-of-the-right-to-work/article71410754.ece
-  • The Supreme Court dismissed a minimum-wage petition on August 21 and asked for a fresh one, while debating whether the right to work ranks with Article 21. ¶ • MGNREGA was replaced by the VB-GRAM G Act, whose implementation began July 1, and employment in July and August fell 68% from the five-year average.
+- Andhra Pradesh-Transco to tap the capital markets soon
+  22 Oct 2026 | https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-transco-to-tap-the-capital-markets-soon/article71609982.ece
+  • AP-Transco will float an IPO under a Ministry of Power mandate that each State list at least one power utility, per an October 21 office order. ¶ • Its restructuring plan targets cutting interest on borrowings to 8.00%-8.60% and aims for a AAA+ credit rating.
 
 - Agrivoltaics on 10% of suitable land can meet 2050 power demand: Pralhad Joshi
   21 Oct 2026 | https://www.thehindu.com/business/Industry/agrivoltaics-on-10-of-suitable-land-can-meet-2050-power-demand-pralhad-joshi/article71608458.ece
   • Pralhad Joshi said operationalising 10% of India's 47.5 million hectares suitable for agrivoltaics, a TERI study's figure, could exceed projected 2050 power demand. ¶ • Joshi said agrivoltaic power costs ₹3.20-3.30 per unit against ₹2.5-2.6 for ground-mounted solar, and installations run 25-30% costlier.
 
-[[Corporate governance]]
+[[Corporate Governance]]
+
+- Anthropic PB admits to having an Indian subsidiary, contradicts earlier stand in court
+  22 Oct 2026 | https://www.thehindu.com/news/national/karnataka/anthropic-pb-admits-to-having-an-indian-subsidiary-contradicts-earlier-stand-in-court-caught-lying-in-indian-court/article71607673.ece
+  • Anthropic PBC told the Belagavi Commercial Court that a wholly owned Indian subsidiary exists, naming Irina Ghose as its managing director. ¶ • Belagavi-based Anthropic Softwares Private Limited, which says it registered the name first, argues this contradicts Anthropic India's earlier sworn denial of promoting PBC's business.
 
 - HDFC Bank initiates internal probe into alleged data leak by two senior executives
   21 Oct 2026 | https://www.thehindu.com/business/Industry/hdfc-bank-initiates-internal-probe-into-alleged-data-leak-by-two-senior-executives/article71608841.ece
   • HDFC Bank has begun an internal enquiry into two senior executives over the alleged leak of confidential information, with investigators examining whether it was misused. ¶ • The probe comes a week before Anup Bagchi becomes MD and CEO on October 26, succeeding Sashidhar Jagdishan, who declined reappointment.
 
-[[Other]]
+[[Auto and Retail Sales]]
 
 - Navratri sees retail sales of 11.23 lakh vehicles led by 2Ws, PVs
   21 Oct 2026 | https://www.thehindu.com/business/navratri-sees-retail-sales-of-1123-lakh-vehicles-led-by-2ws-pvs/article71607853.ece
   • About 11.23 lakh automobiles were retailed in the ten days of Navratri this year, up 27% over Navratri'24, per provisional FADA data. ¶ • Two-wheeler retails rose over 32% and passenger vehicles over 10%, while EV retails grew 26.78% to about 10.5% of festive sales, up from 7.7% a year ago.
+
+[[Other]]
+
+- The broken promise of the right to work
+  21 Oct 2026 | https://www.thehindu.com/business/Economy/the-broken-promise-of-the-right-to-work/article71410754.ece
+  • The Supreme Court dismissed a minimum-wage petition on August 21 and asked for a fresh one, while debating whether the right to work ranks with Article 21. ¶ • MGNREGA was replaced by the VB-GRAM G Act, whose implementation began July 1, and employment in July and August fell 68% from the five-year average.
+
+- India is a highly fragmented media viewing market, says U.S. audience measurement firm Nielsen
+  21 Oct 2026 | https://www.thehindu.com/business/Industry/india-is-a-highly-fragmented-media-viewing-market-says-us-audience-measurement-firm-nielsen/article71605157.ece
+  • Nielsen CTO Anil Goel said India is the company's largest innovation base, with its Bengaluru hub driving product innovation, automation and AI adoption. ¶ • Nielsen agreed to acquire DoubleVerify for $2.15 billion, subject to regulatory approvals, to combine audience measurement with media quality verification.
 
 ============================================================
 
@@ -326,7 +334,80 @@ SOURCE 3: The Hindu - International (headlines + summary)
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Eternal Q2 revenue jumps 78% on quick commerce growth
+22 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/eternals-strong-q2-report-exits-outpace-hiring-at-top-it-firms/articleshow/135103914.cms
+
+• Eternal reported operating revenue of ₹24,138 crore for the July-September quarter, up 78% year-on-year and beating Street estimates.
+
+• Net profit nearly doubled to ₹125 crore, while total expenses rose 75% to ₹24,166 crore from ₹13,813 crore a year earlier.
+
+• Ebitda, a measure of operating profit, rose 26.6% quarter-on-quarter to ₹752 crore, with margin expanding to 3.15% from 2.95%.
+
+• Blinkit's net order value grew 79% year-on-year to ₹20,940 crore, and the company expects to exceed its March 2027 target of 3,000 dark stores by 500.
+
+### Software majors delete 24,000 jobs across IT and engineering in a year
+22 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/eternals-strong-q2-report-exits-outpace-hiring-at-top-it-firms/articleshow/135103914.cms
+
+• TCS, Infosys, HCLTech, Wipro, Tech Mahindra and LTIMindtree recorded 92,000 exits over the past year, in line with normal attrition of 11-15%.
+
+• Overall intake in IT and engineering functions fell by 24,422 to 68,000 over the 12 months, as exits outpaced hiring in five of the last six months.
+
+• Xpheno CEO Francis Padamadan said annual attrition has remained at 11-15% but companies have not refilled attrited seats.
+
+• AI, cloud, cybersecurity and specialised engineering roles are growing at around 16% year-on-year while overall IT hiring has declined by 3%.
+
+### Qualcomm may cut 1,200 Indian jobs as part of global rejig
+22 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/eternals-strong-q2-report-exits-outpace-hiring-at-top-it-firms/articleshow/135103914.cms
+
+• Qualcomm could slash 600 to 1,200 jobs in India as part of a global performance-led restructuring, putting 3-6% of its roughly 20,000-strong local workforce at risk.
+
+• EIIRTrend projects more than 1,000 job cuts, while UnearthInsight expects fewer than 3% of the local workforce to be affected.
+
+• EIIRTrend CEO Pareekh Jain said the global estimate is about 6-7% headcount reduction and India should see a similar range across all units.
+
+• Qualcomm continues to hire in India, which has overtaken the US as its largest engineering and R&D base, with about 600 open positions versus 350 in the US.
+
+### Mygate, Eternal-backed digital ads firm to merge
+22 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/eternals-strong-q2-report-exits-outpace-hiring-at-top-it-firms/articleshow/135103914.cms
+
+• Housing society management platform Mygate and Eternal-backed digital advertising company Adonmo are merging in an all-stock deal.
+
+• The combined entity will have annual revenues of ₹500 crore.
+
+### eMudhra hit by cyber snafu
+22 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/eternals-strong-q2-report-exits-outpace-hiring-at-top-it-firms/articleshow/135103914.cms
+
+• The ministry of electronics and information technology (MeitY) has formed a special team to investigate a security incident at Bengaluru-based cybersecurity company eMudhra.
+
+• The impact on Indian websites and applications was 'very limited and for a very short interval.'
+
+### Global pick: Rockets, robots and risk: Elon Musk’s $3.6 trillion gamble to merge Tesla and SpaceX
+FT | https://www.ft.com/content/e598bbc7-8211-436f-a57e-46c3ae21ac0f?syn-25a6b1a6=1
+
+[Could not read the article, possibly paywalled]
+
+### Global pick: Data centers have a new PR plan: Kids’ field trip
+Wired | https://www.wired.com/story/data-center-industry-is-trying-to-woo-kids/
+
+• Data center nonprofits and companies are courting schoolchildren with storybooks, field trips and classroom kits as public pushback to their build-outs grows.
+
+• The nonprofit 7x24 Exchange International promotes a children's story, "What is a Data Center?", following a honey badger named Honey on a data center tour.
+
+• In May, AFCOM's Potomac chapter gave Memorial Day flag-making kits to 3,100 first graders across 37 Loudoun County, Virginia schools, plus cards on the industry's local economic impact.
+
+• WIRED's tally found at least eleven companies and industry groups have hosted student data center field trips since 2025, including Sabey, Amazon and Microsoft.
+
+### Global pick: Don’t be fooled—LLMs don’t reason
+MIT Technology Review | https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/
+
+• AlphaGo beat Lee Sedol 4-1 in March 2016, and its move 37 in game two looked like a glitch but was a deliberate creative choice.
+
+• AlphaGo combined a policy network that guessed human moves with search machinery that built a game tree of thousands of possible futures.
+
+• Today's LLMs use next-token prediction and chain of thought, but lack a persistent inspectable state, separate knowledge from manipulation, and often fabricate reasoning after the fact.
+
+• The author left Google DeepMind to pursue a fresh machine reasoning approach based on AlphaGo's architecture, because high-stakes fields like medicine need traceable conclusions.
 
 ============================================================
 
@@ -339,28 +420,28 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [[Top Gainers]]
 
-[International Gemological Institute Ltd (IGIL, +9.78%)]
+[International Gemological Institute Ltd (IGIL, +10.00%)]
 
 - ~
   22 Oct 2026 | https://finance.yahoo.com/markets/stocks/articles/international-gemological-institute-ltd-nse-010117288.html
-  ## What the sector does ¶ • Gemological certification labs grade and authenticate diamonds, gemstones and jewellery for miners, cutters, jewellers and retailers, charging a fee per stone graded. ¶ • Revenue tracks global diamond and jewellery volumes and the mix of natural versus lab-grown stones; costs are gemologist salaries, marketing and lab capacity, so margins depend on throughput per lab. ¶ ## What the company does ¶ • International Gemological Institute is the world's largest independent certification and accreditation provider for diamonds, gemstones and jewellery, issuing 4.35 million reports in the September 2026 quarter. ¶ • It earns grading fees from jewellers, diamond growers and retailers worldwide, with lab-grown diamond certification revenue of ₹2,111 million in Q2 FY27 and a market capitalisation of ₹15,078 crore. ¶ ## Why it moved today ¶ • Shares rose 9.78% after Q2 FY27 net profit jumped 43% year-on-year to ₹1,858 million, beating market estimates of ₹1,400 million, on revenue up 31% to ₹3,980 million. ¶ • Management raised full-year guidance, expecting FY27 growth similar to H1's 27% revenue and 34% EBITDA increase, well above the original 15% and 20% targets. ¶ ## The numbers (Screener) ¶ • Stock P/E is 22.6 and price to book is 8.71 times, with return on capital employed (ROCE) of 69.2% and return on equity (ROE) of 55.8%, per Screener data. ¶ • September 2026 quarter sales were ₹398 crore, up from ₹320 crore in December 2025, with net profit of ₹186 crore and operating margin of 61%. ¶ ## What the numbers say ¶ • The P/E of 22.6 sits above the peer median of 16.16 but below Wework India's 99.61, while ROCE of 69.2% and ROE of 55.8% far exceed the peer median ROCE of 14.64%. ¶ • Quarterly sales rose from ₹320 crore to ₹398 crore over four quarters and net profit from ₹135 crore to ₹186 crore, so the 9.78% move follows accelerating growth rather than a re-rating of flat numbers. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/stocks/articles/international-gemological-institute-ltd-nse-010117288.html ;; sahi.com|https://www.sahi.com/news/international-gemological-institute-reports-q2-revenue-of-3-98b-vs-3-04b-yoy ;; scanx.trade|https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-22-2026-international-gemological/54178570
+  ## What the sector does ¶ • Independent gem certification labs grade diamonds, gemstones and jewellery and earn a fee per report from jewellers, retailers and traders who need an authenticity and quality certificate. ¶ • Revenue tracks global diamond and lab-grown jewellery volumes and festive stocking, while costs are gemmologist salaries, equipment and marketing; margins stay high because trust and data scale matter. ¶ ## What the company does ¶ • International Gemological Institute is the world's largest independent diamond, gemstone and jewellery certification and accreditation provider, issuing 4.35 million reports in the September 2026 quarter, up 26% year on year. ¶ • It earns fees per graded stone or piece from jewellers, retailers and diamond traders across India and overseas, with September 2026 quarter revenue of ₹398 crore and net profit of ₹186 crore. ¶ ## Why it moved today ¶ • IGIL jumped 10% to ₹353.20 on October 22, 2026, after the company reported September-quarter net profit up 43% year on year to ₹186 crore, beating market estimates of ₹140 crore. ¶ • The company also raised full-year guidance, saying it expects growth similar to the first half's 27% revenue and 34% EBITDA rise, against an earlier 15% revenue and 20% EBITDA forecast. ¶ ## The numbers (Screener) ¶ • Stock P/E is 22.9, price to book is 8.71 times on a book value of ₹40.5, ROCE is 69.2%, ROE is 55.8% and dividend yield is 0.72%. ¶ • Sales rose from ₹320 crore in December 2025 to ₹398 crore in September 2026, with net profit up from ₹135 crore to ₹186 crore and operating margin at 61%. ¶ ## What the numbers say ¶ • IGIL's P/E of 22.9 is above the peer median of 16.38, but its ROCE of 69.2% and ROE of 55.8% are far above the peer median ROCE of 14.64%, so the premium reflects much higher returns on capital. ¶ • September-quarter sales grew 31% and net profit 43% year on year, faster than the peer median sales growth of 14.52%, and the 10% move followed a results beat and a guidance upgrade. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/stocks/articles/international-gemological-institute-ltd-nse-010117288.html ;; scanx.trade|https://scanx.trade/stock-market-news/markets/stocks-watch-today-october-22-2026-international-gemological/54178570 ;; hdfcsky.com|https://hdfcsky.com/news/price-band-hitters-today-october-22-2026-at-12-pm
 
-[Tata Teleservices Maharashtra Ltd (TTML, +8.86%)]
+[Tata Teleservices Maharashtra Ltd (TTML, +9.67%)]
 
 - ~
   22 Oct 2026 | https://upstox.com/news/market-news/stocks/tata-teleservices-kei-industries-igil-shares-spurt-amid-spike-in-volumes/article-202222/
-  ## What the sector does ¶ • India's telecom services industry sells voice, data and enterprise connectivity to retail subscribers and businesses, earning monthly rentals and usage fees. ¶ • Revenue depends on subscriber numbers and data usage, while costs are dominated by spectrum, network equipment and interest on heavy debt. ¶ ## What the company does ¶ • Tata Teleservices (Maharashtra) holds a Unified License for wireline and wireless services in Maharashtra and Goa, plus an ISP licence. ¶ • It sells wireline voice, data and managed telecom services mainly to enterprise customers, a much smaller operation than the national carriers. ¶ ## Why it moved today ¶ • The news articles do not give a fundamental reason for the 8.86% move, only that the stock rebounded after two sessions of losses. ¶ • The move came with trading volume on the NSE jumping 82 times to 7.44 crore shares against an average of 9.08 lakh shares, per Upstox. ¶ ## The numbers (Screener) ¶ • Market cap is ₹6,817 crore at a price of ₹34.9, with book value per share of negative ₹2.87 and no P/E because the company is loss-making. ¶ • In the March 2010 quarter, sales were ₹621 crore, operating margin 26%, and net loss ₹64 crore, with EPS of negative ₹0.30. ¶ ## What the numbers say ¶ • Against peers, Bharti Airtel trades at a P/E of 38.27 and earns ROCE of 17.56%, while TTML has ROCE of negative 12.7% and negative book value, so it is not cheap on any profit measure. ¶ • TTML's March 2010 sales grew 20.88% year on year, but it still posted a net loss of ₹64 crore, and the stock is down 30% in 2026 even after this one-day rebound. ¶ ↗ upstox.com|https://upstox.com/news/market-news/stocks/tata-teleservices-kei-industries-igil-shares-spurt-amid-spike-in-volumes/article-202222/ ;; hdfcsky.com|https://hdfcsky.com/news/trending-stocks-today-pc-jeweller-vodafone-idea-tata-teleservices-maharashtra-yes-bank
+  ## What the sector does ¶ • India's telecom services sector sells wireline and wireless voice, data and managed services to retail subscribers and enterprise customers. ¶ • Revenue comes from subscriptions, data plans and enterprise contracts; costs are network build-out, spectrum fees, licence charges and interest on debt. ¶ ## What the company does ¶ • Tata Teleservices (Maharashtra) holds a Unified License with Access Service Authorisation for Maharashtra and Goa, plus an ISP Category licence. ¶ • It provides wireline voice, data and managed telecom services, mainly to enterprise customers in those two circles, and is far smaller than peers like Bharti Airtel. ¶ ## Why it moved today ¶ • The articles do not give a company-specific reason for the 9.67% move; they attribute it to a spike in trading activity, with NSE volume at 7.44 crore shares, 82 times its 9.08 lakh average. ¶ • Context: TTML reported audited Q2 FY2026 results on 22 October 2026 and announced board appointments, including Gaurav Gupta as Additional Director effective 23 October 2026. ¶ ## The numbers (Screener) ¶ • Market cap ₹6,877 crore at a price of ₹35.2, with book value negative at Rs -2.87 per share and no dividend yield. ¶ • June 2009 quarter: sales ₹512 crore, operating profit ₹156 crore (OPM 31%), net loss ₹34 crore, EPS Rs -0.16. ¶ ## What the numbers say ¶ • TTML's ROCE of -12.7% is far below profitable peers like Bharti Airtel (17.56%) and Bharti Hexacom (21.37%), showing weak returns on capital. ¶ • The stock has no meaningful P/E because it is loss-making, and its negative book value means it cannot be judged on price-to-book against peers. ¶ ↗ upstox.com|https://upstox.com/news/market-news/stocks/tata-teleservices-kei-industries-igil-shares-spurt-amid-spike-in-volumes/article-202222/ ;; hdfcsky.com|https://hdfcsky.com/news/trending-stocks-today-pc-jeweller-vodafone-idea-tata-teleservices-maharashtra-yes-bank ;; businessupturn.com|https://businessupturn.com/business/tata-teleservices-maharashtra-announces-new-appointments-and-financial-results-for-q2-2026/
 
 [[Top Losers]]
 
-[Kei Industries Ltd (KEI, -7.26%)]
+[Jindal Saw Ltd (JINDALSAW, -7.88%)]
 
 - ~
-  22 Oct 2026 | https://www.sahi.com/news/kei-industries-reports-q2-consolidated-net-profit-of-2-62-billion-vs-2-03-billion-yoy
-  ## What the sector does ¶ • India's wires and cables industry sells power and communication cables to utilities, builders, industrial projects and retail dealers, earning from copper and aluminium intensive manufacturing. ¶ • Revenue tracks power transmission capex, real estate and industrial construction, while copper and aluminium prices drive input costs and margins. ¶ ## What the company does ¶ • KEI Industries makes wires and cables including extra high voltage (EHV), high tension (HT) and low tension (LT) cables, selling in India and overseas. ¶ • Wires and cables were 96.35% of Q2 FY27 sales at ₹3,639 crore, with dealer and distributor sales up 50.46% and 2,146 active dealers as of September 30, 2026. ¶ ## Why it moved today ¶ • KEI shares fell 7.26% to ₹3,930 even as Q2 FY27 consolidated net profit rose 29% year on year to ₹262 crore and revenue rose 38.5% to ₹3,776 crore. ¶ • Investors likely sold on margin pressure: operating profit margin slipped to 10% in the September 2026 quarter from 12% in the June 2026 quarter, and FIIs cut their stake to 26.14% from 27.32%. ¶ ## The numbers (Screener) ¶ • Stock P/E is 35.6, book value ₹753, dividend yield 0.11%, ROCE 20.0% and ROE 14.7%, with the stock at ₹3,930 against a 52-week high of ₹5,931. ¶ • September 2026 quarter sales were ₹3,776 crore with net profit ₹262 crore and EPS ₹27.45, down from ₹274 crore and ₹28.68 in the June 2026 quarter. ¶ ## What the numbers say ¶ • KEI's P/E of 35.6 sits above the peer median of 23.99 but below Polycab's 36.59 and R R Kabel's 41.82, while its ROCE of 20.0% is below Polycab's 33.21% and R R Kabel's 28.10%. ¶ • Quarterly net profit fell 4.4% from June 2026 to September 2026 even as sales rose 18.6%, so the 7.26% drop reflects margin and earnings quality concerns rather than weak revenue. ¶ ↗ sahi.com|https://www.sahi.com/news/kei-industries-reports-q2-consolidated-net-profit-of-2-62-billion-vs-2-03-billion-yoy ;; moneycontrol.com|https://www.moneycontrol.com/news/business/markets/buzzing-stocks-m-m-financial-services-kei-industries-fall-6-9-post-q2-results-pc-jeweller-gains-as-profit-surges-14057152.html ;; m.economictimes.com|https://m.economictimes.com/markets/stocks/news/kei-industries-shares-tumble-8-despite-q2-profit-rising-29-revenue-up-39/articleshow/135108071.cms
+  22 Oct 2026 | https://www.tradingview.com/news/cnbctv:54547ecf0094b:0/
+  ## What the sector does ¶ • Steel pipe makers sell large-diameter line pipes, spiral and longitudinal welded pipes, ductile iron pipes and seamless tubes to oil and gas, water, and infrastructure projects. ¶ • Revenue follows order books from pipeline tenders and government water schemes, while cost is driven by steel coil prices, so margins swing with the steel spread. ¶ ## What the company does ¶ • Jindal Saw makes LSAW, HSAW and DI pipes, seamless pipes and iron ore pellets, selling to oil and gas, water and industrial customers in India and abroad. ¶ • With a market cap of ₹15,860 crore it is the smallest of the listed pipe majors, behind Welspun Corp, APL Apollo Tubes and Shyam Metalics. ¶ ## Why it moved today ¶ • CNBC TV18 reported the stock fell 7.3% intraday on October 22, a third straight decline, after September-quarter net profit dropped 69.03% year on year to ₹47.04 crore. ¶ • The same report said revenue rose 5.63% to ₹4,471.79 crore but expenses grew 10.13% to ₹4,505.22 crore, and EBITDA fell 42% to ₹261 crore. ¶ ## The numbers (Screener) ¶ • September 2026 quarter: sales ₹4,472 crore, operating profit ₹258 crore, operating margin 6%, net profit ₹35 crore and EPS ₹0.74. ¶ • Trailing figures: P/E 29.0, book value ₹197, dividend yield 0.75%, ROCE 10.4% and ROE 8.20%. ¶ ## What the numbers say ¶ • Jindal Saw's P/E of 28.95 sits near Welspun Corp's 28.14 and below APL Apollo's 46.16, but its ROCE of 10.43% is the lowest in the peer table against a median of 13.31%. ¶ • Operating margin slid from 12% in December 2025 to 6% in September 2026 and net profit fell from ₹248 crore to ₹35 crore, so the fall reflects a sharp earnings slowdown. ¶ ↗ tradingview.com|https://www.tradingview.com/news/cnbctv:54547ecf0094b:0/
 
-[Jindal Saw Ltd (JINDALSAW, -7.10%)]
+[Kei Industries Ltd (KEI, -7.64%)]
 
 - ~
-  2026-10-22 |
-  ## What the sector does ¶ • The Indian steel pipe industry sells large-diameter line pipes, water pipes and seamless tubes to oil and gas, water infrastructure and construction customers, plus iron ore pellets to steelmakers. ¶ • Revenue follows government water and oil pipeline tenders and export orders, while cost is driven by steel coil and iron ore prices, so margins swing with raw material costs and capacity use. ¶ ## What the company does ¶ • Jindal Saw makes LSAW, HSAW and ductile iron pipes for water and oil pipelines, seamless pipes for oilfield use, and iron ore pellets, with plants in India, Abu Dhabi and Saudi Arabia. ¶ • It earns from domestic government water contracts and export orders, and its standalone pipes-and-pellets order book was about $1.135 billion at September quarter-end, with exports about 28% of that value. ¶ ## Why it moved today ¶ • The stock fell 7.10% after the September-quarter consolidated net profit dropped 74.5% year on year to ₹35.28 crore, missing Street expectations of ₹120-180 crore, per StockWatch. ¶ • Context: Jindal Saw suspended Middle East shipments through the Strait of Hormuz since March 2026 and invoked force majeure, which delayed export revenue and cut capacity use, EconoTimes reported. ¶ ## The numbers (Screener) ¶ • September-quarter revenue was ₹4,471.79 crore, up 5.6% year on year, but operating profit fell to ₹258 crore and operating margin to 6%, from 12% in the December 2025 quarter. ¶ • Net profit slid to ₹35.28 crore in the September quarter from ₹248 crore in December 2025, with EPS at ₹0.74; the stock trades at a P/E of 29.5, ROCE of 10.4% and ROE of 8.20%. ¶ ## What the numbers say ¶ • Jindal Saw's P/E of 29.5 sits above the peer median of 20.91 and near Welspun Corp's 28.40, but its ROCE of 10.4% is below the peer median of 13.31% and far below APL Apollo's 31.75%. ¶ • The profit trend is worsening, with net profit down from ₹248 crore in December 2025 to ₹35.28 crore in September 2026, and the 7.10% fall reflects that earnings miss rather than a valuation re-rating.
+  22 Oct 2026 | https://m.economictimes.com/markets/stocks/news/kei-industries-shares-tumble-8-despite-q2-profit-rising-29-revenue-up-39/articleshow/135108071.cms
+  ## What the sector does ¶ • The wires and cables industry sells power and communication cables to utilities, builders, industrial projects and retailers, earning from copper and aluminium conductors converted into insulated cable. ¶ • Revenue tracks construction, power capex and housing demand, while cost is dominated by copper and aluminium prices, so margins depend on passing input costs through. ¶ ## What the company does ¶ • KEI Industries, incorporated in 1968, makes wires and cables including extra-high voltage (EHV), high tension (HT) and low tension (LT) cables, selling in India and overseas. ¶ • It earns mainly through dealers and distributors, who contributed 58.79% of sales in the September 2026 quarter, and had 2,146 active dealers as of September 30, 2026. ¶ ## Why it moved today ¶ • The articles do not give a clear reason for the 7.64% fall; KEI fell 7.75% to ₹3,902.20 on October 22, 2026 even as September-quarter profit rose 29% to ₹262 crore. ¶ • Context, not the cause: the September 2026 quarter showed operating margin at 10%, down from 12% in the June 2026 quarter, and management guided to around 11% EBITDA margin for FY27. ¶ ## The numbers (Screener) ¶ • Stock P/E is 35.5, price to book is about 5.2 times (price ₹3,917 against book value ₹753), ROCE 20.0%, ROE 14.7%, dividend yield 0.11%, market cap ₹37,465 crore. ¶ • September 2026 quarter: sales ₹3,776 crore, operating profit ₹377 crore, operating margin 10%, net profit ₹262 crore, EPS ₹27.45, against net profit ₹235 crore in the December 2025 quarter. ¶ ## What the numbers say ¶ • KEI's P/E of 35.5 is above the peer median of 24.34 and near Polycab's 36.32, while its ROCE of 20.0% is below Polycab's 33.21% and R R Kabel's 28.10%, so it earns less on capital than the larger peers. ¶ • September 2026 quarter sales rose 38.52% and net profit 28.96% year on year, but operating margin slipped to 10% from 12% in the June 2026 quarter, so the 7.64% fall followed a quarter where profit grew but margin narrowed. ¶ ↗ m.economictimes.com|https://m.economictimes.com/markets/stocks/news/kei-industries-shares-tumble-8-despite-q2-profit-rising-29-revenue-up-39/articleshow/135108071.cms ;; moneycontrol.com|https://www.moneycontrol.com/news/business/markets/buzzing-stocks-m-m-financial-services-kei-industries-fall-6-9-post-q2-results-pc-jeweller-gains-as-profit-surges-14057152.html ;; cnbctv18.com|https://www.cnbctv18.com/market/earnings/kei-industries-q2-results-expects-export-growth-order-book-hits-record-rs-1000-crore-20016730.htm

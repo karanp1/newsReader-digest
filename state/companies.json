@@ -53,7 +53,7 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "google": {
   "name": "Google",
@@ -172,7 +172,7 @@
   "sector": "Telecom",
   "description": "Indian telecom operator providing mobile, broadband and enterprise services across the country.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "motilaloswal": {
   "name": "Motilal Oswal",
@@ -312,7 +312,7 @@
   "sector": "Telecom",
   "description": "Airtel-branded mobile operator in Rajasthan and Northeast India; also sells broadband in Rajasthan.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-22"
  },
  "vodafoneidea": {
   "name": "Vodafone Idea",
@@ -501,28 +501,28 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "naukri": {
   "name": "Naukri",
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "godigit": {
   "name": "Go Digit",
   "sector": "Insurance",
   "description": "Indian general insurance company offering motor, health and travel policies digitally.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "syrmasgs": {
   "name": "Syrma SGS",
@@ -1061,7 +1061,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its IBIT bitcoin ETF led $487.1 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "fidelity": {
   "name": "Fidelity",
@@ -1145,7 +1145,7 @@
   "sector": "Quick commerce",
   "description": "Flipkart's quick-commerce arm; hired Dibyendu Sen for brand partnerships.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "safari": {
   "name": "Safari",
@@ -1201,7 +1201,7 @@
   "sector": "Stock exchange",
   "description": "National Stock Exchange; listed on 24 September at Rs 1,785 per share.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "ntpcgreenenergy": {
   "name": "NTPC Green Energy",
@@ -1432,7 +1432,7 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "citi": {
   "name": "Citi",
@@ -2321,7 +2321,7 @@
   "sector": "Ports",
   "description": "Runs Kandla port; pitching it as a hub for green fuels and shipbuilding.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-22"
  },
  "sebi": {
   "name": "SEBI",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "accenture": {
   "name": "Accenture",
@@ -2993,7 +2993,7 @@
   "sector": "Steel products",
   "description": "Pipe maker; cited as a valuation peer for Gallantt Ispat and Usha Martin.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "aplapollo": {
   "name": "APL Apollo",
@@ -3007,7 +3007,7 @@
   "sector": "Steel",
   "description": "Steel producer; cited as a valuation peer for Gallantt Ispat and Usha Martin.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-22"
  },
  "ratnamanimetals": {
   "name": "Ratnamani Metals",
@@ -3070,7 +3070,7 @@
   "sector": "Retail",
   "description": "Value retailer; cited as a valuation peer for DMart.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-22"
  },
  "vmartretail": {
   "name": "V-Mart Retail",
@@ -3273,7 +3273,7 @@
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "gartner": {
   "name": "Gartner",
@@ -3357,7 +3357,7 @@
   "sector": "Credit rating",
   "description": "Rating agency; its economist expects another RBI rate hike in December.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-22"
  },
  "eutelsat": {
   "name": "Eutelsat",
@@ -3630,7 +3630,7 @@
   "sector": "Wires and cables",
   "description": "Makes wires, cables and FMEG products for residential, industrial and infrastructure customers.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "aetherindustries": {
   "name": "Aether Industries",
@@ -3728,7 +3728,7 @@
   "sector": "AI research",
   "description": "Google's AI research unit; builds the Gemma and Gemini model families and on-device scam detection tools.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-22"
  },
  "palantir": {
   "name": "Palantir",
@@ -4183,7 +4183,7 @@
   "sector": "AI coding",
   "description": "OpenAI's coding tool used by Higgsfield creatives to turn ideas into software prototypes.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-22"
  },
  "brix": {
   "name": "BriX",
@@ -5093,7 +5093,7 @@
   "sector": "Retail",
   "description": "Indian supermarket chain operated by Avenue Supermarts.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "indianairforce": {
   "name": "Indian Air Force",
@@ -5499,7 +5499,7 @@
   "sector": "Food regulator",
   "description": "India's food safety regulator that issued notices to Flipkart, BigBasket and Gemini Edibles.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-22"
  },
  "bigbasket": {
   "name": "BigBasket",
@@ -5590,7 +5590,7 @@
   "sector": "AI",
   "description": "Chinese AI lab that released the DeepSeek-V4.1-Flash-1017 model and search APIs.",
   "first_added": "2026-10-18",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "amazonconnect": {
   "name": "Amazon Connect",
@@ -6248,14 +6248,14 @@
   "sector": "Markets",
   "description": "Indian benchmark index that fell 876.37 points to 73,852.90.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "nifty": {
   "name": "Nifty",
   "sector": "Markets",
   "description": "Indian benchmark index that dropped 257.20 points to 22,888.95.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "bsecapitalgoodsindex": {
   "name": "BSE Capital Goods Index",
@@ -6269,21 +6269,21 @@
   "sector": "Commodities",
   "description": "Oil benchmark at $107.79 a barrel, down 1.88%, a key risk to the rupee.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "rupee": {
   "name": "Rupee",
   "sector": "Currency",
   "description": "Indian currency that closed 3 paise lower at 94.92 against the US dollar.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "usdollar": {
   "name": "US dollar",
   "sector": "Currency",
   "description": "US currency that firmed against gold and pressured the rupee.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "ustreasury": {
   "name": "US Treasury",
@@ -6325,7 +6325,7 @@
   "sector": "Legal",
   "description": "Pseudonymous plaintiff in a New York lawsuit seeking ownership of dormant Bitcoin wallets.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "newyork": {
   "name": "New York",
@@ -6465,21 +6465,21 @@
   "sector": "Creator platform",
   "description": "Adult content creator who traces online censorship to FOSTA-SESTA.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "tracyclayton": {
   "name": "Tracy Clayton",
   "sector": "Social media",
   "description": "Meta spokesperson defending Muse's private adult chats versus social media promotion.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "muse": {
   "name": "Muse",
   "sector": "AI",
   "description": "Meta's AI agent that generates explicit text in private chats with adult users.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "gpt61sol": {
   "name": "GPT-6.1 Sol",
@@ -6535,7 +6535,7 @@
   "sector": "AI",
   "description": "OpenAI's enterprise chatbot product used in Sullivan & Cromwell's Agreement Analyzer.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "deepseekharness": {
   "name": "DeepSeek Harness",
@@ -6584,7 +6584,7 @@
   "sector": "Philanthropy",
   "description": "Wholly-owned LLC receiving 5% of Anthropic shares for public benefit giving.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "eatinbyminutes": {
   "name": "Eat-in by Minutes",
@@ -6675,63 +6675,63 @@
   "sector": "Food services",
   "description": "Restaurant body president cited on Flipkart's proposed 10% base commission.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "kaifees": {
   "name": "Kaifee S.",
   "sector": "E-commerce",
   "description": "Appointed Vice President – Human Resources at Flipkart to lead people strategy.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "williamdemchak": {
   "name": "William Demchak",
   "sector": "Banking",
   "description": "PNC CEO who warned agentic AI transacting in customer accounts is incredibly unsafe.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "johnsavva": {
   "name": "John Savva",
   "sector": "Legal services",
   "description": "Sullivan & Cromwell partner who built Agreement Analyzer as a proof of concept with Codex.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "amitchadha": {
   "name": "Amit Chadha",
   "sector": "IT services",
   "description": "LTTS CEO who said H2 will be better than H1 on order backlog and inflow.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "santoshkumarsarangi": {
   "name": "Santosh Kumar Sarangi",
   "sector": "Government",
   "description": "MNRE Secretary who said India's agrivoltaic capacity could exceed 5 GW in three to four years.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "sbastienlecornu": {
   "name": "Sébastien Lecornu",
   "sector": "Government",
   "description": "French Prime Minister who said no one was killed despite severe violence and property damage.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "amandeepkaur": {
   "name": "Amandeep Kaur",
   "sector": "Legal",
   "description": "Indian national, 30, among 28 green card holders charged with election fraud in California.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "kamleshshah": {
   "name": "Kamlesh Shah",
   "sector": "Legal",
   "description": "Indian national, 67, among 28 green card holders charged with election fraud in California.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "odisha": {
   "name": "Odisha",
@@ -7067,7 +7067,7 @@
   "sector": "Regulator",
   "description": "Australian workplace tribunal proposed as the venue for AI monitoring complaints.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "aws": {
   "name": "AWS",
@@ -7109,7 +7109,7 @@
   "sector": "AI",
   "description": "Google's AI model family; its transcription model was compared with Voxtral 3.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "scribe": {
   "name": "Scribe",
@@ -7130,7 +7130,7 @@
   "sector": "AI",
   "description": "OpenAI's AI assistant; its Work version is used by a restaurant franchisee.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "himadri": {
   "name": "Himadri",
@@ -7186,7 +7186,7 @@
   "sector": "E-commerce",
   "description": "Flipkart's annual festive sale event; daily active users hit a new high.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "torchneuron": {
   "name": "TorchNeuron",
@@ -7375,7 +7375,7 @@
   "sector": "Space",
   "description": "SpaceX's military satellite service; Musk reportedly capped speeds for Ukraine.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "jamnagarrefinery": {
   "name": "Jamnagar refinery",
@@ -7634,7 +7634,7 @@
   "sector": "Steel pipes",
   "description": "Indian steel tube maker, a peer of Jindal Saw.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "shreecement": {
   "name": "Shree Cement",
@@ -7676,7 +7676,7 @@
   "sector": "Stock exchange",
   "description": "Indian exchange where Jio Platforms' IPO bids and Reliance share moves were recorded.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "dcgi": {
   "name": "DCGI",
@@ -8011,6 +8011,797 @@
   "name": "eMudhra",
   "sector": "Cybersecurity",
   "description": "Bengaluru digital identity and security company under MeitY investigation after a security incident.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "savance": {
+  "name": "SAVance",
+  "sector": "Luxury services",
+  "description": "Opened a luxury watch servicing and restoration facility in Belagavi, Karnataka.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "aptransco": {
+  "name": "AP-Transco",
+  "sector": "Power transmission",
+  "description": "Andhra Pradesh transmission utility planning an IPO under a Ministry of Power mandate.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "internationalgemologicalinstitute": {
+  "name": "International Gemological Institute",
+  "sector": "Gem certification",
+  "description": "World's largest independent diamond and jewellery certification provider; Q2 profit rose 43%.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "tatateleservicesmaharashtra": {
+  "name": "Tata Teleservices Maharashtra",
+  "sector": "Telecom",
+  "description": "Provides wireline voice and data services to enterprises in Maharashtra and Goa.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "keiindustries": {
+  "name": "KEI Industries",
+  "sector": "Wires and cables",
+  "description": "Makes EHV, HT and LT wires and cables; shares fell 7.6% despite 29% profit growth.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "polycab": {
+  "name": "Polycab",
+  "sector": "Wires and cables",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "sabey": {
+  "name": "Sabey",
+  "sector": "Data centers",
+  "description": "Data center company that has hosted student field trips, per WIRED.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "dropbox": {
+  "name": "Dropbox",
+  "sector": "Cloud storage",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "instinct": {
+  "name": "Instinct",
+  "sector": "AI",
+  "description": "Personal AI agent startup that raised $1 billion in a Series C at a $10 billion valuation.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "7x24exchangeinternational": {
+  "name": "7x24 Exchange International",
+  "sector": "Data centers",
+  "description": "Nonprofit promoting a children's storybook about data centers.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "afcom": {
+  "name": "AFCOM",
+  "sector": "Data centers",
+  "description": "Industry group whose Potomac chapter gave flag-making kits to Virginia first graders.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "alphago": {
+  "name": "AlphaGo",
+  "sector": "AI",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "fada": {
+  "name": "FADA",
+  "sector": "Automotive data",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "tpci": {
+  "name": "TPCI",
+  "sector": "Trade promotion",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "cii": {
+  "name": "CII",
+  "sector": "Industry body",
+  "description": "Urged exporters and MSMEs to tap benefits under the India-New Zealand FTA.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "ukibc": {
+  "name": "UKIBC",
+  "sector": "Trade body",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "aequs": {
+  "name": "Aequs",
+  "sector": "Manufacturing",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "tridentech": {
+  "name": "TridenTech",
+  "sector": "UAV engines",
+  "description": "Signed an MoU with Millworks Technologies to co-develop UAV internal combustion engines.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "anthropicsoftwares": {
+  "name": "Anthropic Softwares",
+  "sector": "Software",
+  "description": "Belagavi-based firm disputing the Anthropic name in an Indian court case.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "xpheno": {
+  "name": "Xpheno",
+  "sector": "Staffing",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "eiirtrend": {
+  "name": "EIIRTrend",
+  "sector": "Research",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "unearthinsight": {
+  "name": "UnearthInsight",
+  "sector": "Research",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "teri": {
+  "name": "TERI",
+  "sector": "Research",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "icmrnin": {
+  "name": "ICMR-NIN",
+  "sector": "Research",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "macquarieuniversity": {
+  "name": "Macquarie University",
+  "sector": "Education",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "barilanuniversity": {
+  "name": "Bar-Ilan University",
+  "sector": "Education",
+  "description": "Piloted an AI agent on Moodle covering 71 courses and about 2,400 students.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "aldi": {
+  "name": "ALDI",
+  "sector": "Retail",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "newenglandwind": {
+  "name": "New England Wind",
+  "sector": "Offshore wind",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "navic": {
+  "name": "NavIC",
+  "sector": "Satellite navigation",
+  "description": "India's navigation constellation, with only three working satellites.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "dcompany": {
+  "name": "D-Company",
+  "sector": "Organized crime",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "belong": {
+  "name": "Belong & Co.",
+  "sector": "Apparel",
+  "description": "Premium apparel brand being piloted by Vishal Mega Mart.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "darkai": {
+  "name": "Dark AI",
+  "sector": "AI",
+  "description": "Eternal's privacy-focused AI assistant using open-weight models.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "legaledge": {
+  "name": "LegalEdge",
+  "sector": "Legal services",
+  "description": "AT&T's in-house team applying AI to major legal matters.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "projectperception": {
+  "name": "Project Perception",
+  "sector": "Cybersecurity",
+  "description": "Microsoft initiative to supervise internal AI agents.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "guardianagents": {
+  "name": "Guardian Agents",
+  "sector": "Cybersecurity",
+  "description": "Microsoft product to supervise internal AI agents.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "daybreak": {
+  "name": "Daybreak",
+  "sector": "Cybersecurity",
+  "description": "Platform underlying Block's AI security harness.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "revamp": {
+  "name": "ReVamp",
+  "sector": "Video games",
+  "description": "Digital Sun game whose first playtest is being restricted over AI cloning fears.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "dots": {
+  "name": "Dots",
+  "sector": "AI",
+  "description": "OpenAI personal AI agent used by Cisco's president.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "copilotstudio": {
+  "name": "Copilot Studio",
+  "sector": "AI",
+  "description": "Microsoft tool used to build Bar-Ilan University's AI tutor agent.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "azureaiservices": {
+  "name": "Azure AI Services",
+  "sector": "Cloud AI",
+  "description": "Microsoft cloud AI services used in Bar-Ilan University's tutoring agent.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "moodle": {
+  "name": "Moodle",
+  "sector": "Education software",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "modelgarden": {
+  "name": "Model Garden",
+  "sector": "Cloud AI",
+  "description": "Google Cloud service that will host OpenAI frontier models.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "googleantigravity": {
+  "name": "Google Antigravity",
+  "sector": "AI",
+  "description": "Google product where OpenAI models will soon appear.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "geminiagent": {
+  "name": "Gemini Agent",
+  "sector": "AI",
+  "description": "Google agent where OpenAI models will soon appear.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "mistrallarge4": {
+  "name": "Mistral Large 4",
+  "sector": "AI",
+  "description": "Mistral's trillion-parameter model, called Le Chonk, trained on NVIDIA Grace Blackwell GPUs.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "omniverse": {
+  "name": "Omniverse",
+  "sector": "3D simulation",
+  "description": "NVIDIA's platform for GPU-accelerated 3D scene generation and SimReady assets.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "cudax": {
+  "name": "CUDA-X",
+  "sector": "Software libraries",
+  "description": "NVIDIA's library suite used in the Mistral engineering AI collaboration.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "warp": {
+  "name": "Warp",
+  "sector": "Simulation",
+  "description": "NVIDIA simulation tool used in the Mistral engineering AI collaboration.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "graceblackwell": {
+  "name": "Grace Blackwell",
+  "sector": "Semiconductors",
+  "description": "NVIDIA GPU platform used to train Mistral Large 4 in Europe.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "chatgptads": {
+  "name": "ChatGPT Ads",
+  "sector": "Advertising",
+  "description": "OpenAI's ad platform expanding to 26 more countries, reaching 89 markets.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "safetyids": {
+  "name": "SafetyIDs",
+  "sector": "AI safety",
+  "description": "OpenAI feature letting customers distinguish end users in investigations.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "usagepolicies": {
+  "name": "Usage Policies",
+  "sector": "AI governance",
+  "description": "OpenAI's updated developer requirements taking effect November 20, 2026.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "exportpromotionmission": {
+  "name": "Export Promotion Mission",
+  "sector": "Government scheme",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "vbgramgact": {
+  "name": "VB-GRAM G Act",
+  "sector": "Government scheme",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "mgnrega": {
+  "name": "MGNREGA",
+  "sector": "Government scheme",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "sco": {
+  "name": "SCO",
+  "sector": "International body",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "worldhealthorganization": {
+  "name": "World Health Organization",
+  "sector": "Health body",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "worldmeteorologicalorganization": {
+  "name": "World Meteorological Organization",
+  "sector": "Weather body",
+  "description": "Warned the current El Nino could be the strongest on record.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "interiordepartment": {
+  "name": "Interior Department",
+  "sector": "Government",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "ministryofpower": {
+  "name": "Ministry of Power",
+  "sector": "Government",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "meity": {
+  "name": "MeitY",
+  "sector": "Government",
+  "description": "Formed a special team to investigate the eMudhra security incident.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "rbi": {
+  "name": "RBI",
+  "sector": "Central bank",
+  "description": "Raised the repo rate 25 basis points to 5.5% and flagged widening inflation.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "deendayalport": {
+  "name": "Deendayal Port",
+  "sector": "Ports",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "aequsspecialeconomiczone": {
+  "name": "Aequs Special Economic Zone",
+  "sector": "Industrial park",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "belagavicommercialcourt": {
+  "name": "Belagavi Commercial Court",
+  "sector": "Judiciary",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "supremecourt": {
+  "name": "Supreme Court",
+  "sector": "Judiciary",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "un": {
+  "name": "UN",
+  "sector": "International body",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "straitofhormuz": {
+  "name": "Strait of Hormuz",
+  "sector": "Shipping",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "hamas": {
+  "name": "Hamas",
+  "sector": "Political group",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "alqaeda": {
+  "name": "Al-Qaeda",
+  "sector": "Terror group",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "dawoodibrahim": {
+  "name": "Dawood Ibrahim",
+  "sector": "Organized crime",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "elnino": {
+  "name": "El Nino",
+  "sector": "Climate",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "navratri": {
+  "name": "Navratri",
+  "sector": "Festival",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "anthropicindia": {
+  "name": "Anthropic India",
+  "sector": "AI",
+  "description": "Anthropic PBC's wholly owned Indian subsidiary, led by Irina Ghose.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "irinaghose": {
+  "name": "Irina Ghose",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "renukasingaram": {
+  "name": "Renuka Singaram",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "anupbagchi": {
+  "name": "Anup Bagchi",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "sashidharjagdishan": {
+  "name": "Sashidhar Jagdishan",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "sanjaymalhotra": {
+  "name": "Sanjay Malhotra",
+  "sector": "Central bank",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "nageshkumar": {
+  "name": "Nagesh Kumar",
+  "sector": "Economist",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "ramsingh": {
+  "name": "Ram Singh",
+  "sector": "Economist",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "pralhadjoshi": {
+  "name": "Pralhad Joshi",
+  "sector": "Government",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "rajnathsingh": {
+  "name": "Rajnath Singh",
+  "sector": "Government",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "marcorubio": {
+  "name": "Marco Rubio",
+  "sector": "Government",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "sergiogor": {
+  "name": "Sergio Gor",
+  "sector": "Government",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "gadieisenkot": {
+  "name": "Gadi Eisenkot",
+  "sector": "Politics",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "benjaminnetanyahu": {
+  "name": "Benjamin Netanyahu",
+  "sector": "Politics",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "markcarney": {
+  "name": "Mark Carney",
+  "sector": "Politics",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "donaldtrump": {
+  "name": "Donald Trump",
+  "sector": "Politics",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "elonmusk": {
+  "name": "Elon Musk",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "vladimirputin": {
+  "name": "Vladimir Putin",
+  "sector": "Politics",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "stevewitkoff": {
+  "name": "Steve Witkoff",
+  "sector": "Government",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "sheldonwhitehouse": {
+  "name": "Sheldon Whitehouse",
+  "sector": "Politics",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "jeetupatel": {
+  "name": "Jeetu Patel",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "billryan": {
+  "name": "Bill Ryan",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "davidmcatee": {
+  "name": "David McAtee",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "hayetegallot": {
+  "name": "Hayete Gallot",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "hansunho": {
+  "name": "Han Sun-ho",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "francispadamadan": {
+  "name": "Francis Padamadan",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "pareekhjain": {
+  "name": "Pareekh Jain",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "sanjaybudhia": {
+  "name": "Sanjay Budhia",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "anilgoel": {
+  "name": "Anil Goel",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "evyhambro": {
+  "name": "Evy Hambro",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "sadnankhan": {
+  "name": "Sadnan Khan",
+  "sector": "Individual",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "michaeleaston": {
+  "name": "Michael Easton",
+  "sector": "Judiciary",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "gregorybaker": {
+  "name": "Gregory Baker",
+  "sector": "Academic",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "yardenshay": {
+  "name": "Yarden Shay",
+  "sector": "Student",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "eliyahubiton": {
+  "name": "Eliyahu Biton",
+  "sector": "Academic",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "raghoopuri": {
+  "name": "Raghoo Puri",
+  "sector": "Government",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "ishaqdar": {
+  "name": "Ishaq Dar",
+  "sector": "Politics",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "gauravgupta": {
+  "name": "Gaurav Gupta",
+  "sector": "Executive",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "leesedol": {
+  "name": "Lee Sedol",
+  "sector": "Individual",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "dougford": {
+  "name": "Doug Ford",
+  "sector": "Politics",
+  "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
   "last_mentioned": "2026-10-22"
  }
