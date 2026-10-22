@@ -60,7 +60,7 @@
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-22"
  },
  "olaelectric": {
   "name": "Ola Electric",
@@ -144,7 +144,7 @@
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -221,7 +221,7 @@
   "sector": "E-commerce",
   "description": "Global online retailer running Great Indian Festival sale in competition with Flipkart.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "chennaipetroleum": {
   "name": "Chennai Petroleum",
@@ -648,7 +648,7 @@
   "sector": "Semiconductors",
   "description": "Partnered with Tejas Networks to demonstrate pre-standard 6G ISAC technology.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "nokia": {
   "name": "Nokia",
@@ -662,14 +662,14 @@
   "sector": "IT services",
   "description": "Issued a Rs 1,537 crore Letter of Intent to Tejas for BSNL 4G RAN equipment.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-22"
  },
  "blinkit": {
   "name": "Blinkit",
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -865,7 +865,7 @@
   "sector": "IT services",
   "description": "Indian IT services company; chairman Rishad Premji led the ET Startup Awards jury.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "porsche": {
   "name": "Porsche",
@@ -1229,14 +1229,14 @@
   "sector": "IT services",
   "description": "Indian IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "hcl": {
   "name": "HCL",
   "sector": "IT services",
   "description": "IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "capgemini": {
   "name": "Capgemini",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -2587,7 +2587,7 @@
   "sector": "IT services",
   "description": "Indian IT services firm; cited as a peer for Persistent Systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "honeywellauto": {
   "name": "Honeywell Auto",
@@ -6780,7 +6780,7 @@
   "sector": "Electric vehicles",
   "description": "Electric vehicle and energy company; earnings to test Musk's AI spending ambitions amid SpaceX merger talk.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-22"
  },
  "tataconsultancyservices": {
   "name": "Tata Consultancy Services",
@@ -7983,6 +7983,34 @@
   "name": "Euro Textiles",
   "sector": "Textiles",
   "description": "German firm partnering Thiagarajar Group on an export-oriented cotton jacquard fabric unit.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "ltimindtree": {
+  "name": "LTIMindtree",
+  "sector": "IT services",
+  "description": "Indian IT services firm among majors recording 92,000 exits over the past year.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "mygate": {
+  "name": "Mygate",
+  "sector": "PropTech",
+  "description": "Housing society management platform merging with Adonmo in an all-stock deal.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "adonmo": {
+  "name": "Adonmo",
+  "sector": "Digital advertising",
+  "description": "Eternal-backed digital advertising firm merging with Mygate in an all-stock deal.",
+  "first_added": "2026-10-22",
+  "last_mentioned": "2026-10-22"
+ },
+ "emudhra": {
+  "name": "eMudhra",
+  "sector": "Cybersecurity",
+  "description": "Bengaluru digital identity and security company under MeitY investigation after a security incident.",
   "first_added": "2026-10-22",
   "last_mentioned": "2026-10-22"
  }
