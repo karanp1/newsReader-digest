@@ -144,7 +144,7 @@
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-23"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -508,7 +508,7 @@
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-23"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
@@ -662,7 +662,7 @@
   "sector": "IT services",
   "description": "Issued a Rs 1,537 crore Letter of Intent to Tejas for BSNL 4G RAN equipment.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-23"
  },
  "blinkit": {
   "name": "Blinkit",
@@ -1124,7 +1124,7 @@
   "sector": "Telecom",
   "description": "State-run telecom operator; rolling out 4G across 18,685 sites with Tejas RAN gear.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-23"
  },
  "aisle": {
   "name": "Aisle",
@@ -1348,14 +1348,14 @@
   "sector": "Consumer electronics",
   "description": "iPhone and MacBook maker; discounts on MacBook Neo offered during Flipkart's sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-23"
  },
  "icicibank": {
   "name": "ICICI Bank",
   "sector": "Banking",
   "description": "Private bank; offered credit card discounts on MacBook Neo during Flipkart sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-23"
  },
  "hdfcbank": {
   "name": "HDFC Bank",
@@ -2027,14 +2027,14 @@
   "sector": "Engineering services",
   "description": "Engineering services firm used as a valuation comparison for Cyient.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-23"
  },
  "sagility": {
   "name": "Sagility",
   "sector": "Healthcare services",
   "description": "Business process services firm used as a valuation comparison for Cyient.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-23"
  },
  "deribit": {
   "name": "Deribit",
@@ -2496,7 +2496,7 @@
   "sector": "Travel",
   "description": "Online travel agency owned by Flipkart; former staff joined the ESOP petition.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-23"
  },
  "shopsy": {
   "name": "Shopsy",
@@ -2657,7 +2657,7 @@
   "sector": "Industry body",
   "description": "Gold industry body; reported a record $31 billion into gold ETFs in Q3.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-23"
  },
  "abra": {
   "name": "Abra",
@@ -3315,7 +3315,7 @@
   "sector": "Engineering services",
   "description": "L&T Technology Services; bets on manufacturing AI, targeting 80% revenue from six areas.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-23"
  },
  "siemens": {
   "name": "Siemens",
@@ -3749,7 +3749,7 @@
   "sector": "Insurance",
   "description": "Life Insurance Corporation of India, the state-owned insurer; launched three new non-par individual plans.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-23"
  },
  "vantrockrealassets": {
   "name": "Vantrock Real Assets",
@@ -4057,7 +4057,7 @@
   "sector": "Broking",
   "description": "Brokerage that set a Rs 1,696 target on Reliance, citing the Jio listing as a catalyst.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-23"
  },
  "prabhudaslilladher": {
   "name": "Prabhudas Lilladher",
@@ -5037,7 +5037,7 @@
   "sector": "Banking",
   "description": "Indian private bank, a peer to IDBI Bank.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-23"
  },
  "statebankofindia": {
   "name": "State Bank of India",
@@ -5177,7 +5177,7 @@
   "sector": "Computing hardware",
   "description": "Designs and builds high-performance computing, AI systems and data centre servers.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-23"
  },
  "tdpowersystems": {
   "name": "TD Power Systems",
@@ -5912,7 +5912,7 @@
   "sector": "Banking",
   "description": "Private bank serving Jammu, Kashmir and Ladakh with retail, corporate and treasury operations.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-23"
  },
  "sammaancapital": {
   "name": "Sammaan Capital",
@@ -6920,7 +6920,7 @@
   "sector": "Aerospace",
   "description": "US industrial and aerospace company supplying TPE331 engines for India's HTT-40 trainers.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-23"
  },
  "blocktowercapital": {
   "name": "BlockTower Capital",
@@ -7172,7 +7172,7 @@
   "sector": "Retail",
   "description": "Indian beauty and fashion retailer, operator of Nykaa.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-23"
  },
  "instahelp": {
   "name": "InstaHelp",
@@ -7886,7 +7886,7 @@
   "sector": "Defence components",
   "description": "Won developmental HAL orders for HAWK oxygen valve and MiG-29 sensor assemblies.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-23"
  },
  "att": {
   "name": "AT&T",
@@ -9054,6 +9054,90 @@
   "name": "OpenClaw",
   "sector": "AI",
   "description": "AI assistant installed on a Mac mini to handle business and IT tasks.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "geojit": {
+  "name": "Geojit",
+  "sector": "Financial services",
+  "description": "Brokerage firm that recommended subscribing to the Jio Platforms IPO.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "tata": {
+  "name": "Tata",
+  "sector": "Conglomerate",
+  "description": "Tata group companies remain in contention for the AMCA stealth prototype contract.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "psilatech": {
+  "name": "Psila Tech",
+  "sector": "Not enough detail in today's digest",
+  "description": "Info Edge's Redstart Labs will cut its 13.38% stake to zero under a termination agreement.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "sygnum": {
+  "name": "Sygnum",
+  "sector": "Crypto banking",
+  "description": "Launched MultiSYG bitcoin-backed loans using collateral held in multi-signature wallets.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "londongoldcentre": {
+  "name": "London Gold Centre",
+  "sector": "Gold retail",
+  "description": "Launched an online calculator giving live market-linked gold estimates by weight and purity.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "nask": {
+  "name": "NASK",
+  "sector": "Research institute",
+  "description": "Poland's national research institute; its AI Safety Research Center will work with OpenAI.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "certpolska": {
+  "name": "CERT Polska",
+  "sector": "Cybersecurity",
+  "description": "Part of NASK; used OpenAI's cyber-capable models to find six MikroTik RouterOS vulnerabilities.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "mikrotik": {
+  "name": "MikroTik",
+  "sector": "Networking hardware",
+  "description": "Router maker that released fixes for six RouterOS flaws found with OpenAI's models.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "volvocars": {
+  "name": "Volvo Cars",
+  "sector": "Automobiles",
+  "description": "Swedish carmaker cutting about 2,500 jobs after a Q3 net loss of 5.7 billion kronor.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "sygnumbank": {
+  "name": "Sygnum Bank",
+  "sector": "Crypto banking",
+  "description": "Not enough detail in today's digest.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "alive": {
+  "name": "Alive",
+  "sector": "AI",
+  "description": "AI startup backed by Flipkart Ventures.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "keploy": {
+  "name": "Keploy",
+  "sector": "AI",
+  "description": "AI startup backed by Flipkart Ventures.",
   "first_added": "2026-10-23",
   "last_mentioned": "2026-10-23"
  }
