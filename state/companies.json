@@ -53,7 +53,7 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-23"
  },
  "google": {
   "name": "Google",
@@ -67,7 +67,7 @@
   "sector": "Electric vehicles",
   "description": "Manufacturer of electric scooters and two-wheelers in India; raised Rs 1,000 crore via rights issue.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-23"
  },
  "razorpay": {
   "name": "Razorpay",
@@ -179,7 +179,7 @@
   "sector": "Financial services",
   "description": "Indian brokerage and financial services firm; values Jio Platforms and rates Reliance Industries a buy.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-23"
  },
  "flipkart": {
   "name": "Flipkart",
@@ -1586,7 +1586,7 @@
   "sector": "Venture capital",
   "description": "Consumer-focused venture fund that led Beyond Appliances' Series B round.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-23"
  },
  "neogrowth": {
   "name": "NeoGrowth",
@@ -1628,7 +1628,7 @@
   "sector": "Venture capital",
   "description": "Zerodha-backed fund that invested in quantum startup Quanfluence.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-23"
  },
  "sunfoxtechnologies": {
   "name": "Sunfox Technologies",
@@ -1852,7 +1852,7 @@
   "sector": "Venture capital",
   "description": "Venture fund partnering on the DeepVerse deeptech policy platform.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-23"
  },
  "lightspeed": {
   "name": "Lightspeed",
@@ -2328,7 +2328,7 @@
   "sector": "Regulator",
   "description": "India's securities regulator; to issue guidelines on closing auction session.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-23"
  },
  "reservebankofindia": {
   "name": "Reserve Bank of India",
@@ -5303,7 +5303,7 @@
   "sector": "AI",
   "description": "AI platform company in early discussions with Anthropic about becoming an independent evaluator.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-23"
  },
  "bostondynamics": {
   "name": "Boston Dynamics",
@@ -5982,7 +5982,7 @@
   "sector": "Cement",
   "description": "India's largest cement maker; Q2 net profit rose 21.3% to Rs 1,501 crore.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-23"
  },
  "eidparry": {
   "name": "EID Parry",
@@ -6780,7 +6780,7 @@
   "sector": "Electric vehicles",
   "description": "Electric vehicle and energy company; earnings to test Musk's AI spending ambitions amid SpaceX merger talk.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-23"
  },
  "tataconsultancyservices": {
   "name": "Tata Consultancy Services",
@@ -8970,6 +8970,90 @@
   "name": "Foro Penal",
   "sector": "Human rights",
   "description": "Counts over 320 political prisoners in Venezuela.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "amaha": {
+  "name": "Amaha",
+  "sector": "Mental health",
+  "description": "Mental healthcare provider raising Rs 100 crore from Lightbox, Fireside and others.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "chapterhome": {
+  "name": "Chapter Home",
+  "sector": "Home products",
+  "description": "Home and kitchen products startup raising Rs 63 crore in equity and debt.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "quess": {
+  "name": "Quess Corp",
+  "sector": "Staffing",
+  "description": "Indian staffing firm; reported healthcare GCCs pay up to 2.5 times median salary for AI talent.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "lightboxventures": {
+  "name": "Lightbox Ventures",
+  "sector": "Venture capital",
+  "description": "Existing backer of Amaha in its Rs 100 crore fundraise.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "sandboxinternationalholdings": {
+  "name": "Sandbox International Holdings",
+  "sector": "Investment",
+  "description": "London-based investor in Amaha's Rs 100 crore fundraise.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "strideventures": {
+  "name": "Stride Ventures",
+  "sector": "Venture capital",
+  "description": "Investor in Chapter Home's Rs 63 crore equity and debt round.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "calliopecapitaladvisors": {
+  "name": "Calliope Capital Advisors",
+  "sector": "Financial services",
+  "description": "Applied for shares in Ola Electric Mobility's Rs 1,000-crore rights issue.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "zhongguancunacademy": {
+  "name": "Zhongguancun Academy",
+  "sector": "Research",
+  "description": "Partnered with Hugging Face on the Carbon-X DNA model.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "universityofnaplesfedericoii": {
+  "name": "University of Naples Federico II",
+  "sector": "University",
+  "description": "Partnered with Hugging Face on the Carbon-X DNA model.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "babylon": {
+  "name": "Babylon",
+  "sector": "Crypto",
+  "description": "Bitcoin staking protocol; cofounder commented on rising Treasury yields.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "odoo": {
+  "name": "Odoo",
+  "sector": "Software",
+  "description": "Business software suite; entries reconciled by an OpenClaw AI assistant.",
+  "first_added": "2026-10-23",
+  "last_mentioned": "2026-10-23"
+ },
+ "openclaw": {
+  "name": "OpenClaw",
+  "sector": "AI",
+  "description": "AI assistant installed on a Mac mini to handle business and IT tasks.",
   "first_added": "2026-10-23",
   "last_mentioned": "2026-10-23"
  }
