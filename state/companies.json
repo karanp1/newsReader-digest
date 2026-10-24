@@ -53,7 +53,7 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "google": {
   "name": "Google",
@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -130,7 +130,7 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-24"
  },
  "starlink": {
   "name": "Starlink",
@@ -144,7 +144,7 @@
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -158,7 +158,7 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
@@ -179,14 +179,14 @@
   "sector": "Financial services",
   "description": "Indian brokerage and financial services firm; values Jio Platforms and rates Reliance Industries a buy.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "flipkart": {
   "name": "Flipkart",
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "walmart": {
   "name": "Walmart",
@@ -249,7 +249,7 @@
   "sector": "Oil refining",
   "description": "State-owned Hindustan Petroleum refining and selling petroleum products in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "pvrinox": {
   "name": "PVR Inox",
@@ -501,28 +501,28 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "naukri": {
   "name": "Naukri",
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "godigit": {
   "name": "Go Digit",
   "sector": "Insurance",
   "description": "Indian general insurance company offering motor, health and travel policies digitally.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "syrmasgs": {
   "name": "Syrma SGS",
@@ -571,7 +571,7 @@
   "sector": "Fintech",
   "description": "Trading app that added $25 million of bitcoin to its corporate balance sheet, its first proprietary holding.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-24"
  },
  "metaplanet": {
   "name": "Metaplanet",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -956,7 +956,7 @@
   "sector": "Conglomerate",
   "description": "Mukesh Ambani-led conglomerate; its satellite arm already holds India authorisation.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "oneweb": {
   "name": "OneWeb",
@@ -1026,7 +1026,7 @@
   "sector": "Pharmaceuticals",
   "description": "Drugmaker; its Andhra Pradesh plant received two U.S. FDA observations.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-24"
  },
  "paramount": {
   "name": "Paramount",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1229,7 +1229,7 @@
   "sector": "IT services",
   "description": "Indian IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-24"
  },
  "hcl": {
   "name": "HCL",
@@ -1320,7 +1320,7 @@
   "sector": "Engineering services",
   "description": "Engineering research and development services company; shares jumped 6%.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "tvsmotor": {
   "name": "TVS Motor",
@@ -1705,7 +1705,7 @@
   "sector": "Travel tech",
   "description": "Travel technology platform that raised an undisclosed funding round this week.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "moneytruva": {
   "name": "MoneyTruVa",
@@ -1887,14 +1887,14 @@
   "sector": "Oil and gas",
   "description": "State oil marketing company covered by the RBI's special dollar window.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-24"
  },
  "bharatpetroleum": {
   "name": "Bharat Petroleum",
   "sector": "Oil and gas",
   "description": "State oil marketing company covered by the RBI's special dollar window.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-24"
  },
  "kotakmahindracapital": {
   "name": "Kotak Mahindra Capital",
@@ -2489,14 +2489,14 @@
   "sector": "Financial services",
   "description": "Investment bank; its Neha Agarwal commented on institutional demand for IPOs.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-24"
  },
  "cleartrip": {
   "name": "Cleartrip",
   "sector": "Travel",
   "description": "Online travel agency owned by Flipkart; former staff joined the ESOP petition.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "shopsy": {
   "name": "Shopsy",
@@ -2510,7 +2510,7 @@
   "sector": "Fintech",
   "description": "Flipkart's lending and credit platform; former staff joined the ESOP petition.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-24"
  },
  "anscommerce": {
   "name": "ANS Commerce",
@@ -2657,7 +2657,7 @@
   "sector": "Industry body",
   "description": "Gold industry body; reported a record $31 billion into gold ETFs in Q3.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "abra": {
   "name": "Abra",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-24"
  },
  "accenture": {
   "name": "Accenture",
@@ -3273,7 +3273,7 @@
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "gartner": {
   "name": "Gartner",
@@ -3322,7 +3322,7 @@
   "sector": "Industrial technology",
   "description": "Industrial technology firm; technology partner for LTTS's Bengaluru manufacturing AI lab.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-24"
  },
  "elaracapital": {
   "name": "Elara Capital",
@@ -3336,7 +3336,7 @@
   "sector": "Automotive",
   "description": "Automaker; deepened partnership with Stellantis to develop global vehicles in India.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-24"
  },
  "stellantis": {
   "name": "Stellantis",
@@ -3455,21 +3455,21 @@
   "sector": "Financial services",
   "description": "Investment bank; estimated Jio Platforms equity value at Rs 9.8-10.3 lakh crore.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-24"
  },
  "zomato": {
   "name": "Zomato",
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "swiggy": {
   "name": "Swiggy",
   "sector": "Food delivery",
   "description": "Food delivery and quick commerce platform; ran drone delivery trials in 2021 and 2022.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "cdot": {
   "name": "C-DoT",
@@ -3749,7 +3749,7 @@
   "sector": "Insurance",
   "description": "Life Insurance Corporation of India, the state-owned insurer; launched three new non-par individual plans.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "vantrockrealassets": {
   "name": "Vantrock Real Assets",
@@ -4050,7 +4050,7 @@
   "sector": "Investment banking",
   "description": "Investment bank named among anchor investors in Jio Platforms' IPO.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-24"
  },
  "religare": {
   "name": "Religare",
@@ -5072,7 +5072,7 @@
   "sector": "IT services",
   "description": "Indian IT services company mentioned in trade spotlight coverage.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-24"
  },
  "stlnetworks": {
   "name": "STL Networks",
@@ -5093,7 +5093,7 @@
   "sector": "Retail",
   "description": "Indian supermarket chain operated by Avenue Supermarts.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-24"
  },
  "indianairforce": {
   "name": "Indian Air Force",
@@ -5121,14 +5121,14 @@
   "sector": "Crypto",
   "description": "Leading cryptocurrency that fell to $82,000 after higher-than-expected CPI.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "gold": {
   "name": "Gold",
   "sector": "Commodities",
   "description": "Precious metal trading near $4,100 with record ETF holdings.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "yaraj": {
   "name": "Yara J",
@@ -5912,7 +5912,7 @@
   "sector": "Banking",
   "description": "Private bank serving Jammu, Kashmir and Ladakh with retail, corporate and treasury operations.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "sammaancapital": {
   "name": "Sammaan Capital",
@@ -6087,7 +6087,7 @@
   "sector": "Banking",
   "description": "Indian private bank; peer comparison for J&K Bank's valuation.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-24"
  },
  "pcblchemical": {
   "name": "PCBL Chemical",
@@ -6780,7 +6780,7 @@
   "sector": "Electric vehicles",
   "description": "Electric vehicle and energy company; earnings to test Musk's AI spending ambitions amid SpaceX merger talk.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "tataconsultancyservices": {
   "name": "Tata Consultancy Services",
@@ -7536,7 +7536,7 @@
   "sector": "Streaming",
   "description": "US streaming service; posted record India subscriber growth in Q3 2026 helped by a Flipkart bundle.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-24"
  },
  "cibc": {
   "name": "CIBC",
@@ -8033,14 +8033,14 @@
   "sector": "Gem certification",
   "description": "World's largest independent diamond and jewellery certification provider; Q2 profit rose 43%.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "tatateleservicesmaharashtra": {
   "name": "Tata Teleservices Maharashtra",
   "sector": "Telecom",
   "description": "Provides wireline voice and data services to enterprises in Maharashtra and Goa.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "keiindustries": {
   "name": "KEI Industries",
@@ -8887,7 +8887,7 @@
   "sector": "Credit ratings",
   "description": "Called Jio Platforms' IPO credit positive for Reliance.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "auspicecapital": {
   "name": "Auspice Capital",
@@ -9140,5 +9140,96 @@
   "description": "AI startup backed by Flipkart Ventures.",
   "first_added": "2026-10-23",
   "last_mentioned": "2026-10-23"
+ },
+ "jiostar": {
+  "name": "JioStar",
+  "sector": "Media",
+  "description": "Indian media joint venture of Reliance and Disney running TV and streaming.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "starzplay": {
+  "name": "Starz Play",
+  "sector": "Streaming",
+  "description": "Streaming service targeting South Asian audiences in the Middle East and beyond.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "iveco": {
+  "name": "Iveco",
+  "sector": "Commercial vehicles",
+  "description": "European maker of trucks, buses and commercial vehicles.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "instamart": {
+  "name": "Instamart",
+  "sector": "Quick commerce",
+  "description": "Swiggy's quick commerce grocery delivery service.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "bijnis": {
+  "name": "Bijnis",
+  "sector": "B2B commerce",
+  "description": "B2B platform connecting manufacturers and retailers.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "bcg": {
+  "name": "BCG",
+  "sector": "Consulting",
+  "description": "Boston Consulting Group, global management consulting firm.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "knightfrank": {
+  "name": "Knight Frank",
+  "sector": "Real estate",
+  "description": "Global property consultancy tracking real estate markets.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "waareeenergies": {
+  "name": "Waaree Energies",
+  "sector": "Solar",
+  "description": "Indian solar panel manufacturer.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "axiomspace": {
+  "name": "Axiom Space",
+  "sector": "Space",
+  "description": "US company running private astronaut missions to the space station.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "doctronic": {
+  "name": "Doctronic",
+  "sector": "Health tech",
+  "description": "AI healthcare startup running prescription refill pilots in Utah.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "skillupai": {
+  "name": "Skillup AI",
+  "sector": "AI",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "mitsubishielectric": {
+  "name": "Mitsubishi Electric",
+  "sector": "Electronics",
+  "description": "Japanese maker of electrical and electronic equipment and systems.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "utahofficeofartificialintelligencepolicy": {
+  "name": "Utah Office of Artificial Intelligence Policy",
+  "sector": "Government",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
  }
 }
