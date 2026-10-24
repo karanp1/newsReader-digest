@@ -60,14 +60,14 @@
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "olaelectric": {
   "name": "Ola Electric",
   "sector": "Electric vehicles",
   "description": "Manufacturer of electric scooters and two-wheelers in India; raised Rs 1,000 crore via rights issue.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "razorpay": {
   "name": "Razorpay",
@@ -1439,7 +1439,7 @@
   "sector": "Banking",
   "description": "Investment bank; maintains Buy on Info Edge with up to 27% upside.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-24"
  },
  "nuvama": {
   "name": "Nuvama",
@@ -1586,7 +1586,7 @@
   "sector": "Venture capital",
   "description": "Consumer-focused venture fund that led Beyond Appliances' Series B round.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "neogrowth": {
   "name": "NeoGrowth",
@@ -1628,7 +1628,7 @@
   "sector": "Venture capital",
   "description": "Zerodha-backed fund that invested in quantum startup Quanfluence.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "sunfoxtechnologies": {
   "name": "Sunfox Technologies",
@@ -1852,7 +1852,7 @@
   "sector": "Venture capital",
   "description": "Venture fund partnering on the DeepVerse deeptech policy platform.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "lightspeed": {
   "name": "Lightspeed",
@@ -1985,7 +1985,7 @@
   "sector": "Sovereign wealth",
   "description": "Existing Jio Platforms investor holding its stake through the IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-24"
  },
  "tpg": {
   "name": "TPG",
@@ -2636,7 +2636,7 @@
   "sector": "Banking",
   "description": "Global bank; its Asia Pacific insurance arm holds 26% of Canara HSBC Life Insurance.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "ubs": {
   "name": "UBS",
@@ -2930,7 +2930,7 @@
   "sector": "Financial services",
   "description": "Brokerage; stayed positive on DMart after its September-quarter results.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-24"
  },
  "marketsmojo": {
   "name": "MarketsMOJO",
@@ -5303,7 +5303,7 @@
   "sector": "AI",
   "description": "AI platform company in early discussions with Anthropic about becoming an independent evaluator.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "bostondynamics": {
   "name": "Boston Dynamics",
@@ -8012,7 +8012,7 @@
   "sector": "Cybersecurity",
   "description": "Bengaluru digital identity and security company under MeitY investigation after a security incident.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "savance": {
   "name": "SAVance",
@@ -8978,49 +8978,49 @@
   "sector": "Mental health",
   "description": "Mental healthcare provider raising Rs 100 crore from Lightbox, Fireside and others.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "chapterhome": {
   "name": "Chapter Home",
   "sector": "Home products",
   "description": "Home and kitchen products startup raising Rs 63 crore in equity and debt.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "quess": {
   "name": "Quess Corp",
   "sector": "Staffing",
   "description": "Indian staffing firm; reported healthcare GCCs pay up to 2.5 times median salary for AI talent.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "lightboxventures": {
   "name": "Lightbox Ventures",
   "sector": "Venture capital",
   "description": "Existing backer of Amaha in its Rs 100 crore fundraise.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "sandboxinternationalholdings": {
   "name": "Sandbox International Holdings",
   "sector": "Investment",
   "description": "London-based investor in Amaha's Rs 100 crore fundraise.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "strideventures": {
   "name": "Stride Ventures",
   "sector": "Venture capital",
   "description": "Investor in Chapter Home's Rs 63 crore equity and debt round.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "calliopecapitaladvisors": {
   "name": "Calliope Capital Advisors",
   "sector": "Financial services",
   "description": "Applied for shares in Ola Electric Mobility's Rs 1,000-crore rights issue.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "zhongguancunacademy": {
   "name": "Zhongguancun Academy",
@@ -9034,7 +9034,7 @@
   "sector": "University",
   "description": "Partnered with Hugging Face on the Carbon-X DNA model.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "babylon": {
   "name": "Babylon",
@@ -9271,6 +9271,27 @@
   "name": "Gland Pharma",
   "sector": "Pharmaceuticals",
   "description": "Indian injectables maker; US FDA issued four observations at its Dundigal facility.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "zhongguacunacademy": {
+  "name": "Zhongguacun Academy",
+  "sector": "Research",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "ramsaybrothers": {
+  "name": "Ramsay Brothers",
+  "sector": "Media",
+  "description": "Horror filmmakers who made a three-part miniseries for Flipkart Minutes with McCann India.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "mccannindia": {
+  "name": "McCann India",
+  "sector": "Advertising",
+  "description": "Ad agency that worked with the Ramsay Brothers on Flipkart Minutes' horror miniseries.",
   "first_added": "2026-10-24",
   "last_mentioned": "2026-10-24"
  }
