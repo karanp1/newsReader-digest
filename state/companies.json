@@ -606,7 +606,7 @@
   "sector": "Fintech",
   "description": "Digital payments firm; RBI removed its associate Paytm Payments Bank from scheduled banks list.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-24"
  },
  "seruminstituteofindia": {
   "name": "Serum Institute of India",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-24"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -837,7 +837,7 @@
   "sector": "E-commerce",
   "description": "Indian e-commerce marketplace; cofounder Vidit Aatrey spoke at the ET Startup Awards.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "pixxel": {
   "name": "Pixxel",
@@ -1061,14 +1061,14 @@
   "sector": "Asset management",
   "description": "Asset manager; its IBIT bitcoin ETF led $487.1 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-24"
  },
  "fidelity": {
   "name": "Fidelity",
   "sector": "Asset management",
   "description": "Asset manager; its FBTC bitcoin ETF saw $105.2 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-24"
  },
  "arkhamintelligence": {
   "name": "Arkham Intelligence",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -2167,7 +2167,7 @@
   "sector": "Telecom",
   "description": "Reliance's telecom operator with 524.4 million customers; up to Rs 27,500 crore of Jio IPO proceeds will repay its borrowings.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-24"
  },
  "persistentsystems": {
   "name": "Persistent Systems",
@@ -2881,7 +2881,7 @@
   "sector": "Auto classifieds",
   "description": "Runs CarWale, BikeWale and OLX India; shares rose 8% after UBS reiterated Buy with a ₹4,000 target.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-24"
  },
  "tatachemicals": {
   "name": "Tata Chemicals",
@@ -3490,7 +3490,7 @@
   "sector": "Home services",
   "description": "Home services platform; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-24"
  },
  "zerodha": {
   "name": "Zerodha",
@@ -6864,7 +6864,7 @@
   "sector": "Industrial engines",
   "description": "US maker of engines, generators and power equipment; a victim of AI-agent website hacks.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-24"
  },
  "disney": {
   "name": "Disney",
@@ -7172,7 +7172,7 @@
   "sector": "Retail",
   "description": "Indian beauty and fashion retailer, operator of Nykaa.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-24"
  },
  "instahelp": {
   "name": "InstaHelp",
@@ -9229,6 +9229,48 @@
   "name": "Utah Office of Artificial Intelligence Policy",
   "sector": "Government",
   "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "wintermute": {
+  "name": "Wintermute",
+  "sector": "Crypto trading",
+  "description": "Crypto trading firm; forty wallets withdrew about 9,458 BTC from it since October 1.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "binance": {
+  "name": "Binance",
+  "sector": "Crypto exchange",
+  "description": "Global cryptocurrency exchange; transferred BTC to Fidelity's ETF wallet.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "kilitchdrugs": {
+  "name": "Kilitch Drugs",
+  "sector": "Pharmaceuticals",
+  "description": "Indian drugmaker; selling its Ethiopian arm Kilitch Estro Biotech for $14 million.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "harmeecarepharmaceuticals": {
+  "name": "HarmeeCare Pharmaceuticals",
+  "sector": "Pharmaceuticals",
+  "description": "Ethiopian state-owned pharma company buying Kilitch's Ethiopian subsidiary.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "kobelco": {
+  "name": "Kobelco",
+  "sector": "Construction equipment",
+  "description": "Excavator maker; launched three new models with Indian-made Cummins engines, targeting 8-10% growth.",
+  "first_added": "2026-10-24",
+  "last_mentioned": "2026-10-24"
+ },
+ "glandpharma": {
+  "name": "Gland Pharma",
+  "sector": "Pharmaceuticals",
+  "description": "Indian injectables maker; US FDA issued four observations at its Dundigal facility.",
   "first_added": "2026-10-24",
   "last_mentioned": "2026-10-24"
  }
