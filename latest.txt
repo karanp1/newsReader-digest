@@ -3,8 +3,8 @@ METRICS
 Nifty PE Ratio | 19.05 | 23 Oct 2026 | https://nifty-pe-ratio.com/
 Gold rate, Bengaluru (per 10 g) | 24K ₹1,42,580, 22K ₹1,30,700 | 25 Oct 2026 | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 22,600.00 (-2.36%) | 23 Oct 2026, 03:31 PM IST | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹76,76,440 (-0.0% 24h) | 25 Oct 2026 | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $80,794 (-0.0% 24h) | 25 Oct 2026 | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹76,79,688 (-0.0% 24h) | 25 Oct 2026 | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $80,846 (+0.0% 24h) | 25 Oct 2026 | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -12,12 +12,12 @@ SOURCE 6: Watchlist (headlines + summary)
 [Jio Platforms]
 
 - ~
-  24 Oct 2026 | https://www.tradingview.com/news/moodys:ec8f8f579fc66:0-reliance-jio-platforms-ipo-gmp-listing-date-and-time-share-price-prediction-for-nse-bse-debut-details/
-  • Jio Platforms' ₹30,213 crore IPO became India's largest ever, surpassing Hyundai Motor India's ₹27,870 crore issue, with all shares fresh equity. ¶ • The public book was subscribed 22.2 times, with QIB bids of ₹3,86,901 crore (70.55 times) and total demand of about ₹7.4 lakh crore. ¶ • The IPO drew over 1.38 crore applications, the widest investor participation globally, beating the prior benchmark of about 97 lakh applications. ¶ • Grey market premium of ₹248 over the ₹1,119 upper price band points to a 22.16% listing gain when shares debut on October 28. ¶ • At the offer price, Jio Platforms carries an implied market capitalisation of ₹10.3 lakh crore, ranking among India's three largest listed companies. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:ec8f8f579fc66:0-reliance-jio-platforms-ipo-gmp-listing-date-and-time-share-price-prediction-for-nse-bse-debut-details/ ;; indianewsnetwork.com|https://www.indianewsnetwork.com/en/jio-platforms-ipo-achieves-unprecedented-global-interest-20261024 ;; tripurastarnews.com|https://www.tripurastarnews.com/jio-platforms-ipo-makes-history-over-%E2%82%B97-lakh-crore-demand-worlds-widest-investor-participation-and-multiple-records/ ;; retailnews.asia|https://retailnews.asia/jio-platforms-reaches-fourfold-bookings-in-3-2-billion-mumbai-offering
+  24 Oct 2026 | https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-breaks-multiple-records-from-fundraising-to-investor-demand-how-the-mega-issue-rewrote-indias-ipo-history/articleshow/135163295.cms
+  • Jio Platforms' ₹30,213-crore IPO became India's largest ever, surpassing Hyundai Motor India's ₹27,870-crore offering from 2024. ¶ • The issue drew cumulative bids of ₹7.4 lakh crore across anchor and public books, with the QIB portion subscribed 70.55 times. ¶ • The IPO was fully subscribed within 100 minutes of opening on October 21, with the QIB portion filled in the first 10 minutes. ¶ • Nearly 1.4 crore applications came in, and the ₹8,110-crore anchor book attracted over ₹2.5 lakh crore in demand, more than 30 times. ¶ • At the ₹1,119 offer price the implied market capitalisation is about ₹10.3 lakh crore, and allotment is expected on October 26, 2026 with listing on October 28, 2026. ¶ ↗ economictimes.indiatimes.com|https://economictimes.indiatimes.com/markets/stocks/news/jio-ipo-breaks-multiple-records-from-fundraising-to-investor-demand-how-the-mega-issue-rewrote-indias-ipo-history/articleshow/135163295.cms ;; tripurastarnews.com|https://www.tripurastarnews.com/jio-platforms-ipo-makes-history-over-%E2%82%B97-lakh-crore-demand-worlds-widest-investor-participation-and-multiple-records/ ;; hdfcsky.com|https://hdfcsky.com/news/jio-platforms-ipo-allotment-tomorrow-how-to-check-status-online-and-key-details ;; retailnews.asia|https://retailnews.asia/jio-platforms-reaches-fourfold-bookings-in-3-2-billion-mumbai-offering
 
 - Outlook: Bullish
   2026-10-25 |
-  §VIEW§{"stance": "bullish", "text": "Demand of Rs 7.4 lakh crore and 70.55x QIB subscription show institutions and retail both backed the Rs 30,213 crore issue despite weak markets. The Rs 248 grey market premium points to a strong October 28 debut."}
+  §VIEW§{"stance": "bullish", "text": "Record institutional demand of 70.55 times QIB subscription and over Rs 7.4 lakh crore in total bids shows deep conviction. The listing on October 28, 2026 will test whether this translates into sustained aftermarket support."}
 
 [Reliance Intelligence]
 
@@ -31,23 +31,18 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Reliance]
 
-- ~
-  24 Oct 2026 | https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-listing-on-oct-28-will-mukesh-ambanis-firm-be-in-top-5-m-cap-ril-to-hold-top-spot-11792854254054.html
-  • Jio Platforms' IPO closed subscribed 22.19 times, with the QIB portion bid 70.55 times, ahead of its October 28 listing. ¶ • At the upper price band, Jio Platforms is estimated to hold a post-issue market capitalisation of ₹10.30 lakh crore, placing it among the BSE's top five. ¶ • Reliance Industries Group will become India's largest listed business group by aggregate listed market capitalisation after the Jio listing. ¶ • Reliance Industries had a market capitalisation of ₹16.10 lakh crore as of October 23, ahead of Bharti Airtel's ₹11.79 lakh crore. ¶ • Share allotment for the Jio IPO is likely to be finalised on Monday, October 26, with listing on NSE and BSE on October 28. ¶ ↗ livemint.com|https://www.livemint.com/market/stock-market-news/reliance-jio-ipo-listing-on-oct-28-will-mukesh-ambanis-firm-be-in-top-5-m-cap-ril-to-hold-top-spot-11792854254054.html
-
-- Outlook: Bullish
-  2026-10-25 |
-  §VIEW§{"stance": "bullish", "text": "The Jio IPO drew 22.19x subscription and is set to list at an estimated Rs 10.30 lakh crore market cap, lifting Reliance Group to India's largest listed business group. That supports the stock."}
+- Isha, Akash Ambani Turn 35, Lead Reliance’s Retail And Telecom Businesses
+  24 Oct 2026 | https://www.businessworld.in/article/isha-akash-ambani-turn-35-lead-reliance-s-retail-and-telecom-businesses-630119
 
 [Flipkart]
 
 - ~
   24 Oct 2026 | https://www.brandinginasia.com/flipkart-minutes-taps-ramsay-brothers-for-halloween-horror-miniseries/
-  • Flipkart Minutes partnered with McCann India and the Ramsay Brothers on 'The Last Delivery', a three-episode horror miniseries for Halloween. ¶ • Each episode runs 10 minutes to match the order-tracking window, and customers watch via the Play screen after ordering, from October 25, 2026. ¶ • The campaign opened with a teaser of a chudail riding pillion with an unsuspecting delivery agent, made to spark online curiosity. ¶ • Flipkart-backed super.money's FY26 operating revenue more than tripled to ₹292.4 crore, while net loss widened 78.5% to ₹263.8 crore. ¶ • super.money processed over 40.51 crore UPI transactions worth more than ₹19,613.3 crore in September 2026, ranking fifth in UPI. ¶ ↗ brandinginasia.com|https://www.brandinginasia.com/flipkart-minutes-taps-ramsay-brothers-for-halloween-horror-miniseries/ ;; indiantelevision.com|https://indiantelevision.com/mam/flipkart-minutes-teams-up-with-ramsay-brothers-for-10-minute-horror-miniseries/ ;; inc42.com|https://inc42.com/buzz/flipkart-backed-super-moneys-fy26-revenue-triples-to-%E2%82%B9292-cr/ ;; moneycontrol.com|https://www.moneycontrol.com/technology/samsung-galaxy-s25-ultra-price-drops-to-rs-52-788-with-exchange-offer-on-flipkart-article-14059172.html
+  • Flipkart Minutes partnered with McCann India and the Ramsay Brothers on 'The Last Delivery', a three-episode horror miniseries for Halloween. ¶ • Each episode runs 10 minutes to match the order-tracking window, and customers can watch via the Play screen from October 25, 2026. ¶ • The campaign opened with a teaser of a chudail riding pillion with an unsuspecting Flipkart Minutes delivery agent. ¶ • Flipkart-backed super.money's FY26 operating revenue tripled to ₹292.4 crore, while net loss widened 78.5% to ₹263.8 crore. ¶ • Samsung Galaxy S25 Ultra is listed at ₹89,438 on Flipkart, with an effective price of ₹52,788 after iPhone 15 exchange and HDFC Bank discount. ¶ ↗ brandinginasia.com|https://www.brandinginasia.com/flipkart-minutes-taps-ramsay-brothers-for-halloween-horror-miniseries/ ;; moneycontrol.com|https://www.moneycontrol.com/technology/samsung-galaxy-s25-ultra-price-drops-to-rs-52-788-with-exchange-offer-on-flipkart-article-14059172.html ;; inc42.com|https://inc42.com/buzz/flipkart-backed-super-moneys-fy26-revenue-triples-to-%E2%82%B9292-cr/ ;; indiantelevision.com|https://indiantelevision.com/mam/flipkart-minutes-teams-up-with-ramsay-brothers-for-10-minute-horror-miniseries/
 
 - Outlook: Neutral
   2026-10-25 |
-  §VIEW§{"stance": "neutral", "text": "The Ramsay miniseries is a marketing push with no disclosed revenue impact, while super.money shows fast revenue growth but a widening loss. These split the read on Flipkart's near-term fundamentals."}
+  §VIEW§{"stance": "neutral", "text": "The Ramsay miniseries is a low-cost marketing move that may lift engagement but has no proven link to orders. super.money's revenue tripled yet losses widened, so the news flow splits."}
 
 [Zomato]
 
@@ -83,21 +78,21 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   25 Oct 2026 | https://www.ad-hoc-news.de/boerse/news/nebenwerte/icici-cuts-avenue-target-to-inr-3-700-what-it-means-for-avenue-supermarts-stock/70407638
-  • ICICI Securities cut its Avenue Supermarts target to INR 3,700 from INR 4,200 on October 11, 2026, keeping a Hold rating. ¶ • Standalone revenue rose 18.4% year on year to INR 192.06 billion in the quarter ended September 30, 2026. ¶ • Net profit rose 7.6% to INR 8.04 billion while EBITDA margin fell to 7.3% from 7.6% a year earlier. ¶ • Finance costs jumped 87% year on year to INR 596 million, and debt reached INR 41.0 billion in the first half of fiscal 2027 versus INR 14.8 billion a year earlier. ¶ • The company added 15 stores in the quarter, taking the network to 518, with retail business area at 21.4 million square feet versus 17.9 million square feet a year earlier. ¶ ↗ ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/nebenwerte/icici-cuts-avenue-target-to-inr-3-700-what-it-means-for-avenue-supermarts-stock/70407638
+  • ICICI Securities cut its target on Avenue Supermarts to INR 3,700 from INR 4,200 on October 11, 2026, keeping a Hold rating. ¶ • Standalone revenue rose 18.4% year on year to INR 192.06 billion in the quarter ended September 30, 2026. ¶ • Net profit grew 7.6% to INR 8.04 billion while EBITDA margin fell to 7.3% from 7.6% a year earlier. ¶ • The company added 15 stores in the quarter, taking its network to 518, with retail business area at 21.4 million square feet. ¶ • Finance costs rose 87% year on year to INR 596 million, and debt reached INR 41.0 billion in the first half of fiscal 2027. ¶ ↗ ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/nebenwerte/icici-cuts-avenue-target-to-inr-3-700-what-it-means-for-avenue-supermarts-stock/70407638
 
 - Outlook: Bearish
   2026-10-25 |
-  §VIEW§{"stance": "bearish", "text": "Revenue grew 18.4% but profit rose only 7.6% as the EBITDA margin slipped to 7.3% and finance costs climbed 87%. ICICI's target cut and quick-commerce competition weigh on the stock."}
+  §VIEW§{"stance": "bearish", "text": "Revenue growth is strong but margin pressure, higher finance costs and quick-commerce competition weigh on profit. The target cut reflects slower profit expansion despite store additions."}
 
 [Godigit Insurance]
 
 - ~
-  24 Oct 2026 | https://www.tradingview.com/symbols/NSE-GODIGIT/financials-estimates/
-  • Go Digit General Insurance reported Q2 FY27 gross written premium of ₹3,236 crore, up 14.2% year on year. ¶ • The company's combined ratio improved to 105.4% in Q2 FY27 from 107.1% in Q2 FY26. ¶ • Motor insurance, the largest segment, grew 16.5% year on year to ₹2,101 crore in Q2 FY27. ¶ • Profit after tax for Q2 FY27 was ₹125 crore, up 22.5% year on year. ¶ • The solvency ratio stood at 1.85 times as of September 30, 2026, above the regulatory requirement of 1.5 times. ¶ ↗ tradingview.com|https://www.tradingview.com/symbols/NSE-GODIGIT/financials-estimates/
+  24 Oct 2026 | https://www.investywise.com/go-digit-general-insurance-limited-credit-rating-reaffirmed-with-positive-outlook/
+  • CRISIL Ratings reaffirmed Go Digit General Insurance's corporate credit rating at AA- on October 24, 2026. ¶ • CRISIL revised the rating outlook to 'Rating Watch with Positive Implications' from 'Rating Watch with Developing Implications'. ¶ • The revised outlook indicates potential for a credit rating upgrade, reflecting a favorable emerging situation for the company's credit profile. ¶ • The credit rating letter is dated October 23, 2026, and the company placed the intimation on its website for public access. ¶ ↗ investywise.com|https://www.investywise.com/go-digit-general-insurance-limited-credit-rating-reaffirmed-with-positive-outlook/
 
-- Outlook: Neutral
+- Outlook: Bullish
   2026-10-25 |
-  §VIEW§{"stance": "neutral", "text": "Premium growth and profit rise, while the combined ratio above 100 keeps underwriting in loss. That mix points to a steady but not decisive picture."}
+  §VIEW§{"stance": "bullish", "text": "CRISIL's reaffirmation at AA- and shift to positive watch signal improving credit profile. The potential upgrade supports a favorable view on the insurer's financial stability."}
 
 [Infoedge/Naukri]
 
@@ -113,21 +108,21 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   24 Oct 2026 | https://finance.yahoo.com/markets/crypto/articles/cryptos-could-outperform-bitcoin-end-234021036.html
-  • Bitcoin traded at $80,494 on October 24, down 0.97% in 24 hours, holding above $80,000 with a market cap of $1.618 trillion. ¶ • Spot Bitcoin ETFs swung from $635.6 million net outflows on October 22 to $526.6 million and $528.4 million inflows on October 19 and 21. ¶ • Bitcoin sits below its 50-day average of $81,776 and 20-day average of $82,826, needing to clear $83,556 and $84,856 to reach $85,000. ¶ • Oil at $108 a barrel on October 20, up 13.1% in a week, and QQQ down 5% over the month are pressuring Bitcoin as risk assets. ¶ • Google searches for "Bitcoin is dead" hit their highest level since FTX in mid-October, while the Fear and Greed Index reads a neutral 46. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/cryptos-could-outperform-bitcoin-end-234021036.html ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/bitcoin-back-above-85-000-214039495.html ;; 247wallst.com|https://247wallst.com/investing/cryptocurrency/2026/10/24/is-bitcoin-dead-cz-says-those-calls-have-marked-the-best-times-to-buy/ ;; 247wallst.com|https://247wallst.com/investing/cryptocurrency/2026/10/24/can-bitcoin-get-back-above-85000-in-november/
+  • Bitcoin traded at $80,494 on October 24, down 0.97% in 24 hours, holding above $80,000 after a week ranging from $80,401 to $84,856. ¶ • U.S. spot Bitcoin ETFs saw a $635.5 million net outflow on October 22, the largest one-day outflow since September 24, after $528.4 million of inflows on October 21. ¶ • Bitcoin treasury firms like Strategy and Strive have financed roughly 136,000 bitcoin of purchases through perpetual preferred stock, a $12 billion market now facing dividend costs and buybacks. ¶ • Google searches for 'Bitcoin is dead' hit their highest level since FTX in mid-October, which Binance founder CZ called a buying signal on October 23. ¶ • Xapo Bank CEO Seamus Rocca said wealthy holders are shifting from trading to borrowing and yield products, with about 45% of customers using dollar savings that pay interest in bitcoin. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/cryptos-could-outperform-bitcoin-end-234021036.html ;; coindesk.com|https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends ;; 247wallst.com|https://247wallst.com/investing/cryptocurrency/2026/10/24/is-bitcoin-dead-cz-says-those-calls-have-marked-the-best-times-to-buy/ ;; 247wallst.com|https://247wallst.com/investing/cryptocurrency/2026/10/24/can-bitcoin-get-back-above-85000-in-november/
 
 - Outlook: Bearish
   2026-10-25 |
-  §VIEW§{"stance": "bearish", "text": "ETF outflows of $635.6 million on October 22 and Bitcoin below both moving averages keep the near-term flow negative. Oil at $108 and weak tech add pressure, though neutral sentiment and past search spikes leave room for a bounce."}
+  §VIEW§{"stance": "bearish", "text": "ETF outflows of $635.5 million on October 22 and preferred-stock dividend costs at treasury firms are pulling demand, while oil at $117.42 a barrel and weak tech stocks pressure risk assets. Bitcoin holds above $80,000 but needs ETF inflows to reclaim $85,000."}
 
 [Gold]
 
 - ~
-  25 Oct 2026 | https://www.usatoday.com/story/money/money-management/investing/will-gold-hit-5000/90667077007/
-  • Spot gold fell 0.6% to $3,998.35 an ounce on Friday, slipping below $4,000 for the first time since mid-July and touching $3,975.23. ¶ • Gold lost about 4% over the week, its biggest weekly drop since June and second straight weekly loss, and is down 8.5% since the start of 2026. ¶ • Brent crude surged above $116 a barrel to a five-month high after Houthi attacks on Saudi infrastructure, fueling inflation and rate-hike fears. ¶ • Markets price a 92% chance the Fed holds rates at its October 27-28 meeting, with traders seeing a 78% chance of a December hike. ¶ • Lower prices drew buying in India during the Dussehra festival, lifting local premiums, while China jewelry demand stayed steady but cautious. ¶ ↗ usatoday.com|https://www.usatoday.com/story/money/money-management/investing/will-gold-hit-5000/90667077007/ ;; moroccoworldnews.com|https://www.moroccoworldnews.com/2026/10/343690/gold-falls-to-three-month-low-oil-prices-fuel-fed-rate-concerns/ ;; share-talk.com|https://www.share-talk.com/gold-price-falls-below-4000-as-rising-oil-prices-fuel-inflation-and-interest-rate-fears/ ;; e.vnexpress.net|https://e.vnexpress.net/news/business/markets/gold-prices-struggle-to-bounce-back-from-10-week-bottom-5136351.html
+  25 Oct 2026 | https://www.kitco.com/price/gold-price-cad
+  • Spot gold fell below $4,000 an ounce for the first time since July, losing about 4% over the week and 8.5% since the start of 2026. ¶ • Brent crude surged above $116 a barrel to a five-month high on Houthi attacks on Saudi infrastructure, fueling fears of persistent inflation and higher rates. ¶ • Traders see a 78% chance of a Fed rate hike in December, and markets expect rates unchanged at the October 27-28 meeting. ¶ • Selling in AI-related technology shares pushed the S&P 500 and Nasdaq to five-week lows, triggering margin calls that forced investors to sell gold for cash. ¶ • In Canada, gold traded at C$5,595.46 an ounce, C$179.90 a gram and C$179,898.11 a kilogram; per-gram prices ranged from C$179.90 for 24K to C$67.46 for 9K. ¶ ↗ kitco.com|https://www.kitco.com/price/gold-price-cad ;; moroccoworldnews.com|https://www.moroccoworldnews.com/2026/10/343690/gold-falls-to-three-month-low-oil-prices-fuel-fed-rate-concerns/ ;; share-talk.com|https://www.share-talk.com/gold-price-falls-below-4000-as-rising-oil-prices-fuel-inflation-and-interest-rate-fears/
 
 - Outlook: Bearish
   2026-10-25 |
-  §VIEW§{"stance": "bearish", "text": "Higher oil-driven inflation and expected Fed rate hikes are lifting bond yields and the dollar, pressuring non-yielding gold. Central-bank buying and festival demand support prices, but the near-term flow favors sellers."}
+  §VIEW§{"stance": "bearish", "text": "Bullion broke below $4,000 for the first time since July as oil above $116 a barrel and a 78% priced odds of a December Fed hike lift bond yields. Central-bank buying remains the main support."}
 
 ============================================================
 
@@ -139,18 +134,7 @@ SOURCE 8: AI News
 
 SOURCE 2: The Hindu - Editorials
 
-### Falling short: on Marco Rubio’s second visit to India
-24 Oct 2026 | https://www.thehindu.com/opinion/editorial/falling-short-on-marco-rubios-second-visit-to-india/article71616218.ece
-
-• Marco Rubio made his second visit to India in five months, a three-day trip that skipped New Delhi and covered Mumbai and Jamnagar.
-
-• The visit came just before the U.S. midterm elections, which mark the midpoint of Donald Trump's second term.
-
-• New Delhi hoped for a reset, including a Bilateral Trade Agreement, relief on Russian oil sanctions, and dates for Trump-Modi summits.
-
-• No agreements were announced and Jaishankar and Rubio held no joint press address, leaving trade, tariffs and H-1B issues unaddressed.
-
-• Rubio called U.S.-India alignment on core national interests "extraordinary", and the paper says he must now act on that.
+[No editorials in the last 24 hours. The newest one on The Hindu's feed is from 24 Oct, 08:26 AM IST.]
 
 ============================================================
 
@@ -220,9 +204,25 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
+[[Mali security crisis]]
+
+- Military ups death toll in Mali attack to 54
+  25 Oct 2026 | https://www.thehindu.com/news/international/military-ups-death-toll-in-mali-attack-to-54/article71622485.ece
+  • Mali's armed forces said they found 54 bodies after attacks on camps in the Menaka region, six more than the 48 sources earlier gave AFP. ¶ • The army said the attack was carried out by the Islamic State group's Sahel branch, and nine survivors were evacuated to the city of Menaka.
+
+[[Bulgaria election and drone strikes]]
+
+- Bulgaria votes for President in wake of deadly Black Sea drone strikes
+  25 Oct 2026 | https://www.thehindu.com/news/international/bulgaria-presidential-election-black-sea-drone-strikes-on-october-25-2026/article71622481.ece
+  • Bulgarians vote on Sunday in a 27-candidate presidential election, with acting President Iliana Iotova at 41% and ex-caretaker Prime Minister Andrey Gyurov at 28% in Alpha Research polls. ¶ • The vote follows drone attacks on merchant ships off Bulgaria's Black Sea coast that likely killed about two dozen international seafarers; a runoff would be held on November 1 if no candidate wins a majority.
+
+[[France protests]]
+
 - Fresh clashes rock France as protesters march on
   25 Oct 2026 | https://www.thehindu.com/news/international/fresh-clashes-rock-france-as-protesters-march-on/article71622465.ece
   • Police arrested nearly 1,000 people as officers faced an extremely elevated level of violence from black-clad ultra-left extremists, Interior Minister Laurent Nunez said. ¶ • Saturday's demonstrations drew between 410,000 and 800,000 people nationwide, with two seriously injured and clashes in multiple cities including Paris, Marseille, Lyon and Nantes.
+
+[[US politics]]
 
 - Obama blasts Trump’s ‘chaos and cruelty’ while campaigning for Democrats
   25 Oct 2026 | https://www.thehindu.com/news/international/obama-blasts-trumps-chaos-and-cruelty-while-campaigning-for-democrats/article71622458.ece
@@ -231,7 +231,89 @@ SOURCE 3: The Hindu - International (headlines + summary)
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Swiggy Q2 revenue jumps 36%, loss narrows to Rs 922 crore
+23 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/swiggy-narrows-loss-in-q2-emudhra-cofounder-on-what-went-wrong/articleshow/135131640.cms
+
+• Swiggy reported operating revenue of ₹7,571 crore for July-September, up 36% from a year earlier.
+
+• Net loss narrowed 16% to ₹922 crore from ₹1,092 crore a year ago.
+
+• Consumer-facing businesses' combined gross order value grew 24.6% on-year to ₹20,793 crore.
+
+• Instamart will shift from a marketplace to an inventory model in the middle of the December quarter, aiming to improve contribution margin by about 80 basis points.
+
+### eMudhra cofounder defends key exposure incident
+23 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/swiggy-narrows-loss-in-q2-emudhra-cofounder-on-what-went-wrong/articleshow/135131640.cms
+
+• A script error during a key-generation exercise in April 2025 produced weak keys that AI tools could potentially reverse engineer, eMudhra cofounder Kaushik Srinivasan said.
+
+• The flaw occurred during an additional wrap-unwrap step for keys meant for international operations.
+
+• The incident involved eight intermediate digital certificates under eMudhra's global Public Key Infrastructure; Google and Mozilla blocked the affected certificates after a researcher flagged them on October 17.
+
+• eMudhra's board has decided to voluntarily withdraw from the global SSL/TLS certificate business, and Srinivasan said the company will add stricter controls and AI tools to verify key strength.
+
+### Healthcare GCCs pay up to 2.5 times median salary for AI talent
+23 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/swiggy-narrows-loss-in-q2-emudhra-cofounder-on-what-went-wrong/articleshow/135131640.cms
+
+• Healthcare global capability centres in India are paying as much as 2.5 times the overall median salary to fill senior AI vacancies, according to Quess Corp.
+
+• Data, analytics and AI roles have only 1.6 professionals for every projected opening in India's healthcare GCCs, compared with 4.8 across roles overall.
+
+• Senior AI leadership roles such as data science managers and AI product managers command 6.5 to 8 times the overall median salaries.
+
+• India's healthcare GCCs are projected to generate 67,000 job openings in 2026, and AI and ML specialists with three to seven years of experience earn a 105% premium over the median for their experience group.
+
+### Amaha raises Rs 100 crore
+23 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/swiggy-narrows-loss-in-q2-emudhra-cofounder-on-what-went-wrong/articleshow/135131640.cms
+
+• Mental healthcare provider Amaha is raising ₹100 crore, including ₹10 crore in debt.
+
+• Investors include existing backers Lightbox Ventures and Fireside Ventures, London-based Sandbox International Holdings and Nithin Kamath's Rainmatter.
+
+### Chapter Home raises Rs 63 crore
+23 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/swiggy-narrows-loss-in-q2-emudhra-cofounder-on-what-went-wrong/articleshow/135131640.cms
+
+• Home and kitchen products startup Chapter Home has raised ₹63 crore in equity and debt.
+
+• Investors include Bessemer Venture Partners, Stride Ventures, comedian Tanmay Bhat and family offices.
+
+• The round valued the company at close to ₹1,000 crore.
+
+### Ola Electric rights issue
+23 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/swiggy-narrows-loss-in-q2-emudhra-cofounder-on-what-went-wrong/articleshow/135131640.cms
+
+• Motilal Oswal Financial Services and Calliope Capital Advisors have applied for a combined 2.39 crore shares in Ola Electric Mobility's ₹1,000-crore rights issue.
+
+• The applications were made on the opening day on Thursday.
+
+### Global pick: Who’s paying for the AI build-out? Probably you
+FT | https://www.ft.com/content/09f56730-4702-446d-9986-f7c93ffe6bf0?syn-25a6b1a6=1
+
+[Could not read the article, possibly paywalled]
+
+### Global pick: Hugging Face’s new AI model lets you chat with DNA
+Wired | https://www.wired.com/story/hugging-face-new-ai-biology-model-chat-with-dna/
+
+• Hugging Face released Carbon-X, an open DNA model that runs locally on a laptop, built with Zhongguancun Academy and the University of Naples Federico II.
+
+• Carbon-X combines DNA and natural language so users can ask about how DNA changes affect gene activity and health and get conversational answers.
+
+• The team trained on 300 billion tokens of DNA sequences and English text, expanding the vocabulary to read DNA in groups of six letters.
+
+• The model has 14 billion parameters and handles sequences of roughly 50,000 base pairs, but its predictions are not yet validated in wet lab experiments.
+
+### Global pick: Big Tech’s thirst for water is sparking a global resistance
+Rest of World | https://restofworld.org/2026/ai-datacenters-water-resistance-global/
+
+• A 2023 University of California paper estimated training the large language model behind the first ChatGPT used 185,000 gallons of water.
+
+• A hyperscale data center can consume 1 to 5 million gallons of water a day, comparable to a city of 10,000 to 50,000 people.
+
+• Google's proposed $200 million Cerrillos data center was projected to use 169 liters of water per second, as much daily as all 80,000 residents use for drinking in a year.
+
+• After residents voted 49% to 38% against the project and claims were filed in 2020, Google returned in February 2022 offering to cool the data center with air-conditioning instead of water.
 
 ============================================================
 
@@ -253,8 +335,8 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 [Cyient Ltd (CYIENT, +7.81%)]
 
 - ~
-  24 Oct 2026 | https://www.kalkine.co.in/article/earnings/cyient-dlm-nsecyientdlm-q2-fy27-call-2813-crore-order-book-and-a-three-phase-strategy
-  ## What the sector does ¶ • Engineering research and development services sell design, testing and digital engineering work to aerospace, defence, telecom, automotive and industrial clients on time-and-material or fixed-price contracts. ¶ • Revenue depends on client research budgets and outsourcing volumes, while cost is mostly engineer salaries, so margins move with utilisation, billing rates and offshore mix. ¶ ## What the company does ¶ • Cyient, formerly Infotech Enterprises, provides engineering, manufacturing, data analytics and network operations services from Hyderabad to customers in aerospace, defence, rail, telecom, medical and industrial markets. ¶ • It earns from long-term engineering and digital contracts, with exports forming the larger part of revenue, and sits below L&T Technology and Tata Technologies by market capitalisation in the listed peer set. ¶ ## Why it moved today ¶ • Cyient shares rose 7.81% to ₹1,233 on October 24, 2026, the day its board fixed October 28 as the record date for an interim dividend of ₹12 per share, a 240% payout on the ₹5 face value. ¶ • The dividend record date is the direct trigger; separately, subsidiary Cyient DLM reported an all-time high order backlog of ₹2,813 crore with a book-to-bill ratio above 1.6x in its Q2 FY27 call. ¶ ## The numbers (Screener) ¶ • Cyient trades at a P/E of 33.3 with a market cap of ₹13,706 crore, a book value of ₹459 per share, ROCE of 12.3% and ROE of 8.61%. ¶ • September 2026 quarter sales were ₹2,235 crore with net profit of ₹132 crore and EPS of ₹10.92, against ₹1,848 crore sales and ₹97 crore profit in the December 2025 quarter. ¶ ## What the numbers say ¶ • Cyient's P/E of 33.3 sits above L&T Technology's 29.7 and Sagility's 19.5 but below Tata Technologies' 40.6, while its ROCE of 12.3% is the lowest in the peer table against L&T Technology's 26.7% and Netweb's 37.5%. ¶ • September quarter sales grew 25.5% year on year and net profit rose 3.4%, so the 7.81% move reflects the dividend record date and Cyient DLM's order book rather than a re-rating of Cyient's own return on capital. ¶ ↗ kalkine.co.in|https://www.kalkine.co.in/article/earnings/cyient-dlm-nsecyientdlm-q2-fy27-call-2813-crore-order-book-and-a-three-phase-strategy ;; livemint.com|https://www.livemint.com/market/stock-market-news/dividend-split-rights-issue-buyback-next-week-hexaware-tech-cyient-railtel-to-sagility-check-record-dates-11792826529111.html ;; tradebrains.in|https://tradebrains.in/indian-markets/cyient-sagility-and-9-other-stocks-that-have-announced-dividends-and-stock-splits-in-the-coming-week-12740733
+  24 Oct 2026 | https://www.tradingview.com/symbols/NSE-CYIENT/financials-estimates/
+  ## What the sector does ¶ • Engineering research and development services sell design, testing and digital engineering work to aerospace, defence, telecom, automotive and industrial clients on time-and-material or fixed-price contracts. ¶ • Revenue comes from billed engineer hours and project milestones, while cost is mostly salaries, so margins move with utilization, wage inflation and offshore mix. ¶ ## What the company does ¶ • Cyient, formerly Infotech Enterprises, provides engineering, manufacturing, data analytics and network operations services from Hyderabad to clients in aerospace, defence, rail, telecom, semiconductor and medical technology. ¶ • It earns from long-term engineering contracts and its own design-led manufacturing of electronics and precision components, with quarterly sales of ₹2,235 crore in the September 2026 quarter. ¶ ## Why it moved today ¶ • The supplied news item is only an analyst-estimates page from 24 October 2026 and does not state a cause for the 7.81% rise, so the reason for the move is not established by the input. ¶ • Context only: Cyient's September 2026 quarter net profit rose to ₹132 crore from ₹109 crore in June 2026, with operating margin at 14%, the strongest of the four quarters shown. ¶ ## The numbers (Screener) ¶ • Stock P/E is 33.3, price to book is about 2.7 times the ₹459 book value, dividend yield 1.30%, ROCE 12.3% and ROE 8.61%, per Screener data. ¶ • Sales rose each quarter from ₹1,848 crore in December 2025 to ₹2,235 crore in September 2026, while net profit went from ₹97 crore to ₹132 crore and EPS from ₹8.26 to ₹10.92. ¶ ## What the numbers say ¶ • Cyient's 33.3 P/E sits between L&T Technology Services at 29.7 and Tata Technologies at 40.6, but its 12.3% ROCE is below L&T Technology's 26.7% and Tata Technologies' 20.9%. ¶ • September 2026 sales grew 25.5% year on year, faster than L&T Technology's 12.1% but slower than Tata Technologies' 28.4%, while the 14% operating margin and 8.61% ROE remain the weakest among the named peers. ¶ ↗ tradingview.com|https://www.tradingview.com/symbols/NSE-CYIENT/financials-estimates/
 
 [[Top Losers]]
 
