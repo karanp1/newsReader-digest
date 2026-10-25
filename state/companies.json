@@ -137,14 +137,14 @@
   "sector": "Satellite internet",
   "description": "SpaceX's satellite broadband service awaiting security approvals for its India launch.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-25"
  },
  "spacex": {
   "name": "SpaceX",
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-10-25"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -193,7 +193,7 @@
   "sector": "Retail",
   "description": "US retail giant and majority owner of Flipkart; facing pressure over employee stock option liquidity.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-25"
  },
  "myntra": {
   "name": "Myntra",
@@ -452,7 +452,7 @@
   "sector": "Crypto exchange",
   "description": "US cryptocurrency exchange acting as custodian for US government seized crypto assets.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-25"
  },
  "alamedaresearch": {
   "name": "Alameda Research",
@@ -1096,7 +1096,7 @@
   "sector": "Crypto analytics",
   "description": "On-chain data firm; noted bitcoin's sell wall at $86,500 and buy orders near $81,000.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-25"
  },
  "kraken": {
   "name": "Kraken",
@@ -1201,7 +1201,7 @@
   "sector": "Stock exchange",
   "description": "National Stock Exchange; listed on 24 September at Rs 1,785 per share.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-25"
  },
  "ntpcgreenenergy": {
   "name": "NTPC Green Energy",
@@ -2020,21 +2020,21 @@
   "sector": "Engineering services",
   "description": "Engineering services firm used as a valuation comparison for Cyient.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-25"
  },
  "tatatechnologies": {
   "name": "Tata Technologies",
   "sector": "Engineering services",
   "description": "Engineering services firm used as a valuation comparison for Cyient.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-25"
  },
  "sagility": {
   "name": "Sagility",
   "sector": "Healthcare services",
   "description": "Business process services firm used as a valuation comparison for Cyient.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-25"
  },
  "deribit": {
   "name": "Deribit",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-10-25"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -2076,7 +2076,7 @@
   "sector": "Automotive",
   "description": "Carmaker whose October 2024 IPO was India's largest before Jio Platforms' offering.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-25"
  },
  "dolatcapital": {
   "name": "Dolat Capital",
@@ -2706,7 +2706,7 @@
   "sector": "Insurance regulator",
   "description": "India's insurance regulator; proposed changes to insurance commissions and product rules.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-25"
  },
  "centralelectricityregulatorycommission": {
   "name": "Central Electricity Regulatory Commission",
@@ -3840,7 +3840,7 @@
   "sector": "Banking",
   "description": "Private-sector bank taking deposits and lending to retail, small business and corporate customers.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-25"
  },
  "cholamandalaminvestment": {
   "name": "Cholamandalam Investment",
@@ -3903,7 +3903,7 @@
   "sector": "Banking",
   "description": "Public sector bank offering personal, corporate, SME and NRI services; faces a $15 billion lawsuit by BR Shetty.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-25"
  },
  "standardchartered": {
   "name": "Standard Chartered",
@@ -4260,7 +4260,7 @@
   "sector": "Armed group",
   "description": "Yemeni armed group whose missile debris wounded four in Riyadh and struck an Aramco building.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-25"
  },
  "fsb": {
   "name": "FSB",
@@ -5177,7 +5177,7 @@
   "sector": "Computing hardware",
   "description": "Designs and builds high-performance computing, AI systems and data centre servers.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-25"
  },
  "tdpowersystems": {
   "name": "TD Power Systems",
@@ -5520,7 +5520,7 @@
   "sector": "Food regulator",
   "description": "State food and drug authority that seized stock and filed an FIR naming Blinkit and Zomato Hyperpure.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-25"
  },
  "zomatohyperpure": {
   "name": "Zomato Hyperpure",
@@ -7172,7 +7172,7 @@
   "sector": "Retail",
   "description": "Indian beauty and fashion retailer, operator of Nykaa.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-10-25"
  },
  "instahelp": {
   "name": "InstaHelp",
@@ -7375,7 +7375,7 @@
   "sector": "Space",
   "description": "SpaceX's military satellite service; Musk reportedly capped speeds for Ukraine.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-25"
  },
  "jamnagarrefinery": {
   "name": "Jamnagar refinery",
@@ -7676,7 +7676,7 @@
   "sector": "Stock exchange",
   "description": "Indian exchange where Jio Platforms' IPO bids and Reliance share moves were recorded.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-25"
  },
  "dcgi": {
   "name": "DCGI",
@@ -8047,7 +8047,7 @@
   "sector": "Wires and cables",
   "description": "Makes EHV, HT and LT wires and cables; shares fell 7.6% despite 29% profit growth.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-25"
  },
  "polycab": {
   "name": "Polycab",
@@ -8446,7 +8446,7 @@
   "sector": "Central bank",
   "description": "Raised the repo rate 25 basis points to 5.5% and flagged widening inflation.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-25"
  },
  "deendayalport": {
   "name": "Deendayal Port",
@@ -8467,7 +8467,7 @@
   "sector": "Judiciary",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-25"
  },
  "supremecourt": {
   "name": "Supreme Court",
@@ -9355,6 +9355,76 @@
   "name": "Kilitch Estro Biotech",
   "sector": "Pharma",
   "description": "Ethiopian subsidiary of Kilitch Drugs being sold for $14 million.",
+  "first_added": "2026-10-25",
+  "last_mentioned": "2026-10-25"
+ },
+ "islamicstate": {
+  "name": "Islamic State",
+  "sector": "Armed group",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-25",
+  "last_mentioned": "2026-10-25"
+ },
+ "likud": {
+  "name": "Likud",
+  "sector": "Political party",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-25",
+  "last_mentioned": "2026-10-25"
+ },
+ "yashar": {
+  "name": "Yashar",
+  "sector": "Political party",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-25",
+  "last_mentioned": "2026-10-25"
+ },
+ "gema": {
+  "name": "GEMA",
+  "sector": "Industry body",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-25",
+  "last_mentioned": "2026-10-25"
+ },
+ "isma": {
+  "name": "ISMA",
+  "sector": "Industry body",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-25",
+  "last_mentioned": "2026-10-25"
+ },
+ "omcs": {
+  "name": "OMCs",
+  "sector": "Energy",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-25",
+  "last_mentioned": "2026-10-25"
+ },
+ "cryptofeargreedindex": {
+  "name": "Crypto Fear & Greed Index",
+  "sector": "Crypto data",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-25",
+  "last_mentioned": "2026-10-25"
+ },
+ "mcx": {
+  "name": "MCX",
+  "sector": "Commodity exchange",
+  "description": "India's multi commodity exchange trading gold and other futures.",
+  "first_added": "2026-10-25",
+  "last_mentioned": "2026-10-25"
+ },
+ "floridaamuniversity": {
+  "name": "Florida A&M University",
+  "sector": "University",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-25",
+  "last_mentioned": "2026-10-25"
+ },
+ "unlossanddamagefund": {
+  "name": "UN Loss and Damage Fund",
+  "sector": "Climate finance",
+  "description": "Not enough detail in today's digest",
   "first_added": "2026-10-25",
   "last_mentioned": "2026-10-25"
  }
