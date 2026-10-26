@@ -3,8 +3,8 @@ METRICS
 Nifty PE Ratio | 19.05 | 23 Oct 2026 | https://nifty-pe-ratio.com/
 Gold rate, Bengaluru (per 10 g) | 24K ₹1,42,570, 22K ₹1,30,690 | 26 Oct 2026 | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 22,600.00 (-2.36%) | 23 Oct 2026, 03:31 PM IST | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹75,84,702 (-1.2% 24h) | 26 Oct 2026 | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $79,607 (-1.5% 24h) | 26 Oct 2026 | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹75,61,405 (-1.5% 24h) | 26 Oct 2026 | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $79,645 (-1.5% 24h) | 26 Oct 2026 | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -13,11 +13,11 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   25 Oct 2026 | https://m.economictimes.com/markets/ipos/fpos/jioipogmptoday-alleyes-on-telecom-majors-megalisting-this-week-what-is-greymarketsignalling/articleshow/135183339.cms
-  • Jio Platforms' ₹30,213-crore IPO drew bids worth over $77 billion, the most subscribed share sale in India's history, with 22.19 times overall subscription. ¶ • The IPO is India's largest ever, surpassing Hyundai Motor India's ₹27,870-crore offering in 2024, and received about 13.9 million applications, a record. ¶ • Qualified institutional buyers subscribed 70.55 times their portion, non-institutional investors 14 times, retail investors 2.72 times, employees 2.93 times and existing Reliance shareholders 7.6 times. ¶ • Allotment is expected on October 26, refunds on October 27, and listing on NSE and BSE on October 28; grey market premium signals a gain of about 22% over the ₹1,119 upper price band. ¶ • About ₹27,500 crore of the fresh issue proceeds will repay borrowings at Reliance Jio Infocomm, which has over 533 million subscribers and revenue of ₹1.5 trillion in the year to March 31, 2026. ¶ ↗ m.economictimes.com|https://m.economictimes.com/markets/ipos/fpos/jioipogmptoday-alleyes-on-telecom-majors-megalisting-this-week-what-is-greymarketsignalling/articleshow/135183339.cms ;; organiser.org|https://organiser.org/2026/10/26/420714/bharat/jio-platforms-ipo-allotment-today-how-to-check-status-on-nse-bse-and-kfin-technologies/ ;; tradingview.com|https://www.tradingview.com/news/cnbctv:321172dea094b:0/ ;; ceoworld.biz|https://ceoworld.biz/2026/10/25/billionaire-mukesh-ambanis-jio-draws-record-77-billion-in-ipo-bids/
+  • Jio Platforms' ₹30,213-crore IPO was subscribed 22.19 times, with bids worth about ₹7.4 lakh crore, and lists on NSE and BSE on October 28. ¶ • The QIB portion was subscribed 70.55 times, NII 14 times, retail 2.72 times, shareholder quota 7.6 times and employee portion 2.93 times. ¶ • Grey market premium was ₹247 per share, or 22.07% over the ₹1,119 upper price band, with shares quoted at ₹1,366. ¶ • The issue is entirely a fresh issue, and ₹27,500 crore of proceeds will repay borrowings of Reliance Jio Infocomm Ltd. ¶ • Jio had over 533 million subscribers as of June, revenue rose 14.6% to ₹1.5 trillion in the year to March 31, 2026, and net profit rose 15% to about ₹300 billion. ¶ ↗ m.economictimes.com|https://m.economictimes.com/markets/ipos/fpos/jioipogmptoday-alleyes-on-telecom-majors-megalisting-this-week-what-is-greymarketsignalling/articleshow/135183339.cms ;; cnbctv18.com|https://www.cnbctv18.com/market/jio-platforms-ipo-allotment-today-here-is-how-to-check-if-you-got-shares-ahead-of-october-28-listing-20018900.htm ;; organiser.org|https://organiser.org/2026/10/26/420714/bharat/jio-platforms-ipo-allotment-today-how-to-check-status-on-nse-bse-and-kfin-technologies/ ;; ceoworld.biz|https://ceoworld.biz/2026/10/25/billionaire-mukesh-ambanis-jio-draws-record-77-billion-in-ipo-bids/
 
 - Outlook: Bullish
   2026-10-26 |
-  §VIEW§{"stance": "bullish", "text": "Record $77 billion in bids, 22.19x subscription and a 22% grey market premium point to strong listing demand. The small 2.9% free float and heavy institutional oversubscription support the debut, though future share supply will grow."}
+  §VIEW§{"stance": "bullish", "text": "Record 22.19x subscription, 70.55x QIB demand and a 22% grey market premium point to a strong debut. The small 2.9% free float and Rs 27,500 crore debt repayment support the near-term case."}
 
 [Reliance Intelligence]
 
@@ -25,21 +25,21 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   25 Oct 2026 | https://m.economictimes.com/industry/energy/oil-gas/us-courting-reliances-refining-muscle-to-keep-oil-flowing-not-curb-russian-crude-analyst-says-mukesh-ambani/articleshow/135190443.cms
-  • Jio Platforms IPO was subscribed 22.19 times, with QIB portion at 70.55 times, and will list on October 28 at an indicative ₹1,366 per share based on grey market premium of ₹247. ¶ • US Secretary of State Marco Rubio visited Reliance's Jamnagar refinery on October 21, signaling Washington's interest in using its 1.4 million barrels per day capacity to process more Western Hemisphere crude. ¶ • Russian crude still made up about a third of Jamnagar's feedstock in July-September 2026, and analysts do not expect an immediate shift away from it despite US engagement. ¶ • Reliance Group's combined market capitalisation could reach ₹28.35 lakh crore after Jio's listing, overtaking Tata Group's ₹26 lakh crore as of October 23. ¶ • India ranks fourth globally in refining capacity at 267.11 MMTPA, with plans to expand to 309.5 million tonnes per annum by 2030, while Europe may shut 500,000-700,000 barrels per day by 2030. ¶ ↗ m.economictimes.com|https://m.economictimes.com/industry/energy/oil-gas/us-courting-reliances-refining-muscle-to-keep-oil-flowing-not-curb-russian-crude-analyst-says-mukesh-ambani/articleshow/135190443.cms ;; newindianexpress.com|https://www.newindianexpress.com/explainers/2026/Oct/24/how-the-world-is-discovering-india-as-a-crude-refining-superpower ;; indiaipo.in|https://www.indiaipo.in/news/detail/reliances-jio-platforms-ipo-allotment-on-mon-oct-26-what-happens-to-your-money-if-you-get-none-one-or-many-lots ;; m.economictimes.com|https://m.economictimes.com/markets/ipos/fpos/jioipogmptoday-alleyes-on-telecom-majors-megalisting-this-week-what-is-greymarketsignalling/articleshow/135183339.cms
+  • Jio Platforms IPO was subscribed over 22 times, with the QIB portion booked 70.55 times, and allotment is set for October 26. ¶ • The ₹30,213-crore Jio IPO is India's largest ever, surpassing Hyundai Motor India's ₹27,870-crore offering in 2024. ¶ • Jio Platforms shares will list on October 28, with grey market premium at ₹247 per share, implying a 22.07% gain over the upper price band of ₹1,119. ¶ • US Secretary of State Marco Rubio visited Reliance's Jamnagar refinery on October 21, as Washington seeks to leverage its 1.4 million barrels per day capacity for Western Hemisphere crude. ¶ • Russian crude made up about a third of Jamnagar's feedstock in July-September 2026, and analysts do not expect an immediate shift away from it despite US engagement. ¶ ↗ m.economictimes.com|https://m.economictimes.com/industry/energy/oil-gas/us-courting-reliances-refining-muscle-to-keep-oil-flowing-not-curb-russian-crude-analyst-says-mukesh-ambani/articleshow/135190443.cms ;; indiaipo.in|https://www.indiaipo.in/news/detail/reliances-jio-platforms-ipo-allotment-on-mon-oct-26-what-happens-to-your-money-if-you-get-none-one-or-many-lots ;; m.economictimes.com|https://m.economictimes.com/markets/ipos/fpos/jioipogmptoday-alleyes-on-telecom-majors-megalisting-this-week-what-is-greymarketsignalling/articleshow/135183339.cms
 
 - Outlook: Bullish
   2026-10-26 |
-  §VIEW§{"stance": "bullish", "text": "Jio's record IPO and strong grey market premium signal robust investor demand, while US engagement with Jamnagar highlights Reliance's strategic refining role. These factors support a positive outlook."}
+  §VIEW§{"stance": "bullish", "text": "Jio's record IPO and strong grey market premium signal robust investor demand, while Rubio's visit highlights Jamnagar's strategic value. The US focus on stable energy flows supports Reliance's refining margins."}
 
 [Flipkart]
 
 - ~
   26 Oct 2026 | https://campaignbriefasia.com/2026/10/26/flipkart-minutes-and-mccann-india-turn-delivery-tracking-into-a-horror-experience/
-  • Flipkart's Big Billion Days festive sale saw orders and buyers grow 20-22%, with beauty and grooming up 40%, per the festive sales coverage. ¶ • Flipkart plans to launch Flipkart for Earth, a premium line for sustainable products, onboarding brands across beauty, snacks, home decor and fashion. ¶ • Flipkart has seen 14 senior-level exits, including three VPs set to leave, amid ESOP liquidity concerns and no firm IPO timeline. ¶ • Former executives including Mukesh Bansal and Ankit Nagori wrote to Walmart's board seeking a full cash-out of vested ESOPs. ¶ • Walmart reportedly wants Flipkart to reach EBITDA breakeven by the end of FY27 before an IPO; Flipkart is valued at $35-36 billion. ¶ ↗ storyboard18.com|https://www.storyboard18.com/infographics/brand-marketing/amazon-vs-flipkart-festive-sales-bharat-drives-growth-as-shoppers-upgrade-homes-and-orders-rise-20-22-ws-lo-113329.htm ;; m.economictimes.com|https://m.economictimes.com/tech/startups/flipkart-plans-to-launch-earth-to-tap-demand-for-premium-sustainable-products/articleshow/135194759.cms ;; inc42.com|https://inc42.com/features/flipkarts-summer-of-discontent/
+  • Flipkart's Big Billion Days festive sale saw orders and buyers grow 20-22%, with beauty and grooming up 40%. ¶ • Flipkart plans to launch Flipkart for Earth, a premium line of sustainable products, onboarding brands across beauty, snacks, home decor, fashion and appliances. ¶ • Flipkart has seen 14 senior-level exits, including three more VPs set to leave, amid ESOP liquidity concerns and no firm IPO timeline. ¶ • Former executives including Mukesh Bansal, Ankit Nagori and Sanjay Baweja wrote to Walmart's board seeking a full cash-out of vested ESOPs. ¶ • Flipkart Minutes launched a three-part horror miniseries with the Ramsay Brothers, each episode timed to its 10-minute order-tracking window. ¶ ↗ storyboard18.com|https://www.storyboard18.com/infographics/brand-marketing/amazon-vs-flipkart-festive-sales-bharat-drives-growth-as-shoppers-upgrade-homes-and-orders-rise-20-22-ws-lo-113329.htm ;; m.economictimes.com|https://m.economictimes.com/tech/startups/flipkart-plans-to-launch-earth-to-tap-demand-for-premium-sustainable-products/articleshow/135194759.cms ;; inc42.com|https://inc42.com/features/flipkarts-summer-of-discontent/ ;; campaignbriefasia.com|https://campaignbriefasia.com/2026/10/26/flipkart-minutes-and-mccann-india-turn-delivery-tracking-into-a-horror-experience/
 
 - Outlook: Neutral
   2026-10-26 |
-  §VIEW§{"stance": "neutral", "text": "Festive orders rose 20-22% and a premium Earth line is planned, but 14 senior exits, ESOP disputes and Walmart's FY27 breakeven demand before any IPO weigh on the story."}
+  §VIEW§{"stance": "neutral", "text": "Festive orders rose 20-22% and a premium sustainable line could lift basket sizes, but 14 senior exits and an unresolved ESOP dispute cloud the IPO path. Growth and governance pull in opposite directions."}
 
 [Zomato]
 
@@ -62,35 +62,27 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Godigit Insurance]
 
-- ~
-  25 Oct 2026 | https://scanx.trade/stock-market-news/companies/cci-approves-merger-between-go-digit-infoworks-services-and-go-digit-general-insurance/46796801
-  • The CCI approved Go Digit General Insurance's merger with Go Digit Infoworks Services under Section 31(1) of the Competition Act, 2002, per a disclosure dated 29 July 2026. ¶ • The scheme still needs shareholder consent plus NCLT Mumbai Bench and IRDAI approvals before it can be implemented, the company said. ¶ • The Go Digit General Insurance board approved the Scheme of Amalgamation on 19 December 2025. ¶ • Stock exchanges gave no adverse observations on 23 April 2026 under Regulation 37 of the SEBI Listing Regulations. ¶ • The CCI notice was filed on 12 May 2026 by FAL Corporation and both Go Digit entities, registration number C-2026/05/1421; the detailed order is yet to be released. ¶ ↗ scanx.trade|https://scanx.trade/stock-market-news/companies/cci-approves-merger-between-go-digit-infoworks-services-and-go-digit-general-insurance/46796801
-
-- Outlook: Neutral
-  2026-10-26 |
-  §VIEW§{"stance": "neutral", "text": "CCI clearance removes a key hurdle for the restructuring, but NCLT, IRDAI and shareholder approvals remain pending, so the outcome is still undecided. Until those clear, the news flow is balanced."}
-
 [Infoedge/Naukri]
 
 [Bitcoin]
 
 - ~
-  26 Oct 2026 | https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-hold-back-retail-010200176.html
-  • Retail Bitcoin deposits to Binance rose to $10.75 billion over 30 days, up from $5.5 billion in April, a six-month high. ¶ • Whale deposits to Binance fell 36% since late August, from $5.9 billion to $3.8 billion, per CryptoQuant on-chain data. ¶ • U.S. spot Bitcoin ETFs took in about $301 million for the week, ending a two-week losing streak but still down $314 million in October. ¶ • Bitcoin fell 1.1% to about $80,490, and Myriad traders put 43% odds on a drop to $77,500 this month, up from 32%. ¶ • Jordi Visser rejected Chamath Palihapitiya's Bitcoin-to-zero call as a joke, while Citigroup set a 12-month target of $113,000. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-hold-back-retail-010200176.html ;; decrypt.co|https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide ;; fool.com|https://www.fool.com/investing/2026/10/25/can-crypto-double-in-value-during-the-next-crypto/ ;; tradingview.com|https://www.tradingview.com/news/stocktwits:69f576884094b:0-jordi-visser-calls-chamath-palihapitiya-s-bitcoin-going-to-zero-tale-completely-just-a-joke-says-ai-sell-off-could-bottom-in-two-weeks/
+  25 Oct 2026 | https://stocktwits.com/news-articles/markets/cryptocurrency/jordi-visser-calls-chamath-palihapitiya-s-bitcoin-going-to-zero-tale-completely-just-a-joke-says-ai-sell-off-could-bottom-in-two-weeks/cZUcyrbRBUq
+  • Bitcoin traded around US$79,954, down about 1.0% on the session and roughly 36% below its record high, after slipping back below US$80,000. ¶ • U.S. spot Bitcoin ETFs shed $137.9 million on Friday, capping a two-day $773.5 million outflow, but still ended the week up about $301 million and snapped a two-week losing streak. ¶ • Retail deposits to Binance hit a six-month high of $10.75 billion over 30 days, 2.8 times whale deposits, while whale deposits fell 36% since late August to $3.8 billion. ¶ • Jordi Visser called Chamath Palihapitiya's prediction that Bitcoin goes to zero 'completely just a joke,' saying banks now have a vested interest in protecting Bitcoin. ¶ • October ETF flows remain negative at about $314 million, and Myriad traders raised the odds of Bitcoin dropping to $77,500 this month to 43% from 32%. ¶ ↗ stocktwits.com|https://stocktwits.com/news-articles/markets/cryptocurrency/jordi-visser-calls-chamath-palihapitiya-s-bitcoin-going-to-zero-tale-completely-just-a-joke-says-ai-sell-off-could-bottom-in-two-weeks/cZUcyrbRBUq ;; au.finance.yahoo.com|https://au.finance.yahoo.com/news/chain-bitcoin-slips-below-us-011300240.html ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-hold-back-retail-010200176.html ;; decrypt.co|https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide
 
 - Outlook: Bearish
   2026-10-26 |
-  §VIEW§{"stance": "bearish", "text": "Retail deposits at 2.8 times whale deposits point to small holders selling into rebounds, and ETFs remain down $314 million for October. Price slipped to about $80,490 with traders raising odds of a drop to $77,500."}
+  §VIEW§{"stance": "bearish", "text": "Weak ETF flows and the drop below US$80,000 keep pressure on Bitcoin, with October ETF outflows at about $314 million. Retail deposits at a six-month high suggest small holders may sell into any rebound."}
 
 [Gold]
 
 - ~
-  25 Oct 2026 | https://sg.finance.yahoo.com/news/gold-prices-break-4-000-021700377.html
-  • Spot gold closed Friday at about $3,995.80 an ounce after touching $3,975.64, down roughly 4% for the week and nearly 29% below January's $5,595 peak. ¶ • Bank of America's Paul Ciana flagged $3,943, gold's July low, as the level to watch for a double bottom; a break points to $3,886 and then $3,700. ¶ • Oil's jump on Middle East supply fears revived inflation concerns before the Fed's October 27-28 meeting, with traders expecting no change but a possible December hike. ¶ • Egypt's 21-karat gold rose 0.5%, or EGP 30, to EGP 6,280 per gram last week even as the international ounce fell 4.1%, as the dollar gained about EGP 1.7 to above EGP 55. ¶ • Fidelity's Jurrien Timmer said repricing U.S. gold reserves from $42.22 an ounce to market rates, turning $11 billion into $1 trillion, would backfire by hitting the dollar and raising the term premium. ¶ ↗ sg.finance.yahoo.com|https://sg.finance.yahoo.com/news/gold-prices-break-4-000-021700377.html ;; eu.36kr.com|https://eu.36kr.com/en/p/4041364621611907 ;; fxempire.com|https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-metals-face-pressure-ahead-of-the-fed-1640226 ;; dailynewsegypt.com|https://www.dailynewsegypt.com/2026/10/25/gold-prices-rise-egp-30-last-week-despite-global-decline/
+  26 Oct 2026 | https://www.usatoday.com/story/money/money-management/investing/will-gold-hit-5000/90667077007/
+  • Gold fell 4.1% over the week to close at $3,995 per ounce, down from an opening level of $4,167, breaking below the $4,100 support level. ¶ • Brent crude oil reached near $118 last week on Saudi Arabia supply fears, keeping inflation high and rate-hike expectations elevated ahead of the Fed's 28 October decision. ¶ • The Fed's September rate hike and the possibility of further increases have created uncertainty, with gold now trading in the low-$4,000s per ounce. ¶ • Central banks bought 1,082 tons of gold in 2022, the fastest pace since 1967, with China's central bank accumulating an additional 10.16 million ounces (about 316 tons) over 18 months. ¶ • Egypt's 21-karat gold rose 0.5%, or EGP 30, to EGP 6,280 per gram last week despite the 4.1% international decline, as the dollar rose 3.2% to surpass EGP 55. ¶ ↗ usatoday.com|https://www.usatoday.com/story/money/money-management/investing/will-gold-hit-5000/90667077007/ ;; eu.36kr.com|https://eu.36kr.com/en/p/4041364621611907 ;; fxempire.com|https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-metals-face-pressure-ahead-of-the-fed-1640226 ;; dailynewsegypt.com|https://www.dailynewsegypt.com/2026/10/25/gold-prices-rise-egp-30-last-week-despite-global-decline/
 
 - Outlook: Bearish
   2026-10-26 |
-  §VIEW§{"stance": "bearish", "text": "Gold broke below $4,000 and lost 4% in a week, with the July low of $3,943 the line that decides whether the correction deepens toward $3,700. Higher oil, a firm dollar and December rate-hike expectations all weigh on a metal that pays no yield."}
+  §VIEW§{"stance": "bearish", "text": "Gold broke below $4,000 as oil near $118 keeps inflation and rate-hike expectations high, pressuring the metal. Central-bank buying and safe-haven demand support the long term, but near-term headwinds dominate."}
 
 ============================================================
 
@@ -180,13 +172,31 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
-- Five economic challenges facing Brazil's re-elected President Lula
-  26 Oct 2026 | https://www.thehindu.com/news/international/major-economic-challenges-brazil-faces-under-lulas-new-term/article71625446.ece
-  Lula plans a new round of debt relief, this time through discounted purchases of distressed household loans from banks, plus tax ⁠debt forgiveness for some small business owners
+[[Brazil election]]
 
-- Lula wins Brazil runoff against Flavio Bolsonaro with 51.75% of votes
-  26 Oct 2026 | https://www.thehindu.com/news/international/luiz-inacio-lula-da-silva-the-democratic-leftist/article65960291.ece
-  • Lula da Silva won Brazil's presidential runoff with 51.75% against Flavio Bolsonaro's 48.25%, after losing the first round. ¶ • The Supreme Court extended voting by two hours nationwide at Lula's request over pulled buses, drawing anger from Bolsonaro's camp.
+- Lula wins fourth term as Brazil's president, faces debt, inflation and a hostile Congress
+  26 Oct 2026 | https://www.thehindu.com/news/international/major-economic-challenges-brazil-faces-under-lulas-new-term/article71625446.ece
+  • Lula da Silva won 51.75% of the runoff vote on October 25, 2026 against Flavio Bolsonaro's 48.25%, returning for a fourth term at age 81. ¶ • Public debt has risen more than 10 percentage points this term to over 82% of GDP, with inflation at 4.6% above the central bank's 4.5% ceiling and interest rates at 13.75%.
+
+[[US politics]]
+
+- Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed
+  26 Oct 2026 | https://www.thehindu.com/news/international/trump-urge-michigan-voters-to-oppose-muslim-senate-candidate-abdul-el-sayed/article71625459.ece
+  • Trump told a Port Huron rally on October 25, 2026 that he aims to stop a "jihadist" from becoming senator, comparing El-Sayed to the Flight 93 hijackers. ¶ • El-Sayed, who would be the first Muslim U.S. senator, dismissed the attacks; Republican rival Mike Rogers said he has never called him a terrorist.
+
+[[Serbia politics]]
+
+- Serbia's student movement ousts longtime leader in Parliament poll
+  26 Oct 2026 | https://www.thehindu.com/news/international/serbias-student-movement-ousts-longtime-leader-in-parliament-poll/article71624845.ece
+  • Serbia's student-led movement won Sunday's snap parliamentary election, ending 14 years in power for Aleksandar Vucic's right-wing populist party, which he conceded less than two hours after polls closed. ¶ • Vucic said preliminary figures showed the Students' List could take 135 to 140 seats in the 250-seat parliament, with turnout near 65% of 6.4 million registered voters, the highest in over three decades.
+
+[[Barcelona bus crash]]
+
+- Emergency services say 83 injured, 7 seriously, in bus crash near Barcelona
+  26 Oct 2026 | https://www.thehindu.com/news/international/emergency-services-say-83-injured-7-seriously-in-bus-crash-near-barcelona/article71625494.ece
+  • A bus veered off a narrow, winding road and fell down a 20-metre embankment in Fogars de Monclús near Barcelona on Sunday afternoon, injuring 83 people, including seven seriously. ¶ • Emergency services deployed 23 ambulances, two medical helicopters and psychological support teams, and the cause of the crash was under investigation.
+
+[[Other]]
 
 - A physicist who took atoms near absolute zero, and physics further
   26 Oct 2026 | https://www.thehindu.com/sci-tech/science/claude-cohen-tannoudji-laser-cooling-pancharatnam-michael-berry-ramaseshan/article71625449.ece
@@ -195,12 +205,85 @@ SOURCE 3: The Hindu - International (headlines + summary)
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Unacademy founders plan Rs 700 crore AI, deeptech fund
+26 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms
+
+• Gaurav Munjal and Roman Saini are raising a ₹700-crore venture capital fund focused on AI and deeptech startups.
+
+• The fund, named Longshot Capital, has secured commitments of about ₹300 crore and targets its first close in January 2027.
+
+• Saini will lead the fund full-time, while Munjal, who continues to head Unacademy, will be involved part-time.
+
+• Longshot aims to back 25-28 seed and pre-Series A startups with initial cheques of 500,000-1.5 million, focusing on AI, manufacturing, space, defence and robotics.
+
+### Eloelo in talks to raise $50-60 million at $400 million valuation
+26 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms
+
+• Live social entertainment platform Eloelo is in advanced stages of closing a $50-60 million funding round led by Hornbill Capital.
+
+• The round values the company at around $400 million and includes participation from existing investors.
+
+• Eloelo raised $13.5 million in April 2025 in a round led by Play Ventures, taking total funding above $50 million.
+
+• Eloelo faces competition from Kuku TV, QuickTV and DashReels, while Flipkart and Pocket FM have also moved into the short-drama segment.
+
+### Flipkart plans to launch 'Earth' to tap demand for premium, sustainable products
+26 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms
+
+• Flipkart is planning to launch Flipkart for Earth, a premium line focused on environmentally friendly products.
+
+• The company has started onboarding brands offering healthier, toxin-free, and sustainable products across beauty and personal care, snacks and beverages, home decor, fashion, appliances, and other categories.
+
+• If introduced on Minutes, Flipkart for Earth could compete with Swiggy Instamart's Switch, which features around 400 brands across categories.
+
+• Industry experts said such offerings could help quick commerce platforms expand the basket size and increase their average order values (AOVs).
+
+### AI efficiencies shield IT firms' Q2 margins
+26 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms
+
+• Seven of India's top nine outsourcing companies either sequentially increased or maintained operating margins in the second quarter.
+
+• Efficiencies tied to AI helped partially offset revenue deflation attributed to the technology amid persistent macroeconomic uncertainty on either side of the Atlantic seaboard.
+
+### HomeLane revenues dip in FY26
+26 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms
+
+• Home interiors company HomeLane reported revenues of ₹745 crore in FY26, a marginal drop from ₹756 crore in FY25.
+
+• Its losses before tax widened to ₹137 crore from ₹111 crore a year ago.
+
+### Global pick: Pegasus spyware founder urges governments to trust his tech and ditch US AI
+FT | https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1
+
+[Could not read the article, possibly paywalled]
+
+### Global pick: What the US movement against data centers can learn from everywhere else
+Wired | https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/
+
+• Paris Marx's book Hyperscale argues data center opposition has a global history from Vietnam War protests to Ireland and Chile.
+
+• Dublin's grid operator imposed a moratorium in 2021 after saying it lacked capacity to connect more data centers.
+
+• In The Dalles, Oregon, Google used 29 percent of the community's water, figures it tried to keep secret for nearly a year.
+
+• Marx warns that if the AI bubble pops, planned gas plants will remain and need customers even if data centers are shelved.
+
+### Global pick: How one man became the unsung hero of the internet during a cyber-security scramble
+BBC | https://www.bbc.com/news/articles/cw30ejqljl43o
+
+• Researchers warn that police use of AI risks worsening discrimination against minorities because the tools learn from biased records.
+
+• They say the risk grows without oversight of how these AI tools are used by police forces.
+
+• The warning comes as AI spreads into policing and other public services.
+
+• Oversight is the key safeguard researchers point to before police AI use expands further.
 
 ============================================================
 
 SOURCE 4: Entrackr Weekly Funding Report
-[Could not fetch landing page]
+No new Weekly Funding Report since the last check (the latest covers Oct 12 to Oct 17). Most recent report: https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-oct-12-oct-17-12683867
 
 ============================================================
 
@@ -218,7 +301,7 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 - ~
   25 Oct 2026 | https://simplywall.st/stocks/in/software/nse-cyient/cyient-shares/news/cyient-limited-just-missed-eps-by-17-heres-what-analysts-thi
-  ## What the sector does ¶ • Engineering research and development services sell design, testing and digital engineering work to aerospace, defence, telecom and industrial clients on time-and-material or fixed-price contracts. ¶ • Revenue comes from billed engineer hours and project milestones, while cost is mostly salaries, so margins move with utilisation, wage inflation and offshore mix. ¶ ## What the company does ¶ • Cyient provides engineering, manufacturing, data analytics and network operations services to aerospace, defence, rail, telecom and semiconductor customers worldwide. ¶ • It earns from long-term engineering service contracts and build-to-spec manufacturing, with revenue of ₹2,235 crore in the September 2026 quarter. ¶ ## Why it moved today ¶ • Cyient shares rose 7.81% after Q2 FY27 revenue of ₹2,235 crore beat expectations, even though EPS of ₹11.47 missed analyst forecasts by 17%, per Simply Wall St. ¶ • Analysts lifted their price target 12% to ₹1,220 and forecast 14% revenue growth to ₹92.3 billion in 2027, signalling confidence despite the earnings miss. ¶ ## The numbers (Screener) ¶ • Stock trades at P/E 33.3, price to book of 2.7 times (₹1,233 price vs ₹459 book value), dividend yield 1.30% and ROCE of 12.3%. ¶ • September 2026 quarter revenue rose to ₹2,235 crore from ₹1,848 crore in December 2025, with net profit up to ₹132 crore from ₹97 crore. ¶ ## What the numbers say ¶ • At P/E 33.3 Cyient trades above L&T Technology's 29.7 and Sagility's 19.5 but below Tata Technologies' 40.6, while its ROCE of 12.3% lags the peer median near 26%. ¶ • September quarter revenue grew 25.5% year-on-year and net profit rose 3.4%, so the 7.81% move reflects improving revenue momentum rather than a re-rating of returns. ¶ ↗ simplywall.st|https://simplywall.st/stocks/in/software/nse-cyient/cyient-shares/news/cyient-limited-just-missed-eps-by-17-heres-what-analysts-thi ;; scanx.trade|https://scanx.trade/stock-market-news/companies/cyient-dlm-host-q2fy27-earnings-call-october-15-5-30-pm-ist/53356167 ;; scanx.trade|https://scanx.trade/stock-market-news/companies/cyient-dlm-host-analyst-meets-avener-carnelian-oct-27/54293166
+  ## What the sector does ¶ • Engineering research and development services sell design, testing and digital work to industrial clients in aerospace, defence, telecom and medical devices. ¶ • Revenue comes from billed hours on long-term contracts; costs are mostly engineer salaries, so margins hinge on utilisation and offshore wage inflation. ¶ ## What the company does ¶ • Cyient, formerly Infotech Enterprises, provides engineering design, manufacturing services and network operations to aerospace, defence, rail and telecom customers worldwide. ¶ • With ₹2,235 crore quarterly revenue and a ₹13,706 crore market cap, it is a mid-sized player behind L&T Technology and Tata Technologies. ¶ ## Why it moved today ¶ • Simply Wall St reported on 25 October that Cyient shares rose 3.2% over the week as September-quarter revenue of roughly ₹2,200 crore beat analyst expectations. ¶ • That article also noted EPS was 17% below forecast, but analysts raised their price target 12% to ₹1,220, and a separate 26 October momentum call set a ₹1,300-1,345 range. ¶ ## The numbers (Screener) ¶ • Stock P/E is 33.3, price to book is about 2.7 times on a book value of ₹459, ROCE is 12.3%, ROE is 8.61%, and dividend yield is 1.30%. ¶ • September 2026 quarter sales were ₹2,235 crore, up 25.5% year on year, with operating margin at 14% and net profit of ₹132 crore, or ₹10.92 per share. ¶ ## What the numbers say ¶ • At a P/E of 33.3, Cyient sits below Tata Technologies (40.6) but above L&T Technology (29.7) and in line with the peer average, despite a much lower ROCE of 12.3% versus L&T's 26.7% and Tata's 20.9%. ¶ • Sales grew 25.5% in the September quarter, the fastest in four quarters, but net profit growth of 3.4% and an 8.61% ROE show the business earns far less on capital than peers. ¶ ↗ simplywall.st|https://simplywall.st/stocks/in/software/nse-cyient/cyient-shares/news/cyient-limited-just-missed-eps-by-17-heres-what-analysts-thi ;; businesstoday.in|https://www.businesstoday.in/markets/trending-stocks/story/suzlon-energy-jk-bank-cyient-top-stocks-to-trade-check-key-levels-targets-stop-loss-563532-2026-10-26 ;; cnbctv18.com|https://www.cnbctv18.com/photos/market/hexaware-ltts-cyient-railtel-nippon-life-amc-steel-strips-wheels-ex-dividend-record-date-share-price-20018858.htm/amp
 
 [[Top Losers]]
 
@@ -232,4 +315,4 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 - ~
   25 Oct 2026 | https://scanx.trade/stock-market-news/companies/jammu-kashmir-bank-q1-results-net-profit-falls-to-4-2b-yoy-revenue-up/46859510
-  ## What the sector does ¶ • Indian banks take deposits from households and lend to retail, farm, MSME and corporate borrowers, earning the spread between interest paid and interest charged. ¶ • Revenue moves with loan growth and the net interest margin (NIM, the lending spread), while cost is set by deposit rates, operating expenses and credit provisions; HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank dominate. ¶ ## What the company does ¶ • Jammu & Kashmir Bank is a private-sector lender based in Srinagar, running retail, corporate and treasury banking, and acts as lead bank for 12 districts of Jammu & Kashmir. ¶ • Advances were ₹1,30,503 crore and deposits ₹1,73,420 crore at June 2026, with 63% of loans in J&K, Ladakh and the rest across India. ¶ ## Why it moved today ¶ • The news supplied does not explain the 16.28% fall; the articles cover Q1FY27 results and FY26 earnings, not the latest session's trading. ¶ • As context only, Q1FY27 standalone net profit fell 12.5% year on year to ₹424.18 crore as tax and provisions rose, with NIM down 44 basis points to 3.28%. ¶ ## The numbers (Screener) ¶ • Stock P/E is 5.27 and price to book 0.71 times against a book value of ₹159, with return on equity of 15.4% and ROCE of 5.84%. ¶ • Net profit was ₹581 crore in December 2025, ₹799 crore in March 2026, ₹429 crore in June 2026 and ₹553 crore in September 2026, with EPS of ₹5.02 in the September quarter. ¶ ## What the numbers say ¶ • At 5.27 times earnings the stock trades far below peers such as HDFC Bank at 13.34 and ICICI Bank at 16.95, and below its own book value of ₹159. ¶ • Return on equity of 15.4% is healthy, but quarterly profit has fallen from the March 2026 peak of ₹799 crore to ₹553 crore in September 2026, so the fall follows a slowing profit trend. ¶ ↗ scanx.trade|https://scanx.trade/stock-market-news/companies/jammu-kashmir-bank-q1-results-net-profit-falls-to-4-2b-yoy-revenue-up/46859510 ;; scanx.trade|https://scanx.trade/stock-market-news/companies/jammu-kashmir-bank-schedules-investor-meet-in-mumbai-from-may-18-to-20-2026/40201857
+  ## What the sector does ¶ • Indian banks take deposits from households and firms and lend to retail, agriculture, MSME and corporate borrowers, earning a spread between lending yields and deposit costs. ¶ • Revenue is driven by loan growth and the net interest margin (NIM, the spread on loans), while cost is set by deposit rates, operating expenses and provisions for bad loans. ¶ ## What the company does ¶ • Jammu & Kashmir Bank is a private sector bank based in Jammu and Kashmir, offering retail banking, corporate banking and treasury operations. ¶ • It is the only private bank given the lead bank responsibility for convening State/UT Level Bankers' Committee meetings and covers 12 districts of the UT of J&K. ¶ ## Why it moved today ¶ • The supplied articles do not explain the 16.28% fall; the most recent earnings coverage is the Q1FY27 result, where standalone net profit fell 12.5% year on year to ₹424.18 crore on higher tax and standard asset provisions. ¶ • As context only, the bank's Q1FY27 interest expenditure rose 13.6% year on year to ₹2,048.88 crore and NIM compressed 44 basis points to 3.28%, while gross NPA improved to 2.37% from 2.50%. ¶ ## The numbers (Screener) ¶ • The stock trades at a P/E of 5.27 and 0.71 times its book value of ₹159, with a market cap of ₹12,453 crore and a dividend yield of 0.00%. ¶ • Net profit was ₹581 crore in Dec 2025, ₹799 crore in Mar 2026, ₹429 crore in Jun 2026 and ₹553 crore in Sep 2026, with EPS of ₹5.28, ₹7.25, ₹3.89 and ₹5.02. ¶ ## What the numbers say ¶ • At a P/E of 5.27, J&K Bank is the cheapest in the peer table, where HDFC Bank trades at 13.34, ICICI Bank at 16.95, Axis Bank at 12.66 and IDBI Bank at 9.90. ¶ • Its ROE of 15.4% and ROCE of 5.84% sit below peers such as ICICI Bank (7.18% ROCE) and Kotak Mahindra Bank (6.98% ROCE), and quarterly net profit has fallen from ₹799 crore in Mar 2026 to ₹553 crore in Sep 2026. ¶ ↗ scanx.trade|https://scanx.trade/stock-market-news/companies/jammu-kashmir-bank-q1-results-net-profit-falls-to-4-2b-yoy-revenue-up/46859510 ;; cnbctv18.com|https://www.cnbctv18.com/personal-finance/jammu-kashmir-bank-raises-accident-cover-rs-1-crore-eligibility-benefits-20018968.htm ;; scanx.trade|https://scanx.trade/stock-market-news/companies/jammu-kashmir-bank-schedules-investor-meet-in-mumbai-from-may-18-to-20-2026/40201857
