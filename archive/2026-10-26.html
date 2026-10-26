@@ -1,0 +1,456 @@
+<title>Morning Wire</title>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,600;0,700;1,500&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #EEF0EE;
+  --surface: #FFFFFF;
+  --surface-2: #F5F6F3;
+  --ink: #1B2320;
+  --ink-soft: #59645D;
+  --ink-faint: #8A948D;
+  --border: #DCE0DA;
+  --accent: #A8650C;
+  --accent-ink: #6E4708;
+  --accent-soft: #F3E4C8;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #12151A;
+    --surface: #1A1F26;
+    --surface-2: #20262E;
+    --ink: #E7E9E4;
+    --ink-soft: #9FA8A2;
+    --ink-faint: #6B746E;
+    --border: #2B323A;
+    --accent: #E3A542;
+    --accent-ink: #F0C878;
+    --accent-soft: #3A2E14;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #12151A;
+  --surface: #1A1F26;
+  --surface-2: #20262E;
+  --ink: #E7E9E4;
+  --ink-soft: #9FA8A2;
+  --ink-faint: #6B746E;
+  --border: #2B323A;
+  --accent: #E3A542;
+  --accent-ink: #F0C878;
+  --accent-soft: #3A2E14;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Public Sans", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: var(--accent-ink); }
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 14px 20px 0;
+}
+.topbar-inner {
+  max-width: 700px;
+  margin: 0 auto;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.topbar-left {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.wordmark {
+  font-family: "Fraunces", serif;
+  font-weight: 700;
+  font-size: 1.15rem;
+  letter-spacing: 0.01em;
+}
+.dateline {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.copy-btn {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent-ink);
+  background: var(--accent-soft);
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  padding: 5px 12px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.copy-btn:active { transform: scale(0.96); }
+.chip-nav-row {
+  max-width: 700px;
+  margin: 10px auto 0;
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 12px;
+  scrollbar-width: none;
+}
+.chip-nav-row::-webkit-scrollbar { display: none; }
+.chip-nav {
+  flex: none;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  color: var(--ink-soft);
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 5px 12px;
+  white-space: nowrap;
+}
+.metrics-section {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 18px 20px 0;
+}
+.metrics-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.metrics-table th {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--ink-faint);
+  text-align: left;
+  font-weight: 500;
+  padding: 0 12px 8px 0;
+  border-bottom: 1px solid var(--border);
+}
+.metrics-table td {
+  padding: 10px 12px 10px 0;
+  border-bottom: 1px solid var(--border);
+  font-size: 0.95rem;
+}
+.metrics-table td.metric-value {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 500;
+  font-size: 1.05rem;
+}
+.metrics-table td.metric-value a {
+  color: var(--accent-ink);
+  text-decoration: none;
+}
+.metrics-table td.metric-value a:hover { text-decoration: underline; }
+.metrics-table td.metric-asof {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.78rem;
+  color: var(--ink-faint);
+}
+main {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 28px 20px 60px;
+}
+.wire-section {
+  padding: 28px 0;
+  border-bottom: 1px solid var(--border);
+}
+.wire-section:first-child { padding-top: 8px; }
+.eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-faint);
+  margin-bottom: 6px;
+}
+.eyebrow .idx { color: var(--accent-ink); font-weight: 500; }
+.wire-section h2 {
+  font-family: "Fraunces", serif;
+  font-weight: 700;
+  font-size: 1.65rem;
+  line-height: 1.15;
+  text-wrap: balance;
+  margin: 0 0 14px;
+}
+.sub-article { margin: 22px 0 0; }
+.sub-article:first-child { margin-top: 0; }
+.sub-article h3 {
+  font-family: "Fraunces", serif;
+  font-weight: 600;
+  font-size: 1.2rem;
+  line-height: 1.25;
+  text-wrap: balance;
+  margin: 0 0 6px;
+}
+.wire-section h4 {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent-ink);
+  margin: 22px 0 8px;
+}
+.wire-section h4:first-of-type { margin-top: 4px; }
+.subsection-title {
+  font-family: "Fraunces", serif;
+  font-weight: 600;
+  font-size: 1.15rem;
+  margin: 28px 0 14px;
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+}
+.subsection-title:first-of-type { margin-top: 4px; padding-top: 0; border-top: none; }
+.byline {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+  margin: 0 0 12px;
+  word-break: break-all;
+}
+.byline a { color: inherit; text-decoration: none; }
+p {
+  font-size: 1.02rem;
+  line-height: 1.6;
+  margin: 0 0 14px;
+  max-width: 62ch;
+}
+p.lede {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+p.empty {
+  color: var(--ink-soft);
+  font-style: italic;
+}
+.wire-list {
+  margin: 0 0 14px;
+  padding-left: 1.2em;
+}
+.wire-list li {
+  font-size: 1.02rem;
+  line-height: 1.6;
+  margin-bottom: 6px;
+}
+.wire-row {
+  padding: 14px 0;
+  border-top: 1px solid var(--border);
+}
+.wire-row:first-child { border-top: none; padding-top: 0; }
+.wire-row .headline {
+  display: block;
+  font-weight: 600;
+  color: var(--ink);
+  text-decoration: none;
+  margin: 0 0 4px;
+}
+.wire-row a.headline:hover {
+  text-decoration: underline;
+}
+.wire-row p:not(.headline) {
+  color: var(--ink-soft);
+  font-size: 0.96rem;
+}
+.wire-row p.pubdate {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+  margin: 0 0 6px;
+}
+.theme-title {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent-ink);
+  margin: 24px 0 4px;
+}
+.theme-title:first-of-type { margin-top: 6px; }
+.bl { margin: 0 0 10px; padding-left: 1.2em; }
+.bl li { margin: 0 0 5px; }
+.blabel {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent-ink);
+  margin: 16px 0 6px;
+}
+.blabel:first-child { margin-top: 0; }
+.srcs { font-size: 0.78rem; color: var(--ink-soft); }
+.view {
+  margin: 0 0 14px;
+  padding: 10px 14px;
+  background: var(--surface-2);
+  border-left: 3px solid var(--ink-soft);
+  border-radius: 4px;
+}
+.view p { margin: 0 0 4px; }
+.view-bullish { border-left-color: #3E9B66; }
+.view-bearish { border-left-color: #C4503F; }
+.view .view-head {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-soft);
+}
+.view .stance { font-weight: 600; color: var(--ink); }
+.view-bullish .stance { color: #3E9B66; }
+.view-bearish .stance { color: #C4503F; }
+.chip {
+  display: inline-block;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent-ink);
+  background: var(--accent-soft);
+  border-radius: 4px;
+  padding: 2px 7px;
+  margin-bottom: 6px;
+}
+footer {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 20px 40px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+}
+</style>
+<div id="mw-gate" style="min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px;background:var(--bg);">
+  <form id="mw-gate-form" style="max-width:280px;width:100%;text-align:center;font-family:'Public Sans',system-ui,sans-serif;">
+    <p style="font-family:'Fraunces',serif;font-weight:700;font-size:1.3rem;color:var(--ink);margin:0 0 16px;">Morning Wire</p>
+    <input id="mw-gate-input" type="password" placeholder="Password" autocomplete="off"
+      style="width:100%;box-sizing:border-box;padding:10px 12px;font-size:1rem;border:1px solid var(--border);border-radius:8px;background:var(--surface);color:var(--ink);margin-bottom:10px;">
+    <button type="submit" style="width:100%;padding:10px 12px;font-size:0.9rem;font-weight:600;border:none;border-radius:8px;background:var(--accent);color:#fff;cursor:pointer;">Unlock</button>
+    <p id="mw-gate-error" style="display:none;color:#c0392b;font-size:0.8rem;margin-top:10px;">Wrong password.</p>
+  </form>
+</div>
+<script>
+(function () {
+  var HASH = "9447d60f27823a109168f19de1046a91fc23bb4f157ae19b35efbf7403d177cd";
+
+  // The real content div is written *after* this script in the HTML
+  // stream, so it doesn't exist yet if queried at top-level execution —
+  // wait for the full document to parse first.
+  document.addEventListener("DOMContentLoaded", function () {
+  var gate = document.getElementById("mw-gate");
+  var content = document.getElementById("mw-content");
+  var form = document.getElementById("mw-gate-form");
+  var input = document.getElementById("mw-gate-input");
+  var error = document.getElementById("mw-gate-error");
+
+  function sha256Hex(text) {
+    return crypto.subtle.digest("SHA-256", new TextEncoder().encode(text)).then(function (buf) {
+      return Array.from(new Uint8Array(buf)).map(function (b) {
+        return b.toString(16).padStart(2, "0");
+      }).join("");
+    });
+  }
+
+  function unlock() {
+    gate.style.display = "none";
+    content.style.display = "";
+    try { localStorage.setItem("mw_unlocked", "1"); } catch (e) {}
+  }
+
+  var alreadyUnlocked = false;
+  try { alreadyUnlocked = localStorage.getItem("mw_unlocked") === "1"; } catch (e) {}
+  if (alreadyUnlocked) unlock();
+
+  form.addEventListener("submit", function (ev) {
+    ev.preventDefault();
+    sha256Hex(input.value).then(function (hex) {
+      if (hex === HASH) {
+        unlock();
+      } else {
+        error.style.display = "block";
+        input.value = "";
+        input.focus();
+      }
+    });
+  });
+  });
+})();
+</script>
+
+<div id="mw-content" style="display:none">
+<div class="topbar">
+  <div class="topbar-inner">
+    <div class="topbar-left">
+      <span class="wordmark">Morning Wire</span>
+      <span class="dateline">Monday, 26 October 2026</span>
+    </div>
+    <button id="copy-md-btn" class="copy-btn" type="button">Copy as Markdown</button>
+  </div>
+  <nav class="chip-nav-row"><a class="chip-nav" href="#metrics">Metrics</a><a class="chip-nav" href="#src-6">Watchlist</a><a class="chip-nav" href="#src-8">AI News</a><a class="chip-nav" href="#src-2">Editorials</a><a class="chip-nav" href="#src-5">Business</a><a class="chip-nav" href="#src-3">World</a><a class="chip-nav" href="#src-1">ET Dispatch</a><a class="chip-nav" href="#src-4">Funding</a><a class="chip-nav" href="#src-7">Movers</a><a class="chip-nav" href="companies.html">Companies</a><a class="chip-nav" href="archive/">Archive</a></nav>
+</div>
+<section id="metrics" class="metrics-section"><table class="metrics-table"><thead><tr><th>Metric</th><th>Value</th><th>As of</th></tr></thead><tbody><tr><td>Nifty PE Ratio</td><td class="metric-value"><a href="https://nifty-pe-ratio.com/">19.05</a></td><td class="metric-asof">23 Oct 2026</td></tr><tr><td>Gold rate, Bengaluru (per 10 g)</td><td class="metric-value"><a href="https://groww.in/gold-rates/gold-rate-today-in-bangalore">24K ₹1,42,570, 22K ₹1,30,690</a></td><td class="metric-asof">26 Oct 2026</td></tr><tr><td>Nifty 50</td><td class="metric-value"><a href="https://groww.in/indices/nifty">22,600.00 (-2.36%)</a></td><td class="metric-asof">23 Oct 2026, 03:31 PM IST</td></tr><tr><td>Bitcoin (INR)</td><td class="metric-value"><a href="https://www.coingecko.com/en/coins/bitcoin/inr">₹75,84,702 (-1.2% 24h)</a></td><td class="metric-asof">26 Oct 2026</td></tr><tr><td>Bitcoin (USD)</td><td class="metric-value"><a href="https://coinmarketcap.com/currencies/bitcoin/">$79,607 (-1.5% 24h)</a></td><td class="metric-asof">26 Oct 2026</td></tr></tbody></table></section>
+<main>
+<section id="src-6" class="wire-section"><div class="eyebrow"><span class="idx">01</span><span>Watchlist</span></div><h2>Watchlist (headlines + summary)</h2><h4>Jio Platforms</h4><div class="wire-row"><ul class="bl"><li>Jio Platforms&#x27; ₹30,213-crore IPO drew bids worth over $77 billion, the most subscribed share sale in India&#x27;s history, with 22.19 times overall subscription.</li><li>The IPO is India&#x27;s largest ever, surpassing Hyundai Motor India&#x27;s ₹27,870-crore offering in 2024, and received about 13.9 million applications, a record.</li><li>Qualified institutional buyers subscribed 70.55 times their portion, non-institutional investors 14 times, retail investors 2.72 times, employees 2.93 times and existing Reliance shareholders 7.6 times.</li><li>Allotment is expected on October 26, refunds on October 27, and listing on NSE and BSE on October 28; grey market premium signals a gain of about 22% over the ₹1,119 upper price band.</li><li>About ₹27,500 crore of the fresh issue proceeds will repay borrowings at Reliance Jio Infocomm, which has over 533 million subscribers and revenue of ₹1.5 trillion in the year to March 31, 2026.</li></ul><p class="srcs">Sources: <a href="https://m.economictimes.com/markets/ipos/fpos/jioipogmptoday-alleyes-on-telecom-majors-megalisting-this-week-what-is-greymarketsignalling/articleshow/135183339.cms">m.economictimes.com</a>, <a href="https://organiser.org/2026/10/26/420714/bharat/jio-platforms-ipo-allotment-today-how-to-check-status-on-nse-bse-and-kfin-technologies/">organiser.org</a>, <a href="https://www.tradingview.com/news/cnbctv:321172dea094b:0/">tradingview.com</a>, <a href="https://ceoworld.biz/2026/10/25/billionaire-mukesh-ambanis-jio-draws-record-77-billion-in-ipo-bids/">ceoworld.biz</a></p></div><div class="view view-bullish"><p class="view-head">Outlook: <span class="stance">Bullish</span></p><p>Record $77 billion in bids, 22.19x subscription and a 22% grey market premium point to strong listing demand. The small 2.9% free float and heavy institutional oversubscription support the debut, though future share supply will grow.</p></div><h4>Reliance Intelligence</h4><p class="empty">No items published in the last 24 hours</p><h4>Reliance</h4><div class="wire-row"><ul class="bl"><li>Jio Platforms IPO was subscribed 22.19 times, with QIB portion at 70.55 times, and will list on October 28 at an indicative ₹1,366 per share based on grey market premium of ₹247.</li><li>US Secretary of State Marco Rubio visited Reliance&#x27;s Jamnagar refinery on October 21, signaling Washington&#x27;s interest in using its 1.4 million barrels per day capacity to process more Western Hemisphere crude.</li><li>Russian crude still made up about a third of Jamnagar&#x27;s feedstock in July-September 2026, and analysts do not expect an immediate shift away from it despite US engagement.</li><li>Reliance Group&#x27;s combined market capitalisation could reach ₹28.35 lakh crore after Jio&#x27;s listing, overtaking Tata Group&#x27;s ₹26 lakh crore as of October 23.</li><li>India ranks fourth globally in refining capacity at 267.11 MMTPA, with plans to expand to 309.5 million tonnes per annum by 2030, while Europe may shut 500,000-700,000 barrels per day by 2030.</li></ul><p class="srcs">Sources: <a href="https://m.economictimes.com/industry/energy/oil-gas/us-courting-reliances-refining-muscle-to-keep-oil-flowing-not-curb-russian-crude-analyst-says-mukesh-ambani/articleshow/135190443.cms">m.economictimes.com</a>, <a href="https://www.newindianexpress.com/explainers/2026/Oct/24/how-the-world-is-discovering-india-as-a-crude-refining-superpower">newindianexpress.com</a>, <a href="https://www.indiaipo.in/news/detail/reliances-jio-platforms-ipo-allotment-on-mon-oct-26-what-happens-to-your-money-if-you-get-none-one-or-many-lots">indiaipo.in</a>, <a href="https://m.economictimes.com/markets/ipos/fpos/jioipogmptoday-alleyes-on-telecom-majors-megalisting-this-week-what-is-greymarketsignalling/articleshow/135183339.cms">m.economictimes.com</a></p></div><div class="view view-bullish"><p class="view-head">Outlook: <span class="stance">Bullish</span></p><p>Jio&#x27;s record IPO and strong grey market premium signal robust investor demand, while US engagement with Jamnagar highlights Reliance&#x27;s strategic refining role. These factors support a positive outlook.</p></div><h4>Flipkart</h4><div class="wire-row"><ul class="bl"><li>Flipkart&#x27;s Big Billion Days festive sale saw orders and buyers grow 20-22%, with beauty and grooming up 40%, per the festive sales coverage.</li><li>Flipkart plans to launch Flipkart for Earth, a premium line for sustainable products, onboarding brands across beauty, snacks, home decor and fashion.</li><li>Flipkart has seen 14 senior-level exits, including three VPs set to leave, amid ESOP liquidity concerns and no firm IPO timeline.</li><li>Former executives including Mukesh Bansal and Ankit Nagori wrote to Walmart&#x27;s board seeking a full cash-out of vested ESOPs.</li><li>Walmart reportedly wants Flipkart to reach EBITDA breakeven by the end of FY27 before an IPO; Flipkart is valued at $35-36 billion.</li></ul><p class="srcs">Sources: <a href="https://www.storyboard18.com/infographics/brand-marketing/amazon-vs-flipkart-festive-sales-bharat-drives-growth-as-shoppers-upgrade-homes-and-orders-rise-20-22-ws-lo-113329.htm">storyboard18.com</a>, <a href="https://m.economictimes.com/tech/startups/flipkart-plans-to-launch-earth-to-tap-demand-for-premium-sustainable-products/articleshow/135194759.cms">m.economictimes.com</a>, <a href="https://inc42.com/features/flipkarts-summer-of-discontent/">inc42.com</a></p></div><div class="view view-neutral"><p class="view-head">Outlook: <span class="stance">Neutral</span></p><p>Festive orders rose 20-22% and a premium Earth line is planned, but 14 senior exits, ESOP disputes and Walmart&#x27;s FY27 breakeven demand before any IPO weigh on the story.</p></div><h4>Zomato</h4><div class="wire-row"><ul class="bl"><li>Blinkit and Swiggy&#x27;s Instamart are taking opposite bets on private labels, a strategy seen as a lever for margins and retention.</li><li>Blinkit CEO Albinder Dhindsa said private labels must generate incremental demand or improve economics, and the model currently meets neither test.</li><li>Swiggy&#x27;s Switch products featured in over 20% of Instamart orders across more than 60 categories as of September 2026.</li><li>Swiggy&#x27;s No!ce clean-food label featured in over one in eight orders across 500-plus SKUs, with buyers showing 15 percentage points higher retention.</li><li>A Blinkit delivery agent received a scooter from Anant Ambani&#x27;s foundation, a video that drew over 46 million views.</li></ul><p class="srcs">Sources: <a href="https://www.businesstoday.in/latest/corporate/story/bt-big-story-private-label-divide-why-blinkit-and-instamart-are-placing-opposite-bets-563520-2026-10-25">businesstoday.in</a>, <a href="https://www.indiatoday.in/trending-news/story/mumbai-philanthropist-gifts-blinkit-agent-scooter-on-anant-ambanis-behalf-leaves-him-crying-3024579-2026-10-25">indiatoday.in</a></p></div><div class="view view-neutral"><p class="view-head">Outlook: <span class="stance">Neutral</span></p><p>Blinkit rejects private labels while Instamart reports strong Switch and No!ce traction, so the news flow splits. Blinkit&#x27;s ad-revenue and seller-conflict argument against Instamart&#x27;s retention and margin gains decides it.</p></div><h4>HAL</h4><div class="wire-row"><a class="headline" href="https://www.news18.com/videos/breaking-news/lca-tejas-air-show-in-varanasi-india-s-indigenous-fighter-jet-soars-at-wings-over-ganges-10396870.html">LCA Tejas Air Show in Varanasi | India’s Indigenous Fighter Jet Soars at Wings Over Ganges</a><p class="pubdate">25 Oct 2026</p></div><h4>Tejas Networks</h4><p class="empty">No items published in the last 24 hours</p><h4>Dmart</h4><p class="empty">No items published in the last 24 hours</p><h4>Godigit Insurance</h4><div class="wire-row"><ul class="bl"><li>The CCI approved Go Digit General Insurance&#x27;s merger with Go Digit Infoworks Services under Section 31(1) of the Competition Act, 2002, per a disclosure dated 29 July 2026.</li><li>The scheme still needs shareholder consent plus NCLT Mumbai Bench and IRDAI approvals before it can be implemented, the company said.</li><li>The Go Digit General Insurance board approved the Scheme of Amalgamation on 19 December 2025.</li><li>Stock exchanges gave no adverse observations on 23 April 2026 under Regulation 37 of the SEBI Listing Regulations.</li><li>The CCI notice was filed on 12 May 2026 by FAL Corporation and both Go Digit entities, registration number C-2026/05/1421; the detailed order is yet to be released.</li></ul><p class="srcs">Sources: <a href="https://scanx.trade/stock-market-news/companies/cci-approves-merger-between-go-digit-infoworks-services-and-go-digit-general-insurance/46796801">scanx.trade</a></p></div><div class="view view-neutral"><p class="view-head">Outlook: <span class="stance">Neutral</span></p><p>CCI clearance removes a key hurdle for the restructuring, but NCLT, IRDAI and shareholder approvals remain pending, so the outcome is still undecided. Until those clear, the news flow is balanced.</p></div><h4>Infoedge/Naukri</h4><p class="empty">No items published in the last 24 hours</p><h4>Bitcoin</h4><div class="wire-row"><ul class="bl"><li>Retail Bitcoin deposits to Binance rose to $10.75 billion over 30 days, up from $5.5 billion in April, a six-month high.</li><li>Whale deposits to Binance fell 36% since late August, from $5.9 billion to $3.8 billion, per CryptoQuant on-chain data.</li><li>U.S. spot Bitcoin ETFs took in about $301 million for the week, ending a two-week losing streak but still down $314 million in October.</li><li>Bitcoin fell 1.1% to about $80,490, and Myriad traders put 43% odds on a drop to $77,500 this month, up from 32%.</li><li>Jordi Visser rejected Chamath Palihapitiya&#x27;s Bitcoin-to-zero call as a joke, while Citigroup set a 12-month target of $113,000.</li></ul><p class="srcs">Sources: <a href="https://finance.yahoo.com/markets/crypto/articles/bitcoin-whales-hold-back-retail-010200176.html">finance.yahoo.com</a>, <a href="https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide">decrypt.co</a>, <a href="https://www.fool.com/investing/2026/10/25/can-crypto-double-in-value-during-the-next-crypto/">fool.com</a>, <a href="https://www.tradingview.com/news/stocktwits:69f576884094b:0-jordi-visser-calls-chamath-palihapitiya-s-bitcoin-going-to-zero-tale-completely-just-a-joke-says-ai-sell-off-could-bottom-in-two-weeks/">tradingview.com</a></p></div><div class="view view-bearish"><p class="view-head">Outlook: <span class="stance">Bearish</span></p><p>Retail deposits at 2.8 times whale deposits point to small holders selling into rebounds, and ETFs remain down $314 million for October. Price slipped to about $80,490 with traders raising odds of a drop to $77,500.</p></div><h4>Gold</h4><div class="wire-row"><ul class="bl"><li>Spot gold closed Friday at about $3,995.80 an ounce after touching $3,975.64, down roughly 4% for the week and nearly 29% below January&#x27;s $5,595 peak.</li><li>Bank of America&#x27;s Paul Ciana flagged $3,943, gold&#x27;s July low, as the level to watch for a double bottom; a break points to $3,886 and then $3,700.</li><li>Oil&#x27;s jump on Middle East supply fears revived inflation concerns before the Fed&#x27;s October 27-28 meeting, with traders expecting no change but a possible December hike.</li><li>Egypt&#x27;s 21-karat gold rose 0.5%, or EGP 30, to EGP 6,280 per gram last week even as the international ounce fell 4.1%, as the dollar gained about EGP 1.7 to above EGP 55.</li><li>Fidelity&#x27;s Jurrien Timmer said repricing U.S. gold reserves from $42.22 an ounce to market rates, turning $11 billion into $1 trillion, would backfire by hitting the dollar and raising the term premium.</li></ul><p class="srcs">Sources: <a href="https://sg.finance.yahoo.com/news/gold-prices-break-4-000-021700377.html">sg.finance.yahoo.com</a>, <a href="https://eu.36kr.com/en/p/4041364621611907">eu.36kr.com</a>, <a href="https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-metals-face-pressure-ahead-of-the-fed-1640226">fxempire.com</a>, <a href="https://www.dailynewsegypt.com/2026/10/25/gold-prices-rise-egp-30-last-week-despite-global-decline/">dailynewsegypt.com</a></p></div><div class="view view-bearish"><p class="view-head">Outlook: <span class="stance">Bearish</span></p><p>Gold broke below $4,000 and lost 4% in a week, with the July low of $3,943 the line that decides whether the correction deepens toward $3,700. Higher oil, a firm dollar and December rate-hike expectations all weigh on a metal that pays no yield.</p></div></section><section id="src-8" class="wire-section"><div class="eyebrow"><span class="idx">02</span><span>AI News</span></div><h2>AI News</h2><div class="wire-row"><span class="chip">No posts from the AI labs or the newsletter in the last 24 hours</span><p class="headline"></p></div></section><section id="src-2" class="wire-section"><div class="eyebrow"><span class="idx">03</span><span>Editorials</span></div><h2>The Hindu - Editorials</h2><article class="sub-article"><h3>Old values, new avenues: On India-Poland ties</h3><p class="pubdate">25 Oct 2026</p><p class="byline"><a href="https://www.thehindu.com/opinion/editorial/old-values-new-avenues-on-india-poland-ties/article71623770.ece">https://www.thehindu.com/opinion/editorial/old-values-new-avenues-on-india-poland-ties/article71623770.ece</a></p><ul class="wire-list"><li>Polish Prime Minister Donald Tusk visited Delhi and Bengaluru last week, sixteen years after his previous visit as prime minister, to signal renewed cooperation with India.</li><li>Both sides agreed to double trade, currently worth just $6 billion, by 2030, ahead of Prime Minister Narendra Modi&#x27;s trip to Brussels to sign the India-EU Free Trade Agreement.</li><li>Poland, the EU&#x27;s sixth largest economy, has crossed $1 trillion GDP in nominal terms and has a $120 billion tech economy.</li><li>The two sides agreed to establish a Defence Industry Dialogue and explore counter-terrorism cooperation, while Tusk backed India&#x27;s four-pronged plan on grain exports and seafarers&#x27; safety in the Ukraine war.</li><li>Tusk said the challenge is translating talks and MoUs into joint ventures, but trust remains an issue given India&#x27;s defence ties with Russia and Poland&#x27;s with Pakistan.</li></ul></article><article class="sub-article"><h3>Wicked surprise: On the northeast monsoon</h3><p class="pubdate">25 Oct 2026</p><p class="byline"><a href="https://www.thehindu.com/opinion/editorial/wicked-surprise-on-the-northeast-monsoon/article71623526.ece">https://www.thehindu.com/opinion/editorial/wicked-surprise-on-the-northeast-monsoon/article71623526.ece</a></p><ul class="wire-list"><li>India&#x27;s June-September southwest monsoon rainfall was 759.4 mm against 868.6 mm, a 12.6% deficit and the driest in 11 years.</li><li>The India Meteorological Department expects northeast monsoon rainfall from October to December to be normal, within a 12% error window.</li><li>Most of India is expected to get below-normal rain, except parts of northwest India and southern peninsular India, where it may be normal to above-normal.</li><li>The northeast monsoon&#x27;s 12% error window is wider than the 5% margin for southwest monsoon forecasts, so it can bring nasty surprises.</li><li>The article urges the Centre and southern States to clear stormwater drains, fortify shelters, prepare for infrastructure damage and tighten weather warnings.</li></ul></article></section><section id="src-5" class="wire-section"><div class="eyebrow"><span class="idx">04</span><span>Business</span></div><h2>The Hindu - Business (headlines + summary)</h2><h4 class="theme-title">Markets and IPOs</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/sci-tech/technology/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin/article71614437.ece">Apple bets iPhone Duo can remake foldable market as sales begin</a><p class="pubdate">25 Oct 2026</p><ul class="bl"><li>Apple began selling its first folding phone, the iPhone Duo, on Friday, with pre-orders slipping to late January as demand outpaced supply.</li><li>IDC expects Apple to take 44% of foldable value in 2026 on 31% of units, though reviewers flagged camera compromises and a less handy folded state.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece">Five IPOs to open next week; companies eye close to ₹2,600 crore</a><p class="pubdate">25 Oct 2026</p><ul class="bl"><li>Five companies will open IPOs between October 26 and October 29 seeking close to ₹2,600 crore, led by EAAA India Alternatives&#x27; ₹1,200-crore offer priced at ₹1,585-1,665 per share.</li><li>The EAAA issue is entirely an offer for sale by the Edelweiss Group, so the company gets no proceeds, while SFC Environmental, M. K. Sons, BLS Polymers and Bombay Coated also plan fresh issues for debt repayment, working capital and expansion.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece">FPIs withdraw ₹48,056 cr from equities in October so far amid elevated crude oil prices</a><p class="pubdate">25 Oct 2026</p><ul class="bl"><li>Foreign investors pulled ₹48,056 crore from Indian equities in October so far, after net withdrawals of ₹35,861 crore in September.</li><li>Cumulative FPI outflows in 2026 reached ₹3.08 lakh crore, far above the ₹1.66 lakh crore withdrawn in all of 2025, though selling eased in the week ended October 23.</li></ul></div><h4 class="theme-title">Insurance and policy</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Economy/upi-and-the-cost-of-policy-reversal/article71328209.ece">UPI and the cost of policy reversal</a><p class="pubdate">25 Oct 2026</p><ul class="bl"><li>A bill would let the government notify a Merchant Discount Rate (MDR) of 0.25-0.5% on UPI transactions above ₹2,000, covering about 65% of transaction value but only 5% by volume.</li><li>The author argues banks and payment providers would likely absorb the charge, eroding investment in reliability and fraud prevention and undercutting UPI&#x27;s financial inclusion gains.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Economy/how-indias-life-insurance-sector-funds-government-expenditure/article71195322.ece">How India’s life insurance sector funds government expenditure</a><p class="pubdate">25 Oct 2026</p><ul class="bl"><li>Life insurers hold close to a quarter of India&#x27;s outstanding central government dated securities, a share stable even as sovereign debt stock grew about 40% in three years.</li><li>LIC alone holds roughly 19% of all outstanding central government dated securities, with ₹20.2 lakh crore in central government securities as of March 2025.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/excess-insured-but-still-responsible/article71623110.ece">‘Excess’: Insured, but still responsible</a><p class="pubdate">25 Oct 2026</p><ul class="bl"><li>An excess or deductible is the first portion of an admissible claim you must bear yourself, discouraging small claims and cutting the insurer&#x27;s processing costs.</li><li>A car policy with a ₹10,000 own-damage premium and 50% no-claim bonus costs ₹5,000 to renew, so a ₹2,000 claim can forfeit ₹5,000 in discount.</li></ul></div><h4 class="theme-title">Aviation infrastructure</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece">IndiGo, Air India to shift flights to Navi Mumbai as Mumbai airport prepares Terminal 1 redevelopment</a><p class="pubdate">25 Oct 2026</p><ul class="bl"><li>IndiGo will move 12 daily international departures from Mumbai&#x27;s CSMIA to Navi Mumbai airport between February and July 2027, while Air India Express shifts Jeddah, Riyadh, Dammam, Doha, Muscat and Sharjah services by the 2027 summer season.</li><li>The first phase moves about 5 million passengers, including roughly 3 million from IndiGo, freeing capacity at CSMIA for the redevelopment of Terminal 1 by 2030.</li></ul></div><h4 class="theme-title">Investing and portfolios</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/implication-of-residual-investments-on-core-portfolios/article71623095.ece">Implication of residual investments on core portfolios</a><p class="pubdate">25 Oct 2026</p><ul class="bl"><li>SEBI now lets equity funds put up to 35% of their residual portfolio in non-equity assets such as gold ETFs, silver ETFs and InvITs.</li><li>Investors holding both these funds and metal ETFs directly may end up with skewed asset allocation, so index funds or equity ETFs are an alternative.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/swiping-in-dark-the-hidden-cost-of-plastic-money/article71623078.ece">Swiping in dark: The hidden cost of plastic money</a><p class="pubdate">25 Oct 2026</p><ul class="bl"><li>Paying only the minimum due keeps the bulk of the debt compounding and ends the interest-free grace period, so new purchases accrue interest at 36% to 42% a year until the full bill is cleared.</li><li>Credit use above 30% of the card limit lowers the CIBIL score even without a default, and ATM cash withdrawals cap at ₹10,000 per attempt with a flat fee of about ₹199 plus GST.</li></ul></div></section><section id="src-3" class="wire-section"><div class="eyebrow"><span class="idx">05</span><span>World</span></div><h2>The Hindu - International (headlines + summary)</h2><div class="wire-row"><p class="headline">Five economic challenges facing Brazil&#x27;s re-elected President Lula</p><p class="pubdate">26 Oct 2026</p><p>Lula plans a new round of debt relief, this time through discounted purchases of distressed household loans from banks, plus tax ⁠debt forgiveness for some small business owners</p></div><div class="wire-row"><p class="headline">Lula wins Brazil runoff against Flavio Bolsonaro with 51.75% of votes</p><p class="pubdate">26 Oct 2026</p><ul class="bl"><li>Lula da Silva won Brazil&#x27;s presidential runoff with 51.75% against Flavio Bolsonaro&#x27;s 48.25%, after losing the first round.</li><li>The Supreme Court extended voting by two hours nationwide at Lula&#x27;s request over pulled buses, drawing anger from Bolsonaro&#x27;s camp.</li></ul></div><div class="wire-row"><p class="headline">A physicist who took atoms near absolute zero, and physics further</p><p class="pubdate">26 Oct 2026</p><ul class="bl"><li>Claude Cohen-Tannoudji, who helped develop laser techniques to cool atoms to near absolute zero, died on October 22 at age 93.</li><li>His work, which won a share of the 1997 physics Nobel Prize, enabled advances such as atomic clocks and atom interferometers.</li></ul></div></section><section id="src-1" class="wire-section"><div class="eyebrow"><span class="idx">06</span><span>ET Dispatch</span></div><h2>ET Morning Dispatch</h2><p class="empty">[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]</p></section><section id="src-4" class="wire-section"><div class="eyebrow"><span class="idx">07</span><span>Funding</span></div><h2>Entrackr Weekly Funding Report</h2><p class="empty">[Could not fetch landing page]</p></section><section id="src-7" class="wire-section"><div class="eyebrow"><span class="idx">08</span><span>Movers</span></div><h2>Dynamic Watchlist (headlines + summary)</h2><h3 class="subsection-title">Top Gainers</h3><h4>International Gemological Institute Ltd (IGIL, +7.91%)</h4><div class="wire-row"><h5 class="blabel">What the sector does</h5><ul class="bl"><li>Independent gem certification labs grade and authenticate diamonds, gemstones and jewellery for jewellers, retailers, auction houses and consumers, charging a fee per stone or piece.</li><li>Revenue depends on grading volumes, which track diamond and jewellery demand and lab-grown stone supply, while cost is mainly gemmologists, equipment and lab network; key players include GIA, IGI and HRD Antwerp.</li></ul><h5 class="blabel">What the company does</h5><ul class="bl"><li>International Gemological Institute Ltd is the world&#x27;s largest independent certification and accreditation provider for diamonds, gemstones and jewellery, grading stones for jewellers, retailers and consumers worldwide.</li><li>It earns fees per graded stone from a global lab network, reported ₹398 crore sales and ₹186 crore net profit in the September 2026 quarter, and is the largest listed player in its niche.</li></ul><h5 class="blabel">Why it moved today</h5><ul class="bl"><li>No news article explaining the 7.91% rise was retrieved, so the exact cause of the session&#x27;s move is not established from the available sources.</li><li>Context: the stock closed at ₹381.15 on October 23, 2026, near its 52-week high of ₹388, after September-quarter net profit rose 43.19% and sales 31.04% year on year, per Screener data.</li></ul><h5 class="blabel">The numbers (Screener)</h5><ul class="bl"><li>Stock P/E 24.7, price to book 9.41 times, ROCE 69.2%, ROE 55.8%, market cap ₹16,472 crore, dividend yield 0.67%, as per Screener data.</li><li>September 2026 quarter: sales ₹398 crore, operating profit ₹245 crore at 61% OPM, net profit ₹186 crore, EPS ₹4.30, up from ₹3.11 in December 2025.</li></ul><h5 class="blabel">What the numbers say</h5><ul class="bl"><li>At a P/E of 24.7 the stock trades above the peer median of 15.57, while its 69.2% ROCE and 55.8% ROE are far above the peer median ROCE of 14.07%, so the premium reflects much higher returns on capital.</li><li>Quarterly sales rose from ₹320 crore in December 2025 to ₹398 crore in September 2026 and net profit from ₹135 crore to ₹186 crore, so growth is steady, though the 9.41 times book value leaves little room for error.</li></ul></div><h4>Cyient Ltd (CYIENT, +7.81%)</h4><div class="wire-row"><h5 class="blabel">What the sector does</h5><ul class="bl"><li>Engineering research and development services sell design, testing and digital engineering work to aerospace, defence, telecom and industrial clients on time-and-material or fixed-price contracts.</li><li>Revenue comes from billed engineer hours and project milestones, while cost is mostly salaries, so margins move with utilisation, wage inflation and offshore mix.</li></ul><h5 class="blabel">What the company does</h5><ul class="bl"><li>Cyient provides engineering, manufacturing, data analytics and network operations services to aerospace, defence, rail, telecom and semiconductor customers worldwide.</li><li>It earns from long-term engineering service contracts and build-to-spec manufacturing, with revenue of ₹2,235 crore in the September 2026 quarter.</li></ul><h5 class="blabel">Why it moved today</h5><ul class="bl"><li>Cyient shares rose 7.81% after Q2 FY27 revenue of ₹2,235 crore beat expectations, even though EPS of ₹11.47 missed analyst forecasts by 17%, per Simply Wall St.</li><li>Analysts lifted their price target 12% to ₹1,220 and forecast 14% revenue growth to ₹92.3 billion in 2027, signalling confidence despite the earnings miss.</li></ul><h5 class="blabel">The numbers (Screener)</h5><ul class="bl"><li>Stock trades at P/E 33.3, price to book of 2.7 times (₹1,233 price vs ₹459 book value), dividend yield 1.30% and ROCE of 12.3%.</li><li>September 2026 quarter revenue rose to ₹2,235 crore from ₹1,848 crore in December 2025, with net profit up to ₹132 crore from ₹97 crore.</li></ul><h5 class="blabel">What the numbers say</h5><ul class="bl"><li>At P/E 33.3 Cyient trades above L&amp;T Technology&#x27;s 29.7 and Sagility&#x27;s 19.5 but below Tata Technologies&#x27; 40.6, while its ROCE of 12.3% lags the peer median near 26%.</li><li>September quarter revenue grew 25.5% year-on-year and net profit rose 3.4%, so the 7.81% move reflects improving revenue momentum rather than a re-rating of returns.</li></ul><p class="srcs">Sources: <a href="https://simplywall.st/stocks/in/software/nse-cyient/cyient-shares/news/cyient-limited-just-missed-eps-by-17-heres-what-analysts-thi">simplywall.st</a>, <a href="https://scanx.trade/stock-market-news/companies/cyient-dlm-host-q2fy27-earnings-call-october-15-5-30-pm-ist/53356167">scanx.trade</a>, <a href="https://scanx.trade/stock-market-news/companies/cyient-dlm-host-analyst-meets-avener-carnelian-oct-27/54293166">scanx.trade</a></p></div><h3 class="subsection-title">Top Losers</h3><h4>Swiggy Ltd (SWIGGY, -16.75%)</h4><div class="wire-row"><h5 class="blabel">What the sector does</h5><ul class="bl"><li>India&#x27;s food delivery and quick commerce sector sells restaurant meals and groceries delivered in minutes to urban households, earning commissions, delivery fees and advertising from restaurants and brands.</li><li>Revenue depends on order volume, basket size and take rates, while costs come from delivery partner payouts, dark stores, discounts and technology, with Zomato&#x27;s Blinkit, Swiggy and Zepto the main players.</li></ul><h5 class="blabel">What the company does</h5><ul class="bl"><li>Swiggy runs food delivery and Instamart quick commerce through one app, plus Swiggy Genie and Dineout, earning commissions, delivery and platform fees and advertising from restaurants, brands and users.</li><li>Its food delivery business reported record adjusted EBITDA in the September 2026 quarter, while Instamart&#x27;s adjusted EBITDA loss widened to ₹895 crore, against Blinkit&#x27;s ₹184 crore positive adjusted EBITDA.</li></ul><h5 class="blabel">Why it moved today</h5><ul class="bl"><li>Swiggy shares fell about 15% to ₹179.90 on the BSE on October 23, 2026, wiping out roughly ₹9,000 crore in market capitalisation after Q2 FY27 results showed Instamart&#x27;s widening losses overshadowing food delivery profits.</li><li>Context, not the cause: the Nifty Midcap 100 fell 5.6% in the week to October 23, its steepest weekly drop in 20 months, as Brent crude breached $117 per barrel and foreign investors sold ₹2,697 crore of Indian equities.</li></ul><h5 class="blabel">The numbers (Screener)</h5><ul class="bl"><li>Revenue from operations rose 36.1% year on year to ₹7,571 crore in the September 2026 quarter, while net loss narrowed to ₹922 crore from ₹1,092 crore a year earlier but widened from ₹791 crore in the June quarter.</li><li>The stock trades at 2.86 times book value of ₹61.5 with ROCE of -24.1% and ROE of -29.1%; market capitalisation is ₹48,582 crore at a price of ₹176, near its 52-week low of ₹175.</li></ul><h5 class="blabel">What the numbers say</h5><ul class="bl"><li>Swiggy&#x27;s negative ROCE of -24.1% and ROE of -29.1% compare poorly with the peer median ROCE of 1.52% and with FSN E-Commerce&#x27;s 17.23%, showing the business is not yet earning well on capital.</li><li>Quarterly sales grew every quarter from ₹6,148 crore in December 2025 to ₹7,571 crore in September 2026, but operating losses persisted at ₹772 crore, so the 16.75% fall reflects doubt that growth is converting into profit.</li></ul><p class="srcs">Sources: <a href="https://inc42.com/features/growth-vs-profitability-swiggys-tug-of-war/">inc42.com</a>, <a href="https://www.equitymaster.com/detail.asp?date=10/25/2026&amp;story=3&amp;title=Eternal-vs-Swiggy-Which-Stock-Has-the-Stronger-Growth-Story">equitymaster.com</a>, <a href="https://www.moneycontrol.com/news/business/markets/midcaps-post-steepest-fall-in-2-years-swiggy-kei-industries-motilal-oswal-financial-among-top-drags-14059384.html">moneycontrol.com</a></p></div><h4>Jammu Kashmir Bank Ltd (J&amp;KBANK, -16.28%)</h4><div class="wire-row"><h5 class="blabel">What the sector does</h5><ul class="bl"><li>Indian banks take deposits from households and lend to retail, farm, MSME and corporate borrowers, earning the spread between interest paid and interest charged.</li><li>Revenue moves with loan growth and the net interest margin (NIM, the lending spread), while cost is set by deposit rates, operating expenses and credit provisions; HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank dominate.</li></ul><h5 class="blabel">What the company does</h5><ul class="bl"><li>Jammu &amp; Kashmir Bank is a private-sector lender based in Srinagar, running retail, corporate and treasury banking, and acts as lead bank for 12 districts of Jammu &amp; Kashmir.</li><li>Advances were ₹1,30,503 crore and deposits ₹1,73,420 crore at June 2026, with 63% of loans in J&amp;K, Ladakh and the rest across India.</li></ul><h5 class="blabel">Why it moved today</h5><ul class="bl"><li>The news supplied does not explain the 16.28% fall; the articles cover Q1FY27 results and FY26 earnings, not the latest session&#x27;s trading.</li><li>As context only, Q1FY27 standalone net profit fell 12.5% year on year to ₹424.18 crore as tax and provisions rose, with NIM down 44 basis points to 3.28%.</li></ul><h5 class="blabel">The numbers (Screener)</h5><ul class="bl"><li>Stock P/E is 5.27 and price to book 0.71 times against a book value of ₹159, with return on equity of 15.4% and ROCE of 5.84%.</li><li>Net profit was ₹581 crore in December 2025, ₹799 crore in March 2026, ₹429 crore in June 2026 and ₹553 crore in September 2026, with EPS of ₹5.02 in the September quarter.</li></ul><h5 class="blabel">What the numbers say</h5><ul class="bl"><li>At 5.27 times earnings the stock trades far below peers such as HDFC Bank at 13.34 and ICICI Bank at 16.95, and below its own book value of ₹159.</li><li>Return on equity of 15.4% is healthy, but quarterly profit has fallen from the March 2026 peak of ₹799 crore to ₹553 crore in September 2026, so the fall follows a slowing profit trend.</li></ul><p class="srcs">Sources: <a href="https://scanx.trade/stock-market-news/companies/jammu-kashmir-bank-q1-results-net-profit-falls-to-4-2b-yoy-revenue-up/46859510">scanx.trade</a>, <a href="https://scanx.trade/stock-market-news/companies/jammu-kashmir-bank-schedules-investor-meet-in-mumbai-from-may-18-to-20-2026/40201857">scanx.trade</a></p></div></section>
+</main>
+<footer>Compiled 26 Oct 2026, 02:15 &middot; ET Tech &middot; The Hindu &middot; Entrackr</footer>
+<script type="application/json" id="digest-markdown">"# Morning Wire \u2014 Monday, 26 October 2026\n\n## Metrics\n\n- Nifty PE Ratio: 19.05 (as of 23 Oct 2026)\n- Gold rate, Bengaluru (per 10 g): 24K \u20b91,42,570, 22K \u20b91,30,690 (as of 26 Oct 2026)\n- Nifty 50: 22,600.00 (-2.36%) (as of 23 Oct 2026, 03:31 PM IST)\n- Bitcoin (INR): \u20b975,84,702 (-1.2% 24h) (as of 26 Oct 2026)\n- Bitcoin (USD): $79,607 (-1.5% 24h) (as of 26 Oct 2026)\n\n## Watchlist (headlines + summary)\n\n## Jio Platforms\n\n- Jio Platforms' \u20b930,213-crore IPO drew bids worth over $77 billion, the most subscribed share sale in India's history, with 22.19 times overall subscription.\n- The IPO is India's largest ever, surpassing Hyundai Motor India's \u20b927,870-crore offering in 2024, and received about 13.9 million applications, a record.\n- Qualified institutional buyers subscribed 70.55 times their portion, non-institutional investors 14 times, retail investors 2.72 times, employees 2.93 times and existing Reliance shareholders 7.6 times.\n- Allotment is expected on October 26, refunds on October 27, and listing on NSE and BSE on October 28; grey market premium signals a gain of about 22% over the \u20b91,119 upper price band.\n- About \u20b927,500 crore of the fresh issue proceeds will repay borrowings at Reliance Jio Infocomm, which has over 533 million subscribers and revenue of \u20b91.5 trillion in the year to March 31, 2026.\n\nOutlook: Bullish. Record $77 billion in bids, 22.19x subscription and a 22% grey market premium point to strong listing demand. The small 2.9% free float and heavy institutional oversubscription support the debut, though future share supply will grow.\n\n## Reliance Intelligence\n\nNo items published in the last 24 hours\n\n## Reliance\n\n- Jio Platforms IPO was subscribed 22.19 times, with QIB portion at 70.55 times, and will list on October 28 at an indicative \u20b91,366 per share based on grey market premium of \u20b9247.\n- US Secretary of State Marco Rubio visited Reliance's Jamnagar refinery on October 21, signaling Washington's interest in using its 1.4 million barrels per day capacity to process more Western Hemisphere crude.\n- Russian crude still made up about a third of Jamnagar's feedstock in July-September 2026, and analysts do not expect an immediate shift away from it despite US engagement.\n- Reliance Group's combined market capitalisation could reach \u20b928.35 lakh crore after Jio's listing, overtaking Tata Group's \u20b926 lakh crore as of October 23.\n- India ranks fourth globally in refining capacity at 267.11 MMTPA, with plans to expand to 309.5 million tonnes per annum by 2030, while Europe may shut 500,000-700,000 barrels per day by 2030.\n\nOutlook: Bullish. Jio's record IPO and strong grey market premium signal robust investor demand, while US engagement with Jamnagar highlights Reliance's strategic refining role. These factors support a positive outlook.\n\n## Flipkart\n\n- Flipkart's Big Billion Days festive sale saw orders and buyers grow 20-22%, with beauty and grooming up 40%, per the festive sales coverage.\n- Flipkart plans to launch Flipkart for Earth, a premium line for sustainable products, onboarding brands across beauty, snacks, home decor and fashion.\n- Flipkart has seen 14 senior-level exits, including three VPs set to leave, amid ESOP liquidity concerns and no firm IPO timeline.\n- Former executives including Mukesh Bansal and Ankit Nagori wrote to Walmart's board seeking a full cash-out of vested ESOPs.\n- Walmart reportedly wants Flipkart to reach EBITDA breakeven by the end of FY27 before an IPO; Flipkart is valued at $35-36 billion.\n\nOutlook: Neutral. Festive orders rose 20-22% and a premium Earth line is planned, but 14 senior exits, ESOP disputes and Walmart's FY27 breakeven demand before any IPO weigh on the story.\n\n## Zomato\n\n- Blinkit and Swiggy's Instamart are taking opposite bets on private labels, a strategy seen as a lever for margins and retention.\n- Blinkit CEO Albinder Dhindsa said private labels must generate incremental demand or improve economics, and the model currently meets neither test.\n- Swiggy's Switch products featured in over 20% of Instamart orders across more than 60 categories as of September 2026.\n- Swiggy's No!ce clean-food label featured in over one in eight orders across 500-plus SKUs, with buyers showing 15 percentage points higher retention.\n- A Blinkit delivery agent received a scooter from Anant Ambani's foundation, a video that drew over 46 million views.\n\nOutlook: Neutral. Blinkit rejects private labels while Instamart reports strong Switch and No!ce traction, so the news flow splits. Blinkit's ad-revenue and seller-conflict argument against Instamart's retention and margin gains decides it.\n\n## HAL\n\n- LCA Tejas Air Show in Varanasi | India\u2019s Indigenous Fighter Jet Soars at Wings Over Ganges\n  25 Oct 2026\n\n## Tejas Networks\n\nNo items published in the last 24 hours\n\n## Dmart\n\nNo items published in the last 24 hours\n\n## Godigit Insurance\n\n- The CCI approved Go Digit General Insurance's merger with Go Digit Infoworks Services under Section 31(1) of the Competition Act, 2002, per a disclosure dated 29 July 2026.\n- The scheme still needs shareholder consent plus NCLT Mumbai Bench and IRDAI approvals before it can be implemented, the company said.\n- The Go Digit General Insurance board approved the Scheme of Amalgamation on 19 December 2025.\n- Stock exchanges gave no adverse observations on 23 April 2026 under Regulation 37 of the SEBI Listing Regulations.\n- The CCI notice was filed on 12 May 2026 by FAL Corporation and both Go Digit entities, registration number C-2026/05/1421; the detailed order is yet to be released.\n\nOutlook: Neutral. CCI clearance removes a key hurdle for the restructuring, but NCLT, IRDAI and shareholder approvals remain pending, so the outcome is still undecided. Until those clear, the news flow is balanced.\n\n## Infoedge/Naukri\n\nNo items published in the last 24 hours\n\n## Bitcoin\n\n- Retail Bitcoin deposits to Binance rose to $10.75 billion over 30 days, up from $5.5 billion in April, a six-month high.\n- Whale deposits to Binance fell 36% since late August, from $5.9 billion to $3.8 billion, per CryptoQuant on-chain data.\n- U.S. spot Bitcoin ETFs took in about $301 million for the week, ending a two-week losing streak but still down $314 million in October.\n- Bitcoin fell 1.1% to about $80,490, and Myriad traders put 43% odds on a drop to $77,500 this month, up from 32%.\n- Jordi Visser rejected Chamath Palihapitiya's Bitcoin-to-zero call as a joke, while Citigroup set a 12-month target of $113,000.\n\nOutlook: Bearish. Retail deposits at 2.8 times whale deposits point to small holders selling into rebounds, and ETFs remain down $314 million for October. Price slipped to about $80,490 with traders raising odds of a drop to $77,500.\n\n## Gold\n\n- Spot gold closed Friday at about $3,995.80 an ounce after touching $3,975.64, down roughly 4% for the week and nearly 29% below January's $5,595 peak.\n- Bank of America's Paul Ciana flagged $3,943, gold's July low, as the level to watch for a double bottom; a break points to $3,886 and then $3,700.\n- Oil's jump on Middle East supply fears revived inflation concerns before the Fed's October 27-28 meeting, with traders expecting no change but a possible December hike.\n- Egypt's 21-karat gold rose 0.5%, or EGP 30, to EGP 6,280 per gram last week even as the international ounce fell 4.1%, as the dollar gained about EGP 1.7 to above EGP 55.\n- Fidelity's Jurrien Timmer said repricing U.S. gold reserves from $42.22 an ounce to market rates, turning $11 billion into $1 trillion, would backfire by hitting the dollar and raising the term premium.\n\nOutlook: Bearish. Gold broke below $4,000 and lost 4% in a week, with the July low of $3,943 the line that decides whether the correction deepens toward $3,700. Higher oil, a firm dollar and December rate-hike expectations all weigh on a metal that pays no yield.\n\n## AI News\n\n- [No posts from the AI labs or the newsletter in the last 24 hours] \n\n## The Hindu - Editorials\n\n## Old values, new avenues: On India-Poland ties\n\n25 Oct 2026\n\n- Polish Prime Minister Donald Tusk visited Delhi and Bengaluru last week, sixteen years after his previous visit as prime minister, to signal renewed cooperation with India.\n- Both sides agreed to double trade, currently worth just $6 billion, by 2030, ahead of Prime Minister Narendra Modi's trip to Brussels to sign the India-EU Free Trade Agreement.\n- Poland, the EU's sixth largest economy, has crossed $1 trillion GDP in nominal terms and has a $120 billion tech economy.\n- The two sides agreed to establish a Defence Industry Dialogue and explore counter-terrorism cooperation, while Tusk backed India's four-pronged plan on grain exports and seafarers' safety in the Ukraine war.\n- Tusk said the challenge is translating talks and MoUs into joint ventures, but trust remains an issue given India's defence ties with Russia and Poland's with Pakistan.\n\n## Wicked surprise: On the northeast monsoon\n\n25 Oct 2026\n\n- India's June-September southwest monsoon rainfall was 759.4 mm against 868.6 mm, a 12.6% deficit and the driest in 11 years.\n- The India Meteorological Department expects northeast monsoon rainfall from October to December to be normal, within a 12% error window.\n- Most of India is expected to get below-normal rain, except parts of northwest India and southern peninsular India, where it may be normal to above-normal.\n- The northeast monsoon's 12% error window is wider than the 5% margin for southwest monsoon forecasts, so it can bring nasty surprises.\n- The article urges the Centre and southern States to clear stormwater drains, fortify shelters, prepare for infrastructure damage and tighten weather warnings.\n\n## The Hindu - Business (headlines + summary)\n\n## Markets and IPOs\n\n- Apple bets iPhone Duo can remake foldable market as sales begin\n  25 Oct 2026\n  - Apple began selling its first folding phone, the iPhone Duo, on Friday, with pre-orders slipping to late January as demand outpaced supply.\n  - IDC expects Apple to take 44% of foldable value in 2026 on 31% of units, though reviewers flagged camera compromises and a less handy folded state.\n\n- Five IPOs to open next week; companies eye close to \u20b92,600 crore\n  25 Oct 2026\n  - Five companies will open IPOs between October 26 and October 29 seeking close to \u20b92,600 crore, led by EAAA India Alternatives' \u20b91,200-crore offer priced at \u20b91,585-1,665 per share.\n  - The EAAA issue is entirely an offer for sale by the Edelweiss Group, so the company gets no proceeds, while SFC Environmental, M. K. Sons, BLS Polymers and Bombay Coated also plan fresh issues for debt repayment, working capital and expansion.\n\n- FPIs withdraw \u20b948,056 cr from equities in October so far amid elevated crude oil prices\n  25 Oct 2026\n  - Foreign investors pulled \u20b948,056 crore from Indian equities in October so far, after net withdrawals of \u20b935,861 crore in September.\n  - Cumulative FPI outflows in 2026 reached \u20b93.08 lakh crore, far above the \u20b91.66 lakh crore withdrawn in all of 2025, though selling eased in the week ended October 23.\n\n## Insurance and policy\n\n- UPI and the cost of policy reversal\n  25 Oct 2026\n  - A bill would let the government notify a Merchant Discount Rate (MDR) of 0.25-0.5% on UPI transactions above \u20b92,000, covering about 65% of transaction value but only 5% by volume.\n  - The author argues banks and payment providers would likely absorb the charge, eroding investment in reliability and fraud prevention and undercutting UPI's financial inclusion gains.\n\n- How India\u2019s life insurance sector funds government expenditure\n  25 Oct 2026\n  - Life insurers hold close to a quarter of India's outstanding central government dated securities, a share stable even as sovereign debt stock grew about 40% in three years.\n  - LIC alone holds roughly 19% of all outstanding central government dated securities, with \u20b920.2 lakh crore in central government securities as of March 2025.\n\n- \u2018Excess\u2019: Insured, but still responsible\n  25 Oct 2026\n  - An excess or deductible is the first portion of an admissible claim you must bear yourself, discouraging small claims and cutting the insurer's processing costs.\n  - A car policy with a \u20b910,000 own-damage premium and 50% no-claim bonus costs \u20b95,000 to renew, so a \u20b92,000 claim can forfeit \u20b95,000 in discount.\n\n## Aviation infrastructure\n\n- IndiGo, Air India to shift flights to Navi Mumbai as Mumbai airport prepares Terminal 1 redevelopment\n  25 Oct 2026\n  - IndiGo will move 12 daily international departures from Mumbai's CSMIA to Navi Mumbai airport between February and July 2027, while Air India Express shifts Jeddah, Riyadh, Dammam, Doha, Muscat and Sharjah services by the 2027 summer season.\n  - The first phase moves about 5 million passengers, including roughly 3 million from IndiGo, freeing capacity at CSMIA for the redevelopment of Terminal 1 by 2030.\n\n## Investing and portfolios\n\n- Implication of residual investments on core portfolios\n  25 Oct 2026\n  - SEBI now lets equity funds put up to 35% of their residual portfolio in non-equity assets such as gold ETFs, silver ETFs and InvITs.\n  - Investors holding both these funds and metal ETFs directly may end up with skewed asset allocation, so index funds or equity ETFs are an alternative.\n\n- Swiping in dark: The hidden cost of plastic money\n  25 Oct 2026\n  - Paying only the minimum due keeps the bulk of the debt compounding and ends the interest-free grace period, so new purchases accrue interest at 36% to 42% a year until the full bill is cleared.\n  - Credit use above 30% of the card limit lowers the CIBIL score even without a default, and ATM cash withdrawals cap at \u20b910,000 per attempt with a flat fee of about \u20b9199 plus GST.\n\n## The Hindu - International (headlines + summary)\n\n- Five economic challenges facing Brazil's re-elected President Lula\n  26 Oct 2026\n  Lula plans a new round of debt relief, this time through discounted purchases of distressed household loans from banks, plus tax \u2060debt forgiveness for some small business owners\n\n- Lula wins Brazil runoff against Flavio Bolsonaro with 51.75% of votes\n  26 Oct 2026\n  - Lula da Silva won Brazil's presidential runoff with 51.75% against Flavio Bolsonaro's 48.25%, after losing the first round.\n  - The Supreme Court extended voting by two hours nationwide at Lula's request over pulled buses, drawing anger from Bolsonaro's camp.\n\n- A physicist who took atoms near absolute zero, and physics further\n  26 Oct 2026\n  - Claude Cohen-Tannoudji, who helped develop laser techniques to cool atoms to near absolute zero, died on October 22 at age 93.\n  - His work, which won a share of the 1997 physics Nobel Prize, enabled advances such as atomic clocks and atom interferometers.\n\n## ET Morning Dispatch\n\n[Not fetched this run \u2014 checked again at the 08:45 IST run, by when this is normally out]\n\n## Entrackr Weekly Funding Report\n\n[Could not fetch landing page]\n\n## Dynamic Watchlist (headlines + summary)\n\n## Top Gainers\n\n## International Gemological Institute Ltd (IGIL, +7.91%)\n\nWhat the sector does:\n- Independent gem certification labs grade and authenticate diamonds, gemstones and jewellery for jewellers, retailers, auction houses and consumers, charging a fee per stone or piece.\n- Revenue depends on grading volumes, which track diamond and jewellery demand and lab-grown stone supply, while cost is mainly gemmologists, equipment and lab network; key players include GIA, IGI and HRD Antwerp.\n\nWhat the company does:\n- International Gemological Institute Ltd is the world's largest independent certification and accreditation provider for diamonds, gemstones and jewellery, grading stones for jewellers, retailers and consumers worldwide.\n- It earns fees per graded stone from a global lab network, reported \u20b9398 crore sales and \u20b9186 crore net profit in the September 2026 quarter, and is the largest listed player in its niche.\n\nWhy it moved today:\n- No news article explaining the 7.91% rise was retrieved, so the exact cause of the session's move is not established from the available sources.\n- Context: the stock closed at \u20b9381.15 on October 23, 2026, near its 52-week high of \u20b9388, after September-quarter net profit rose 43.19% and sales 31.04% year on year, per Screener data.\n\nThe numbers (Screener):\n- Stock P/E 24.7, price to book 9.41 times, ROCE 69.2%, ROE 55.8%, market cap \u20b916,472 crore, dividend yield 0.67%, as per Screener data.\n- September 2026 quarter: sales \u20b9398 crore, operating profit \u20b9245 crore at 61% OPM, net profit \u20b9186 crore, EPS \u20b94.30, up from \u20b93.11 in December 2025.\n\nWhat the numbers say:\n- At a P/E of 24.7 the stock trades above the peer median of 15.57, while its 69.2% ROCE and 55.8% ROE are far above the peer median ROCE of 14.07%, so the premium reflects much higher returns on capital.\n- Quarterly sales rose from \u20b9320 crore in December 2025 to \u20b9398 crore in September 2026 and net profit from \u20b9135 crore to \u20b9186 crore, so growth is steady, though the 9.41 times book value leaves little room for error.\n\n## Cyient Ltd (CYIENT, +7.81%)\n\nWhat the sector does:\n- Engineering research and development services sell design, testing and digital engineering work to aerospace, defence, telecom and industrial clients on time-and-material or fixed-price contracts.\n- Revenue comes from billed engineer hours and project milestones, while cost is mostly salaries, so margins move with utilisation, wage inflation and offshore mix.\n\nWhat the company does:\n- Cyient provides engineering, manufacturing, data analytics and network operations services to aerospace, defence, rail, telecom and semiconductor customers worldwide.\n- It earns from long-term engineering service contracts and build-to-spec manufacturing, with revenue of \u20b92,235 crore in the September 2026 quarter.\n\nWhy it moved today:\n- Cyient shares rose 7.81% after Q2 FY27 revenue of \u20b92,235 crore beat expectations, even though EPS of \u20b911.47 missed analyst forecasts by 17%, per Simply Wall St.\n- Analysts lifted their price target 12% to \u20b91,220 and forecast 14% revenue growth to \u20b992.3 billion in 2027, signalling confidence despite the earnings miss.\n\nThe numbers (Screener):\n- Stock trades at P/E 33.3, price to book of 2.7 times (\u20b91,233 price vs \u20b9459 book value), dividend yield 1.30% and ROCE of 12.3%.\n- September 2026 quarter revenue rose to \u20b92,235 crore from \u20b91,848 crore in December 2025, with net profit up to \u20b9132 crore from \u20b997 crore.\n\nWhat the numbers say:\n- At P/E 33.3 Cyient trades above L&T Technology's 29.7 and Sagility's 19.5 but below Tata Technologies' 40.6, while its ROCE of 12.3% lags the peer median near 26%.\n- September quarter revenue grew 25.5% year-on-year and net profit rose 3.4%, so the 7.81% move reflects improving revenue momentum rather than a re-rating of returns.\n\n## Top Losers\n\n## Swiggy Ltd (SWIGGY, -16.75%)\n\nWhat the sector does:\n- India's food delivery and quick commerce sector sells restaurant meals and groceries delivered in minutes to urban households, earning commissions, delivery fees and advertising from restaurants and brands.\n- Revenue depends on order volume, basket size and take rates, while costs come from delivery partner payouts, dark stores, discounts and technology, with Zomato's Blinkit, Swiggy and Zepto the main players.\n\nWhat the company does:\n- Swiggy runs food delivery and Instamart quick commerce through one app, plus Swiggy Genie and Dineout, earning commissions, delivery and platform fees and advertising from restaurants, brands and users.\n- Its food delivery business reported record adjusted EBITDA in the September 2026 quarter, while Instamart's adjusted EBITDA loss widened to \u20b9895 crore, against Blinkit's \u20b9184 crore positive adjusted EBITDA.\n\nWhy it moved today:\n- Swiggy shares fell about 15% to \u20b9179.90 on the BSE on October 23, 2026, wiping out roughly \u20b99,000 crore in market capitalisation after Q2 FY27 results showed Instamart's widening losses overshadowing food delivery profits.\n- Context, not the cause: the Nifty Midcap 100 fell 5.6% in the week to October 23, its steepest weekly drop in 20 months, as Brent crude breached $117 per barrel and foreign investors sold \u20b92,697 crore of Indian equities.\n\nThe numbers (Screener):\n- Revenue from operations rose 36.1% year on year to \u20b97,571 crore in the September 2026 quarter, while net loss narrowed to \u20b9922 crore from \u20b91,092 crore a year earlier but widened from \u20b9791 crore in the June quarter.\n- The stock trades at 2.86 times book value of \u20b961.5 with ROCE of -24.1% and ROE of -29.1%; market capitalisation is \u20b948,582 crore at a price of \u20b9176, near its 52-week low of \u20b9175.\n\nWhat the numbers say:\n- Swiggy's negative ROCE of -24.1% and ROE of -29.1% compare poorly with the peer median ROCE of 1.52% and with FSN E-Commerce's 17.23%, showing the business is not yet earning well on capital.\n- Quarterly sales grew every quarter from \u20b96,148 crore in December 2025 to \u20b97,571 crore in September 2026, but operating losses persisted at \u20b9772 crore, so the 16.75% fall reflects doubt that growth is converting into profit.\n\n## Jammu Kashmir Bank Ltd (J&KBANK, -16.28%)\n\nWhat the sector does:\n- Indian banks take deposits from households and lend to retail, farm, MSME and corporate borrowers, earning the spread between interest paid and interest charged.\n- Revenue moves with loan growth and the net interest margin (NIM, the lending spread), while cost is set by deposit rates, operating expenses and credit provisions; HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank dominate.\n\nWhat the company does:\n- Jammu & Kashmir Bank is a private-sector lender based in Srinagar, running retail, corporate and treasury banking, and acts as lead bank for 12 districts of Jammu & Kashmir.\n- Advances were \u20b91,30,503 crore and deposits \u20b91,73,420 crore at June 2026, with 63% of loans in J&K, Ladakh and the rest across India.\n\nWhy it moved today:\n- The news supplied does not explain the 16.28% fall; the articles cover Q1FY27 results and FY26 earnings, not the latest session's trading.\n- As context only, Q1FY27 standalone net profit fell 12.5% year on year to \u20b9424.18 crore as tax and provisions rose, with NIM down 44 basis points to 3.28%.\n\nThe numbers (Screener):\n- Stock P/E is 5.27 and price to book 0.71 times against a book value of \u20b9159, with return on equity of 15.4% and ROCE of 5.84%.\n- Net profit was \u20b9581 crore in December 2025, \u20b9799 crore in March 2026, \u20b9429 crore in June 2026 and \u20b9553 crore in September 2026, with EPS of \u20b95.02 in the September quarter.\n\nWhat the numbers say:\n- At 5.27 times earnings the stock trades far below peers such as HDFC Bank at 13.34 and ICICI Bank at 16.95, and below its own book value of \u20b9159.\n- Return on equity of 15.4% is healthy, but quarterly profit has fallen from the March 2026 peak of \u20b9799 crore to \u20b9553 crore in September 2026, so the fall follows a slowing profit trend.\n"</script>
+<script>
+(function () {
+  var btn = document.getElementById("copy-md-btn");
+  var dataEl = document.getElementById("digest-markdown");
+  if (!btn || !dataEl) return;
+  var md = JSON.parse(dataEl.textContent);
+  var defaultLabel = btn.textContent;
+
+  function flash(label) {
+    btn.textContent = label;
+    setTimeout(function () { btn.textContent = defaultLabel; }, 1500);
+  }
+
+  btn.addEventListener("click", function () {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(md).then(
+        function () { flash("Copied!"); },
+        function () { flash("Copy failed"); }
+      );
+    } else {
+      var ta = document.createElement("textarea");
+      ta.value = md;
+      ta.style.position = "fixed";
+      ta.style.opacity = "0";
+      document.body.appendChild(ta);
+      ta.select();
+      try {
+        document.execCommand("copy");
+        flash("Copied!");
+      } catch (e) {
+        flash("Copy failed");
+      }
+      document.body.removeChild(ta);
+    }
+  });
+})();
+</script>
+</div>
