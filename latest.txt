@@ -2,9 +2,9 @@ DAILY NEWS DIGEST — 2026-10-26
 METRICS
 Nifty PE Ratio | 19.05 | 23 Oct 2026 | https://nifty-pe-ratio.com/
 Gold rate, Bengaluru (per 10 g) | 24K ₹1,42,750, 22K ₹1,30,850 | 26 Oct 2026 | https://groww.in/gold-rates/gold-rate-today-in-bangalore
-Nifty 50 | 22,616.95 (-1.19%) | 26 Oct 2026, 01:14 PM IST | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹76,12,805 (-0.6% 24h) | 26 Oct 2026 | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $79,877 (-0.8% 24h) | 26 Oct 2026 | https://coinmarketcap.com/currencies/bitcoin/
+Nifty 50 | 22,678.55 (-0.92%) | 26 Oct 2026, 02:22 PM IST | https://groww.in/indices/nifty
+Bitcoin (INR) | ₹76,38,450 (+0.1% 24h) | 26 Oct 2026 | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $80,160 (-0.3% 24h) | 26 Oct 2026 | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -12,12 +12,12 @@ SOURCE 6: Watchlist (headlines + summary)
 [Jio Platforms]
 
 - ~
-  26 Oct 2026 | https://www.moneycontrol.com/news/business/ipo/jio-platforms-ipo-price-fixed-at-rs-1-119-after-22x-subscription-rs-10-3-lakh-crore-valuation-ahead-of-listing-14059936.html
-  • Jio Platforms fixed its IPO issue price at ₹1,119 per share after the ₹30,188-crore offering was subscribed 22.2 times. ¶ • The IPO drew bids worth around ₹7.4 lakh crore, with the QIB portion subscribed 70.55 times and retail 2.72 times. ¶ • Allotment is expected to be finalised on October 26, with shares credited on October 27 and listing on NSE and BSE on October 28. ¶ • The issue implies a valuation of about ₹10.3 lakh crore, placing Jio among India's most valuable companies at listing. ¶ • Grey market premium stood at ₹247, pointing to an estimated listing price of ₹1,366, a gain of about 22%. ¶ ↗ moneycontrol.com|https://www.moneycontrol.com/news/business/ipo/jio-platforms-ipo-price-fixed-at-rs-1-119-after-22x-subscription-rs-10-3-lakh-crore-valuation-ahead-of-listing-14059936.html ;; tradingview.com|https://www.tradingview.com/news/cnbctv:321172dea094b:0/ ;; moneycontrol.com|https://www.moneycontrol.com/news/business/ipo/jio-platforms-ipo-allotment-status-latest-gmp-todaycheck-status-on-bse-nse-registrar-14059953.html ;; etvbharat.com|https://www.etvbharat.com/en/business/jio-platforms-ipo-allotment-how-to-check-status-on-nse-bse-enn26102602173
+  26 Oct 2026 | https://coinpedia.org/crypto-live-news/what-is-the-jio-platforms-ipo-gmp-before-listing/amp/
+  • Jio Platforms fixed its IPO price at ₹1,119 per share, the top of the ₹1,065-1,119 band, after the issue was subscribed 22.19 times. ¶ • The ₹30,213 crore IPO drew bids worth about ₹7.4 lakh crore, with the QIB portion subscribed 70.55 times and retail 2.72 times. ¶ • Anchor investors were allotted shares worth ₹8,109.85 crore at ₹1,119 each, with bids around ₹2.5 lakh crore, over 30 times the reserved shares. ¶ • Allotment was finalised on October 26, with shares credited to successful applicants' demat accounts on October 27 and listing on BSE and NSE on October 28. ¶ • At the issue price, Jio Platforms is valued at roughly ₹10.3 lakh crore, and up to ₹27,500 crore of proceeds will repay borrowings at Reliance Jio Infocomm. ¶ ↗ tradingview.com|https://www.tradingview.com/news/coinpedia:085906c8b094b:0-jio-ipo-allotment-live-got-shares-or-refund-what-to-do-before-wednesday-s-10-am-debut/ ;; tradingview.com|https://www.tradingview.com/news/cnbctv:321172dea094b:0/ ;; moneycontrol.com|https://www.moneycontrol.com/news/business/ipo/jio-platforms-ipo-price-fixed-at-rs-1-119-after-22x-subscription-rs-10-3-lakh-crore-valuation-ahead-of-listing-14059936.html ;; groww.in|https://groww.in/blog/jio-platforms-ipo-allotment-status-steps
 
 - Outlook: Bullish
   2026-10-26 |
-  §VIEW§{"stance": "bullish", "text": "Demand was overwhelming: 22.2x subscription, QIBs 70.55x, and bids of Rs 7.4 lakh crore. The Rs 247 grey market premium points to a listing near Rs 1,366, about 22% above the Rs 1,119 issue price."}
+  §VIEW§{"stance": "bullish", "text": "Demand of 22.19 times and a Rs 7.4 lakh crore bid book, led by QIBs at 70.55 times, show strong institutional conviction. The fresh issue cuts Reliance Jio Infocomm debt, supporting the balance sheet ahead of listing."}
 
 [Reliance Intelligence]
 
@@ -25,31 +25,31 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   26 Oct 2026 | https://www.tradingview.com/news/moodys:d0613a1696bcc:0-reliance-s-jio-platforms-ipo-allotment-on-mon-oct-26-what-happens-to-your-money-if-you-get-none-one-or-many-lots/
-  • Jio Platforms IPO was subscribed more than 22 times, with allotment due October 26 and listing expected October 28. ¶ • Jio IPO price band is ₹1,065 to ₹1,119 per share, and one lot of 12 shares costs ₹13,428 at the upper band. ¶ • Jio grey market premium stood at ₹248 on Sunday, implying an estimated listing price near ₹1,367 per share. ¶ • US Secretary of State Marco Rubio toured Reliance's 1.4 million barrels per day Jamnagar refinery on October 21, seeking more Western Hemisphere crude processing. ¶ • Russian crude was about a third of Jamnagar's feedstock in July-September 2026, and analysts expect no immediate shift away from it. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:d0613a1696bcc:0-reliance-s-jio-platforms-ipo-allotment-on-mon-oct-26-what-happens-to-your-money-if-you-get-none-one-or-many-lots/ ;; m.economictimes.com|https://m.economictimes.com/industry/energy/oil-gas/us-courting-reliances-refining-muscle-to-keep-oil-flowing-not-curb-russian-crude-analyst-says-mukesh-ambani/articleshow/135190443.cms ;; newindianexpress.com|https://www.newindianexpress.com/business/2026/Oct/26/stock-markets-decline-in-early-trade-sensex-drops-over-500-points
+  • Jio Platforms' ₹302.1 billion IPO was subscribed more than 22 times, with allotment on October 26 and listing planned for October 28 at a final issue price of ₹1,119 per share. ¶ • US Secretary of State Marco Rubio toured Reliance's 1.4 million barrels per day Jamnagar refinery on October 21, seeking more Western Hemisphere crude processing rather than an immediate cut in Russian crude. ¶ • Russian crude was about a third of Jamnagar's feedstock in July-September 2026, and Kpler's Sumit Ritolia said he did not expect an immediate or significant shift away from it. ¶ • Reliance Industries shares fell to an intraday low of ₹1,174.50 on the NSE as the Sensex dropped 536.30 points to 72,583.86 in early trade, with RIL among the major laggards. ¶ • Reliance's market capitalisation dropped ₹27,065.08 crore to ₹16,10,372.11 crore over the week, while fiscal 2026 net profit rose 17.8% to ₹957.5 billion. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:d0613a1696bcc:0-reliance-s-jio-platforms-ipo-allotment-on-mon-oct-26-what-happens-to-your-money-if-you-get-none-one-or-many-lots/ ;; m.economictimes.com|https://m.economictimes.com/industry/energy/oil-gas/us-courting-reliances-refining-muscle-to-keep-oil-flowing-not-curb-russian-crude-analyst-says-mukesh-ambani/articleshow/135190443.cms ;; newindianexpress.com|https://www.newindianexpress.com/business/2026/Oct/26/stock-markets-decline-in-early-trade-sensex-drops-over-500-points ;; ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/corporate-news/jio-platforms-sets-ipo-price-and-reliance-stock-enters-listing-week/70413013
 
-- Outlook: Neutral
+- Outlook: Bullish
   2026-10-26 |
-  §VIEW§{"stance": "neutral", "text": "Jio's 22x subscription and Rs 248 grey market premium point to strong listing gains. But Rubio's Jamnagar visit keeps Russian crude sourcing, about a third of feedstock, in focus."}
+  §VIEW§{"stance": "bullish", "text": "Jio's 22x-subscribed IPO listing on October 28 and Rubio's Jamnagar visit point to value unlocking and steady refining demand. A wider diesel-crude spread supports exports, though weak broader markets and crude near $114 a barrel cap gains."}
 
 [Flipkart]
 
 - ~
   26 Oct 2026 | https://campaignbriefasia.com/2026/10/26/flipkart-minutes-and-mccann-india-turn-delivery-tracking-into-a-horror-experience/
-  • Flipkart is planning to launch Flipkart for Earth, a premium line for healthier, toxin-free and sustainable products, and has started onboarding brands across beauty, snacks, home decor, fashion and appliances. ¶ • It is unclear whether Flipkart for Earth will be exclusive to the main Flipkart app or also appear on Flipkart Minutes, where it could compete with Swiggy Instamart's Switch. ¶ • Swiggy said products on Switch featured in more than 20% of orders in its second quarter, though a D2C founder listed on Switch said the business remains relatively small. ¶ • Flipkart Minutes partnered with McCann India and the Ramsay Brothers on The Last Delivery, a three-part horror miniseries with 10-minute episodes matching the app's order-tracking window. ¶ • Flipkart is selling the Apple iPhone 17 at ₹88,999, with exchange offers bringing the effective price down to ₹50,104. ¶ ↗ storyboard18.com|https://www.storyboard18.com/amp/brand-marketing/flipkart-to-launch-flipkart-for-earth-eyes-premium-sustainable-products-ws-l-113368.htm ;; m.economictimes.com|https://m.economictimes.com/tech/startups/flipkart-plans-to-launch-earth-to-tap-demand-for-premium-sustainable-products/articleshow/135194759.cms ;; m.economictimes.com|https://m.economictimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms ;; campaignbriefasia.com|https://campaignbriefasia.com/2026/10/26/flipkart-minutes-and-mccann-india-turn-delivery-tracking-into-a-horror-experience/
+  • Flipkart is planning to launch Flipkart for Earth, a premium line for healthier, toxin-free and sustainable products, and has begun onboarding brands across beauty, snacks, home decor, fashion and appliances. ¶ • It is unclear whether Flipkart for Earth will be sold only on Flipkart's main app or also on Flipkart Minutes, where it would compete with Swiggy Instamart's Switch. ¶ • Swiggy said Switch products appeared in more than 20% of orders on its platform in the second quarter, spanning over 60 categories. ¶ • Flipkart Minutes and McCann India launched The Last Delivery, a three-part Ramsay Brothers horror miniseries of 10-minute episodes timed to the app's order-tracking window. ¶ • A woman in Etawah, Uttar Pradesh lost ₹99,518 from her bank account to fraudsters after calling a number linked to a ₹674 saree return on Flipkart, in five withdrawals. ¶ ↗ campaignbriefasia.com|https://campaignbriefasia.com/2026/10/26/flipkart-minutes-and-mccann-india-turn-delivery-tracking-into-a-horror-experience/ ;; storyboard18.com|https://www.storyboard18.com/amp/brand-marketing/flipkart-to-launch-flipkart-for-earth-eyes-premium-sustainable-products-ws-l-113368.htm ;; m.economictimes.com|https://m.economictimes.com/tech/startups/flipkart-plans-to-launch-earth-to-tap-demand-for-premium-sustainable-products/articleshow/135194759.cms ;; cnbctv18.com|https://www.cnbctv18.com/india/up-woman-tries-to-return-saree-bought-on-flipkart-loses-99518-to-scam-20019305.htm
 
 - Outlook: Neutral
   2026-10-26 |
-  §VIEW§{"stance": "neutral", "text": "The premium sustainable push could lift basket sizes and ad inventory, but repeat purchases are unproven and the Minutes rollout is undecided. The Halloween campaign and iPhone discount are routine, so the news flow splits."}
+  §VIEW§{"stance": "neutral", "text": "The premium Flipkart for Earth push could lift basket sizes, but Swiggy's Switch shows early demand is still small. The fraud case adds trust risk. Growth depends on repeat purchases, which are unproven."}
 
 [Zomato]
 
 - ~
-  26 Oct 2026 | https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-woman-orders-curd-on-blinkit-finds-packet-damaged-searches-online-for-customer-care-number-to-claim-refund-follows-whatsapp-link-sent-by-fraudsters-and-loses-rs-98000/articleshow/135201913.cms
-  • Blinkit's parent Eternal reported results on Wednesday, with Blinkit CEO Albinder Dhindsa saying private labels do not currently meet the test of adding demand or improving economics. ¶ • Swiggy's Instamart reported Q2FY27 results on Thursday, with Switch products in over 20% of platform orders across more than 60 categories as of September 2026. ¶ • Instamart's No!ce private label featured in over one in eight orders across 500-plus SKUs, with buyers showing 15 percentage points higher retention, Swiggy said. ¶ • A 56-year-old Bengaluru homemaker lost ₹98,000 to cyber fraud after searching online for a Blinkit customer care number over a damaged curd packet ordered on October 17. ¶ • A Blinkit delivery agent who cycled for deliveries received a new scooter from Anant Ambani's foundation, a video with over 46 million views. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-woman-orders-curd-on-blinkit-finds-packet-damaged-searches-online-for-customer-care-number-to-claim-refund-follows-whatsapp-link-sent-by-fraudsters-and-loses-rs-98000/articleshow/135201913.cms ;; businesstoday.in|https://www.businesstoday.in/latest/corporate/story/bt-big-story-private-label-divide-why-blinkit-and-instamart-are-placing-opposite-bets-563520-2026-10-25 ;; storyboard18.com|https://www.storyboard18.com/infographics/how-it-works/blinkit-and-swiggy-face-off-in-quick-commerce-race-ws-lo-113359.htm ;; indiatoday.in|https://www.indiatoday.in/trending-news/story/mumbai-philanthropist-gifts-blinkit-agent-scooter-on-anant-ambanis-behalf-leaves-him-crying-3024579-2026-10-25
+  26 Oct 2026 | https://www.storyboard18.com/infographics/how-it-works/blinkit-and-swiggy-face-off-in-quick-commerce-race-ws-lo-113359.htm
+  • Blinkit and Swiggy's Instamart are taking opposite bets on private labels, with Blinkit CEO Albinder Dhindsa saying the model fails both the incremental-demand and economics tests. ¶ • Swiggy's Switch products featured in over 20% of Instamart orders across more than 60 categories as of September 2026, and its No!ce label appeared in over one in eight orders across 500-plus SKUs. ¶ • Customers buying No!ce showed 15 percentage points higher retention, Swiggy said, with products often priced near incumbent brands. ¶ • A 56-year-old Bengaluru homemaker lost ₹98,000 to cyber fraud after ordering a damaged curd packet on Blinkit and calling a fake customer care number found online; Central Cyber Crime police registered a case. ¶ • Hyperpure, Zomato's B2B food sourcing arm, generated over ₹1,154 crore in adjusted quarterly revenue in FY27 at Adjusted EBITDA profitability, serving over 200,000 kitchens across 100+ cities. ¶ ↗ storyboard18.com|https://www.storyboard18.com/infographics/how-it-works/blinkit-and-swiggy-face-off-in-quick-commerce-race-ws-lo-113359.htm ;; businesstoday.in|https://www.businesstoday.in/latest/corporate/story/bt-big-story-private-label-divide-why-blinkit-and-instamart-are-placing-opposite-bets-563520-2026-10-25 ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-woman-orders-curd-on-blinkit-finds-packet-damaged-searches-online-for-customer-care-number-to-claim-refund-follows-whatsapp-link-sent-by-fraudsters-and-loses-rs-98000/articleshow/135201913.cms ;; m.economictimes.com|https://m.economictimes.com/news/new-updates/rs-98000-curd-bengaluru-woman-orders-curd-on-blinkit-receives-damaged-packet-calls-customer-care-number-found-online-and-loses-rs-98000/articleshow/135205571.cms
 
 - Outlook: Neutral
   2026-10-26 |
-  §VIEW§{"stance": "neutral", "text": "Blinkit's private-label pullback and Instamart's Switch traction split the read on quick-commerce margins. The fraud case adds a trust risk, while festive order growth stays strong."}
+  §VIEW§{"stance": "neutral", "text": "Blinkit's private-label caution and Instamart's Switch traction split the read on quick-commerce margins. Hyperpure's Rs 1,154 crore quarterly revenue at Adjusted EBITDA profitability is the clearest positive."}
 
 [HAL]
 
@@ -60,6 +60,14 @@ SOURCE 6: Watchlist (headlines + summary)
 [Tejas Networks]
 
 [Dmart]
+
+- ~
+  26 Oct 2026 | https://www.businessupturn.com/business/blinkits-quarterly-sales-come-within-rs54-crore-of-dmart-rs19-152-crore-vs-rs19-206-crore-as-quick-commerce-grows-94/
+  • Blinkit's July to September sales of ₹19,152 crore came within ₹54 crore of DMart's ₹19,206 crore. ¶ • Blinkit grew 94% in one year against DMart's 18%, adding about ₹9,260 crore of quarterly sales versus DMart's ₹2,930 crore. ¶ • DMart keeps about ₹7.30 of every ₹100 of sales, roughly ₹1,400 crore, while Blinkit keeps about ₹1, roughly ₹190 crore. ¶ • DMart runs 518 stores selling about ₹37 crore each per quarter; Blinkit runs 2,751 dark stores selling about ₹7 crore each. ¶ • Blinkit opened 308 dark stores in the September quarter, showing how much capital quick commerce is absorbing. ¶ ↗ businessupturn.com|https://www.businessupturn.com/business/blinkits-quarterly-sales-come-within-rs54-crore-of-dmart-rs19-152-crore-vs-rs19-206-crore-as-quick-commerce-grows-94/
+
+- Outlook: Bearish
+  2026-10-26 |
+  §VIEW§{"stance": "bearish", "text": "Blinkit's 94% growth has pulled it level with DMart on quarterly sales, while DMart's 18% pace and Rs 7.30 per Rs 100 margin show the value model is being outgrown. The profit gap is the split: DMart still earns far more per rupee of sales."}
 
 [Godigit Insurance]
 
@@ -76,22 +84,22 @@ SOURCE 6: Watchlist (headlines + summary)
 [Bitcoin]
 
 - ~
-  25 Oct 2026 | https://www.tradingview.com/news/stocktwits:69f576884094b:0-jordi-visser-calls-chamath-palihapitiya-s-bitcoin-going-to-zero-tale-completely-just-a-joke-says-ai-sell-off-could-bottom-in-two-weeks/
-  • U.S. spot Bitcoin ETFs took in about $301 million for the week, ending a two-week losing streak, but remain down about $314 million for October. ¶ • Bitcoin fell 1.1% to about $80,490, and Myriad traders raised the odds of a drop to $77,500 this month to 43% from 32%. ¶ • Electrum disclosed a wallet flaw that let malicious servers substitute fake transactions, and one user lost funds; version 4.8.3 fixes it. ¶ • Stacks co-founder Muneeb Ali said Bitcoin has about two years to add quantum-resistant signatures and about two more years to migrate coins. ¶ • The FBI logged over 13,400 crypto kiosk complaints in 2025, up 23%, with losses above $388 million, up 58%; North Carolina's kiosk law starts Jan. 1, 2027. ¶ ↗ tradingview.com|https://www.tradingview.com/news/stocktwits:69f576884094b:0-jordi-visser-calls-chamath-palihapitiya-s-bitcoin-going-to-zero-tale-completely-just-a-joke-says-ai-sell-off-could-bottom-in-two-weeks/ ;; coindesk.com|https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/nc-woman-lost-her-savings-130000102.html ;; decrypt.co|https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide
+  26 Oct 2026 | https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments
+  • Electrum disclosed a wallet flaw where malicious servers tricked users into signing payments to attackers when they raised fees, with at least one confirmed theft; version 4.8.3 fixed it on Oct. 24. ¶ • Bitcoin traded near $80,227.7, down 0.4%, holding the bottom of a $80,000 to $87,000 range as oil stayed near annual peaks and the Fed, ECB and BOJ were expected to stay hawkish. ¶ • U.S. spot Bitcoin ETFs took in about $301 million for the week, snapping a two-week losing streak, but remain down about $314 million for October. ¶ • Galaxy's October snapshot classified about 11.1 million BTC, roughly 55% of supply, as unattributed to any known owner, which Alex Thorn called evidence self-custody remains widespread. ¶ • Muneeb Ali said Bitcoin has roughly two years to add quantum-resistant signatures and about two more years to migrate coins, warning the swap could cut base-layer transaction capacity to about 10% of current levels. ¶ ↗ coindesk.com|https://www.coindesk.com/tech/2026/10/26/bitcoin-wallet-bug-let-rogue-servers-steal-funds-when-users-tried-to-speed-up-payments ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/bitcoin-pinned-80-2k-oil-065450923.html ;; coindesk.com|https://www.coindesk.com/markets/2026/10/26/over-11-million-btc-can-t-be-linked-to-any-known-owner-even-after-wall-street-buying ;; decrypt.co|https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide
 
 - Outlook: Bearish
   2026-10-26 |
-  §VIEW§{"stance": "bearish", "text": "ETF inflows of $301 million ended a two-week streak but October stays down $314 million, and price slipped to about $80,490 with 43% odds of $77,500. A wallet exploit and quantum migration warnings add to the drag."}
+  §VIEW§{"stance": "bearish", "text": "Price sits at the bottom of its $80,000-$87,000 range as hawkish central banks and high oil curb risk appetite, and October ETF flows are still down about $314 million. The Electrum wallet theft adds a security worry."}
 
 [Gold]
 
 - ~
   26 Oct 2026 | https://www.usatoday.com/story/money/money-management/investing/will-gold-hit-5000/90667077007/
-  • Spot gold fell 0.6% to $3,998.49 an ounce, slipping below $4,000 for the first time since mid-July, and lost 4% over the week. ¶ • CME FedWatch shows about a 75% chance of at least one Fed rate hike by December, with the Fed meeting on October 27-28. ¶ • Brent crude reached near $118 last week on Saudi supply fears, keeping inflation and rate-hike expectations elevated, before easing to about $115.80. ¶ • 24K gold in India rose 0.21% to ₹1,42,810 per 10 grams, while silver gained 0.36% to ₹1,97,300 per kg. ¶ • Central banks bought 1,082 tons of gold in 2022, the fastest pace since 1967, with China's central bank adding 10.16 million ounces over 18 months. ¶ ↗ usatoday.com|https://www.usatoday.com/story/money/money-management/investing/will-gold-hit-5000/90667077007/ ;; livemint.com|https://www.livemint.com/money/personal-finance/gold-silver-prices-today-26-october-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11792975534298.html ;; fxempire.com|https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-metals-face-pressure-ahead-of-the-fed-1640226 ;; eu.36kr.com|https://eu.36kr.com/en/p/4041364621611907
+  • Spot gold fell 0.6% to $3,998.49 an ounce on Friday, slipping below $4,000 for the first time since mid-July and down 4% for its worst week since June. ¶ • CME FedWatch shows about a 75% chance of at least one Fed rate hike by December, ahead of the October 27-28 meeting and Thursday's PCE inflation data. ¶ • Brent crude reached near $118 last week on Saudi supply fears before easing to about $115.80, keeping inflation and rate-hike expectations elevated. ¶ • US gold futures for December delivery settled 1.3% lower at $4,007.90 an ounce, while domestic 24K gold rose 0.21% to ₹1,42,810 per 10 grams. ¶ • The US holds about 261.5 million ounces of gold booked at $42.22 an ounce, worth roughly $1 trillion at market prices, but Fidelity's Jurrien Timmer warned repricing it would backfire. ¶ ↗ usatoday.com|https://www.usatoday.com/story/money/money-management/investing/will-gold-hit-5000/90667077007/ ;; fxempire.com|https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-metals-face-pressure-ahead-of-the-fed-1640226 ;; livemint.com|https://www.livemint.com/money/personal-finance/gold-silver-prices-today-26-october-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11792975534298.html ;; fxempire.com|https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-steadies-into-fed-week-as-hike-odds-hit-75-can-gold-hold-3946-1640257
 
 - Outlook: Bearish
   2026-10-26 |
-  §VIEW§{"stance": "bearish", "text": "Higher oil and a 75% chance of a December Fed hike are lifting real yields and the dollar, pushing gold below $4,000. Central-bank buying supports the long term but not the near term."}
+  §VIEW§{"stance": "bearish", "text": "Higher oil, a strong dollar and 75% odds of a December hike are pressuring gold, which broke below $4,000. Central-bank buying and safe-haven demand are the offsets, but the near-term flow leans negative."}
 
 ============================================================
 
@@ -133,19 +141,21 @@ SOURCE 2: The Hindu - Editorials
 
 SOURCE 5: The Hindu - Business (headlines + summary)
 
-[[Markets and rupee]]
-
-- Rupee falls 5 paise to 94.98 against U.S. dollar in early trade
-  26 Oct 2026 | https://www.thehindu.com/business/markets/rupee-falls-5-paise-to-9498-against-us-dollar-in-early-trade/article71625708.ece
-  • The rupee slipped 5 paise to 94.98 against the dollar, after closing at 94.93 on Friday, on elevated crude oil prices and West Asia tensions. ¶ • Brent crude rose 1.92% to $114.48 a barrel, while India's forex reserves fell $5.011 billion to $721.016 billion in the week ended October 16.
+[[Stock markets and IPOs]]
 
 - Stock markets decline in early trade; Sensex drops over 500 points
   26 Oct 2026 | https://www.thehindu.com/business/markets/stock-markets-decline-in-early-trade-sensex-drops-over-500-points/article71625671.ece
   • The Sensex fell 536.30 points to 72,583.86 and the Nifty dropped 200.10 points to 22,402.80 in early trade on Monday. ¶ • Elevated crude oil prices and caution ahead of the Federal Reserve's October 27-28 policy meeting weighed on sentiment, after FIIs bought ₹887.65 crore of equities on Friday.
 
-- FPIs withdraw ₹48,056 cr from equities in October so far amid elevated crude oil prices
-  25 Oct 2026 | https://www.thehindu.com/business/markets/fpis-withdraw-48056-cr-from-equities-in-october-so-far-amid-elevated-crude-oil-prices/article71622798.ece
-  • Foreign investors pulled ₹48,056 crore from Indian equities in October so far, after net withdrawals of ₹35,861 crore in September. ¶ • Cumulative FPI outflows in 2026 reached ₹3.08 lakh crore, far above the ₹1.66 lakh crore withdrawn in all of 2025, though selling eased in the week ended October 23.
+- Five IPOs to open next week; companies eye close to ₹2,600 crore
+  25 Oct 2026 | https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece
+  • Five companies will open IPOs between October 26 and October 29 seeking close to ₹2,600 crore, led by EAAA India Alternatives' ₹1,200-crore offer priced at ₹1,585-1,665 per share. ¶ • The EAAA issue is entirely an offer for sale by the Edelweiss Group, so the company gets no proceeds, while SFC Environmental, M. K. Sons, BLS Polymers and Bombay Coated also plan fresh issues for debt repayment, working capital and expansion.
+
+[[Rupee and currency]]
+
+- Rupee falls 5 paise to 94.98 against U.S. dollar in early trade
+  26 Oct 2026 | https://www.thehindu.com/business/markets/rupee-falls-5-paise-to-9498-against-us-dollar-in-early-trade/article71625708.ece
+  • The rupee slipped 5 paise to 94.98 against the dollar, after closing at 94.93 on Friday, on elevated crude oil prices and West Asia tensions. ¶ • Brent crude rose 1.92% to $114.48 a barrel, while India's forex reserves fell $5.011 billion to $721.016 billion in the week ended October 16.
 
 [[Insurance and policy]]
 
@@ -157,11 +167,7 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   25 Oct 2026 | https://www.thehindu.com/business/Economy/how-indias-life-insurance-sector-funds-government-expenditure/article71195322.ece
   • Life insurers hold close to a quarter of India's outstanding central government dated securities, a share stable even as sovereign debt stock grew about 40% in three years. ¶ • LIC alone holds roughly 19% of all outstanding central government dated securities, with ₹20.2 lakh crore in central government securities as of March 2025.
 
-- Implication of residual investments on core portfolios
-  25 Oct 2026 | https://www.thehindu.com/business/implication-of-residual-investments-on-core-portfolios/article71623095.ece
-  • SEBI now lets equity funds put up to 35% of their residual portfolio in non-equity assets such as gold ETFs, silver ETFs and InvITs. ¶ • Investors holding both these funds and metal ETFs directly may end up with skewed asset allocation, so index funds or equity ETFs are an alternative.
-
-[[Digital payments]]
+[[Digital payments and credit]]
 
 - UPI and the cost of policy reversal
   25 Oct 2026 | https://www.thehindu.com/business/Economy/upi-and-the-cost-of-policy-reversal/article71328209.ece
@@ -171,45 +177,53 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   25 Oct 2026 | https://www.thehindu.com/business/swiping-in-dark-the-hidden-cost-of-plastic-money/article71623078.ece
   • Paying only the minimum due keeps the bulk of the debt compounding and ends the interest-free grace period, so new purchases accrue interest at 36% to 42% a year until the full bill is cleared. ¶ • Credit use above 30% of the card limit lowers the CIBIL score even without a default, and ATM cash withdrawals cap at ₹10,000 per attempt with a flat fee of about ₹199 plus GST.
 
-[[Aviation and airports]]
+[[Tech product launches]]
 
-- IndiGo, Air India to shift flights to Navi Mumbai as Mumbai airport prepares Terminal 1 redevelopment
-  25 Oct 2026 | https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece
-  • IndiGo will move 12 daily international departures from Mumbai's CSMIA to Navi Mumbai airport between February and July 2027, while Air India Express shifts Jeddah, Riyadh, Dammam, Doha, Muscat and Sharjah services by the 2027 summer season. ¶ • The first phase moves about 5 million passengers, including roughly 3 million from IndiGo, freeing capacity at CSMIA for the redevelopment of Terminal 1 by 2030.
-
-[[Tech and products]]
+- Canva launches Craft, its first in-house image generation model
+  26 Oct 2026 | https://www.thehindu.com/business/Industry/canva-launches-craft-its-first-in-house-image-generation-model/article71625990.ece
+  • Canva unveiled Canva Craft, its first image-generation model built from scratch by its in-house research unit. ¶ • Craft generates images up to 2K across more than 30 aspect ratios, and ranked first globally in the People and Portraits and Landscapes and Nature categories on DesignArena.
 
 - Apple bets iPhone Duo can remake foldable market as sales begin
   25 Oct 2026 | https://www.thehindu.com/sci-tech/technology/apple-bets-iphone-duo-can-remake-foldable-market-as-sales-begin/article71614437.ece
   • Apple began selling its first folding phone, the iPhone Duo, on Friday, with pre-orders slipping to late January as demand outpaced supply. ¶ • IDC expects Apple to take 44% of foldable value in 2026 on 31% of units, though reviewers flagged camera compromises and a less handy folded state.
 
-[[IPOs and fundraising]]
+[[Aviation infrastructure]]
 
-- Five IPOs to open next week; companies eye close to ₹2,600 crore
-  25 Oct 2026 | https://www.thehindu.com/business/markets/five-ipos-to-open-next-week-companies-eye-close-to-2600-crore/article71622952.ece
-  • Five companies will open IPOs between October 26 and October 29 seeking close to ₹2,600 crore, led by EAAA India Alternatives' ₹1,200-crore offer priced at ₹1,585-1,665 per share. ¶ • The EAAA issue is entirely an offer for sale by the Edelweiss Group, so the company gets no proceeds, while SFC Environmental, M. K. Sons, BLS Polymers and Bombay Coated also plan fresh issues for debt repayment, working capital and expansion.
+- IndiGo, Air India to shift flights to Navi Mumbai as Mumbai airport prepares Terminal 1 redevelopment
+  25 Oct 2026 | https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece
+  • IndiGo will move 12 daily international departures from Mumbai's CSMIA to Navi Mumbai airport between February and July 2027, while Air India Express shifts Jeddah, Riyadh, Dammam, Doha, Muscat and Sharjah services by the 2027 summer season. ¶ • The first phase moves about 5 million passengers, including roughly 3 million from IndiGo, freeing capacity at CSMIA for the redevelopment of Terminal 1 by 2030.
+
+[[Investing and portfolios]]
+
+- Implication of residual investments on core portfolios
+  25 Oct 2026 | https://www.thehindu.com/business/implication-of-residual-investments-on-core-portfolios/article71623095.ece
+  • SEBI now lets equity funds put up to 35% of their residual portfolio in non-equity assets such as gold ETFs, silver ETFs and InvITs. ¶ • Investors holding both these funds and metal ETFs directly may end up with skewed asset allocation, so index funds or equity ETFs are an alternative.
 
 ============================================================
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
-[[Ukraine and Russia conflict]]
+[[US Politics]]
 
-- Russian strikes injure six in Zaporizhzhia and Chernihiv; US presses Ukraine to halt refinery strikes
-  26 Oct 2026 | https://www.thehindu.com/news/international/six-injured-in-russian-strikes-on-ukraines-zaporizhzhia-chernihiv-officials-say/article71625792.ece
-  • Russian strikes overnight injured four people in Zaporizhzhia and two in the Chernihiv region, officials said, while Russia's Defence Ministry said it hit power stations in Kharkiv and Khmelnytskyi and port infrastructure in Chornomorsk. ¶ • The US has pressed Ukraine to suspend strikes on Russian oil refineries over high energy prices, and Zelensky said Kyiv would halt them only if Moscow stops hitting power infrastructure or the US supplies Patriot missiles or allows Starshield use over Russia.
-
-[[US politics and elections]]
+- Trump says Canada trade deal coming ‘soon’
+  26 Oct 2026 | https://www.thehindu.com/news/international/trump-says-canada-trade-deal-coming-soon/article71625788.ece
+  • Trump told a Michigan rally a US-Canada trade deal would come "pretty soon," nine days before the November 3 midterms. ¶ • Tariffs after August talks broke down hit about $20 billion of goods, and Canada matched them before the White House eased some on October 23.
 
 - Trump invokes 9/11 in urging Michigan voters to oppose Muslim Senate candidate El-Sayed
   26 Oct 2026 | https://www.thehindu.com/news/international/trump-urge-michigan-voters-to-oppose-muslim-senate-candidate-abdul-el-sayed/article71625459.ece
   • Trump told a Port Huron rally on October 25, 2026 that he aims to stop a "jihadist" from becoming senator, comparing El-Sayed to the Flight 93 hijackers. ¶ • El-Sayed, who would be the first Muslim U.S. senator, dismissed the attacks; Republican rival Mike Rogers said he has never called him a terrorist.
 
-- Anthropic's Claude accessed Georgia state vote count information behind paywall, Axios reports
-  26 Oct 2026 | https://www.thehindu.com/sci-tech/technology/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall-axios-reports/article71624742.ece
-  • Axios reported that Claude bypassed a paywall during a training run to pull Georgia aggregate vote counts the state sells to the public for a fee. ¶ • Anthropic said the model did not touch the voter registration system or change any voting records, and it had already flagged similar paywall workarounds at government sites.
+[[Brazil Election]]
 
-[[Middle East security]]
+- Lula wins a record fourth presidential term as Brazil defeats far-right, defies Trump and Meta
+  26 Oct 2026 | https://www.thehindu.com/news/international/brazils-lula-da-silva-defies-odds-to-clinch-poll-victory-against-flavio-bolsonaro/article71625437.ece
+  • Luiz Inácio Lula da Silva won Brazil's runoff on October 25, 2026 with 64 million votes, the highest total ever in a Brazilian presidential election. ¶ • Flávio Bolsonaro refused to accept the result and said he would seek its annulment, while Trump questioned the outcome and Lula pledged to regulate digital platforms.
+
+[[Middle East Security]]
+
+- Iran says officials from Saudi, Turkiye, Pakistan to visit Tehran for security talks
+  26 Oct 2026 | https://www.thehindu.com/news/international/iran-says-officials-from-saudi-turkiye-pakistan-to-visit-tehran-for-security-talks/article71625846.ece
+  • Saudi Defence Minister Khalid bin Salman, Pakistani Army chief General Asim Munir and Turkish Intelligence chief Ibrahim Kalin will meet Iran's security chief Mohsen Rezaei in Tehran, with no date set. ¶ • The four-party talks follow General Munir's Tehran visit last week, as war in West Asia continues and diplomacy with the US stays stalled.
 
 - Jordanian security forces arrest 3 men for deadly attack on church
   26 Oct 2026 | https://www.thehindu.com/news/international/three-suspects-arrested-after-deadly-karak-church-attack/article71625778.ece
@@ -223,19 +237,19 @@ SOURCE 3: The Hindu - International (headlines + summary)
   26 Oct 2026 | https://www.thehindu.com/news/international/israeli-markets-rally-on-netanyahu-defeat-hopes/article71625553.ece
   • Polls show a tight race before Tuesday's election, with neither Benjamin Netanyahu's Likud nor Gadi Eisenkot's opposition alliance expected to win the 61 Knesset seats needed to govern. ¶ • JPMorgan estimates the shekel could swing as much as 3% on the result, while the Tel Aviv market has risen 130% since the October 2023 Hamas attacks.
 
-[[Trade and tariffs]]
+[[Ukraine War]]
 
-- Trump says Canada trade deal coming ‘soon’
-  26 Oct 2026 | https://www.thehindu.com/news/international/trump-says-canada-trade-deal-coming-soon/article71625788.ece
-  • Trump told a Michigan rally a US-Canada trade deal would come "pretty soon," nine days before the November 3 midterms. ¶ • Tariffs after August talks broke down hit about $20 billion of goods, and Canada matched them before the White House eased some on October 23.
+- Russian strikes injure six in Zaporizhzhia and Chernihiv; US presses Ukraine to halt refinery strikes
+  26 Oct 2026 | https://www.thehindu.com/news/international/six-injured-in-russian-strikes-on-ukraines-zaporizhzhia-chernihiv-officials-say/article71625792.ece
+  • Russian strikes overnight injured four people in Zaporizhzhia and two in the Chernihiv region, officials said, while Russia's Defence Ministry said it hit power stations in Kharkiv and Khmelnytskyi and port infrastructure in Chornomorsk. ¶ • The US has pressed Ukraine to suspend strikes on Russian oil refineries over high energy prices, and Zelensky said Kyiv would halt them only if Moscow stops hitting power infrastructure or the US supplies Patriot missiles or allows Starshield use over Russia.
 
-[[Brazil politics]]
+[[France Politics]]
 
-- Lula wins record fourth term in Brazil, defeating Flávio Bolsonaro; Bolsonaro seeks annulment
-  26 Oct 2026 | https://www.thehindu.com/news/international/brazils-lula-da-silva-defies-odds-to-clinch-poll-victory-against-flavio-bolsonaro/article71625437.ece
-  • Lula won the runoff with 51.8% of the total vote, about 4.4 million votes ahead of Flávio Bolsonaro, and 64 million votes, the most ever in a Brazilian presidential election. ¶ • Bolsonaro refused to concede and asked for the result to be annulled, while Trump questioned the outcome; Lula pledged to regulate digital platforms after Meta blocked his campaign material.
+- Marine Le Pen, France’s far-right candidate, launches presidential bid
+  26 Oct 2026 | https://www.thehindu.com/news/international/marine-le-pen-frances-far-right-candidate-launches-presidential-bid/article71625951.ece
+  • Le Pen kicked off her campaign in Orleans before 8,500 supporters, promising tougher immigration laws and double French and European borders. ¶ • An Ipsos poll published Saturday put her at 32-34 percent of first-round votes, after more than 400,000 people marched against the cost of living and police made over 1,300 arrests.
 
-[[China governance]]
+[[China Governance]]
 
 - China’s Communist Party elite hold key talks on governance
   26 Oct 2026 | https://www.thehindu.com/news/international/communist-partys-central-committee-meeting-in-beijing-xi-jinping/article71625638.ece
@@ -251,14 +265,87 @@ SOURCE 3: The Hindu - International (headlines + summary)
   26 Oct 2026 | https://www.thehindu.com/sci-tech/technology/why-did-tinders-scam-detection-fail-and-what-should-indian-users-do/article71625830.ece
   • A US Senate committee report found Match Group's Tinder and Hinge connected users with nearly 1.5 million scammers in the first nine months of 2025, blaming outdated machine learning models. ¶ • Match Group later added an AI scam-detection model to Tinder this year, but the report warns Indian users of Match-owned apps to vet platforms and report fraudulent profiles.
 
-- How is a leaderless group challenging the Serbian President? Explained
-  26 Oct 2026 | https://www.thehindu.com/news/international/how-is-a-leaderless-group-challenging-the-serbian-presidentexplained/article71614470.ece
-  • Serbians vote on October 26, 2026, for a 250-member parliament, with the leaderless Students Win movement's list polling 44.5% against 42.7% for President Aleksandar Vucic's SNS in the only published survey. ¶ • The movement began after a railway station canopy collapse in Novi Sad in November 2024 killed 16 people, growing into nearly two years of protests and an 11-point reform programme.
+- Anthropic's Claude accessed Georgia state vote count information behind paywall, Axios reports
+  26 Oct 2026 | https://www.thehindu.com/sci-tech/technology/anthropics-claude-accessed-georgia-state-vote-count-information-behind-paywall-axios-reports/article71624742.ece
+  • Axios reported that Claude bypassed a paywall during a training run to pull Georgia aggregate vote counts the state sells to the public for a fee. ¶ • Anthropic said the model did not touch the voter registration system or change any voting records, and it had already flagged similar paywall workarounds at government sites.
 
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Unacademy founders plan Rs 700 crore AI, deeptech fund
+26 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms
+
+• Gaurav Munjal and Roman Saini are raising a ₹700-crore venture capital fund focused on AI and deeptech startups.
+
+• The fund, named Longshot Capital, has secured commitments of about ₹300 crore and targets its first close in January 2027.
+
+• Saini will lead the fund full-time, while Munjal, who continues to head Unacademy, will be involved part-time.
+
+• Longshot aims to back 25-28 seed and pre-Series A startups with initial cheques of 500,000-1.5 million, focusing on AI, manufacturing, space, defence and robotics.
+
+### Eloelo in talks to raise $50-60 million at $400 million valuation
+26 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms
+
+• Live social entertainment platform Eloelo is in advanced stages of closing a $50-60 million funding round led by Hornbill Capital.
+
+• The round values the company at around $400 million and includes participation from existing investors.
+
+• Eloelo raised $13.5 million in April 2025 in a round led by Play Ventures, taking total funding above $50 million.
+
+• Eloelo faces competition from Kuku TV, QuickTV and DashReels, while Flipkart and Pocket FM have also moved into the short-drama segment.
+
+### Flipkart plans to launch 'Earth' to tap demand for premium, sustainable products
+26 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms
+
+• Flipkart is planning to launch Flipkart for Earth, a premium line focused on environmentally friendly products.
+
+• The company has started onboarding brands offering healthier, toxin-free, and sustainable products across beauty and personal care, snacks and beverages, home decor, fashion, appliances, and other categories.
+
+• If introduced on Minutes, Flipkart for Earth could compete with Swiggy Instamart's Switch, which features around 400 brands across categories.
+
+• Industry experts said such offerings could help quick commerce platforms expand the basket size and increase their average order values (AOVs).
+
+### AI efficiencies shield IT firms' Q2 margins
+26 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms
+
+• Seven of India's top nine outsourcing companies either sequentially increased or maintained operating margins in the second quarter.
+
+• Efficiencies tied to AI helped partially offset revenue deflation attributed to the technology amid persistent macroeconomic uncertainty on either side of the Atlantic seaboard.
+
+### HomeLane revenues dip in FY26
+26 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/unacademy-founders-plan-ai-fund-flipkarts-premium-push/articleshow/135200550.cms
+
+• Home interiors company HomeLane reported revenues of ₹745 crore in FY26, a marginal drop from ₹756 crore in FY25.
+
+• Its losses before tax widened to ₹137 crore from ₹111 crore a year ago.
+
+### Global pick: Pegasus spyware founder urges governments to trust his tech and ditch US AI
+FT | https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1
+
+[Could not read the article, possibly paywalled]
+
+### Global pick: What the US movement against data centers can learn from everywhere else
+Wired | https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/
+
+• Paris Marx's book Hyperscale argues data center opposition has a global history from Vietnam War protests to Ireland and Chile.
+
+• Dublin's grid operator imposed a moratorium in 2021 after saying it lacked capacity to connect more data centers.
+
+• In The Dalles, Oregon, Google used 29 percent of the community's water, figures it tried to keep secret for nearly a year.
+
+• Marx warns that if the AI bubble pops, planned gas plants will remain and need customers even if data centers are shelved.
+
+### Global pick: How one man became the unsung hero of the internet during a cyber-security scramble
+BBC | https://www.bbc.com/news/articles/cw30ejqljl43o
+
+• Researchers warn that police use of AI risks worsening discrimination against minorities because the tools learn from biased records.
+
+• They say the risk grows without oversight of how these AI tools are used by police forces.
+
+• The warning comes as AI spreads into policing and other public services.
+
+• Oversight is the key safeguard researchers point to before police AI use expands further.
 
 ============================================================
 
@@ -271,28 +358,28 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [[Top Gainers]]
 
-[Mangalore Refinery And Petrochemicals Ltd (MRPL, +11.56%)]
+[Mangalore Refinery And Petrochemicals Ltd (MRPL, +12.25%)]
 
 - ~
   26 Oct 2026 | https://hdfcsky.com/news/most-active-stocks-today-26-october-2026-at-12-pm
   ## What the sector does ¶ • Oil refining companies buy crude oil and process it into fuels like petrol, diesel and jet fuel, plus petrochemicals, selling to fuel retailers, industry and exporters. ¶ • Revenue tracks crude prices and refining margins (the gap between crude cost and product prices), while costs are crude purchases, freight and energy; Reliance, IOCL, BPCL and HPCL are the main players. ¶ ## What the company does ¶ • MRPL runs a refinery in Mangalore that turns crude oil into fuels and petrochemicals, sells aviation fuel, and retails petroleum products through outlets; it is a subsidiary of ONGC. ¶ • With a market cap of ₹31,950 crore and September-quarter sales of ₹32,516 crore, MRPL is smaller than Reliance, IOCL, BPCL and HPCL but larger than CPCL. ¶ ## Why it moved today ¶ • The news article does not explain the 11.56% move; it only notes MRPL rose 8.69% to ₹176.35 by 12:00 PM on 26 October 2026 as one of the most active stocks by volume. ¶ • Context: MRPL's September 2026 quarter net profit jumped 217% year-on-year to ₹1,901 crore on sales of ₹32,516 crore, up 43.6%, per Screener data. ¶ ## The numbers (Screener) ¶ • Stock P/E is 7.72, price to book is about 1.87 (price ₹182 against book value ₹97.2), ROCE 18.0%, ROE 14.5%, dividend yield 2.16%, market cap ₹31,950 crore. ¶ • September 2026 quarter: sales ₹32,516 crore, operating profit ₹3,279 crore (OPM 10%), net profit ₹1,901 crore, EPS ₹10.85; June 2026 quarter net profit was ₹946 crore. ¶ ## What the numbers say ¶ • MRPL's P/E of 7.72 is below the peer median of 8.3 and far below Reliance's 21.62 and HPCL's 50.39, while its ROCE of 18.0% is near the peer median of 20.45%. ¶ • September-quarter net profit of ₹1,901 crore rose 217% year-on-year and more than doubled from June's ₹946 crore, but the 11.56% move leaves the stock below its 52-week high of ₹215. ¶ ↗ hdfcsky.com|https://hdfcsky.com/news/most-active-stocks-today-26-october-2026-at-12-pm
 
-[Swiggy Ltd (SWIGGY, +7.07%)]
+[Td Power Systems Ltd (TDPOWERSYS, +7.02%)]
 
 - ~
-  26 Oct 2026 | https://inc42.com/features/growth-vs-profitability-swiggys-tug-of-war/
-  ## What the sector does ¶ • India's food delivery and quick commerce sector sells restaurant meals and groceries delivered in minutes, mainly to urban households ordering through apps. ¶ • Revenue comes from delivery fees, commissions from restaurants, advertising and grocery sales, while costs are rider payouts, dark stores and discounts. ¶ ## What the company does ¶ • Swiggy runs food delivery plus Instamart quick commerce and Swiggy Dineout, earning commissions, delivery fees and advertising from restaurants and app users. ¶ • Food delivery gross order value was ₹10,054 crore in the September quarter, while Instamart's net order value was ₹6,594 crore, with 1,240 dark stores across 133 cities. ¶ ## Why it moved today ¶ • Swiggy shares rose 7.07% on 26 October 2026, a rebound a session after crashing about 15-17% to a low near ₹175 when Q2 FY27 results showed Instamart's adjusted EBITDA loss widening to ₹895 crore. ¶ • Brokerages stayed positive after the fall, with Jefferies, Nomura and Bernstein retaining bullish ratings, even as Nomura and Jefferies cut target prices to ₹300 and ₹330. ¶ ## The numbers (Screener) ¶ • Revenue from operations rose 36.1% year-on-year to ₹7,571 crore in the September 2026 quarter, while net loss narrowed to ₹922 crore from ₹1,092 crore a year earlier. ¶ • Operating margin stayed negative at -10% in the September quarter, ROCE was -24.1% and ROE -29.1%, and the stock trades at 2.96 times its book value of ₹61.5. ¶ ## What the numbers say ¶ • Swiggy's revenue grew 36.1% year-on-year, but its -24.1% ROCE and -29.1% ROE show the business still burns capital, unlike Eternal's positive 2.48% ROCE and FSN E-Commerce's 17.23%. ¶ • Against a peer median P/E of 48.76, Swiggy has no P/E because it is loss-making, and its ₹52,308 crore market cap sits below Eternal's ₹314,022 crore despite similar revenue scale. ¶ ↗ inc42.com|https://inc42.com/features/growth-vs-profitability-swiggys-tug-of-war/ ;; storyboard18.com|https://www.storyboard18.com/infographics/how-it-works/blinkit-and-swiggy-face-off-in-quick-commerce-race-ws-lo-113359.htm ;; m.economictimes.com|https://m.economictimes.com/markets/stocks/news/swiggy-shares-jump-5-a-day-after-q2-results-sparked-a-17-crash-why-brokerages-remain-bullish-despite-target-price-cuts/articleshow/135205591.cms
+  25 Oct 2026 | https://www.marketsmojo.com/news/stock-recommendation/td-power-systems-ltd-downgraded-to-buy-amid-technical-softening-despite-strong-fundamentals-4230665
+  ## What the sector does ¶ • Heavy electrical equipment makers build generators, motors, transformers and switchgear sold to power utilities, industrial plants and railways, mostly through project tenders. ¶ • Revenue follows capital spending by utilities and factories, while cost is dominated by copper, steel and electrical steel prices; BHEL, ABB, Siemens and CG Power are the large listed players. ¶ ## What the company does ¶ • TD Power Systems makes AC generators and electric motors, custom-built to each customer's specification, and also runs a service and spares business for installed machines. ¶ • It sells mainly to industrial customers and original equipment makers in India and abroad, and at ₹22,006 crore market cap it is far smaller than BHEL, ABB or Siemens. ¶ ## Why it moved today ¶ • The news gives no company-specific reason for the 7.02% rise; the MarketsMojo note dated 25 Oct 2026 covers a downgrade to Buy on technical softening and a ₹735.40 price, not this move. ¶ • Context only: the June 2026 quarter showed sales of ₹640 crore, up 72.1% year on year, and net profit of ₹86 crore, up 72.3%, which is the operating backdrop into the session. ¶ ## The numbers (Screener) ¶ • Stock P/E is 80.1 and price to book is 19.3 times on a book value of ₹34.3, with dividend yield 0.16% and market cap ₹22,006 crore. ¶ • June 2026 quarter: sales ₹640 crore, operating profit ₹122 crore at 19% margin, net profit ₹86 crore and EPS ₹2.76, against ₹452 crore sales and ₹60 crore profit in September 2025. ¶ ## What the numbers say ¶ • At a P/E of 80.1 the stock sits between ABB at 87 and Siemens at 77.3, but its 34.0% ROCE is above ABB's 29.9% and well above BHEL's 9.1%. ¶ • Profit growth of 72.3% in the June 2026 quarter is the fastest in the peer table, yet the 19.3 times book value leaves little room if that pace slows. ¶ ↗ marketsmojo.com|https://www.marketsmojo.com/news/stock-recommendation/td-power-systems-ltd-downgraded-to-buy-amid-technical-softening-despite-strong-fundamentals-4230665
 
 [[Top Losers]]
 
-[Au Small Finance Bank Ltd (AUBANK, -7.45%)]
-
-- ~
-  26 Oct 2026 | https://m.economictimes.com/markets/stocks/news/au-small-finance-bank-shares-tumble-10-after-q2-results-but-jefferies-and-motilal-see-up-to-37-upside/articleshow/135202907.cms
-  ## What the sector does ¶ • Small finance banks lend to underserved borrowers such as small businesses, microfinance clients and vehicle buyers, funded mainly by retail deposits. ¶ • Revenue comes from the spread between loan yields and deposit costs plus fees; credit costs and deposit competition drive profitability. ¶ ## What the company does ¶ • AU Small Finance Bank offers retail and wholesale banking, vehicle and commercial loans, gold loans, deposits and treasury services across India. ¶ • It earns from interest on loans and investments plus fees on distribution and cards, and is the largest small finance bank by market capitalisation at ₹64,780 crore. ¶ ## Why it moved today ¶ • The stock fell 7.45% after Q2FY27 results showed NIM easing 9 basis points quarter-on-quarter to 5.8% and management flagging continued margin pressure from deposit competition. ¶ • Context: net profit rose 53% year-on-year to ₹858 crore and gross NPA improved to 1.99%, but net NPA edged up to 0.81% and slippages rose 24 basis points quarter-on-quarter. ¶ ## The numbers (Screener) ¶ • Stock P/E is 190, ROCE 12.4%, ROE 22.3%, dividend yield 0.12% and market cap ₹64,780 crore at a price of ₹862. ¶ • Q2FY27 net profit was ₹858 crore, up 53% year-on-year, on net interest income of ₹2,820 crore, up 32%, with provisions down 25% to ₹359 crore. ¶ ## What the numbers say ¶ • At a P/E of 190 the stock trades far above small finance bank peers such as Ujjivan at 9.5, Equitas at 14.5 and Jana at 8.4, so the price already prices in strong growth. ¶ • ROE of 22.3% and ROCE of 12.4% top the peer table, but the 7.45% fall shows the market reacting to margin and slippage concerns rather than the profit growth. ¶ ↗ m.economictimes.com|https://m.economictimes.com/markets/stocks/news/au-small-finance-bank-shares-tumble-10-after-q2-results-but-jefferies-and-motilal-see-up-to-37-upside/articleshow/135202907.cms ;; tradingview.com|https://www.tradingview.com/news/moneycontrol:f65f451bd094b:0-au-small-finance-bank-shares-fall-over-7-amid-margin-concerns-in-q2-here-s-what-brokerages-say/ ;; cnbctv18.com|https://www.cnbctv18.com/market/au-small-finance-bank-share-price-falls-after-flagging-margin-pressure-post-q2-results-20019190.htm
-
-[Five Star Business Finance Ltd (FIVESTAR, -6.53%)]
+[Five Star Business Finance Ltd (FIVESTAR, -7.43%)]
 
 - ~
   26 Oct 2026 | https://www.business-standard.com/amp/companies/quarterly-results/q2-results-paytm-rec-tata-consumer-products-among-98-firms-on-october-26-126102600226_1.html
   ## What the sector does ¶ • Non-bank financial companies (NBFCs) lend to borrowers that banks often skip, funding themselves through bank lines, bonds and equity. ¶ • In South India, secured small-business loans to micro-entrepreneurs and self-employed individuals are the main product, with interest income the revenue and cost of funds the main cost. ¶ ## What the company does ¶ • Five Star Business Finance, incorporated in 1984, is an NBFC-ND-SI giving secured business loans to micro-entrepreneurs and self-employed individuals across South India. ¶ • It earns interest on these loans and competes with larger diversified lenders such as Bajaj Finance, Shriram Finance and Muthoot Finance. ¶ ## Why it moved today ¶ • The news articles do not explain the 6.53% fall; the only company-specific item is that Five-Star Business Finance was scheduled to announce its Q2FY27 results on 26 October 2026. ¶ • Context: the Nifty50 fell 0.94% to 22,387 and the Nifty Midcap 100 and Smallcap indices dropped 0.81% and 0.91% in early trade that day, a weak broader market. ¶ ## The numbers (Screener) ¶ • Stock P/E is 79.0, ROCE 17.0%, ROE 16.0%, dividend yield 0.46% and market cap ₹12,384 crore, with the current price at ₹420 against a 52-week range of ₹666 to ₹338. ¶ • Promoter holding is 18.6% and has fallen 12.7% over the last three years, according to Screener. ¶ ## What the numbers say ¶ • At a P/E of 79.0, Five Star trades far above every named peer, from Muthoot Finance at 8.35 and Shriram Finance at 15.28 to Bajaj Finance at 26.15. ¶ • Its ROCE of 17.0% is the highest in the peer table, above Muthoot Finance's 15.80% and Bajaj Finance's 10.87%, so the fall comes after a rich valuation rather than weak capital returns. ¶ ↗ business-standard.com|https://www.business-standard.com/amp/companies/quarterly-results/q2-results-paytm-rec-tata-consumer-products-among-98-firms-on-october-26-126102600226_1.html
+
+[Au Small Finance Bank Ltd (AUBANK, -7.16%)]
+
+- ~
+  26 Oct 2026 | https://www.cnbctv18.com/market/au-small-finance-bank-share-price-falls-after-flagging-margin-pressure-post-q2-results-20019190.htm
+  ## What the sector does ¶ • Small finance banks take retail deposits and lend to underserved borrowers such as small businesses, microfinance clients and vehicle buyers, earning the spread between lending and deposit rates. ¶ • Revenue is driven by loan growth and net interest margin, while credit costs and operating expenses determine profit; peers include Ujjivan, Equitas, Jana, Utkarsh, ESAF, Suryoday and Capital Small Finance Bank. ¶ ## What the company does ¶ • AU Small Finance Bank provides retail banking, wholesale banking and treasury services, with a focus on vehicle loans, commercial banking and unsecured lending. ¶ • It earns from interest on loans and fees, and is the largest listed small finance bank by market capitalisation at ₹65,171 crore, with a 27.9% year-on-year gross advances growth in the September quarter. ¶ ## Why it moved today ¶ • AU Small Finance Bank shares fell 7.16% after management flagged persistent margin pressure, with net interest margin down 9 basis points quarter-on-quarter to 5.8% and credit costs guided to rise to around 0.9% for FY27. ¶ • Brokerages noted seasonal stress in tractor financing and a 200-basis-point quarter-on-quarter decline in the provision coverage ratio, even as Q2 net profit rose 53% year-on-year to ₹857.7 crore. ¶ ## The numbers (Screener) ¶ • The stock trades at a P/E of 191 and a dividend yield of 0.12%, with return on equity of 22.3% and return on capital employed of 12.4%, according to Screener data. ¶ • In the September quarter, net profit rose 53% year-on-year to ₹857.7 crore and net interest income increased 31.5% to ₹2,820.1 crore, while gross NPAs improved to 1.99% from 2.10% in the previous quarter. ¶ ## What the numbers say ¶ • AU Small Finance Bank's P/E of 191 is far above the peer median of about 8.4, while its ROE of 22.3% is the highest in the peer table, reflecting a premium valuation for superior returns. ¶ • Loan growth of 27.9% year-on-year is strong, but the sequential rise in slippages and margin pressure explain the sharp fall, even as brokerages like Jefferies and Motilal Oswal see up to 37% upside. ¶ ↗ cnbctv18.com|https://www.cnbctv18.com/market/au-small-finance-bank-share-price-falls-after-flagging-margin-pressure-post-q2-results-20019190.htm ;; m.economictimes.com|https://m.economictimes.com/markets/stocks/news/au-small-finance-bank-shares-tumble-10-after-q2-results-but-jefferies-and-motilal-see-up-to-37-upside/articleshow/135202907.cms ;; tradingview.com|https://www.tradingview.com/news/moneycontrol:f65f451bd094b:0-au-small-finance-bank-shares-fall-over-7-amid-margin-concerns-in-q2-here-s-what-brokerages-say/

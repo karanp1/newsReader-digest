@@ -4,7 +4,7 @@
   "sector": "Fintech",
   "description": "Online investment platform offering stock trading, mutual funds, bonds and wealth advisory services to retail investors in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "fisdom": {
   "name": "Fisdom",
@@ -137,14 +137,14 @@
   "sector": "Satellite internet",
   "description": "SpaceX's satellite broadband service awaiting security approvals for its India launch.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "spacex": {
   "name": "SpaceX",
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -1068,7 +1068,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its FBTC bitcoin ETF saw $105.2 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-10-26"
  },
  "arkhamintelligence": {
   "name": "Arkham Intelligence",
@@ -1201,7 +1201,7 @@
   "sector": "Stock exchange",
   "description": "National Stock Exchange; listed on 24 September at Rs 1,785 per share.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "ntpcgreenenergy": {
   "name": "NTPC Green Energy",
@@ -1873,7 +1873,7 @@
   "sector": "Stock broking",
   "description": "Broking platform that recorded the fastest month-on-month client growth among top 20 brokers.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-26"
  },
  "pbfintech": {
   "name": "PB Fintech",
@@ -2258,14 +2258,14 @@
   "sector": "Capital goods",
   "description": "Indian power equipment maker; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-26"
  },
  "abb": {
   "name": "ABB",
   "sector": "Capital goods",
   "description": "Electrification and automation company; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-26"
  },
  "hitachienergy": {
   "name": "Hitachi Energy",
@@ -2671,7 +2671,7 @@
   "sector": "Media",
   "description": "Crypto news outlet; its ETF tracker reported October Bitcoin ETF outflows.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "stocktwits": {
   "name": "Stocktwits",
@@ -2706,7 +2706,7 @@
   "sector": "Insurance regulator",
   "description": "India's insurance regulator; proposed changes to insurance commissions and product rules.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "centralelectricityregulatorycommission": {
   "name": "Central Electricity Regulatory Commission",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -2937,7 +2937,7 @@
   "sector": "Financial services",
   "description": "Research firm; downgraded Tech Mahindra to Sell and cut Usha Martin's grade to Hold.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "alphawaveventures": {
   "name": "Alpha Wave Ventures",
@@ -3322,7 +3322,7 @@
   "sector": "Industrial technology",
   "description": "Industrial technology firm; technology partner for LTTS's Bengaluru manufacturing AI lab.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-10-26"
  },
  "elaracapital": {
   "name": "Elara Capital",
@@ -4071,7 +4071,7 @@
   "sector": "Electrical equipment",
   "description": "Electrical equipment maker named as an OEM on Zetwerk's manufacturing marketplace.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-26"
  },
  "ntpcrenewableenergy": {
   "name": "NTPC Renewable Energy",
@@ -4260,7 +4260,7 @@
   "sector": "Armed group",
   "description": "Yemeni armed group whose missile debris wounded four in Riyadh and struck an Aramco building.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "fsb": {
   "name": "FSB",
@@ -4330,21 +4330,21 @@
   "sector": "Media",
   "description": "Reported a small group of founders and engineers have embraced cigarettes for networking.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-26"
  },
  "cnbc": {
   "name": "CNBC",
   "sector": "Media",
   "description": "Reported AI is breaking law firms' billable-hour model and junior training pipeline.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-26"
  },
  "axios": {
   "name": "Axios",
   "sector": "Media",
   "description": "Reported the White House ordered AI companies to report model incidents.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-26"
  },
  "fortune": {
   "name": "Fortune",
@@ -4358,7 +4358,7 @@
   "sector": "Media",
   "description": "Reported leading-edge AI models are losing their allure with developers.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-26"
  },
  "restofworld": {
   "name": "Rest of World",
@@ -4379,14 +4379,14 @@
   "sector": "Media",
   "description": "Indian newspaper carrying the editorials, international and business coverage in this digest.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "entrackr": {
   "name": "Entrackr",
   "sector": "Media",
   "description": "Indian startup news outlet that publishes a weekly funding report.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "openclawnewsletter": {
   "name": "Open Claw Newsletter",
@@ -4407,14 +4407,14 @@
   "sector": "Media",
   "description": "Indian financial news outlet reporting on Bank of Baroda's lawsuit and Meesho's fall.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "cnbctv18": {
   "name": "CNBC TV18",
   "sector": "Media",
   "description": "Indian business news channel reporting on Aegis Logistics and Vedanta Power moves.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-26"
  },
  "upstox": {
   "name": "Upstox",
@@ -4428,21 +4428,21 @@
   "sector": "Broking",
   "description": "Brokerage publishing trending stocks coverage for October 14, 2026.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-26"
  },
  "tradingview": {
   "name": "TradingView",
   "sector": "Financial data",
   "description": "Charting and market news platform carrying several of today's stock stories.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "yahoofinance": {
   "name": "Yahoo Finance",
   "sector": "Financial data",
   "description": "Market data site carrying coverage of Transformers & Rectifiers India's gain.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "kitco": {
   "name": "Kitco",
@@ -4470,7 +4470,7 @@
   "sector": "Media",
   "description": "Crypto news outlet reporting Standard Chartered's UAE bitcoin and ether trading launch.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "bitcoinmagazine": {
   "name": "Bitcoin Magazine",
@@ -4533,7 +4533,7 @@
   "sector": "Media",
   "description": "German financial news site carrying HAL and Avenue Supermarts coverage.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-26"
  },
  "investmentguruindia": {
   "name": "InvestmentGuruIndia",
@@ -4561,21 +4561,21 @@
   "sector": "Media",
   "description": "Indian business newspaper covering IDBI Bank's share surge and Q2 results.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-26"
  },
  "economictimes": {
   "name": "Economic Times",
   "sector": "Media",
   "description": "Indian business newspaper carrying the morning dispatch and Info Edge coverage.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "businesstoday": {
   "name": "Business Today",
   "sector": "Media",
   "description": "Indian business magazine covering Vedanta Power and demerged stocks.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "linkedin": {
   "name": "LinkedIn",
@@ -4589,7 +4589,7 @@
   "sector": "Financial data",
   "description": "Market news platform carrying Elecon, Meesho and Info Edge coverage.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-26"
  },
  "gulfnews": {
   "name": "Gulf News",
@@ -4603,7 +4603,7 @@
   "sector": "Media",
   "description": "Indian business newspaper covering BR Shetty's lawsuit against Bank of Baroda.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-26"
  },
  "startupfortune": {
   "name": "StartupFortune",
@@ -4624,14 +4624,14 @@
   "sector": "Media",
   "description": "Financial news outlet reporting investor interest in Jio Platforms' IPO.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-26"
  },
  "reuters": {
   "name": "Reuters",
   "sector": "Media",
   "description": "News agency whose reporting is cited across today's international stories.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-26"
  },
  "associatedpress": {
   "name": "Associated Press",
@@ -5184,7 +5184,7 @@
   "sector": "Electrical equipment",
   "description": "Makes AC generators and electric motors to customer specifications near Bengaluru.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-26"
  },
  "hdfcdefencefund": {
   "name": "HDFC Defence Fund",
@@ -6122,7 +6122,7 @@
   "sector": "News",
   "description": "Indian business news outlet that reported Urban Company's earnings miss.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-26"
  },
  "equitymaster": {
   "name": "Equitymaster",
@@ -6136,14 +6136,14 @@
   "sector": "News",
   "description": "Technology news site that reported Flipkart's food delivery pilot.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-26"
  },
  "wired": {
   "name": "Wired",
   "sector": "News",
   "description": "Technology magazine that reported OnlyFans creators' dispute with Meta.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-26"
  },
  "pymnts": {
   "name": "PYMNTS",
@@ -6248,14 +6248,14 @@
   "sector": "Markets",
   "description": "Indian benchmark index that fell 876.37 points to 73,852.90.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-26"
  },
  "nifty": {
   "name": "Nifty",
   "sector": "Markets",
   "description": "Indian benchmark index that dropped 257.20 points to 22,888.95.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-26"
  },
  "bsecapitalgoodsindex": {
   "name": "BSE Capital Goods Index",
@@ -6269,7 +6269,7 @@
   "sector": "Commodities",
   "description": "Oil benchmark at $107.79 a barrel, down 1.88%, a key risk to the rupee.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-26"
  },
  "rupee": {
   "name": "Rupee",
@@ -7375,7 +7375,7 @@
   "sector": "Space",
   "description": "SpaceX's military satellite service; Musk reportedly capped speeds for Ukraine.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "jamnagarrefinery": {
   "name": "Jamnagar refinery",
@@ -7445,7 +7445,7 @@
   "sector": "Media",
   "description": "Indian newspaper.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "aljazeera": {
   "name": "Al Jazeera",
@@ -7487,7 +7487,7 @@
   "sector": "Media",
   "description": "Indian newspaper.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "openthemagazine": {
   "name": "OpenTheMagazine",
@@ -7676,7 +7676,7 @@
   "sector": "Stock exchange",
   "description": "Indian exchange where Jio Platforms' IPO bids and Reliance share moves were recorded.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "dcgi": {
   "name": "DCGI",
@@ -7837,7 +7837,7 @@
   "sector": "News",
   "description": "UK public broadcaster covering business and international news.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "billionairesafrica": {
   "name": "Billionaires Africa",
@@ -7851,7 +7851,7 @@
   "sector": "News",
   "description": "Indian startup and technology news outlet.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "veloxxmedia": {
   "name": "Veloxx Media",
@@ -9370,7 +9370,7 @@
   "sector": "Political party",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-25",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "yashar": {
   "name": "Yashar",
@@ -9649,6 +9649,181 @@
   "name": "Anant Ambani's foundation",
   "sector": "Philanthropy",
   "description": "Gifted a new scooter to a Blinkit delivery agent who cycled for deliveries.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "hyperpure": {
+  "name": "Hyperpure",
+  "sector": "B2B food supply",
+  "description": "Zomato's B2B food sourcing arm serving over 200,000 kitchens across 100-plus cities.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "godigitinfoworksservices": {
+  "name": "Go Digit Infoworks Services",
+  "sector": "Insurance",
+  "description": "Go Digit group entity merging with Go Digit General Insurance after CCI approval.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "canva": {
+  "name": "Canva",
+  "sector": "Design software",
+  "description": "Design platform that launched Canva Craft, its first in-house image generation model.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "cci": {
+  "name": "CCI",
+  "sector": "Regulator",
+  "description": "Competition Commission of India, which approved the Go Digit merger.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "nclt": {
+  "name": "NCLT",
+  "sector": "Tribunal",
+  "description": "National Company Law Tribunal, whose approval is pending for the Go Digit merger.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "indiameteorologicaldepartment": {
+  "name": "India Meteorological Department",
+  "sector": "Government",
+  "description": "Weather agency forecasting normal northeast monsoon rainfall from October to December.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "galaxy": {
+  "name": "Galaxy",
+  "sector": "Crypto research",
+  "description": "Firm whose October snapshot classified about 11.1 million BTC as unattributed to any known owner.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "kpler": {
+  "name": "Kpler",
+  "sector": "Commodity data",
+  "description": "Analytics firm whose Sumit Ritolia commented on Reliance's Russian crude use.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "ft": {
+  "name": "FT",
+  "sector": "News outlet",
+  "description": "Published an interview with the Pegasus spyware founder.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "simplywallst": {
+  "name": "Simply Wall St",
+  "sector": "Research",
+  "description": "Investment research site covering Go Digit's share fall.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "campaignbriefasia": {
+  "name": "Campaign Brief Asia",
+  "sector": "News outlet",
+  "description": "Marketing news site covering the Flipkart Minutes horror miniseries.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "storyboard18": {
+  "name": "Storyboard18",
+  "sector": "News outlet",
+  "description": "Marketing news site covering Flipkart for Earth and the Blinkit-Instamart private label race.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "businessupturn": {
+  "name": "Business Upturn",
+  "sector": "News outlet",
+  "description": "Business news site comparing Blinkit and DMart quarterly sales.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "usatoday": {
+  "name": "USA Today",
+  "sector": "News outlet",
+  "description": "Newspaper covering whether gold will hit $5,000.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "fxempire": {
+  "name": "FXEmpire",
+  "sector": "News outlet",
+  "description": "Markets site covering gold and silver forecasts ahead of the Fed.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "newindianexpress": {
+  "name": "New Indian Express",
+  "sector": "News outlet",
+  "description": "Newspaper covering the early trade market decline.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "coinpedia": {
+  "name": "Coinpedia",
+  "sector": "News outlet",
+  "description": "Crypto news site covering the Jio Platforms IPO grey market premium.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "ndtv": {
+  "name": "NDTV",
+  "sector": "News outlet",
+  "description": "News channel referenced in the digest.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "indianexpress": {
+  "name": "Indian Express",
+  "sector": "News outlet",
+  "description": "Newspaper referenced in the digest.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "theverge": {
+  "name": "The Verge",
+  "sector": "News outlet",
+  "description": "Technology news site referenced in the digest.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "arstechnica": {
+  "name": "Ars Technica",
+  "sector": "News outlet",
+  "description": "Technology news site referenced in the digest.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "venturebeat": {
+  "name": "VentureBeat",
+  "sector": "News outlet",
+  "description": "Technology news site referenced in the digest.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "sifted": {
+  "name": "Sifted",
+  "sector": "News outlet",
+  "description": "European startup news site referenced in the digest.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "yourstory": {
+  "name": "YourStory",
+  "sector": "News outlet",
+  "description": "Indian startup news site referenced in the digest.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "moneycontrolpro": {
+  "name": "Moneycontrol Pro",
+  "sector": "News outlet",
+  "description": "Subscription arm of Moneycontrol referenced in the digest.",
   "first_added": "2026-10-26",
   "last_mentioned": "2026-10-26"
  }
