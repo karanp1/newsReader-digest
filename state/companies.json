@@ -53,7 +53,7 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "google": {
   "name": "Google",
@@ -179,7 +179,7 @@
   "sector": "Financial services",
   "description": "Indian brokerage and financial services firm; values Jio Platforms and rates Reliance Industries a buy.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "flipkart": {
   "name": "Flipkart",
@@ -242,14 +242,14 @@
   "sector": "Oil refining",
   "description": "State-owned Bharat Petroleum refining and marketing fuels across India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-26"
  },
  "hpcl": {
   "name": "HPCL",
   "sector": "Oil refining",
   "description": "State-owned Hindustan Petroleum refining and selling petroleum products in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-10-26"
  },
  "pvrinox": {
   "name": "PVR Inox",
@@ -1432,7 +1432,7 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-26"
  },
  "citi": {
   "name": "Citi",
@@ -2062,14 +2062,14 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "bernstein": {
   "name": "Bernstein",
   "sector": "Financial research",
   "description": "Brokerage that ranked quick-commerce platforms on product availability.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "hyundaimotorindia": {
   "name": "Hyundai Motor India",
@@ -2328,7 +2328,7 @@
   "sector": "Regulator",
   "description": "India's securities regulator; to issue guidelines on closing auction session.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-26"
  },
  "reservebankofindia": {
   "name": "Reserve Bank of India",
@@ -2741,7 +2741,7 @@
   "sector": "Financial data",
   "description": "Indian stock research platform; flagged valuation and return metrics for several stocks.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-26"
  },
  "tdsecurities": {
   "name": "TD Securities",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "accenture": {
   "name": "Accenture",
@@ -2923,7 +2923,7 @@
   "sector": "Financial services",
   "description": "Investment bank; raised Reliance's model portfolio weight to 7.50% and cut DMart's target to ₹4,000.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-26"
  },
  "clsa": {
   "name": "CLSA",
@@ -3140,7 +3140,7 @@
   "sector": "Financial services",
   "description": "Non-bank lender; among the Sensex gainers on Monday.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-26"
  },
  "tatasteel": {
   "name": "Tata Steel",
@@ -3273,7 +3273,7 @@
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "gartner": {
   "name": "Gartner",
@@ -3455,14 +3455,14 @@
   "sector": "Financial services",
   "description": "Investment bank; estimated Jio Platforms equity value at Rs 9.8-10.3 lakh crore.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-10-26"
  },
  "zomato": {
   "name": "Zomato",
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3854,7 +3854,7 @@
   "sector": "Non-bank finance",
   "description": "Large NBFC financing commercial vehicles, especially used trucks, through branches and rural centres.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-26"
  },
  "mufg": {
   "name": "MUFG",
@@ -4001,7 +4001,7 @@
   "sector": "NBFC",
   "description": "Gold loan NBFC; named as a peer comparison for HDB Financial.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-26"
  },
  "tatacapital": {
   "name": "Tata Capital",
@@ -5016,7 +5016,7 @@
   "sector": "Oil and gas",
   "description": "Indian state oil and gas explorer, a peer to Vedanta Oil and Gas.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-26"
  },
  "oilindia": {
   "name": "Oil India",
@@ -7172,7 +7172,7 @@
   "sector": "Retail",
   "description": "Indian beauty and fashion retailer, operator of Nykaa.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "instahelp": {
   "name": "InstaHelp",
@@ -8852,7 +8852,7 @@
   "sector": "Oil refining",
   "description": "Indian refiner; Q2 net profit more than tripled to Rs 2,271 crore on higher refining margins.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-26"
  },
  "adanienergysolutions": {
   "name": "Adani Energy Solutions",
@@ -9286,21 +9286,21 @@
   "sector": "Media",
   "description": "Horror filmmakers who made a three-part miniseries for Flipkart Minutes with McCann India.",
   "first_added": "2026-10-24",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "mccannindia": {
   "name": "McCann India",
   "sector": "Advertising",
   "description": "Ad agency that worked with the Ramsay Brothers on Flipkart Minutes' horror miniseries.",
   "first_added": "2026-10-24",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "ausmallfinancebank": {
   "name": "AU Small Finance Bank",
   "sector": "Banking",
   "description": "Indian small finance bank; Q2 profit jumped 53% to Rs 858 crore.",
   "first_added": "2026-10-25",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-26"
  },
  "idfcfirstbank": {
   "name": "IDFC First Bank",
@@ -9551,6 +9551,104 @@
   "name": "Pegasus",
   "sector": "Spyware",
   "description": "Spyware whose founder urged governments to trust his tech and ditch US AI.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "matchgroup": {
+  "name": "Match Group",
+  "sector": "Dating apps",
+  "description": "Owner of Tinder and Hinge; a US Senate report found its apps connected users with nearly 1.5 million scammers.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "tinder": {
+  "name": "Tinder",
+  "sector": "Dating apps",
+  "description": "Match Group's dating app; a Senate report blamed outdated machine learning for failed scam detection.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "hinge": {
+  "name": "Hinge",
+  "sector": "Dating apps",
+  "description": "Match Group dating app named in a US Senate report on scam connections.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "mangalorerefineryandpetrochemicals": {
+  "name": "Mangalore Refinery And Petrochemicals",
+  "sector": "Oil refining",
+  "description": "ONGC subsidiary running a Mangalore refinery; shares rose 11.56% after a 217% jump in September-quarter net profit.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "fivestarbusinessfinance": {
+  "name": "Five Star Business Finance",
+  "sector": "NBFC",
+  "description": "South India-focused NBFC giving secured business loans to micro-entrepreneurs; shares fell 6.53%.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "iocl": {
+  "name": "IOCL",
+  "sector": "Oil refining",
+  "description": "Indian Oil Corporation, one of India's main oil refining and marketing companies.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "ujjivan": {
+  "name": "Ujjivan",
+  "sector": "Banking",
+  "description": "Small finance bank peer to AU Small Finance Bank.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "equitas": {
+  "name": "Equitas",
+  "sector": "Banking",
+  "description": "Small finance bank peer to AU Small Finance Bank.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "jana": {
+  "name": "Jana",
+  "sector": "Banking",
+  "description": "Jana Small Finance Bank, a peer to AU Small Finance Bank.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "electrum": {
+  "name": "Electrum",
+  "sector": "Crypto",
+  "description": "Bitcoin wallet whose flaw let malicious servers substitute fake transactions; fixed in version 4.8.3.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "stacks": {
+  "name": "Stacks",
+  "sector": "Crypto",
+  "description": "Bitcoin layer project whose co-founder warned about quantum-resistant signatures and coin migration timelines.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "cmefedwatch": {
+  "name": "CME FedWatch",
+  "sector": "Financial data",
+  "description": "Tool showing market-implied odds of Federal Reserve rate moves.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "idc": {
+  "name": "IDC",
+  "sector": "Market research",
+  "description": "Research firm expecting Apple to take 44% of foldable value in 2026 on 31% of units.",
+  "first_added": "2026-10-26",
+  "last_mentioned": "2026-10-26"
+ },
+ "anantambanisfoundation": {
+  "name": "Anant Ambani's foundation",
+  "sector": "Philanthropy",
+  "description": "Gifted a new scooter to a Blinkit delivery agent who cycled for deliveries.",
   "first_added": "2026-10-26",
   "last_mentioned": "2026-10-26"
  }
