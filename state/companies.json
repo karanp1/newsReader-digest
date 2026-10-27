@@ -53,7 +53,7 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "google": {
   "name": "Google",
@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-10-27"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -158,7 +158,7 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
@@ -179,21 +179,21 @@
   "sector": "Financial services",
   "description": "Indian brokerage and financial services firm; values Jio Platforms and rates Reliance Industries a buy.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "flipkart": {
   "name": "Flipkart",
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "walmart": {
   "name": "Walmart",
   "sector": "Retail",
   "description": "US retail giant and majority owner of Flipkart; facing pressure over employee stock option liquidity.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-27"
  },
  "myntra": {
   "name": "Myntra",
@@ -221,7 +221,7 @@
   "sector": "E-commerce",
   "description": "Global online retailer running Great Indian Festival sale in competition with Flipkart.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-27"
  },
  "chennaipetroleum": {
   "name": "Chennai Petroleum",
@@ -242,7 +242,7 @@
   "sector": "Oil refining",
   "description": "State-owned Bharat Petroleum refining and marketing fuels across India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "hpcl": {
   "name": "HPCL",
@@ -452,7 +452,7 @@
   "sector": "Crypto exchange",
   "description": "US cryptocurrency exchange acting as custodian for US government seized crypto assets.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-27"
  },
  "alamedaresearch": {
   "name": "Alameda Research",
@@ -501,7 +501,7 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "naukri": {
   "name": "Naukri",
@@ -515,14 +515,14 @@
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "godigit": {
   "name": "Go Digit",
   "sector": "Insurance",
   "description": "Indian general insurance company offering motor, health and travel policies digitally.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "syrmasgs": {
   "name": "Syrma SGS",
@@ -536,7 +536,7 @@
   "sector": "Banking",
   "description": "Indian public sector bank providing retail and corporate banking services.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-10-27"
  },
  "kross": {
   "name": "Kross",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -956,7 +956,7 @@
   "sector": "Conglomerate",
   "description": "Mukesh Ambani-led conglomerate; its satellite arm already holds India authorisation.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "oneweb": {
   "name": "OneWeb",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1250,7 +1250,7 @@
   "sector": "Software",
   "description": "US software giant; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-27"
  },
  "adobe": {
   "name": "Adobe",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -2076,7 +2076,7 @@
   "sector": "Automotive",
   "description": "Carmaker whose October 2024 IPO was India's largest before Jio Platforms' offering.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-27"
  },
  "dolatcapital": {
   "name": "Dolat Capital",
@@ -2741,7 +2741,7 @@
   "sector": "Financial data",
   "description": "Indian stock research platform; flagged valuation and return metrics for several stocks.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "tdsecurities": {
   "name": "TD Securities",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "accenture": {
   "name": "Accenture",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -2923,7 +2923,7 @@
   "sector": "Financial services",
   "description": "Investment bank; raised Reliance's model portfolio weight to 7.50% and cut DMart's target to ₹4,000.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "clsa": {
   "name": "CLSA",
@@ -3140,7 +3140,7 @@
   "sector": "Financial services",
   "description": "Non-bank lender; among the Sensex gainers on Monday.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "tatasteel": {
   "name": "Tata Steel",
@@ -3273,7 +3273,7 @@
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "gartner": {
   "name": "Gartner",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -4001,14 +4001,14 @@
   "sector": "NBFC",
   "description": "Gold loan NBFC; named as a peer comparison for HDB Financial.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "tatacapital": {
   "name": "Tata Capital",
   "sector": "NBFC",
   "description": "Tata group financial services arm; named as a peer comparison for HDB Financial.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-27"
  },
  "pnbhousingfinance": {
   "name": "PNB Housing Finance",
@@ -4127,7 +4127,7 @@
   "sector": "AI",
   "description": "xAI's AI assistant, bundled with Cursor and X Premium in The X Subscription.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-27"
  },
  "xpremium": {
   "name": "X Premium",
@@ -4155,7 +4155,7 @@
   "sector": "AI",
   "description": "Anthropic's AI assistant, adopted by GovTech Singapore and 15 federal agencies.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-27"
  },
  "claudecode": {
   "name": "Claude Code",
@@ -4330,7 +4330,7 @@
   "sector": "Media",
   "description": "Reported a small group of founders and engineers have embraced cigarettes for networking.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "cnbc": {
   "name": "CNBC",
@@ -4414,7 +4414,7 @@
   "sector": "Media",
   "description": "Indian business news channel reporting on Aegis Logistics and Vedanta Power moves.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "upstox": {
   "name": "Upstox",
@@ -4631,7 +4631,7 @@
   "sector": "Media",
   "description": "News agency whose reporting is cited across today's international stories.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "associatedpress": {
   "name": "Associated Press",
@@ -5016,7 +5016,7 @@
   "sector": "Oil and gas",
   "description": "Indian state oil and gas explorer, a peer to Vedanta Oil and Gas.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "oilindia": {
   "name": "Oil India",
@@ -5121,14 +5121,14 @@
   "sector": "Crypto",
   "description": "Leading cryptocurrency that fell to $82,000 after higher-than-expected CPI.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "gold": {
   "name": "Gold",
   "sector": "Commodities",
   "description": "Precious metal trading near $4,100 with record ETF holdings.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "yaraj": {
   "name": "Yara J",
@@ -8075,7 +8075,7 @@
   "sector": "AI",
   "description": "Personal AI agent startup that raised $1 billion in a Series C at a $10 billion valuation.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-27"
  },
  "7x24exchangeinternational": {
   "name": "7x24 Exchange International",
@@ -9174,7 +9174,7 @@
   "sector": "B2B commerce",
   "description": "B2B platform connecting manufacturers and retailers.",
   "first_added": "2026-10-24",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-10-27"
  },
  "bcg": {
   "name": "BCG",
@@ -9300,7 +9300,7 @@
   "sector": "Banking",
   "description": "Indian small finance bank; Q2 profit jumped 53% to Rs 858 crore.",
   "first_added": "2026-10-25",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "idfcfirstbank": {
   "name": "IDFC First Bank",
@@ -9580,14 +9580,14 @@
   "sector": "Oil refining",
   "description": "ONGC subsidiary running a Mangalore refinery; shares rose 11.56% after a 217% jump in September-quarter net profit.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "fivestarbusinessfinance": {
   "name": "Five Star Business Finance",
   "sector": "NBFC",
   "description": "South India-focused NBFC giving secured business loans to micro-entrepreneurs; shares fell 6.53%.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "iocl": {
   "name": "IOCL",
@@ -9601,21 +9601,21 @@
   "sector": "Banking",
   "description": "Small finance bank peer to AU Small Finance Bank.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "equitas": {
   "name": "Equitas",
   "sector": "Banking",
   "description": "Small finance bank peer to AU Small Finance Bank.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "jana": {
   "name": "Jana",
   "sector": "Banking",
   "description": "Jana Small Finance Bank, a peer to AU Small Finance Bank.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "electrum": {
   "name": "Electrum",
@@ -9692,7 +9692,7 @@
   "sector": "Government",
   "description": "Weather agency forecasting normal northeast monsoon rainfall from October to December.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "galaxy": {
   "name": "Galaxy",
@@ -9826,5 +9826,250 @@
   "description": "Subscription arm of Moneycontrol referenced in the digest.",
   "first_added": "2026-10-26",
   "last_mentioned": "2026-10-26"
+ },
+ "safhal": {
+  "name": "SAFHAL",
+  "sector": "Defence aerospace",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "greptile": {
+  "name": "Greptile",
+  "sector": "AI",
+  "description": "Builds AI agents that review and test code changes using full codebase context.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "coderabbit": {
+  "name": "CodeRabbit",
+  "sector": "AI",
+  "description": "AI code review tool using GPT-6.1 Sol to flag security issues in pull requests.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "fanatics": {
+  "name": "Fanatics",
+  "sector": "E-commerce",
+  "description": "US sports merchandise retailer; launched an OpenAI-powered Shop the Look outfit recommender.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "uber": {
+  "name": "Uber",
+  "sector": "Ride hailing",
+  "description": "Global ride-hailing and delivery platform expanding an AI agent to over 30,000 employees.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "rescale": {
+  "name": "Rescale",
+  "sector": "Cloud computing",
+  "description": "Provides cloud high-performance computing; built an AI agent to triage nightly test failures.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "broughtonpartners": {
+  "name": "Broughton Partners",
+  "sector": "Legal tech",
+  "description": "Uses AI agents to check identity, fraud, contracts and medical evidence before cases reach law firms.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "nestl": {
+  "name": "Nestlé",
+  "sector": "Food and beverage",
+  "description": "Global food and drinks company piloting an AI agent to draft replies to retailer emails.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "forter": {
+  "name": "Forter",
+  "sector": "Fraud prevention",
+  "description": "Detects fraudulent and agentic e-commerce orders for merchants; tracks AI agent order data.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "redwoodsoftware": {
+  "name": "Redwood Software",
+  "sector": "Enterprise software",
+  "description": "Publishes benchmarks on enterprise AI and agentic orchestration adoption and governance.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "tatacommunications": {
+  "name": "Tata Communications",
+  "sector": "Telecom",
+  "description": "Indian telecom and digital services firm investing Rs 4,350 crore in AI-ready data centre connectivity.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "indianoverseasbank": {
+  "name": "Indian Overseas Bank",
+  "sector": "Banking",
+  "description": "Indian public sector bank; September quarter net profit rose 56% to Rs 1,962.67 crore.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "itchotels": {
+  "name": "ITC Hotels",
+  "sector": "Hospitality",
+  "description": "Indian hotel chain; Q2 net profit rose 52% to Rs 203 crore on strong demand.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "tamilnadmercantilebank": {
+  "name": "Tamilnad Mercantile Bank",
+  "sector": "Banking",
+  "description": "Indian private sector bank posting record quarterly profit of Rs 451.14 crore.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "britannia": {
+  "name": "Britannia",
+  "sector": "Food and beverage",
+  "description": "Indian packaged foods company fined Rs 1 lakh over a misleading whole wheat bread claim.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "unnatifortuneholdings": {
+  "name": "Unnati Fortune Holdings",
+  "sector": "Real estate",
+  "description": "Noida-based realty firm whose promoter faces a money laundering case over diverted buyer funds.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "lanxess": {
+  "name": "LANXESS",
+  "sector": "Specialty chemicals",
+  "description": "German specialty chemicals company partnering on bitumen and asphalt modification technologies.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "hindustancolas": {
+  "name": "Hindustan Colas",
+  "sector": "Road construction",
+  "description": "Indian bitumen and asphalt company collaborating with LANXESS on road construction technologies.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "bluedartexpress": {
+  "name": "Blue Dart Express",
+  "sector": "Logistics",
+  "description": "Indian express delivery firm launching International Parcel Connect cross-border parcel shipping.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "perplexity": {
+  "name": "Perplexity",
+  "sector": "AI",
+  "description": "AI search company whose assistant powers the voice features in Hyundai's Bayon SUV.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "soundhoundai": {
+  "name": "SoundHound AI",
+  "sector": "AI",
+  "description": "Voice AI company providing in-car voice assistance technology for Hyundai's Bayon SUV.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "atherenergy": {
+  "name": "Ather Energy",
+  "sector": "Electric vehicles",
+  "description": "Indian electric scooter maker that posted its first quarterly net profit in September 2026.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "bajajauto": {
+  "name": "Bajaj Auto",
+  "sector": "Automobiles",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "eichermotors": {
+  "name": "Eicher Motors",
+  "sector": "Automobiles",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "heromotocorp": {
+  "name": "Hero MotoCorp",
+  "sector": "Automobiles",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "utkarsh": {
+  "name": "Utkarsh",
+  "sector": "Banking",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "galaxydigital": {
+  "name": "Galaxy Digital",
+  "sector": "Crypto",
+  "description": "Digital asset financial services firm saying bitcoin's bear market ended in June.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "salesforce": {
+  "name": "Salesforce",
+  "sector": "Enterprise software",
+  "description": "US enterprise software company whose platform hosts AI agent deployments at customers.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "lulasarmy": {
+  "name": "Lula's Army",
+  "sector": "Politics",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "nationalmedicalcommission": {
+  "name": "National Medical Commission",
+  "sector": "Regulator",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "bharatinvitsassociation": {
+  "name": "Bharat InvITs Association",
+  "sector": "Financial services",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "centralconsumerprotectionauthority": {
+  "name": "Central Consumer Protection Authority",
+  "sector": "Regulator",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "enforcementdirectorate": {
+  "name": "Enforcement Directorate",
+  "sector": "Government",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "tamilnaduassociationofcottageandtinyenterprises": {
+  "name": "Tamil Nadu Association of Cottage and Tiny Enterprises",
+  "sector": "Industry body",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "bharatinvits": {
+  "name": "Bharat InvITs",
+  "sector": "Financial services",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
  }
 }
