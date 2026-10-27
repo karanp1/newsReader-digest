@@ -10939,5 +10939,40 @@
   "description": "Chinese dairy company; ended cooperation with Kylian Mbappe over a video controversy.",
   "first_added": "2026-10-27",
   "last_mentioned": "2026-10-27"
+ },
+ "tataairbus": {
+  "name": "Tata-Airbus",
+  "sector": "Defence aerospace",
+  "description": "Joint venture expected to compete for India's 200 Light Multi Role Helicopter order.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "adanileonardo": {
+  "name": "Adani-Leonardo",
+  "sector": "Defence aerospace",
+  "description": "Joint venture expected to bid for India's Light Multi Role Helicopter programme.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "bellhelicopters": {
+  "name": "Bell Helicopters",
+  "sector": "Defence aerospace",
+  "description": "US rotorcraft maker expected to compete for India's 200-helicopter Army and Air Force order.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "jlrindia": {
+  "name": "JLR India",
+  "sector": "Automotive",
+  "description": "Jaguar Land Rover's Indian arm; began local Defender production at Pune.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "acutaaschemicals": {
+  "name": "Acutaas Chemicals",
+  "sector": "Specialty chemicals",
+  "description": "Makes pharmaceutical intermediates, APIs and agrochemicals; Q2 revenue rose 42.7%.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
  }
 }
