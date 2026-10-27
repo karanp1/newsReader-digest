@@ -67,7 +67,7 @@
   "sector": "Electric vehicles",
   "description": "Manufacturer of electric scooters and two-wheelers in India; raised Rs 1,000 crore via rights issue.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-27"
  },
  "razorpay": {
   "name": "Razorpay",
@@ -116,7 +116,7 @@
   "sector": "Consumer electronics",
   "description": "South Korean conglomerate making memory chips, smartphones and displays; competing in high-bandwidth memory.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-27"
  },
  "skhynix": {
   "name": "SK Hynix",
@@ -228,7 +228,7 @@
   "sector": "Oil refining",
   "description": "Government-owned standalone refiner in Chennai producing fuels and lubricating oil additives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-27"
  },
  "indianoil": {
   "name": "Indian Oil",
@@ -249,7 +249,7 @@
   "sector": "Oil refining",
   "description": "State-owned Hindustan Petroleum refining and selling petroleum products in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "pvrinox": {
   "name": "PVR Inox",
@@ -606,7 +606,7 @@
   "sector": "Fintech",
   "description": "Digital payments firm; RBI removed its associate Paytm Payments Bank from scheduled banks list.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-10-27"
  },
  "seruminstituteofindia": {
   "name": "Serum Institute of India",
@@ -865,7 +865,7 @@
   "sector": "IT services",
   "description": "Indian IT services company; chairman Rishad Premji led the ET Startup Awards jury.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-27"
  },
  "porsche": {
   "name": "Porsche",
@@ -893,7 +893,7 @@
   "sector": "Cloud computing",
   "description": "Amazon's cloud arm; its ventures chief expects AI to fuel a new startup wave.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-27"
  },
  "dailyobjects": {
   "name": "DailyObjects",
@@ -1145,7 +1145,7 @@
   "sector": "Quick commerce",
   "description": "Flipkart's quick-commerce arm; hired Dibyendu Sen for brand partnerships.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "safari": {
   "name": "Safari",
@@ -1327,7 +1327,7 @@
   "sector": "Automotive",
   "description": "Two-wheeler maker; at the centre of an ownership dispute in Venu Srinivasan's family branch.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-10-27"
  },
  "tvsholdings": {
   "name": "TVS Holdings",
@@ -1348,7 +1348,7 @@
   "sector": "Consumer electronics",
   "description": "iPhone and MacBook maker; discounts on MacBook Neo offered during Flipkart's sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "icicibank": {
   "name": "ICICI Bank",
@@ -1873,7 +1873,7 @@
   "sector": "Stock broking",
   "description": "Broking platform that recorded the fastest month-on-month client growth among top 20 brokers.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "pbfintech": {
   "name": "PB Fintech",
@@ -2972,7 +2972,7 @@
   "sector": "Banking",
   "description": "State Bank of India; bought ITC shares in the block deal where GQG sold its stake.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-27"
  },
  "aramco": {
   "name": "Aramco",
@@ -3532,7 +3532,7 @@
   "sector": "Mobility",
   "description": "Ride-hailing and mobility company; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-27"
  },
  "xai": {
   "name": "xAI",
@@ -4169,7 +4169,7 @@
   "sector": "AI",
   "description": "OpenAI's model used by Higgsfield AI to generate instructional videos over 10 minutes.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-10-27"
  },
  "gptimage25": {
   "name": "GPT-Image-2.5",
@@ -4183,7 +4183,7 @@
   "sector": "AI coding",
   "description": "OpenAI's coding tool used by Higgsfield creatives to turn ideas into software prototypes.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-27"
  },
  "brix": {
   "name": "BriX",
@@ -4337,7 +4337,7 @@
   "sector": "Media",
   "description": "Reported AI is breaking law firms' billable-hour model and junior training pipeline.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "axios": {
   "name": "Axios",
@@ -4365,7 +4365,7 @@
   "sector": "Media",
   "description": "Reported the UAE became the first country to make AI a required K-12 subject.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-27"
  },
  "financialtimes": {
   "name": "Financial Times",
@@ -4379,28 +4379,28 @@
   "sector": "Media",
   "description": "Indian newspaper carrying the editorials, international and business coverage in this digest.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "entrackr": {
   "name": "Entrackr",
   "sector": "Media",
   "description": "Indian startup news outlet that publishes a weekly funding report.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "openclawnewsletter": {
   "name": "Open Claw Newsletter",
   "sector": "Media",
   "description": "Newsletter covering AI industry news and commentary.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-27"
  },
  "dynamicwatchlist": {
   "name": "Dynamic Watchlist",
   "sector": "Finance",
   "description": "Market watchlist source providing top gainers and losers headlines and summaries.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-27"
  },
  "moneycontrol": {
   "name": "Moneycontrol",
@@ -4421,28 +4421,28 @@
   "sector": "Broking",
   "description": "Brokerage publishing Q2 results previews for HDB Financial and others.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-27"
  },
  "hdfcsky": {
   "name": "HDFC Sky",
   "sector": "Broking",
   "description": "Brokerage publishing trending stocks coverage for October 14, 2026.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "tradingview": {
   "name": "TradingView",
   "sector": "Financial data",
   "description": "Charting and market news platform carrying several of today's stock stories.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "yahoofinance": {
   "name": "Yahoo Finance",
   "sector": "Financial data",
   "description": "Market data site carrying coverage of Transformers & Rectifiers India's gain.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "kitco": {
   "name": "Kitco",
@@ -4456,7 +4456,7 @@
   "sector": "Precious metals",
   "description": "Gold trading platform reporting on gold ETF inflows and US holdings.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-27"
  },
  "thedailyupside": {
   "name": "The Daily Upside",
@@ -4512,7 +4512,7 @@
   "sector": "Media",
   "description": "Mobile news site covering Samsung Galaxy S25 FE pricing on Flipkart.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-27"
  },
  "hrkatha": {
   "name": "HRKatha",
@@ -4526,7 +4526,7 @@
   "sector": "Media",
   "description": "Media news site reporting Suvigya Awasthi's move to Bistro by Blinkit.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-27"
  },
  "adhocnews": {
   "name": "Ad-hoc-news",
@@ -4561,28 +4561,28 @@
   "sector": "Media",
   "description": "Indian business newspaper covering IDBI Bank's share surge and Q2 results.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "economictimes": {
   "name": "Economic Times",
   "sector": "Media",
   "description": "Indian business newspaper carrying the morning dispatch and Info Edge coverage.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "businesstoday": {
   "name": "Business Today",
   "sector": "Media",
   "description": "Indian business magazine covering Vedanta Power and demerged stocks.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "linkedin": {
   "name": "LinkedIn",
   "sector": "Social media",
   "description": "Professional network where CNBC TV18 posted about Aegis Logistics' gain.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-27"
  },
  "scanx": {
   "name": "ScanX",
@@ -5205,7 +5205,7 @@
   "sector": "Venture capital",
   "description": "Global venture capital firm in talks to invest in Skyroot Aerospace.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-27"
  },
  "benchmark": {
   "name": "Benchmark",
@@ -5520,7 +5520,7 @@
   "sector": "Food regulator",
   "description": "State food and drug authority that seized stock and filed an FIR naming Blinkit and Zomato Hyperpure.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-27"
  },
  "zomatohyperpure": {
   "name": "Zomato Hyperpure",
@@ -6171,7 +6171,7 @@
   "sector": "News",
   "description": "News source covering OpenAI, Anthropic and other AI company updates.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-27"
  },
  "farmserviceagency": {
   "name": "Farm Service Agency",
@@ -6248,14 +6248,14 @@
   "sector": "Markets",
   "description": "Indian benchmark index that fell 876.37 points to 73,852.90.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "nifty": {
   "name": "Nifty",
   "sector": "Markets",
   "description": "Indian benchmark index that dropped 257.20 points to 22,888.95.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "bsecapitalgoodsindex": {
   "name": "BSE Capital Goods Index",
@@ -6269,14 +6269,14 @@
   "sector": "Commodities",
   "description": "Oil benchmark at $107.79 a barrel, down 1.88%, a key risk to the rupee.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "rupee": {
   "name": "Rupee",
   "sector": "Currency",
   "description": "Indian currency that closed 3 paise lower at 94.92 against the US dollar.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-27"
  },
  "usdollar": {
   "name": "US dollar",
@@ -6479,14 +6479,14 @@
   "sector": "AI",
   "description": "Meta's AI agent that generates explicit text in private chats with adult users.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-27"
  },
  "gpt61sol": {
   "name": "GPT-6.1 Sol",
   "sector": "AI",
   "description": "OpenAI model reaching 86.6% accuracy on the COBOL migration evaluation at low reasoning effort.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-27"
  },
  "gpt56sol": {
   "name": "GPT-5.6 Sol",
@@ -6528,7 +6528,7 @@
   "sector": "Software",
   "description": "Code hosting platform where OpenAI released the MultiLangBench evaluation setup and test suite.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-27"
  },
  "chatgptenterprise": {
   "name": "ChatGPT Enterprise",
@@ -6780,7 +6780,7 @@
   "sector": "Electric vehicles",
   "description": "Electric vehicle and energy company; earnings to test Musk's AI spending ambitions amid SpaceX merger talk.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-10-27"
  },
  "tataconsultancyservices": {
   "name": "Tata Consultancy Services",
@@ -7130,7 +7130,7 @@
   "sector": "AI",
   "description": "OpenAI's AI assistant; its Work version is used by a restaurant franchisee.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-27"
  },
  "himadri": {
   "name": "Himadri",
@@ -7487,7 +7487,7 @@
   "sector": "Media",
   "description": "Indian newspaper.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "openthemagazine": {
   "name": "OpenTheMagazine",
@@ -7522,14 +7522,14 @@
   "sector": "Ratings",
   "description": "Credit ratings and research agency.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-27"
  },
  "sec": {
   "name": "SEC",
   "sector": "Regulator",
   "description": "US Securities and Exchange Commission.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-27"
  },
  "netflix": {
   "name": "Netflix",
@@ -7823,7 +7823,7 @@
   "sector": "Newsletter",
   "description": "Economic Times newsletter covering Indian tech and business news.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-27"
  },
  "constructionworld": {
   "name": "Construction World",
@@ -7837,7 +7837,7 @@
   "sector": "News",
   "description": "UK public broadcaster covering business and international news.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "billionairesafrica": {
   "name": "Billionaires Africa",
@@ -7928,7 +7928,7 @@
   "sector": "Enterprise software",
   "description": "Database and cloud firm partnering with M42 and AstraZeneca on AI health infrastructure.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-27"
  },
  "m42": {
   "name": "M42",
@@ -8474,7 +8474,7 @@
   "sector": "Judiciary",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-27"
  },
  "un": {
   "name": "UN",
@@ -8635,7 +8635,7 @@
   "sector": "Politics",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-10-27"
  },
  "elonmusk": {
   "name": "Elon Musk",
@@ -9286,7 +9286,7 @@
   "sector": "Media",
   "description": "Horror filmmakers who made a three-part miniseries for Flipkart Minutes with McCann India.",
   "first_added": "2026-10-24",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "mccannindia": {
   "name": "McCann India",
@@ -9713,14 +9713,14 @@
   "sector": "News outlet",
   "description": "Published an interview with the Pegasus spyware founder.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "simplywallst": {
   "name": "Simply Wall St",
   "sector": "Research",
   "description": "Investment research site covering Go Digit's share fall.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "campaignbriefasia": {
   "name": "Campaign Brief Asia",
@@ -9748,7 +9748,7 @@
   "sector": "News outlet",
   "description": "Newspaper covering whether gold will hit $5,000.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "fxempire": {
   "name": "FXEmpire",
@@ -10069,6 +10069,839 @@
   "name": "Bharat InvITs",
   "sector": "Financial services",
   "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "verseinnovation": {
+  "name": "VerSe Innovation",
+  "sector": "Media",
+  "description": "Parent of Dailyhunt and Josh; valuation fell nearly 90% to $576 million.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "protecttai": {
+  "name": "Protectt.ai",
+  "sector": "Cybersecurity",
+  "description": "Cybersecurity startup that took a majority stake in AIShield to secure enterprise AI.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "aishield": {
+  "name": "AIShield",
+  "sector": "Cybersecurity",
+  "description": "AI security platform incubated at Bosch Global Software Technologies; majority bought by Protectt.ai.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "matiks": {
+  "name": "Matiks",
+  "sector": "Gaming",
+  "description": "Social gaming platform that raised $10 million led by General Catalyst.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "hfsresearch": {
+  "name": "HFS Research",
+  "sector": "Research",
+  "description": "Technology research firm whose analyst commented on Oracle's headcount decline.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "bailliegifford": {
+  "name": "Baillie Gifford",
+  "sector": "Asset management",
+  "description": "UK asset manager that marked down its holding in VerSe Innovation.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "valueleaf": {
+  "name": "Valueleaf",
+  "sector": "Adtech",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "dailyhunt": {
+  "name": "Dailyhunt",
+  "sector": "Media",
+  "description": "Indian news and content app owned by VerSe Innovation; hurt by the gaming ban.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "tango": {
+  "name": "Tango",
+  "sector": "Social media",
+  "description": "Livestreaming platform whose tie-up with VerSe ended, ending that revenue.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "loreal": {
+  "name": "L'Oreal",
+  "sector": "Beauty",
+  "description": "French cosmetics giant; CEO said GLP-1 weight loss drugs affect beauty sales.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "toyota": {
+  "name": "Toyota",
+  "sector": "Automobiles",
+  "description": "Japanese automaker competing with Tesla and Chinese firms in humanoid robots.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "coalitionforlanguageequityinairesearch": {
+  "name": "Coalition for Language Equity in AI Research",
+  "sector": "Research",
+  "description": "Research group that studied tokenizer costs across languages in AI models.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "boschglobalsoftwaretechnologies": {
+  "name": "Bosch Global Software Technologies",
+  "sector": "IT services",
+  "description": "Bosch's software arm; incubated the AIShield AI security platform.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "legeropinion": {
+  "name": "Leger Opinion",
+  "sector": "Research",
+  "description": "Market research panel firm that surveyed leaders for Redwood Software's report.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "argoworkflows": {
+  "name": "Argo Workflows",
+  "sector": "Software",
+  "description": "Open source workflow engine used in Rescale's CI/CD pipeline.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "shopthelook": {
+  "name": "Shop the Look",
+  "sector": "E-commerce",
+  "description": "Fanatics' OpenAI-powered tool recommending coordinated game-day merchandise.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "agentprofiles": {
+  "name": "Agent Profiles",
+  "sector": "Retail",
+  "description": "Walmart feature letting customers authorize AI agents to shop on their behalf.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "walmartagentgateway": {
+  "name": "Walmart Agent Gateway",
+  "sector": "Retail",
+  "description": "Walmart's beta gateway giving AI agents a faster way to shop its site.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "grokbot": {
+  "name": "Grok Bot",
+  "sector": "AI",
+  "description": "xAI's shopping bot placing agentic orders detected by Forter.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "php": {
+  "name": "PHP",
+  "sector": "Software",
+  "description": "Open source programming language whose flaws triggered a global security response.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "aidlc": {
+  "name": "AI-DLC",
+  "sector": "Software",
+  "description": "Open source AI-Driven Development Lifecycle framework used by Rescale.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "amazonbedrock": {
+  "name": "Amazon Bedrock",
+  "sector": "Cloud computing",
+  "description": "AWS service hosting Claude Opus 4.8 for Rescale's triage agent.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "amazoneks": {
+  "name": "Amazon EKS",
+  "sector": "Cloud computing",
+  "description": "AWS Kubernetes service running Rescale's AI triage agent pipeline.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "modelcontextprotocol": {
+  "name": "Model Context Protocol",
+  "sector": "Software",
+  "description": "Protocol letting AI agents connect to tools and data sources.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "lean": {
+  "name": "Lean",
+  "sector": "Software",
+  "description": "Proof assistant used to formalize OpenAI's math and computer science results.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "onet": {
+  "name": "O*NET",
+  "sector": "Research",
+  "description": "US framework of occupation tasks used to classify ChatGPT work messages.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "signals": {
+  "name": "Signals",
+  "sector": "AI",
+  "description": "OpenAI data product covering how consumers use ChatGPT for work.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "intermediateworkactivities": {
+  "name": "Intermediate Work Activities",
+  "sector": "Research",
+  "description": "Task categories from O*NET used to map ChatGPT work messages.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "spdrgoldshares": {
+  "name": "SPDR Gold Shares",
+  "sector": "Asset management",
+  "description": "Gold-backed ETF whose holdings fell 1.64% last week.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "comex": {
+  "name": "Comex",
+  "sector": "Commodities",
+  "description": "Commodity exchange where gold futures speculative net longs fell for an eighth week.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "federalreserve": {
+  "name": "Federal Reserve",
+  "sector": "Central bank",
+  "description": "US central bank whose meeting and rate expectations moved markets.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "fomc": {
+  "name": "FOMC",
+  "sector": "Central bank",
+  "description": "Fed committee setting US interest rates; markets price low hike odds.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "liberalparty": {
+  "name": "Liberal Party",
+  "sector": "Politics",
+  "description": "Brazil's right-wing party of Jair Bolsonaro; accepted Lula's runoff win.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "justicedepartment": {
+  "name": "Justice Department",
+  "sector": "Government",
+  "description": "US department that subpoenaed voter information from Washington state.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "nasdaq": {
+  "name": "Nasdaq",
+  "sector": "Financial markets",
+  "description": "US exchange where Anthropic plans to list under ticker ANT.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "defenceacquisitioncouncil": {
+  "name": "Defence Acquisition Council",
+  "sector": "Government",
+  "description": "Indian body that cleared procurement proposals worth about Rs 2,12,000 crore.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "shakti": {
+  "name": "Shakti",
+  "sector": "Defence aerospace",
+  "description": "Aero engine built at HAL Koraput, where a second line is being added.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "aravalli": {
+  "name": "Aravalli",
+  "sector": "Defence aerospace",
+  "description": "3,500 to 4,000 shp helicopter engine contracted between HAL and SAFHAL.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "addipavecr36": {
+  "name": "Addipave CR 36",
+  "sector": "Specialty chemicals",
+  "description": "LANXESS asphalt additive being trialled with Hindustan Colas in India.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "addipavewm23": {
+  "name": "Addipave WM 23",
+  "sector": "Specialty chemicals",
+  "description": "LANXESS asphalt additive being trialled with Hindustan Colas in India.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "bayon": {
+  "name": "Bayon",
+  "sector": "Automobiles",
+  "description": "Hyundai's new compact mid-size SUV launched in India from Rs 9,99,900.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "internationalparcelconnect": {
+  "name": "International Parcel Connect",
+  "sector": "Logistics",
+  "description": "Blue Dart's B2C cross-border parcel service, starting India to the US.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "flipkartforearth": {
+  "name": "Flipkart for Earth",
+  "sector": "E-commerce",
+  "description": "Flipkart's proposed offering for healthier, toxin-free and sustainable products.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "district": {
+  "name": "District",
+  "sector": "Consumer internet",
+  "description": "Zomato's going-out and dining business; faces medium-to-high risk from AI shopping agents.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "deepindergoyal": {
+  "name": "Deepinder Goyal",
+  "sector": "Consumer internet",
+  "description": "Zomato founder and CEO who commented on AI shopping agent risk.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "iphone17": {
+  "name": "iPhone 17",
+  "sector": "Consumer electronics",
+  "description": "Apple smartphone discounted in Flipkart's Big Bang Diwali Sale 2026.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "samsunggalaxys25fe": {
+  "name": "Samsung Galaxy S25 FE",
+  "sector": "Consumer electronics",
+  "description": "Samsung smartphone discounted in Flipkart's Big Bang Diwali Sale 2026.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "willywoo": {
+  "name": "Willy Woo",
+  "sector": "Crypto",
+  "description": "Crypto analyst whose Monte Carlo simulation projected bitcoin's long-term path.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "stealmybitcoin": {
+  "name": "Steal My Bitcoin",
+  "sector": "Crypto",
+  "description": "Security challenge server breached by a researcher for a bitcoin prize.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "php2shell": {
+  "name": "PHP2Shell",
+  "sector": "Software",
+  "description": "Vulnerability class exploited in the Steal My Bitcoin server challenge.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "kakeyaconjecture": {
+  "name": "Kakeya conjecture",
+  "sector": "Research",
+  "description": "Math problem resolved by OpenAI's AI-produced proof released publicly.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "steinrestrictionconjecture": {
+  "name": "Stein restriction conjecture",
+  "sector": "Research",
+  "description": "Math conjecture resolved alongside the Kakeya result by OpenAI's AI output.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "exponentialtimehypothesis": {
+  "name": "Exponential Time Hypothesis",
+  "sector": "Research",
+  "description": "Computer science conjecture refuted by OpenAI's AI-produced result.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "tedtaylor": {
+  "name": "Ted Taylor",
+  "sector": "Restaurants",
+  "description": "Restaurant owner using an AI agent to speed up menu pricing analysis.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "dakshgupta": {
+  "name": "Daksh Gupta",
+  "sector": "AI",
+  "description": "Greptile co-founder and CEO who described its AI testing capabilities.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "achyutaghosh": {
+  "name": "Achyuta Ghosh",
+  "sector": "Research",
+  "description": "HFS Research analyst who commented on Oracle's headcount decline.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "tarunkapoor": {
+  "name": "Tarun Kapoor",
+  "sector": "Government",
+  "description": "Official who said the government is working on ethanol blending beyond E20.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "anilmithas": {
+  "name": "Anil Mithas",
+  "sector": "Real estate",
+  "description": "Promoter of Unnati Fortune Holdings seeking bail in a money laundering case.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "donaldtusk": {
+  "name": "Donald Tusk",
+  "sector": "Government",
+  "description": "Polish Prime Minister who visited India to renew cooperation.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "narendramodi": {
+  "name": "Narendra Modi",
+  "sector": "Government",
+  "description": "Indian Prime Minister ahead of a Brussels trip to sign the India-EU FTA.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "luizincioluladasilva": {
+  "name": "Luiz Inácio Lula da Silva",
+  "sector": "Politics",
+  "description": "Brazil's president-elect who won the runoff with 51.7% of the vote.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "flviobolsonaro": {
+  "name": "Flávio Bolsonaro",
+  "sector": "Politics",
+  "description": "Brazilian senator who lost the presidential runoff and refused to concede.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "jairbolsonaro": {
+  "name": "Jair Bolsonaro",
+  "sector": "Politics",
+  "description": "Former Brazilian president and close Trump ally.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "washingtonsecretaryofstate": {
+  "name": "Washington Secretary of State",
+  "sector": "Government",
+  "description": "State office that received about 60 Justice Department subpoenas for voter data.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "medicalassessmentandratingboard": {
+  "name": "Medical Assessment and Rating Board",
+  "sector": "Regulator",
+  "description": "NMC body that can still fine errant medical institutions up to Rs 1 crore.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "allahabadhighcourt": {
+  "name": "Allahabad High Court",
+  "sector": "Judiciary",
+  "description": "Court that rejected Anil Mithas's bail on September 16.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "tamilnadugenerationanddistribution": {
+  "name": "Tamil Nadu Generation and Distribution Corporation",
+  "sector": "Utilities",
+  "description": "State power distribution corporation asked to add dedicated lines in Coimbatore.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "indiaeufreetradeagreement": {
+  "name": "India-EU Free Trade Agreement",
+  "sector": "Trade",
+  "description": "Trade pact Modi is due to sign in Brussels, per today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "defenceindustrydialogue": {
+  "name": "Defence Industry Dialogue",
+  "sector": "Defence",
+  "description": "India-Poland forum agreed to boost defence industry cooperation.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "coalitionforlanguageequityinai": {
+  "name": "Coalition for Language Equity in AI",
+  "sector": "Research",
+  "description": "Research group behind the study on tokenizer costs for non-English languages.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "aibiosecuritylab": {
+  "name": "AI Biosecurity Lab",
+  "sector": "Government",
+  "description": "UK lab to be funded with £100m, unveiled in the Budget.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "leger": {
+  "name": "Leger",
+  "sector": "Research",
+  "description": "Opinion panel firm that surveyed leaders for Redwood Software's report.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "argo": {
+  "name": "Argo",
+  "sector": "Software",
+  "description": "Workflow engine used in Rescale's CI/CD pipeline for its triage agent.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "kubernetes": {
+  "name": "Kubernetes",
+  "sector": "Software",
+  "description": "Container orchestration system underlying Amazon EKS.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "bosch": {
+  "name": "Bosch",
+  "sector": "Technology",
+  "description": "German engineering group whose software arm incubated AIShield.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "generalcatalystpartners": {
+  "name": "General Catalyst Partners",
+  "sector": "Venture capital",
+  "description": "US venture firm that led Matiks' $10 million round.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "one97communications": {
+  "name": "One 97 Communications",
+  "sector": "Fintech",
+  "description": "Listed parent of Paytm; Q2 net profit rose to Rs 225 crore.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "dailyhuntparentverse": {
+  "name": "Dailyhunt parent VerSe",
+  "sector": "Media",
+  "description": "VerSe Innovation, parent of Dailyhunt and Josh, saw its valuation plunge.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "josh": {
+  "name": "Josh",
+  "sector": "Media",
+  "description": "Short video app owned by VerSe Innovation.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "tangotieup": {
+  "name": "Tango tie-up",
+  "sector": "Social media",
+  "description": "Livestreaming partnership whose end removed a VerSe revenue line.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "valueleafservices": {
+  "name": "Valueleaf Services",
+  "sector": "Adtech",
+  "description": "VerSe unit whose growth slowed, per today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "hfs": {
+  "name": "HFS",
+  "sector": "Research",
+  "description": "Research firm whose analyst tracked Oracle's headcount decline.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "oracleindia": {
+  "name": "Oracle India",
+  "sector": "Enterprise software",
+  "description": "Oracle's India operations, which may get the voluntary separation programme.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "protectt": {
+  "name": "Protectt",
+  "sector": "Cybersecurity",
+  "description": "Cybersecurity startup that bought a majority stake in AIShield.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "matiksai": {
+  "name": "Matiks AI",
+  "sector": "Gaming",
+  "description": "Matiks' planned AI-powered game creation platform for brain games.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "ather": {
+  "name": "Ather",
+  "sector": "Electric vehicles",
+  "description": "Indian electric scooter maker that posted its first quarterly profit.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "mrpl": {
+  "name": "MRPL",
+  "sector": "Oil refining",
+  "description": "ONGC subsidiary running a 15 million tonne refinery at Mangalore.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "fivestar": {
+  "name": "Five Star",
+  "sector": "NBFC",
+  "description": "Indian non-bank lender giving secured business loans to micro-entrepreneurs.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "aubank": {
+  "name": "AU Bank",
+  "sector": "Banking",
+  "description": "AU Small Finance Bank, India's largest listed small finance bank.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "ujjivansmallfinancebank": {
+  "name": "Ujjivan Small Finance Bank",
+  "sector": "Banking",
+  "description": "Indian small finance bank serving underserved borrowers.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "equitassmallfinancebank": {
+  "name": "Equitas Small Finance Bank",
+  "sector": "Banking",
+  "description": "Indian small finance bank focused on underserved customers.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "janasmallfinancebank": {
+  "name": "Jana Small Finance Bank",
+  "sector": "Banking",
+  "description": "Indian small finance bank; peer comparison in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "utkarshsmallfinancebank": {
+  "name": "Utkarsh Small Finance Bank",
+  "sector": "Banking",
+  "description": "Indian small finance bank; peer comparison in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "tvs": {
+  "name": "TVS",
+  "sector": "Automobiles",
+  "description": "Indian two- and three-wheeler maker; peer comparison in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "royalenfield": {
+  "name": "Royal Enfield",
+  "sector": "Automobiles",
+  "description": "Eicher Motors' motorcycle brand; peer comparison in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "bajaj": {
+  "name": "Bajaj",
+  "sector": "Automobiles",
+  "description": "Indian two- and three-wheeler maker; peer comparison in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "hero": {
+  "name": "Hero",
+  "sector": "Automobiles",
+  "description": "Indian two-wheeler maker; peer comparison in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "screenerin": {
+  "name": "Screener.in",
+  "sector": "Financial data",
+  "description": "Indian stock research platform cited for company financial data.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "cruxinvestor": {
+  "name": "Crux Investor",
+  "sector": "Media",
+  "description": "Mining investment news site cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "tomshardware": {
+  "name": "Tom's Hardware",
+  "sector": "Media",
+  "description": "Technology news site cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "cybernews": {
+  "name": "Cybernews",
+  "sector": "Media",
+  "description": "Cybersecurity news site cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "openaiblog": {
+  "name": "OpenAI Blog",
+  "sector": "Media",
+  "description": "OpenAI's news site cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "awsmachinelearningblog": {
+  "name": "AWS Machine Learning Blog",
+  "sector": "Media",
+  "description": "Amazon's machine learning blog cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "walmartcorporate": {
+  "name": "Walmart Corporate",
+  "sector": "Retail",
+  "description": "Walmart's newsroom, source for its AI agent shopping announcement.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "forterblog": {
+  "name": "Forter Blog",
+  "sector": "Fraud prevention",
+  "description": "Forter's blog, source for agentic order data.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "redwood": {
+  "name": "Redwood",
+  "sector": "Enterprise software",
+  "description": "Redwood Software, publisher of the agentic orchestration benchmarks report.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "medianama": {
+  "name": "Medianama",
+  "sector": "Media",
+  "description": "Indian digital policy news site cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "lbbonline": {
+  "name": "LBBOnline",
+  "sector": "Media",
+  "description": "Advertising and marketing news site cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "afaqs": {
+  "name": "Afaqs",
+  "sector": "Media",
+  "description": "Indian marketing news site cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "the420": {
+  "name": "The420",
+  "sector": "Media",
+  "description": "Indian cybersecurity news site cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "urbanacres": {
+  "name": "Urbanacres",
+  "sector": "Media",
+  "description": "Indian real estate news site cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "briefs": {
+  "name": "Briefs.co",
+  "sector": "Media",
+  "description": "News site cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "tribuneindia": {
+  "name": "Tribune India",
+  "sector": "Media",
+  "description": "Indian newspaper cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "indiaipo": {
+  "name": "IndiaIPO",
+  "sector": "Media",
+  "description": "Indian IPO news site cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "watchlist": {
+  "name": "Watchlist",
+  "sector": "Financial data",
+  "description": "Headlines and summary source cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "entrackrweeklyfundingreport": {
+  "name": "Entrackr Weekly Funding Report",
+  "sector": "Media",
+  "description": "Weekly Indian startup funding report cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "thehindubusiness": {
+  "name": "The Hindu Business",
+  "sector": "Media",
+  "description": "Business section of The Hindu cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "thehinduinternational": {
+  "name": "The Hindu International",
+  "sector": "Media",
+  "description": "International section of The Hindu cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "thehindueditorials": {
+  "name": "The Hindu Editorials",
+  "sector": "Media",
+  "description": "Editorial section of The Hindu cited in today's digest.",
   "first_added": "2026-10-27",
   "last_mentioned": "2026-10-27"
  }
