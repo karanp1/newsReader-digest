@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-27"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -1362,7 +1362,7 @@
   "sector": "Banking",
   "description": "Private bank; offered debit card discounts on MacBook Neo during Flipkart sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-27"
  },
  "inoxwind": {
   "name": "Inox Wind",
@@ -3336,7 +3336,7 @@
   "sector": "Automotive",
   "description": "Automaker; deepened partnership with Stellantis to develop global vehicles in India.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-10-27"
  },
  "stellantis": {
   "name": "Stellantis",
@@ -3623,7 +3623,7 @@
   "sector": "Oil and gas logistics",
   "description": "Runs bulk liquid terminals, LPG import terminals and pipelines in India.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-27"
  },
  "rrkabel": {
   "name": "R R Kabel",
@@ -5093,7 +5093,7 @@
   "sector": "Retail",
   "description": "Indian supermarket chain operated by Avenue Supermarts.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-27"
  },
  "indianairforce": {
   "name": "Indian Air Force",
@@ -9160,7 +9160,7 @@
   "sector": "Commercial vehicles",
   "description": "European maker of trucks, buses and commercial vehicles.",
   "first_added": "2026-10-24",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-10-27"
  },
  "instamart": {
   "name": "Instamart",
@@ -10902,6 +10902,41 @@
   "name": "The Hindu Editorials",
   "sector": "Media",
   "description": "Editorial section of The Hindu cited in today's digest.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "vatechwabag": {
+  "name": "VA Tech Wabag",
+  "sector": "Water treatment",
+  "description": "Water and wastewater treatment engineering firm; won a Rs 1,000 crore desalination plant order from Reliance in Jamnagar.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "onesourcespecialtypharma": {
+  "name": "OneSource Specialty Pharma",
+  "sector": "Pharmaceuticals",
+  "description": "Indian biologics and injectables maker with CDMO services; shares rose 12.56% on strong Q2 results.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "dalmiabharat": {
+  "name": "Dalmia Bharat",
+  "sector": "Cement",
+  "description": "India's fourth-largest cement maker; posted a September-quarter net loss of Rs 208 crore including impairments.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "dongpeng": {
+  "name": "Dongpeng",
+  "sector": "Consumer goods",
+  "description": "Chinese beverage brand; ended cooperation with footballer Kylian Mbappe over a video controversy.",
+  "first_added": "2026-10-27",
+  "last_mentioned": "2026-10-27"
+ },
+ "mengniu": {
+  "name": "Mengniu",
+  "sector": "Dairy",
+  "description": "Chinese dairy company; ended cooperation with Kylian Mbappe over a video controversy.",
   "first_added": "2026-10-27",
   "last_mentioned": "2026-10-27"
  }
