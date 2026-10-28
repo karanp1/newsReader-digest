@@ -53,7 +53,7 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "google": {
   "name": "Google",
@@ -67,7 +67,7 @@
   "sector": "Electric vehicles",
   "description": "Manufacturer of electric scooters and two-wheelers in India; raised Rs 1,000 crore via rights issue.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "razorpay": {
   "name": "Razorpay",
@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -158,7 +158,7 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
@@ -186,7 +186,7 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "walmart": {
   "name": "Walmart",
@@ -242,7 +242,7 @@
   "sector": "Oil refining",
   "description": "State-owned Bharat Petroleum refining and marketing fuels across India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "hpcl": {
   "name": "HPCL",
@@ -347,7 +347,7 @@
   "sector": "Mining",
   "description": "State-owned coal mining company; joint venture partner in the Chandrapura thermal project.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-28"
  },
  "geaerospace": {
   "name": "GE Aerospace",
@@ -606,7 +606,7 @@
   "sector": "Fintech",
   "description": "Digital payments firm; RBI removed its associate Paytm Payments Bank from scheduled banks list.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "seruminstituteofindia": {
   "name": "Serum Institute of India",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -956,7 +956,7 @@
   "sector": "Conglomerate",
   "description": "Mukesh Ambani-led conglomerate; its satellite arm already holds India authorisation.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "oneweb": {
   "name": "OneWeb",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1222,7 +1222,7 @@
   "sector": "IT services",
   "description": "IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-28"
  },
  "infosys": {
   "name": "Infosys",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "accenture": {
   "name": "Accenture",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3623,7 +3623,7 @@
   "sector": "Oil and gas logistics",
   "description": "Runs bulk liquid terminals, LPG import terminals and pipelines in India.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "rrkabel": {
   "name": "R R Kabel",
@@ -3644,7 +3644,7 @@
   "sector": "AI",
   "description": "Builds Indian-language AI models for government, banks and insurers; raising at $3 billion.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-10-28"
  },
  "indigoventures": {
   "name": "IndiGo Ventures",
@@ -3728,7 +3728,7 @@
   "sector": "AI research",
   "description": "Google's AI research unit; builds the Gemma and Gemini model families and on-device scam detection tools.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-10-28"
  },
  "palantir": {
   "name": "Palantir",
@@ -3777,7 +3777,7 @@
   "sector": "Power",
   "description": "Indian power utility with over 26 GW capacity; signed an energy transition research MoU with Imperial College London.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-28"
  },
  "ibmindia": {
   "name": "IBM India",
@@ -5121,14 +5121,14 @@
   "sector": "Crypto",
   "description": "Leading cryptocurrency that fell to $82,000 after higher-than-expected CPI.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "gold": {
   "name": "Gold",
   "sector": "Commodities",
   "description": "Precious metal trading near $4,100 with record ETF holdings.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "yaraj": {
   "name": "Yara J",
@@ -6528,7 +6528,7 @@
   "sector": "Software",
   "description": "Code hosting platform where OpenAI released the MultiLangBench evaluation setup and test suite.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "chatgptenterprise": {
   "name": "ChatGPT Enterprise",
@@ -7928,7 +7928,7 @@
   "sector": "Enterprise software",
   "description": "Database and cloud firm partnering with M42 and AstraZeneca on AI health infrastructure.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "m42": {
   "name": "M42",
@@ -9979,7 +9979,7 @@
   "sector": "Electric vehicles",
   "description": "Indian electric scooter maker that posted its first quarterly net profit in September 2026.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "bajajauto": {
   "name": "Bajaj Auto",
@@ -10917,7 +10917,7 @@
   "sector": "Pharmaceuticals",
   "description": "Indian biologics and injectables maker with CDMO services; shares rose 12.56% on strong Q2 results.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-28"
  },
  "dalmiabharat": {
   "name": "Dalmia Bharat",
@@ -10974,5 +10974,110 @@
   "description": "Makes pharmaceutical intermediates, APIs and agrochemicals; Q2 revenue rose 42.7%.",
   "first_added": "2026-10-27",
   "last_mentioned": "2026-10-27"
+ },
+ "retellai": {
+  "name": "Retell AI",
+  "sector": "AI",
+  "description": "Voice AI startup using OpenAI models to power over 100 million monthly calls for 4,000 businesses.",
+  "first_added": "2026-10-28",
+  "last_mentioned": "2026-10-28"
+ },
+ "sktelecom": {
+  "name": "SK Telecom",
+  "sector": "Telecom",
+  "description": "South Korean telecom operator; published first AI governance report treating AI agents as labor.",
+  "first_added": "2026-10-28",
+  "last_mentioned": "2026-10-28"
+ },
+ "comcast": {
+  "name": "Comcast",
+  "sector": "Telecom",
+  "description": "US cable and media company; launched an agentic customer-service front end for bot interactions.",
+  "first_added": "2026-10-28",
+  "last_mentioned": "2026-10-28"
+ },
+ "unilever": {
+  "name": "Unilever",
+  "sector": "Consumer goods",
+  "description": "Global consumer goods company; launched NOVA, five AI agents built with Microsoft to process orders.",
+  "first_added": "2026-10-28",
+  "last_mentioned": "2026-10-28"
+ },
+ "bayercropscience": {
+  "name": "Bayer Crop Science",
+  "sector": "Agritech",
+  "description": "Bayer's agricultural unit; built an agentic decision engine on Amazon Bedrock AgentCore.",
+  "first_added": "2026-10-28",
+  "last_mentioned": "2026-10-28"
+ },
+ "chrobinson": {
+  "name": "C.H. Robinson",
+  "sector": "Logistics",
+  "description": "US freight forwarder; launched AI agents for ocean shipping, air freight and customs brokerage.",
+  "first_added": "2026-10-28",
+  "last_mentioned": "2026-10-28"
+ },
+ "lexingtonhealth": {
+  "name": "Lexington Health",
+  "sector": "Healthcare",
+  "description": "Healthcare provider; cut design and configuration effort 80% during Oracle Fusion Cloud deployment.",
+  "first_added": "2026-10-28",
+  "last_mentioned": "2026-10-28"
+ },
+ "lt": {
+  "name": "L&T",
+  "sector": "Engineering",
+  "description": "Indian engineering and construction major; Q2 profit rose 33% to Rs 5,202 crore.",
+  "first_added": "2026-10-28",
+  "last_mentioned": "2026-10-28"
+ },
+ "maruti": {
+  "name": "Maruti",
+  "sector": "Automotive",
+  "description": "India's largest carmaker; Q2 profit fell 27% on West Asia headwinds though sales rose 26.5%.",
+  "first_added": "2026-10-28",
+  "last_mentioned": "2026-10-28"
+ },
+ "amgreen": {
+  "name": "AM Green",
+  "sector": "Green energy",
+  "description": "Indian green hydrogen and ammonia producer; won a five-year green ammonia supply contract from JERA.",
+  "first_added": "2026-10-28",
+  "last_mentioned": "2026-10-28"
+ },
+ "jera": {
+  "name": "JERA",
+  "sector": "Power",
+  "description": "Japanese power utility generating about one-third of Japan's electricity; will buy green ammonia.",
+  "first_added": "2026-10-28",
+  "last_mentioned": "2026-10-28"
+ },
+ "wabtec": {
+  "name": "Wabtec",
+  "sector": "Rail equipment",
+  "description": "US rail equipment maker; won a $94 million order for Vande Bharat sleeper train systems.",
+  "first_added": "2026-10-28",
+  "last_mentioned": "2026-10-28"
+ },
+ "simplismart": {
+  "name": "Simplismart",
+  "sector": "AI",
+  "description": "Bengaluru AI firm; raised $14 million led by Dallas Venture Capital with Nvidia participating.",
+  "first_added": "2026-10-28",
+  "last_mentioned": "2026-10-28"
+ },
+ "cent": {
+  "name": "Cent",
+  "sector": "Healthcare",
+  "description": "Preventive healthcare startup cofounded by Practo's Shashank ND; raised $15 million.",
+  "first_added": "2026-10-28",
+  "last_mentioned": "2026-10-28"
+ },
+ "mahindramahindrafinancialservices": {
+  "name": "Mahindra & Mahindra Financial Services",
+  "sector": "NBFC",
+  "description": "Mahindra Group vehicle and tractor finance NBFC; shares fell 6.59% to a 52-week low.",
+  "first_added": "2026-10-28",
+  "last_mentioned": "2026-10-28"
  }
 }
