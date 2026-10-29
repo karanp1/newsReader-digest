@@ -2,9 +2,9 @@ DAILY NEWS DIGEST — 2026-10-29
 METRICS
 Nifty PE Ratio | 18.99 | 28 Oct 2026 | https://nifty-pe-ratio.com/
 Gold rate, Bengaluru (per 10 g) | 24K ₹1,43,950, 22K ₹1,31,950 | 29 Oct 2026 | https://groww.in/gold-rates/gold-rate-today-in-bangalore
-Nifty 50 | 22,883.25 (+1.25%) | 29 Oct 2026, 01:54 PM IST | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹76,24,418 (-1.2% 24h) | 29 Oct 2026 | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $79,944 (-1.4% 24h) | 29 Oct 2026 | https://coinmarketcap.com/currencies/bitcoin/
+Nifty 50 | 22,940.75 (+1.51%) | 29 Oct 2026, 03:26 PM IST | https://groww.in/indices/nifty
+Bitcoin (INR) | ₹76,28,222 (-1.5% 24h) | 29 Oct 2026 | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $80,085 (-1.6% 24h) | 29 Oct 2026 | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -12,12 +12,12 @@ SOURCE 6: Watchlist (headlines + summary)
 [Jio Platforms]
 
 - ~
-  29 Oct 2026 | https://finance.yahoo.com/markets/stocks/articles/jio-platforms-stock-puts-indian-043729484.html
-  • Jio Platforms listed at ₹1,358, a 21.36% premium to its ₹1,119 IPO price, and closed at ₹1,419, up 26.81%. ¶ • The ₹30,188-crore IPO was subscribed 22.19 times, drawing over ₹7.4 lakh crore in total demand and nearly 1.39 crore applications. ¶ • Jio's market capitalisation reached about ₹13.1 lakh crore, making it India's second-most valuable listed company and largest listed telecom operator. ¶ • Jio will use up to ₹275 billion of proceeds to repay debt at Reliance Jio Infocomm, which had total borrowings of ₹613.7 billion as of June 30. ¶ • For the fiscal year ended March 2026, Jio reported profit of ₹300.5 billion on revenue of ₹1.47 trillion, both up about 15%. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/stocks/articles/jio-platforms-stock-puts-indian-043729484.html ;; tradingview.com|https://www.tradingview.com/news/moodys:3e8e8dc7ff7c2:0-jio-platforms-shares-after-27-jump-on-ipo-listing-day-will-reliance-group-stock-rise-more-today/ ;; northeasttimes.com|https://northeasttimes.com/2026/10/28/jio-platforms-ends-first-trading-day-near-its-high-after-21-opening-jump/ ;; finance.yahoo.com|https://finance.yahoo.com/markets/stocks/articles/jio-platforms-goes-public-india-120358398.html
+  29 Oct 2026 | https://economictimes.indiatimes.com/markets/stocks/news/brokerages-bullish-on-jio-platforms-with-buy-and-accumulate/articleshow/135285530.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral
+  • Jio Platforms listed at ₹1,358, a 21.36% premium to its ₹1,119 IPO price, and closed its first day at ₹1,419, up 26.81%. ¶ • The ₹30,188-crore IPO was subscribed 22.19 times, with total demand from the offering and anchor placement exceeding ₹7.4 lakh crore. ¶ • The stock rose another 5% intraday on October 29 to ₹1,490, taking two-session gains to about 33% above the IPO price. ¶ • Jio Platforms became India's second-most valuable listed company at roughly ₹13.1 lakh crore, behind parent Reliance Industries at about ₹16.12 lakh crore. ¶ • Nomura, Motilal Oswal and Elara initiated coverage with Buy ratings and Dolat Capital with Accumulate, citing Jio's roughly 42% share of wireless subscribers. ¶ ↗ economictimes.indiatimes.com|https://economictimes.indiatimes.com/markets/stocks/news/brokerages-bullish-on-jio-platforms-with-buy-and-accumulate/articleshow/135285530.cms?UTM_Source=Google_Newsstand&UTM_Campaign=RSS_Feed&UTM_Medium=Referral ;; tradingview.com|https://www.tradingview.com/news/moodys:3e8e8dc7ff7c2:0-jio-platforms-shares-after-27-jump-on-ipo-listing-day-will-reliance-group-stock-rise-more-today/ ;; tradingview.com|https://www.tradingview.com/news/moodys:619c3e93351f4:0-reliance-jio-platforms-shares-after-26-68-ipo-debut-gains-jump-5-more-what-should-investors-do-buy-more-or-exit/ ;; finance.yahoo.com|https://finance.yahoo.com/markets/stocks/articles/jio-platforms-goes-public-india-120358398.html
 
 - Outlook: Bullish
   2026-10-29 |
-  §VIEW§{"stance": "bullish", "text": "The IPO's 22.19x subscription and 26.81% debut gain show strong demand, while FY26 profit and revenue both rose about 15%. Debt repayment of up to Rs 275 billion and Elara's Buy rating support the positive flow."}
+  §VIEW§{"stance": "bullish", "text": "The listing pop, 22.19x oversubscription and Buy ratings from Nomura, Motilal Oswal and Elara point to strong demand and expected tariff-led earnings growth. Risks are delays in tariff hikes and higher handset and equipment costs."}
 
 [Reliance Intelligence]
 
@@ -25,61 +25,53 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   29 Oct 2026 | https://www.nwaonline.com/news/2026/oct/29/indias-richest-family-marks-record-ipo/
-  • Jio Platforms listed at ₹1,358, a 21% premium to its ₹1,119 IPO price, and closed at ₹1,419, up 27%, giving it a market capitalisation of ₹13.1 lakh crore. ¶ • The $3.1 billion IPO was India's largest ever, subscribed over 22 times with nearly 1.3 crore investors, and made Jio India's second-most valuable company behind parent Reliance Industries. ¶ • Reliance Industries shares fell 2% on listing day to around ₹1,175-1,204, with its market capitalisation at ₹15.7 lakh crore. ¶ • Meta's 9.9% stake is worth about $10.5 billion and Google's 7.7% stake about $8.1 billion at the IPO price, up from their $5.7 billion and $4.5 billion investments in 2020. ¶ • Reliance's step-down subsidiary Hamleys (Franchising) Ltd faces a UK strike-off and dissolution after a voluntary application, with turnover of ₹56.08 crore in calendar 2025 and nil net worth. ¶ ↗ nwaonline.com|https://www.nwaonline.com/news/2026/oct/29/indias-richest-family-marks-record-ipo/ ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/on-debut-jio-2nd-most-valuable-company-behind-only-parent-reliance-industries/articleshow/135283604.cms ;; globalventuring.com|https://globalventuring.com/corporate/asia/jios-131bn-ipo-rewards-corporate-backers-meta-and-google/ ;; tradingview.com|https://www.tradingview.com/news/moodys:5d4de477ce67b:0-reliance-industries-shares-slip-2-amid-jio-platforms-ipo-listing-key-ril-targets-and-levels-to-watch/
+  • Jio Platforms raised $3.1 billion in India's largest-ever IPO, listed at ₹1,358 (21% premium) and closed up 27% at ₹1,419, giving it a market capitalisation of ₹13.1 lakh crore. ¶ • Jio became India's second-most valuable listed company behind parent Reliance Industries (₹15.7 lakh crore) and ahead of Bharti Airtel (₹12.2 lakh crore), lifting the RIL group to a combined ₹30.3 lakh crore market cap. ¶ • The stock added 5% on Thursday to an intraday high of ₹1,490, taking two-day gains to about 33% over the ₹1,119 IPO price. ¶ • Nomura and Motilal Oswal initiated coverage with Buy ratings and targets of ₹1,340 and ₹1,350, citing Jio's roughly 42% share of wireless subscribers and 60% of data traffic. ¶ • Reliance Industries shares rose 1.7% and Jio Platforms 3.5% as the Sensex gained 0.82% to 73,847, while Brent crude at $114 a barrel limited upside. ¶ ↗ nwaonline.com|https://www.nwaonline.com/news/2026/oct/29/indias-richest-family-marks-record-ipo/ ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/on-debut-jio-2nd-most-valuable-company-behind-only-parent-reliance-industries/articleshow/135283604.cms ;; tradingview.com|https://www.tradingview.com/news/moodys:619c3e93351f4:0-reliance-jio-platforms-shares-after-26-68-ipo-debut-gains-jump-5-more-what-should-investors-do-buy-more-or-exit/ ;; globalventuring.com|https://globalventuring.com/corporate/asia/jios-131bn-ipo-rewards-corporate-backers-meta-and-google/
 
 - Outlook: Bullish
   2026-10-29 |
-  §VIEW§{"stance": "bullish", "text": "Jio's record $3.1 billion IPO and 27% debut gain unlock fresh capital and value for Reliance, even as RIL shares slipped 2%. The tiny Hamleys strike-off is immaterial at 0.0048% of turnover."}
+  §VIEW§{"stance": "bullish", "text": "The record $3.1 billion IPO, a 27% debut and Buy initiations from Nomura and Motilal Oswal point to strong demand and leadership in wireless and data. High crude at $114 a barrel is the main restraint."}
 
 [Flipkart]
 
 - ~
   29 Oct 2026 | https://shattered.io/flipkart-big-bang-diwali-sale-2026-iphone-17-79999-sbi-10-percent-2026/
-  • Flipkart's Big Bang Diwali Sale 2026 began on 28 October 2026, with offers on smartphones, laptops, TVs and appliances, plus a 10% instant discount on eligible SBI cards. ¶ • The Samsung Galaxy S25 Ultra is available for an effective price of ₹37,753 for eligible buyers, after discount, exchange benefit and bank offer. ¶ • Apple's 15-inch MacBook Air M5 is listed at ₹1,33,990, a ₹15,910 discount on MRP, and can drop to ₹93,990 with an exchange of a MacBook Air M2 worth up to ₹40,000. ¶ • The iPhone 17 is priced at ₹79,999 in the sale, alongside the Samsung Galaxy S25 FE, Motorola Edge 70 Pro and Nothing Phone (4a). ¶ • A TCL 55-inch QLED Smart TV is on sale for ₹32,499, and premium laptops start from ₹59,999. ¶ ↗ shattered.io|https://shattered.io/flipkart-big-bang-diwali-sale-2026-iphone-17-79999-sbi-10-percent-2026/ ;; moneycontrol.com|https://www.moneycontrol.com/technology/samsung-galaxy-s25-ultra-gets-rs-37-323-deal-price-on-flipkart-exchange-offer-discount-and-more-article-14063160.html ;; mymobileindia.com|https://www.mymobileindia.com/macbook-air-m5-under-rs-1-lakh-on-flipkart-heres-how-to-get-it/ ;; moneycontrol.com|https://www.moneycontrol.com/technology/samsung-galaxy-s25-ultra-price-drops-to-lowest-on-flipkart-with-32-flat-discount-additional-exchange-and-bank-offer-available-article-14062611.html
+  • Flipkart's Big Bang Diwali Sale began on 28 October 2026, offering discounts on smartphones, laptops, TVs and appliances. ¶ • Samsung Galaxy S25 Ultra 256GB is listed at ₹88,195 after a 32% discount, with an effective price of ₹37,323 via exchange and bank offers. ¶ • Apple MacBook Air M5 15-inch is priced at ₹1,33,990, a ₹15,910 discount, and can drop to ₹93,990 with an exchange of a MacBook Air M2. ¶ • Flipkart launched a Diwali de Deals campaign with Leo India, featuring a real village named Diwali in Punjab and a digital treasure hunt. ¶ • Seven TWS earbuds, including Sony WF-1000XM5 and Nothing Ear (a), are highlighted as deals during the sale. ¶ ↗ shattered.io|https://shattered.io/flipkart-big-bang-diwali-sale-2026-iphone-17-79999-sbi-10-percent-2026/ ;; moneycontrol.com|https://www.moneycontrol.com/technology/samsung-galaxy-s25-ultra-gets-rs-37-323-deal-price-on-flipkart-exchange-offer-discount-and-more-article-14063160.html ;; campaignbriefasia.com|https://campaignbriefasia.com/2026/10/29/flipkart-and-leo-india-turn-a-real-village-into-a-diwali-deal-hunting-experience/ ;; mymobileindia.com|https://www.mymobileindia.com/macbook-air-m5-under-rs-1-lakh-on-flipkart-heres-how-to-get-it/
 
-- Outlook: Bullish
+- Outlook: Neutral
   2026-10-29 |
-  §VIEW§{"stance": "bullish", "text": "Deep festive discounts on iPhones, Galaxy S25 Ultra and MacBook Air M5, plus bank offers and exchange deals, should drive strong sales volume for Flipkart. The aggressive pricing across categories supports a bullish stance."}
+  §VIEW§{"stance": "neutral", "text": "Flipkart's Diwali sale drives traffic with aggressive discounts on Samsung and Apple products, but heavy reliance on exchange and bank offers splits the impact. The campaign adds engagement, yet no sales data confirms the net effect."}
 
 [Zomato]
 
 - ~
   29 Oct 2026 | https://m.economictimes.com/tech/tech-bytes/zomato-to-roll-out-price-masking-mehmaan-mode-for-group-orders-after-linkedin-users-suggestion/articleshow/135293694.cms
-  • Zomato will roll out 'Mehmaan Mode' this week, hiding menu prices so hosts can pass phones to guests without awkwardness, after founder Deepinder Goyal accepted a LinkedIn suggestion. ¶ • The feature was proposed by LinkedIn user Ayushmaan Agarwalla, whose post drew over 2,800 reactions and 74 comments before Goyal replied 'Shipping it this week.' ¶ • Eternal, Zomato's parent, plans to launch Dark, an AI assistant for private conversations, later this year using fine-tuned open-weight models on its own infrastructure. ¶ • Blinkit operates over 1,000 dark stores across India, and its expansion in Gurugram has pushed ground-floor and basement leases from ₹1 Lakh-1.5 Lakh to ₹3.5 Lakh-7 Lakh per month. ¶ • A LocalCircles survey of over 204,000 quick commerce users found 71% prefer platforms with best prices or value, and Blinkit was most used for everyday purchases at 31%. ¶ ↗ m.economictimes.com|https://m.economictimes.com/tech/tech-bytes/zomato-to-roll-out-price-masking-mehmaan-mode-for-group-orders-after-linkedin-users-suggestion/articleshow/135293694.cms ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/technology/tech-news/zomatos-new-feature-will-hide-menu-prices-when-guests-order-food-deepinder-goyal-says/articleshow/135295617.cms ;; moneycontrol.com|https://www.moneycontrol.com/news/trends/deepinder-goyal-accepts-man-s-idea-for-zomato-s-mehmaan-mode-it-will-hide-prices-when-guests-order-food-14063264.html/amp ;; theoptimist.news|https://theoptimist.news/blinkit-dark-store-rewriting-gurugram-real-estate/
+  • Zomato will roll out 'Mehmaan Mode' this week, hiding menu prices so guests can order without seeing costs, founder Deepinder Goyal said. ¶ • The feature was suggested by LinkedIn user Ayushmaan Agarwalla, whose post drew over 2,800 reactions and 74 comments. ¶ • Goyal replied to Agarwalla on LinkedIn, saying 'Shipping it this week' and wishing him a happy festive season. ¶ • Eternal, Zomato's parent, plans to launch Dark, an AI assistant for private conversations, later this year. ¶ • Blinkit operates over 1,000 dark stores across India and is expanding in Gurugram, pushing rents to ₹3.5-7 lakh per month. ¶ ↗ m.economictimes.com|https://m.economictimes.com/tech/tech-bytes/zomato-to-roll-out-price-masking-mehmaan-mode-for-group-orders-after-linkedin-users-suggestion/articleshow/135293694.cms ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/technology/tech-news/zomatos-new-feature-will-hide-menu-prices-when-guests-order-food-deepinder-goyal-says/articleshow/135295617.cms ;; moneycontrol.com|https://www.moneycontrol.com/news/trends/deepinder-goyal-accepts-man-s-idea-for-zomato-s-mehmaan-mode-it-will-hide-prices-when-guests-order-food-14063264.html ;; theoptimist.news|https://theoptimist.news/blinkit-dark-store-rewriting-gurugram-real-estate/
 
 - Outlook: Neutral
   2026-10-29 |
-  §VIEW§{"stance": "neutral", "text": "The Mehmaan Mode feature and Dark AI launch show product momentum, but Blinkit faces pricing pressure and resident backlash in Gurugram. The news flow splits between expansion and execution risk."}
+  §VIEW§{"stance": "neutral", "text": "The Mehmaan Mode rollout is a minor product tweak with no disclosed financial impact. Blinkit's expansion and Eternal's AI entry show ambition, but the news flow lacks hard numbers to lean either way."}
 
 [HAL]
 
 - ~
   28 Oct 2026 | https://mediaindia.eu/defence-aerospace/p-b-rangarao-takes-charge-as-director-operations-of-hal/
-  • P B Rangarao took charge as Director (Operations) of HAL on 28 October 2026, a five-year term or until further Ministry of Defence orders. ¶ • Rangarao was CEO of HAL's Helicopter Complex and earlier Executive Director of the Helicopter Division, with over 31 years at HAL since joining in 1995. ¶ • HAL CMD Kota Ravi ceased to hold the additional charge of Director (Operations) with immediate effect. ¶ • Rangarao helped conclude the contract for 25 ALH Mk III helicopters for the Indian Army and sign the contract for 156 LCH Prachand helicopters for the Army and Air Force. ¶ • HAL demonstrated an autorotation landing at Maximum All-Up Weight for the Light Utility Helicopter, part of the first stage of flight testing announced on 26 October 2026. ¶ ↗ mediaindia.eu|https://mediaindia.eu/defence-aerospace/p-b-rangarao-takes-charge-as-director-operations-of-hal/ ;; psuwatch.com|https://psuwatch.com/defencewatch/pb-rangarao-takes-charge-as-director-operations-of-hal ;; whispersinthecorridors.com|https://whispersinthecorridors.com/news/p-b-rangarao-assumes-charge-as-director-operations-hal ;; indianmasterminds.com|https://indianmasterminds.com/news/hal-appoints-p-b-rangarao-director-operations-246395/
+  • HAL appointed P B Rangarao as Director (Operations) effective 28 October 2026, for a five-year term or until further Ministry of Defence orders. ¶ • Rangarao joined HAL in 1995 and has over 31 years of experience, most recently as CEO of the Helicopter Complex. ¶ • He operationalised the new Helicopter Division at Tumakuru, enabling production rollout of the first batch of Light Utility Helicopters (LUH). ¶ • He oversaw commissioning of Limited Series Production (LSP) bases for the Light Combat Helicopter (LCH) for the Indian Army and Indian Air Force. ¶ • He helped conclude the contract for 25 ALH Mk III helicopters for the Indian Army and sign the contract for 156 LCH Prachand helicopters for the Army and Air Force. ¶ ↗ mediaindia.eu|https://mediaindia.eu/defence-aerospace/p-b-rangarao-takes-charge-as-director-operations-of-hal/ ;; psuwatch.com|https://psuwatch.com/defencewatch/pb-rangarao-takes-charge-as-director-operations-of-hal ;; whispersinthecorridors.in|https://whispersinthecorridors.in/news/p-b-rangarao-assumes-charge-as-director-operations-hal ;; indianmasterminds.com|https://indianmasterminds.com/news/hal-appoints-p-b-rangarao-director-operations-246395/
 
 - Outlook: Neutral
   2026-10-29 |
-  §VIEW§{"stance": "neutral", "text": "The leadership change is routine and the LUH autorotation test is an early-stage milestone, not certification. Neither shifts earnings or order flow near term, so the news flow is neutral."}
+  §VIEW§{"stance": "neutral", "text": "The appointment fills the operations role with a three-decade helicopter veteran, supporting LUH and LCH production. It is an internal leadership change with no new orders or financial figures, so the news flow is neutral."}
 
 [Tejas Networks]
 
 - ~
-  29 Oct 2026 | https://www.businesstoday.in/markets/stocks/story/tata-group-stock-in-focus-today-as-icra-affirms-rating-to-rs-6500-crore-credit-facilities-564423-2026-10-29
-  • ICRA reaffirmed Tejas Networks' credit ratings at [ICRA]A+(Stable) and [ICRA]A1+ on facilities totalling ₹6,500 crore. ¶ • The reaffirmed ratings cover fund-based limits of ₹4,127 crore, non-fund-based facilities of ₹40 crore, and term loans of ₹1,833 crore. ¶ • The Commercial Paper Programme of ₹500 crore retained [ICRA]A1+, ICRA's highest short-term rating category. ¶ • ICRA's review followed the announcement of Tejas Networks' Q2FY2027 financial results. ¶ • Term loans are spread across five banks including Axis Bank, Bank of Baroda, DBS, EXIM Bank, and RBL Bank. ¶ ↗ businesstoday.in|https://www.businesstoday.in/markets/stocks/story/tata-group-stock-in-focus-today-as-icra-affirms-rating-to-rs-6500-crore-credit-facilities-564423-2026-10-29 ;; kalkine.co.in|https://www.kalkine.co.in/article/announcements/tejas-networks-nsetejasnet-why-did-icra-reaffirm-its-credit-ratings-on-rs-6500-crore-facilities ;; investywise.com|https://www.investywise.com/tejas-networks-icra-reaffirms-credit-ratings/
+  29 Oct 2026 | https://www.businesstoday.in/amp/markets/stocks/story/tata-group-stock-in-focus-today-as-icra-affirms-rating-to-rs-6500-crore-credit-facilities-564423-2026-10-29
+  • ICRA reaffirmed the rating on Tejas Networks' credit facilities of ₹6,000 crore and its commercial paper programme of ₹500 crore. ¶ • The stock closed flat at ₹412.05 in the previous session, with 0.61 lakh shares traded worth ₹2.52 crore. ¶ • Market capitalisation stood at ₹7,340 crore. ¶ • The shares have traded between a 52-week high of ₹644.75 on June 19, 2026 and a 52-week low of ₹294.10 on January 27, 2026. ¶ • Tejas Networks makes 4G and 5G radio access network products, including 32TR and 64TR massive MIMO radios that meet 3GPP and O-RAN standards. ¶ ↗ businesstoday.in|https://www.businesstoday.in/amp/markets/stocks/story/tata-group-stock-in-focus-today-as-icra-affirms-rating-to-rs-6500-crore-credit-facilities-564423-2026-10-29
 
 - Outlook: Neutral
   2026-10-29 |
-  §VIEW§{"stance": "neutral", "text": "Rating reaffirmation at A+ and A1+ signals stable credit and diversified lender support, but without Q2 numbers or new orders the news flow is routine. It splits between balance-sheet comfort and lack of growth catalysts."}
+  §VIEW§{"stance": "neutral", "text": "ICRA reaffirming ratings on Rs 6,500 crore of facilities signals stable credit, but the stock sits well below its June 2026 high. No new orders or earnings drove the news, so the flow is neutral."}
 
 [Dmart]
-
-- ~
-  28 Oct 2026 | https://tradebrains.in/indian-markets/how-dmart-makes-money-the-business-economics-behind-its-grocery-led-retail-empire-12757529
-  • Store network rose to 518 in H1 FY27 from 432 in H1 FY26, with retail business area up to 21.4 million sq ft from 17.9 million sq ft. ¶ • Like-for-like sales growth, revenue growth at stores open at least 24 months, rose to 9.5% in Q2 FY27 from 6.8% in Q2 FY26. ¶ • Total bills climbed to 11.1 crore in Q2 FY27 from 9.7 crore in Q2 FY26, while annualised sales per sq ft slipped to ₹8,571 from ₹8,741. ¶ • Foods contributed 56.90% of H1 FY27 revenue, general merchandise and apparels 23.62%, and non-food FMCGs 19.48%. ¶ • DMart Ready narrowed to 11 cities in H1 FY27 from 19 in H1 FY26; debt stood at ₹4,079 crore against equity of ₹27,290 crore. ¶ ↗ tradebrains.in|https://tradebrains.in/indian-markets/how-dmart-makes-money-the-business-economics-behind-its-grocery-led-retail-empire-12757529
-
-- Outlook: Neutral
-  2026-10-29 |
-  §VIEW§{"stance": "neutral", "text": "Store additions and 9.5% like-for-like growth support the volume story, but sales per sq ft eased to Rs 8,571 and DMart Ready shrank to 11 cities. A 65.6 P/E against an industry 44.1 leaves valuation and slowing online reach pulling the other way."}
 
 [Godigit Insurance]
 
@@ -94,32 +86,32 @@ SOURCE 6: Watchlist (headlines + summary)
 [Infoedge/Naukri]
 
 - ~
-  28 Oct 2026 | https://finance.yahoo.com/markets/stocks/articles/edge-india-ltd-bom-532777-210500894.html
-  • Info Edge founder Sanjeev Bikhchandani returns as executive vice chairman, MD and group CEO from December 3, 2026, succeeding Hitesh Oberoi after 16 years as CEO. ¶ • Q2 FY27 consolidated net profit rose 87% to ₹649.8 crore, helped by other income up 164.8% to ₹428.4 crore, on revenue up 12% to ₹903.9 crore. ¶ • Recruitment billings grew 12.6% to ₹613.8 crore, with AI and data products at a high single-digit revenue share and about ₹240 crore annualised run rate. ¶ • 99acres billings rose 21.2% to ₹148.3 crore and its loss narrowed 93% to ₹1.6 crore, while Shiksha billings fell 27.2% to ₹20.5 crore on AI-driven search traffic declines. ¶ • IT/tech/BPM recruitment billings grew just 3% in Q2, and JobHai remains loss-making with annual burn of about ₹45 crore. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/stocks/articles/edge-india-ltd-bom-532777-210500894.html ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/bikhchandani-set-to-return-as-info-edge-chief/articleshow/135286273.cms ;; medianama.com|https://www.medianama.com/2026/10/223-info-edge-q2-results-profit-rises-87-percent/ ;; hr.economictimes.indiatimes.com|https://hr.economictimes.indiatimes.com/news/industry/info-edges-recruitment-billings-grow-12-6-as-ai-products-generate-rs-240-crore-annualised-revenue/135278488
+  29 Oct 2026 | https://www.globaldatinginsights.com/featured/info-edge-matchmaking-revenue-growth/
+  • Consolidated net profit rose 87% to ₹649.8 crore in the September quarter, on revenue up 12.2% to ₹903.9 crore. ¶ • Founder Sanjeev Bikhchandani returns as executive vice chairman, MD and group CEO from 3 December, replacing Hitesh Oberoi after nearly 27 years. ¶ • Recruitment revenue rose 13% to ₹632.3 crore, with AI and data products at an annualized run rate of about ₹240 crore. ¶ • 99acres revenue rose 17% to ₹134.3 crore and its loss narrowed 93% to ₹1.6 crore, with billings up 21%. ¶ • Shiksha revenue fell 9% to ₹35.5 crore and billings dropped 27%, hit by declining Google referral traffic. ¶ ↗ globaldatinginsights.com|https://www.globaldatinginsights.com/featured/info-edge-matchmaking-revenue-growth/ ;; tradingview.com|https://www.tradingview.com/news/moneycontrol:ede3c6e5c094b:0-neutral-info-edge-target-of-rs-1240-motilal-oswal/ ;; staffingindustry.com|https://www.staffingindustry.com/news/global-daily-news/info-edge-ceo-oberoi-to-step-down-after-27-years-q2-revenue-up-122 ;; finance.yahoo.com|https://finance.yahoo.com/markets/stocks/articles/edge-india-ltd-bom-532777-210500894.html
 
 - Outlook: Neutral
   2026-10-29 |
-  §VIEW§{"stance": "neutral", "text": "Profit and 99acres gains are offset by a CEO transition with no named successor and weak IT hiring. AI products and 59% recruitment margins support the stock, but Shiksha and JobHai losses split the case."}
+  §VIEW§{"stance": "neutral", "text": "Profit and margin gains plus 99acres loss cuts are offset by Shiksha's 27% billings fall and IT hiring weakness. The CEO handover adds continuity doubt, so the flow splits."}
 
 [Bitcoin]
 
 - ~
   28 Oct 2026 | https://finance.yahoo.com/markets/crypto/articles/datavault-ai-says-t-access-131000201.html
-  • Datavault AI cannot withdraw Bitcoin from Biconomy since June and will restate results, cutting reported assets by $92.2 million U.S.; DVLT fell 50% on Oct. 27. ¶ • The Federal Reserve held rates at 3.75% to 4% in a 10-2 vote, with two officials dissenting for a quarter-point hike. ¶ • Bitcoin traded near $81,000, failing to break its 50-day moving average at $81,831, while spot Bitcoin ETFs drew $110 million on Oct. 26 and $176 million on Oct. 27. ¶ • Strategy bought no bitcoin in the week to Oct. 25 and spent $204.9 million buying back STRC preferred stock, holding $5.1 billion in dollar assets. ¶ • Bitwise projected bitcoin at $1,599,766 by 2036, a 34.3% compound annual growth rate from its Sept. 30 price of $83,557. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/datavault-ai-says-t-access-131000201.html ;; bitcoinmagazine.com|https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-81500-fed ;; bitbo.io|https://bitbo.io/news/bitwise-bitcoin-million-target/ ;; tikr.com|https://www.tikr.com/blog/strategy-sits-on-5-1-billion-in-cash-but-bought-0-of-bitcoin-thursdays-report-has-to-explain
+  • Datavault AI cannot withdraw Bitcoin from exchange Biconomy since June, forcing a restatement and cutting reported assets by $92.2 million U.S. ¶ • Bitcoin traded near $81,000 after the Fed held rates at 3.75% to 4% in a 10-2 vote, with two officials dissenting for a hike. ¶ • US spot Bitcoin ETFs drew $137 million on Wednesday, a third straight inflow day, lifting October net inflows to $111 million. ¶ • Bitwise raised its 2036 base-case Bitcoin target to $1,599,766 per coin, a 34.3% compound annual growth rate from $83,557 on Sept. 30. ¶ • The crypto industry spent about $176 million on more than 100 midterm races ahead of the November 3 vote. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/datavault-ai-says-t-access-131000201.html ;; bitcoinmagazine.com|https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-81500-fed ;; tradingview.com|https://www.tradingview.com/news/cointelegraph:41af4bfba094b:0-bitcoin-etfs-add-137m-pushing-october-back-into-the-green/ ;; bitbo.io|https://bitbo.io/news/bitwise-bitcoin-million-target/
 
 - Outlook: Neutral
   2026-10-29 |
-  §VIEW§{"stance": "neutral", "text": "Fed hold with hawkish dissents and Strategy's buying pause weigh on sentiment, but ETF inflows and Bitwise's long-term target support the bull case. The split leaves direction unclear."}
+  §VIEW§{"stance": "neutral", "text": "ETF inflows of $137 million and Bitwise's raised $1.6 million 2036 target support Bitcoin, but the Fed's 10-2 hold with two hike dissents and Datavault's $92.2 million locked Bitcoin cut against it."}
 
 [Gold]
 
 - ~
   28 Oct 2026 | https://www.kitco.com/news/article/2026-10-28/gold-price-drops-4035oz-fed-votes-10-2-favor-rate-hold
-  • Fed held rates at 3.75%-4% in a 10-2 vote, with two members preferring a 25 basis point hike; spot gold fell 0.60% to $4,035.48 an ounce. ¶ • Bank of Canada raised its key overnight rate to 2.50%, lifting the bank rate to 2.75%; gold in Canadian dollars fell 0.36% to CAD$5,684.40 an ounce. ¶ • Sucden Financial expects gold to test $3,900 an ounce before the Fed's December meeting, with markets pricing a nearly 80% chance of a December hike. ¶ • Central banks bought an estimated 289 tonnes of gold in the second quarter, and the People's Bank of China added 23 tonnes in September, a 23rd straight month of buying. ¶ • Global gold-backed ETF holdings reached a record 101.55 million ounces in mid-October and stayed near 101 million ounces despite the price decline. ¶ ↗ kitco.com|https://www.kitco.com/news/article/2026-10-28/gold-price-drops-4035oz-fed-votes-10-2-favor-rate-hold ;; kitco.com|https://www.kitco.com/news/article/2026-10-28/gold-price-cad5684oz-after-bank-canada-raises-25-bps-sees-growth-slowing-q4 ;; kitco.com|https://www.kitco.com/news/article/2026-10-28/gold-prices-could-fall-3900-silver-50-fed-tightening-pressures-precious
+  • The Fed held its policy rate at 3.75% to 4% on a 10-2 vote, with two members preferring a 25 basis point hike, and spot gold fell 0.60% to $4,035.48 an ounce. ¶ • Markets price a nearly 80% chance of a December rate hike, and Sucden Financial expects gold to test $3,900 an ounce before that meeting. ¶ • Gold traded at $4,047.28 an ounce on October 28, up 0.79% on the day but down 4.90% from $4,255.91 a month earlier. ¶ • Global physically backed gold ETFs drew $10 billion in September, lifting third-quarter inflows to a record $31 billion and holdings to a record 4,256 metric tons. ¶ • Metals Focus projects gold to average $5,330 an ounce in 2027, with potential to approach $6,000 if investor confidence recovers. ¶ ↗ kitco.com|https://www.kitco.com/news/article/2026-10-28/gold-price-drops-4035oz-fed-votes-10-2-favor-rate-hold ;; kitco.com|https://www.kitco.com/news/article/2026-10-28/gold-prices-could-fall-3900-silver-50-fed-tightening-pressures-precious ;; usatoday.com|https://www.usatoday.com/story/money/personalfinance/2026/10/28/gold-price-on-october-28-2026/92474958007/ ;; streetwisereports.com|https://www.streetwisereports.com/article/2026/10/27/gold-could-hit-us-6-000-in-2027-as-analysts-see-opportunity-beyond-the-selloff.html
 
 - Outlook: Bearish
   2026-10-29 |
-  §VIEW§{"stance": "bearish", "text": "The Fed held rates but two dissents favored a hike, and markets price a December increase, lifting the dollar and Treasury yields. Central bank and ETF buying cushions but cannot offset tighter policy."}
+  §VIEW§{"stance": "bearish", "text": "The Fed held rates but two dissents favored a hike, and markets price an 80% chance of a December increase, pushing gold to $4,035.48. Record ETF inflows and central bank buying cushion the downside, but near-term pressure dominates."}
 
 ============================================================
 
@@ -132,10 +124,6 @@ SOURCE 8: AI News
 [OpenAI] The future of the firm
   28 Oct 2026 | https://openai.com/index/the-future-of-the-firm
   • OpenAI staffers who became managers at 24 describe AI agents as deputies that do grunt work, and argue management has come down to their rung. ¶ • The authors sketch three scenarios for AI in firms: beneath us, beside us, and between us, and expect aspects of all three to occur. ¶ • In the beneath-us scenario, each person gets AI agents that start as supervised interns and grow into a miniature firm reporting to them. ¶ • The authors argue this adoption need not cause layoffs: workers automate their past selves, take on larger objectives, and productivity and wages can rise. ¶ • They contend more capable AI is more adoptable, because labor learns the firm and can onboard itself while firms must learn technologies.
-
-[OpenAI] Legora is building the agentic operating system for legal work
-  28 Oct 2026 | https://openai.com/index/legora
-  • Legora, founded in Stockholm in 2023, is building what CEO Max Junestrand calls an agentic operating system for legal work, with OpenAI as a key model provider. ¶ • Legora's own legal team cut time spent reviewing NDAs from about 20% of team capacity to under 1% using an AI playbook. ¶ • One Fortune 100 customer cut contract turnaround time by 90%, saved more than $20 million on external litigation and diligence, and returned 9.5 hours per lawyer each week. ¶ • Coding agents let Legora's engineers explore 20 solutions at once and sometimes go from bug report to working fix in around five minutes. ¶ • Legora grew from three offices to 18, completed three financing rounds and made five acquisitions in the past year, and finds that when more than 75% of leaders use Legora, median usage across the organisation is 3x higher.
 
 [Google DeepMind] Gemini 4 Carbon: Our next frontier model
   28 Oct 2026 | https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/
@@ -215,11 +203,13 @@ SOURCE 2: The Hindu - Editorials
 
 SOURCE 5: The Hindu - Business (headlines + summary)
 
-[[US Fed and markets]]
+[[US Fed and rates]]
 
 - Fed holds rates at 3.75%-4.00% as inflation runs at 3.7% before midterms
   29 Oct 2026 | https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece
   • The Federal Open Market Committee voted 10-2 to keep rates at 3.75%-4.00%, with Lisa Cook and Beth Hammack dissenting in favor of a 0.25-point hike. ¶ • The rupee rose 11 paise to 95.17 against the dollar after the Fed pause, while September U.S. consumer inflation was 3.7%.
+
+[[Markets and listings]]
 
 - Sensex, Nifty rise in early trade on Reliance buying, foreign inflows
   29 Oct 2026 | https://www.thehindu.com/business/markets/sensex-nifty-rise-in-early-trade-on-reliance-buying-foreign-inflows/article71639074.ece
@@ -235,15 +225,11 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   28 Oct 2026 | https://www.thehindu.com/business/city-union-bank-q2-net-rises-26-pc-to-416-cr/article71637650.ece
   • City Union Bank reported a 26% rise in net profit to ₹416 crore for the September 2026 quarter, up from ₹329 crore a year earlier. ¶ • Interest income grew 27% to ₹2,092 crore and net non-performing assets improved to 0.48% from 0.90%.
 
-- U.S. FDA’s VAI tag for Dr. Reddy’s unit in Srikakulam, inspection closed
-  28 Oct 2026 | https://www.thehindu.com/business/Industry/us-fdas-vai-tag-for-dr-reddys-unit-in-srikakulam-inspection-closed/article71637226.ece
-  • The U.S. FDA classified Dr. Reddy's Srikakulam plant in Andhra Pradesh as Voluntary Action Indicated, closing the inspection officially. ¶ • The July 20-29 pre-approval and GMP inspection had drawn a Form 483 with three observations, but VAI means no regulatory action is planned.
-
 - Hyundai India Q2 net profit falls 24% to ₹1,196 crore on high commodity cost
   28 Oct 2026 | https://www.thehindu.com/business/Industry/hyundai-india-q2-net-profit-falls-24-to-1196-crore-on-high-commodity-cost/article71635832.ece
   • Hyundai Motor India's standalone net profit fell 24% year-on-year to ₹1,196 crore in the September quarter, while revenue rose 19% to ₹20,696 crore. ¶ • The automaker posted record quarterly sales of 219,072 units, up 15% year-on-year, and plans a mass-market EV launch in Q4 FY27.
 
-[[Corporate investment plans]]
+[[Corporate investment]]
 
 - Vedanta chair Anil Agarwal meets West Bengal CM Suvendu Adhikari, eyes Rs 70,000 crore investment
   28 Oct 2026 | https://www.thehindu.com/business/vedanta-chief-meets-suvendu-explores-investments-in-west-bengal/article71636273.ece
@@ -253,25 +239,21 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   28 Oct 2026 | https://www.thehindu.com/business/gail-india-to-invest-63-million-in-heating-unit-at-ratnagiri-lng-terminal-executive-says/article71637659.ece
   • GAIL India will spend ₹600 crore ($63.1 million) on a heating unit at its Ratnagiri LNG terminal, due by June 2027. ¶ • The unit will let the terminal run at its full 5 million tons per annum capacity; it now operates at about 50%.
 
-- L&T targets Rs 15 lakh crore order book by 2031 and expands Chennai AI data centre
+- L&T aims to nearly double order book to Rs 15 lakh crore by 2031
   28 Oct 2026 | https://www.thehindu.com/business/Industry/lt-aims-to-nearly-double-order-book-to-rs-15-lakh-crore-by-2031/article71636722.ece
-  • L&T aims to nearly double its order book to ₹15 lakh crore by 2031 from under ₹8 lakh crore, assuming 15% annual growth, President (Finance) R Shankar Raman said. ¶ • Vyoma.AI, L&T's digital infrastructure business, broke ground on a 52 MW data centre in Chennai, expanding the existing 30 MW facility toward a gigawatt-scale AI campus.
+  • L&T plans to grow its order book about 15% a year to ₹15 lakh crore by 2031, from under ₹8 lakh crore now, finance chief R Shankar Raman said. ¶ • International business should outpace India, shifting the revenue split from 75% India a few years ago to 50:50 with the Middle East, and possibly 40% each by 2031.
 
-[[Trade and manufacturing policy]]
+[[Trade and policy]]
 
 - Textile ministry to re-open application portal for PLI scheme
   29 Oct 2026 | https://www.thehindu.com/business/textile-ministry-to-re-open-application-portal-for-pli-scheme/article71637222.ece
   • The textiles ministry will accept round-four PLI applications from November 1 to December 31, with the minimum annual turnover cut from ₹200 crore to ₹100 crore to draw MSMEs. ¶ • Approved round-four applicants get the scheme extended to 2033-2034, and earlier-round participants who claimed no incentive can migrate by withdrawing their existing applications.
 
-- The gap in manufacturing sector GVA
-  28 Oct 2026 | https://www.thehindu.com/business/Economy/the-gap-in-manufacturing-sector-gva/article71425499.ece
-  • The National Statistical Office puts manufacturing GVA at ₹38.6 lakh crore for 2023-24, 40.9% above an alternative estimate built from ASI and ASUSE data. ¶ • Even after adding ₹3.6 lakh crore for 164.6 lakh residual workers, ₹7.6 lakh crore (19.7%) of the official figure stays unexplained, and the article says the MCA data and NSO methods must be published to settle the dispute.
-
 - India and Mexico sign Terms of Reference for preferential trade agreement negotiations to begin
   28 Oct 2026 | https://www.thehindu.com/business/Economy/india-and-mexico-sign-terms-of-reference-for-preferential-trade-agreement-negotiations-to-begin/article71635915.ece
   • India and Mexico signed Terms of Reference to start negotiating a Preferential Trade Agreement, covering market access, rules of origin, customs procedures and dispute settlement. ¶ • The two sides discussed a Mexican business mission to India in the first quarter of 2027 to build commercial ties in sectors including automotive, chemicals, electronics and pharmaceuticals.
 
-[[Economic policy debate]]
+[[Economy and strategy]]
 
 - Disinvestment as key economic strategy
   29 Oct 2026 | https://www.thehindu.com/opinion/op-ed/disinvestment-as-key-economic-strategy/article71637709.ece
@@ -285,7 +267,9 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   28 Oct 2026 | https://www.thehindu.com/business/Economy/the-way-out-of-the-dangerous-trap/article71451541.ece
   • India is drifting toward the middle-income trap, with sluggish private investment, stagnant wages, weak household consumption and manufacturing that fails to create enough jobs. ¶ • Fewer than 3% of the workforce has formal vocational education, and of about 25 lakh ITI seats only 48% are filled, with graduate employment at 63%.
 
-[[Green energy transition]]
+- The gap in manufacturing sector GVA
+  28 Oct 2026 | https://www.thehindu.com/business/Economy/the-gap-in-manufacturing-sector-gva/article71425499.ece
+  • The National Statistical Office puts manufacturing GVA at ₹38.6 lakh crore for 2023-24, 40.9% above an alternative estimate built from ASI and ASUSE data. ¶ • Even after adding ₹3.6 lakh crore for 164.6 lakh residual workers, ₹7.6 lakh crore (19.7%) of the official figure stays unexplained, and the article says the MCA data and NSO methods must be published to settle the dispute.
 
 - India needs $220 billion for green power transition by FY30
   28 Oct 2026 | https://www.thehindu.com/business/Industry/india-needs-220-billion-for-green-power-transition-by-fy30/article71637103.ece
@@ -293,19 +277,23 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 
 [[Other]]
 
+- GDAI launches India gaming report, highlights need for stronger funding
+  29 Oct 2026 | https://www.thehindu.com/business/Industry/gdai-launches-india-gaming-report-highlights-need-for-stronger-funding/article71639326.ece
+  • About 75% of game developers cited capital or publishing investment as a barrier to growth, per GameDev Outlook 2026, launched by GDAI at IGDC in Chennai. ¶ • India's video-game market earned an estimated $1.04 billion, up 14.8% year-on-year, with 511 million players, though annual revenue per user was just $2.04 billion.
+
 - Job cuts, retirement plan, voluntary exits: What’s going on at Microsoft?
   29 Oct 2026 | https://www.thehindu.com/business/Industry/microsoft-job-cuts-voluntary-exits-ai-development-indian-workforce-explainer-analysis/article71637608.ece
   • Microsoft announced on October 26 a voluntary exit offer for eligible staff in India, the US, the UK and Canada, with participation depending on business priorities and workforce needs. ¶ • The offer follows cuts of about 4,800 roles and a voluntary retirement program in which over 30% of eligible employees took part, as Microsoft reported fiscal 2026 revenue of $331.8 billion, up 18%.
+
+- U.S. FDA’s VAI tag for Dr. Reddy’s unit in Srikakulam, inspection closed
+  28 Oct 2026 | https://www.thehindu.com/business/Industry/us-fdas-vai-tag-for-dr-reddys-unit-in-srikakulam-inspection-closed/article71637226.ece
+  • The U.S. FDA classified Dr. Reddy's Srikakulam plant in Andhra Pradesh as Voluntary Action Indicated, closing the inspection officially. ¶ • The July 20-29 pre-approval and GMP inspection had drawn a Form 483 with three observations, but VAI means no regulatory action is planned.
 
 ============================================================
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
 [[US politics and justice]]
-
-- U.S. bans imports from Chinese genomics companies over forced labour concerns
-  29 Oct 2026 | https://www.thehindu.com/news/international/us-bans-chinese-genomics-imports-from-companies-forced-labour-concerns-alleged-detention-of-uyghurs-muslims-minorities/article71639437.ece
-  • The U.S. added BGI Genomics, MGI Tech and Shenzhen BGI Technology to the Uyghur Forced Labor Prevention Act Entity List on October 28, 2026, banning their imports. ¶ • China condemned the ban as having no factual basis, while BGI and MGI denied the allegations and said they oppose all forms of forced labour.
 
 - Judge blocks DOJ bid to seize 20,000 California ballots; 28 charged with voter fraud
   29 Oct 2026 | https://www.thehindu.com/news/international/us-judge-rejects-donald-trumps-bid-to-purge-20000-california-ballots-safeguarding-voters-rights-ahead-of-the-midterms/article71639192.ece
@@ -315,53 +303,49 @@ SOURCE 3: The Hindu - International (headlines + summary)
   29 Oct 2026 | https://www.thehindu.com/news/international/flavio-bolsonaro-claims-he-is-brazils-true-leader-after-fleeing-to-us/article71639212.ece
   • Flavio Bolsonaro, 45, arrived in a private jet at Opa-Locka Executive Airport near Miami on Wednesday and said he would lead the opposition from there. ¶ • He fled Brazil despite a Supreme Court order to surrender his passports, and Lula, who won the runoff with 51.8% of the vote, called the departure shameful.
 
-- Hegseth fires Pentagon's top military planner even as Trump considers new Iran strikes
-  29 Oct 2026 | https://www.thehindu.com/news/international/hegseth-fires-pentagons-top-military-planner-even-as-trump-considers-new-iran-strikes/article71639041.ece
-  • Defence Secretary Pete Hegseth fired Army Lt Gen Brett Sylvia as director of strategy, plans and policy on the Joint Chiefs of Staff, the J5 post, with no replacement named and no reason given. ¶ • The firing comes as President Trump weighs new strikes on Iran after the November 3 midterm elections, with a third US aircraft carrier and thousands more troops heading to the region.
-
-[[Israel and Middle East]]
-
-- Israel election leaves Netanyahu bloc short of majority as Arab parties surge
-  29 Oct 2026 | https://www.thehindu.com/news/international/israel-election-2026-benjamin-netanyahu-is-down-but-not-out/article71639548.ece
-  • With almost 90% of votes counted, Benjamin Netanyahu's right-religious bloc holds 53 of the 120 Knesset seats, eight short of the 61 needed for a majority. ¶ • The opposition bloc led by Gadi Eisenkot has 48 seats and cannot reach 61 without Arab parties, which won 19 seats between them.
-
-- Learning Hebrew to be Israeli: How education is shaping the Bnei Menashe community’s journey
-  29 Oct 2026 | https://www.thehindu.com/education/learning-hebrew-to-be-israeli-how-education-is-shaping-the-bnei-menashe-communitys-journey/article71635767.ece
-  • Israel approved a plan in November 2025 to bring about 5,800 remaining Bnei Menashe members from Manipur and Mizoram by 2030, starting with 1,200 by end-2026. ¶ • Newcomers learn Hebrew through Ulpan Ivrit courses, but interrupted schooling and the language's 22-letter right-to-left script slow their path into education and work.
-
-[[Interest rates and inflation]]
+[[US monetary policy]]
 
 - U.S. Fed holds interest rates steady despite surging inflation
   29 Oct 2026 | https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece
   • The Federal Open Market Committee voted 10-2 to keep rates at a target range of 3.75 to 4.00%, after raising them in September for the first time in three years. ¶ • September consumer inflation came in hotter than expected at 3.7%, and the Fed has missed its 2% target for more than five years, with Governors Cook and Hammack dissenting in favor of an immediate 0.25-percentage-point hike.
 
-[[Asia security tensions]]
+[[Trade and sanctions]]
 
-- India ready to share 'battle-tested' anti-terror expertise with ASEAN, its dialogue partners: Rajnath Singh
-  29 Oct 2026 | https://www.thehindu.com/news/national/rajnath-singh-india-asean-defence-ministers-meeting-plus-conclave-philippines/article71639347.ece
-  • Defence Minister Rajnath Singh told the ADMM-Plus conclave in Cebu, Philippines, that India will share its battle-tested counter-terrorism expertise with ASEAN and its dialogue partners. ¶ • Singh cited last year's Operation Sindoor, in which a large number of terrorist infrastructures were destroyed, as proof of India's approach against state-sponsored terror.
-
-- North Korea fires missile barrage toward sea as tensions with South rise
-  29 Oct 2026 | https://www.thehindu.com/news/international/north-korea-fires-missile-barrage-toward-sea-as-tensions-with-south-rise/article71639190.ece
-  • North Korea fired about 10 short-range ballistic missiles from Wonsan on Thursday, October 29, 2026, South Korea's military said. ¶ • The launches followed Kim Jong Un's weekend visit to China and the North's threat to restart border loudspeaker broadcasts and deploy new weapons.
-
-[[Trade and diplomacy]]
+- U.S. bans imports from Chinese genomics companies over forced labour concerns
+  29 Oct 2026 | https://www.thehindu.com/news/international/us-bans-chinese-genomics-imports-from-companies-forced-labour-concerns-alleged-detention-of-uyghurs-muslims-minorities/article71639437.ece
+  • The U.S. added BGI Genomics, MGI Tech and Shenzhen BGI Technology to the Uyghur Forced Labor Prevention Act Entity List on October 28, 2026, banning their imports. ¶ • China condemned the ban as having no factual basis, while BGI and MGI denied the allegations and said they oppose all forms of forced labour.
 
 - Poland pivots towards India as ‘strategic partnership’ with China develops cracks
   29 Oct 2026 | https://www.thehindu.com/news/national/poland-pivots-towards-india-as-strategic-partnership-with-china-develops-cracks/article71636517.ece
   • Polish PM Donald Tusk's visit to India, the first by a Polish PM in 16 years, is expected to deepen economic and defence cooperation between the two countries. ¶ • Poland is distancing from China over a one-sided $60 billion trade, with $58 billion being Chinese exports, and $11.4 billion of 2025 industrial value added lost to China, risking 45,000 Polish jobs.
 
-[[Afghanistan opium cultivation]]
+[[West Asia and Afghanistan]]
+
+- Israel election leaves Netanyahu bloc short of majority as Arab parties surge
+  29 Oct 2026 | https://www.thehindu.com/news/international/israel-election-2026-benjamin-netanyahu-is-down-but-not-out/article71639548.ece
+  • With almost 90% of votes counted, Benjamin Netanyahu's right-religious bloc holds 53 of the 120 Knesset seats, eight short of the 61 needed for a majority. ¶ • The opposition bloc led by Gadi Eisenkot has 48 seats and cannot reach 61 without Arab parties, which won 19 seats between them.
 
 - Afghanistan opium poppy cultivation surges despite Taliban government ban: UN
   29 Oct 2026 | https://www.thehindu.com/news/international/afghanistan-opium-poppy-cultivation-surges-despite-taliban-government-ban-un/article71639446.ece
   • Opium poppy cultivation in Afghanistan rose to 43,000 hectares in 2026 from 10,000 in 2025, with production up fivefold to 1,500 tonnes, the UN said. ¶ • UNODC says farmers need alternatives and market access, but only 10% of its estimated $500 million plan has been funded.
 
-[[Other]]
+[[India diplomacy and security]]
 
-- At least 68 dead after two trains collide in Spain’s Toledo Province
-  29 Oct 2026 | https://www.thehindu.com/news/international/several-people-dead-in-crash-between-2-spanish-trains-in-toledo-province/article71635210.ece
-  • A Renfe high-speed train hit a stationary Iryo train near Mora and Orgaz, about 130km south of Madrid, killing at least 68 people and injuring more than 100, 15 critically. ¶ • The Transport Minister said the control centre restarted traffic during a signalling failure and the Renfe train travelled 25km before the crash, suspending the Madrid-to-south high-speed line.
+- India ready to share 'battle-tested' anti-terror expertise with ASEAN, its dialogue partners: Rajnath Singh
+  29 Oct 2026 | https://www.thehindu.com/news/national/rajnath-singh-india-asean-defence-ministers-meeting-plus-conclave-philippines/article71639347.ece
+  • Defence Minister Rajnath Singh told the ADMM-Plus conclave in Cebu, Philippines, that India will share its battle-tested counter-terrorism expertise with ASEAN and its dialogue partners. ¶ • Singh cited last year's Operation Sindoor, in which a large number of terrorist infrastructures were destroyed, as proof of India's approach against state-sponsored terror.
+
+[[Disasters and accidents]]
+
+- Spain train crash kills 68 as rescuers search wreckage and drivers strike
+  29 Oct 2026 | https://www.thehindu.com/news/international/spain-train-crash-toledo-rescue-survivors-deaths-accident-octobe-29-2026/article71639865.ece
+  • At least 68 people died and more than 100 were injured when a Renfe high-speed train hit a stationary Iryo train near Urda in Toledo province on October 28, 2026. ¶ • Transport Minister Oscar Puente said a control centre restarted traffic despite a failed automatic control system on a 69-km stretch, and the Renfe train travelled 25 km before hitting the Iryo at up to 200 kmph.
+
+- Hong Kong's Housing Minister resigns after fire investigation finds inadequate oversight
+  29 Oct 2026 | https://www.thehindu.com/news/international/hong-kongs-housing-minister-resigns-after-fire-investigation-finds-inadequate-oversight/article71639735.ece
+  • Hong Kong's housing secretary Winnie Ho resigned after an independent committee found the Housing Bureau's checking unit failed to supervise maintenance work at Wang Fuk Court. ¶ • The November fire killed 168 people and displaced thousands, and seven people and two companies face charges including manslaughter over a renovation contract worth more than HK$300 million.
+
+[[Other]]
 
 - Pioneering U.S. labour leader Dolores Huerta dies at 96
   29 Oct 2026 | https://www.thehindu.com/news/international/pioneering-us-labour-leader-dolores-huerta-dies-at-96/article71637847.ece
@@ -370,7 +354,80 @@ SOURCE 3: The Hindu - International (headlines + summary)
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Meesho Q2 loss narrows to Rs 132 crore YoY, revenue rises 34%
+29 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/meesho-q2-loss-narrows-info-edge-names-sanjeev-bikhchandani-ceo/articleshow/135286130.cms
+
+• Meesho's operating revenue rose 34% year-on-year to ₹4,131 crore in the second quarter of FY27.
+
+• Net loss narrowed 68% year-on-year to ₹132 crore, while total expenses rose 23.8% to ₹4,382.27 crore.
+
+• Annual transacting users increased 21% year-on-year to 284 million, and annual transacting sellers rose 60% to 1.13 million.
+
+• The company expects stronger year-on-year growth in the December quarter due to a shift in festive sale timing, while watching macroeconomic pressures.
+
+### Sanjeev Bikhchandani to return as Info Edge CEO after 16 years
+29 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/meesho-q2-loss-narrows-info-edge-names-sanjeev-bikhchandani-ceo/articleshow/135286130.cms
+
+• Sanjeev Bikhchandani will return as Info Edge chief executive, 16 years after stepping down from the role.
+
+• He succeeds Hitesh Oberoi, who will step down from executive responsibilities on December 2 and continue on the board as a non-executive, non-independent director.
+
+• Info Edge's net profit rose 87% year-on-year to ₹650 crore in the July-September quarter, aided by higher other income.
+
+• Operating revenue increased 12% to ₹904 crore, with Naukri.com revenue up 13.3% to ₹632 crore.
+
+### India's deeptech dream remains import dependent for critical components
+29 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/meesho-q2-loss-narrows-info-edge-names-sanjeev-bikhchandani-ceo/articleshow/135286130.cms
+
+• Indian deeptech companies remain heavily dependent on imports for critical components like chips, battery cells, rare-earth magnets and specialised materials.
+
+• India imports nearly all advanced logic chips and lithium-ion cells, over 90% of rare-earth permanent magnets, and almost all carbon-fibre composites.
+
+• Geopolitical tensions have stretched procurement timelines from weeks to months, disrupting development and testing schedules.
+
+• India is relatively better placed in defence and aerospace, but in robotics it still depends on imported motion-control systems and precision components.
+
+### Experts urge DPDP readiness checks
+29 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/meesho-q2-loss-narrows-info-edge-names-sanjeev-bikhchandani-ceo/articleshow/135286130.cms
+
+• Legal and policy experts called for targeted assessments of corporate readiness for the Digital Personal Data Protection (DPDP) Act.
+
+• The call follows recent cyber incidents in India, including disclosure of critical vulnerabilities in PHP, a programming language widely used to run websites.
+
+### KLA eyeing India manufacturing
+29 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/meesho-q2-loss-narrows-info-edge-names-sanjeev-bikhchandani-ceo/articleshow/135286130.cms
+
+• Global semiconductor equipment and process-control giant KLA Corporation is eyeing a manufacturing foray in India.
+
+• KLA currently has significant R&D operations in India and is evaluating opportunities to deepen its capabilities in the country.
+
+### Global pick: A painting went missing 20 years ago. Police tracked it down with the help of AI
+BBC | https://www.bbc.com/future/article/20261027-this-painting-went-missing-20-years-ago-police-tracked-it-down-with-the-help-of-ai
+
+• Police recovered a painting that went missing 20 years ago, tracking it down with the help of AI.
+
+• The article is a BBC roundup of science and technology stories rather than a single report.
+
+• Other items cover AI extinction predictions by 2027, AI in schools, and voice-cloning theft from voice-over artists.
+
+• The painting recovery shows AI being used in art crime investigations.
+
+### Global pick: The Inside Story of Why Apple Finally Brought a Touch Display to the Mac
+Wired | https://www.wired.com/story/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/
+
+• Apple is releasing a MacBook Pro with a touch display, the first Mac laptop with touch, at an event in Los Angeles.
+
+• The new MacBook Pro has an M5 Pro or M5 Max chip and a tandem OLED screen, which uses multiple light-emitting layers for stronger contrast.
+
+• Apple executives long rejected touch on Macs, with Phil Schiller citing ergonomics and the different design of iOS and macOS.
+
+• CEO John Ternus said Apple waited until adding touch did not make the Mac heavier or thicker, and the OLED screen made it possible.
+
+### Global pick: AI maths advances raise fears over security of global encryption
+FT | https://www.ft.com/content/694dbd7b-7096-47fe-b134-5275a1fb7b87
+
+[Could not read the article, possibly paywalled]
 
 ============================================================
 
@@ -383,34 +440,28 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [[Top Gainers]]
 
-[Birlasoft Ltd (BSOFT, +12.61%)]
+[Birlasoft Ltd (BSOFT, +11.55%)]
 
-- Birlasoft Ltd (BOM:532400) (Q2 2027) Earnings Call Highlights: Revenue Grows 2. ...
+- ~
   29 Oct 2026 | https://finance.yahoo.com/markets/stocks/articles/birlasoft-ltd-bom-532400-q2-010518426.html
-  Revenue (USD): $148.3 million, up 2.1% QoQ in constant currency and dollar terms.
+  ## What the sector does ¶ • Indian IT services firms sell software development, consulting and maintenance to banks, insurers, manufacturers and healthcare clients, mostly in the US and Europe. ¶ • Revenue comes from multi-year contracts billed by the hour or project, so growth depends on deal wins and client IT budgets; salaries and utilisation drive cost. ¶ ## What the company does ¶ • Birlasoft provides software development and IT consulting from Pune, part of The CK Birla Group, with over 10,000 professionals on its rolls. ¶ • It earns from clients in banking, financial services and insurance, life sciences, energy, utilities and manufacturing, mainly in the US and Europe. ¶ ## Why it moved today ¶ • Birlasoft shares surged 13% on October 29 after brokerages said Q2 revenue and EBITDA were slightly above estimates, Moneycontrol reported, with constant currency revenue up 2.1% QoQ, its best in eight quarters. ¶ • ICICI Securities said the quarter still showed revenue down 1.1% YoY in constant currency and TCV down 31.4% QoQ, so the move reflects an estimate beat rather than a turnaround. ¶ ## The numbers (Screener) ¶ • Revenue ₹1,416 crore in the September 2026 quarter, up 2.7% sequentially, with operating profit ₹215 crore and OPM 15%; net profit ₹160 crore and EPS ₹5.71. ¶ • P/E 15.1, book value ₹147, ROCE 21.2%, ROE 14.1%, dividend yield 1.80%, market cap ₹9,593 crore, 52-week range ₹267 to ₹474, as per Screener data. ¶ ## What the numbers say ¶ • P/E of 15.1 is near Wipro's 14.35 and Infosys's 14.68 and below the mid-cap peers Persistent Systems at 49.56 and LTM at 21.70, so the stock trades cheaply against the sector. ¶ • ROCE of 21.2% and ROE of 14.1% are below TCS's 63.03% and Infosys's 39.95%, and quarterly revenue growth of 6.57% YoY lags most peers, so the 11.55% move looks like a sentiment rebound after a 52-week low of ₹267 hit on October 1, 2026. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/stocks/articles/birlasoft-ltd-bom-532400-q2-010518426.html ;; moneycontrol.com|https://www.moneycontrol.com/news/business/markets/birlasoft-shares-surge-13-as-q2-revenue-growth-beats-estimates-check-target-prices-14063323.html ;; business-standard.com|https://www.business-standard.com/markets/news/birlasoft-share-price-rallies-11-on-huge-volume-post-q2-results-126102900328_1.html
 
-- Birlasoft Q2 2027 Earnings Call Is Live
-  28 Oct 2026 | https://www.tradingview.com/news/urn:live_audio:quartr.com:710371:0-birlasoft-q2-2027-earnings-call-is-live/
-
-- Birlasoft Shares Surge 10% After Q2 Results; Rs 3 Interim Dividend Declared
-  29 Oct 2026 | https://www.ndtvprofit.com/markets/birlasoft-shares-surge-10-after-q2-results-rs-3-interim-dividend-declared-12251838
-
-[Poonawalla Fincorp Ltd (POONAWALLA, +8.65%)]
+[Poonawalla Fincorp Ltd (POONAWALLA, +10.58%)]
 
 - ~
   28 Oct 2026 | https://www.tradingview.com/symbols/BSE-POONAWALLA/financials-statistics-and-ratios/enterprise-value-ebit-fwd/
-  ## What the sector does ¶ • Non-banking financial companies (NBFCs) lend to consumers and small businesses, earning a spread between the interest they charge borrowers and the interest they pay on bank and bond borrowings. ¶ • Revenue is driven by loan growth and net interest margin (the lending spread), while cost is driven by borrowing rates and credit costs from bad loans; large players include Bajaj Finance, Shriram Finance and Cholamandalam. ¶ ## What the company does ¶ • Poonawalla Fincorp is a Pune-based non-deposit-taking NBFC in the Cyrus Poonawalla Group, lending to salaried and self-employed individuals through personal loans, pre-owned car finance, loan against property and business loans. ¶ • It reported assets under management of ₹74,008 crore in the September 2026 quarter, far smaller than Bajaj Finance's ₹5.8 lakh crore market cap, and also sells general insurance. ¶ ## Why it moved today ¶ • The articles do not state a direct cause for the 8.65% move; the September-quarter results were announced on 9 October 2026, well before the last session. ¶ • Context: Poonawalla Fincorp allotted ₹1,318 crore of non-convertible debentures on 29 October 2026, and its September-quarter profit rose 21% quarter-on-quarter to ₹375 crore. ¶ ## The numbers (Screener) ¶ • Stock P/E is 35.4 and price to book is 2.79 times, with return on equity (ROE) of 5.86% and return on capital employed (ROCE) of 7.51%, per Screener data. ¶ • Net profit rose from ₹150 crore in December 2025 to ₹375 crore in September 2026, with EPS up from ₹1.85 to ₹4.26 over the same quarters. ¶ ## What the numbers say ¶ • At a P/E of 35.4, Poonawalla Fincorp trades at a premium to every named peer, from Bajaj Finance at 26.6 to Muthoot Finance at 8.72, while its ROE of 5.86% is below the peer range of roughly 8% to 16% ROCE. ¶ • The September 2026 quarter shows sharp momentum, with profit up 405% year-on-year and sales up 70%, but the low ROE and 2.79 times book value mean the 8.65% move is not backed by a cheap valuation. ¶ ↗ tradingview.com|https://www.tradingview.com/symbols/BSE-POONAWALLA/financials-statistics-and-ratios/enterprise-value-ebit-fwd/ ;; fintechbiznews.com|https://www.fintechbiznews.com/lenders-nbfcs/poonawalla-fincorp-adds-42-ai-projects-in-q2fy27 ;; kalkine.co.in|https://www.kalkine.co.in/article/announcements/poonawalla-fincorp-nsepoonawalla-what-does-its-rs-1318-cr-ncd-allotment-mean
+  ## What the sector does ¶ • Non-bank financial companies (NBFCs) lend to consumers and small businesses, earning the spread between borrowing costs and loan interest plus fees. ¶ • Revenue is driven by loan growth and margins, while cost is driven by borrowing rates and credit losses; RBI regulates, and peers include Bajaj Finance, Shriram Finance and Cholamandalam. ¶ ## What the company does ¶ • Poonawalla Fincorp is a non-deposit taking NBFC registered with the RBI, providing consumer and MSME financing plus general insurance services. ¶ • It earns from interest and fees on a ₹74,008 crore loan book as of September 2026, competing with much larger peers like Bajaj Finance and Shriram Finance. ¶ ## Why it moved today ¶ • The articles do not explain the 10.58% move; the only news is a 28 October 2026 TradingView data page and a 9 October 2026 results release. ¶ • Context: the September 2026 quarter showed profit of ₹375 crore, up 21% from ₹308 crore in June 2026, with gross NPAs falling to 1.20% from 1.37%. ¶ ## The numbers (Screener) ¶ • P/E is 35.3 and price to book is 2.79 times, with book value of ₹156 per share and market cap of ₹38,368 crore. ¶ • Net profit rose from ₹150 crore in December 2025 to ₹375 crore in September 2026, with EPS up from ₹1.85 to ₹4.26. ¶ ## What the numbers say ¶ • At a P/E of 35.3, Poonawalla trades above every named peer, from Bajaj Finance at 26.8 to Muthoot Finance at 8.8, while its ROCE of 7.51% is below the peer range of 8.4% to 15.8%. ¶ • Profit grew 405% year on year in the September 2026 quarter, the fastest among peers, but ROE of 5.86% remains the lowest in the table, so the move reflects improving earnings rather than superior returns. ¶ ↗ tradingview.com|https://www.tradingview.com/symbols/BSE-POONAWALLA/financials-statistics-and-ratios/enterprise-value-ebit-fwd/ ;; fintechbiznews.com|https://www.fintechbiznews.com/lenders-nbfcs/poonawalla-fincorp-adds-42-ai-projects-in-q2fy27
 
 [[Top Losers]]
 
-[Eclerx Services Ltd (ECLERX, -10.09%)]
+[Eclerx Services Ltd (ECLERX, -11.61%)]
 
 - ~
   29 Oct 2026 | https://www.business-standard.com/markets/news/eclerx-services-shares-plunge-13-post-company-s-second-quarter-results-126102900576_1.html
-  ## What the sector does ¶ • Business process management sells outsourced back-office work such as data management, analytics and customer operations to large enterprises, billed per process or full-time employee. ¶ • Revenue grows with client volumes and new deals, while cost is mostly salaries and technology, so margins depend on utilisation, automation and offshore delivery. ¶ ## What the company does ¶ • eClerx Services provides business process management, automation and analytics to Fortune 2000 clients in financial services, communications, retail, media, manufacturing and technology. ¶ • It earns from long-term outsourcing contracts delivered from India and overseas subsidiaries, with revenue of ₹1,188.7 crore in the September 2026 quarter. ¶ ## Why it moved today ¶ • The stock fell 10.09% after eClerx reported September-quarter net profit of ₹180.4 crore, down 1.5% year on year, despite revenue rising 18.3% to ₹1,188.7 crore. ¶ • Context: EBITDA margin narrowed to 23.9% from 26.91% a year earlier as total expenses rose 23.5%, and the stock had already closed 1.63% lower on October 28. ¶ ## The numbers (Screener) ¶ • Stock P/E is 21.8, price to book is about 5.4 times on book value of ₹310, ROCE is 34.4% and ROE is 28.4%, with market cap at ₹15,812 crore. ¶ • Sales rose from ₹1,070 crore in December 2025 to ₹1,189 crore in September 2026, but net profit fell from ₹192 crore to ₹181 crore and operating margin slipped from 26% to 24%. ¶ ## What the numbers say ¶ • At a P/E of 21.8, eClerx trades below the peer median of 23.86 and below Firstsource Solutions at 26.99, while its ROCE of 34.4% is roughly double the peer median of 16.8%. ¶ • September-quarter sales grew 18.29% year on year, faster than the peer median of 19.32% is close, but net profit fell 1.53% against a peer median rise of 25.85%, so the margin-led profit decline explains the sharp move. ¶ ↗ business-standard.com|https://www.business-standard.com/markets/news/eclerx-services-shares-plunge-13-post-company-s-second-quarter-results-126102900576_1.html ;; scanx.trade|https://scanx.trade/stock-market-news/companies/eclerx-services-acquires-2-stake-personiv-eclipse-1-64-million/54743947 ;; cnbctv18.com|https://www.cnbctv18.com/market/earnings/eclerx-services-q2-results-profit-slips-1-5pc-to-rs180-crore-despite-18pc-revenue-growth-20021794.htm
+  ## What the sector does ¶ • Business process management sells outsourced back-office work such as data management, analytics and customer operations to large enterprises, mainly banks, insurers, retailers and telecom firms. ¶ • Revenue comes from multi-year contracts billed per process or per full-time employee, while cost is dominated by salaries and technology, so margins depend on headcount utilisation and automation. ¶ ## What the company does ¶ • eClerx Services provides business process management, automation and analytics services to Fortune 2000 enterprises in financial services, communications, retail, media and technology. ¶ • It earns from long-term outsourcing contracts and technology-led solutions, with revenue of ₹1,188.7 crore in the September 2026 quarter and delivery headcount of 23,151, up 8.7% year on year. ¶ ## Why it moved today ¶ • The stock fell 11.61% after the company reported September-quarter net profit of ₹180.4 crore, down 1.5% year on year, and an EBITDA margin that narrowed to 23.9% from 26.91%. ¶ • Context: revenue rose 18.3% year on year to ₹1,188.7 crore, the 13th straight quarter of sequential topline growth, but total expenses rose 23.5% to ₹975.8 crore, outpacing revenue. ¶ ## The numbers (Screener) ¶ • Stock P/E is 21.4, price is ₹1,654 against a book value of ₹310, dividend yield is 0.05%, and the 52-week range is ₹2,498 to ₹1,319. ¶ • ROCE is 34.4% and ROE 28.4%; quarterly sales rose from ₹1,070 crore in December 2025 to ₹1,189 crore in September 2026, while net profit moved from ₹192 crore to ₹181 crore. ¶ ## What the numbers say ¶ • At a P/E of 21.4 the stock trades below the peer median of 23.94 and below Firstsource Solutions at 27.07, even though its 34.4% ROCE is more than double the peer median of 16.8%. ¶ • Sales grew 18.29% year on year in the September quarter, faster than the peer median of 19.32% is close, but net profit fell 1.53% against the peer median's 25.85% growth, so the market punished the margin squeeze. ¶ ↗ business-standard.com|https://www.business-standard.com/markets/news/eclerx-services-shares-plunge-13-post-company-s-second-quarter-results-126102900576_1.html ;; cnbctv18.com|https://www.cnbctv18.com/market/earnings/eclerx-services-q2-results-profit-slips-1-5pc-to-rs180-crore-despite-18pc-revenue-growth-20021794.htm ;; smestreet.in|https://smestreet.in/infocus/eclerx-reports-171-yoy-revenue-growth-in-q2-fy27-12763426
 
-[Tata Teleservices Maharashtra Ltd (TTML, -6.19%)]
+[Tata Teleservices Maharashtra Ltd (TTML, -8.77%)]
 
 - ~
   29 Oct 2026 | https://univest.in/blogs/why-tata-teleservices-maharashtra-share-consecutive-price-fall-2026
-  ## What the sector does ¶ • India's telecom service providers sell voice, data and managed network services to retail subscribers and enterprises, earning monthly rentals and usage fees. ¶ • Revenue is driven by subscriber additions and data usage per user, while costs are dominated by spectrum, network equipment and licence fees. ¶ ## What the company does ¶ • Tata Teleservices (Maharashtra) holds a Unified License with access service authorisation for Maharashtra and Goa, plus an internet service provider licence. ¶ • It sells wireline voice, data and managed telecom services, mainly to enterprise and wholesale customers, and is far smaller than Jio and Airtel. ¶ ## Why it moved today ¶ • Univest reported the fall to ₹36.68, down 6.62% on 29 October 2026, as a second straight session of decline with no company-specific trigger established. ¶ • The two-session slide totals 12.35% from ₹41.85, and the stock traded below its previous close all day, with the low at ₹36.36. ¶ ## The numbers (Screener) ¶ • TTML's June 2009 quarter sales were ₹512 crore with a net loss of ₹34 crore, and by March 2010 sales had risen to ₹621 crore with a net loss of ₹64 crore. ¶ • Screener shows a market cap of ₹7,200 crore, a book value of negative ₹2.87 per share, ROCE of -12.7% and no dividend, while Univest cites a P/E of 25.67x and ROCE of 157.86%. ¶ ## What the numbers say ¶ • TTML's negative book value and ROCE of -12.7% contrast with Jio Platforms' 12.08% and Bharti Airtel's 17.56%, showing the business earns far less on capital than its larger peers. ¶ • The stock's P/E of 25.67x is below the peer median of 42.09x, but with negative book value and a string of quarterly losses, the two-day 12.35% fall reflects a business still far behind Jio and Airtel. ¶ ↗ univest.in|https://univest.in/blogs/why-tata-teleservices-maharashtra-share-consecutive-price-fall-2026 ;; univest.in|https://univest.in/blogs/why-tata-teleservices-maharashtra-share-price-fall-today-2026
+  ## What the sector does ¶ • India's telecom service providers sell voice, data, and managed network services to retail subscribers and enterprises, earning monthly rentals and usage fees. ¶ • Revenue is driven by subscriber additions and data usage, while costs are dominated by spectrum, network equipment, and licence fees; top players are Jio, Bharti Airtel, and Vodafone Idea. ¶ ## What the company does ¶ • Tata Teleservices (Maharashtra) holds a Unified License for Maharashtra and Goa and provides wireline voice, data, and managed telecom services to enterprise and retail customers. ¶ • It earns from these services and had sales of ₹621 crore in the March 2010 quarter, but is much smaller than peers like Jio Platforms and Bharti Airtel. ¶ ## Why it moved today ¶ • No company-specific trigger was reported for the 8.77% fall on 29 October 2026; the decline was part of a two-session streak that took the stock from ₹41.85 to ₹36.68, a 12.35% drop. ¶ ## The numbers (Screener) ¶ • Market cap was ₹7,042 crore and the stock traded at ₹36.0, with a book value of negative ₹2.87 per share and a dividend yield of 0.00%. ¶ • For the March 2010 quarter, sales were ₹621 crore, operating profit was ₹161 crore, and net loss was ₹64 crore, with a negative ROCE of 12.7%. ¶ ## What the numbers say ¶ • The stock has no P/E because it is loss-making, and its negative book value and ROCE of -12.7% contrast with profitable peers like Bharti Airtel (ROCE 17.56%) and Jio Platforms (12.08%). ¶ • The 8.77% fall extends a two-day drop of 12.35%, but with no earnings recovery and a much smaller scale than peers, the move reflects weak fundamentals rather than a one-off event. ¶ ↗ univest.in|https://univest.in/blogs/why-tata-teleservices-maharashtra-share-consecutive-price-fall-2026
