@@ -53,14 +53,14 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-10-29"
  },
  "google": {
   "name": "Google",
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-29"
  },
  "olaelectric": {
   "name": "Ola Electric",
@@ -172,7 +172,7 @@
   "sector": "Telecom",
   "description": "Indian telecom operator providing mobile, broadband and enterprise services across the country.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-10-29"
  },
  "motilaloswal": {
   "name": "Motilal Oswal",
@@ -522,7 +522,7 @@
   "sector": "Insurance",
   "description": "Indian general insurance company offering motor, health and travel policies digitally.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-10-29"
  },
  "syrmasgs": {
   "name": "Syrma SGS",
@@ -585,7 +585,7 @@
   "sector": "Business process management",
   "description": "RP-Sanjiv Goenka Group firm running customer experience and back-office services; shares jumped 6.1%.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-10-29"
  },
  "cemindiaprojects": {
   "name": "Cemindia Projects",
@@ -1250,7 +1250,7 @@
   "sector": "Software",
   "description": "US software giant; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-10-29"
  },
  "adobe": {
   "name": "Adobe",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-29"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -3140,7 +3140,7 @@
   "sector": "Financial services",
   "description": "Non-bank lender; among the Sensex gainers on Monday.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-29"
  },
  "tatasteel": {
   "name": "Tata Steel",
@@ -3252,7 +3252,7 @@
   "sector": "IT services",
   "description": "Mid-sized IT services firm part of the CK Birla Group; stock fell 4.4% without fresh company news.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-29"
  },
  "amfi": {
   "name": "AMFI",
@@ -3854,7 +3854,7 @@
   "sector": "Non-bank finance",
   "description": "Large NBFC financing commercial vehicles, especially used trucks, through branches and rural centres.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-29"
  },
  "mufg": {
   "name": "MUFG",
@@ -4001,7 +4001,7 @@
   "sector": "NBFC",
   "description": "Gold loan NBFC; named as a peer comparison for HDB Financial.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-29"
  },
  "tatacapital": {
   "name": "Tata Capital",
@@ -7928,7 +7928,7 @@
   "sector": "Enterprise software",
   "description": "Database and cloud firm partnering with M42 and AstraZeneca on AI health infrastructure.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-10-29"
  },
  "m42": {
   "name": "M42",
@@ -8040,7 +8040,7 @@
   "sector": "Telecom",
   "description": "Provides wireline voice and data services to enterprises in Maharashtra and Goa.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-10-29"
  },
  "keiindustries": {
   "name": "KEI Industries",
@@ -12540,6 +12540,83 @@
   "name": "UDF",
   "sector": "Politics",
   "description": "Not enough detail in today's digest",
+  "first_added": "2026-10-29",
+  "last_mentioned": "2026-10-29"
+ },
+ "bgigenomics": {
+  "name": "BGI Genomics",
+  "sector": "Genomics",
+  "description": "Chinese genomics company added to the US Uyghur Forced Labor Prevention Act Entity List.",
+  "first_added": "2026-10-29",
+  "last_mentioned": "2026-10-29"
+ },
+ "mgitech": {
+  "name": "MGI Tech",
+  "sector": "Genomics",
+  "description": "Chinese gene sequencing company banned from US imports over forced labour concerns.",
+  "first_added": "2026-10-29",
+  "last_mentioned": "2026-10-29"
+ },
+ "shenzhenbgitechnology": {
+  "name": "Shenzhen BGI Technology",
+  "sector": "Genomics",
+  "description": "Chinese BGI affiliate added to the US forced labour import ban list.",
+  "first_added": "2026-10-29",
+  "last_mentioned": "2026-10-29"
+ },
+ "renfe": {
+  "name": "Renfe",
+  "sector": "Rail transport",
+  "description": "Spanish state rail operator whose high-speed train crashed in Toledo province, killing at least 68.",
+  "first_added": "2026-10-29",
+  "last_mentioned": "2026-10-29"
+ },
+ "iryo": {
+  "name": "Iryo",
+  "sector": "Rail transport",
+  "description": "Spanish private high-speed rail operator whose stationary train was hit near Mora and Orgaz.",
+  "first_added": "2026-10-29",
+  "last_mentioned": "2026-10-29"
+ },
+ "poonawallafincorp": {
+  "name": "Poonawalla Fincorp",
+  "sector": "NBFC",
+  "description": "Pune-based non-bank lender offering personal loans, pre-owned car finance and loans against property.",
+  "first_added": "2026-10-29",
+  "last_mentioned": "2026-10-29"
+ },
+ "eclerxservices": {
+  "name": "eClerx Services",
+  "sector": "Business process management",
+  "description": "Indian BPM and analytics provider to Fortune 2000 clients; profit fell despite revenue growth.",
+  "first_added": "2026-10-29",
+  "last_mentioned": "2026-10-29"
+ },
+ "hamleys": {
+  "name": "Hamleys",
+  "sector": "Retail",
+  "description": "Toy retailer owned by Reliance; its UK franchising unit faces strike-off and dissolution.",
+  "first_added": "2026-10-29",
+  "last_mentioned": "2026-10-29"
+ },
+ "bitwise": {
+  "name": "Bitwise",
+  "sector": "Asset management",
+  "description": "Crypto asset manager projecting bitcoin at $1,599,766 by 2036.",
+  "first_added": "2026-10-29",
+  "last_mentioned": "2026-10-29"
+ },
+ "cholamandalam": {
+  "name": "Cholamandalam",
+  "sector": "NBFC",
+  "description": "Indian non-bank lender named as a peer in the Poonawalla Fincorp comparison.",
+  "first_added": "2026-10-29",
+  "last_mentioned": "2026-10-29"
+ },
+ "personiv": {
+  "name": "Personiv",
+  "sector": "Business process management",
+  "description": "BPO firm in which eClerx Services acquired a 2% stake for $1.64 million.",
   "first_added": "2026-10-29",
   "last_mentioned": "2026-10-29"
  }
