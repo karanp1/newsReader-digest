@@ -3042,7 +3042,7 @@
   "sector": "Retail",
   "description": "Tata group retailer; cited as a valuation peer for Lenskart and among Sensex gainers.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-10-30"
  },
  "adityavision": {
   "name": "Aditya Vision",
@@ -3483,7 +3483,7 @@
   "sector": "Bitcoin",
   "description": "Bitcoin investment firm; bought 2,000 Bitcoin for $169 million.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-10-30"
  },
  "urbancompany": {
   "name": "Urban Company",
@@ -3833,14 +3833,14 @@
   "sector": "Power generation",
   "description": "Thermal power arm of Vedanta Group, supplying electricity to industries and state utilities.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-30"
  },
  "idbibank": {
   "name": "IDBI Bank",
   "sector": "Banking",
   "description": "Private-sector bank taking deposits and lending to retail, small business and corporate customers.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-10-30"
  },
  "cholamandalaminvestment": {
   "name": "Cholamandalam Investment",
@@ -4736,7 +4736,7 @@
   "sector": "Insurance",
   "description": "Canadian financial holding company buying a 60.72% stake in IDBI Bank.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-30"
  },
  "iiflcapital": {
   "name": "IIFL Capital",
@@ -4750,7 +4750,7 @@
   "sector": "Oil and gas",
   "description": "Oil and gas explorer operating under the Cairn brand with blocks across India.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-30"
  },
  "vedantairon": {
   "name": "Vedanta Iron",
@@ -13058,6 +13058,41 @@
   "name": "Genpact",
   "sector": "Business process management",
   "description": "BPM provider cited as a large player alongside Infosys BPM and WNS.",
+  "first_added": "2026-10-30",
+  "last_mentioned": "2026-10-30"
+ },
+ "integraresources": {
+  "name": "Integra Resources",
+  "sector": "Mining",
+  "description": "Gold producer; reported 17,652 ounces of gold output in the third quarter, up 8% sequentially.",
+  "first_added": "2026-10-30",
+  "last_mentioned": "2026-10-30"
+ },
+ "oneplanetpartners": {
+  "name": "One Planet Partners",
+  "sector": "Private equity",
+  "description": "VC firm launching a first PE fund with Sumitomo Mitsui Trust Bank to invest over Rs 3,000 crore in India.",
+  "first_added": "2026-10-30",
+  "last_mentioned": "2026-10-30"
+ },
+ "sumitomomitsuitrustbank": {
+  "name": "Sumitomo Mitsui Trust Bank",
+  "sector": "Banking",
+  "description": "Japanese bank; anchored One Planet Partners' first private equity fund.",
+  "first_added": "2026-10-30",
+  "last_mentioned": "2026-10-30"
+ },
+ "paradeepphosphates": {
+  "name": "Paradeep Phosphates",
+  "sector": "Fertilisers",
+  "description": "India's second largest private phosphatic fertiliser maker; shares fell 10.69% on weak Q2.",
+  "first_added": "2026-10-30",
+  "last_mentioned": "2026-10-30"
+ },
+ "redington": {
+  "name": "Redington",
+  "sector": "IT distribution",
+  "description": "IT and mobility products distributor across India, Middle East, Turkey and Africa; shares fell 8.74%.",
   "first_added": "2026-10-30",
   "last_mentioned": "2026-10-30"
  }
