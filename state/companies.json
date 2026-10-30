@@ -508,7 +508,7 @@
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-30"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
@@ -865,7 +865,7 @@
   "sector": "IT services",
   "description": "Indian IT services company; chairman Rishad Premji led the ET Startup Awards jury.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-10-30"
  },
  "porsche": {
   "name": "Porsche",
@@ -1215,7 +1215,7 @@
   "sector": "Power",
   "description": "State-run power generator; parent of NTPC Green Energy.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-30"
  },
  "cognizant": {
   "name": "Cognizant",
@@ -2083,7 +2083,7 @@
   "sector": "Financial services",
   "description": "Brokerage that valued Jio Platforms at about $110 billion in June estimates.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-10-30"
  },
  "dpcgc": {
   "name": "DPCGC",
@@ -3987,7 +3987,7 @@
   "sector": "Renewable energy",
   "description": "Renewable power producer; named as a peer comparison for Vedanta Power.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-30"
  },
  "jswenergy": {
   "name": "JSW Energy",
@@ -5016,14 +5016,14 @@
   "sector": "Oil and gas",
   "description": "Indian state oil and gas explorer, a peer to Vedanta Oil and Gas.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-10-30"
  },
  "oilindia": {
   "name": "Oil India",
   "sector": "Oil and gas",
   "description": "Indian state oil and gas producer, a peer to Vedanta Oil and Gas.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-10-30"
  },
  "gevernovatd": {
   "name": "GE Vernova T&D",
@@ -11701,7 +11701,7 @@
   "sector": "Mining",
   "description": "Indian metals and mining group exploring about Rs 70,000 crore of investment in West Bengal.",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-10-30"
  },
  "gailindia": {
   "name": "GAIL India",
@@ -12569,14 +12569,14 @@
   "sector": "Rail transport",
   "description": "Spanish state rail operator whose high-speed train crashed in Toledo province, killing at least 68.",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-10-30"
  },
  "iryo": {
   "name": "Iryo",
   "sector": "Rail transport",
   "description": "Spanish private high-speed rail operator whose stationary train was hit near Mora and Orgaz.",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-10-30"
  },
  "poonawallafincorp": {
   "name": "Poonawalla Fincorp",
@@ -13093,6 +13093,34 @@
   "name": "Redington",
   "sector": "IT distribution",
   "description": "IT and mobility products distributor across India, Middle East, Turkey and Africa; shares fell 8.74%.",
+  "first_added": "2026-10-30",
+  "last_mentioned": "2026-10-30"
+ },
+ "intellectdesignarena": {
+  "name": "Intellect Design Arena",
+  "sector": "Software",
+  "description": "Indian banking and insurance software products company; shares fell 17% on margin slip.",
+  "first_added": "2026-10-30",
+  "last_mentioned": "2026-10-30"
+ },
+ "bostonconsultinggroup": {
+  "name": "Boston Consulting Group",
+  "sector": "Consulting",
+  "description": "US management consultancy; says AI-led services will add $100-200 billion of work by 2030.",
+  "first_added": "2026-10-30",
+  "last_mentioned": "2026-10-30"
+ },
+ "nhpc": {
+  "name": "NHPC",
+  "sector": "Power",
+  "description": "Indian state-owned hydropower producer; cited as a peer comparison for Vedanta Power.",
+  "first_added": "2026-10-30",
+  "last_mentioned": "2026-10-30"
+ },
+ "ntpcgreen": {
+  "name": "NTPC Green",
+  "sector": "Renewable energy",
+  "description": "Indian renewable energy arm of NTPC; cited as a peer comparison for Vedanta Power.",
   "first_added": "2026-10-30",
   "last_mentioned": "2026-10-30"
  }
