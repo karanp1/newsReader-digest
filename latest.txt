@@ -3,8 +3,8 @@ METRICS
 NIFTY PE | 19.30 | 30 Oct 2026 | https://nifty-pe-ratio.com/
 Gold per 10g 24K | ₹1,42,250 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 23,053.10 (+1.32%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹73,41,956 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $77,306 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹73,33,528 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $77,233 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -79,11 +79,11 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   30 Oct 2026 | https://finance.yahoo.com/markets/crypto/articles/binance-hack-sparks-bitcoin-sell-131240704.html
-  • Bitcoin fell to a six-week low near $76,400 and traded around $77,300, down over 3% in 24 hours, after a reported $6.3 billion hack at Binance. ¶ • Over $1.6 billion in crypto bets were liquidated in 24 hours, with long positions accounting for $1.35 billion, CoinGlass data showed. ¶ • Binance reserved more than $6.34 billion of company funds to cover losses, including $5 billion in affected tokens, and said unauthorized outflows had stopped. ¶ • Strategy Inc. sold about $431.8 million of Bitcoin in 2026 to fund $419.6 million in preferred dividends and $2.04 billion of STRC buybacks, while still holding 848,517 BTC. ¶ • Bitcoin is down 7% for October and $30,941 lower than a year ago, with the market cap at roughly $1.33 trillion and the 200-day moving average near $73,000 as next support. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/binance-hack-sparks-bitcoin-sell-131240704.html ;; fortune.com|https://fortune.com/article/price-of-bitcoin-10-30-2026/ ;; tradingview.com|https://www.tradingview.com/news/benzinga:43a4bbcb1094b:0-bitcoin-ethereum-xrp-plunge-4-a-dip-worth-buying/ ;; 247wallst.com|https://247wallst.com/investing/cryptocurrency/2026/10/30/strategy-has-sold-432-million-of-bitcoin-this-year-is-the-biggest-buyer-turning-into-a-seller/
+  • A $6.3 billion hack at Binance sent Bitcoin to a six-week low near $76,400, down over 3% in 24 hours to about $77,300, per reports. ¶ • More than $1.6 billion in crypto bets were liquidated in 24 hours, with long positions accounting for $1.35 billion, CoinGlass data showed. ¶ • Binance reserved over $6.34 billion in company funds to cover losses and said unauthorized outflows had stopped as it worked to resume withdrawals. ¶ • Bitcoin is down 7% for October, on track to end the month in the red, and trades about $30,941 below its level a year ago. ¶ • Analyst Ali Martinez flagged the 200-day moving average near $73,000 as key support after Bitcoin was rejected at its 50-day average near $78,000. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/binance-hack-sparks-bitcoin-sell-131240704.html ;; fortune.com|https://fortune.com/article/price-of-bitcoin-10-30-2026/ ;; tradingview.com|https://www.tradingview.com/news/benzinga:43a4bbcb1094b:0-bitcoin-ethereum-xrp-plunge-4-a-dip-worth-buying/ ;; fool.com|https://www.fool.com/investing/2026/10/30/bitcoin-dips-below-80000-here-are-the-x-factors-th/
 
 - Outlook: Bearish
   2026-10-31 |
-  §VIEW§{"stance": "bearish", "text": "A $6.3 billion exchange hack, $1.6 billion in liquidations and 7% October losses drive the sell-off. Binance's $6.34 billion reserve and ETF accumulation are the offsets, but flows still favor sellers."}
+  §VIEW§{"stance": "bearish", "text": "A $6.3 billion exchange hack, $1.6 billion in liquidations and Fed rate hikes have pushed Bitcoin to a six-week low. October looks set to close down 7%, with no near-term catalyst."}
 
 [Gold]
 
