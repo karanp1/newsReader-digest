@@ -60,7 +60,7 @@
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "olaelectric": {
   "name": "Ola Electric",
@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -158,14 +158,14 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -186,7 +186,7 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "walmart": {
   "name": "Walmart",
@@ -221,7 +221,7 @@
   "sector": "E-commerce",
   "description": "Global online retailer running Great Indian Festival sale in competition with Flipkart.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "chennaipetroleum": {
   "name": "Chennai Petroleum",
@@ -501,7 +501,7 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "naukri": {
   "name": "Naukri",
@@ -515,7 +515,7 @@
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "godigit": {
   "name": "Go Digit",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1243,14 +1243,14 @@
   "sector": "IT services",
   "description": "French IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-31"
  },
  "microsoft": {
   "name": "Microsoft",
   "sector": "Software",
   "description": "US software giant; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "adobe": {
   "name": "Adobe",
@@ -1915,7 +1915,7 @@
   "sector": "Financial services",
   "description": "Investment bank appointed for Jio Platforms' IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-10-31"
  },
  "axiscapital": {
   "name": "Axis Capital",
@@ -2790,14 +2790,14 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "accenture": {
   "name": "Accenture",
   "sector": "IT services",
   "description": "Consulting and technology firm; a founding partner in Anthropic's Critical Infrastructure Defense Program.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-10-31"
  },
  "crowdstrike": {
   "name": "CrowdStrike",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -3266,14 +3266,14 @@
   "sector": "Insurance",
   "description": "General insurance company; mentioned in the watchlist context.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "relianceintelligence": {
   "name": "Reliance Intelligence",
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "gartner": {
   "name": "Gartner",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3833,14 +3833,14 @@
   "sector": "Power generation",
   "description": "Thermal power arm of Vedanta Group, supplying electricity to industries and state utilities.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "idbibank": {
   "name": "IDBI Bank",
   "sector": "Banking",
   "description": "Private-sector bank taking deposits and lending to retail, small business and corporate customers.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "cholamandalaminvestment": {
   "name": "Cholamandalam Investment",
@@ -3903,7 +3903,7 @@
   "sector": "Banking",
   "description": "Public sector bank offering personal, corporate, SME and NRI services; faces a $15 billion lawsuit by BR Shetty.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "standardchartered": {
   "name": "Standard Chartered",
@@ -4736,7 +4736,7 @@
   "sector": "Insurance",
   "description": "Canadian financial holding company buying a 60.72% stake in IDBI Bank.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "iiflcapital": {
   "name": "IIFL Capital",
@@ -4750,7 +4750,7 @@
   "sector": "Oil and gas",
   "description": "Oil and gas explorer operating under the Cairn brand with blocks across India.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "vedantairon": {
   "name": "Vedanta Iron",
@@ -6479,7 +6479,7 @@
   "sector": "AI",
   "description": "Meta's AI agent that generates explicit text in private chats with adult users.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "gpt61sol": {
   "name": "GPT-6.1 Sol",
@@ -9244,7 +9244,7 @@
   "sector": "Crypto exchange",
   "description": "Global cryptocurrency exchange; transferred BTC to Fidelity's ETF wallet.",
   "first_added": "2026-10-24",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-10-31"
  },
  "kilitchdrugs": {
   "name": "Kilitch Drugs",
@@ -11197,7 +11197,7 @@
   "sector": "Pharmaceuticals",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-10-31"
  },
  "divislabs": {
   "name": "Divi's Labs",
@@ -13094,14 +13094,14 @@
   "sector": "IT distribution",
   "description": "IT and mobility products distributor across India, Middle East, Turkey and Africa; shares fell 8.74%.",
   "first_added": "2026-10-30",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "intellectdesignarena": {
   "name": "Intellect Design Arena",
   "sector": "Software",
   "description": "Indian banking and insurance software products company; shares fell 17% on margin slip.",
   "first_added": "2026-10-30",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-10-31"
  },
  "bostonconsultinggroup": {
   "name": "Boston Consulting Group",
@@ -13123,5 +13123,138 @@
   "description": "Indian renewable energy arm of NTPC; cited as a peer comparison for Vedanta Power.",
   "first_added": "2026-10-30",
   "last_mentioned": "2026-10-30"
+ },
+ "generatebiomedicines": {
+  "name": "Generate Biomedicines",
+  "sector": "Biotech",
+  "description": "Uses AI to design medicines; used Claude Code to design a shorter CAR T-cell component.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "divergencelabs": {
+  "name": "Divergence Labs",
+  "sector": "Biotech",
+  "description": "Used Claude to generate about 35,000 antibody designs for a food allergy drug.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "bighatbiosciences": {
+  "name": "BigHat Biosciences",
+  "sector": "Biotech",
+  "description": "Antibody engineering company; tested about 1,010 antibody variants in 10 weeks with Claude.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "enveda": {
+  "name": "Enveda",
+  "sector": "Biotech AI",
+  "description": "Develops AI systems for pharma; built CDP to review FDA GMP manufacturing documents.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "tkelevator": {
+  "name": "TK Elevator",
+  "sector": "Elevators",
+  "description": "Elevator and escalator maker with 25,000 service technicians; uses Microsoft AI agents for repairs.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "telstra": {
+  "name": "Telstra",
+  "sector": "Telecom",
+  "description": "Australian telecom operator; deployed an AI migration payment agent and an AI cost control plane.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "volkswagen": {
+  "name": "Volkswagen",
+  "sector": "Automobiles",
+  "description": "German automaker that scaled Microsoft Copilot to more than 330,000 employees.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "fujitsu": {
+  "name": "Fujitsu",
+  "sector": "IT services",
+  "description": "Japanese IT services company rolling out Copilot to roughly 100,000 staff.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "kohler": {
+  "name": "KOHLER",
+  "sector": "Building products",
+  "description": "Kitchen and bath products maker; used GitHub Copilot to lift code releases and cut defects.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "krafton": {
+  "name": "Krafton",
+  "sector": "Gaming",
+  "description": "South Korean game publisher; cut security alert recognition time using Security Copilot and Defender XDR.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "nasa": {
+  "name": "NASA",
+  "sector": "Space research",
+  "description": "US space agency; applied Copilot to Earth science data.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "williams": {
+  "name": "Williams",
+  "sector": "Energy infrastructure",
+  "description": "US energy infrastructure company applying AI to frontline gas operations.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "igl": {
+  "name": "IGL",
+  "sector": "Gas distribution",
+  "description": "Indraprastha Gas, city gas distributor; net profit fell 93% on higher input gas costs.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "organon": {
+  "name": "Organon",
+  "sector": "Pharmaceuticals",
+  "description": "Women's health drugmaker acquired by Sun Pharma, tied to exceptional charges.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "ioc": {
+  "name": "IOC",
+  "sector": "Oil refining",
+  "description": "Indian Oil, state refiner and fuel retailer; Q2 profit soared 184% on higher refining margins.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "gail": {
+  "name": "GAIL",
+  "sector": "Gas",
+  "description": "Indian state gas company; profit more than doubled on gas marketing and approved a GAIL Gas IPO.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "gailgas": {
+  "name": "GAIL Gas",
+  "sector": "City gas distribution",
+  "description": "GAIL subsidiary running CNG stations and piped gas connections; parent approved a 25% stake sale via IPO.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "milkymist": {
+  "name": "Milky Mist",
+  "sector": "Dairy",
+  "description": "Dairy food company; first-half profit after tax grew 308% after its August listing.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
+ },
+ "miele": {
+  "name": "Miele",
+  "sector": "Consumer appliances",
+  "description": "German premium appliance maker targeting up to 22% annual India growth and doubling its dealer network.",
+  "first_added": "2026-10-31",
+  "last_mentioned": "2026-10-31"
  }
 }
