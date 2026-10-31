@@ -1,10 +1,10 @@
 DAILY NEWS DIGEST — 2026-10-31
 METRICS
-Nifty PE Ratio | 19.30 | 30 Oct 2026 | https://nifty-pe-ratio.com/
-Gold rate, Bengaluru (per 10 g) | 24K ₹1,42,250, 22K ₹1,30,400 | 31 Oct 2026 | https://groww.in/gold-rates/gold-rate-today-in-bangalore
-Nifty 50 | 23,053.10 (+1.32%) | 30 Oct 2026, 03:31 PM IST | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹73,36,965 (+0.6% 24h) | 31 Oct 2026 | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $77,244 (+0.9% 24h) | 31 Oct 2026 | https://coinmarketcap.com/currencies/bitcoin/
+NIFTY PE | 19.30 | 30 Oct 2026 | https://nifty-pe-ratio.com/
+Gold per 10g 24K | ₹1,42,250 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
+Nifty 50 | 23,053.10 (+1.32%) |  | https://groww.in/indices/nifty
+Bitcoin (INR) | ₹73,41,956 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $77,306 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -13,11 +13,11 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   30 Oct 2026 | https://www.moneycontrol.com/news/business/earnings/reliance-industries-ril-q2-results-2026-live-updates-ril-dividend-jio-platforms-q2-earnings-share-price-oct-30-liveblog-14064208.html
-  • Jio Platforms reported a 13.7% year-on-year increase in net profit to ₹8,389 crore for the September quarter. ¶ • The company's revenue from operations rose 11.4% year-on-year to ₹40,475 crore, driven by digital services and connectivity. ¶ • Jio Platforms' average revenue per user (ARPU) grew to ₹218.8 per month, up 3.5% year-on-year. ¶ • Jio Platforms' EBITDA rose 16.6% year-on-year to ₹21,879 crore, expanding its EBITDA margin to 54.1%. ¶ • The company is now the second-most-valued listed entity in the Reliance Group following its recent IPO. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:32ce9d950cade:0-jio-platforms-q2fy27-profit-rises-14-arpu-grows-to-rs-218-8-in-first-post-listing-results/ ;; tradingview.com|https://www.tradingview.com/news/moodys:e59579dfd7732:0-ril-jpl-q2-results-2026-impact-reliance-industries-jio-platforms-shares-in-focus-on-monday-2-nov-what-to-expect/ ;; m.economictimes.com|https://m.economictimes.com/markets/stocks/live-blog/ril-jio-platforms-q2-results-2026-live-updates-reliance-industries-jpl-quarter-2-earnings-result-fy27-revenue-dividend-share-price/liveblog/135351601.cms
+  • Jio Platforms listed on 28 October after a ₹30,213 crore IPO, India's largest ever, with shares closing 21.4% above the ₹1,119 issue price. ¶ • Q2 FY27 revenue rose 11.4% year-on-year to ₹40,475 crore, with net profit up 13.7% to ₹8,389 crore in the first results after listing. ¶ • EBITDA rose 16.6% year-on-year to ₹21,879 crore and margin expanded 250 basis points to 54.1%. ¶ • ARPU rose to ₹218.8 per month from ₹215.6 in the June quarter, held back by promotional 5G offers. ¶ • Jio added 9.1 million subscribers to reach 542.4 million, including 300 million 5G users and over 30 million fixed broadband homes. ¶ ↗ moneycontrol.com|https://www.moneycontrol.com/news/business/earnings/reliance-industries-ril-q2-results-2026-live-updates-ril-dividend-jio-platforms-q2-earnings-share-price-oct-30-liveblog-14064208.html ;; m.economictimes.com|https://m.economictimes.com/markets/stocks/live-blog/ril-jio-platforms-q2-results-2026-live-updates-reliance-industries-jpl-quarter-2-earnings-result-fy27-revenue-dividend-share-price/liveblog/135351601.cms ;; telecomtv.com|https://www.telecomtv.com/content/ai/what-s-up-with-cohere-jio-platforms-t-mobile-us-56567/ ;; tradingview.com|https://www.tradingview.com/news/moodys:194ca43a9ce22:0-same-family-different-fate-why-jio-platforms-isn-t-rpower-redux/
 
 - Outlook: Bullish
   2026-10-31 |
-  §VIEW§{"stance": "bullish", "text": "Strong growth in net profit and ARPU, coupled with significant EBITDA margin expansion, supports a positive outlook. The recent successful IPO solidifies its market standing."}
+  §VIEW§{"stance": "bullish", "text": "The IPO raised Rs 30,213 crore and listed 21.4% above issue, while Q2 revenue grew 11.4% and EBITDA margin expanded 250 basis points to 54.1%. ARPU growth stays muted at Rs 218.8 on promotional 5G offers."}
 
 [Reliance Intelligence]
 
@@ -35,21 +35,21 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   30 Oct 2026 | https://finance.yahoo.com/news/walmart-investigates-flipkart-over-whistleblower-152425779.html
-  • Walmart opened its third investigation into Flipkart in under three years after whistleblower complaints of over ₹150 crore ($16 million) in alleged kickbacks. ¶ • The probe covers Flipkart's smartphones and luggage and travel accessories divisions, with nearly 150 employees under investigation, per a person familiar. ¶ • Employees allegedly took payments from vendors via Flipkart's B2B route in exchange for preferential treatment, including greater product visibility on the platform. ¶ • Flipkart Internet reported revenue from operations of ₹1,45,880 crore in FY26, up 18% year on year, while net loss narrowed to ₹8,468 crore from ₹8,646 crore. ¶ • At least 14 vice presidents and senior vice presidents left Flipkart in the past year, and 1,000 former employees wrote to Walmart's board seeking buyback parity. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/news/walmart-investigates-flipkart-over-whistleblower-152425779.html ;; thehindubusinessline.com|https://www.thehindubusinessline.com/companies/flipkart-kickback-probe-raises-questions-over-internal-controls-vendor-oversight/article71644578.ece ;; cnbctv18.com|https://www.cnbctv18.com/business/flipkart-under-walmart-probe-over-alleged-rupees-150-crore-kickbacks-bribe-e-commerce-shopping-20023122.htm ;; moneycontrol.com|https://www.moneycontrol.com/news/business/startup/walmart-probes-flipkart-employees-over-kickbacks-exceeding-rs-150-crore-14063863.html
+  • Walmart opened its third investigation into Flipkart in under three years, probing whistleblower claims of over ₹150 crore ($16 million) in kickbacks by staff in smartphones and luggage and travel accessories. ¶ • About 150 employees are under investigation for allegedly taking vendor payments in exchange for preferential treatment, including better product visibility, through Flipkart's business-to-business operations. ¶ • The probe puts Flipkart's internal controls and vendor oversight under scrutiny as the company prepares for a potential public listing. ¶ • Flipkart Internet reported revenue from operations of ₹1,45,880 crore in FY26, up 18% year on year, while its consolidated net loss narrowed to ₹8,468 crore from ₹8,646 crore. ¶ • Flipkart ran a SuperCoins transfer promotion from October 20 to November 8, 2026, offering up to 1:1 airline miles and 2:1 Accor Reward points. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/news/walmart-investigates-flipkart-over-whistleblower-152425779.html ;; thehindubusinessline.com|https://www.thehindubusinessline.com/companies/flipkart-kickback-probe-raises-questions-over-internal-controls-vendor-oversight/article71644578.ece ;; cnbctv18.com|https://www.cnbctv18.com/business/flipkart-under-walmart-probe-over-alleged-rupees-150-crore-kickbacks-bribe-e-commerce-shopping-20023122.htm ;; livefromalounge.com|https://livefromalounge.com/flipkart-supercoins-conversion-bonus-with-11-airline-miles-and-21-accor-points-through-nov-8-2026/
 
 - Outlook: Bearish
   2026-10-31 |
-  §VIEW§{"stance": "bearish", "text": "A third Walmart probe into alleged Rs 150 crore kickbacks, plus 14 senior exits and ESOP unrest, puts governance and IPO timing under a cloud. Revenue grew 18% in FY26, but the loss stayed near Rs 8,468 crore."}
+  §VIEW§{"stance": "bearish", "text": "A third Walmart probe into alleged Rs 150 crore kickbacks and weak controls weighs on Flipkart ahead of a possible IPO. Revenue rose 18% in FY26, but the loss of Rs 8,468 crore and governance risk dominate."}
 
 [Zomato]
 
 - ~
   31 Oct 2026 | https://urbanacres.in/maharashtra-fda-suspends-reliance-zomato-and-blinkit-food-units/
-  • ['Maharashtra FDA suspended food business licences for Zomato Hyperpure and other entities following inspections finding lapses in food handling and storage.', 'Zomato Hyperpure in Usatane, Ambernath, had 5,431 products weighing about 9,590 kg and valued at ₹7,80,620 recorded as spoiled, expired, or rejected.', 'The FDA mandated that businesses must keep expired, spoiled, and returned food in separate locked quarantine areas with authorized disposal agencies.', "Zomato launched a 'Have a WOW Diwali' campaign featuring Saif Ali Khan, promoting curated food hampers from restaurant partners.", 'The government notified the National Social Security Board to strengthen social security coverage for gig and platform workers, including those for Zomato.'] ¶ ↗ urbanacres.in|https://urbanacres.in/maharashtra-fda-suspends-reliance-zomato-and-blinkit-food-units/ ;; adgully.com|https://www.adgully.com/post/23105/zomato-unveils-have-a-wow-diwali-campaign-starring-saif-ali-khan ;; livemint.com|https://www.livemint.com/money/swiggy-zomato-other-gig-workers-to-get-new-social-security-board-pension-insurance-benefits-incoming-know-here-11793359991048.html
+  • Maharashtra FDA suspended food licences at Zomato Hyperpure's Usatane facility, citing 9,590 kg of spoiled stock worth ₹7,80,620, cockroach and rat infestation, and cold-chain lapses. ¶ • Eternal, Zomato's parent, hit a 52-week high of ₹345.65, up 6% in two days and 13% in six sessions after strong Q2FY27 results. ¶ • Q2FY27 revenue rose 77.6% year on year to ₹24,138 crore, but net profit of ₹125 crore missed the ₹271 crore analyst estimate. ¶ • Blinkit raised its store target to more than 3,500 by March 2027 from 3,000, after adding 308 stores to reach 2,751 locations. ¶ • The government notified a National Social Security Board for gig and platform workers, which may recommend pension and insurance schemes. ¶ ↗ urbanacres.in|https://urbanacres.in/maharashtra-fda-suspends-reliance-zomato-and-blinkit-food-units/ ;; business-standard.com|https://www.business-standard.com/markets/news/eternal-share-price-rallies-6-in-two-days-stock-nears-record-high-here-s-why-126103000553_1.html ;; livemint.com|https://www.livemint.com/money/swiggy-zomato-other-gig-workers-to-get-new-social-security-board-pension-insurance-benefits-incoming-know-here-11793359991048.html ;; ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/corporate-news/eternal-stock-emkay-lifts-target-as-blinkit-expansion-accelerates/70433199
 
 - Outlook: Neutral
   2026-10-31 |
-  §VIEW§{"stance": "neutral", "text": "Regulatory scrutiny over food safety and waste management is increasing across platforms. Conversely, Zomato is engaging in marketing efforts and the government is addressing gig worker welfare."}
+  §VIEW§{"stance": "neutral", "text": "Blinkit's raised store target and 77.6% revenue growth support the stock, but profit missed estimates and Maharashtra licence suspensions add regulatory risk. Growth and risk split the flow."}
 
 [HAL]
 
@@ -57,17 +57,13 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Dmart]
 
-- Avenue Supermarts opens new store in Pune, takes total count to 519
+- ~
   30 Oct 2026 | https://scanx.trade/stock-market-news/companies/avenue-supermarts-opens-new-store-pune-takes-total-count-519/54911998
-  Avenue Supermarts Limited allotted ₹ 200 crore worth of commercial paper on October 29, 2026. The unsecured short-term debt instrument carries a coupon rate of 7.20% and has a tenure of 43 days.
+  • Avenue Supermarts opened a new D-Mart store at GHS Mall, Pune, taking its total operational store count to 519 locations across India as of 30 October 2026. ¶ • The company allotted ₹200 crore of commercial paper on 29 October 2026, carrying a coupon of 7.20% and a tenure of 43 days, rated ICRA A1+. ¶ • FY26 consolidated revenue was 68,821, with EBITDA of 5,187 and PAT of 2,970, per the company disclosure. ¶ • The new Pune store follows the owned-store model, which carries higher upfront capital commitment than leased-format retail. ¶ • The commercial paper proceeds are meant for immediate working capital needs, with principal and interest payable at maturity. ¶ ↗ scanx.trade|https://scanx.trade/stock-market-news/companies/avenue-supermarts-opens-new-store-pune-takes-total-count-519/54911998 ;; kalkine.co.in|https://www.kalkine.co.in/article/travel/what-do-avenue-supermartss-fy26-results-reveal-about-its-next-operating-priorities ;; kalkine.co.in|https://www.kalkine.co.in/article/announcements/avenue-supermarts-nsedmart-what-does-its-new-pune-store-mean-for-its-network ;; investywise.com|https://www.investywise.com/avenue-supermarts-limited-new-store-opening-7/
 
-- Avenue Supermarts (NSE:DMART) FY26 results and financial outlook
-  30 Oct 2026 | https://www.kalkine.co.in/article/travel/what-do-avenue-supermartss-fy26-results-reveal-about-its-next-operating-priorities
-  Avenue Supermarts operates in grocery and household merchandise retailing. Its FY26 disclosure places consolidated revenue at 68,821, ebitda at 5,187, and pat at 2,970. Those indicators offer different perspectives on the enterprise and…
-
-- Avenue Supermarts DMART Opens New Pune Store, Total Reaches 519
-  30 Oct 2026 | https://www.kalkine.co.in/article/announcements/avenue-supermarts-nsedmart-what-does-its-new-pune-store-mean-for-its-network
-  Avenue Supermarts Limited (NSE:DMART) informed stock exchanges on 30 October 2026 that it has opened a new store at GHS Mall, Pune, Maharashtra. With this addition, the company's total operational store count now stands at 519 locations…
+- Outlook: Neutral
+  2026-10-31 |
+  §VIEW§{"stance": "neutral", "text": "Store additions and FY26 revenue of 68,821 show steady expansion, but the disclosure gives no margin or cash flow detail. The 7.20% commercial paper for working capital splits the read."}
 
 [Godigit Insurance]
 
@@ -83,21 +79,21 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   30 Oct 2026 | https://finance.yahoo.com/markets/crypto/articles/binance-hack-sparks-bitcoin-sell-131240704.html
-  • Bitcoin fell to a six-week low near $76,400 after a reported $6.3 billion hack at Binance, its largest crypto theft on record. ¶ • Attackers drained funds from 10 blockchains including 17,985 bitcoin worth about $1.45 billion, with blockchain analysts pointing to North Korea's TraderTraitor group. ¶ • Crypto bets worth over $1.6 billion were liquidated in 24 hours, with long positions making up $1.35 billion of the total. ¶ • Binance has reserved $6.34 billion of company funds to cover losses and suspended withdrawals until around Sunday, saying it will cover every loss. ¶ • Bitcoin traded at $77,380.93 at 8:15 a.m. Eastern, down $2,655.67 from yesterday morning and 7% lower for October, a month that usually gains. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/binance-hack-sparks-bitcoin-sell-131240704.html ;; fortune.com|https://fortune.com/article/price-of-bitcoin-10-30-2026/ ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-down-today-173704991.html
+  • Bitcoin fell to a six-week low near $76,400 and traded around $77,300, down over 3% in 24 hours, after a reported $6.3 billion hack at Binance. ¶ • Over $1.6 billion in crypto bets were liquidated in 24 hours, with long positions accounting for $1.35 billion, CoinGlass data showed. ¶ • Binance reserved more than $6.34 billion of company funds to cover losses, including $5 billion in affected tokens, and said unauthorized outflows had stopped. ¶ • Strategy Inc. sold about $431.8 million of Bitcoin in 2026 to fund $419.6 million in preferred dividends and $2.04 billion of STRC buybacks, while still holding 848,517 BTC. ¶ • Bitcoin is down 7% for October and $30,941 lower than a year ago, with the market cap at roughly $1.33 trillion and the 200-day moving average near $73,000 as next support. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/binance-hack-sparks-bitcoin-sell-131240704.html ;; fortune.com|https://fortune.com/article/price-of-bitcoin-10-30-2026/ ;; tradingview.com|https://www.tradingview.com/news/benzinga:43a4bbcb1094b:0-bitcoin-ethereum-xrp-plunge-4-a-dip-worth-buying/ ;; 247wallst.com|https://247wallst.com/investing/cryptocurrency/2026/10/30/strategy-has-sold-432-million-of-bitcoin-this-year-is-the-biggest-buyer-turning-into-a-seller/
 
 - Outlook: Bearish
   2026-10-31 |
-  §VIEW§{"stance": "bearish", "text": "A record $6.3 billion exchange hack, $1.6 billion in liquidations, and suspended Binance withdrawals drove Bitcoin to a six-week low and a 7% October loss. Binance's $6.34 billion reserve covers losses but does not remove the withdrawal freeze or the North Korea-linked breach risk."}
+  §VIEW§{"stance": "bearish", "text": "A $6.3 billion exchange hack, $1.6 billion in liquidations and 7% October losses drive the sell-off. Binance's $6.34 billion reserve and ETF accumulation are the offsets, but flows still favor sellers."}
 
 [Gold]
 
 - ~
   30 Oct 2026 | https://finance.yahoo.com/markets/commodities/articles/gold-price-just-hit-yearly-195453224.html
-  • Spot gold fell below $3,900 an ounce on October 30, hitting $3,899.74, down 3.76% on the day and 28.81% below its 52-week high of $5,477.79. ¶ • Gold lost 7.2% in October, its second straight monthly decline, and is down 27% from its record close of $5,318.40 on January 29, 2026. ¶ • Markets price a December Fed hike at roughly 80% after the Fed held rates at 3.75% to 4.00%, with JPMorgan expecting hikes in December and early 2027. ¶ • Higher oil prices from Middle East supply fears and Strait of Hormuz attacks are keeping inflation and real yields elevated, raising the cost of holding gold. ¶ • Silver fell below $50 an ounce, down nearly 9% on the week, its worst weekly decline since early June, with the gold/silver ratio above 79. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/commodities/articles/gold-price-just-hit-yearly-195453224.html ;; bullionvault.com|https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-50-1980-2011-103020261 ;; usatoday.com|https://www.usatoday.com/story/money/personalfinance/2026/10/30/gold-price-on-october-30-2026/92511721007/ ;; cryptoticker.io|https://cryptoticker.io/en/is-gold-a-safe-haven-gold-price-crisis/
+  • Spot gold fell as much as 3.2% to $3,891.67 an ounce on October 30, its weakest level since October 2025, and trades about 28% below January's record close. ¶ • Traders now price a more than 70% chance of a Fed rate hike in December after the Fed held rates at 3.75% to 4.00%, with JPMorgan expecting another hike in early 2027. ¶ • Higher oil prices from Middle East supply fears, including an attack on a tanker in the Strait of Hormuz, pushed Brent crude to its highest since April and reinforced inflation worries. ¶ • Silver slid 5.8% to $49.34 an ounce, its first time under $50 since November 2025, and is down roughly 18% for October. ¶ • Gold and silver miners fell as much as 8%, with Newmont down 5% and Kinross Gold sliding 7.7%, as the top five North American gold companies lost almost $140 billion in combined market value from their 52-week highs. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/commodities/articles/gold-price-just-hit-yearly-195453224.html ;; bullionvault.com|https://www.bullionvault.com/gold-news/gold-price-news/gold-silver-50-1980-2011-103020261 ;; cryptoticker.io|https://cryptoticker.io/en/is-gold-a-safe-haven-gold-price-crisis/ ;; usatoday.com|https://www.usatoday.com/story/money/personalfinance/2026/10/30/gold-price-on-october-30-2026/92511721007/
 
 - Outlook: Bearish
   2026-10-31 |
-  §VIEW§{"stance": "bearish", "text": "Gold is falling because markets expect Fed hikes, not cuts, and higher oil keeps inflation and real yields elevated. Until rate expectations turn, gold lacks its main tailwind."}
+  §VIEW§{"stance": "bearish", "text": "Gold is falling because markets price a December Fed hike above 70% and oil-driven inflation keeps central banks hawkish, so the metal pays no yield while rates rise. A sustained break below $3,886 support risks a deeper correction."}
 
 ============================================================
 
@@ -156,7 +152,7 @@ SOURCE 8: AI News
 SOURCE 2: The Hindu - Editorials
 
 ### Beyond gullibility: On digital arrest scams
-30 Oct 2026 | https://www.thehindu.com/opinion/editorial/beyond-gullibility-on-digital-arrest-scams/article71646642.ece
+31 Oct 2026 | https://www.thehindu.com/opinion/editorial/beyond-gullibility-on-digital-arrest-scams/article71646642.ece
 
 • About ₹800 crore has been lost to digital arrest scams this year even after recoveries, Chief Justice Surya Kant noted at the Supreme Court's October 29 hearing.
 
@@ -194,40 +190,27 @@ SOURCE 2: The Hindu - Editorials
 
 • The Supreme Court, while issuing notice, stressed balancing press freedom with privacy, and the Centre's willingness to meet editors is a welcome step toward consensus.
 
-### Deemed ineligible: On the Supreme Court and SIR
-30 Oct 2026 | https://www.thehindu.com/opinion/editorial/deemed-ineligible-on-the-supreme-court-and-sir/article71641093.ece
-
-• The Supreme Court questioned the Election Commission's SIR of electoral rolls, with Justice Joymalya Bagchi asking if a lax voter forfeits the right to vote forever.
-
-• The Bench led by Chief Justice Surya Kant said the ECI erred in forcing struck-off voters to reapply on Form 6 as if they were new voters.
-
-• The share of draft deletions recorded as shifted or absent rose from 55% in Bihar to 72% in States and Union Territories in Phase 3.
-
-• In Karnataka, about 84 lakh electors were deleted as shifted or absent, but only a net 8.2 lakh were added, leaving the final roll 64.5 lakh short of the projected adult population.
-
-• The Hindu argues the Court should not just issue managerial fixes, since deletions flowed from a flawed SIR design, and wrongly removed voters must be included again.
-
 ============================================================
 
 SOURCE 5: The Hindu - Business (headlines + summary)
 
 [[Company results]]
 
+- India orders Sun Pharma to halt eye-care production at Assam plant; Q2 profit falls 36%
+  30 Oct 2026 | https://www.thehindu.com/business/india-orders-sun-pharma-to-halt-eye-care-drug-production-at-plant-after-quality-lapses/article71646516.ece
+  • Indian regulators ordered Sun Pharma on August 20 to stop making, selling and distributing ophthalmic products from its Assam plant after a joint inspection found quality management system failures. ¶ • Sun Pharma's September-quarter net profit fell 36.4% to ₹1,988.5 crore on ₹1,268.8 crore in exceptional charges, while revenue rose nearly 12% to ₹16,198.7 crore.
+
 - IGL net profit plummets 93% on higher input gas cost and consumer price protection
   30 Oct 2026 | https://www.thehindu.com/business/Industry/igl-net-profit-plummets-93-on-higher-input-gas-cost-and-consumer-price-protection/article71646428.ece
   • IGL's net profit fell over 93% year-on-year to ₹24.38 crore because of increased input gas costs and consumer price protection measures. ¶ • Gross sales turnover increased 35.4% year-on-year to ₹5,999.13 crore, while sales volumes rose 8% to 10.06 million MMSCMD per day.
-
-- Sun Pharma Q2 profit plunges 36% on exceptional charges despite revenue growth
-  30 Oct 2026 | https://www.thehindu.com/business/sun-pharma-q2-profit-plunges-36-on-exceptional-charges-despite-revenue-growth/article71646441.ece
-  • Sun Pharmaceutical Industries reported a 36.4% year-on-year decline in consolidated net profit to ₹1,988.5 crore for the September quarter, hit by ₹1,268.8 crore in exceptional charges tied to its Organon acquisition and an antitrust settlement. ¶ • Revenue from operations grew nearly 12% year-on-year to ₹16,198.7 crore, while US formulation sales fell 8.2% to $455 million, about 27% of consolidated sales.
 
 - IOC Q2 profit soars 184% on higher refining margins
   30 Oct 2026 | https://www.thehindu.com/business/Industry/ioc-q2-profit-soars-184-on-higher-refining-margins/article71646254.ece
   • Indian Oil's standalone net profit more than doubled to ₹21,630 crore in the September quarter, helped by lower crude prices from mid-June to mid-August. ¶ • Gross refining margin after special additional excise duty rose to $18.52 per barrel from $10.66 a year earlier, while revenue grew nearly 30% to over ₹2.62 lakh crore.
 
-- GAIL profit more than doubles on strong gas marketing performance
+- GAIL profit doubles, plans GAIL Gas IPO in FY28
   30 Oct 2026 | https://www.thehindu.com/business/Industry/gail-profit-more-than-doubles-on-strong-gas-marketing-performance/article71645957.ece
-  • GAIL more than doubled its net profit to ₹4,650.22 crore in the September quarter, driven by its natural gas marketing business. ¶ • The company reported revenue from operations rose 31.2% year-on-year to ₹45,924 crore.
+  • GAIL's net profit more than doubled to ₹4,650.22 crore in the September quarter, with revenue up 31.2% to ₹45,924 crore on strong gas marketing. ¶ • The board approved in principle a GAIL Gas IPO in FY28 with a 25% stake sale, as the unit runs 593 CNG stations and over 8 lakh piped gas connections.
 
 - RIL Q2 profit jumps 41% to ₹25,548 crore on O2C, Jio strength
   30 Oct 2026 | https://www.thehindu.com/business/Industry/ril-q2-profit-jumps-41-to-25548-crore-on-o2c-jio-strength/article71646038.ece
@@ -241,31 +224,35 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   30 Oct 2026 | https://www.thehindu.com/news/cities/Coimbatore/milky-mist-h1-pat-grows-3084/article71640806.ece
   • Milky Mist Dairy Food posted 308.4% growth in profit after tax for April-September, its first half since listing in August. ¶ • Revenue from operations rose 42.5% year on year and EBITDA grew 62.9%, led by the protein range, the fastest growing segment.
 
-[[Oil and gas]]
+- Google parent Alphabet’s shares plunge 12.6% as investors question returns from AI spending
+  30 Oct 2026 | https://www.thehindu.com/business/google-parent-alphabets-shares-plunge-126-as-investors-question-returns-from-ai-spending/article71645050.ece
+  • Alphabet shares fell 12.64% to $283.82 on Thursday, wiping about $482 billion in market value in its worst one-day drop since its 2004 listing. ¶ • September-quarter revenue rose 25% to $127.6 billion, but capital expenditure of $51.4 billion on AI infrastructure produced negative free cash flow of $9.1 billion.
+
+- Capgemini’s operations business outpaces core IT for third straight quarter
+  30 Oct 2026 | https://www.thehindu.com/business/Industry/capgeminis-operations-business-outpaces-core-it-for-third-straight-quarter/article71644272.ece
+  • Operations & Engineering grew 26.9% year-on-year at constant exchange rates in the September 2026 quarter, while Applications & Technology, 63% of group revenue, grew 3.5%. ¶ • Third-quarter revenue rose 11.7% to €6.07 billion at constant exchange rates, with bookings up 3.4% to €5.40 billion and workforce up 18% to 417,500.
+
+[[Tata and Jio]]
+
+- Tata Motors says Iveco is now part of group; Chandrasekaran appointed Chairperson
+  31 Oct 2026 | https://www.thehindu.com/business/Industry/tata-motors-says-iveco-is-now-part-of-group-chandrasekaran-appointed-chairperson/article71648097.ece
+  • Tata Motors acquired 238,157,212 Iveco Group common shares, about 89.42% of its common share capital, in a deal valued at roughly $4.32 billion (₹42,561 crore). ¶ • N. Chandrasekaran became Chairperson and Senior Non-Executive Director of Iveco Group, with Olof Persson as CEO and settlement of shares tendered in the offer's reopening due November 13, 2026.
+
+- Jio Platforms shares surge 28% since market debut
+  30 Oct 2026 | https://www.thehindu.com/business/markets/jio-platforms-shares-surge-28-since-market-debut/article71645365.ece
+  • Jio Platforms shares closed at ₹1,431.20 on the BSE on October 30, up 27.89% from the ₹1,119 IPO issue price. ¶ • The listing lifted Jio Platforms' market value by ₹12,754.51 crore to ₹13,17,996.49 crore, second only to Reliance Industries.
+
+[[Oil imports and trade]]
+
+- Government extends import duty exemption for cotton
+  31 Oct 2026 | https://www.thehindu.com/business/government-extends-import-duty-exemption-for-cotton/article71648074.ece
+  • The Finance Ministry extended the import duty exemption for cotton until December 31, 2026, benefiting the textile industry. ¶ • This extension follows a previous notification on October 30, 2026, which set the exemption to expire on October 31.
 
 - India slashed U.S. and Russian oil in September, coinciding with ‘Russia Sanctions Act’; import from UAE increases
   30 Oct 2026 | https://www.thehindu.com/news/national/india-cut-us-and-russian-oil-imports-in-september-2026-pivoting-to-the-uae-as-tariffs-and-sanctions-reshaped-the-market/article71644597.ece
   • India cut Russian oil imports by nearly 18% from August and imported no U.S. crude in September 2026, when the Russia Sanctions Act became law. ¶ • UAE's share of India's oil imports hit an all-time high of 26.5% as its volumes rose 67% from August, while the import bill reached $14.3 billion, up 33% year on year.
 
-- GAIL Gas IPO in FY28; parent to offload 25% stake
-  30 Oct 2026 | https://www.thehindu.com/business/Industry/gail-gas-ipo-in-fy28-parent-to-offload-25-stake/article71645457.ece
-  • GAIL's board gave in-principle approval on Friday for an IPO of its wholly owned subsidiary GAIL Gas, with the parent diluting 25% of its stake. ¶ • GAIL Gas runs 593 CNG stations and over 8 lakh domestic piped gas connections across 16 areas, and targets adding 275 CNG stations and 3.7 lakh connections in two years.
-
-[[Banking and disinvestment]]
-
-- Public banks not assets to be sold off, they are tools to build nation: Rahul amid IDBI bank sale row
-  30 Oct 2026 | https://www.thehindu.com/news/national/public-banks-not-assets-to-be-sold-off-they-are-tools-to-build-nation-rahul-amid-idbi-bank-sale-row/article71644096.ece
-  • The government on October 14 approved selling a 60.72% stake in IDBI Bank to Canada's Fairfax Financial Holdings for about ₹53,000 crore, with Fairfax paying ₹81 per share against a fair value of ₹75.99. ¶ • Rahul Gandhi told IDBI employees the bank earned over ₹9,000 crore last year and warned that government and LIC ownership will fall from 95% to 34% after the sale.
-
-- Disinvestment as key economic strategy
-  30 Oct 2026 | https://www.thehindu.com/opinion/op-ed/disinvestment-as-key-economic-strategy/article71637709.ece
-  • The Centre raised ₹62,124 crore from disinvestment and asset monetisation in April-September 2026, 78% of the ₹80,000 crore full-year target. ¶ • Approval of the IDBI Bank stake sale on October 14 is expected to push receipts past the target, with CII suggesting ₹9 lakh crore from cutting government stakes to 51% in 95 listed PSEs.
-
-[[Regulation and quality]]
-
-- India orders Sun Pharma to halt eye-care drug production at plant after quality lapses
-  30 Oct 2026 | https://www.thehindu.com/business/india-orders-sun-pharma-to-halt-eye-care-drug-production-at-plant-after-quality-lapses/article71646516.ece
-  • Indian regulators ordered Sun Pharma on August 20 to stop making, selling and distributing ophthalmic products from its Assam plant after a joint inspection found quality management failures. ¶ • The order follows Sun Pharma's July recall of about 11 eye-care brands covering 332 batches, which industry experts say could amount to hundreds of thousands of bottles; ophthalmology is about 3% of its domestic revenue.
+[[Insurance regulation]]
 
 - IRDAI upgrades business analytics platform for health covers
   30 Oct 2026 | https://www.thehindu.com/business/Industry/irdai-upgrades-business-analytics-platform-for-health-covers/article71646545.ece
@@ -275,29 +262,17 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   30 Oct 2026 | https://www.thehindu.com/business/Industry/irdai-declares-nov-grievance-resolution-month-72-of-cases-pending-for-more-than-a-year/article71646019.ece
   • IRDAI declared November 2026 Grievance Resolution Month to speed up resolution of long-pending policyholder grievances and disputes. ¶ • About 2.21 lakh insurance grievances were pending before Consumer Commissions and courts as of March 31, 2026, with 72.49% pending over a year and 11 lakh cases before MACT.
 
-[[Trade and economy]]
+[[Banking and politics]]
 
-- Government extends import duty exemption for cotton
-  31 Oct 2026 | https://www.thehindu.com/business/government-extends-import-duty-exemption-for-cotton/article71648074.ece
-  • The Finance Ministry extended the import duty exemption for cotton until December 31, 2026, benefiting the textile industry. ¶ • This extension follows a previous notification on October 30, 2026, which set the exemption to expire on October 31.
+- Public banks not assets to be sold off, they are tools to build nation: Rahul amid IDBI bank sale row
+  30 Oct 2026 | https://www.thehindu.com/news/national/public-banks-not-assets-to-be-sold-off-they-are-tools-to-build-nation-rahul-amid-idbi-bank-sale-row/article71644096.ece
+  • The government on October 14 approved selling a 60.72% stake in IDBI Bank to Canada's Fairfax Financial Holdings for about ₹53,000 crore, with Fairfax paying ₹81 per share against a fair value of ₹75.99. ¶ • Rahul Gandhi told IDBI employees the bank earned over ₹9,000 crore last year and warned that government and LIC ownership will fall from 95% to 34% after the sale.
+
+[[Economy and poverty]]
 
 - India made ‘remarkable progress’ in reducing poverty: World Bank
   30 Oct 2026 | https://www.thehindu.com/news/national/india-made-remarkable-progress-in-reducing-poverty-world-bank/article71646460.ece
   • The World Bank said India's poverty rate at $4.20 a day fell from 57.7% in 2011 to 16.1% in 2023, lifting about 496 million people out of poverty. ¶ • It projected the $4.20-a-day poverty rate to fall from 14.2% in 2026 to 12.1% by 2028, while noting youth unemployment rose to 15.9% and the top 10% of workers earned about 13 times the bottom 10% in 2023.
-
-[[Tech and AI]]
-
-- Jio Platforms shares surge 28% since market debut
-  30 Oct 2026 | https://www.thehindu.com/business/markets/jio-platforms-shares-surge-28-since-market-debut/article71645365.ece
-  • Jio Platforms shares closed at ₹1,431.20 on the BSE on October 30, up 27.89% from the ₹1,119 IPO issue price. ¶ • The listing lifted Jio Platforms' market value by ₹12,754.51 crore to ₹13,17,996.49 crore, second only to Reliance Industries.
-
-- Google parent Alphabet’s shares plunge 12.6% as investors question returns from AI spending
-  30 Oct 2026 | https://www.thehindu.com/business/google-parent-alphabets-shares-plunge-126-as-investors-question-returns-from-ai-spending/article71645050.ece
-  • Alphabet shares fell 12.64% to $283.82 on Thursday, wiping about $482 billion in market value in its worst one-day drop since its 2004 listing. ¶ • September-quarter revenue rose 25% to $127.6 billion, but capital expenditure of $51.4 billion on AI infrastructure produced negative free cash flow of $9.1 billion.
-
-- Capgemini’s operations business outpaces core IT for third straight quarter
-  30 Oct 2026 | https://www.thehindu.com/business/Industry/capgeminis-operations-business-outpaces-core-it-for-third-straight-quarter/article71644272.ece
-  • Operations & Engineering grew 26.9% year-on-year at constant exchange rates in the September 2026 quarter, while Applications & Technology, 63% of group revenue, grew 3.5%. ¶ • Third-quarter revenue rose 11.7% to €6.07 billion at constant exchange rates, with bookings up 3.4% to €5.40 billion and workforce up 18% to 417,500.
 
 [[Other]]
 
@@ -309,6 +284,12 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
+[[US-China espionage]]
+
+- U.S. imprisons two Chinese nationals for spying
+  31 Oct 2026 | https://www.thehindu.com/news/international/us-imprisons-two-chinese-nationals-for-spying/article71648068.ece
+  • Two Chinese nationals, Liren Lai and Yuance Chen, were imprisoned in California after pleading guilty to spying for China's Ministry of State Security. ¶ • The men, who worked since at least May 2021, were sentenced to 30 months in federal lockup and three years of supervised release.
+
 [[G20 diplomacy]]
 
 - U.S. scraps G20 photo after Europeans object to being pictured with Russia's Lavrov
@@ -319,28 +300,148 @@ SOURCE 3: The Hindu - International (headlines + summary)
   31 Oct 2026 | https://www.thehindu.com/news/national/jaishankar-bilateral-meetings-with-foreign-ministers-from-g20-nations/article71648061.ece
   • External Affairs Minister S. Jaishankar met Canadian counterpart Anita Anand in Atlanta on October 30, 2026, on the sidelines of the G20 Foreign Ministers' Meeting. ¶ • Jaishankar also met the foreign ministers of Argentina, Mexico, Brazil and Germany, discussing trade, critical minerals, defence and nuclear cooperation with Argentina's Pablo Quirno.
 
-[[US-China tensions]]
+[[Brazil politics]]
 
-- U.S. imprisons two Chinese nationals for spying
-  31 Oct 2026 | https://www.thehindu.com/news/international/us-imprisons-two-chinese-nationals-for-spying/article71648068.ece
-  • Two Chinese nationals, Liren Lai and Yuance Chen, were imprisoned in California after pleading guilty to spying for China's Ministry of State Security. ¶ • The men, who worked since at least May 2021, were sentenced to 30 months in federal lockup and three years of supervised release.
+- Flavio Bolsonaro says he left Brazil because he is the victim of 'persecution'
+  31 Oct 2026 | https://www.thehindu.com/news/international/flavio-bolsonaro-says-he-left-brazil-because-he-is-the-victim-of-persecution/article71648100.ece
+  • Former candidate Flavio Bolsonaro stated he left Brazil for the U.S. alleging he was a victim of persecution. ¶ • He revealed his departure followed the cancellation of his Brazilian passports amid a money laundering investigation.
 
-[[Global energy disruptions]]
-
-- India slams global energy disruptions through sanctions, chokepoints
-  31 Oct 2026 | https://www.thehindu.com/news/national/india-slams-global-energy-disruptions-through-sanctions-chokepoints/article71648072.ece
-  • External Affairs Minister S. Jaishankar criticized deliberate attacks on energy trade and infrastructure as a calculated strategy to hold prices hostage at the G20 meeting in Atlanta. ¶ • The Minister stressed that the G20 must ensure open and predictable energy markets while noting the increasing frequency and complexity of market distortions.
-
-[[US midterm elections]]
+[[US midterms]]
 
 - What are U.S. midterm elections?
   31 Oct 2026 | https://www.thehindu.com/news/international/what-are-united-states-midterm-elections-2026-democrats-vs-republicans-donald-trump-what-it-means-for-india/article71643628.ece
   • Voters on November 3 will decide all 435 House seats, 35 of 100 Senate seats and several governorships, with Republicans holding the House 218-214 and the Senate 53-47. ¶ • Trump's approval sits at 32% in a September Reuters/Ipsos poll, and a shift in congressional control could reshape India-U.S. trade, tariffs and visa policies.
 
+[[India energy security]]
+
+- India slams global energy disruptions through sanctions, chokepoints
+  31 Oct 2026 | https://www.thehindu.com/news/national/india-slams-global-energy-disruptions-through-sanctions-chokepoints/article71648072.ece
+  • External Affairs Minister S. Jaishankar criticized deliberate attacks on energy trade and infrastructure as a calculated strategy to hold prices hostage at the G20 meeting in Atlanta. ¶ • The Minister stressed that the G20 must ensure open and predictable energy markets while noting the increasing frequency and complexity of market distortions.
+
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Soaring tech costs push festive shoppers towards EMIs
+30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
+
+• At Pai International Electronics, 70-80% of smartphone sales this festive season were financed through EMIs, up from 40-50% last year.
+
+• At Vijay Sales, which has 181 stores nationwide, EMIs accounted for about 70-75% of festive-season sales.
+
+• Laptop prices have risen by nearly 35-40% in the last six months, and mobile phone prices have increased by 25-40%.
+
+• A two- to three-fold surge in memory chip prices, rupee depreciation and higher freight costs have driven up electronics prices.
+
+### Shadowfax revenue rises 57% in Q2, net profit jumps fivefold
+30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
+
+• Operating revenue rose 57% to ₹1,538 crore from ₹982 crore a year earlier.
+
+• Net profit jumped fivefold to ₹68 crore from ₹13 crore.
+
+• Total revenue, including other income, increased 58% to ₹1,558 crore.
+
+• Total expenses climbed 53% to ₹1,490 crore.
+
+### BlackBuck Q2 profit rises 42% to Rs 41 crore, revenue up 56%
+30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
+
+• Net profit rose 42% to ₹41.4 crore from ₹29 crore a year ago.
+
+• Revenue from operations increased 56% to ₹235 crore.
+
+• Total income grew 51% to ₹253 crore from ₹167.2 crore.
+
+• Ebitda rose 39% to ₹51 crore from ₹37 crore.
+
+### Pine Labs’ Q2 profit surges over six-fold to Rs 39 crore; revenue rises 24%
+30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
+
+• Net profit was ₹38.57 crore versus ₹5.97 crore a year ago.
+
+• Revenue from operations grew 24% to ₹806.19 crore from ₹649.90 crore a year earlier.
+
+• Revenue from digital infrastructure, transaction platform business was up 21% to ₹531.55 crore.
+
+• Online payments grew more than 45%; mid-market merchant checkout-point base increased 49%.
+
+### Meesho sees near-term margin pressure as it reinvests in growth
+30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
+
+• Contribution margin rose to 6% of net merchandise value (NMV) in the second quarter of FY27 from 4.6% in the April-June period.
+
+• The primary driver for the quarter-on-quarter improvement in contribution margin was logistics efficiencies, including better return to origin (RTO) rates, increased order density, network redesign, and Valmo efficiencies.
+
+• Advertising and promotion spending climbed to 2.9% of NMV from 2.1%, and server costs rose to 2.3% from 1.9%.
+
+• The company expects some of these gains to reverse in the December quarter as it reinvests in the business to lower seller costs and scale newer businesses such as Meesho Mall and Content Commerce.
+
+### Honeywell leaning on physical AI to net $1 billion India revenues
+30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
+
+• Honeywell Technologies expects its Indian operations to achieve the $1 billion revenue milestone in the next two to three years.
+
+• Honeywell Technologies, the company’s core automation business, remains focused on India, where it currently has 11,000 employees or about 20% of the global workforce.
+
+• In its earlier, larger avatar, Honeywell had hit $1 billion in revenue from India in 2025.
+
+• Honeywell Technologies is leveraging its experience in operations technology to combine software and hardware for delivering physical AI.
+
+### Virat Kohli's stake in Agilitas Sports rises
+30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
+
+• Cricketer Virat Kohli's stake in Agilitas Sports has increased to 6.4% from 1.8%.
+
+• The increase follows the merger of his sportswear brand One8 with the Bengaluru-based company.
+
+• The increase in Kohli's shareholding is resulting from the merger and is not because of any fresh investment by the cricketer.
+
+• He had earlier invested ₹40 crore in the sportswear startup.
+
+### CapGrid closes Rs 50 crore round
+30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
+
+• B2B manufacturing startup CapGrid has closed a ₹50-crore round comprising primary and secondary transactions.
+
+• The round values it at ₹430 crore.
+
+• The startup last raised ₹45 crore in February 2025 at a ₹305 crore valuation.
+
+• Its latest round has come close on the heels of B2B manufacturing giant Zetwerk going public.
+
+### Global pick: The AI bubble could expose your deepest secrets
+BBC | https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets
+
+• A new research paper predicts AI autonomy by 2027 could lead to human extinction within a decade.
+
+• The article is a BBC Tech Now segment warning that AI could expose your deepest secrets.
+
+• AI fakery has been used to scam people out of large sums of money and even attempt to sway elections.
+
+• The piece frames AI risk as a personal privacy threat, not just a distant existential one.
+
+### Global pick: Why Africa needs its own AI off switch
+Rest of World | https://restofworld.org/2026/africa-sovereign-ai-off-switch/
+
+• African mobile money systems like Kenya's M-Pesa and Ghana's MoMo face growing risk from AI-driven cyberattacks, and governments need the ability to switch off rogue AI agents.
+
+• More than $2 trillion flowed through mobile money globally in 2025, with $1.4 trillion, roughly two-thirds, transacted in sub-Saharan Africa.
+
+• East Africa accounted for $806 billion and West Africa $498 billion of that mobile money activity, making disruption a direct threat to traders' daily incomes.
+
+• Africa must build its own cybersecurity defenses and partnerships that keep control local, avoiding lock-in to a single foreign vendor or stack.
+
+### Global pick: Massive leak exposes 41,000 US Homeland Security workers, including undercover ICE agents
+Wired | https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/
+
+• A leak of Department of Homeland Security records has exposed details of more than 41,000 employees and contractors across DHS and seven component agencies.
+
+• The archive, called "Icepick," was published Wednesday by transparency nonprofit Distributed Denial of Secrets, which says the data came from DHS's Okta login system.
+
+• Customs and Border Protection staffers account for more than half the records, ICE about 10,000, US Citizenship and Immigration Services 6,200, and CISA nearly 1,000.
+
+• The files cover about a seventh of DHS's workforce and include permission groups referencing undercover operations, wiretaps, and surveillance tools, which experts say could help adversaries penetrate the department.
 
 ============================================================
 
@@ -357,7 +458,7 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 - ~
   30 Oct 2026 | https://m.economictimes.com/markets/stocks/news/q2-results-impact-2-vedanta-stocks-rally-up-to-14-after-sept-quarter-earnings-how-have-they-performed-since-demerger/articleshow/135344818.cms
-  ## What the sector does ¶ • India's power generation sector sells electricity to state distribution utilities and industrial consumers under long-term power purchase agreements and merchant sales. ¶ • Revenue depends on units sold and tariff per kilowatt-hour, while cost is driven by coal prices, plant availability and interest on the heavy debt used to build plants. ¶ ## What the company does ¶ • Vedanta Power Ltd is the power generation arm of the Vedanta Group, operating thermal plants and supplying electricity to industries and state utilities across India. ¶ • Its assets include the Jharsuguda plant in Odisha, Talwandi Sabo in Punjab, Meenakshi Energy in Andhra Pradesh and the Sakti plant in Chhattisgarh, with a 1,200 MW project under commissioning. ¶ ## Why it moved today ¶ • Vedanta Power shares jumped after its September quarter results showed a net profit of ₹83 crore, a turnaround from a ₹1,688 crore loss a year earlier, with revenue up 38% to ₹2,908 crore. ¶ • The stock had fallen to a record low of ₹27.50 earlier in the week, and the results, including EBITDA up 122% to ₹421 crore, drove the rebound. ¶ ## The numbers (Screener) ¶ • Stock P/E is 35.4 on a market cap of ₹12,955 crore and a current price of ₹33.1, against a 52-week high of ₹52.5 and low of ₹27.5. ¶ • September 2026 quarter sales were ₹2,908 crore with operating profit of ₹421 crore (OPM 14%) and net profit of ₹83 crore (EPS ₹0.21), versus a net loss of ₹1,689 crore in the September 2025 quarter. ¶ ## What the numbers say ¶ • At a P/E of 35.4, Vedanta Power trades above NTPC's 11.05 and NHPC's 20.57 but below Adani Green's 109.49 and JSW Energy's 38.91, even though its quarterly net profit of ₹83 crore is far smaller than NTPC's ₹6,896 crore. ¶ • The September 2026 quarter net profit of ₹83 crore follows losses of ₹1,689 crore and ₹423 crore in the prior two reported quarters, so the earnings base is thin and volatile, and the 14.72% move reflects a recovery from a record low rather than a proven earnings trend. ¶ ↗ m.economictimes.com|https://m.economictimes.com/markets/stocks/news/q2-results-impact-2-vedanta-stocks-rally-up-to-14-after-sept-quarter-earnings-how-have-they-performed-since-demerger/articleshow/135344818.cms ;; tradingview.com|https://www.tradingview.com/news/moodys:e295019d26013:0-vedanta-power-q2-profit-swings-to-rs-83-cr-revenue-climbs-38/ ;; billionaires.africa|https://www.billionaires.africa/2026/10/30/indian-billionaire-anil-agarwal-plans-25-billion-vedanta-expansion-over-three-years/
+  ## What the sector does ¶ • India's power generation sector sells electricity to state distribution utilities and industrial consumers under long-term power purchase agreements and merchant contracts. ¶ • Revenue is driven by units sold and tariffs, while coal, fuel and interest costs set profitability; NTPC, Adani Green, JSW Energy and NHPC are the main listed players. ¶ ## What the company does ¶ • Vedanta Power runs large thermal power assets and supplies electricity to industries and state utilities across India, with total operating revenue of ₹5,486 crore in FY26. ¶ • It was spun off from Vedanta and listed separately in June 2026, with a market capitalisation of ₹12,955 crore at a share price of ₹33.1. ¶ ## Why it moved today ¶ • Vedanta Power shares rose 14.72% after its September-quarter results showed net profit of ₹83 crore against a ₹1,688 crore loss a year earlier, with revenue up 38% to ₹2,908 crore. ¶ • The same session also carried chairman Anil Agarwal's plan to invest about $25 billion across the Vedanta group over three years, including power plants in West Bengal. ¶ ## The numbers (Screener) ¶ • September 2026 quarter: sales ₹2,908 crore, operating profit ₹421 crore at a 14% margin, net profit ₹83 crore and EPS ₹0.21. ¶ • The stock trades at a P/E of 35.4 and a price to book of 5.47, with a book value of ₹6.04 per share and a 52-week range of ₹27.5 to ₹52.5. ¶ ## What the numbers say ¶ • At a P/E of 35.4, Vedanta Power is cheaper than Adani Green (109.5) and JSW Energy (38.9) but far above NTPC (11.1) and NLC India (9.9), even as its September-quarter net profit fell 72% from ₹139 crore in the March 2026 quarter. ¶ • The company's ROCE is not disclosed and its low interest coverage is a flagged risk, so the 14.72% jump rests on a single quarter's turnaround rather than on proven returns on capital. ¶ ↗ m.economictimes.com|https://m.economictimes.com/markets/stocks/news/q2-results-impact-2-vedanta-stocks-rally-up-to-14-after-sept-quarter-earnings-how-have-they-performed-since-demerger/articleshow/135344818.cms ;; billionaires.africa|https://www.billionaires.africa/2026/10/30/indian-billionaire-anil-agarwal-plans-25-billion-vedanta-expansion-over-three-years/ ;; cnbctv18.com|https://www.cnbctv18.com/market/stocks/vedanta-power-ltd-share-price/SNU5OA/
 
 [Vedanta Oil And Gas Ltd (VOGL, +8.51%)]
 
@@ -376,5 +477,5 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 [Redington Ltd (REDINGTON, -8.46%)]
 
 - ~
-  30 Oct 2026 | https://www.kalkine.co.in/article/announcements/redington-nseredington-what-is-the-q2fy27-earnings-call-about
-  ## What the sector does ¶ • IT and mobility distribution buys hardware, smartphones and cloud services from global brands and resells them to retailers, resellers and enterprises across India, the Middle East and Africa. ¶ • Revenue is driven by unit volumes and brand tie-ups, while cost is dominated by purchase price and working capital, so margins are thin and scale decides profit. ¶ ## What the company does ¶ • Redington distributes IT products, smartphones, consumer electronics and cloud services for over 300 global technology brands across more than 40 markets in India, the Middle East, Africa, South Asia and Turkey. ¶ • It earns a distribution margin on goods sold plus supply chain and support services fees, with September 2026 quarter sales of ₹34,922 crore and net profit of ₹453 crore. ¶ ## Why it moved today ¶ • The news does not explain the 8.46% fall; the only article is a 30 October 2026 exchange notice scheduling the Q2FY27 earnings call for 4 November 2026, which contains no financial results. ¶ • Context only: the June 2026 quarter showed sales of ₹34,922 crore, up 34.57% year on year, and net profit of ₹453 crore, up 76.55%, with the results call due four days after this digest. ¶ ## The numbers (Screener) ¶ • Stock P/E is 14.2, price to book is about 2.5 times (price ₹327 against book value ₹130), dividend yield 1.84%, ROCE 18.4% and ROE 16.9%. ¶ • Sales rose from ₹29,076 crore in September 2025 to ₹34,922 crore in June 2026, while net profit moved from ₹350 crore to ₹453 crore and operating margin stayed near 2.0%. ¶ ## What the numbers say ¶ • At a P/E of 14.2, Redington trades below the peer median of 23.32 and below Creative Newtech at 20.71, while its ROCE of 18.4% beats the peer median of 6.25%. ¶ • Sales grew 34.57% and net profit 76.55% year on year in the June 2026 quarter, so the 8.46% fall looks like a sharp pullback in a stock that has run from a low of ₹191 to ₹327. ¶ ↗ kalkine.co.in|https://www.kalkine.co.in/article/announcements/redington-nseredington-what-is-the-q2fy27-earnings-call-about
+  2026-10-31 |
+  ## What the sector does ¶ • IT and mobility distribution sells hardware, phones and networking gear to resellers, retailers and enterprises, earning thin margins on high volumes. ¶ • Revenue tracks device demand and vendor tie-ups, while cost is dominated by purchase price and working capital; players include Ingram Micro, Redington and regional distributors. ¶ ## What the company does ¶ • Redington distributes IT and mobility products and provides supply chain services across India, the Middle East, Turkey and Africa, serving resellers, retailers and enterprises. ¶ • It earns from distribution margins and logistics fees, with revenue of ₹34,922 crore in the June 2026 quarter and a market cap of ₹25,560 crore. ¶ ## Why it moved today ¶ • No news article explaining the 8.46% fall was retrieved, so the direct cause of the drop is not known from the available input. ¶ • Context: the stock had fallen 8.95% over the prior week and 19.67% over the prior month before this session, per [kotakneo.com](https://www.kotakneo.com/stocks/redington-share-price/). ¶ ## The numbers (Screener) ¶ • Stock P/E is 14.2, price to book is about 2.5 times (price ₹327 against book value ₹130), ROCE is 18.4% and ROE is 16.9%. ¶ • June 2026 quarter sales were ₹34,922 crore with net profit of ₹453 crore and EPS of ₹6.22, against ₹29,076 crore sales and ₹350 crore profit in September 2025. ¶ ## What the numbers say ¶ • At a P/E of 14.2, Redington trades below the peer median P/E of 23.32 and below peers MSTC at 16.07 and Creative Newtech at 20.71, while its ROCE of 18.4% is above the peer median of 6.25%. ¶ • June 2026 quarter profit rose 76.55% year on year on 34.57% sales growth, yet the stock fell 8.46% in the session and is down 19.67% over a month, so the move runs against the recent results.
