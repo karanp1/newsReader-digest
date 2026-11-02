@@ -67,7 +67,7 @@
   "sector": "Electric vehicles",
   "description": "Manufacturer of electric scooters and two-wheelers in India; raised Rs 1,000 crore via rights issue.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "razorpay": {
   "name": "Razorpay",
@@ -158,14 +158,14 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -186,7 +186,7 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "walmart": {
   "name": "Walmart",
@@ -347,7 +347,7 @@
   "sector": "Mining",
   "description": "State-owned coal mining company; joint venture partner in the Chandrapura thermal project.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-02"
  },
  "geaerospace": {
   "name": "GE Aerospace",
@@ -501,7 +501,7 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "naukri": {
   "name": "Naukri",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -844,7 +844,7 @@
   "sector": "Spacetech",
   "description": "Indian spacetech startup building hyperspectral imaging satellites.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "brainsightai": {
   "name": "BrainSight AI",
@@ -991,7 +991,7 @@
   "sector": "Aviation",
   "description": "Indian airline; raised domestic and international fuel surcharges as costs climbed.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "airindiaexpress": {
   "name": "Air India Express",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -2076,7 +2076,7 @@
   "sector": "Automotive",
   "description": "Carmaker whose October 2024 IPO was India's largest before Jio Platforms' offering.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-02"
  },
  "dolatcapital": {
   "name": "Dolat Capital",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -3336,7 +3336,7 @@
   "sector": "Automotive",
   "description": "Automaker; deepened partnership with Stellantis to develop global vehicles in India.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "stellantis": {
   "name": "Stellantis",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3833,7 +3833,7 @@
   "sector": "Power generation",
   "description": "Thermal power arm of Vedanta Group, supplying electricity to industries and state utilities.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "idbibank": {
   "name": "IDBI Bank",
@@ -4253,7 +4253,7 @@
   "sector": "Home services",
   "description": "Instant househelp services startup that has raised more than $50 million.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "houthi": {
   "name": "Houthi",
@@ -4750,7 +4750,7 @@
   "sector": "Oil and gas",
   "description": "Oil and gas explorer operating under the Cairn brand with blocks across India.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "vedantairon": {
   "name": "Vedanta Iron",
@@ -5492,7 +5492,7 @@
   "sector": "Financial services",
   "description": "Credit card issuer that partnered with Eternal on a co-branded card.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "fssai": {
   "name": "FSSAI",
@@ -9244,7 +9244,7 @@
   "sector": "Crypto exchange",
   "description": "Global cryptocurrency exchange; transferred BTC to Fidelity's ETF wallet.",
   "first_added": "2026-10-24",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "kilitchdrugs": {
   "name": "Kilitch Drugs",
@@ -10098,7 +10098,7 @@
   "sector": "Gaming",
   "description": "Social gaming platform that raised $10 million led by General Catalyst.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "hfsresearch": {
   "name": "HFS Research",
@@ -11064,14 +11064,14 @@
   "sector": "AI",
   "description": "Bengaluru AI firm; raised $14 million led by Dallas Venture Capital with Nvidia participating.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "cent": {
   "name": "Cent",
   "sector": "Healthcare",
   "description": "Preventive healthcare startup cofounded by Practo's Shashank ND; raised $15 million.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "mahindramahindrafinancialservices": {
   "name": "Mahindra & Mahindra Financial Services",
@@ -12786,7 +12786,7 @@
   "sector": "Sportswear",
   "description": "Bengaluru sportswear startup; Virat Kohli's stake rose to 6.4% after One8 merger.",
   "first_added": "2026-10-30",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "elara": {
   "name": "Elara",
@@ -12975,7 +12975,7 @@
   "sector": "Sportswear",
   "description": "Virat Kohli's sportswear brand, merged into Agilitas Sports.",
   "first_added": "2026-10-30",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "valmo": {
   "name": "Valmo",
@@ -13094,14 +13094,14 @@
   "sector": "IT distribution",
   "description": "IT and mobility products distributor across India, Middle East, Turkey and Africa; shares fell 8.74%.",
   "first_added": "2026-10-30",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "intellectdesignarena": {
   "name": "Intellect Design Arena",
   "sector": "Software",
   "description": "Indian banking and insurance software products company; shares fell 17% on margin slip.",
   "first_added": "2026-10-30",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "bostonconsultinggroup": {
   "name": "Boston Consulting Group",
@@ -13290,119 +13290,119 @@
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "troovy": {
   "name": "Troovy",
   "sector": "E-commerce",
   "description": "E-commerce brand that raised $11.5 million in a Series B led by Sharrp Ventures.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "aceblend": {
   "name": "Ace Blend",
   "sector": "E-commerce",
   "description": "E-commerce platform that raised $9.91 million in a Series A from 3one4 Capital.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "rotoris": {
   "name": "Rotoris",
   "sector": "Luxury goods",
   "description": "Luxury watch brand that raised Rs 70 crore in a Series A led by Blume Ventures.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "mochatrade": {
   "name": "Mochatrade",
   "sector": "Fintech",
   "description": "Fintech brand that raised an undisclosed amount this week.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "letsgamenow": {
   "name": "Let's Game Now",
   "sector": "Gaming",
   "description": "Gaming startup that raised an undisclosed amount this week.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "venttup": {
   "name": "Venttup",
   "sector": "Manufacturing",
   "description": "Manufacturing firm that raised an undisclosed amount this week.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "jagrutirehabilitationcentre": {
   "name": "Jagruti Rehabilitation Centre",
   "sector": "Healthtech",
   "description": "Healthtech startup that raised an undisclosed amount this week.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "qwikbuild": {
   "name": "QwikBuild",
   "sector": "Construction tech",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "shoonya": {
   "name": "Shoonya",
   "sector": "Fintech",
   "description": "Trading and investment platform of Finvasia Group; appointed a new chief marketing officer.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "cheq": {
   "name": "CheQ",
   "sector": "Fintech",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "aleph": {
   "name": "Aleph",
   "sector": "Adtech",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "bellatrixaerospace": {
   "name": "Bellatrix Aerospace",
   "sector": "Space",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "provisionlabs": {
   "name": "Provision Labs",
   "sector": "AI",
   "description": "US-based physical AI venture collecting real-world data to train robotics systems.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "fibe": {
   "name": "Fibe",
   "sector": "Fintech",
   "description": "Digital lending platform partnering Hygge Energy to finance rooftop solar.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "hyggeenergy": {
   "name": "Hygge Energy",
   "sector": "Cleantech",
   "description": "Canadian cleantech fintech running a peer-to-peer rooftop solar trading marketplace in Bengaluru.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "skydo": {
   "name": "Skydo",
   "sector": "Fintech",
   "description": "Cross-border payments platform that won final IFSCA authorisation to operate at GIFT City.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "nexttechnologyholding": {
   "name": "Next Technology Holding",
@@ -13529,5 +13529,54 @@
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-01",
   "last_mentioned": "2026-11-01"
+ },
+ "marutisuzuki": {
+  "name": "Maruti Suzuki",
+  "sector": "Automotive",
+  "description": "India's largest carmaker; led October passenger vehicle wholesales with 2.12 lakh units, up 20%.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "mm": {
+  "name": "M&M",
+  "sector": "Automotive",
+  "description": "Mahindra & Mahindra; October passenger vehicle wholesales rose 2% to 73,338 units.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "vbj": {
+  "name": "VBJ",
+  "sector": "Jewellery retail",
+  "description": "Chennai-based jeweller planning an IPO in three to four years, targeting Rs 10,000 crore turnover.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "isro": {
+  "name": "ISRO",
+  "sector": "Space",
+  "description": "India's space agency; GSLV-F18 launched successfully with the NVS-03 satellite reported healthy.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "learjet": {
+  "name": "Learjet",
+  "sector": "Aerospace",
+  "description": "Business jet manufacturer; a Learjet 60 crashed in Palm Beach County, Florida, killing all nine aboard.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "finvasiagroup": {
+  "name": "Finvasia Group",
+  "sector": "Fintech",
+  "description": "Financial services group that operates the Shoonya trading and investment platform.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "agromolventures": {
+  "name": "Agromol Ventures",
+  "sector": "Agritech",
+  "description": "Sources fresh fruits and vegetables for Flipkart Minutes from over 2,000 Pune-area farmers.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
  }
 }

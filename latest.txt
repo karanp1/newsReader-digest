@@ -1,93 +1,104 @@
-DAILY NEWS DIGEST — 2026-11-01
+DAILY NEWS DIGEST — 2026-11-02
 METRICS
 NIFTY PE | 19.30 | 30 Oct 2026 | https://nifty-pe-ratio.com/
-Gold per 10g 24K | ₹1,38,880 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
+Gold per 10g 24K | ₹1,38,870 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 23,053.10 (+1.32%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹74,08,685 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $78,010 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹74,38,130 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $78,254 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
 
 [Jio Platforms]
 
-- ~
-  31 Oct 2026 | https://www.aljazeera.com/news/2026/10/31/how-ambanis-jio-became-indias-second-largest-company
-  • Jio Platforms raised $3.2bn in India's largest-ever IPO and listed at ₹1,358, a 21.36% premium to its ₹1,119 issue price. ¶ • Shares are up 27.8% over the IPO price, valuing the company at $131.5bn as India's second most valuable firm after Reliance Industries. ¶ • The ₹30,188 crore offering drew bids worth ₹4.9 lakh crore and was subscribed more than 22 times. ¶ • Q2 FY27 net profit rose 13.7% to ₹8,389 crore on revenue from operations of ₹40,475 crore, up 11.4% year on year. ¶ • Net debt fell 78.6% to ₹8,822 crore from ₹41,161 crore a year ago, and Jio is weighing a low-Earth-orbit satellite internet service to rival Starlink. ¶ ↗ aljazeera.com|https://www.aljazeera.com/news/2026/10/31/how-ambanis-jio-became-indias-second-largest-company ;; tradingview.com|https://www.tradingview.com/news/moodys:4e7bbbf2df295:0-jio-platforms-up-27-8-since-ipo-listing-but-how-ril-jio-fin-alok-ind-network-18-lotus-shares-fared-in-3-years/ ;; cnbctv18.com|https://www.cnbctv18.com/photos/market/stocks-to-watch-for-november-2-reliance-industries-jio-platforms-bel-ioc-mm-coal-india-vodafone-idea-bccl-share-price-20023657.htm ;; etvbharat.com|https://www.etvbharat.com/en/business/stocks-in-focus-jio-platforms-bob-ntpc-green-sun-pharma-gail-enn26103104852
-
-- Outlook: Bullish
-  2026-11-01 |
-  §VIEW§{"stance": "bullish", "text": "A record listing, 22x subscription and 13.7% profit growth with net debt down 78.6% point to strong momentum. The main risk is that further tariff hikes may not lift revenue if users downgrade."}
+- Weekly Recap: Jio IPO valuation swing and high cash, lower debt, capex
+  02 Nov 2026 | https://www.tradingview.com/news/tradingview:3d08ad32e204a:0-weekly-recap-jio-ipo-valuation-swing-and-high-cash-lower-debt-capex/
 
 [Reliance Intelligence]
 
 [Reliance]
 
 - ~
-  01 Nov 2026 | https://www.tradingview.com/news/moodys:a678caed1d190:0-reliance-shares-buy-sell-or-hold-after-q2-results-2026-ril-stock-up-384-in-10-yrs-brokerages-advice-to-investors/
-  • Reliance reported record consolidated PAT of ₹29,550 crore in Q2 FY27, up 33.8% year-on-year, with revenue up 27.8% to ₹3,62,268 crore and EBITDA up 23.9% to ₹62,409 crore. ¶ • Oil-to-chemicals EBITDA jumped 67.9% year-on-year to ₹25,203 crore, driven by transport fuel cracks at 3.0-3.7 times year-ago levels and Dated Brent averaging $97 per barrel. ¶ • Jio Platforms listed at a 21.26% premium, raised $3.2 billion in India's largest IPO, and reported Q2 profit up 13.7% to ₹8,387 crore with 542.4 million subscribers. ¶ • Reliance Retail profit fell 24.3% to ₹2,611 crore and EBITDA declined 8.6% to ₹6,228 crore, with revenue up 6.4% to ₹91,716 crore. ¶ • Nuvama cut its target price to ₹1,703 from ₹1,766 while maintaining Buy, and Equirus has a Long rating with a target price of ₹1,537 under review. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:a678caed1d190:0-reliance-shares-buy-sell-or-hold-after-q2-results-2026-ril-stock-up-384-in-10-yrs-brokerages-advice-to-investors/ ;; m.economictimes.com|https://m.economictimes.com/industry/energy/oil-gas/reliance-industries-expands-fuel-exports-to-africa-europe-as-west-asia-conflict-disrupts-supplies/articleshow/135409711.cms ;; aljazeera.com|https://www.aljazeera.com/news/2026/10/31/how-ambanis-jio-became-indias-second-largest-company ;; tradingview.com|https://www.tradingview.com/news/moodys:4e7bbbf2df295:0-jio-platforms-up-27-8-since-ipo-listing-but-how-ril-jio-fin-alok-ind-network-18-lotus-shares-fared-in-3-years/
+  01 Nov 2026 | https://seekingalpha.com/article/4960797-reliance-industries-limited-2027-q2-results-earnings-call-presentation
+  • Reliance reported record quarterly net profit of ₹29,550 crore for the September quarter, up 33.8% year-on-year from ₹22,092 crore. ¶ • O2C EBITDA jumped 67.9% year-on-year to ₹25,203 crore, about 40% of group EBITDA, on fuel cracks 3.0-3.7 times year-ago levels. ¶ • Consolidated revenue rose 27.8% year-on-year to ₹3,62,268 crore, while EBITDA grew 23.9% to a record ₹62,409 crore. ¶ • Retail EBITDA fell 10.2% year-on-year to ₹6,120 crore, hurt by digital commerce investment and the festive calendar shift to December. ¶ • Jio Platforms added 9 million net subscribers, with ARPU at ₹218.80 and 5G users at 55.3% of its 542.4 million customer base. ¶ ↗ tradingview.com|https://www.tradingview.com/news/cnbctv:43a2fc444094b:0/ ;; m.economictimes.com|https://m.economictimes.com/markets/stocks/earnings/reliance-industries-reports-strong-growth-in-september-quarter-driven-by-oil-to-chemicals-segment/articleshow/135441477.cms ;; tradingview.com|https://www.tradingview.com/news/moodys:a678caed1d190:0-reliance-shares-buy-sell-or-hold-after-q2-results-2026-ril-stock-up-384-in-10-yrs-brokerages-advice-to-investors/
 
 - Outlook: Bullish
-  2026-11-01 |
-  §VIEW§{"stance": "bullish", "text": "Record Q2 profit and an 85% O2C-driven EBITDA increase show earnings power from tight fuel markets. Retail weakness and rich valuations cap the upside, but the Jio listing unlocks value."}
+  2026-11-02 |
+  §VIEW§{"stance": "bullish", "text": "Record Q2 profit and a 67.9% O2C EBITDA jump on strong fuel cracks drive the bullish read. Retail weakness and a lowered Nuvama target cap the upside."}
 
 [Flipkart]
 
 - ~
-  31 Oct 2026 | https://timesofindia.indiatimes.com/city/pune/flipkart-minutes-expands-to-1200-micro-fulfilment-centres-in-150-cities/articleshow/135410969.cms
-  • Flipkart is investigating whistleblower complaints that employees in its smartphones and luggage divisions took kickbacks from vendors for preferential seller visibility. ¶ • Flipkart Minutes has expanded to nearly 1,200 micro-fulfilment centres across 150 cities since its launch in Aug 2024. ¶ • Flipkart Minutes has created over 4 lakh direct and indirect jobs since inception, with around 60% of customers returning to shop. ¶ • Tier-2 markets drove nearly 25-fold year-on-year customer growth for Flipkart Minutes across cities including Ambala, Kanpur and Salem. ¶ • Flipkart said it has robust governance processes and controls and is committed to the highest standards of integrity and compliance. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/city/pune/flipkart-minutes-expands-to-1200-micro-fulfilment-centres-in-150-cities/articleshow/135410969.cms ;; thehindubusinessline.com|https://www.thehindubusinessline.com/companies/flipkart-says-it-has-robust-governance-as-some-staff-face-probe-over-alleged-seller-kickbacks/article71650173.ece
+  01 Nov 2026 | https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-probes-flipkart-claims-211130196.html
+  • Walmart began an internal probe into whistleblower allegations that Flipkart employees took vendor kickbacks for preferential platform treatment. ¶ • Flipkart Minutes sources fresh fruits and vegetables from over 2,000 Pune-area farmers through Agromol Ventures, with about 90% coming directly from farmers. ¶ • The fruits and vegetables category on Flipkart Minutes grew 3X year-on-year, while organic produce grew 10X and Tier 2+ city orders grew 6X. ¶ • Flipkart Minutes works with more than 7,000 farmers and 25 Farmer Producer Organisations across India to expand farm-direct sourcing. ¶ • About 20 to 22 tonnes of fresh produce move daily from Agromol's Sortapavdi Phata centre to Flipkart Minutes micro-fulfilment centres, held at 2-10 degrees Celsius. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/stocks/articles/walmart-wmt-probes-flipkart-claims-211130196.html ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/city/pune/organic-fruits-vegetables-drive-demand-for-flipkart-minutes/articleshow/135430131.cms
 
-- Outlook: Neutral
-  2026-11-01 |
-  §VIEW§{"stance": "neutral", "text": "Quick commerce scale-up and Tier-2 growth are offset by a kickback probe with unestablished quantum. The split is expansion versus governance risk."}
+- Outlook: Bearish
+  2026-11-02 |
+  §VIEW§{"stance": "bearish", "text": "The kickback probe puts compliance risk on Flipkart's marketplace economics, a core profit pool. Grocery sourcing gains are real but small next to that risk."}
 
 [Zomato]
 
 - ~
-  01 Nov 2026 | https://www.moneycontrol.com/news/trends/no-cafes-no-swiggy-no-zomato-techie-earning-rs-1-lakh-monthly-in-village-considers-moving-to-a-city-14065460.html
-  • A physically disabled Zomato delivery agent on crutches climbed stairs to deliver a ₹50 Maggi order, only to find the customer had cancelled it. ¶ • The agent, Nihir, had asked the customer to collect the order downstairs due to his disability, but the customer refused, citing the delivery charge paid. ¶ • The incident, shared on Instagram, drew widespread criticism of the customer and support for the delivery agent. ¶ • Some social media users suggested the agent could have handed the parcel to a cameraperson, prompting Nihir to post a second video explaining his aim to highlight the plight of disabled delivery workers. ¶ • A separate Reddit post by a remote software engineer earning ₹1 lakh monthly in a village mentioned lack of Zomato/Swiggy as a reason for considering a move to a city. ¶ ↗ moneycontrol.com|https://www.moneycontrol.com/news/trends/no-cafes-no-swiggy-no-zomato-techie-earning-rs-1-lakh-monthly-in-village-considers-moving-to-a-city-14065460.html ;; moneycontrol.com|https://www.moneycontrol.com/news/trends/physically-disabled-zomato-rider-climbs-stairs-to-deliver-order-only-to-find-it-cancelled-by-customer-watch-14065055.html
+  02 Nov 2026 | https://www.hindustantimes.com/trending/deepinder-goyal-says-his-zomato-guy-reputation-works-against-his-new-health-tech-venture-temple-101793582981553.html
+  • Zomato founder Deepinder Goyal said being known as the 'Zomato guy' works against his new wearable Temple, with people doubting he can do hardware and science. ¶ • Temple, a wearable priced at ₹85,000 that measures brain blood flow and entropy, opened for pre-orders on November 1 and its website briefly crashed from traffic. ¶ • Goyal said the Temple website was recovering and that orders were working on the app, after pre-orders opened at 9:30 pm on November 1. ¶ • Zomato will roll out a 'Mehmaan Mode' feature this week that hides menu prices for guests during group orders, after a LinkedIn user suggested it. ¶ • Goyal responded on LinkedIn thanking the user for the Mehmaan Mode suggestion and confirming the rollout for that week. ¶ ↗ hindustantimes.com|https://www.hindustantimes.com/trending/deepinder-goyal-says-his-zomato-guy-reputation-works-against-his-new-health-tech-venture-temple-101793582981553.html ;; trak.in|https://trak.in/stories/zomato-users-can-now-hide-prices-for-guests-to-order-mehmaan-mode/
 
 - Outlook: Neutral
-  2026-11-01 |
-  §VIEW§{"stance": "neutral", "text": "The news flow is neutral for Zomato: a viral delivery incident highlights treatment of workers, while a remote worker's complaint shows demand for food delivery in underserved areas. Neither directly affects financials."}
+  2026-11-02 |
+  §VIEW§{"stance": "neutral", "text": "Temple's Rs 85,000 wearable drew enough pre-order traffic to crash its site, but Goyal says his Zomato reputation undercuts hardware credibility. Mehmaan Mode is a minor app tweak. No financial figures decide the flow."}
 
 [HAL]
 
 - ~
-  01 Nov 2026 | https://defencesecurityasia.com/en/india-boeing-767-tanker-deal-fighter-reach-indian-ocean/
-  • IAF is nearing a deal for six converted Boeing 767 tankers under an HAL-IAI tie-up, valued at ₹8,000-9,000 crore, with deliveries expected in phases over 2028-2030. ¶ • The Defence Acquisition Council has already granted initial clearance for the capital expenditure, but no signed contract has been announced as of November 1, 2026. ¶ • The tankers will replace or supplement six Soviet-era Il-78MKI refuellers that have suffered poor serviceability and heavy maintenance burdens. ¶ • HAL and domestic private firms will handle structural integration, maintenance and lifetime support, supporting self-reliance in defence manufacturing. ¶ • HAL appointed P B Rangarao as Director (Operations) effective October 28, 2026, succeeding CMD Kota Ravi who relinquished the additional charge. ¶ ↗ defencesecurityasia.com|https://defencesecurityasia.com/en/india-boeing-767-tanker-deal-fighter-reach-indian-ocean/ ;; defence.in|https://defence.in/threads/iaf-nears-deal-for-6-converted-pre-owned-boeing-767-tankers-under-hal-iai-tie-up-deliveries-expected-over-2028-30.19000/ ;; ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/nebenwerte/hindustan-aeronautics-stock-gets-new-operations-director/70440171
+  02 Nov 2026 | https://timesofindia.indiatimes.com/defence/israels-iai-on-verge-of-winning-900-million-deal-for-six-refuelling-aircraft-for-iaf-reports/articleshow/135440476.cms
+  • Israel Aerospace Industries is set to win a $905.7 million deal to convert six Boeing 767 jets into refuelling tankers for the Indian Air Force. ¶ • HAL is likely to be IAI's Indian partner for conversion work including local systems integration, wiring and structural updates, with at least 30% of the work in India. ¶ • Deliveries are projected for 2028 to 2030, and no signed contract has been announced by the defence ministry, IAF, HAL or IAI as of November 1, 2026. ¶ • The six tankers would replace or supplement the IAF's ageing fleet of six Russian-origin Il-78MKI aircraft, which suffer chronic availability problems. ¶ • IAI emerged as sole qualifying bidder after Russian and European proposals failed evaluation criteria, with the deal estimated at $900 million to $1.1 billion. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/defence/israels-iai-on-verge-of-winning-900-million-deal-for-six-refuelling-aircraft-for-iaf-reports/articleshow/135440476.cms ;; defencesecurityasia.com|https://defencesecurityasia.com/en/india-boeing-767-tanker-deal-fighter-reach-indian-ocean/
 
-- Outlook: Bullish
-  2026-11-01 |
-  §VIEW§{"stance": "bullish", "text": "The tanker deal would expand HAL's order book and deepen its IAI partnership, while the new operations director brings production experience. However, the contract remains unsigned, so execution risk persists."}
+- Outlook: Neutral
+  2026-11-02 |
+  §VIEW§{"stance": "neutral", "text": "Procurement momentum for six converted Boeing 767 tankers and HAL's likely workshare are positive, but no contract is signed and Cabinet Committee on Security approval is pending. Approval and serviceability decide whether this becomes real capacity."}
 
 [Tejas Networks]
 
 [Dmart]
 
+- ~
+  01 Nov 2026 | https://ca.finance.yahoo.com/quote/DMART.BO/seasonality/
+  • Avenue Supermarts reported FY26 turnover of about INR67,000 crore and PAT of INR3,224 crore, with EBITDA margin at about 7.8%. ¶ • Like-for-like growth for stores older than two years was 8.1%, while revenue per square foot stayed flat at INR33,422. ¶ • The company targets 15% annual store expansion, roughly 75 new stores, after opening 85 last year including 15 on lease. ¶ • Avenue E-commerce sales grew about 17% but EBITDA fell about 43%, posting a net loss of INR307 crore. ¶ • DMart Ready narrowed its e-commerce focus to 11 key cities, exiting seven with low order density to target profitability. ¶ ↗ scanx.trade|https://scanx.trade/stock-market-news/companies/avenue-supermarts-holds-analyst-meet-with-sbi-funds/46797145
+
+- Outlook: Neutral
+  2026-11-02 |
+  §VIEW§{"stance": "neutral", "text": "Core retail growth and store expansion are steady, but flat revenue per square foot and a widening e-commerce loss split the picture. The 15% expansion target and 8.1% like-for-like growth offset by online losses keep it balanced."}
+
 [Godigit Insurance]
 
 [Infoedge/Naukri]
 
+- ~
+  02 Nov 2026 | https://simplywall.st/stocks/in/media/nse-naukri/info-edge-india-shares/news/should-income-investors-look-at-info-edge-india-limited-nsen-1
+  • Info Edge will pay a dividend of ₹3.00 per share, with the ex-dividend date on 6 November and payment on 27 November. ¶ • The company distributed ₹8.40 per share over the last year, a trailing yield of 0.7% on the current price of ₹1189.60. ¶ • The dividend is covered by profit and cash flow, with a payout ratio of 33% of earnings and 51% of free cash flow. ¶ • Earnings per share grew 3.9% on average over the last five years, a slow pace for the business. ¶ • Dividends have grown 30% per year on average over the past 10 years, showing a commitment to returning cash. ¶ ↗ simplywall.st|https://simplywall.st/stocks/in/media/nse-naukri/info-edge-india-shares/news/should-income-investors-look-at-info-edge-india-limited-nsen-1
+
+- Outlook: Neutral
+  2026-11-02 |
+  §VIEW§{"stance": "neutral", "text": "The dividend is well covered and has grown steadily, but the 0.7% yield and slow 3.9% earnings growth offer little income or momentum. The facts split evenly."}
+
 [Bitcoin]
 
 - ~
-  01 Nov 2026 | https://finance.yahoo.com/markets/crypto/articles/j-p-morgan-just-made-012000318.html
-  • J.P. Morgan's October 2026 report projects Bitcoin will return 10% annually over 10 years, above its 7.5% forecast for large U.S. stocks. ¶ • J.P. Morgan expects 55% annual volatility for Bitcoin versus 18% for large U.S. stocks, giving both the same 0.32 return per unit of volatility. ¶ • Michael Saylor said the next Bitcoin bull market has started, citing the June 30 low of $58,525 and bank lending against Bitcoin. ¶ • Profit-taking now outnumbers loss-taking by about 4 to 1, flipping from 12 to 1 loss-taking at the June lows, a bull-market signal since 2011. ¶ • James Lavish said early holders have sold and younger investors moved to prediction markets and sports betting, but he still sees a bottom and a $400,000 to $500,000 top in 2029. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/j-p-morgan-just-made-012000318.html ;; fool.com|https://www.fool.com/investing/2026/10/31/strategys-michel-saylor-says-the-next-bitcoin-bull/ ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/bitcoin-fatigue-real-james-lavish-152038879.html ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/strategys-michel-saylor-says-next-032000935.html
+  01 Nov 2026 | https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack
+  • US spot Bitcoin ETFs lost $643.2 million on Friday, the first full session after the $6.4 billion Binance hack, their biggest single-day outflow of October. ¶ • Bitcoin fell about 4% to roughly $76,400 Friday on the hack, then steadied near $78,076 by Monday as Binance restored withdrawals and replenished about 95% of affected assets. ¶ • Spot Bitcoin ETFs ended October with about $516 million in net outflows, and total net assets fell to $98.1 billion from $111 billion on October 5. ¶ • Ethereum ETFs lost $155.7 million Friday, extending a five-day outflow streak to about $431 million and October losses to roughly $1.61 billion. ¶ • Strategy's Michael Saylor said the next Bitcoin bull market has started, citing the June bounce off the 200-week moving average and profits now outpacing losses by 4 to 1. ¶ ↗ decrypt.co|https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/100-week-bitcoin-since-126-232911788.html ;; au.finance.yahoo.com|https://au.finance.yahoo.com/news/bitcoin-steadies-near-us-78-005800846.html ;; 247wallst.com|https://247wallst.com/investing/cryptocurrency/2026/11/01/bitcoin-price-prediction-for-november-2026/
 
-- Outlook: Neutral
-  2026-11-01 |
-  §VIEW§{"stance": "neutral", "text": "J.P. Morgan sees 10% annual returns but equal volatility-adjusted returns to stocks, while Saylor and Lavish call a bottom. The split is between modest institutional forecasts and on-chain bull signals."}
+- Outlook: Bearish
+  2026-11-02 |
+  §VIEW§{"stance": "bearish", "text": "ETF outflows of $643.2 million and October's $516 million net redemptions show institutions cutting exposure after the Binance hack, limiting Bitcoin's rebound near $78,000. A clean Binance reserve report on November 3 or a shift to inflows would decide the next move."}
 
 [Gold]
 
 - ~
-  01 Nov 2026 | https://www.kitco.com/price/gold-price-cad
-  • Spot gold plunged $145.84, or nearly 4%, to $3,875.55 per ounce on Friday, its lowest level in over a year. ¶ • MCX gold futures fell ₹4,347 to ₹1,38,419 per 10 grams, while silver dropped ₹10,577 per kg to ₹1,78,900. ¶ • The Fed kept its funds rate at 3.75%-4.00% on October 28, with two members favoring a 25-basis-point hike. ¶ • Global physically backed gold ETFs drew $31 billion in the third quarter of 2026, a quarterly record, per the World Gold Council. ¶ • Nepal's gold price fell ₹8,300 per tola in one day to ₹272,000, and India's festive and wedding demand is expected to support prices in November. ¶ ↗ kitco.com|https://www.kitco.com/price/gold-price-cad ;; livemint.com|https://www.livemint.com/money/gold-silver-rates-crash-what-happened-with-precious-metal-rates-what-didnt-go-in-favour-and-brought-them-down-11793465441981.html ;; livemint.com|https://www.livemint.com/money/gold-24k-22k-18k-silver-999-prices-today-1-november-retail-rates-bangalore-hyderabad-delhi-mumbai-kolkata-chennai-cities-11793469769074.html ;; finance.biggo.com|https://finance.biggo.com/news/283017b3-e972-4630-ae6f-65f005897cfe
+  01 Nov 2026 | https://m.economictimes.com/news/international/us/gold-price-prediction-gold-rate-continues-to-fall-or-will-bear-movement-end-after-us-midterm-elections-results-experts-make-forecast/articleshow/135440148.cms
+  • Gold fell 3.29% to USD 3,898.90 an ounce on Friday, its lowest level since October 2025, and ended its worst October since 2008 at $3,875. ¶ • Hedge funds cut bullish gold bets for nine straight weeks, and investors added about 150 tonnes to gold ETFs since July, much of it now below cost, Saxo Bank said. ¶ • Gold broke below $4,000 and its 200-day moving average, which has turned into resistance, after disappointing Big Tech earnings and a tech-led equity selloff. ¶ • The Federal Reserve held interest rates at 3.75% to 4.00% at its October 27-28 meeting, keeping the opportunity cost of holding gold elevated. ¶ • US midterm elections on November 3 and Friday's October nonfarm payrolls report are the next catalysts, with a recovery above $4,000 seen calming the short-term picture. ¶ ↗ m.economictimes.com|https://m.economictimes.com/news/international/us/gold-price-prediction-gold-rate-continues-to-fall-or-will-bear-movement-end-after-us-midterm-elections-results-experts-make-forecast/articleshow/135440148.cms ;; finance.yahoo.com|https://finance.yahoo.com/markets/commodities/articles/gold-had-worst-october-since-215818425.html ;; moneycontrol.com|https://www.moneycontrol.com/news/business/personal-finance/gold-sinks-to-its-1-year-low-can-a-gap-up-opening-on-november-2-signal-a-recovery-14065536.html ;; fxleaders.com|https://www.fxleaders.com/news/2026/11/01/gold-price-forecast-xau-usd-faces-critical-november-test-as-dollar-and-treasury-yields-drive-selling/
 
 - Outlook: Bearish
-  2026-11-01 |
-  §VIEW§{"stance": "bearish", "text": "Gold's plunge to a one-year low is driven by hawkish Fed expectations, rising oil and inflation worries, and a broad market sell-off. Record ETF inflows and upcoming Indian festive demand offer some cushion, but the near-term pressure dominates."}
+  2026-11-02 |
+  §VIEW§{"stance": "bearish", "text": "Gold broke below $4,000 and its 200-day moving average, with hedge funds cutting bullish bets for nine straight weeks and ETF buyers underwater. Higher-for-longer US rates and firm oil keep pressure on; only weaker jobs data or a $4,000 reclaim would shift this."}
 
 ============================================================
 
@@ -99,21 +110,57 @@ SOURCE 8: AI News
 
 SOURCE 2: The Hindu - Editorials
 
-[No editorials in the last 24 hours. The newest one on The Hindu's feed is from 31 Oct, 10:44 AM IST.]
+### Slow recovery: On the ISRO’s GSLV-F18 mission
+01 Nov 2026 | https://www.thehindu.com/opinion/editorial/the-hindu-editorial-november-2-2026-slow-recovery-on-the-isros-gslv-f18-mission/article71654004.ece
+
+• ISRO's GSLV-F18 mission launched successfully and the NVS-03 satellite is reported healthy, only its second successful launch of 2026.
+
+• The previous 18 months were constrained by two PSLV launch failures, and PSLV rockets share some design aspects with GSLV.
+
+• NVS-03 carries at least one indigenously made atomic clock, unlike the imported clocks on first-generation IRNSS satellites.
+
+• The article calls for about ₹17,000 crore for the Department of Space in the 2027-28 Union Budget, against ₹13,705.6 crore in 2026-27.
+
+• It argues NavIC needs a dedicated operator and India a national space law on private participation and liability, warning ISRO will otherwise lurch between missions.
+
+### Dwindling support: On the U.S. and the Cuban embargo
+01 Nov 2026 | https://www.thehindu.com/opinion/editorial/the-hindu-editorial-dwindling-support-on-the-us-and-the-cuban-embargo/article71654007.ece
+
+• The UN General Assembly passed its annual resolution against the U.S. embargo on Cuba on October 30, but with sharply lower support than in past years.
+
+• Support fell to 130 votes in favour, with 25 abstentions and 17 against, down from 165 in favour in 2025 and more than 180 for the preceding decade.
+
+• The editorial attributes the drop to Trump administration pressure on countries to switch votes, including Latin American states that downgraded ties with Havana.
+
+• It notes U.S. diplomats linked Havana-Moscow ties to Russia's war in Ukraine, prompting Germany and Italy to abstain for the first time in many years.
+
+• The paper credits India for standing firm against the embargo and urges it to keep amplifying the voice of smaller Global South countries.
 
 ============================================================
 
 SOURCE 5: The Hindu - Business (headlines + summary)
 
-[[Tax and GST collections]]
+[[GST and tax collections]]
 
-- GST mop-up grows 23% to over ₹2.31 lakh cr. in October
+- GST mop-up surges 23% to second-highest level of ₹2.31 lakh crore in October on festive demand boost
   01 Nov 2026 | https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece
   • Gross GST collections rose 23% to over ₹2.31 lakh crore in October, with domestic sales up 16% and import revenue up 42% to ₹72,246 crore. ¶ • Net GST collections after refunds grew 26% to over ₹2.03 lakh crore, and April-October gross mop-up rose 13.2% to over ₹14.77 lakh crore.
 
-- Centre releases additional instalment of tax devolution of ₹1.09 lakh crore to states
-  31 Oct 2026 | https://www.thehindu.com/business/centre-releases-additional-instalment-of-tax-devolution-of-109-lakh-crore-to-states/article71650532.ece
-  • The Centre released an extra tax devolution instalment of ₹1,09,019 crore to states on October 31, 2026, on top of the regular monthly transfer. ¶ • The Finance Ministry said the release aims to speed up states' capital spending during the festive season; 41% of central taxes are devolved in 14 instalments a year.
+[[FPI flows]]
+
+- FPIs pull out ₹34,843 crore from Indian equities in October, but turn net buyers end of the month
+  01 Nov 2026 | https://www.thehindu.com/business/markets/fpis-pull-out-34843-crore-from-indian-equities-in-october-but-turn-net-buyers-end-of-the-month/article71653063.ece
+  • Foreign portfolio investors sold ₹34,843 crore of Indian equities in October, a second straight month of outflows, taking 2026 withdrawals to ₹2.95 lakh crore. ¶ • FPIs turned net buyers of about ₹6,300 crore from October 26 to 30, helping the Nifty reclaim 23,000, though experts said one week does not signal a sustained reversal.
+
+[[Coal production and imports]]
+
+- Coal India’s production increases 19% as mining recovers after monsoon slump
+  01 Nov 2026 | https://www.thehindu.com/business/Economy/coal-indias-production-increases-19-as-mining-recovers-after-monsoon-slump/article71652572.ece
+  • Coal India's production rose about 19% year-on-year to 67.2 million tonnes in October, as mining recovered from the monsoon slowdown. ¶ • Supplies to the power sector also rose 19% to a record 57.1 MT, with overall supplies up 19% to 70.3 MT, helping rebuild stocks at thermal plants.
+
+- India’s coal imports decline 5.83% in August
+  01 Nov 2026 | https://www.thehindu.com/business/Industry/indias-coal-imports-decline-583-in-august/article71652641.ece
+  • India imported 104.57 million tonnes of coal in August, down 5.83% from 111.05 MT a year earlier, as domestic production rose. ¶ • Imports by domestic coal-based power plants fell 35.23% to 3 MT, and imported coal's share of consumption dropped to 19.3% from 21.2%.
 
 [[Fuel prices and duties]]
 
@@ -121,238 +168,34 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   01 Nov 2026 | https://www.thehindu.com/business/Industry/commercial-lpg-prices-hiked-by-around-10-per-cylinder/article71652063.ece
   • Oil-marketing companies raised commercial LPG cylinder prices by about ₹10 on November 1, with the 19-kg cylinder in Delhi at ₹2,820, while domestic LPG prices stayed unchanged. ¶ • The government set the petrol export duty to nil and raised the diesel export levy to ₹11.5 per litre for 15 days, as October diesel exports hit 700 kilo barrels per day, the highest since September 2025.
 
-- IOC says crude Q2 price volatile as procurement swings between discounts and premiums
-  31 Oct 2026 | https://www.thehindu.com/business/Economy/crude-oil-prices-very-volatile-in-q2-carried-both-discounts-premium-at-varying-intervals-iocl-official/article71650317.ece
-  • IOC bought crude in the September quarter at discounts up to $5 per barrel and premiums up to $12, versus a zero-to-$18 premium range in the first quarter. ¶ • Net profit more than doubled year-on-year to ₹21,630 crore, while LPG under-recoveries rose from ₹184 per cylinder in September to a projected ₹370 in December.
+[[Auto sales]]
 
-[[Company results]]
-
-- NTPC Q2 net up 14% to ₹5,320-cr. on higher generation, improved efficiencies
-  31 Oct 2026 | https://www.thehindu.com/business/Industry/ntpc-q2-net-up-14-to-5320-cr-on-higher-generation-improved-efficiencies/article71649492.ece
-  • NTPC's standalone net profit rose 14.3% year-on-year to ₹5,320 crore in the September quarter, with revenue from operations up nearly 17% to ₹45,752 crore. ¶ • Commercial generation rose 11.1% to 92.413 billion units and plant load factor improved to 73.53% from 66.01%, while consolidated net profit jumped 40.7% to ₹7,351 crore.
-
-- Why investors are worried despite Alphabet’s 25% revenue growth and Google Cloud’s revenue more than doubling | Explained
-  31 Oct 2026 | https://www.thehindu.com/sci-tech/technology/why-investors-are-worried-despite-alphabets-25-revenue-growth-and-google-clouds-revenue-more-than-doubling-explained/article71648845.ece
-  • Alphabet reported 25% revenue growth in the September quarter, with Google Cloud revenue more than doubling. ¶ • Investors worry about heavy spending on AI computing infrastructure and how AI changes Google Search's advertising business.
-
-[[Regulation and markets]]
-
-- SEBI chairman says market regulator keeping eye on Tata Group developments
-  31 Oct 2026 | https://www.thehindu.com/business/sebi-chairman-says-market-regulator-keeping-eye-on-tata-group-developments/article71650464.ece
-  • SEBI Chairman Tuhin Kanta Pandey said the regulator is monitoring governance issues at Tata Sons, the unlisted holding company, including N Chandrasekaran's reappointment and a proposed listing. ¶ • Tata Group's 26 listed companies had a combined market capitalisation of $328 billion as of March 31, 2025, with seven of them holding about 11.92% in Tata Sons.
-
-- Textile industry welcomes customs duty exemption extension for cotton
-  31 Oct 2026 | https://www.thehindu.com/news/cities/Coimbatore/textile-industry-welcomes-customs-duty-exemption-extension-for-cotton/article71650288.ece
-  • India extended the customs duty exemption on cotton imports until December 31, 2026, after daily arrivals stayed below 70,000 bales in the first month of the October 2026 to September 2027 season. ¶ • CITI chairman Ashwin Chandran said the waiver keeps input costs under control and supports the industry's target of $100 billion in textile and apparel exports by 2030.
-
-[[Corporate strategy and investment]]
-
-- Radico Khaitan sets sights on Scotland to secure malt whisky supplies
-  31 Oct 2026 | https://www.thehindu.com/business/Industry/radico-khaitan-sets-sights-on-scotland-to-secure-malt-whisky-supplies/article71650010.ece
-  • Radico Khaitan incorporated Radico Khaitan Scotland Ltd. to explore whisky distillation, maturation and trading, though it is not pursuing a specific distillery acquisition now. ¶ • The company reported net revenue above ₹6,000 crore in FY26, with its Prestige & Above portfolio at 46% of IMFL volumes and about 70% of value sales.
-
-- Merging SpaceX, Tesla makes more sense for Musk than its investors
-  31 Oct 2026 | https://www.thehindu.com/business/merging-spacex-tesla-makes-more-sense-for-musk-than-its-investors/article71649406.ece
-  • Musk's SpaceX and Tesla are exploring a merger with a combined market capitalisation of $3.5 trillion, creating an AI-industrial conglomerate. ¶ • Barclays estimates Musk could hold 37% of the combined company's equity but 56% of voting power, consolidating control without majority economic value.
-
-- EKA Mobility plans ₹1,000-crore R&D investment, targets 40,000-unit capacity utilisation by 2030
-  31 Oct 2026 | https://www.thehindu.com/business/Industry/eka-mobility-plans-1000-crore-rd-investment-targets-40000-unit-capacity-utilisation-by-2030/article71649617.ece
-  • EKA Mobility plans to invest ₹1,000 crore in research and development over the next four to five years. ¶ • The company expanded its annual production capacity to 40,000 vehicles and has an order book of over 11,000 buses valued at $1.7 billion.
+- Domestic PV dispatches cross five-lakh units mark in October on strong festive demand
+  01 Nov 2026 | https://www.thehindu.com/business/Industry/domestic-pv-dispatches-cross-five-lakh-units-mark-in-october-on-strong-festive-demand/article71652936.ece
+  • Domestic passenger vehicle wholesales hit a record 5.25-5.3 lakh units in October, up 13-15% from 4.6 lakh units a year earlier. ¶ • Maruti Suzuki led with 2.12 lakh units, up 20%, while Tata Motors rose 21% to 73,894, Hyundai 16.7% to 62,799 and M&M 2% to 73,338.
 
 [[Other]]
 
-- Towards recognising women farmers
-  31 Oct 2026 | https://www.thehindu.com/business/Economy/towards-recognising-women-farmers/article71497026.ece
-  • Maharashtra passed the Women Farmers' Empowerment Bill in July 2026, granting women independent farmer recognition regardless of land ownership via a Woman Farmer Certificate. ¶ • The law is India's first state legislation to operationalise the activity-based, land-delinked farmer definition from the 2007 National Policy for Farmers, nearly two decades later.
+- VBJ to look at going public in 3 to 4 years
+  01 Nov 2026 | https://www.thehindu.com/news/cities/Coimbatore/vbj-to-look-at-going-public-in-3-to-4-years/article71653688.ece
+  • Chennai-based jeweller VBJ plans an IPO in three to four years, targeting ₹10,000 crore turnover by then. ¶ • VBJ opened a 21,000 sq.ft Coimbatore outlet for ₹900 crore and will add stores in Tiruchi, Hyderabad, and T-Nagar this fiscal.
 
 ============================================================
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
-[[US politics]]
+- Jet crash in Florida: All nine people aboard killed, says Transportation Secretary
+  02 Nov 2026 | https://www.thehindu.com/news/international/jet-crash-in-florida-all-nine-people-aboard-killed-says-transportation-secretary/article71655145.ece
+  • A Learjet 60 flying from Austin, Texas, to the Bahamas nose-dived into a Palm Beach County neighborhood on November 1, 2026, killing all nine people aboard. ¶ • The FAA is sending a team to aid the NTSB investigation, and roads near Military Trail and 10th Avenue North remain closed.
 
-- Donald Trump says Flavio Bolsonaro can stay in U.S. as long as he wants amid Brazilian probes
-  01 Nov 2026 | https://www.thehindu.com/news/international/donald-trump-says-flavio-bolsonaro-can-stay-in-us-as-long-as-he-wants-amid-brazilian-probes/article71652154.ece
-  • Trump told reporters at Mar-a-Lago that Flavio Bolsonaro, who lost Brazil's election, can stay in the U.S. indefinitely and called the vote a disgrace. ¶ • Bolsonaro entered on humanitarian parole, which usually lasts one year, after Brazil's Supreme Court revoked his passport over two federal money-laundering probes.
-
-- ‘Epstein Files’: U.S. Judge dismisses Trump lawsuit against Wall Street Journal
-  01 Nov 2026 | https://www.thehindu.com/news/international/epstein-files-us-judge-dismisses-trump-lawsuit-against-wall-street-journal-over-epstein-letter/article71652110.ece
-  • Judge Darrin Gayles dismissed Trump's $10 billion defamation suit against the Wall Street Journal and Rupert Murdoch with prejudice on Saturday, October 31, 2026. ¶ • The judge ruled Trump failed to show the defendants acted with actual malice over a July 2025 report on his alleged 2003 birthday letter to Jeffrey Epstein.
-
-- How can Pope Leo vote in U.S. elections while serving as the sovereign of Vatican City? | Explained
-  01 Nov 2026 | https://www.thehindu.com/news/international/how-can-pope-leo-vote-in-us-elections-while-serving-as-the-sovereign-of-vatican-city-explained/article71648983.ece
-  • The Vatican confirmed Chicago-born Pope Leo XIV, formerly Robert Francis Prevost, submitted a mail-in ballot in Chicago for the U.S. midterm elections. ¶ • The Holy See Press Office said he has voted as a U.S. citizen whenever eligible, keeping a long-standing practice of civic participation.
-
-- Who are the Indian-origin candidates in U.S. midterm elections?
-  01 Nov 2026 | https://www.thehindu.com/news/international/who-are-the-indian-origin-candidates-in-us-midterm-elections/article71644803.ece
-  • Indian-origin candidates are running in the November 3, 2026 midterms, with all 435 House seats and 35 of 100 Senate seats up for election. ¶ • Democratic lawmakers Ro Khanna, Pramila Jayapal, Ami Bera and Suhas Subramanyam seek re-election, while Republican Vivek Ramaswamy runs for Ohio Governor.
-
-- Mamdani says Trump has agreed to grant visa to mother of Ghanian teen killed in Bronx shooting
-  01 Nov 2026 | https://www.thehindu.com/news/international/mamdani-says-trump-has-agreed-to-grant-visa-to-mother-of-ghanian-teen-killed-in-bronx-shooting/article71651389.ece
-  • Mayor Zohran Mamdani said on X that Trump agreed by phone to grant a visa to the mother of Javits Frimpong, 15, shot in the Bronx on October 29, 2026. ¶ • The White House did not confirm the visa, and no arrests have been made in the killing, which Ghana's foreign minister said officials are working with U.S. authorities on.
-
-[[West Asia tensions]]
-
-- Israeli protesters urge opposition to ally with Arab parties to oust Netanyahu
-  01 Nov 2026 | https://www.thehindu.com/news/international/israeli-protesters-demand-opposition-ally-with-arab-parties-to-oust-netanyahu/article71652323.ece
-  • Hundreds rallied in Tel Aviv and Jerusalem on October 31, 2026, after Arab-majority parties won a combined 19 seats in the 120-seat Knesset. ¶ • Opposition leader Gadi Eisenkot has not decided on a coalition with Arab parties, whose support could give the anti-Netanyahu bloc 67 seats.
-
-- US and Iran Face Uncertainty Amid Military Threats and Diplomatic Efforts
-  01 Nov 2026 | https://www.thehindu.com/news/international/president-trump-says-us-still-has-one-or-two-targets-in-iran/article71652262.ece
-  • U.S. President Trump stated the U.S. has degraded Iran's military but still intends to target one or two remaining sites. ¶ • Secretary of State Marco Rubio confirmed President Trump has not made a decision regarding fresh military strikes on Iran while favoring a diplomatic resolution.
-
-[[Pakistan Afghanistan tensions]]
-
-- Terrorism is 'red line': Pakistan tells Afghanistan as it warns of action against cross-border threats
-  01 Nov 2026 | https://www.thehindu.com/news/international/terrorism-is-red-line-pakistan-tells-afghanistan-as-it-warns-of-action-against-cross-border-threats/article71652279.ece
-  • Pakistan's Information and Broadcasting Ministry said terrorism is a "red line" and it reserves the right to take all necessary measures against cross-border threats. ¶ • The statement answered Afghan Taliban spokesperson Zabihullah Mujahid, who told Hurriyat Radio that Islamabad was unwilling to resolve tensions through dialogue and that Afghanistan was not responsible for the counter-terrorism issues Pakistan cites.
-
-[[China Taiwan tensions]]
-
-- Taiwan says China harassing shipping with east coast patrol
-  01 Nov 2026 | https://www.thehindu.com/news/international/taiwan-says-china-harassing-shipping-with-east-coast-patrol/article71652011.ece
-  • Taiwan's Coast Guard said two Chinese ships patrolled off its east coast, calling the move a fictional jurisdiction, and sent its own vessels to monitor. ¶ • China also sent a Coast Guard ship near the Taiwan-controlled Pratas Islands, which Taiwan has expelled from those waters 13 times this year.
-
-[[Brazil politics]]
-
-- Student List | The young Serb unrest
-  01 Nov 2026 | https://www.thehindu.com/news/international/student-list-the-young-serb-unrest/article71650616.ece
-  • The concrete canopy of Novi Sad Railway station collapsed on November 1, 2024, killing 16 people, including two six-year-olds. ¶ • Grief over the collapse and outrage at the shoddy China-backed reconstruction grew into protests that ended 14 years of rule by Aleksandar Vučić's Serbian Progressive Party (SNS).
-
-- Lula da Silva | The Pele of Brazil’s politics
-  01 Nov 2026 | https://www.thehindu.com/news/international/lula-da-silva-the-pele-of-brazils-politics/article71650597.ece
-  • Lula beat Flavio Bolsonaro in a televised debate two days before Brazil's presidential runoff by recalling the factory accident at 17 that cost him a finger. ¶ • On October 25, Lula became the first Brazilian president to finish second in the first round, held October 4, and then win the runoff.
-
-[[Other]]
-
-- Six Indian tourists stranded in Nepal, rescue efforts underway
-  01 Nov 2026 | https://www.thehindu.com/news/national/indian-tourists-stranded-in-nepal-rescue-efforts/article71652398.ece
-  • Six Indian tourists, including two women, have been stranded by heavy snowfall in Nepal's Shey-Phoksundo National Park since Saturday afternoon (October 31, 2026). ¶ • An Army helicopter is arriving to rescue them after officials located the area, though the tourists had ignored warnings and left their guide.
+- Brazil elections | Historic win, humongous challenges
+  02 Nov 2026 | https://www.thehindu.com/news/international/historic-win-humongous-challenges/article71649828.ece
+  • Lula trailed Flavio Bolsonaro 45.2% to 47% after the first round, with abstention at 21%, the highest since 1998. ¶ • Student and youth marches against Bolsonarism helped Lula win a historic third term.
 
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-
-### Soaring tech costs push festive shoppers towards EMIs
-30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
-
-• At Pai International Electronics, 70-80% of smartphone sales this festive season were financed through EMIs, up from 40-50% last year.
-
-• At Vijay Sales, which has 181 stores nationwide, EMIs accounted for about 70-75% of festive-season sales.
-
-• Laptop prices have risen by nearly 35-40% in the last six months, and mobile phone prices have increased by 25-40%.
-
-• A two- to three-fold surge in memory chip prices, rupee depreciation and higher freight costs have driven up electronics prices.
-
-### Shadowfax revenue rises 57% in Q2, net profit jumps fivefold
-30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
-
-• Operating revenue rose 57% to ₹1,538 crore from ₹982 crore a year earlier.
-
-• Net profit jumped fivefold to ₹68 crore from ₹13 crore.
-
-• Total revenue, including other income, increased 58% to ₹1,558 crore.
-
-• Total expenses climbed 53% to ₹1,490 crore.
-
-### BlackBuck Q2 profit rises 42% to Rs 41 crore, revenue up 56%
-30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
-
-• Net profit rose 42% to ₹41.4 crore from ₹29 crore a year ago.
-
-• Revenue from operations increased 56% to ₹235 crore.
-
-• Total income grew 51% to ₹253 crore from ₹167.2 crore.
-
-• Ebitda rose 39% to ₹51 crore from ₹37 crore.
-
-### Pine Labs’ Q2 profit surges over six-fold to Rs 39 crore; revenue rises 24%
-30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
-
-• Net profit was ₹38.57 crore versus ₹5.97 crore a year ago.
-
-• Revenue from operations grew 24% to ₹806.19 crore from ₹649.90 crore a year earlier.
-
-• Revenue from digital infrastructure, transaction platform business was up 21% to ₹531.55 crore.
-
-• Online payments grew more than 45%; mid-market merchant checkout-point base increased 49%.
-
-### Meesho sees near-term margin pressure as it reinvests in growth
-30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
-
-• Contribution margin rose to 6% of net merchandise value (NMV) in the second quarter of FY27 from 4.6% in the April-June period.
-
-• The primary driver for the quarter-on-quarter improvement in contribution margin was logistics efficiencies, including better return to origin (RTO) rates, increased order density, network redesign, and Valmo efficiencies.
-
-• Advertising and promotion spending climbed to 2.9% of NMV from 2.1%, and server costs rose to 2.3% from 1.9%.
-
-• The company expects some of these gains to reverse in the December quarter as it reinvests in the business to lower seller costs and scale newer businesses such as Meesho Mall and Content Commerce.
-
-### Honeywell leaning on physical AI to net $1 billion India revenues
-30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
-
-• Honeywell Technologies expects its Indian operations to achieve the $1 billion revenue milestone in the next two to three years.
-
-• Honeywell Technologies, the company’s core automation business, remains focused on India, where it currently has 11,000 employees or about 20% of the global workforce.
-
-• In its earlier, larger avatar, Honeywell had hit $1 billion in revenue from India in 2025.
-
-• Honeywell Technologies is leveraging its experience in operations technology to combine software and hardware for delivering physical AI.
-
-### Virat Kohli's stake in Agilitas Sports rises
-30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
-
-• Cricketer Virat Kohli's stake in Agilitas Sports has increased to 6.4% from 1.8%.
-
-• The increase follows the merger of his sportswear brand One8 with the Bengaluru-based company.
-
-• The increase in Kohli's shareholding is resulting from the merger and is not because of any fresh investment by the cricketer.
-
-• He had earlier invested ₹40 crore in the sportswear startup.
-
-### CapGrid closes Rs 50 crore round
-30 Oct 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/rising-tech-costs-drive-emi-sales-shadowfax-q2-profit-soars/articleshow/135338461.cms
-
-• B2B manufacturing startup CapGrid has closed a ₹50-crore round comprising primary and secondary transactions.
-
-• The round values it at ₹430 crore.
-
-• The startup last raised ₹45 crore in February 2025 at a ₹305 crore valuation.
-
-• Its latest round has come close on the heels of B2B manufacturing giant Zetwerk going public.
-
-### Global pick: The AI bubble could expose your deepest secrets
-BBC | https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets
-
-• A new research paper predicts AI autonomy by 2027 could lead to human extinction within a decade.
-
-• The article is a BBC Tech Now segment warning that AI could expose your deepest secrets.
-
-• AI fakery has been used to scam people out of large sums of money and even attempt to sway elections.
-
-• The piece frames AI risk as a personal privacy threat, not just a distant existential one.
-
-### Global pick: Why Africa needs its own AI off switch
-Rest of World | https://restofworld.org/2026/africa-sovereign-ai-off-switch/
-
-• African mobile money systems like Kenya's M-Pesa and Ghana's MoMo face growing risk from AI-driven cyberattacks, and governments need the ability to switch off rogue AI agents.
-
-• More than $2 trillion flowed through mobile money globally in 2025, with $1.4 trillion, roughly two-thirds, transacted in sub-Saharan Africa.
-
-• East Africa accounted for $806 billion and West Africa $498 billion of that mobile money activity, making disruption a direct threat to traders' daily incomes.
-
-• Africa must build its own cybersecurity defenses and partnerships that keep control local, avoiding lock-in to a single foreign vendor or stack.
-
-### Global pick: Massive leak exposes 41,000 US Homeland Security workers, including undercover ICE agents
-Wired | https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/
-
-• A leak of Department of Homeland Security records has exposed details of more than 41,000 employees and contractors across DHS and seven component agencies.
-
-• The archive, called "Icepick," was published Wednesday by transparency nonprofit Distributed Denial of Secrets, which says the data came from DHS's Okta login system.
-
-• Customs and Border Protection staffers account for more than half the records, ICE about 10,000, US Citizenship and Immigration Services 6,200, and CISA nearly 1,000.
-
-• The files cover about a seventh of DHS's workforce and include permission groups referencing undercover operations, wiretaps, and surveillance tools, which experts say could help adversaries penetrate the department.
+[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
 
 ============================================================
 
@@ -628,25 +471,25 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 [Vedanta Power Ltd (VEDPOWER, +14.72%)]
 
 - ~
-  31 Oct 2026 | https://www.freepressjournal.in/business/odisha-cancels-vedantas-288-acre-land-lease-in-jharsuguda-over-non-utilisation
-  ## What the sector does ¶ • India's power sector generates and sells electricity to state distribution utilities, industrial consumers and commercial buyers, earning revenue per unit sold under long-term power purchase agreements or merchant tariffs. ¶ • Revenue depends on plant load factor, tariffs and fuel costs, with coal-based thermal plants dominating capacity alongside NTPC, Adani Green, JSW Energy and NHPC. ¶ ## What the company does ¶ • Vedanta Power runs large thermal power plants and supplies electricity to industries and state utilities across India, as the power generation arm of the Vedanta Group. ¶ • It is a small player by market value at ₹12,955 crore, far below NTPC's ₹306,657 crore, competing with NTPC, Adani Green, JSW Energy and NHPC. ¶ ## Why it moved today ¶ • The news does not explain the 14.72% rise; the only article reports Odisha cancelled a 28.8-acre Vedanta land lease in Jharsuguda on October 27 over non-utilisation, a negative item. ¶ • Context: September 2026 quarter net profit was ₹83 crore against a ₹1,689 crore loss a year earlier, with sales up 38.21%, though this is not confirmed as the cause of the move. ¶ ## The numbers (Screener) ¶ • Stock P/E is 35.4 and market cap ₹12,955 crore at a price of ₹33.1, with a 52-week range of ₹27.5 to ₹52.5 and zero dividend yield. ¶ • September 2026 quarter sales were ₹2,908 crore with operating profit ₹421 crore (14% margin) and net profit ₹83 crore, after a ₹1,689 crore loss in September 2025. ¶ ## What the numbers say ¶ • At a P/E of 35.4, Vedanta Power trades above NTPC's 10.32, NHPC's 20.57 and NLC India's 9.85, but below Adani Green's 109.49 and NTPC Green's 105.76. ¶ • September 2026 net profit of ₹83 crore was down 71.96% from the prior quarter, and the 14.72% move looks sharp against a business with a low interest coverage ratio. ¶ ↗ freepressjournal.in|https://www.freepressjournal.in/business/odisha-cancels-vedantas-288-acre-land-lease-in-jharsuguda-over-non-utilisation
+  2026-11-02 |
+  ## What the sector does ¶ • Thermal power producers burn coal to generate electricity and sell it to state distribution utilities and industrial buyers under long-term power purchase agreements. ¶ • Revenue depends on units sold and tariffs, while coal cost, plant load factor and interest on project debt drive profitability; NTPC, Adani Power, Tata Power and JSW Energy are the large listed players. ¶ ## What the company does ¶ • Vedanta Power runs 4,780 MW of thermal capacity across Punjab, Chhattisgarh, Andhra Pradesh and Odisha, including the 1,980 MW Talwandi Sabo plant and the 1,200 MW Sakti plant. ¶ • It was demerged from Vedanta Ltd effective May 1, 2026 and listed on the NSE as VEDPOWER, making it India's fifth-largest private thermal producer behind Adani Power, Tata Power, JSW Energy and Reliance Power. ¶ ## Why it moved today ¶ • No news article explaining the 14.72% jump was retrieved; the move took VEDPOWER from ₹28.88 to ₹33.13 on 30 October 2026 on volume of 29.9 crore shares, per NSE end-of-day data. ¶ • Context only: the company reported September 2026 quarter results on 29 October 2026, with sales of ₹2,908 crore and net profit of ₹83 crore, and its press release was titled 'Vedanta Power Reports Highest-Ever Quarterly', per exchange filings. ¶ ## The numbers (Screener) ¶ • September 2026 quarter sales were ₹2,908 crore, up 38.2% year on year, with operating profit of ₹421 crore at a 14% margin and net profit of ₹83 crore. ¶ • The stock trades at a P/E of 35.4 with a market cap of ₹12,955 crore, against a 52-week range of ₹27.5 to ₹52.5, and pays no dividend. ¶ ## What the numbers say ¶ • At a P/E of 35.4, Vedanta Power is cheaper than Adani Green (109.5), NTPC Green (105.8), JSW Energy (38.9) and ACME Solar (38.1), but far more expensive than NTPC (10.3) and NLC India (9.9). ¶ • Its September 2026 net profit of ₹83 crore fell 72% year on year, and with no ROCE disclosed and a low interest coverage ratio flagged, the 14.72% move looks driven by sentiment around the results rather than by earnings quality.
 
 [Vedanta Oil And Gas Ltd (VOGL, +8.51%)]
 
 - ~
-  2026-11-01 |
-  ## What the sector does ¶ • India's oil and gas exploration and production sector finds and pumps crude oil and natural gas, selling to refiners and gas distributors under government-set or linked prices. ¶ • Revenue moves with global crude prices, gas price formulas and output volumes, while costs are dominated by field operating expenses, royalties and interest on debt. ¶ ## What the company does ¶ • Vedanta Oil and Gas Ltd, which operates under the Cairn brand, is India's second-largest private oil and gas exploration and production company, holding interests in 44 blocks across about 47,000 sq km. ¶ • It produces crude oil, condensate and natural gas from Rajasthan, Ravva, Cambay and KG basin assets, selling crude to refiners such as HPCL, MRPL and RIL and gas to buyers including GAIL and GSPC. ¶ ## Why it moved today ¶ • No news article explaining the 8.51% rise to ₹30.23 on 30 October 2026 could be retrieved, so the direct cause of the move is not established from the available input. ¶ • Context only: the stock had fallen 8.7% over the prior month and 10.14% over three months, and its 52-week low of ₹26.41 was touched recently, so the session's gain followed a weak run. ¶ ## The numbers (Screener) ¶ • Market cap ₹11,821 crore at a price of ₹30.23, with a P/E of 20.8, price-to-book of 0.64 times, book value of ₹47.0 and ROE of -1.22%, per Screener data. ¶ • September 2026 quarter: sales ₹2,488 crore, operating profit ₹1,351 crore at a 54% OPM, and net profit ₹746 crore, against a net loss of ₹479 crore in the March 2026 quarter. ¶ ## What the numbers say ¶ • At a P/E of 20.8 the stock trades above ONGC's 6.49 and Oil India's 8.84, and roughly in line with the peer median of 20.77, while its 0.64 times book value sits below most peers. ¶ • The September 2026 quarter's ₹746 crore net profit and 54% operating margin show a sharp swing from the March 2026 loss, but the 6.23% sales growth lags ONGC's 25.68% and Oil India's 57.70%.
+  2026-11-02 |
+  ## What the sector does ¶ • India's upstream oil and gas sector explores for and produces crude oil and natural gas, selling to refiners, gas marketers and industrial buyers at prices linked to global benchmarks. ¶ • Revenue tracks production volumes and Brent or domestic gas prices, while costs are drilling, field operations and royalties, and the main listed players are ONGC, Oil India and Cairn-branded Vedanta Oil and Gas. ¶ ## What the company does ¶ • Vedanta Oil and Gas, which operates under the Cairn brand, is a private-sector explorer and producer holding interests in 44 blocks covering about 47,000 sq km across India. ¶ • It produces from fields in Rajasthan, Andhra Pradesh, Gujarat and Assam and holds gross 2P and 2C resources of 1.4 billion barrels of oil equivalent, with sales of ₹2,488 crore in the September 2026 quarter. ¶ ## Why it moved today ¶ • No article explaining the 8.51% rise to ₹30.23 on 30 October 2026 was found, so the cause of the move is not established. ¶ • Context only: the September 2026 quarter showed operating profit of ₹1,351 crore at a 54% margin and net profit of ₹746 crore, after a ₹479 crore loss in the March 2026 quarter. ¶ ## The numbers (Screener) ¶ • Stock P/E is 20.8 against a book value of ₹47.0 per share, so the stock trades at about 0.64 times book, with return on equity of -1.22% and no dividend. ¶ • September 2026 quarter sales were ₹2,488 crore, up 6.23% year on year, with net profit of ₹746 crore and EPS of ₹1.91, versus a ₹92 crore loss in the September 2025 quarter. ¶ ## What the numbers say ¶ • At a P/E of 20.8 the stock sits at the peer median of 20.77 but far above ONGC at 6.49 and Oil India at 8.84, while its 0.64 times book reflects a negative book value per India Infoline of Rs -14.14. ¶ • Its 54% operating margin in the September 2026 quarter is well above the 32% a year earlier, but the peer median ROCE of 9.38% and its own negative ROE show weak returns on capital behind the 8.51% jump.
 
 [[Top Losers]]
 
 [Intellect Design Arena Ltd (INTELLECT, -16.31%)]
 
 - ~
-  01 Nov 2026 | https://investmentguruindia.com/newsdetail/buy-intellect-design-arena-ltd-for-target-rs-700-by-choice-institutional-equities114433
-  ## What the sector does ¶ • Indian IT services firms sell software development, maintenance and platform products to banks, insurers and other enterprises worldwide, billing mostly in US dollars. ¶ • Revenue comes from license fees, implementation projects and annual maintenance; costs are mainly salaries, so margins depend on utilization, pricing and offshore mix. ¶ ## What the company does ¶ • Intellect Design Arena sells banking, insurance and financial technology products such as core banking, treasury, risk and transaction banking software to banks and financial institutions globally. ¶ • It earns from license-linked revenue, implementation services and maintenance; Q2FY27 revenue was ₹847 crore with 21 new deals signed and a pipeline of ₹13,120 crore. ¶ ## Why it moved today ¶ • The stock fell 16.31% after Q2FY27 revenue of ₹847 crore missed Choice Institutional Equities' estimate of ₹877.5 crore, with license-linked revenue growth slowing to 8% YoY. ¶ • Platform revenue declined 2.2% YoY after a large credit union customer migrated to an alternative platform following the Central 1 acquisition, and the broker cut its target price to ₹700 while keeping a Buy rating. ¶ ## The numbers (Screener) ¶ • Stock P/E is 19.1, price to book is about 2.1 times (₹505 price vs ₹237 book value), ROCE 16.0% and ROE 12.4%, with dividend yield 0.79%. ¶ • September 2026 quarter: sales ₹847 crore, operating profit ₹166 crore (20% OPM), net profit ₹104 crore and EPS ₹7.41; sales were flat versus June 2026. ¶ ## What the numbers say ¶ • At P/E 19.1 the stock trades above Wipro (14.9), Infosys (15.2) and TCS (16.6) but below Persistent Systems (53.6), while its ROCE of 16.0% is well under TCS's 63.0% and Infosys's 40.0%. ¶ • September quarter sales were flat sequentially and net profit rose just 1.8% YoY, so the 16.31% fall reflects disappointment that growth has stalled even as peers like Persistent grew sales 30.25% YoY. ¶ ↗ investmentguruindia.com|https://investmentguruindia.com/newsdetail/buy-intellect-design-arena-ltd-for-target-rs-700-by-choice-institutional-equities114433
+  01 Nov 2026 | https://scanx.trade/stock-market-news/companies/intellect-design-arena-wins-best-ai-development-platform-et-awards/51604391
+  ## What the sector does ¶ • Indian IT services firms sell software development, implementation and maintenance to banks, insurers and other enterprises worldwide, billing mostly in US dollars. ¶ • Revenue comes from license fees, implementation projects and annual maintenance; costs are largely salaries, so margins move with wage inflation, utilization and currency. ¶ ## What the company does ¶ • Intellect Design Arena sells banking, insurance and treasury software products, including its eMACH.ai and Purple Fabric platforms, to financial institutions globally. ¶ • It earns from license-linked and implementation revenues, reported ₹847 crore of sales in the September 2026 quarter, and competes with larger IT services firms like TCS and Infosys. ¶ ## Why it moved today ¶ • The news does not explain the 16.31% fall; the ET Enterprise AI Award on 1 November 2026 was positive, and Choice Institutional Equities retained a Buy rating with a lower ₹700 target. ¶ • Context: Choice flagged Q2FY27 revenue of ₹847 crore missing its ₹878 crore estimate, with license-linked revenue growth slowing to 8.0% YoY after a large credit union customer migrated away. ¶ ## The numbers (Screener) ¶ • Stock P/E is 19.1, price ₹505 against book value ₹237, market cap ₹7,091 crore, ROCE 16.0% and ROE 12.4%. ¶ • September 2026 quarter: sales ₹847 crore, operating profit ₹166 crore at 20% OPM, net profit ₹104 crore and EPS ₹7.41. ¶ ## What the numbers say ¶ • At a P/E of 19.1, Intellect trades above Infosys (15.2) and TCS (16.6) but below Persistent Systems (53.6), while its ROCE of 16.0% is well under TCS's 63.0% and Infosys's 40.0%. ¶ • Sales have been flat near ₹845-847 crore for three quarters and net profit eased from ₹120 crore in March 2026 to ₹104 crore in September 2026, so the fall followed a quarter of slowing license growth. ¶ ↗ scanx.trade|https://scanx.trade/stock-market-news/companies/intellect-design-arena-wins-best-ai-development-platform-et-awards/51604391 ;; investmentguruindia.com|https://investmentguruindia.com/newsdetail/buy-intellect-design-arena-ltd-for-target-rs-700-by-choice-institutional-equities114433
 
 [Redington Ltd (REDINGTON, -8.46%)]
 
 - ~
-  31 Oct 2026 | https://www.nfhsnetwork.com/events/redington-high-school-wasilla-ak/gam790e128b4c?maxpreps=maxpreps&utm_campaign=featured-game-referral&utm_medium=referral&utm_source=maxpreps&utm_content=pre&exp=true
-  ## What the sector does ¶ • IT and mobility distribution sells hardware, software and cloud services to resellers, retailers and enterprises, earning thin margins on high volumes. ¶ • Revenue depends on device demand and vendor tie-ups, while cost is dominated by procurement and working capital; players include Ingram Micro, Tech Data and Redington. ¶ ## What the company does ¶ • Redington distributes IT and mobility products and provides supply chain and support services across India, the Middle East, Turkey and Africa. ¶ • It earns from distribution margins and services, with ₹34,922 crore sales in the June 2026 quarter, and competes with global distributors and regional IT resellers. ¶ ## Why it moved today ¶ • The available articles do not explain the 8.46% fall; one is a high school basketball listing and the other a Simply Wall St analysis published after the move. ¶ • Context: Redington Gulf signed a cloud collaboration with Amazon Web Services, and the stock had risen 31.7% over the past year including dividends, per Simply Wall St. ¶ ## The numbers (Screener) ¶ • Stock P/E 14.2, book value ₹130, dividend yield 1.84%, ROCE 18.4% and ROE 16.9%, per Screener data. ¶ • June 2026 quarter sales ₹34,922 crore, net profit ₹453 crore and EPS ₹6.22, up from ₹350 crore profit in September 2025. ¶ ## What the numbers say ¶ • At P/E 14.2, Redington trades below the peer median of 23.3, while its ROCE of 18.4% beats the peer median of 6.25%. ¶ • June 2026 quarter sales grew 34.6% and net profit 76.6% year-on-year, yet the stock fell 8.46%, suggesting the move was not driven by these results. ¶ ↗ nfhsnetwork.com|https://www.nfhsnetwork.com/events/redington-high-school-wasilla-ak/gam790e128b4c?maxpreps=maxpreps&utm_campaign=featured-game-referral&utm_medium=referral&utm_source=maxpreps&utm_content=pre&exp=true ;; simplywall.st|https://simplywall.st/stocks/in/tech/nse-redington/redington-shares/news/what-redington-doubters-missed
+  01 Nov 2026 | https://simplywall.st/stocks/in/tech/nse-redington/redington-shares/news/what-redington-doubters-missed
+  ## What the sector does ¶ • IT and mobility distribution sells hardware, cloud seats and supply chain services to resellers, retailers and enterprises across India, the Middle East, Turkey and Africa. ¶ • Revenue is driven by device and cloud volumes, while thin gross margins of about 2% mean working capital and finance costs decide profit. ¶ ## What the company does ¶ • Redington distributes IT and mobility products and provides supply chain and support services, earning from distribution margins plus cloud and software resale. ¶ • It reported ₹34,922 crore of sales in the June 2026 quarter, making it the largest revenue name among listed distribution peers. ¶ ## Why it moved today ¶ • The Simply Wall St article on 1 November 2026 does not state a cause for the 8.46% fall, so the drop is unexplained by the available news. ¶ • Context: Redington shares had risen 31.7% over the year to ₹327, and the article flagged debate over shrinking hardware margins and direct-to-consumer pressure. ¶ ## The numbers (Screener) ¶ • Stock P/E is 14.2, book value ₹130, dividend yield 1.84%, ROCE 18.4% and ROE 16.9%, with the price at ₹327 against a 52-week range of ₹420 to ₹191. ¶ • June 2026 quarter sales were ₹34,922 crore with net profit ₹453 crore and EPS ₹6.22, after March 2026 net profit fell to ₹288 crore. ¶ ## What the numbers say ¶ • At a P/E of 14.2, Redington trades below the peer median of 23.32 and below MSTC at 16.07, while its 18.4% ROCE sits above the peer median of 6.25%. ¶ • June 2026 sales grew 34.57% and net profit 76.55% year on year, so the 8.46% fall comes after strong reported growth rather than weak results. ¶ ↗ simplywall.st|https://simplywall.st/stocks/in/tech/nse-redington/redington-shares/news/what-redington-doubters-missed
