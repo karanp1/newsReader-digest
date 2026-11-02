@@ -53,7 +53,7 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-02"
  },
  "google": {
   "name": "Google",
@@ -74,7 +74,7 @@
   "sector": "Fintech",
   "description": "Payments and banking platform for businesses; partnered with OpenAI for ChatGPT advertising in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-02"
  },
  "openai": {
   "name": "OpenAI",
@@ -193,7 +193,7 @@
   "sector": "Retail",
   "description": "US retail giant and majority owner of Flipkart; facing pressure over employee stock option liquidity.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "myntra": {
   "name": "Myntra",
@@ -508,14 +508,14 @@
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "godigit": {
   "name": "Go Digit",
@@ -662,7 +662,7 @@
   "sector": "IT services",
   "description": "Issued a Rs 1,537 crore Letter of Intent to Tejas for BSNL 4G RAN equipment.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "blinkit": {
   "name": "Blinkit",
@@ -690,7 +690,7 @@
   "sector": "Adtech",
   "description": "Dibyendu Sen drove retail media monetisation there before joining Flipkart Minutes.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-11-02"
  },
  "ifci": {
   "name": "IFCI",
@@ -1201,7 +1201,7 @@
   "sector": "Stock exchange",
   "description": "National Stock Exchange; listed on 24 September at Rs 1,785 per share.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-02"
  },
  "ntpcgreenenergy": {
   "name": "NTPC Green Energy",
@@ -1215,7 +1215,7 @@
   "sector": "Power",
   "description": "State-run power generator; parent of NTPC Green Energy.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "cognizant": {
   "name": "Cognizant",
@@ -1229,7 +1229,7 @@
   "sector": "IT services",
   "description": "Indian IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "hcl": {
   "name": "HCL",
@@ -1411,7 +1411,7 @@
   "sector": "Banking",
   "description": "Investment bank; analyst Ole Hansen commented on gold's rangebound outlook.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-11-02"
  },
  "lplfinancial": {
   "name": "LPL Financial",
@@ -1446,7 +1446,7 @@
   "sector": "Financial services",
   "description": "Brokerage; valued Jio at Rs 331-450 per Reliance share.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "yessecurities": {
   "name": "Yes Securities",
@@ -1649,7 +1649,7 @@
   "sector": "Venture capital",
   "description": "Venture fund that co-led medtech startup Sunfox Technologies' Series A.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "qpiai": {
   "name": "QpiAI",
@@ -1824,7 +1824,7 @@
   "sector": "Fintech",
   "description": "Payments platform that partnered with DPCGC to simplify OTT regulatory compliance for merchants.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "pluckk": {
   "name": "Pluckk",
@@ -2174,7 +2174,7 @@
   "sector": "IT services",
   "description": "IT services firm; secured about 94.04% of Nagarro's share capital after its voluntary public takeover offer closed.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "nagarro": {
   "name": "Nagarro",
@@ -2671,7 +2671,7 @@
   "sector": "Media",
   "description": "Crypto news outlet; its ETF tracker reported October Bitcoin ETF outflows.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-02"
  },
  "stocktwits": {
   "name": "Stocktwits",
@@ -2741,7 +2741,7 @@
   "sector": "Financial data",
   "description": "Indian stock research platform; flagged valuation and return metrics for several stocks.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-02"
  },
  "tdsecurities": {
   "name": "TD Securities",
@@ -3266,14 +3266,14 @@
   "sector": "Insurance",
   "description": "General insurance company; mentioned in the watchlist context.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "relianceintelligence": {
   "name": "Reliance Intelligence",
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "gartner": {
   "name": "Gartner",
@@ -3455,7 +3455,7 @@
   "sector": "Financial services",
   "description": "Investment bank; estimated Jio Platforms equity value at Rs 9.8-10.3 lakh crore.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-02"
  },
  "zomato": {
   "name": "Zomato",
@@ -3469,7 +3469,7 @@
   "sector": "Food delivery",
   "description": "Food delivery and quick commerce platform; ran drone delivery trials in 2021 and 2022.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-02"
  },
  "cdot": {
   "name": "C-DoT",
@@ -3504,7 +3504,7 @@
   "sector": "Logistics",
   "description": "Logistics and supply chain company; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-11-02"
  },
  "ofbusiness": {
   "name": "OfBusiness",
@@ -3777,7 +3777,7 @@
   "sector": "Power",
   "description": "Indian power utility with over 26 GW capacity; signed an energy transition research MoU with Imperial College London.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-02"
  },
  "ibmindia": {
   "name": "IBM India",
@@ -3931,7 +3931,7 @@
   "sector": "Venture capital",
   "description": "Indian early-stage venture capital firm in the first cohort of the government's RDI scheme.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "specialeinvest": {
   "name": "Speciale Invest",
@@ -3987,14 +3987,14 @@
   "sector": "Renewable energy",
   "description": "Renewable power producer; named as a peer comparison for Vedanta Power.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "jswenergy": {
   "name": "JSW Energy",
   "sector": "Power",
   "description": "Power producer; named as a peer comparison for Vedanta Power.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "muthootfinance": {
   "name": "Muthoot Finance",
@@ -4050,7 +4050,7 @@
   "sector": "Investment banking",
   "description": "Investment bank named among anchor investors in Jio Platforms' IPO.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-11-02"
  },
  "religare": {
   "name": "Religare",
@@ -4358,7 +4358,7 @@
   "sector": "Media",
   "description": "Reported leading-edge AI models are losing their allure with developers.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-02"
  },
  "restofworld": {
   "name": "Rest of World",
@@ -4379,14 +4379,14 @@
   "sector": "Media",
   "description": "Indian newspaper carrying the editorials, international and business coverage in this digest.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-02"
  },
  "entrackr": {
   "name": "Entrackr",
   "sector": "Media",
   "description": "Indian startup news outlet that publishes a weekly funding report.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "openclawnewsletter": {
   "name": "Open Claw Newsletter",
@@ -4407,14 +4407,14 @@
   "sector": "Media",
   "description": "Indian financial news outlet reporting on Bank of Baroda's lawsuit and Meesho's fall.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-02"
  },
  "cnbctv18": {
   "name": "CNBC TV18",
   "sector": "Media",
   "description": "Indian business news channel reporting on Aegis Logistics and Vedanta Power moves.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-02"
  },
  "upstox": {
   "name": "Upstox",
@@ -4435,14 +4435,14 @@
   "sector": "Financial data",
   "description": "Charting and market news platform carrying several of today's stock stories.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-02"
  },
  "yahoofinance": {
   "name": "Yahoo Finance",
   "sector": "Financial data",
   "description": "Market data site carrying coverage of Transformers & Rectifiers India's gain.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-02"
  },
  "kitco": {
   "name": "Kitco",
@@ -4540,7 +4540,7 @@
   "sector": "Media",
   "description": "Indian investment news site carrying a buy call on Hindustan Aeronautics.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-02"
  },
  "univest": {
   "name": "Univest",
@@ -4568,7 +4568,7 @@
   "sector": "Media",
   "description": "Indian business newspaper carrying the morning dispatch and Info Edge coverage.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-02"
  },
  "businesstoday": {
   "name": "Business Today",
@@ -4589,7 +4589,7 @@
   "sector": "Financial data",
   "description": "Market news platform carrying Elecon, Meesho and Info Edge coverage.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-02"
  },
  "gulfnews": {
   "name": "Gulf News",
@@ -4603,7 +4603,7 @@
   "sector": "Media",
   "description": "Indian business newspaper covering BR Shetty's lawsuit against Bank of Baroda.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-02"
  },
  "startupfortune": {
   "name": "StartupFortune",
@@ -4974,7 +4974,7 @@
   "sector": "Technology",
   "description": "Technology company hosting Think 2026 and partnering on quantum computing in Andhra Pradesh.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-11-02"
  },
  "andhrapradesh": {
   "name": "Andhra Pradesh",
@@ -5009,21 +5009,21 @@
   "sector": "Government",
   "description": "Central bank that sold 56 tons of gold through August.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-11-02"
  },
  "ongc": {
   "name": "ONGC",
   "sector": "Oil and gas",
   "description": "Indian state oil and gas explorer, a peer to Vedanta Oil and Gas.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "oilindia": {
   "name": "Oil India",
   "sector": "Oil and gas",
   "description": "Indian state oil and gas producer, a peer to Vedanta Oil and Gas.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "gevernovatd": {
   "name": "GE Vernova T&D",
@@ -5093,7 +5093,7 @@
   "sector": "Retail",
   "description": "Indian supermarket chain operated by Avenue Supermarts.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "indianairforce": {
   "name": "Indian Air Force",
@@ -5205,7 +5205,7 @@
   "sector": "Venture capital",
   "description": "Global venture capital firm in talks to invest in Skyroot Aerospace.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "benchmark": {
   "name": "Benchmark",
@@ -6143,7 +6143,7 @@
   "sector": "News",
   "description": "Technology magazine that reported OnlyFans creators' dispute with Meta.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-02"
  },
  "pymnts": {
   "name": "PYMNTS",
@@ -6983,7 +6983,7 @@
   "sector": "Cybersecurity",
   "description": "Open-source platform used by a hacker to run AI agents against company websites.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-02"
  },
  "schlotzskys": {
   "name": "Schlotzsky's",
@@ -7039,7 +7039,7 @@
   "sector": "Investment",
   "description": "Japanese technology investment group.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "certin": {
   "name": "CERT-In",
@@ -7403,7 +7403,7 @@
   "sector": "Banking",
   "description": "Kotak Mahindra Bank's arm, projecting Eternal's Q2 FY27 revenue and EBITDA.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-02"
  },
  "motilaloswalfinancialservices": {
   "name": "Motilal Oswal Financial Services",
@@ -7445,7 +7445,7 @@
   "sector": "Media",
   "description": "Indian newspaper.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-02"
  },
  "aljazeera": {
   "name": "Al Jazeera",
@@ -7487,7 +7487,7 @@
   "sector": "Media",
   "description": "Indian newspaper.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-02"
  },
  "openthemagazine": {
   "name": "OpenTheMagazine",
@@ -7837,7 +7837,7 @@
   "sector": "News",
   "description": "UK public broadcaster covering business and international news.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-02"
  },
  "billionairesafrica": {
   "name": "Billionaires Africa",
@@ -8215,7 +8215,7 @@
   "sector": "Satellite navigation",
   "description": "India's navigation constellation, with only three working satellites.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-11-02"
  },
  "dcompany": {
   "name": "D-Company",
@@ -9720,7 +9720,7 @@
   "sector": "Research",
   "description": "Investment research site covering Go Digit's share fall.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-02"
  },
  "campaignbriefasia": {
   "name": "Campaign Brief Asia",
@@ -10287,7 +10287,7 @@
   "sector": "Central bank",
   "description": "US central bank whose meeting and rate expectations moved markets.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-02"
  },
  "fomc": {
   "name": "FOMC",
@@ -10385,7 +10385,7 @@
   "sector": "Consumer internet",
   "description": "Zomato founder and CEO who commented on AI shopping agent risk.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-02"
  },
  "iphone17": {
   "name": "iPhone 17",
@@ -11351,7 +11351,7 @@
   "sector": "Wearables",
   "description": "Brain-monitoring wearable backed by Zomato founder Deepinder Goyal; pre-orders open November 1 at Rs 85,000.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-02"
  },
  "gridlockoracle": {
   "name": "Gridlock Oracle",
@@ -11456,14 +11456,14 @@
   "sector": "Not applicable",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-02"
  },
  "sanjeevbikhchandani": {
   "name": "Sanjeev Bikhchandani",
   "sector": "Not applicable",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-02"
  },
  "tarunmehta": {
   "name": "Tarun Mehta",
@@ -11575,7 +11575,7 @@
   "sector": "Not applicable",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-02"
  },
  "rafaelgrossi": {
   "name": "Rafael Grossi",
@@ -12772,7 +12772,7 @@
   "sector": "Logistics",
   "description": "Indian logistics startup; Q2 revenue rose 57% and net profit jumped fivefold.",
   "first_added": "2026-10-30",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "blackbuck": {
   "name": "BlackBuck",
@@ -13122,7 +13122,7 @@
   "sector": "Renewable energy",
   "description": "Indian renewable energy arm of NTPC; cited as a peer comparison for Vedanta Power.",
   "first_added": "2026-10-30",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "generatebiomedicines": {
   "name": "Generate Biomedicines",
@@ -13199,7 +13199,7 @@
   "sector": "Space research",
   "description": "US space agency; applied Copilot to Earth science data.",
   "first_added": "2026-10-31",
-  "last_mentioned": "2026-10-31"
+  "last_mentioned": "2026-11-02"
  },
  "williams": {
   "name": "Williams",
@@ -13262,14 +13262,14 @@
   "sector": "Aerospace",
   "description": "US aircraft manufacturer whose 767 jets will be converted into aerial refuelling tankers.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "israelaerospaceindustries": {
   "name": "Israel Aerospace Industries",
   "sector": "Defence aerospace",
   "description": "Israeli state-owned aerospace and defence firm partnering with HAL on tanker conversion.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "radicokhaitan": {
   "name": "Radico Khaitan",
@@ -13430,56 +13430,56 @@
   "sector": "Financial services",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "sharrpventures": {
   "name": "Sharrp Ventures",
   "sector": "Venture capital",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "waterbridge": {
   "name": "WaterBridge",
   "sector": "Venture capital",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "bettercapital": {
   "name": "Better Capital",
   "sector": "Venture capital",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "southparkcommos": {
   "name": "South Park Commos",
   "sector": "Venture capital",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "gladebrook": {
   "name": "Glade Brook",
   "sector": "Venture capital",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "baincapitalventures": {
   "name": "Bain Capital Ventures",
   "sector": "Venture capital",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "svfiiostrich": {
   "name": "SVF II Ostrich",
   "sector": "Investment",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "redingtongulf": {
   "name": "Redington Gulf",
@@ -13500,7 +13500,7 @@
   "sector": "Power",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-02"
  },
  "ingrammicro": {
   "name": "Ingram Micro",
@@ -13576,6 +13576,405 @@
   "name": "Agromol Ventures",
   "sector": "Agritech",
   "description": "Sources fresh fruits and vegetables for Flipkart Minutes from over 2,000 Pune-area farmers.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "cashfree": {
+  "name": "Cashfree",
+  "sector": "Fintech",
+  "description": "Indian payments company; says attempted cyberattacks have risen at least tenfold from a year ago.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "payu": {
+  "name": "PayU",
+  "sector": "Fintech",
+  "description": "Payments company; among digital payments firms accelerating cybersecurity upgrades.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "adanipower": {
+  "name": "Adani Power",
+  "sector": "Power",
+  "description": "Indian private thermal power producer, among the largest listed players in the sector.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "reliancepower": {
+  "name": "Reliance Power",
+  "sector": "Power",
+  "description": "Indian private thermal power producer.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "acmesolar": {
+  "name": "ACME Solar",
+  "sector": "Renewables",
+  "description": "Indian solar power producer.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "nationalreconnaissanceoffice": {
+  "name": "National Reconnaissance Office",
+  "sector": "Defence intelligence",
+  "description": "US intelligence agency that has contracts with Pixxel.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "visa": {
+  "name": "Visa",
+  "sector": "Payments",
+  "description": "Global payments network powering the Air India and SBI Card co-branded credit card.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "halo": {
+  "name": "Halo",
+  "sector": "Real estate",
+  "description": "Company that moved into the Willis Building with ambitions to create 5,000 jobs in 10 years.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "valve": {
+  "name": "Valve",
+  "sector": "Gaming",
+  "description": "Gaming company whose Steam Deck handheld has seen price rises blamed on AI.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "nintendo": {
+  "name": "Nintendo",
+  "sector": "Gaming",
+  "description": "Japanese gaming company whose Switch 2 console has seen price rises blamed on AI.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "xbox": {
+  "name": "Xbox",
+  "sector": "Gaming",
+  "description": "Microsoft's gaming brand; console prices have risen, with AI blamed.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "multistate": {
+  "name": "MultiState",
+  "sector": "Research",
+  "description": "Research firm tracking US state-level policy and candidate pledges on data centers.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "datasecuritycouncilofindia": {
+  "name": "Data Security Council of India",
+  "sector": "Cybersecurity",
+  "description": "Industry body that outlined a framework for assessing liability when autonomous AI agents cause harm.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "prontoverified": {
+  "name": "Pronto Verified",
+  "sector": "Home services",
+  "description": "Opt-in service from Pronto that records service sessions via wearable cameras.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "pixxelfederal": {
+  "name": "Pixxel Federal",
+  "sector": "Spacetech",
+  "description": "US subsidiary set up by Pixxel to expand business with American government agencies.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "thespur": {
+  "name": "The Spur",
+  "sector": "Media",
+  "description": "D2C community initiative run by Entrackr for founders and business leaders.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "thebierlibrary": {
+  "name": "The Bier Library",
+  "sector": "Hospitality",
+  "description": "Bengaluru venue that hosted Entrackr's The Spur event.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "phonepepaymentgateway": {
+  "name": "PhonePe Payment Gateway",
+  "sector": "Fintech",
+  "description": "PhonePe's payment gateway business, which supported Entrackr's The Spur event.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "maharajaclub": {
+  "name": "Maharaja Club",
+  "sector": "Aviation",
+  "description": "Air India's loyalty programme, whose members will get the SBI Card co-branded credit card.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "pmsuryagharmuftbijliyojana": {
+  "name": "PM Surya Ghar: Muft Bijli Yojana",
+  "sector": "Government scheme",
+  "description": "Indian government rooftop solar scheme that Fibe and Hygge Energy aim to support with loans.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "talwandisabo": {
+  "name": "Talwandi Sabo",
+  "sector": "Power",
+  "description": "1,980 MW thermal plant operated by Vedanta Power in Punjab.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "sakti": {
+  "name": "Sakti",
+  "sector": "Power",
+  "description": "1,200 MW thermal plant operated by Vedanta Power in Chhattisgarh.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "emachai": {
+  "name": "eMACH.ai",
+  "sector": "Software",
+  "description": "Intellect Design Arena's banking software platform.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "purplefabric": {
+  "name": "Purple Fabric",
+  "sector": "Software",
+  "description": "Intellect Design Arena's software platform for financial institutions.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "willisbuilding": {
+  "name": "Willis Building",
+  "sector": "Real estate",
+  "description": "Office building where Halo moved in.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "mstc": {
+  "name": "MSTC",
+  "sector": "Trading",
+  "description": "Indian state-owned trading company, used as a valuation comparison for Redington.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "steamdeck": {
+  "name": "Steam Deck",
+  "sector": "Gaming",
+  "description": "Valve's handheld gaming device, whose price has risen with AI blamed.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "switch2": {
+  "name": "Switch 2",
+  "sector": "Gaming",
+  "description": "Nintendo's console, whose price has risen with AI blamed.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "ravvaoilfield": {
+  "name": "Ravva oilfield",
+  "sector": "Oil and gas",
+  "description": "Oilfield at the centre of a $99 million arbitration award involving Vedanta.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "nvs03": {
+  "name": "NVS-03",
+  "sector": "Space",
+  "description": "Indian navigation satellite launched on ISRO's GSLV-F18 mission and reported healthy.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "gslvf18": {
+  "name": "GSLV-F18",
+  "sector": "Space",
+  "description": "ISRO launch vehicle mission that carried the NVS-03 satellite.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "irnss": {
+  "name": "IRNSS",
+  "sector": "Space",
+  "description": "Indian Regional Navigation Satellite System, the first-generation satellites of NavIC.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "pslv": {
+  "name": "PSLV",
+  "sector": "Space",
+  "description": "ISRO's Polar Satellite Launch Vehicle, which suffered two launch failures in 18 months.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "il78mki": {
+  "name": "Il-78MKI",
+  "sector": "Defence aerospace",
+  "description": "Aerial refuelling tankers operated by India with chronic availability problems.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "rafale": {
+  "name": "Rafale",
+  "sector": "Defence aerospace",
+  "description": "French fighter jet in Indian service that would use the proposed tanker fleet.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "su30mki": {
+  "name": "Su-30MKI",
+  "sector": "Defence aerospace",
+  "description": "Russian-origin fighter jet in Indian service that would use the proposed tanker fleet.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "ea18ggrowler": {
+  "name": "EA-18G Growler",
+  "sector": "Defence aerospace",
+  "description": "US Navy electronic warfare aircraft; two collided during an Idaho air show, with all crew ejecting.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "mountainhomeairforcebase": {
+  "name": "Mountain Home Air Force Base",
+  "sector": "Defence",
+  "description": "US Air Force base in Idaho where two Navy jets collided during an air show.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "faa": {
+  "name": "FAA",
+  "sector": "Regulator",
+  "description": "US Federal Aviation Administration, sending a team to aid the NTSB investigation into the Florida jet crash.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "ntsb": {
+  "name": "NTSB",
+  "sector": "Regulator",
+  "description": "US National Transportation Safety Board investigating the Learjet 60 crash in Florida.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "ungeneralassembly": {
+  "name": "UN General Assembly",
+  "sector": "Government",
+  "description": "Passed its annual resolution against the US embargo on Cuba with sharply lower support.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "cuba": {
+  "name": "Cuba",
+  "sector": "Government",
+  "description": "Subject of the annual UN resolution against the US embargo.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "ukraine": {
+  "name": "Ukraine",
+  "sector": "Government",
+  "description": "Reported its air raid alert app was hacked with baseless radiation alerts.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "brazil": {
+  "name": "Brazil",
+  "sector": "Government",
+  "description": "Held elections in which Lula won a historic third term.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "lula": {
+  "name": "Lula",
+  "sector": "Government",
+  "description": "Won a historic third term as Brazil's president.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "kathyhochul": {
+  "name": "Kathy Hochul",
+  "sector": "Government",
+  "description": "New York governor who signed a one-year data center moratorium executive order.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "departmentofenvironmentalconservation": {
+  "name": "Department of Environmental Conservation",
+  "sector": "Regulator",
+  "description": "New York state agency that a legislature-passed data center bill would have mandated review from.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "siena": {
+  "name": "Siena",
+  "sector": "Research",
+  "description": "Polling institute whose September poll found 63% of New Yorkers would oppose local data centers.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "fbi": {
+  "name": "FBI",
+  "sector": "Government",
+  "description": "Attributed the $6.4 billion Binance hack to North Korea.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "northkorea": {
+  "name": "North Korea",
+  "sector": "Government",
+  "description": "Attributed by the FBI as the actor behind the Binance hack.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "qibs": {
+  "name": "QIBs",
+  "sector": "Financial services",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "goldmansachsgroup": {
+  "name": "Goldman Sachs Group",
+  "sector": "Financial services",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "kotakmahindra": {
+  "name": "Kotak Mahindra",
+  "sector": "Financial services",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "saxo": {
+  "name": "Saxo",
+  "sector": "Banking",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "defencesecurityasia": {
+  "name": "Defence Security Asia",
+  "sector": "Media",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "seekingalpha": {
+  "name": "Seeking Alpha",
+  "sector": "Media",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "fxleaders": {
+  "name": "FXLeaders",
+  "sector": "Media",
+  "description": "Not enough detail in today's digest",
   "first_added": "2026-11-02",
   "last_mentioned": "2026-11-02"
  }
