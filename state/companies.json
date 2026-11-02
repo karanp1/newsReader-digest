@@ -116,7 +116,7 @@
   "sector": "Consumer electronics",
   "description": "South Korean conglomerate making memory chips, smartphones and displays; competing in high-bandwidth memory.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-02"
  },
  "skhynix": {
   "name": "SK Hynix",
@@ -179,7 +179,7 @@
   "sector": "Financial services",
   "description": "Indian brokerage and financial services firm; values Jio Platforms and rates Reliance Industries a buy.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-02"
  },
  "flipkart": {
   "name": "Flipkart",
@@ -333,7 +333,7 @@
   "sector": "Engineering construction",
   "description": "Indian infrastructure and engineering major; won initial nod for Jharkhand thermal power plant package.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-11-02"
  },
  "damodarvalley": {
   "name": "Damodar Valley Corporation",
@@ -1012,7 +1012,7 @@
   "sector": "Aviation",
   "description": "India's largest airline; raised domestic fuel surcharges 37-50%.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-02"
  },
  "paytmpaymentsbank": {
   "name": "Paytm Payments Bank",
@@ -2573,7 +2573,7 @@
   "sector": "Infrastructure",
   "description": "Rail infrastructure PSU; cited as a peer for KEC International.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-02"
  },
  "nbcc": {
   "name": "NBCC",
@@ -2755,7 +2755,7 @@
   "sector": "Specialty chemicals",
   "description": "Adhesives and chemicals firm; cited as a peer trading at 57 times earnings.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-02"
  },
  "navinfluorine": {
   "name": "Navin Fluorine",
@@ -2937,7 +2937,7 @@
   "sector": "Financial services",
   "description": "Research firm; downgraded Tech Mahindra to Sell and cut Usha Martin's grade to Hold.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-02"
  },
  "alphawaveventures": {
   "name": "Alpha Wave Ventures",
@@ -4064,7 +4064,7 @@
   "sector": "Broking",
   "description": "Brokerage that downgraded Avenue Supermarts to Reduce on quick-commerce competition.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-02"
  },
  "cgpower": {
   "name": "CG Power",
@@ -4820,7 +4820,7 @@
   "sector": "Consumer electronics",
   "description": "Taiwanese laptop maker discounting ExpertBook models on Flipkart's festive sale.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-11-02"
  },
  "dreame": {
   "name": "Dreame",
@@ -5422,7 +5422,7 @@
   "sector": "Financial services",
   "description": "Index provider that finalized rules to exclude non-operating companies from its Global Investable Market Indexes.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-11-02"
  },
  "fundstrat": {
   "name": "Fundstrat",
@@ -6248,7 +6248,7 @@
   "sector": "Markets",
   "description": "Indian benchmark index that fell 876.37 points to 73,852.90.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-02"
  },
  "nifty": {
   "name": "Nifty",
@@ -6766,7 +6766,7 @@
   "sector": "Markets",
   "description": "Indian benchmark index that gained 2.25% over the past week.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-02"
  },
  "fii": {
   "name": "FII",
@@ -9377,7 +9377,7 @@
   "sector": "Political party",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-25",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-02"
  },
  "gema": {
   "name": "GEMA",
@@ -12520,7 +12520,7 @@
   "sector": "Education",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-02"
  },
  "g7": {
   "name": "G7",
@@ -13975,6 +13975,139 @@
   "name": "FXLeaders",
   "sector": "Media",
   "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "saharalasvegas": {
+  "name": "Sahara Las Vegas",
+  "sector": "Gambling",
+  "description": "Las Vegas casino that began accepting Bitcoin at its cage via BurraPay.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "burrapay": {
+  "name": "BurraPay",
+  "sector": "Fintech",
+  "description": "Payments provider powering Bitcoin acceptance at Sahara Las Vegas's casino cage.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "engineersindia": {
+  "name": "Engineers India",
+  "sector": "Engineering consultancy",
+  "description": "PSU engineering consultancy for oil and gas, petrochemicals and fertiliser plants; shares rose 14.65%.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "cleansciencetechnology": {
+  "name": "Clean Science Technology",
+  "sector": "Specialty chemicals",
+  "description": "Makes specialty chemicals like MEHQ and Guaiacol for pharma, agro and FMCG customers; shares fell 7.29%.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "zeeentertainmententerprises": {
+  "name": "Zee Entertainment Enterprises",
+  "sector": "Media",
+  "description": "Broadcaster running TV channels and the ZEE5 streaming platform; shares fell 7.27% on weak margins.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "agromol": {
+  "name": "Agromol",
+  "sector": "Agritech",
+  "description": "Handles 20-22 tonnes of fresh produce daily near Pune, 90% sourced directly from farmers.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "navy": {
+  "name": "Navy",
+  "sector": "Defence",
+  "description": "US Navy; two EA-18G Growlers collided during an air show at Mountain Home Air Force Base.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "faber": {
+  "name": "Faber",
+  "sector": "Publishing",
+  "description": "Publisher that stopped distributing Sally Rooney's books in the UK after her Palestine Action pledge.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "kennys": {
+  "name": "Kenny's",
+  "sector": "Bookselling",
+  "description": "Galway bookshop supplying Sally Rooney novels to UK readers, reporting a tenfold sales increase.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "littleacorns": {
+  "name": "Little Acorns",
+  "sector": "Bookselling",
+  "description": "Derry bookshop helping meet UK demand for Sally Rooney novels.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "palestineaction": {
+  "name": "Palestine Action",
+  "sector": "Activism",
+  "description": "UK-banned group to which author Sally Rooney pledged her UK earnings.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "bgmea": {
+  "name": "BGMEA",
+  "sector": "Apparel",
+  "description": "Bangladesh garment manufacturers' association that reported protests disrupted 529 factories.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "eln": {
+  "name": "ELN",
+  "sector": "Insurgency",
+  "description": "Colombian rebel group whose camp in Venezuela's Apure state was attacked by the Venezuelan army.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "byachad": {
+  "name": "B'Yachad",
+  "sector": "Politics",
+  "description": "Naftali Bennett's faction backing Gadi Eisenkot to form Israel's next government.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "communistpartyofchina": {
+  "name": "Communist Party of China",
+  "sector": "Politics",
+  "description": "China's ruling party, which concluded a meeting saying anti-corruption purges will continue.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "nielseniq": {
+  "name": "NielsenIQ",
+  "sector": "Market research",
+  "description": "Research firm whose data showed quick commerce took over three-fourths of e-commerce FMCG sales in top metros.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "sterlitetech": {
+  "name": "Sterlite Tech",
+  "sector": "Telecom equipment",
+  "description": "Telecom gear maker cited as a peer in the ITI comparison.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "optiemusinfra": {
+  "name": "Optiemus Infra",
+  "sector": "Telecom equipment",
+  "description": "Telecom equipment firm cited as a peer in the ITI comparison.",
+  "first_added": "2026-11-02",
+  "last_mentioned": "2026-11-02"
+ },
+ "suntvnetwork": {
+  "name": "Sun TV Network",
+  "sector": "Media",
+  "description": "South Indian broadcaster cited as a peer in the Zee Entertainment comparison.",
   "first_added": "2026-11-02",
   "last_mentioned": "2026-11-02"
  }
