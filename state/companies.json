@@ -130,7 +130,7 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-03"
  },
  "starlink": {
   "name": "Starlink",
@@ -179,7 +179,7 @@
   "sector": "Financial services",
   "description": "Indian brokerage and financial services firm; values Jio Platforms and rates Reliance Industries a buy.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "flipkart": {
   "name": "Flipkart",
@@ -270,7 +270,7 @@
   "sector": "Defence aerospace",
   "description": "Makes precision metal castings and forgings for defence, aerospace and marine use; raising Rs 1,800 crore.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-11-03"
  },
  "aerolloytechnologies": {
   "name": "Aerolloy Technologies",
@@ -291,7 +291,7 @@
   "sector": "Auto components",
   "description": "Indian manufacturer of forged and machined components for commercial vehicles and industrials.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-11-03"
  },
  "brahmosaerospace": {
   "name": "BrahMos Aerospace",
@@ -333,7 +333,7 @@
   "sector": "Engineering construction",
   "description": "Indian infrastructure and engineering major; won initial nod for Jharkhand thermal power plant package.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "damodarvalley": {
   "name": "Damodar Valley Corporation",
@@ -515,7 +515,7 @@
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "godigit": {
   "name": "Go Digit",
@@ -753,7 +753,7 @@
   "sector": "Consumer goods",
   "description": "Peer comparison for Cupid; ROCE of 20.28% and P/E of 33.93.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-11-03"
  },
  "colgatepalmolive": {
   "name": "Colgate-Palmolive",
@@ -1586,7 +1586,7 @@
   "sector": "Venture capital",
   "description": "Consumer-focused venture fund that led Beyond Appliances' Series B round.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-11-03"
  },
  "neogrowth": {
   "name": "NeoGrowth",
@@ -1775,7 +1775,7 @@
   "sector": "FMCG",
   "description": "Consumer goods major that acquired an additional 24.09% stake in Satiya Nutraceuticals.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-03"
  },
  "satiyanutraceuticals": {
   "name": "Satiya Nutraceuticals",
@@ -2566,7 +2566,7 @@
   "sector": "Engineering",
   "description": "EPC firm in power transmission and infrastructure; cited as a peer for KEC.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-03"
  },
  "railvikas": {
   "name": "Rail Vikas",
@@ -2657,7 +2657,7 @@
   "sector": "Industry body",
   "description": "Gold industry body; reported a record $31 billion into gold ETFs in Q3.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-11-03"
  },
  "abra": {
   "name": "Abra",
@@ -2804,7 +2804,7 @@
   "sector": "Cybersecurity",
   "description": "Cybersecurity firm; a founding partner in Anthropic's infrastructure defense program.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-03"
  },
  "dragos": {
   "name": "Dragos",
@@ -2881,7 +2881,7 @@
   "sector": "Auto classifieds",
   "description": "Runs CarWale, BikeWale and OLX India; shares rose 8% after UBS reiterated Buy with a ₹4,000 target.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-03"
  },
  "tatachemicals": {
   "name": "Tata Chemicals",
@@ -2972,7 +2972,7 @@
   "sector": "Banking",
   "description": "State Bank of India; bought ITC shares in the block deal where GQG sold its stake.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-03"
  },
  "aramco": {
   "name": "Aramco",
@@ -3273,7 +3273,7 @@
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "gartner": {
   "name": "Gartner",
@@ -5590,7 +5590,7 @@
   "sector": "AI",
   "description": "Chinese AI lab that released the DeepSeek-V4.1-Flash-1017 model and search APIs.",
   "first_added": "2026-10-18",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-11-03"
  },
  "amazonconnect": {
   "name": "Amazon Connect",
@@ -5800,7 +5800,7 @@
   "sector": "Consumer electronics",
   "description": "India's leading audio and wearables brand, expanding into Sri Lanka and Bhutan.",
   "first_added": "2026-10-18",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-11-03"
  },
  "coinswitchventures": {
   "name": "CoinSwitch Ventures",
@@ -5905,7 +5905,7 @@
   "sector": "Banking",
   "description": "Public sector Indian bank lending to retail, agriculture and MSME customers; Q2 net profit rose 30%.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-03"
  },
  "jammukashmirbank": {
   "name": "Jammu & Kashmir Bank",
@@ -7046,7 +7046,7 @@
   "sector": "Cybersecurity",
   "description": "India's national computer emergency response team; issued an advisory on AI agent threats.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-03"
  },
  "humantechnologyinstitute": {
   "name": "Human Technology Institute",
@@ -7165,14 +7165,14 @@
   "sector": "Banking",
   "description": "Punjab National Bank, an Indian public sector bank.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-03"
  },
  "fsnecommerce": {
   "name": "FSN E-Commerce",
   "sector": "Retail",
   "description": "Indian beauty and fashion retailer, operator of Nykaa.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-03"
  },
  "instahelp": {
   "name": "InstaHelp",
@@ -14255,6 +14255,160 @@
   "name": "Air Dynasty",
   "sector": "Aviation",
   "description": "Nepali helicopter operator; one of its helicopters collided at Pheriche, Solukhumbu.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "heimstaden": {
+  "name": "Heimstaden",
+  "sector": "Real estate",
+  "description": "European residential property landlord using OpenAI tools for staging and asset analysis.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "rapido": {
+  "name": "Rapido",
+  "sector": "Ride-hailing",
+  "description": "Indian bike-taxi and ride-hailing platform whose annualised gross order value hit $4 billion.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "mobikwik": {
+  "name": "MobiKwik",
+  "sector": "Fintech",
+  "description": "Indian digital payments and wallet company targeting UPI merchant discount rate revenue.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "hirundo": {
+  "name": "Hirundo",
+  "sector": "AI",
+  "description": "Startup realigning Chinese open-weight AI models to Western values by editing their weights.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "lazarusai": {
+  "name": "Lazarus AI",
+  "sector": "AI",
+  "description": "Startup adapting Chinese open-weight AI models to Western norms through machine unlearning.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "moonshot": {
+  "name": "Moonshot",
+  "sector": "AI",
+  "description": "Chinese AI company offering open-weight models popular with cost-conscious users.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "zai": {
+  "name": "Z.AI",
+  "sector": "AI",
+  "description": "Chinese AI developer whose models are being adapted by Western startups.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "alibaba": {
+  "name": "Alibaba",
+  "sector": "E-commerce",
+  "description": "Chinese e-commerce and cloud group that also develops open-weight AI models.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "tencent": {
+  "name": "Tencent",
+  "sector": "Technology",
+  "description": "Chinese internet and gaming group that develops open-weight AI models.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "baluforge": {
+  "name": "Balu Forge",
+  "sector": "Industrial goods",
+  "description": "Indian forging company cited as a peer in the mill internals sector.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "hul": {
+  "name": "HUL",
+  "sector": "FMCG",
+  "description": "Hindustan Unilever, Indian consumer goods major cited as an FMCG peer.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "nirmalbang": {
+  "name": "Nirmal Bang",
+  "sector": "Financial services",
+  "description": "Indian brokerage that upgraded Marico to Buy with a Rs 970 target.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "mamaearth": {
+  "name": "Mamaearth",
+  "sector": "FMCG",
+  "description": "Indian personal care brand backed by Fireside Ventures.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "yogabar": {
+  "name": "Yoga Bar",
+  "sector": "FMCG",
+  "description": "Indian healthy snacks brand backed by Fireside Ventures.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "time": {
+  "name": "Time",
+  "sector": "Media",
+  "description": "US publisher producing agent-friendly article versions and selling ads to AI agents.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "etsy": {
+  "name": "Etsy",
+  "sector": "E-commerce",
+  "description": "US online marketplace for handmade goods that partnered with AI firms.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "expedia": {
+  "name": "Expedia",
+  "sector": "Travel",
+  "description": "US online travel agency that partnered with AI companies for agentic booking.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "togetherai": {
+  "name": "Together AI",
+  "sector": "AI",
+  "description": "Cloud AI platform whose models Deel uses as fallbacks for its agents.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "setiinstitute": {
+  "name": "SETI Institute",
+  "sector": "Research",
+  "description": "US research organisation using agentic AI to search for extraterrestrial intelligence.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "breakthroughlisten": {
+  "name": "Breakthrough Listen",
+  "sector": "Research",
+  "description": "Astronomy programme using AI agents to steer the Allen Telescope Array.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "georgiapower": {
+  "name": "Georgia Power",
+  "sector": "Utilities",
+  "description": "US utility partnering with OpenAI on flexible data centre demand response.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "ravvaoil": {
+  "name": "Ravva Oil",
+  "sector": "Energy",
+  "description": "Vedanta-linked venture enforcing foreign arbitration awards over the Ravva oilfield.",
   "first_added": "2026-11-03",
   "last_mentioned": "2026-11-03"
  }
