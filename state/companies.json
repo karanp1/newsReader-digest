@@ -53,7 +53,7 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "google": {
   "name": "Google",
@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-31"
+  "last_mentioned": "2026-11-03"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -158,14 +158,14 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -186,7 +186,7 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "walmart": {
   "name": "Walmart",
@@ -284,7 +284,7 @@
   "sector": "Industrial machinery",
   "description": "Manufacturer of high-chromium grinding media and wear parts for mining and cement.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-11-03"
  },
  "happyforgings": {
   "name": "Happy Forgings",
@@ -375,7 +375,7 @@
   "sector": "Pharmaceuticals",
   "description": "Indian generic drugmaker seeking first-to-file status for generic Ruxolitinib in the US.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-03"
  },
  "incyte": {
   "name": "Incyte",
@@ -501,14 +501,14 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "naukri": {
   "name": "Naukri",
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-31"
+  "last_mentioned": "2026-11-03"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -1012,7 +1012,7 @@
   "sector": "Aviation",
   "description": "India's largest airline; raised domestic fuel surcharges 37-50%.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "paytmpaymentsbank": {
   "name": "Paytm Payments Bank",
@@ -1026,7 +1026,7 @@
   "sector": "Pharmaceuticals",
   "description": "Drugmaker; its Andhra Pradesh plant received two U.S. FDA observations.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-11-03"
  },
  "paramount": {
   "name": "Paramount",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1390,7 +1390,7 @@
   "sector": "Infrastructure EPC",
   "description": "RPG Group infrastructure arm; shares jumped 5.79% on Rs 1,030 crore order wins.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-03"
  },
  "criticalmetals": {
   "name": "Critical Metals",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-31"
+  "last_mentioned": "2026-11-03"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -2580,7 +2580,7 @@
   "sector": "Construction",
   "description": "State-owned construction and project management firm; cited as a peer for KEC.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-03"
  },
  "techmahindra": {
   "name": "Tech Mahindra",
@@ -2790,14 +2790,14 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-31"
+  "last_mentioned": "2026-11-03"
  },
  "accenture": {
   "name": "Accenture",
   "sector": "IT services",
   "description": "Consulting and technology firm; a founding partner in Anthropic's Critical Infrastructure Defense Program.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-31"
+  "last_mentioned": "2026-11-03"
  },
  "crowdstrike": {
   "name": "CrowdStrike",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -3245,7 +3245,7 @@
   "sector": "Holding company",
   "description": "Holding company controlling the Tata group; reportedly in early talks with banks about a potential listing.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-03"
  },
  "birlasoft": {
   "name": "Birlasoft",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3623,7 +3623,7 @@
   "sector": "Oil and gas logistics",
   "description": "Runs bulk liquid terminals, LPG import terminals and pipelines in India.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-03"
  },
  "rrkabel": {
   "name": "R R Kabel",
@@ -3728,7 +3728,7 @@
   "sector": "AI research",
   "description": "Google's AI research unit; builds the Gemma and Gemini model families and on-device scam detection tools.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-03"
  },
  "palantir": {
   "name": "Palantir",
@@ -3840,7 +3840,7 @@
   "sector": "Banking",
   "description": "Private-sector bank taking deposits and lending to retail, small business and corporate customers.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-31"
+  "last_mentioned": "2026-11-03"
  },
  "cholamandalaminvestment": {
   "name": "Cholamandalam Investment",
@@ -4736,14 +4736,14 @@
   "sector": "Insurance",
   "description": "Canadian financial holding company buying a 60.72% stake in IDBI Bank.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-31"
+  "last_mentioned": "2026-11-03"
  },
  "iiflcapital": {
   "name": "IIFL Capital",
   "sector": "Financial services",
   "description": "Investment banking and wealth management firm Fairfax plans to contribute to IDBI Bank.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-11-03"
  },
  "vedantaoilandgas": {
   "name": "Vedanta Oil and Gas",
@@ -5065,7 +5065,7 @@
   "sector": "Sugar",
   "description": "Indian sugar producer mentioned in trade spotlight coverage.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-11-03"
  },
  "coforge": {
   "name": "Coforge",
@@ -9244,7 +9244,7 @@
   "sector": "Crypto exchange",
   "description": "Global cryptocurrency exchange; transferred BTC to Fidelity's ETF wallet.",
   "first_added": "2026-10-24",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-03"
  },
  "kilitchdrugs": {
   "name": "Kilitch Drugs",
@@ -10378,7 +10378,7 @@
   "sector": "Consumer internet",
   "description": "Zomato's going-out and dining business; faces medium-to-high risk from AI shopping agents.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-03"
  },
  "deepindergoyal": {
   "name": "Deepinder Goyal",
@@ -11701,7 +11701,7 @@
   "sector": "Mining",
   "description": "Indian metals and mining group exploring about Rs 70,000 crore of investment in West Bengal.",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-10-31"
+  "last_mentioned": "2026-11-03"
  },
  "gailindia": {
   "name": "GAIL India",
@@ -14110,5 +14110,152 @@
   "description": "South Indian broadcaster cited as a peer in the Zee Entertainment comparison.",
   "first_added": "2026-11-02",
   "last_mentioned": "2026-11-02"
+ },
+ "relianceretail": {
+  "name": "Reliance Retail",
+  "sector": "Retail",
+  "description": "Reliance's retail arm; Q2 FY27 profit fell 24.3% to Rs 2,611 crore on revenue of Rs 91,716 crore.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "godigitgeneralinsurance": {
+  "name": "Go Digit General Insurance",
+  "sector": "Insurance",
+  "description": "Indian general insurer; scheduled its Q2 and H1 FY27 earnings call for 5 November 2026.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "godigitlifeinsurance": {
+  "name": "Go Digit Life Insurance",
+  "sector": "Insurance",
+  "description": "Life insurance arm of Go Digit; part of Fairfax's planned IDBI-funded purchase.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "mercadobitcoin": {
+  "name": "Mercado Bitcoin",
+  "sector": "Crypto exchange",
+  "description": "Brazilian crypto exchange that paused deposits and withdrawals after a breach.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "btcpayserver": {
+  "name": "BTCPay Server",
+  "sector": "Crypto",
+  "description": "Open-source Bitcoin payment processor; urged users to upgrade after hot wallet thefts.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "cathedralsystems": {
+  "name": "Cathedral Systems",
+  "sector": "Cybersecurity",
+  "description": "Security partner working with OpenAI to test and challenge its defences.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "deel": {
+  "name": "Deel",
+  "sector": "HR software",
+  "description": "Payroll and HR platform; built Deel Cloud Agents to run AI agents as engineering workers.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "roblox": {
+  "name": "Roblox",
+  "sector": "Gaming",
+  "description": "Online gaming platform; two AI-built games reached its top 20 by concurrent players.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "proton": {
+  "name": "Proton",
+  "sector": "Privacy tech",
+  "description": "Privacy-focused email and services firm; CEO cancelled company-wide AI re-interviews.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "doordash": {
+  "name": "DoorDash",
+  "sector": "Food delivery",
+  "description": "US delivery platform; agreed to acquire Instacart for $17 billion.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "instacart": {
+  "name": "Instacart",
+  "sector": "Grocery delivery",
+  "description": "US grocery delivery platform being acquired by DoorDash at $65.00 per share.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "petronetlng": {
+  "name": "Petronet LNG",
+  "sector": "Energy",
+  "description": "Indian LNG importer; September quarter net profit rose 53.2% to Rs 1,235 crore.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "qatarenergy": {
+  "name": "QatarEnergy",
+  "sector": "Energy",
+  "description": "Qatari state energy firm; declared force majeure on LNG cargoes until December-end.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "supremeinfrastructure": {
+  "name": "Supreme Infrastructure",
+  "sector": "Construction",
+  "description": "Indian infrastructure firm; settled about Rs 2,200 crore in legacy debt with lenders.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "birlaestates": {
+  "name": "Birla Estates",
+  "sector": "Real estate",
+  "description": "Aditya Birla Group real estate arm; targets 10-fold growth in office rental income.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "vultr": {
+  "name": "Vultr",
+  "sector": "Cloud computing",
+  "description": "Cloud provider; launched a 20-MW AI supercluster in Chennai with AMD GPUs.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "amd": {
+  "name": "AMD",
+  "sector": "Semiconductors",
+  "description": "Chipmaker whose Instinct MI355X GPUs power Vultr's Chennai AI supercluster.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "gilead": {
+  "name": "Gilead",
+  "sector": "Pharmaceuticals",
+  "description": "Drugmaker behind lenacapavir; grants voluntary licences for generic versions.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "triveniengineering": {
+  "name": "Triveni Engineering",
+  "sector": "Sugar",
+  "description": "Sugar and engineering firm; Q2FY27 profit of Rs 94 crore lifted sugar stocks.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "fishtailair": {
+  "name": "Fishtail Air",
+  "sector": "Aviation",
+  "description": "Nepali helicopter operator; one of its helicopters collided at Pheriche, Solukhumbu.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
+ },
+ "airdynasty": {
+  "name": "Air Dynasty",
+  "sector": "Aviation",
+  "description": "Nepali helicopter operator; one of its helicopters collided at Pheriche, Solukhumbu.",
+  "first_added": "2026-11-03",
+  "last_mentioned": "2026-11-03"
  }
 }
