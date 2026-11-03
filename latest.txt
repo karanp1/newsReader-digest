@@ -3,8 +3,8 @@ METRICS
 NIFTY PE | 19.43 | 2 Nov 2026 | https://nifty-pe-ratio.com/
 Gold per 10g 24K | ₹1,39,380 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 23,440.80 (+3.04%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹72,89,913 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $76,961 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹72,73,559 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $76,745 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -12,24 +12,24 @@ SOURCE 6: Watchlist (headlines + summary)
 [Jio Platforms]
 
 - ~
-  02 Nov 2026 | https://www.moneycontrol.com/news/business/buy-jio-platforms-target-of-rs-1515-motilal-oswal-14066713.html
-  • Jio Platforms reported its first post-listing results: net profit rose 14% YoY to ₹8,389 crore in the September quarter, with revenue up 11% to ₹40,475 crore. ¶ • EBITDA rose 17% YoY and EBITDA margin expanded 250 basis points to 54.1%, helped by operating leverage and digital services growth. ¶ • ARPU edged up to ₹218.8 as 9.1 million net subscribers were added, monthly churn held at 1.6% and per-user data use reached 44.2 GB. ¶ • The 5G subscriber base hit 300 million, up 66 million over 12 months, and 5G carried 56% of total wireless data traffic. ¶ • Shares rose over 3% to about ₹1,476 on Monday, after listing at ₹1,358 on October 28, a 21.36% premium to the ₹1,119 IPO price. ¶ ↗ moneycontrol.com|https://www.moneycontrol.com/news/business/buy-jio-platforms-target-of-rs-1515-motilal-oswal-14066713.html ;; tradingview.com|https://www.tradingview.com/news/moodys:aa4263b95b024:0-after-bumper-ipo-listing-jio-platforms-shares-jump-3-post-strong-q2-results-should-you-buy-sell-or-hold/ ;; tradingview.com|https://www.tradingview.com/news/moodys:288313760633d:0-jio-platforms-shares-climb-over-3-post-q2-earnings/ ;; m.economictimes.com|https://m.economictimes.com/markets/stocks/news/jio-platforms-shares-climb-over-3-after-q2-pat-rises-14-yoy-to-rs-8389-crore-buy-sell-or-hold/articleshow/135444563.cms
+  02 Nov 2026 | https://www.tradingview.com/news/moodys:aa4263b95b024:0-after-bumper-ipo-listing-jio-platforms-shares-jump-3-post-strong-q2-results-should-you-buy-sell-or-hold/
+  • Jio Platforms reported its first post-listing results: net profit rose 14% YoY to ₹8,389 crore for the September quarter, with revenue up 11% YoY to ₹40,475 crore. ¶ • EBITDA rose 17% YoY and EBITDA margin expanded 250 basis points to 54.1%, helped by operating leverage and digital services growth. ¶ • The company added 9.1 million net subscribers in the quarter, with monthly churn stable at 1.6% and ARPU edging up to ₹218.8. ¶ • Jio's 5G subscriber base reached 300 million, an addition of 66 million over 12 months, with 5G at 56% of wireless data traffic. ¶ • Shares rose over 3% to about ₹1,476 after the results, following the October 28 listing at ₹1,358, a 21.36% premium to the ₹1,119 IPO price. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:aa4263b95b024:0-after-bumper-ipo-listing-jio-platforms-shares-jump-3-post-strong-q2-results-should-you-buy-sell-or-hold/ ;; tradingview.com|https://www.tradingview.com/news/moodys:288313760633d:0-jio-platforms-shares-climb-over-3-post-q2-earnings/ ;; m.economictimes.com|https://m.economictimes.com/markets/stocks/news/jio-platforms-shares-climb-over-3-after-q2-pat-rises-14-yoy-to-rs-8389-crore-buy-sell-or-hold/articleshow/135444563.cms
 
 - Outlook: Bullish
   2026-11-03 |
-  §VIEW§{"stance": "bullish", "text": "Profit up 14% YoY and EBITDA margin at 54.1% show operating leverage working, with 9.1 million net adds and 300 million 5G users. ARPU growth stays modest at Rs 218.8, the main swing factor."}
+  §VIEW§{"stance": "bullish", "text": "Profit up 14% YoY, EBITDA margin at 54.1% and 9.1 million net subscriber adds show the core business compounding after listing. The main risk is ARPU growth, which stayed modest at Rs 218.8."}
 
 [Reliance Intelligence]
 
 [Reliance]
 
 - ~
-  02 Nov 2026 | https://m.economictimes.com/markets/stocks/news/reliance-industries-shares-set-for-biggest-single-day-jump-since-april-2020-as-q2-earnings-spark-rs-1-lakh-crore-rally/articleshow/135447021.cms
-  • Reliance Industries shares surged 12% to ₹1,300 on the NSE, the biggest single-day jump since April 2020, adding ₹1.84 lakh crore to market capitalisation. ¶ • Q2 FY27 consolidated net profit rose 41% year-on-year to ₹25,548 crore, while revenue increased 29% to ₹3.32 lakh crore. ¶ • Oil-to-chemicals EBITDA jumped 68% year-on-year to a record ₹25,203 crore, beating Nomura's estimate by 9%. ¶ • Retail segment missed estimates: Reliance Retail Ventures PAT fell 24.3% to ₹2,611 crore, and EBITDA declined 8.6% to ₹6,228 crore. ¶ • Brokerages maintained Buy ratings: Jefferies target ₹1,710, Nomura ₹1,560, and Nuvama ₹1,703, citing O2C strength and New Energy potential. ¶ ↗ m.economictimes.com|https://m.economictimes.com/markets/stocks/news/reliance-industries-shares-set-for-biggest-single-day-jump-since-april-2020-as-q2-earnings-spark-rs-1-lakh-crore-rally/articleshow/135447021.cms ;; m.economictimes.com|https://m.economictimes.com/markets/stocks/news/reliance-industries-shares-rally-6-after-q2-results-heres-why-jefferies-others-analysts-see-up-to-47-upside/articleshow/135444361.cms ;; m.economictimes.com|https://m.economictimes.com/markets/stocks/news/missed-reliance-industries-historic-8-one-day-rally-heres-what-technical-analysts-are-saying/articleshow/135451322.cms ;; bbntimes.com|https://www.bbntimes.com/global-economy/bse-sensex-today-sensex-soars-to-75-692-78-as-reliance-industries-rockets-11-6-amid-us-midterms-elections
+  02 Nov 2026 | https://www.bbntimes.com/global-economy/bse-sensex-today-sensex-soars-to-75-692-78-as-reliance-industries-rockets-11-6-amid-us-midterms-elections
+  • Reliance Industries shares jumped 11.6% to ₹1,300 on 2 November 2026, the biggest single-day gain since April 2020, adding about ₹1.84 lakh crore to market capitalisation. ¶ • Q2 FY27 consolidated net profit rose 40.6% year-on-year to ₹25,548 crore, with revenue up 28% to ₹3.62 lakh crore and EBITDA up 24% to ₹62,409 crore. ¶ • The oil-to-chemicals business drove the beat, with EBITDA surging 67.9% to ₹25,203 crore on multi-decade-high refining cracks and supply disruptions in West Asia. ¶ • Retail stayed the weak spot: Reliance Retail PAT fell 24.3% to ₹2,611 crore and EBITDA dropped 11% year-on-year, with margin down 140 basis points. ¶ • Goldman Sachs kept a Buy rating with a ₹1,840 target and Nomura a ₹1,560 target, while Jefferies raised FY27 and FY28 EBITDA estimates by 6% and 2%. ¶ ↗ bbntimes.com|https://www.bbntimes.com/global-economy/bse-sensex-today-sensex-soars-to-75-692-78-as-reliance-industries-rockets-11-6-amid-us-midterms-elections ;; tradingview.com|https://www.tradingview.com/news/moodys:2a26f1c876472:0-massive-surge-reliance-industries-shares-up-12-after-q2-add-rs-2-lakh-cr-in-mcap-when-did-ril-last-rally-this-much/ ;; m.economictimes.com|https://m.economictimes.com/markets/stocks/news/reliance-industries-shares-set-for-biggest-single-day-jump-since-april-2020-as-q2-earnings-spark-rs-1-lakh-crore-rally/articleshow/135447021.cms ;; rediff.com|https://www.rediff.com/business/report/mukesh-ambani-adds-7-billion-to-fortune-as-reliance-industries-shares-rally/20261102.htm
 
 - Outlook: Bullish
   2026-11-03 |
-  §VIEW§{"stance": "bullish", "text": "Record O2C earnings and a 41% profit jump drove the stock's biggest rally since 2020, with brokerages raising estimates. Retail weakness and a 17% year-to-date decline remain concerns, but the earnings beat and falling crude prices support a bullish stance."}
+  §VIEW§{"stance": "bullish", "text": "Record Q2 earnings, a 67.9% O2C EBITDA surge and Buy ratings from Goldman Sachs and Nomura with targets of Rs 1,840 and Rs 1,560 support the stock. Retail weakness and expected Q3 refining margin moderation are the main offsets."}
 
 [Flipkart]
 
@@ -55,67 +55,67 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   02 Nov 2026 | https://defence.in/threads/after-amca-exclusion-why-hal-must-channel-tejas-experience-into-independent-6th-gen-design-studies-to-remain-an-aircraft-designer.19009/
-  • MarketsMOJO rated HAL Buy on 02 November 2026, citing average Return on Equity of 24.66% and 16.21% annual operating profit growth. ¶ • HAL's market capitalisation is ₹3,23,433 crores, 44.79% of the aerospace and defence industry, with annual sales of ₹33,784.98 crores. ¶ • Institutional investors hold 21.98% of HAL as of 02 November 2026, up 0.66% over the previous quarter. ¶ • HAL stock gained 0.57% on the day, with a 1-month return of 5.40% and a 6-month return of 12.16%. ¶ • An opinion piece argued HAL must self-fund sixth-generation design studies after AMCA exclusion to remain an aircraft designer. ¶ ↗ defence.in|https://defence.in/threads/after-amca-exclusion-why-hal-must-channel-tejas-experience-into-independent-6th-gen-design-studies-to-remain-an-aircraft-designer.19009/ ;; marketsmojo.com|https://www.marketsmojo.com/news/stock-recommendation/hindustan-aeronautics-ltd-is-rated-buy-by-marketsmojo-4247232
+  • HAL awarded NBCC a ₹23.47 crore contract for an LCA Engine Test Bed and Module Change Workshop at IAF Bhatinda or another IAF base. ¶ • HAL faces exclusion from the AMCA collaborative development model as New Delhi pushes private players into fifth-generation fighter development. ¶ • HAL's Tejas Mk1A orders and upcoming Tejas Mk2 work keep assembly lines active into the 2030s, but do not guarantee future design rights. ¶ • An opinion piece urges HAL to self-fund sixth-generation design studies covering manned-unmanned teaming and stealth shaping to preserve its design expertise. ¶ • HAL's institutional knowledge from the Tejas programme, including flight control laws and composite manufacturing, risks degrading if design bureaus are sidelined. ¶ ↗ defence.in|https://defence.in/threads/after-amca-exclusion-why-hal-must-channel-tejas-experience-into-independent-6th-gen-design-studies-to-remain-an-aircraft-designer.19009/ ;; psuconnect.in|https://www.psuconnect.in/psu-news/nbcc-bags-work-orders-worth-70-50-crore-from-oil-india-and-hal ;; investywise.com|https://www.investywise.com/nbcc-india-limited-secures-new-work-orders-worth-rs-70-50-cr/
 
-- Outlook: Bullish
+- Outlook: Neutral
   2026-11-03 |
-  §VIEW§{"stance": "bullish", "text": "HAL's strong ROE, net-debt-free balance sheet, and rising institutional stake support the positive rating. The very expensive valuation and flat financial trend are the main risks."}
+  §VIEW§{"stance": "neutral", "text": "HAL's near-term order book stays strong with Tejas Mk1A and Mk2 work, but its exclusion from AMCA and push for private competition threaten its long-term design role. The news splits between steady current revenue and strategic marginalization."}
 
 [Tejas Networks]
 
 [Dmart]
 
-- ~
-  02 Nov 2026 | https://univest.in/blogs/largecap-quarterly-sales-growth-and-low-debt-stocks-to-watch-multibagger-potential
-  • FDA seized 1,31,211 kg of edible oil worth ₹4.06 crore from a Bhiwandi D-Mart on October 29, 2026, over suspected substandard and misbranded labelling. ¶ • DMart opened 85 stores in FY26, taking the total to 500 at March 2026, and had 518 stores with 21.4 million sq ft of retail area by September 2026. ¶ • Management targets store base growth of about 15% a year, but land acquisition and construction take two to three years, per the July 2026 analyst meet. ¶ • Avenue Supermarts reported September 2026 quarter revenue of ₹19,657.54 crore, up 17.74%, and net profit of ₹742.98 crore, up 8.49%. ¶ • FY26 capex on property, plant and equipment was ₹4,011.81 crore, including ₹1,795.06 crore for freehold land, against ₹3,235.14 crore in FY25. ¶ ↗ univest.in|https://univest.in/blogs/largecap-quarterly-sales-growth-and-low-debt-stocks-to-watch-multibagger-potential ;; tradebrains.in|https://tradebrains.in/premium/is-dmarts-15-expansion-target-changing-its-owned-store-business-model-12762868 ;; freepressjournal.in|https://www.freepressjournal.in/mumbai/fda-seizes-food-products-worth-1242-crore-across-konkan-ahead-of-diwali-406-crore-oil-stock-found-at-bhiwandi-d-mart
-
-- Outlook: Neutral
-  2026-11-03 |
-  §VIEW§{"stance": "neutral", "text": "Revenue growth of 17.74% and a 15% store target support the story, but profit rose only 8.49% and the Rs 4.06 crore oil seizure adds compliance risk. Expansion speed and margin delivery decide the direction."}
-
 [Godigit Insurance]
 
 - ~
   02 Nov 2026 | https://www.wionews.com/business-economy/fairfax-may-tap-idbi-bank-s-excess-capital-to-help-fund-52-878-crore-buyout-1793610012096
-  • Fairfax may use IDBI Bank's surplus capital to buy its Go Digit General, Go Digit Life and IIFL Capital holdings, per an investor call transcript. ¶ • Fairfax agreed to buy 60.72% of IDBI Bank from the government and LIC for ₹52,878 crore, or ₹81 per share. ¶ • Fairfax president Peter Clarke put the acquisition cost at $5.6 billion, with Digit and IIFL contributions worth about $3 billion. ¶ • RBI 2025 rules cap a bank's equity investment in one subsidiary at 10% of paid-up capital and reserves, and 20% in aggregate. ¶ • IDBI Bank's capital adequacy ratio was 27.10% on 30 September 2026, above the 11.5% regulatory minimum including the capital conservation buffer. ¶ ↗ wionews.com|https://www.wionews.com/business-economy/fairfax-may-tap-idbi-bank-s-excess-capital-to-help-fund-52-878-crore-buyout-1793610012096
+  • Fairfax may use IDBI Bank's excess capital to buy its stakes in Go Digit General Insurance, Go Digit Life Insurance and IIFL Capital, per a BW Businessworld report. ¶ • Fairfax agreed to buy 60.72% of IDBI Bank from the government and LIC for ₹52,878 crore, or ₹81 per share. ¶ • Fairfax president Peter Clarke put the acquisition cost at $5.6 billion, with Digit and IIFL Capital contributions worth about $3 billion, or roughly ₹28,300 crore. ¶ • IDBI Bank's capital adequacy ratio was 27.10% on 30 September 2026, above the 11.5% regulatory minimum including the capital conservation buffer. ¶ • RBI 2025 rules cap a bank's equity investment in one subsidiary or financial services firm at 10% of paid-up capital and reserves, and aggregate investment at 20%, with prior RBI approval needed. ¶ ↗ wionews.com|https://www.wionews.com/business-economy/fairfax-may-tap-idbi-bank-s-excess-capital-to-help-fund-52-878-crore-buyout-1793610012096 ;; zeebiz.com|https://www.zeebiz.com/companies/news-idbi-bank-takeover-could-fairfax-use-lenders-capital-to-fund-its-own-acquisition-404923
 
 - Outlook: Neutral
   2026-11-03 |
-  §VIEW§{"stance": "neutral", "text": "Fairfax's plan to fund the IDBI buyout partly through Go Digit stakes could support valuations, but RBI investment caps and pending approvals leave the structure uncertain. The news flow splits on regulatory clarity."}
+  §VIEW§{"stance": "neutral", "text": "The plan could fund over half the $5.6 billion IDBI deal via Go Digit and IIFL Capital stakes, but no binding agreements are signed and RBI, SEBI and IRDAI approvals are pending. Valuation of unlisted Go Digit Life and minority-shareholder concerns split the signal."}
 
 [Infoedge/Naukri]
 
 - ~
   02 Nov 2026 | https://www.hrkatha.com/people/movement/info-edge-appoints-shruti-tewari-as-evp-hr/
-  • Founder Sanjeev Bikhchandani becomes MD and Group CEO from December 3, 2026, as Hitesh Oberoi steps down after 16 years and stays a non-executive board member. ¶ • Standalone net profit rose 36.0% year-on-year to ₹333.9 crore in the September quarter, with revenue up 12.8% to ₹841.7 crore. ¶ • Recruitment Solutions revenue grew 13.3% to ₹632.3 crore with a 59.1% operating PBT margin; AI-first products reached an annualized run rate of about ₹240 crore. ¶ • 99acres revenue rose 16.7% to ₹134.3 crore and its operating loss narrowed 93.0% year-on-year, with management projecting positive operating cash flow by FY27. ¶ • Info Edge declared an interim dividend of ₹3 per equity share for FY27, with record date November 6, 2026, and appointed Shruti Tewari as EVP-HR for the recruitment businesses. ¶ ↗ hrkatha.com|https://www.hrkatha.com/people/movement/info-edge-appoints-shruti-tewari-as-evp-hr/ ;; money.rediff.com|https://money.rediff.com/news/market/info-edge-bikhchandani-takes-ceo-helm-oberoi-steps-down/57354320261102 ;; scanx.trade|https://scanx.trade/stock-market-news/companies/info-edge-releases-naukri-jobspeak-index-report-october-2026/55168508 ;; businessupturn.com|https://businessupturn.com/business/info-edge-releases-naukri-jobspeak-index-report-for-october-2026/
+  • Founder Sanjeev Bikhchandani becomes MD and Group CEO from December 3, 2026, as Hitesh Oberoi steps down after 16 years and stays a non-executive board member. ¶ • Standalone net profit rose 36.0% year-on-year to ₹333.9 crore in the September quarter, with an interim dividend of ₹3 per equity share for FY27. ¶ • Recruitment Solutions revenue grew 13.3% to ₹632.3 crore, with an operating PBT margin of 59.1%, and AI-first products reached an annualized run rate of about ₹240 crore. ¶ • 99acres billings grew 21.2% year-on-year, revenue rose 16.7% to ₹134.3 crore, and operating losses narrowed 93.0%, with positive operating cash flow projected by FY27. ¶ • Shiksha billings fell 27% and revenue 9% on AI-driven changes in search behavior, while Jeevansathi billings rose 18% and Aisle 40%. ¶ ↗ hrkatha.com|https://www.hrkatha.com/people/movement/info-edge-appoints-shruti-tewari-as-evp-hr/ ;; money.rediff.com|https://money.rediff.com/news/market/info-edge-bikhchandani-takes-ceo-helm-oberoi-steps-down/57354320261102 ;; scanx.trade|https://scanx.trade/stock-market-news/companies/info-edge-releases-naukri-jobspeak-index-report-october-2026/55168508
 
 - Outlook: Bullish
   2026-11-03 |
-  §VIEW§{"stance": "bullish", "text": "Profit and margin gains, AI recruitment revenue near Rs 240 crore annualized, and 99acres losses down 93.0% point to improving earnings quality. The founder-led transition keeps strategy intact, though Education billings fell 27%."}
+  §VIEW§{"stance": "bullish", "text": "Profit and margin gains, AI recruitment revenue scaling to about Rs 240 crore annualized, and 99acres nearing breakeven support the stock. The CEO change adds uncertainty, but continuity is emphasized."}
 
 [Bitcoin]
 
 - ~
-  02 Nov 2026 | https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million
-  • Mercado Bitcoin, Brazil's largest crypto exchange, suspended deposits and withdrawals after a security incident, saying customers lost nothing and no data leaked. ¶ • Blockchain security firm Hypernative estimated suspicious transfers above $40 million across at least 10 blockchains, a figure Mercado Bitcoin has not confirmed. ¶ • Tether froze more than 4.5 million USDT tied to the incident, while the exchange published destination addresses on Bitcoin, Ethereum-compatible networks, Solana, Stellar and Tron. ¶ • Bitcoin traded at $77,750.64 at 6:30 a.m. ET on Nov. 2, down $107.19 from the prior morning and about $32,770 lower than a year earlier. ¶ • Strategy acquired 811 Bitcoin for $65.5 million at an average cost of $80,846, holding 849,327 Bitcoin as of Nov. 1, funded partly by selling over 1 million MSTR shares. ¶ ↗ bitcoinmagazine.com|https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million ;; decrypt.co|https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack ;; fortune.com|https://fortune.com/article/price-of-bitcoin-11-02-2026/ ;; tradingview.com|https://www.tradingview.com/news/cointelegraph:c1243cebb094b:0-bitcoin-risks-drop-below-76k-as-7-oil-slide-fails-to-spark-btc-price-rally/
+  02 Nov 2026 | https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545
+  • Bitcoin traded near $78,000 on Nov 2, holding above its 50-week moving average of $75,728 for a seventh straight week despite the Binance hack. ¶ • Hackers stole about $6.3 billion from Binance on Oct 29; Binance has replaced 95% of stolen assets and reopened withdrawals in phases. ¶ • Brazil's Mercado Bitcoin suspended deposits and withdrawals after a security incident with preliminary estimates above $40 million; Tether froze over 4.5 million USDT. ¶ • Bitcoin Suisse is cutting 60 of 120 Swiss jobs and moving operations abroad, saying Switzerland no longer ranks among top crypto countries. ¶ • Strategy acquired 811 Bitcoin for $65.5 million at an average cost of $80,846, bringing holdings to 849,327 Bitcoin. ¶ ↗ swissinfo.ch|https://www.swissinfo.ch/eng/swiss-economy/cryptocurrencies-switzerland-has-lost-interest-says-bitcoin-suisse-ceo/92314545 ;; bitcoinmagazine.com|https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-outlook-november-2026-020000012.html ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/bitcoin-bulls-see-light-end-094423224.html
 
-- Outlook: Bearish
+- Outlook: Neutral
   2026-11-03 |
-  §VIEW§{"stance": "bearish", "text": "Exchange breaches at Mercado Bitcoin and Binance, plus Tether freezes, keep custody risk in focus while BTC sits near $77,750 and analysts flag support at $76,000. The overhang of unresolved stolen funds weighs on sentiment."}
+  §VIEW§{"stance": "neutral", "text": "Exchange hacks and outflows pressure prices, but Bitcoin holds $76,000 support and technicals stay intact. The split is between bearish supply risk and resilient demand."}
 
 [Gold]
 
 - ~
   02 Nov 2026 | https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-november-2-2026-gold-opens-at-its-lowest-point-in-over-a-year-ahead-of-midterms-121724988.html
-  • Gold futures opened at $3,890 per troy ounce on November 2, down 0.2% from Friday, the lowest since October 3, 2025. ¶ • Spot gold fell more than 3.5% to $3,879.90 as a Wall Street tech selloff forced liquidation of liquid assets to cover margin calls. ¶ • Brent crude rose 2.4% to $117.64 a barrel after a tanker attack in the Strait of Hormuz, reviving inflation concerns and Fed rate-hike expectations. ¶ • MCX gold futures fell about 7% in October and silver nearly 20%, with December gold trading around ₹1,39,065-1,39,179 per 10 grams on November 2. ¶ • Bank of America expects gold below $4,000 for three months, citing a 16.6% year-on-year drop in key buyer purchases and Indian imports down 77.8%. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-november-2-2026-gold-opens-at-its-lowest-point-in-over-a-year-ahead-of-midterms-121724988.html ;; mitrade.com|https://www.mitrade.com/insights/commodity-analysis/gold/gold-selloff-liquidation-oil-spikes-fed-hike ;; tradingview.com|https://www.tradingview.com/news/moodys:7449955559dcc:0-rates-crash-gold-price-slips-7-silver-tanks-20-in-oct-is-dhanteras-2026-right-time-to-buy-what-should-investors-do/ ;; m.economictimes.com|https://m.economictimes.com/markets/commodities/explained-why-gold-investors-should-tone-down-expectations-as-yellow-metal-plunges-to-a-1-year-low/articleshow/135449976.cms
+  • Gold December futures opened at $3,890 per troy ounce on November 2, down 0.2% from Friday, the lowest since October 3, 2025. ¶ • Spot gold traded at $3,962.60 per ounce on Monday, up 2.26% on the day, after falling below $4,000 last week. ¶ • The Fed held rates at 3.75%-4.00%, but markets price a 76% chance of a 25 basis point hike in December after PCE inflation rose to 3.6% year-on-year in September. ¶ • MCX gold futures fell about 7% in October while silver plunged nearly 20%, with gold around ₹138,500 per 10 grams. ¶ • India issued permits for around 6,500 tonnes of silver imports over the next six months, about 90% of its 2025 imports. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-november-2-2026-gold-opens-at-its-lowest-point-in-over-a-year-ahead-of-midterms-121724988.html ;; fortune.com|https://fortune.com/article/current-price-of-gold-11-02-2026/ ;; kitco.com|https://www.kitco.com/news/article/2026-11-02/gold-and-silver-prices-surge-after-sharp-selloff-india-set-ramp-silver ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-november-02-2026-week-should-you-buy-or-sell-mcx-gold-us-iran-war-middle-east-us-fed-rate-hike/articleshow/135448476.cms
 
 - Outlook: Bearish
   2026-11-03 |
-  §VIEW§{"stance": "bearish", "text": "Gold is pressured by forced liquidation, rising oil-driven inflation fears and expectations of further Fed hikes, with BofA seeing sub-$4,000 prices. Oversold technicals and Chinese dip buying may slow the fall, but the near-term trend stays weak."}
+  §VIEW§{"stance": "bearish", "text": "Gold stays pressured by a 76% priced odds of a December Fed hike, PCE inflation at 3.6% and weak jewellery demand. Bargain hunting and central-bank buying may cushion but not reverse the trend."}
 
 ============================================================
 
 SOURCE 8: AI News
+
+[OpenAI] Rewarding defenders with bigger bug bounties
+  02 Nov 2026 | https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties
+  • OpenAI is raising bug bounty rewards and adding new bonuses to encourage independent researchers to find vulnerabilities its own testing missed. ¶ • The midpoint of reward ranges for medium, high, and critical findings rises more than fourfold on average. ¶ • A critical vulnerability in a core product like ChatGPT, Codex, or the API Platform now earns up to $30,000, or up to $172,000 with bonuses. ¶ • New bonuses include a quality multiplier for strong proof-of-concept reports, a 5-tier loyalty program, and priority campaign pools for new features. ¶ • Bounties awarded in the 30 days before the announcement will be topped up if the finding would have earned more under the new ranges.
+
+[OpenAI] Preparing our next security sprint to harden OpenAI
+  02 Nov 2026 | https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai
+  • OpenAI is planning its next internal security sprint, bringing in new researchers and security partners to test and strengthen its systems. ¶ • OpenAI is partnering with Cathedral Systems, whose researchers will use OpenAI's models to challenge its defenses and find weaknesses. ¶ • OpenAI is more than quadrupling rewards for critical findings in its Security Bug Bounty program. ¶ • In the last sprint, OpenAI dedicated 25% of its product engineers to finding and fixing weaknesses, using Codex to investigate findings, reproduce vulnerabilities and prepare patches. ¶ • OpenAI has committed $1 billion in subsidized access over six months for frontline defenders protecting essential services and digital infrastructure.
 
 [OpenAI] Scaling Git at OpenAI
   02 Nov 2026 | https://openai.com/index/scaling-git-at-openai
@@ -311,9 +311,29 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
-- U.S. strikes Iran's Qeshm Island: report
-  03 Nov 2026 | https://www.thehindu.com/news/international/us-strikes-irans-qeshm-island-report/article71659212.ece
-  • The United States struck Iran's Qeshm Island, the Wall Street Journal reported, after explosions on the island, which sits on the Strait of Hormuz, per IRNA. ¶ • The strike is the latest in limited, secretive U.S. attacks in recent weeks, as Trump said he is not considering strikes after Tuesday's midterm elections.
+[[US midterm elections]]
+
+- U.S. votes for mid-term elections, seen as referendum on Trump
+  03 Nov 2026 | https://www.thehindu.com/news/international/us-votes-for-mid-term-elections-seen-as-referendum-on-trump/article71659267.ece
+  • Americans vote Tuesday for all 435 House seats and 37 of 100 Senate seats, with polls predicting Democrats win at least the House. ¶ • Over 57 million ballots were cast early in 47 states and D.C. as of Monday, up from under 44.5 million in 2022.
+
+- U.S. Supreme Court rejects Trump administration push to set aside thousands of California ballots
+  03 Nov 2026 | https://www.thehindu.com/news/international/us-supreme-court-rejects-trump-administration-push-to-set-aside-thousands-of-california-ballots/article71659232.ece
+  • The Supreme Court refused to set aside 20,000 mail ballots in California that the Trump administration flagged as likely noncitizens, one day before the midterm elections. ¶ • Lower courts had already blocked the request, with Judge David O. Carter warning that discounting votes on unproven allegations would endanger democracy.
+
+[[US-Iran conflict]]
+
+- U.S. strikes Iranian targets in Strait of Hormuz on eve of midterms
+  03 Nov 2026 | https://www.thehindu.com/news/international/us-strikes-iran-strait-of-hormuz-midterm-elections-trump-netanyahu-vance/article71659244.ece
+  • The U.S. conducted limited defensive strikes on Iranian targets in the Strait of Hormuz, with explosions reported on Qeshm Island, a U.S. official said. ¶ • Oil prices fell Monday as Qatari-mediated talks progressed on a framework for Iran to halt attacks in the strait in return for the U.S. lifting its port blockade.
+
+[[Israel politics]]
+
+- Israel’s far-right supporters hold out hope for return to power
+  03 Nov 2026 | https://www.thehindu.com/news/international/israels-far-right-supporters-hold-out-hope-for-return-to-power/article71659276.ece
+  • Far-right parties secured the same number of seats as before the election, totaling 13, preventing them from becoming an ascendant force. ¶ • Despite increased support, political analysts suggest the far-right's influence in government is likely to shrink as mainstream parties negotiate a new coalition.
+
+[[Venezuela opposition]]
 
 - Venezuela's Opposition leader Machado returns after months in exile, as doubts over democracy deepen
   03 Nov 2026 | https://www.thehindu.com/news/international/venezuela-opposition-leader-machado-returns-after-months-in-exile/article71624435.ece
@@ -322,7 +342,88 @@ SOURCE 3: The Hindu - International (headlines + summary)
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### India becomes ChatGPT’s largest market globally
+03 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/openais-india-user-base-doubles-rapido-gov-quadruples/articleshow/135478625.cms
+
+• India is now ChatGPT’s largest market by weekly active users, said OpenAI India MD Prabhjeet Singh.
+
+• The local user base has doubled since January this year.
+
+• OpenAI is expected to announce UPI and payments integrations in coming weeks.
+
+• Singh said adoption has shifted from pilots to scaled production deployments.
+
+### Rapido’s gross order value quadruples to $4 billion
+03 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/openais-india-user-base-doubles-rapido-gov-quadruples/articleshow/135478625.cms
+
+• Rapido has crossed $4 billion in annualised gross order value, quadrupling in two years.
+
+• It processes around 8.3 million daily orders, with ride-hailing over 95%.
+
+• Monthly active users grew 27% between January and October this year.
+
+• It raised $240 million in May at a $3 billion valuation and expanded to nearly 500 cities.
+
+### Fireside Ventures cofounder Vinay Singh to exit
+03 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/openais-india-user-base-doubles-rapido-gov-quadruples/articleshow/135478625.cms
+
+• Vinay Singh is exiting Fireside Ventures after nearly a decade.
+
+• He said he wants to explore agentic commerce as AI reshapes consumption.
+
+• Fireside has four senior partners and a team of 12 principals and vice-presidents.
+
+• Since 2017, it has backed over 65 consumer brands including Mamaearth, Boat, and Yoga Bar.
+
+### Govt mulls enforceable powers for Cert-In
+03 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/openais-india-user-base-doubles-rapido-gov-quadruples/articleshow/135478625.cms
+
+• The government is considering granting enforcement powers to Cert-In.
+
+• The move follows an unprecedented increase in AI-driven cyberattacks.
+
+• The approach is similar to that of the US and European Union.
+
+### MobiKwik eyes Rs 100 crore UPI MDR revenue
+03 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/openais-india-user-base-doubles-rapido-gov-quadruples/articleshow/135478625.cms
+
+• MobiKwik expects UPI merchant discount rate to add at least ₹100 crore to payment revenue in FY28.
+
+• The company aims to improve monetisation across consumer and merchant payments.
+
+### Global pick: Startups recalibrate Chinese AI for the West
+Rest of World | https://restofworld.org/2026/western-startups-realigning-chinese-ai-models/
+
+• Startups like Hirundo and Lazarus AI are realigning Chinese open-weight models to Western values by editing their weights, a process called machine unlearning.
+
+• Chinese models from DeepSeek, Moonshot, Z.AI, Alibaba and Tencent have won over users with lower costs and customization, but critics fear they are aligned with the Chinese Communist Party.
+
+• CrowdStrike found prompts on politically sensitive topics in DeepSeek's R1 were up to 50% more likely to receive code with severe security vulnerabilities.
+
+• Researcher Oriane Peter says aligning a model to Western values is an impossible standard, since any model must be adapted to its specific social context.
+
+### Global pick: The agentic web is here
+MIT Technology Review | https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/
+
+• Tim Berners-Lee proposed the Semantic Web in a 2001 Scientific American article, envisioning autonomous software agents that navigate the internet for users.
+
+• That vision stalled because it required users to tag their pages with special annotations, labor that Wellesley professor Eni Mustafaraj says had no obvious benefit.
+
+• Large language models removed that barrier, since agents like Meta's Muse, OpenAI's Dots and Anthropic's Claude Duet can parse sites and act without tags.
+
+• Time is publishing agent-friendly article versions and selling ads to agents, while Etsy and Expedia have partnered with AI firms, but it is unclear whether the agentic web stays open or narrows to a few dominant platforms.
+
+### Global pick: When you should—and shouldn’t—use AI to search the web
+Wired | https://www.wired.com/story/when-you-should-and-shouldnt-use-ai-to-search-the-web/
+
+• AI chatbots like Claude, ChatGPT, and Gemini now combine traditional web search with training data, formatting results in a polished generative AI style.
+
+• AI search works well for simple, widely known lookups and complex queries that require combining multiple sources, like finding family restaurants in San Francisco under $200.
+
+• Stanford research found AI is good at extracting information from accurate sources but often fails to find them and presents a confident answer anyway.
+
+• For precise details, breaking news, or high-stakes searches on health, law, or finances, traditional Google search gives more control over sources and accuracy.
 
 ============================================================
 
@@ -345,7 +446,7 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 - ~
   02 Nov 2026 | https://www.tradingview.com/news/moodys:f022dd35a0ffe:0-engineers-india-shares-jump-15-after-q2-order-book-hits-record-high-stock-up-35-in-2026-is-more-upside-ahead/
-  ## What the sector does ¶ • Engineering and consultancy services for oil, gas, petrochemical and infrastructure projects, sold to state refiners, pipeline operators and government bodies. ¶ • Revenue comes from consultancy fees and turnkey contracts; costs are mostly employee and subcontracted project expenses, so margins depend on order mix and execution. ¶ ## What the company does ¶ • Engineers India is a government-controlled central public sector enterprise under the Ministry of Petroleum and Natural Gas, providing engineering consultancy and turnkey project execution. ¶ • It earns from consultancy and engineering projects plus turnkey contracts, serving oil and gas, petrochemical, energy transition and infrastructure clients in India and overseas. ¶ ## Why it moved today ¶ • The stock jumped 15% on 2 November after Q2 FY27 net profit rose 56% year-on-year to ₹180 crore and the order book hit a record ₹20,421 crore, according to Mint. ¶ • ICICI Securities noted the company met its full-year FY27 order inflow guidance of ₹8,000 crore within H1 itself and raised the guidance, with consultancy making up 75% of the order book. ¶ ## The numbers (Screener) ¶ • Stock trades at a P/E of 18.1 with book value of ₹59.4, ROCE of 30.4%, ROE of 23.4% and dividend yield of 1.73%, per Screener data. ¶ • September 2026 quarter sales were ₹824 crore, down 10.5% year-on-year, while net profit rose 135.6% to ₹197 crore and operating margin expanded to 21%. ¶ ## What the numbers say ¶ • At a P/E of 18.1, the stock is cheaper than Larsen & Toubro (28.7), NBCC (30.0) and the peer median of 14.5, while its ROCE of 30.4% is well above the peer median of 16.1%. ¶ • September quarter sales fell 10.5% year-on-year and 0.5% sequentially, but net profit rose 135.6% year-on-year on margin expansion, so the 15% move reflects profit and order book strength rather than revenue growth. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:f022dd35a0ffe:0-engineers-india-shares-jump-15-after-q2-order-book-hits-record-high-stock-up-35-in-2026-is-more-upside-ahead/ ;; simplywall.st|https://simplywall.st/stocks/in/capital-goods/nse-enginersin/engineers-india-shares/news/is-it-worth-considering-engineers-india-limited-nseenginersi-2 ;; business-standard.com|https://www.business-standard.com/markets/news/psu-cpse-stocks-in-demand-iti-engineers-india-zoom-up-to-19-here-s-why-126110200309_1.html
+  ## What the sector does ¶ • Engineering and consultancy services for oil, gas, petrochemicals and infrastructure, sold to state refiners, pipeline operators and project owners on fee or turnkey contracts. ¶ • Revenue comes from consultancy fees and lump-sum turnkey execution; costs are mainly employee expenses and subcontracted work, so margins swing with project mix and execution speed. ¶ ## What the company does ¶ • Engineers India is a government-controlled public sector company under the Ministry of Petroleum and Natural Gas, providing design, engineering and consultancy services and turnkey project execution. ¶ • It earns from consultancy fees and turnkey contracts for refineries, pipelines and energy-transition projects, with a market cap of ₹16,280 crore and a record order book of ₹20,421 crore as of 30 September 2026. ¶ ## Why it moved today ¶ • The stock rose 15% on 2 November after Engineers India reported a 56% year-on-year rise in September-quarter net profit to ₹180 crore and a record order book of ₹20,421 crore. ¶ • Fresh orders of ₹7,428 crore in the first half of FY27, including ₹5,762 crore from consultancy, and EBITDA margin expanding to 27% from 19% sequentially supported the move. ¶ ## The numbers (Screener) ¶ • Stock trades at a P/E of 18.1 and 4.9 times book value of ₹59.4, with ROCE of 30.4% and ROE of 23.4%, and a dividend yield of 1.73%. ¶ • September 2026 quarter sales were ₹824 crore, down 10.5% year on year, while net profit rose 135.6% to ₹197 crore and operating margin was 21%. ¶ ## What the numbers say ¶ • Against peers like Larsen & Toubro (P/E 28.7), Rail Vikas (43.1) and NBCC (30.0), Engineers India's P/E of 18.1 is below the peer set, while its ROCE of 30.4% is above the peer median of 16.1%. ¶ • The September quarter profit jump came on a 10.5% sales decline, so the 15% move reflects record order book and margin recovery rather than revenue growth, which has been weak at 4.55% over five years. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:f022dd35a0ffe:0-engineers-india-shares-jump-15-after-q2-order-book-hits-record-high-stock-up-35-in-2026-is-more-upside-ahead/ ;; simplywall.st|https://simplywall.st/stocks/in/capital-goods/nse-enginersin/engineers-india-shares/news/is-it-worth-considering-engineers-india-limited-nseenginersi-2 ;; businesstoday.in|https://www.businesstoday.in/markets/stocks/story/engineers-india-gail-zensar-motherson-sumi-wiring-delhivery-shares-target-prices-565274-2026-11-03
 
 [[Top Losers]]
 
