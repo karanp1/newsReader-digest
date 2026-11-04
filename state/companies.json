@@ -60,7 +60,7 @@
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-31"
+  "last_mentioned": "2026-11-04"
  },
  "olaelectric": {
   "name": "Ola Electric",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-04"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -3273,7 +3273,7 @@
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-04"
  },
  "gartner": {
   "name": "Gartner",
@@ -5037,7 +5037,7 @@
   "sector": "Banking",
   "description": "Indian private bank, a peer to IDBI Bank.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-11-04"
  },
  "statebankofindia": {
   "name": "State Bank of India",
@@ -5394,7 +5394,7 @@
   "sector": "Jewellery retail",
   "description": "Runs retail jewellery stores across Tamil Nadu selling gold, silver, diamonds and platinum, with in-house manufacturing units.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-11-04"
  },
  "cclproducts": {
   "name": "CCL Products",
@@ -9671,7 +9671,7 @@
   "sector": "Design software",
   "description": "Design platform that launched Canva Craft, its first in-house image generation model.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-04"
  },
  "cci": {
   "name": "CCI",
@@ -13115,7 +13115,7 @@
   "sector": "Power",
   "description": "Indian state-owned hydropower producer; cited as a peer comparison for Vedanta Power.",
   "first_added": "2026-10-30",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-04"
  },
  "ntpcgreen": {
   "name": "NTPC Green",
@@ -14570,6 +14570,48 @@
   "name": "JS Auto Cast",
   "sector": "Auto components",
   "description": "Bharat Forge subsidiary; received a Rs 300 crore investment from Premji Invest.",
+  "first_added": "2026-11-04",
+  "last_mentioned": "2026-11-04"
+ },
+ "mtngroup": {
+  "name": "MTN Group",
+  "sector": "Telecom",
+  "description": "South African telecom operator; talks with Jio broke down over valuation and licensing.",
+  "first_added": "2026-11-04",
+  "last_mentioned": "2026-11-04"
+ },
+ "deutschebank": {
+  "name": "Deutsche Bank",
+  "sector": "Banking",
+  "description": "German bank selling its India retail, private banking and wealth management business to Kotak.",
+  "first_added": "2026-11-04",
+  "last_mentioned": "2026-11-04"
+ },
+ "essarrenewables": {
+  "name": "Essar Renewables",
+  "sector": "Renewable energy",
+  "description": "Signs PPA with NHPC for a 300 MW firm and dispatchable renewable project in Andhra Pradesh.",
+  "first_added": "2026-11-04",
+  "last_mentioned": "2026-11-04"
+ },
+ "hegadvancedmaterials": {
+  "name": "Heg Advanced Materials",
+  "sector": "Advanced materials",
+  "description": "Runs graphite electrode, anode materials and green power businesses; Q2 revenue rose 144%.",
+  "first_added": "2026-11-04",
+  "last_mentioned": "2026-11-04"
+ },
+ "fractalanalytics": {
+  "name": "Fractal Analytics",
+  "sector": "AI analytics",
+  "description": "Analytics and AI solutions provider; Q2 net profit more than doubled as revenue crossed $100 million.",
+  "first_added": "2026-11-04",
+  "last_mentioned": "2026-11-04"
+ },
+ "multicommodityexchange": {
+  "name": "Multi Commodity Exchange",
+  "sector": "Commodity exchange",
+  "description": "India's largest commodity derivatives exchange; shares fell despite 130% profit growth.",
   "first_added": "2026-11-04",
   "last_mentioned": "2026-11-04"
  }
