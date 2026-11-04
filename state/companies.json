@@ -74,7 +74,7 @@
   "sector": "Fintech",
   "description": "Payments and banking platform for businesses; partnered with OpenAI for ChatGPT advertising in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-04"
  },
  "openai": {
   "name": "OpenAI",
@@ -130,7 +130,7 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-04"
  },
  "starlink": {
   "name": "Starlink",
@@ -515,7 +515,7 @@
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-04"
  },
  "godigit": {
   "name": "Go Digit",
@@ -858,7 +858,7 @@
   "sector": "AI semiconductors",
   "description": "Startup developing AI semiconductor technology.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-04"
  },
  "wipro": {
   "name": "Wipro",
@@ -3266,7 +3266,7 @@
   "sector": "Insurance",
   "description": "General insurance company; mentioned in the watchlist context.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-04"
  },
  "relianceintelligence": {
   "name": "Reliance Intelligence",
@@ -3469,7 +3469,7 @@
   "sector": "Food delivery",
   "description": "Food delivery and quick commerce platform; ran drone delivery trials in 2021 and 2022.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-04"
  },
  "cdot": {
   "name": "C-DoT",
@@ -5681,7 +5681,7 @@
   "sector": "Investment",
   "description": "Invested Rs 90 crore in MakeO, parent of Toothsi.",
   "first_added": "2026-10-18",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-11-04"
  },
  "capgrid": {
   "name": "CapGrid",
@@ -9860,7 +9860,7 @@
   "sector": "Ride hailing",
   "description": "Global ride-hailing and delivery platform expanding an AI agent to over 30,000 employees.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-04"
  },
  "rescale": {
   "name": "Rescale",
@@ -14270,7 +14270,7 @@
   "sector": "Ride-hailing",
   "description": "Indian bike-taxi and ride-hailing platform whose annualised gross order value hit $4 billion.",
   "first_added": "2026-11-03",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-04"
  },
  "mobikwik": {
   "name": "MobiKwik",
@@ -14507,6 +14507,69 @@
   "name": "Hg",
   "sector": "Private equity",
   "description": "Private equity firm partnering with Anthropic on a London and Berlin AI consultancy by end-2026.",
+  "first_added": "2026-11-04",
+  "last_mentioned": "2026-11-04"
+ },
+ "giva": {
+  "name": "Giva",
+  "sector": "Jewellery",
+  "description": "Indian fine jewellery brand; raised over $100 million led by Multiples Alternate Asset Management to expand retail.",
+  "first_added": "2026-11-04",
+  "last_mentioned": "2026-11-04"
+ },
+ "multiplesalternateassetmanagement": {
+  "name": "Multiples Alternate Asset Management",
+  "sector": "Private equity",
+  "description": "Indian private equity firm; led a $100 million-plus funding round in jewellery brand Giva.",
+  "first_added": "2026-11-04",
+  "last_mentioned": "2026-11-04"
+ },
+ "peakxvpartners": {
+  "name": "Peak XV Partners",
+  "sector": "Venture capital",
+  "description": "Investor leading a $108-110 million round in AI chip startup Agrani Labs.",
+  "first_added": "2026-11-04",
+  "last_mentioned": "2026-11-04"
+ },
+ "samsungventures": {
+  "name": "Samsung Ventures",
+  "sector": "Venture capital",
+  "description": "Investment arm of Samsung; expected to participate in Agrani Labs' funding round.",
+  "first_added": "2026-11-04",
+  "last_mentioned": "2026-11-04"
+ },
+ "premjiinvest": {
+  "name": "Premji Invest",
+  "sector": "Investment firm",
+  "description": "Indian investment firm; in talks to back defence electronics maker Sanlayan and aerospace components manufacturer Hical.",
+  "first_added": "2026-11-04",
+  "last_mentioned": "2026-11-04"
+ },
+ "sanlayantechnologies": {
+  "name": "Sanlayan Technologies",
+  "sector": "Defence electronics",
+  "description": "Bengaluru-based defence electronics maker; in talks for a $30-40 million round at about a $200 million valuation.",
+  "first_added": "2026-11-04",
+  "last_mentioned": "2026-11-04"
+ },
+ "hicaltechnologies": {
+  "name": "Hical Technologies",
+  "sector": "Aerospace components",
+  "description": "Indian aerospace components manufacturer; in advanced talks for a first institutional $30-40 million fundraise.",
+  "first_added": "2026-11-04",
+  "last_mentioned": "2026-11-04"
+ },
+ "tvscapital": {
+  "name": "TVS Capital",
+  "sector": "Private equity",
+  "description": "Investor in advanced talks to join Hical Technologies' first institutional fundraise.",
+  "first_added": "2026-11-04",
+  "last_mentioned": "2026-11-04"
+ },
+ "jsautocast": {
+  "name": "JS Auto Cast",
+  "sector": "Auto components",
+  "description": "Bharat Forge subsidiary; received a Rs 300 crore investment from Premji Invest.",
   "first_added": "2026-11-04",
   "last_mentioned": "2026-11-04"
  }
