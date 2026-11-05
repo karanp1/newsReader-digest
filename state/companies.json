@@ -8642,7 +8642,7 @@
   "sector": "Executive",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-11-05"
  },
  "vladimirputin": {
   "name": "Vladimir Putin",
@@ -15277,6 +15277,41 @@
   "name": "Eternal Foundation",
   "sector": "Philanthropy",
   "description": "Runs Blinkit's ambulance service and will receive the non-emergency transfer fees.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "trumpmedia": {
+  "name": "Trump Media",
+  "sector": "Media technology",
+  "description": "Trump's media company; moved 4,259 Bitcoin worth $343.67 million to Crypto.com as collateral for convertible notes.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "cryptocom": {
+  "name": "Crypto.com",
+  "sector": "Cryptocurrency exchange",
+  "description": "Crypto exchange that received 4,259 Bitcoin from Trump Media as collateral for $1 billion in convertible notes.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "cumminsindia": {
+  "name": "Cummins India",
+  "sector": "Industrial engines",
+  "description": "Engine and power equipment maker; shares fell over 14% after Q2 net profit dropped 19% and margins narrowed.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "physicswallah": {
+  "name": "PhysicsWallah",
+  "sector": "Edtech",
+  "description": "Education technology company whose shares jumped 9% as profit doubled.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "americapac": {
+  "name": "America PAC",
+  "sector": "Political fundraising",
+  "description": "Elon Musk's political action committee; spent over $400 million and lost nearly every decided race it backed.",
   "first_added": "2026-11-05",
   "last_mentioned": "2026-11-05"
  }
