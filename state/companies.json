@@ -200,7 +200,7 @@
   "sector": "E-commerce",
   "description": "Online fashion retailer owned by Flipkart; former CEO Mukesh Bansal among ESOP petitioners.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-11-05"
  },
  "accel": {
   "name": "Accel",
@@ -662,7 +662,7 @@
   "sector": "IT services",
   "description": "Issued a Rs 1,537 crore Letter of Intent to Tejas for BSNL 4G RAN equipment.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-05"
  },
  "blinkit": {
   "name": "Blinkit",
@@ -732,7 +732,7 @@
   "sector": "Housing finance",
   "description": "Peer comparison for LIC Housing; trades at 25.46 times earnings.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-11-05"
  },
  "aadharhousingfinance": {
   "name": "Aadhar Housing Finance",
@@ -809,7 +809,7 @@
   "sector": "Consumer electronics",
   "description": "Smartphone brand offering the X8 Pro Max 5G in Flipkart's Big Billion Days sale.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-11-05"
  },
  "realme": {
   "name": "Realme",
@@ -1348,7 +1348,7 @@
   "sector": "Consumer electronics",
   "description": "iPhone and MacBook maker; discounts on MacBook Neo offered during Flipkart's sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-05"
  },
  "icicibank": {
   "name": "ICICI Bank",
@@ -3336,7 +3336,7 @@
   "sector": "Automotive",
   "description": "Automaker; deepened partnership with Stellantis to develop global vehicles in India.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "stellantis": {
   "name": "Stellantis",
@@ -4407,7 +4407,7 @@
   "sector": "Media",
   "description": "Indian financial news outlet reporting on Bank of Baroda's lawsuit and Meesho's fall.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-05"
  },
  "cnbctv18": {
   "name": "CNBC TV18",
@@ -4582,28 +4582,28 @@
   "sector": "Social media",
   "description": "Professional network where CNBC TV18 posted about Aegis Logistics' gain.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-05"
  },
  "scanx": {
   "name": "ScanX",
   "sector": "Financial data",
   "description": "Market news platform carrying Elecon, Meesho and Info Edge coverage.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-05"
  },
  "gulfnews": {
   "name": "Gulf News",
   "sector": "Media",
   "description": "Dubai newspaper reporting Tristar Group's agreement with Aegis Logistics.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-11-05"
  },
  "livemint": {
   "name": "LiveMint",
   "sector": "Media",
   "description": "Indian business newspaper covering BR Shetty's lawsuit against Bank of Baroda.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-05"
  },
  "startupfortune": {
   "name": "StartupFortune",
@@ -5093,7 +5093,7 @@
   "sector": "Retail",
   "description": "Indian supermarket chain operated by Avenue Supermarts.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-05"
  },
  "indianairforce": {
   "name": "Indian Air Force",
@@ -7046,7 +7046,7 @@
   "sector": "Cybersecurity",
   "description": "India's national computer emergency response team; issued an advisory on AI agent threats.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-05"
  },
  "humantechnologyinstitute": {
   "name": "Human Technology Institute",
@@ -7424,7 +7424,7 @@
   "sector": "Media",
   "description": "Indian news and web portal publishing business reports.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-05"
  },
  "wirecable": {
   "name": "Wirecable",
@@ -7830,7 +7830,7 @@
   "sector": "News",
   "description": "Indian construction and infrastructure news outlet.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-05"
  },
  "bbc": {
   "name": "BBC",
@@ -10056,7 +10056,7 @@
   "sector": "Government",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-05"
  },
  "tamilnaduassociationofcottageandtinyenterprises": {
   "name": "Tamil Nadu Association of Cottage and Tiny Enterprises",
@@ -10595,7 +10595,7 @@
   "sector": "Technology",
   "description": "German engineering group whose software arm incubated AIShield.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-05"
  },
  "generalcatalystpartners": {
   "name": "General Catalyst Partners",
@@ -10833,7 +10833,7 @@
   "sector": "Media",
   "description": "Indian marketing news site cited in today's digest.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-05"
  },
  "the420": {
   "name": "The420",
@@ -10847,7 +10847,7 @@
   "sector": "Media",
   "description": "Indian real estate news site cited in today's digest.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-05"
  },
  "briefs": {
   "name": "Briefs.co",
@@ -11008,7 +11008,7 @@
   "sector": "Agritech",
   "description": "Bayer's agricultural unit; built an agentic decision engine on Amazon Bedrock AgentCore.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-05"
  },
  "chrobinson": {
   "name": "C.H. Robinson",
@@ -11036,7 +11036,7 @@
   "sector": "Automotive",
   "description": "India's largest carmaker; Q2 profit fell 27% on West Asia headwinds though sales rose 26.5%.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-05"
  },
  "amgreen": {
   "name": "AM Green",
@@ -11953,7 +11953,7 @@
   "sector": "Media",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-05"
  },
  "mediaindia": {
   "name": "Media India",
@@ -11988,7 +11988,7 @@
   "sector": "Media",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-05"
  },
  "investywise": {
   "name": "Investywise",
@@ -15004,6 +15004,279 @@
   "name": "BharatPe",
   "sector": "Fintech",
   "description": "Indian fintech firm that appointed former Bajaj Finance executive Mohit Mittal as head of investments.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "unominda": {
+  "name": "Uno Minda",
+  "sector": "Auto components",
+  "description": "Manesar-based Tier-1 auto parts maker; Q2 profit rose 38% and the board approved sunroof capacity expansion.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "ashokleyland": {
+  "name": "Ashok Leyland",
+  "sector": "Commercial vehicles",
+  "description": "Hinduja group's truck and bus maker; shares jumped 10.67% as crude fell and October sales rose 23%.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "piindustries": {
+  "name": "PI Industries",
+  "sector": "Agrochemicals",
+  "description": "Agrochemical custom synthesis and manufacturing player; shares fell 19.61% on weak Q2 results.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "aptusvaluehousingfinanceindia": {
+  "name": "Aptus Value Housing Finance India",
+  "sector": "Housing finance",
+  "description": "Lends to self-employed, low and middle income families for first homes in semi-urban and rural areas.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "americanbitcoin": {
+  "name": "American Bitcoin",
+  "sector": "Crypto mining",
+  "description": "Bitcoin miner; posted about $126 million in Q3 net income on a paper gain on bitcoin holdings.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "marapool": {
+  "name": "MARA Pool",
+  "sector": "Crypto mining",
+  "description": "Bitcoin mining pool; began producing BIP-54-compatible coinbase transactions on mainnet.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "viabtc": {
+  "name": "ViaBTC",
+  "sector": "Crypto mining",
+  "description": "Bitcoin mining pool; began producing BIP-54-compatible coinbase transactions on mainnet.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "reliancecommunications": {
+  "name": "Reliance Communications",
+  "sector": "Telecom",
+  "description": "Anil Ambani group telecom firm; ED attached Rs 510.17 crore tied to alleged bank fraud.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "reliancehomefinance": {
+  "name": "Reliance Home Finance",
+  "sector": "Housing finance",
+  "description": "Anil Ambani group lender; ED attached assets tied to alleged bank fraud.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "reliancecommercialfinance": {
+  "name": "Reliance Commercial Finance",
+  "sector": "Financial services",
+  "description": "Anil Ambani group lender; ED attached assets tied to alleged bank fraud.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "idioticmedia": {
+  "name": "Idiotic Media",
+  "sector": "Marketing",
+  "description": "Marketing agency; ran Flipkart's Diwali campaign with 768 creators generating 254 million video views.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "intel": {
+  "name": "Intel",
+  "sector": "Semiconductors",
+  "description": "US chipmaker; its Core Series 3 AI laptops are featured in Flipkart's Big Bang Diwali Sale.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "sonablw": {
+  "name": "Sona BLW",
+  "sector": "Auto components",
+  "description": "Auto components maker cited as a valuation peer to Uno Minda.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "schaeffler": {
+  "name": "Schaeffler",
+  "sector": "Industrial components",
+  "description": "Industrial and automotive components maker cited as a peer in Uno Minda's comparison table.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "upl": {
+  "name": "UPL",
+  "sector": "Agrochemicals",
+  "description": "Indian agrochemicals company cited as a valuation peer to PI Industries.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "sumitomochemical": {
+  "name": "Sumitomo Chemical",
+  "sector": "Chemicals",
+  "description": "Japanese chemicals company cited as a peer in PI Industries' comparison table.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "lichousing": {
+  "name": "LIC Housing",
+  "sector": "Housing finance",
+  "description": "Indian housing finance company cited as a larger peer to Aptus Value Housing Finance.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "homefirst": {
+  "name": "Home First",
+  "sector": "Housing finance",
+  "description": "Indian housing finance company cited as a peer to Aptus Value Housing Finance.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "piramal": {
+  "name": "Piramal",
+  "sector": "Financial services",
+  "description": "Indian financial services group cited as a peer in Aptus Value Housing Finance's comparison.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "mahindra": {
+  "name": "Mahindra",
+  "sector": "Automotive",
+  "description": "Indian automaker cited as a valuation peer in Ashok Leyland's comparison table.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "kpmg": {
+  "name": "KPMG",
+  "sector": "Professional services",
+  "description": "Audit and advisory firm; scrutinised the judging process for the Asia Insurance Industry Awards.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "icicidirect": {
+  "name": "ICICI Direct",
+  "sector": "Broking",
+  "description": "Indian brokerage; set a buying range for Info Edge and picked HAL as a technical stock.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "religarebroking": {
+  "name": "Religare Broking",
+  "sector": "Broking",
+  "description": "Indian brokerage; recommended buying HAL with a target of Rs 5,470.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "lkpsecurities": {
+  "name": "LKP Securities",
+  "sector": "Broking",
+  "description": "Indian brokerage; recommended buying HAL around Rs 5,075 with a target of Rs 5,400.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "axisdirect": {
+  "name": "Axis Direct",
+  "sector": "Broking",
+  "description": "Axis Bank's broking arm; selected HAL as a technical pick for Samvat 2083.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "telecomtalk": {
+  "name": "TelecomTalk",
+  "sector": "News",
+  "description": "Indian telecom news site; compared iPhone 17 Diwali deals on Flipkart and Amazon.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "mediabrief": {
+  "name": "MediaBrief",
+  "sector": "News",
+  "description": "Indian media news site; reported Dermis Oracle's online expansion.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "telenet": {
+  "name": "Tele.net",
+  "sector": "News",
+  "description": "Indian telecom news site; reported S&P affirming Reliance's rating.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "passionateinmarketing": {
+  "name": "Passionate in Marketing",
+  "sector": "News",
+  "description": "Marketing news site; reported Digit Insurance's AIIA award win.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "telecomtv": {
+  "name": "TelecomTV",
+  "sector": "News",
+  "description": "Telecom news site; reported Jio's talks with Comcast and Charter.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "investingnews": {
+  "name": "Investing News",
+  "sector": "News",
+  "description": "Commodities news site; reported gold climbing after the Democratic midterm win.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "newsable": {
+  "name": "Newsable",
+  "sector": "News",
+  "description": "Asianet news site; published a guide on the best time to shop at DMart for Diwali.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "realtyeconomictimes": {
+  "name": "Realty Economic Times",
+  "sector": "News",
+  "description": "Indian real estate news site; reported Aptus Value Housing Finance's Q2 profit.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "aerb": {
+  "name": "AERB",
+  "sector": "Regulator",
+  "description": "India's atomic energy regulator; said it will enable private nuclear participation without diluting safety.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "worldbank": {
+  "name": "World Bank",
+  "sector": "Development finance",
+  "description": "Multilateral lender; estimated 496 million people left extreme poverty between 2011 and 2023.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "wipo": {
+  "name": "WIPO",
+  "sector": "Regulator",
+  "description": "UN intellectual property agency; its panelist ruled Reliance attempted reverse domain name hijacking.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "realtimegovernancesociety": {
+  "name": "Real Time Governance Society",
+  "sector": "Government",
+  "description": "Andhra Pradesh government body credited with cutting cyclone casualties through technology.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "otw": {
+  "name": "OTW",
+  "sector": "Nonprofit",
+  "description": "Organization for Transformative Works, which runs Archive of Our Own; said no data was lost.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "eternalfoundation": {
+  "name": "Eternal Foundation",
+  "sector": "Philanthropy",
+  "description": "Runs Blinkit's ambulance service and will receive the non-emergency transfer fees.",
   "first_added": "2026-11-05",
   "last_mentioned": "2026-11-05"
  }
