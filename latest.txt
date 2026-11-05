@@ -1,10 +1,10 @@
-DAILY NEWS DIGEST — 2026-11-04
+DAILY NEWS DIGEST — 2026-11-05
 METRICS
-NIFTY PE | 19.71 | 3 Nov 2026 | https://nifty-pe-ratio.com/
-Gold per 10g 24K | ₹1,42,800 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
+NIFTY PE | 19.77 | 4 Nov 2026 | https://nifty-pe-ratio.com/
+Gold per 10g 24K | ₹1,42,810 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 23,960.60 (+4.46%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹74,27,006 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $78,420 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹76,14,297 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $80,740 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -12,12 +12,12 @@ SOURCE 6: Watchlist (headlines + summary)
 [Jio Platforms]
 
 - ~
-  03 Nov 2026 | https://m.economictimes.com/industry/telecom/telecom-news/mukesh-ambanis-jio-platforms-explores-tech-for-equity-talks-with-comcast-and-charter-reliance-industries/articleshow/135512312.cms
-  • Jio Platforms held talks with Comcast and Charter about licensing its wireless broadband technology in exchange for potential stakes in the US cable operators. ¶ • Talks with South Africa's MTN Group broke down over valuation and licensing issues, with no timetable set for any deal with the other parties. ¶ • Jio is targeting 10 to 15 global partners for its unlicensed band radio (UBR) technology, which beams internet over free Wi-Fi frequencies without cables to homes. ¶ • Jio Platforms reported Q2 FY27 net profit of ₹8,387 crore, up 13.7% from ₹7,375 crore a year ago, with 542.4 million subscribers after 9.1 million net additions. ¶ • S&P affirmed Reliance Industries' 'A-' rating with a stable outlook, projecting digital services EBITDA growth of 12-14% and adjusted debt-to-EBITDA of about 1.6 times in FY27. ¶ ↗ m.economictimes.com|https://m.economictimes.com/industry/telecom/telecom-news/mukesh-ambanis-jio-platforms-explores-tech-for-equity-talks-with-comcast-and-charter-reliance-industries/articleshow/135512312.cms ;; lufkindailynews.com|https://lufkindailynews.com/news_reuters/business/exclusive-ambanis-jio-explores-tech-for-equity-talks-with-comcast-and-charter-sources-say/article_92f58841-52d2-5968-85c1-fb17b908dfcd.html ;; inc42.com|https://inc42.com/buzz/jio-in-talks-with-us-based-comcast-charter-to-license-broadband-technology-report/ ;; tradingview.com|https://www.tradingview.com/news/moodys:e368e40e479b8:0-how-jio-is-unlocking-hidden-value-for-reliance-shareholders/
+  04 Nov 2026 | https://inc42.com/buzz/jio-in-talks-with-us-based-comcast-charter-to-license-broadband-technology-report/
+  • Jio Platforms is in talks with US cable operators Comcast and Charter Communications to license its unlicensed band radio (UBR) broadband technology in exchange for potential equity stakes. ¶ • Jio targets 10-15 global partners for its UBR technology, which beams high-speed internet to buildings over free unlicensed Wi-Fi frequencies without cables to individual homes. ¶ • Talks with South Africa's MTN Group collapsed over disagreement on valuation and certain licensing terms, with no timetable set for any agreement with Comcast or Charter. ¶ • Jio Platforms reported Q2 FY27 net profit of ₹8,387 crore, up 13.7% from ₹7,375 crore a year earlier, and net customer additions of 9.1 million to 542.4 million subscribers. ¶ • S&P affirmed Reliance Industries' 'A-' rating with a stable outlook, citing the Jio Platforms listing that raised about ₹30,000 crore in fresh capital and projected digital services EBITDA growth of 12-14% in FY27. ¶ ↗ inc42.com|https://inc42.com/buzz/jio-in-talks-with-us-based-comcast-charter-to-license-broadband-technology-report/ ;; finance.biggo.com|https://finance.biggo.com/news/555aeaa2-96d1-4d0f-8fd0-7b4d15dfd860 ;; news.ventureintelligence.com|https://news.ventureintelligence.com/private-equity/jio-platforms-explores-tech-for-equity-talks-with-comcast,-charter:-report ;; tradingview.com|https://www.tradingview.com/news/moodys:e368e40e479b8:0-how-jio-is-unlocking-hidden-value-for-reliance-shareholders/
 
 - Outlook: Bullish
-  2026-11-04 |
-  §VIEW§{"stance": "bullish", "text": "US licensing talks with Comcast and Charter open a new revenue route, while Q2 profit rose 13.7% and S&P affirmed RIL's 'A-' rating on digital growth. The MTN breakdown shows deal execution risk."}
+  2026-11-05 |
+  §VIEW§{"stance": "bullish", "text": "The news flow is bullish: 13.7% profit growth, 9.1 million net subscriber additions to 542.4 million, and UBR licensing talks with Comcast and Charter open an overseas path. MTN talks failing shows Jio will not compromise on valuation."}
 
 [Reliance Intelligence]
 
@@ -25,53 +25,48 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   04 Nov 2026 | https://www.tradingview.com/news/moodys:8c9dc40e2c989:0-reliance-industries-shares-another-record-ril-biggest-on-mtf-book-with-60-jump-dethrones-hdfc-bank-buy-or-sell/
-  • Reliance Industries posted Q2 FY27 consolidated PAT of ₹29,550 crore, up 33.8% year-on-year, with revenue up 27.8% to ₹3,62,268 crore and record EBITDA of ₹62,409 crore. ¶ • The stock surged nearly 11.6% on November 2, its biggest single-day gain in six years, closing above its 20, 50 and 100-day moving averages. ¶ • Reliance became the most exposed stock in the NSE Margin Trading Facility book, with exposure jumping 60% to ₹4,711 crore as of November 2, overtaking HDFC Bank. ¶ • S&P affirmed Reliance's 'A-' credit rating with a stable outlook, projecting FY27 consolidated EBITDA of ₹2.15 trillion to ₹2.25 trillion, up 19-23%. ¶ • All 33 analysts tracking the stock now rate it a buy, with consensus targets implying 21% upside, while Motilal Oswal set a target of ₹1,520. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:8c9dc40e2c989:0-reliance-industries-shares-another-record-ril-biggest-on-mtf-book-with-60-jump-dethrones-hdfc-bank-buy-or-sell/ ;; business-standard.com|https://www.business-standard.com/companies/news/s-p-affirms-reliance-industries-a-credit-rating-cites-jio-listing-stronger-earnings-126110400770_1.html ;; tradingview.com|https://www.tradingview.com/news/cnbctv:4dc8dadaf094b:0/ ;; urbanacres.in|https://urbanacres.in/reliance-industries-credit-rating-holds-as-ai-infrastructure-spending-rises/
+  • Reliance Industries filed a cybersquatting dispute over jiolat.com that a WIPO panelist ruled was reverse domain name hijacking, citing the company's failure to disclose a 2010 trademark opposition. ¶ • S&P affirmed RIL's 'A-' credit rating with a stable outlook, projecting consolidated EBITDA to grow 19-23% to ₹2.15-2.25 trillion in FY27. ¶ • RIL's Q2 FY27 profit after tax rose 33.8% year-on-year to ₹29,550 crore, with revenue up 27.8% to ₹3,62,268 crore and EBITDA up 23.9% to a record ₹62,409 crore. ¶ • Reliance's MTF exposure jumped 60% to ₹4,711 crore, overtaking HDFC Bank as the most-held stock in the margin trading book. ¶ • Deven Choksey of DRChoksey Finserv expects RIL EBITDA of ₹2.6-2.7 lakh crore in FY27, driven by strong refining margins and Jio Platforms' growing contribution. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:8c9dc40e2c989:0-reliance-industries-shares-another-record-ril-biggest-on-mtf-book-with-60-jump-dethrones-hdfc-bank-buy-or-sell/ ;; domainnamewire.com|https://domainnamewire.com/2026/11/04/indias-biggest-public-company-tries-to-reverse-hijack-domain-name/ ;; business-standard.com|https://www.business-standard.com/companies/news/s-p-affirms-reliance-industries-a-credit-rating-cites-jio-listing-stronger-earnings-126110400770_1.html ;; cnbctv18.com|https://www.cnbctv18.com/market/reliance-industries-share-price-outlook-jio-platforms-marico-hul-nestle-fmcg-deven-choksey-alpha-article-20026583.htm
 
 - Outlook: Bullish
-  2026-11-04 |
-  §VIEW§{"stance": "bullish", "text": "Record Q2 earnings, a 60% jump in MTF exposure and S&P's affirmed rating with 19-23% FY27 EBITDA growth point to strong momentum. The main risk is elevated capex of Rs 1.4-1.5 trillion, which S&P expects leverage to absorb."}
+  2026-11-05 |
+  §VIEW§{"stance": "bullish", "text": "Strong Q2 earnings, S&P's affirmed rating and Jio's listing support the bullish case. The reverse hijacking ruling is a minor reputational knock but does not dent the earnings-driven momentum."}
 
 [Flipkart]
 
 - ~
-  04 Nov 2026 | https://www.mymobileindia.com/motorola-signature-edge-70-and-moto-g-phones-get-festive-deals-on-flipkart/
-  • Flipkart is running its Big Bang Diwali sale with Motorola discounts, weeks after the Big Billion Days sale ended, and no confirmed end date. ¶ • Motorola Signature flagship is discounted to ₹57,249 for 12GB+256GB on Flipkart, from an original ₹74,999. ¶ • Moto Edge 70 Max sells at ₹51,999 for 8GB+256GB, with the Edge 70 Pro+ at ₹44,999 and Edge 70 Pro at ₹36,999. ¶ • Moto G77 Power is priced at ₹19,999 for 4GB+128GB, while the Moto G06 Power starts at ₹12,999. ¶ • Buyers can stack up to 10% bank card discounts, exchange offers up to ₹10,000, and no-cost EMI for 3, 6 or 12 months. ¶ ↗ mymobileindia.com|https://www.mymobileindia.com/motorola-signature-edge-70-and-moto-g-phones-get-festive-deals-on-flipkart/ ;; 91mobiles.com|https://www.91mobiles.com/hub/motorola-flipkart-big-bang-diwali-sale-deals-revealed/
+  05 Nov 2026 | https://www.auroradesio.it/top/248553232/
+  • Flipkart's Big Bang Diwali sale is live, with Motorola offering festive prices on smartphones starting at ₹12,999. ¶ • Motorola Signature 12GB+256GB is priced at ₹57,249 on Flipkart, down from its original ₹74,999. ¶ • Motorola Edge 70 Pro 8GB+256GB is available for ₹36,999, while the Edge 70 Max 8GB+256GB costs ₹51,999. ¶ • Lenovo IdeaPad Slim 5 14IMH10 gets a ₹30,100 discount on Flipkart, selling for ₹1,19,900; SBI card users save an extra ₹12,750. ¶ • Flipkart Minutes is nearing Blinkit on order values, gaining an edge through electronics, according to a report. ¶ ↗ 91mobiles.com|https://www.91mobiles.com/hub/motorola-flipkart-big-bang-diwali-sale-deals-revealed/ ;; mymobileindia.com|https://www.mymobileindia.com/motorola-signature-edge-70-and-moto-g-phones-get-festive-deals-on-flipkart/ ;; indianretailer.com|https://indianretailer.com/news/flipkart-minutes-nears-blinkit-order-values-gains-edge-through-electronics ;; digit.in|https://www.digit.in/news/laptops/lenovo-ideapad-slim-5-14imh10-available-with-over-rs-30000-discount-during-flipkart-diwali-sale-check-details.html
 
-- Outlook: Neutral
-  2026-11-04 |
-  §VIEW§{"stance": "neutral", "text": "Motorola's festive discounts across flagship, mid-range and budget phones widen Flipkart's festive catalogue and pull in bank and exchange offers. But the news is brand-led discounting, not Flipkart-specific demand or margin data, so the read stays split."}
+- Outlook: Bullish
+  2026-11-05 |
+  §VIEW§{"stance": "bullish", "text": "Flipkart's festive sale with deep discounts across smartphones and laptops drives order value and engagement. Flipkart Minutes closing in on Blinkit in order values, aided by electronics, strengthens its quick-commerce position."}
 
 [Zomato]
 
 - ~
-  03 Nov 2026 | https://www.linkedin.com/posts/cnbc-tv18_deepinder-goyal-is-arguably-one-of-the-most-activity-7523399139188154369-3XuX
-  • JM Financial set a target of INR 400 for Eternal, whose stock traded at INR 343.90 on the NSE on November 4, 2026. ¶ • District by Zomato partnered with Airtel to rename Bengaluru's 17,000-capacity Terraform Arena to Airtel Arena and invest in digital infrastructure. ¶ • Zomato launched Host Mode across India, letting guests order food without seeing prices, with hosts authenticating via fingerprint or face lock. ¶ • Sharma Ji Ki Chai recorded over 7x growth in yearly order volumes since onboarding on Zomato in 2018. ¶ • Blinkit expanded its product range beyond groceries into electronics and appliances, aiming for a larger share of household consumption. ¶ ↗ ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/corporate-news/eternal-stock-gets-inr-400-target-as-blinkit-broadens-quick-commerce-range/70455471 ;; iqmagazine.com|https://www.iqmagazine.com/2026/11/district-by-zomato-strikes-venue-deal-to-support-next-phase-of-indias-live-evolution/ ;; curlytales.com|https://curlytales.com/india/trending/what-is-zomatos-host-mode-how-to-use-it-benefits-more-here/ ;; dailypioneer.com|https://dailypioneer.com/india/sharma-ji-ki-chai-sees-seven-fold-rise-in-annual-orders-after-onboarding-on-zomato
+  04 Nov 2026 | https://www.businesstoday.in/technology/news/story/zomato-launches-host-mode-to-hide-food-prices-as-deepinder-goyal-acts-on-users-suggestion-how-it-works-565714-2026-11-04
+  • Bernstein named Blinkit its preferred quick-commerce pick for 2026 and set a target price of INR 370 for Eternal, citing lower cash burn and stronger contribution margins. ¶ • JM Financial set a target of INR 400 for Eternal, highlighting Blinkit's expansion beyond grocery into electronics and appliances. ¶ • Zomato rolled out Host Mode across India, hiding menu and cart prices from guests, after a LinkedIn suggestion reached founder Deepinder Goyal and was built in 72 hours. ¶ • Eternal stock traded at INR 343.90 on the NSE at 10:45 CET on November 4, 2026. ¶ • Bernstein warned that aggressive discounting, dark-store expansion and defending customer cohorts could keep Blinkit's profitability volatile. ¶ ↗ businesstoday.in|https://www.businesstoday.in/technology/news/story/zomato-launches-host-mode-to-hide-food-prices-as-deepinder-goyal-acts-on-users-suggestion-how-it-works-565714-2026-11-04 ;; ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/corporate-news/eternal-stock-bernstein-favors-blinkit-sets-inr-370-target/70458069 ;; ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/corporate-news/eternal-stock-gets-inr-400-target-as-blinkit-broadens-quick-commerce-range/70455471
 
 - Outlook: Bullish
-  2026-11-04 |
-  §VIEW§{"stance": "bullish", "text": "Brokerage target of INR 400 and Blinkit's wider assortment point to growth. District's Airtel deal and new features support the ecosystem. Execution risks remain."}
+  2026-11-05 |
+  §VIEW§{"stance": "bullish", "text": "Two brokerages put targets of INR 370 and INR 400 on Eternal, above the INR 343.90 quote, on Blinkit's lead and wider assortment. Margin volatility from discounting and dark stores is the main risk."}
 
 [HAL]
 
-- ~
-  03 Nov 2026 | https://www.psuconnect.in/stock/hal-to-acquire-cae-canada-50-stake-hatsoff-to-become-wholly-owned-subsidiary
-  • HAL's board of HATSOFF Helicopter Training approved the transfer of 50% held by CAE Canada to HAL, making HATSOFF a wholly-owned subsidiary. ¶ • The transfer covers 3,84,04,205 equity shares of face value ₹10 each of HATSOFF Helicopter Training Pvt. Ltd. ¶ • The deal follows HAL's 2 October 2026 agreement to buy CAE Canada's 50% stake in the helicopter training venture. ¶ • HATSOFF, a helicopter simulation training firm, will now be fully consolidated into HAL's training and services portfolio. ¶ ↗ psuconnect.in|https://www.psuconnect.in/stock/hal-to-acquire-cae-canada-50-stake-hatsoff-to-become-wholly-owned-subsidiary ;; businessupturn.com|https://businessupturn.com/business/hindustan-aeronautics-acquires-50-stake-in-hatsoff-helicopter-training/ ;; investywise.com|https://www.investywise.com/hindustan-aeronautics-ltd-acquires-full-stake-in-hatsoff-helicopter-training/
-
-- Outlook: Bullish
-  2026-11-04 |
-  §VIEW§{"stance": "bullish", "text": "Full ownership of HATSOFF consolidates HAL's helicopter training and simulation capability under one roof. The move adds a services stream to a defence-heavy order book, though no financial terms were disclosed."}
+- Five Stocks To Buy Today, November 5: HPCL, Bajaj Finance, HAL, And More
+  05 Nov 2026 | https://www.ndtvprofit.com/markets/five-stocks-to-buy-today-november-5-hpcl-zee-entertainment-hal-gmr-airports-bajaj-finance-12285008
 
 [Tejas Networks]
 
 [Dmart]
 
 - ~
-  04 Nov 2026 | https://investmentguruindia.com/newsdetail/avenue-supermarts-trades-higher-on-the-bse831389
-  • Avenue Supermarts opened a new store at Kiwale, Pune, on November 3, 2026, taking its total store count to 520. ¶ • The stock traded at ₹3,376.50 on the BSE, up 0.64% from its previous close of ₹3,355.00, with a market cap of ₹221,785.24 crore. ¶ • Avenue Supermarts allotted ₹200 crore of commercial paper on October 29, 2026, at a 7.20% coupon with a 43-day tenure, rated ICRA A1+. ¶ • In the September 2026 quarter, revenue rose 17.74% to ₹19,657.54 crore and net profit grew 8.49% to ₹742.98 crore. ¶ • FY26 revenue was ₹68,894.84 crore, up 15.82% year on year, with net profit of ₹2,969.86 crore, up 9.69%. ¶ ↗ investmentguruindia.com|https://investmentguruindia.com/newsdetail/avenue-supermarts-trades-higher-on-the-bse831389 ;; scanx.trade|https://scanx.trade/stock-market-news/companies/avenue-supermarts-opens-new-store-pune-takes-total-count-519/54911998 ;; univest.in|https://univest.in/blogs/largecap-promoter-backed-quarterly-sales-growth-stocks-to-watch-multibagger-potential
+  04 Nov 2026 | https://univest.in/blogs/largecap-promoter-backed-quarterly-sales-growth-stocks-to-watch-multibagger-potential
+  • Avenue Supermarts reported September 2026 quarter revenue of ₹19,657.54 crore, up 17.74% year on year, with net profit up 8.49% to ₹742.98 crore. ¶ • FY26 revenue for Avenue Supermarts rose 15.82% to ₹68,894.84 crore, while net profit grew 9.69% to ₹2,969.86 crore. ¶ • Net profit at Avenue Supermarts has compounded 18.77% a year since FY22, with revenue growing 22.01% a year over the same period. ¶ • The stock trades at a PE of 71.85 against an industry PE of 64.73, and FY26 operating margin was 7.07%. ¶ • Foreign investors raised their holding in Avenue Supermarts from 8.25% in June 2025 to 9.23% in June 2026. ¶ ↗ univest.in|https://univest.in/blogs/largecap-promoter-backed-quarterly-sales-growth-stocks-to-watch-multibagger-potential
 
 - Outlook: Neutral
-  2026-11-04 |
-  §VIEW§{"stance": "neutral", "text": "Store additions and 17.74% September-quarter revenue growth support the story, but net profit rose only 8.49% and the stock trades at a PE of 71.85 against an industry PE of 64.73. Growth and valuation split the case."}
+  2026-11-05 |
+  §VIEW§{"stance": "neutral", "text": "Revenue growth of 17.74% in the September quarter is strong, but net profit rose only 8.49% and the PE of 71.85 sits above the industry's 64.73. Thin 7.07% margin splits the case."}
 
 [Godigit Insurance]
 
@@ -82,137 +77,171 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   04 Nov 2026 | https://inshorts.com/en/news/india-white-collar-hiring-up-14--in-october--naukri-1793789242382
-  • India's white-collar hiring rose 14% year-on-year in October, with the Naukri JobSpeak index climbing to 2,836 from 2,480 a year earlier. ¶ • Production and manufacturing roles led growth at 39%, with auto sector hiring up 36%, per the Naukri JobSpeak report. ¶ • Hyderabad led metro contributions at 15%, followed by Pune at 14% and Delhi NCR at 13%, while Bengaluru and Mumbai each grew 12%. ¶ • Gandhinagar posted the fastest emerging-city growth at 48%, with Surat at 36%, Vadodara at 30% and Ahmedabad at 23%. ¶ • Info Edge MD and CEO Hitesh Oberoi said part of October's growth reflects last year's festive-season base, while AI skill demand stays strong. ¶ ↗ inshorts.com|https://inshorts.com/en/news/india-white-collar-hiring-up-14--in-october--naukri-1793789242382 ;; money.rediff.com|https://money.rediff.com/news/market/white-collar-hiring-grows-14-in-oct-led-by-manufacturing/57439320261103
+  • Naukri JobSpeak index rose to 2,836 in October, up 14% year-on-year in white-collar hiring. ¶ • Production and manufacturing led October hiring growth at 39%, with the auto sector up 36%. ¶ • Senior-level hiring rose 22% and fresher hiring 15% in October. ¶ • AI/ML roles jumped 32% in October, the fastest-growing skill category in the report. ¶ • Hyderabad led metro hiring growth, while Gandhinagar posted 48% growth among emerging markets. ¶ ↗ inshorts.com|https://inshorts.com/en/news/india-white-collar-hiring-up-14--in-october--naukri-1793789242382
 
 - Outlook: Bullish
-  2026-11-04 |
-  §VIEW§{"stance": "bullish", "text": "Broad-based hiring growth across manufacturing, metros and smaller cities supports Naukri's listings and recruiter activity. Oberoi flags a festive base effect, but AI and manufacturing demand look fundamentals-led."}
+  2026-11-05 |
+  §VIEW§{"stance": "bullish", "text": "Broad-based 14% hiring growth, led by manufacturing and AI/ML roles, points to firm demand for Naukri's listings and recruiter activity. Senior and fresher hiring both rising supports volumes across the platform."}
 
 [Bitcoin]
 
 - ~
-  04 Nov 2026 | https://www.yahoo.com/news/us/articles/judge-orders-bitcoin-wallet-returned-103501465.html
-  • US spot Bitcoin ETFs lost $1 billion across Friday and Monday, with BlackRock's IBIT accounting for $405 million of Monday's withdrawals. ¶ • Bitcoin fell below $76,000 before recovering toward $78,000 as US midterm election results became clearer, erasing early losses in Asian trading. ¶ • Binance said attackers used social engineering, including fake job interviews, in a multistage campaign behind a $6.3 billion theft. ¶ • Moscow Exchange will open crypto trading in bitcoin, ether and USDT on Dec. 1, with same-day and next-day settlement through its National Clearing Centre. ¶ • A Canadian judge ordered a laptop holding a Bitcoin wallet returned to the family of William Sandeson, ruling prosecutors had not proved the crypto was tied to a 2015 murder. ¶ ↗ tradingview.com|https://www.tradingview.com/news/tradingview:49a94e833094b:0-xauusd-btcusd-gold-is-back-above-4-000-bitcoin-recovers-from-election-shakeup/ ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/moscow-exchange-details-clearing-settlement-100047760.html ;; yahoo.com|https://www.yahoo.com/news/us/articles/judge-orders-bitcoin-wallet-returned-103501465.html
+  04 Nov 2026 | https://www.vaneck.com/us/en/blogs/digital-assets/neocloud-sell-off-leaves-bitcoin-miners-oversold/
+  • Riot Platforms signed a 15-year lease with a Frontier AI Lab for its 910 MW Corsicana campus, worth about $28 billion in contracted revenue. ¶ • Riot's total contracted data center revenue reached about $38 billion across 1,151 MW, with roughly $2.2 billion average annual NOI at full deployment. ¶ • US spot Bitcoin ETFs lost $1 billion across Friday and Monday, with BlackRock's IBIT accounting for $405 million of Monday's withdrawals. ¶ • Bitcoin fell below $76,000 before recovering toward $78,000 as midterm election results clarified, while gold rose 2.4% to $4,020 an ounce. ¶ • Block agreed to pay $764 million to settle a DOJ anti-money-laundering probe, as its bitcoin gross profit fell 50% to $52 million. ¶ ↗ vaneck.com|https://www.vaneck.com/us/en/blogs/digital-assets/neocloud-sell-off-leaves-bitcoin-miners-oversold/ ;; sg.finance.yahoo.com|https://sg.finance.yahoo.com/news/riot-platforms-inc-riot-q3-010611759.html ;; bitcoinmagazine.com|https://bitcoinmagazine.com/news/block-xyz-sets-aside-764-million ;; tradingview.com|https://www.tradingview.com/news/tradingview:49a94e833094b:0-xauusd-btcusd-gold-is-back-above-4-000-bitcoin-recovers-from-election-shakeup/
 
-- Outlook: Bearish
-  2026-11-04 |
-  §VIEW§{"stance": "bearish", "text": "ETF outflows of $1 billion in two days and the $6.3 billion Binance theft weigh on sentiment, with Bitcoin still 38% below its record. The recovery toward $78,000 and the Dec. 1 MOEX launch are the offsets."}
+- Outlook: Neutral
+  2026-11-05 |
+  §VIEW§{"stance": "neutral", "text": "ETF outflows of $1 billion and Block's halved bitcoin profit weigh on sentiment, while Riot's $38 billion AI data center backlog shows miners pivoting to contracted revenue. The split is between weak crypto trading demand and strong infrastructure deals."}
 
 [Gold]
 
 - ~
-  04 Nov 2026 | https://www.kitco.com/news/article/2026-11-04/gold-prices-hit-4000-democrats-see-electoral-sweep-gain-control-congress
-  • Gold fell about 29% from its January high and is down 9% for the year, on track for its worst annual performance in 11 years. ¶ • Spot gold traded near $3,948 an ounce on November 3, while December futures opened at $3,960.50, below $4,000 for a second day. ¶ • The 10-year Treasury yield sits near 4.91%, up 77 basis points this year, raising the opportunity cost of holding gold. ¶ • Bar and coin demand fell 19% year-over-year and global jewelry demand dropped 17%, the World Gold Council said. ¶ • Democrats are favored to retake the House, with Kalshi odds near 90%, while Senate control remains a toss-up. ¶ ↗ kitco.com|https://www.kitco.com/news/article/2026-11-04/gold-prices-hit-4000-democrats-see-electoral-sweep-gain-control-congress ;; kitco.com|https://www.kitco.com/opinion/2026-11-03/midterm-elections-could-move-silver-far-more-gold ;; fortune.com|https://fortune.com/article/current-price-of-gold-11-03-2026/ ;; businessinsider.com|https://www.businessinsider.com/gold-price-crash-why-metal-is-down-inlation-interest-rates-2026-11
+  04 Nov 2026 | https://fortune.com/article/current-price-of-gold-11-04-2026/
+  • Spot gold rose 2.26% to $4,041.41 an ounce on Nov. 4, up $89.31 from the previous close of $3,952.10, after midterm elections showed Democrats winning Congress. ¶ • Central banks bought a net 321 tonnes of gold in the third quarter, the fastest pace since 2024, while gold ETFs added 211 tonnes to a record, the World Gold Council reported Nov. 3. ¶ • Gold fell to a 52-week low of $3,875.58 last week, with October down 6.80%, the worst October since 2008, on higher yields, a firm dollar and oil-led inflation fears. ¶ • ADP said the US economy created 86,000 private-sector jobs in October, beating the 67,000 consensus and keeping the Fed on the fence about a December rate move. ¶ • MarketGauge's Michele Schneider said gold's flight-to-safety appeal is broken and warned a sustained break below $3,940 an ounce could push prices toward $3,500. ¶ ↗ fortune.com|https://fortune.com/article/current-price-of-gold-11-04-2026/ ;; kitco.com|https://www.kitco.com/news/article/2026-11-04/golds-recovery-above-4000-enough-fix-broken-market-asks-michele-schneider ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-diwali-dhanteras-where-is-gold-silver-rate-headed-on-november-04-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions-federal-reserve/articleshow/135528498.cms ;; usatoday.com|https://www.usatoday.com/story/money/personalfinance/2026/11/04/gold-price-on-november-04-2026/92610350007/
 
-- Outlook: Bearish
-  2026-11-04 |
-  §VIEW§{"stance": "bearish", "text": "Gold is down 9% this year as higher Treasury yields, a firmer dollar and falling bar, coin and jewelry demand outweigh election uncertainty. A Democratic sweep could eventually help, but the near-term flow is negative."}
+- Outlook: Neutral
+  2026-11-05 |
+  §VIEW§{"stance": "neutral", "text": "Gold reclaimed $4,000 on post-election dollar weakness and record central bank buying of 321 tonnes in Q3. But a 52-week low last week, weak jewellery and bar demand, and solid ADP jobs data leave the direction split."}
 
 ============================================================
 
 SOURCE 8: AI News
 
-[OpenAI] Accelerating engineering for the physical world
-  03 Nov 2026 | https://openai.com/index/accelerating-engineering-for-the-physical-world
-  • OpenAI says its models now help engineers design, simulate and build physical products, spanning mechanical, electrical and system design. ¶ • Two team members used GPT-6 Astra to design a Codex talk device in under a week, and a contract manufacturer built prototypes in under a month. ¶ • Astra did not consistently account for the manufacturer's production limits, tolerances or assembly details, so several review rounds were still needed. ¶ • Model usage across OpenAI's hardware teams, measured in tokens, has grown 23-fold since February. ¶ • A newer internal model scored 0.875 on BenchCAD 2.0, which tests 3D part reconstruction and circuit board connections, versus 0.594 for GPT-6 Astra.
+[OpenAI] OpenAI to acquire Pierre Computer Company, Inc.
+  04 Nov 2026 | https://openai.com/index/openai-to-acquire-pierre
+  • OpenAI announced it will acquire Pierre Computer Company, Inc., the maker of Code Storage and open-source developer tools. ¶ • Pierre's Trees and Diffs libraries already power file browsing and code review in the Codex app. ¶ • Pierre recently released Highlights, a fast syntax highlighter that updates as a developer types or an agent streams code. ¶ • Pierre's open-source projects will remain open-source, and OpenAI will keep contributing to them. ¶ • The deal is subject to regulatory approvals, and until closing the two companies remain separate and independent.
 
-[Google DeepMind] Agentic cheminformatics with Google Antigravity
-  03 Nov 2026 | https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity/
-  • Google Antigravity with new Cheminformatics Skills reduced a drug discovery iteration from multiple days to about an hour, using lung cancer treatments as a test case. ¶ • The agent searched thousands of compounds from literature, filtered out irrelevant molecules like buffers and solvents, and documented their sources. ¶ • Lorlatinib, a third-generation TKI, is cyclized to cut crizotinib's five rotatable bonds to zero, locking its shape and raising potency. ¶ • The agent plots potency against rotatable bonds, showing the most rigid macrocycles have the highest potency, an advantage since lung cancer often metastasizes to the brain. ¶ • The skills pair language model orchestration with deterministic tools built on RDKit and connectors to ChEMBL and PubChem, keeping molecular calculations accurate.
+[OpenAI] A thousand fewer paths to root
+  04 Nov 2026 | https://openai.com/index/a-thousand-fewer-paths-to-root
+  • OpenAI built a prototype pipeline that found 2,308 candidate Linux kernel vulnerabilities and reproduced 1,724 of them. ¶ • The pipeline generated 948 local privilege escalation exploits, which let an unprivileged local user gain root access. ¶ • Scout agents picked 5,034 audit targets covering about 2.8 million lines, roughly 7% of the kernel, costing $3,426 in API credits. ¶ • Analyst agents produced the 2,308 candidates within 12 hours at a cost of $316,549 in API credits. ¶ • Human researchers reviewed the exploits and patches before reporting them to kernel maintainers, starting with critical vulnerabilities.
 
-[Open Claw Newsletter] Publishers Prepare a Feed for Agents
-  03 Nov 2026 | https://digiday.com/media/people-inc-is-building-custom-apis-to-make-its-journalism-easier-for-ai-agents-to-use/
-  • People Inc. is transitioning to custom APIs to provide AI agents with article text and key details in a simpler format. ¶ • The company's chief innovation officer stated that 90% of content in HTML pages is unnecessary junk for AI agents to process. ¶ • This shift follows People Inc. laying off about 6% of its workforce last week amid pressure on publishers. ¶ • AI agent traffic grew by 7,851% year over year, according to HUMAN’s 2026 State of AI Traffic report. ¶ • Other publishers like The Economist and Forbes are also experimenting with adapting their content for AI systems.
+[OpenAI] Daybreak Red is now available in AWS GovCloud (US-East)
+  04 Nov 2026 | https://openai.com/index/daybreak-red-aws-govcloud
+  • Daybreak Red now offers GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock. ¶ • The expansion gives government security teams advanced cybersecurity capabilities inside the AWS environments they already use for critical missions. ¶ • Daybreak Red supports authorized vulnerability research, exploit validation, and security testing with fewer refusals for verified defenders. ¶ • For Daybreak Red on Amazon Bedrock, inference data is not used to train models, and customers need not share data with OpenAI. ¶ • Access requires OpenAI Daybreak Red approval plus separate AWS provisioning, and Daybreak approval alone does not enable model access on AWS.
 
-[Open Claw Newsletter] The Phones Stay Open After Five
-  03 Nov 2026 | https://b2bea.org/resources/finding-the-intelligence-in-ai-where-agents-belong-in-manufacturing-and-distribu
-  • White River's phones shut at 5:00 PM Central, so California callers hit voicemail after 3:01 PM Pacific, prompting Richard to build six AI agents for 24/7 coverage. ¶ • MIT's NANDA 2025 study, reported by Fortune, found 95% of generative AI pilots produced no measurable impact on the P&L. ¶ • Richard's agents check live NetSuite stock in about three seconds, a speed that took ten rounds of tuning, and June answers every after-hours call. ¶ • Gartner expects that by 2028, organizations using multiagent AI for 80% of customer-facing processes will outperform competitors. ¶ • Gartner predicts that by 2027 companies will use small, task-specific models at least three times as much as general-purpose ones.
+[Open Claw Newsletter] Goldman Cuts Traders’ AI Access
+  04 Nov 2026 | https://qz.com/goldman-sachs-restricts-ai-coding-tools-traders-bankers-110226
+  • Goldman Sachs tightened access to some AI coding tools after months of letting bankers and traders use them, according to internal guidance seen by Bloomberg. ¶ • Traders had used the tools to monitor client flows and model market moves. ¶ • The October guidance limits access to engineers, with an exception for quantitative strategists. ¶ • The change affects workflows that employees had already built around the tools.
 
-[Open Claw Newsletter] Cisco Funds a Legacy-Code Challenge
-  03 Nov 2026 | https://fortune.com/2026/10/30/cisco-president-jeetu-patel-gen-z-27-year-old-unlimited-ai-tokens-rewrite-legacy-code-entry-level-jobs/
-  • Cisco president Jeetu Patel gave engineer Paddy Krishnamurthy unlimited AI tokens to refactor legacy code with a two-person team. ¶ • Krishnamurthy has four weeks to prove the approach, with a goal of refactoring 98% of Cisco's legacy code within 24 months. ¶ • Patel wants young hires who challenge the status quo, saying Gen Z should teach veterans rather than do data entry. ¶ • He treats every intern as a reverse mentor and recruited Stanford student Baya, who emailed him monthly and redesigned something experienced staff couldn't crack. ¶ • Investors Josh Kushner, Alon Chen and Will.i.am also favor young, inexperienced hires, with Kushner backing OpenAI, now raising up to $30 billion at a $1.25 trillion valuation.
+[Open Claw Newsletter] Unilever Reclaims Two Weeks
+  04 Nov 2026 | https://www.a.team/insights/unilever-ai-marketing-decisions
+  • Unilever built an agentic system with A.Team that cut media decision time from one week to three weeks a month. ¶ • Kathleen Dunlop, Unilever's EVP Future of Marketing, said the project began with a Beauty & Wellbeing media leader who owned the data. ¶ • Unilever has banned the word "pilot" and calls the project its first unit of scale, built on its own data foundation and governance. ¶ • Unilever asks five questions before any transformation, the last being whether it gives a competitive advantage. ¶ • A.Team CEO Raphael Ouzan said the winning path is to assemble: buy commodities, build what is uniquely yours, and own it.
 
-[Open Claw Newsletter] ADNOC Plans Connected Oil Decisions
-  03 Nov 2026 | https://www.adnoc.ae/media-center/news/2026/11/ADNOC-Signs-Landmark-Partnership-Agreement-with-OpenAI
-  • ADNOC announced a multi-year partnership with OpenAI and G42 at ADIPEC, becoming the first energy company to deploy OpenAI's frontier AI platform across its business. ¶ • The partnership will use OpenAI Frontier on G42's UAE-based sovereign AI infrastructure, with human experts retaining oversight of consequential decisions. ¶ • The first application integrates decades of data from thousands of wells, multiple reservoirs and hundreds of surface facilities to optimize full-field development plans in hours rather than months. ¶ • The second application makes ADNOC the first energy company to value every barrel while still in the ground, connecting production, processing, refining, logistics, sales and trading. ¶ • The deal complements ADNOC's ENERGYai and more than 200 AI applications, advancing its ambition to become the world's most technology- and AI-enabled energy company.
+[Open Claw Newsletter] Same Team, 40% More Tickets
+  04 Nov 2026 | https://www.hcltech.com/case-study/agentic-ai-it-incident-management-electronics-distributor
+  • HCLTech deployed two AI agents inside a Fortune 500 electronics distributor's existing ITSM ecosystem to automate incident triage and diagnosis. ¶ • The support team absorbed a 40% increase in incident inflow with the same headcount. ¶ • Support engineer productivity rose about 35% and average resolution time fell about 28%. ¶ • The Initial Response Agent mapped tickets to engineers using shift rules, cutting initial response handle time about 19%, while overall MTTR fell about 17%. ¶ • Knowledge references per ticket touchpoint rose 23x, spreading SME expertise across the team and benefiting five value streams.
 
-[Open Claw Newsletter] Food Imports Meet Machine-Readable Rules
-  03 Nov 2026 | https://www.mediaoffice.abudhabi/en/crown-prince-news/khaled-bin-mohamed-bin-zayed-meets-sam-altman-and-witnesses-signing-of-agreements-with-openai/
-  • Sheikh Khaled bin Mohamed bin Zayed Al Nahyan met OpenAI CEO Sam Altman to explore AI cooperation, then witnessed four agreements signed between Abu Dhabi entities and OpenAI. ¶ • ADNOC, G42 subsidiary Inception42 and OpenAI agreed to make ADNOC the first energy company to deploy OpenAI's frontier technology, using GPT models on in-country inference infrastructure in the UAE. ¶ • Abu Dhabi Government and OpenAI launched the world's first AI-native Machine-Readable Government initiative, translating policies into machine-readable form so AI can assist officials with regulatory compliance assessments. ¶ • The MRG pilot is in production with the Abu Dhabi Agriculture and Food Safety Authority on food imports, with model computation running on GPUs in UAE data centres and officials retaining final decisions. ¶ • Mubadala, Inception42 and OpenAI will apply AI to investment analysis and risk assessment, while Inception42 and OpenAI signed a five-year agreement for frontier AI adoption across government, enterprise and education.
+[Open Claw Newsletter] Fanfic Authors Shut Down a Clone
+  04 Nov 2026 | https://www.404media.co/vibe-coded-ao3-clone-site-down-after-fanfic-authors-buried-it-with-2-000-takedown-notices-in-a-single-day/
+  • A site called ao3.life that scraped Archive of Our Own fanfiction, reuploaded it, and charged for AI audiobooks went down Monday evening after backlash. ¶ • Creator Ganesh said he received over 2,000 takedown requests in the single day the site was up. ¶ • The site drew 126,592 unique users within 24 hours and sold about 11 audiobooks, Ganesh wrote. ¶ • AO3, which hosts nearly 18.5 million works, went down Thursday after a security incident and may stay down four weeks, though OTW says no data was lost. ¶ • Authors could not archive lock their works while AO3 was down, and some reported locks did not stop the scraping.
 
-[Open Claw Newsletter] A Surprise Gift Arrives
-  03 Nov 2026 | https://x.com/venturetwins/status/2116643253726683590
-  • A writer asked their Grok bot to pick a surprise gift using up to $100 from their X Money account. ¶ • The bot drew on the writer's tweets and their past conversations to choose the present. ¶ • The gift arrived this week, and the writer shared a photo of it. ¶ • The package included an extra Halloween surprise, marked with a pumpkin emoji. ¶ • The post shows an AI agent spending real money from a linked account to buy a person a gift.
+[Open Claw Newsletter] Git Rebuilt in Ten Weeks
+  04 Nov 2026 | https://openai.com/index/scaling-git-at-openai/
+  • One engineer designed the core of OpenAI’s new Git backend, teams of coding agents implemented it, and a small group of engineers deployed it. ¶ • The project went from kickoff to production in ten weeks and began serving traffic in April. ¶ • OpenAI’s November write-up says median push latency fell nearly 80% after the switch, an outcome measured on its own infrastructure.
 
-[Open Claw Newsletter] Claim Forms Become Reviewable Drafts
-  03 Nov 2026 | https://guidewire.gcs-web.com/news-releases/news-release-details/guidewire-congratulates-2026-innovation-award-winners-beazley
-  • Definity has put agents to work on brokers' first notices of loss. ¶ • The system classifies submissions, extracts information and creates structured claim drafts inside its claims platform, where adjusters review them. ¶ • The supplier's customer announcement describes a production deployment that replaces manual retyping. ¶ • It supplies no quantified efficiency result, and people remain responsible for the subsequent claims decisions.
+[Open Claw Newsletter] Huron’s Agents Draft Bids
+  04 Nov 2026 | https://windowsforum.com/news/huron-reports-1-046-active-ai-agents-copilot-pilot-and-agent-365-tracking.450678/
+  • Huron’s growth team built agents that turn sales inputs into proposal drafts and responses to requests for proposals. ¶ • The team wrote a playbook so colleagues could repeat the workflow. ¶ • A report citing Microsoft’s customer case says Huron recorded 1,046 active agents across multiple uses over four weeks. ¶ • The reporting window and the definition of active were not disclosed.
 
-[Open Claw Newsletter] The Old Dashboard Stays Open
-  03 Nov 2026 | https://www.sellingpower.com/blog/case-study-why-your-ai-account-scores-need-to-show-their-work/
-  • An AI agent for an enterprise sales team reached 127 of 150 account executives within a week of launch, but over half still kept their old dashboards a month later. ¶ • The agent answered plain-language questions on quota, pipeline and at-risk accounts, ranking the top five with each account's portfolio share and Risk tier. ¶ • The Risk tier combined declining engagement, proximity to renewal and spending volatility, recalculated at every daily data sync rather than fixed at contract signing. ¶ • Each metric was written as its own query feeding a central data table, and the agent surfaced its data sources, filters, combinations and a confidence score with every answer. ¶ • In month one, 90 percent of the 150 account executives were active by week five, Tableau and Power BI use fell 68 percent on average, and 82 percent of sales intelligence queries went to the agent.
+[Open Claw Newsletter] AI Helps Breach a Sales Tool
+  04 Nov 2026 | https://workos.com/security/bulletins/october-30th-2026-data-security-incident
+  • WorkOS identified unauthorized access to an internal sales application on October 30, 2026, affecting only CRM and customer support data. ¶ • The accessed data included business contact details, customer account histories, sales call and support summaries, and product usage metadata. ¶ • WorkOS disabled external access to the affected application and retained an independent digital forensics and incident response firm. ¶ • The investigation found an AI-assisted offensive security framework was used to automate reconnaissance and exploitation attempts. ¶ • WorkOS will contact affected customers directly and provide further updates as the ongoing investigation verifies more information.
 
-[Open Claw Newsletter] 150 Checks, One Review Workbook
-  03 Nov 2026 | https://aws.amazon.com/blogs/architecture/automating-agentic-ai-well-architected-reviews-with-the-aws-agentic-ai-lens/
-  • Smarsh used the AWS Well-Architected Framework's Agentic AI Lens to review its first agentic workload, since the lens exists only as documentation, not as a selectable console option. ¶ • The Agentic AI Lens has 150 best practices across 41 questions and six pillars, with risk levels of 90 High, 59 Medium, and 1 Low. ¶ • Smarsh built a custom Claude skill that assessed the workload against all 150 best practices using evidence from its GitHub repository, producing a review workbook in hours instead of days. ¶ • The skill combines lens_data.json as the source of truth, a five-value status rubric, and a deterministic Python script that aborts on unknown IDs or invalid statuses so hallucinated items cannot ship. ¶ • Smarsh's approach makes the lens executable and reusable for future workloads, and the findings strengthened its engagement with its AWS account team.
+[Open Claw Newsletter] Aker BP Compares Oilfield Plans
+  04 Nov 2026 | https://ir.halliburton.com/news-releases/news-release-details/halliburton-introduces-agile-asset-management-accelerate-capital
+  • Aker BP and Halliburton co-developed a workflow that brings subsurface, wells, facilities, and economics into a shared view. ¶ • Agents retrieve data and perform quality checks while experts compare field development options and trace the assumptions behind each one. ¶ • Aker BP says the work supports its ambition to halve time to first oil. ¶ • That target has yet to be demonstrated.
 
-[Open Claw Newsletter] A Notification Tool Reaches 1,300 Inboxes
-  03 Nov 2026 | https://cloud.google.com/blog/topics/threat-intelligence/artex-and-friends-enter-agentic-offensive-frameworks/
-  • The article outlines two layers of defense for protecting cloud environments from automated attackers: securing the control plane and restricting identities and keys. ¶ • The control plane includes identity providers, cloud management APIs, network and firewall platforms, virtualization infrastructure, code repositories, CI/CD systems, privileged access management platforms, backup infrastructure, certificate authorities, and SaaS admin consoles. ¶ • Internet-accessible management interfaces like Azure App Service's Kudu SCM can let attackers with publishing credentials test authentication, enumerate functionality, interact with files, execute commands, and remove staged artifacts. ¶ • Mitigations include restricting administrative access to trusted networks, requiring privileged access workstations with phishing-resistant authentication like FIDO2 or passkeys, and treating application management endpoints as privileged infrastructure. ¶ • For identities, the article recommends moving from long-lived credentials to short-lived ones, such as replacing static AWS IAM access keys with temporary credentials through IAM roles and Azure Service Principal client secrets with Managed Identities.
+[Open Claw Newsletter] Hyatt Plans Hotel Conversions in a Day
+  04 Nov 2026 | https://www.roic.ai/quote/H/transcripts/2026-year/3-quarter
+  • Hyatt reported third quarter 2026 system-wide RevPAR growth of 7.2%, exceeding its expectations. ¶ • Average rates grew in all brand categories and drove nearly 80% of the quarter's RevPAR growth. ¶ • Group RevPAR rose 8% and leisure transient RevPAR grew about 10%, while business transient RevPAR grew roughly 1%. ¶ • World of Hyatt membership reached more than 72 million members, up 19% from a year ago. ¶ • Hyatt's development pipeline grew to record levels, supporting its asset-light model and fee growth.
+
+[Open Claw Newsletter] Just Russel Gets to Script Faster
+  04 Nov 2026 | https://www.ayautomate.com/blog/agentic-ai-business-use-cases
+  • Qatar Tourism's WhatsApp support agent handles 80% of requests with no human, cutting support workload 40% and saving roughly $18,000 a year. ¶ • Shem's Publicité's creative team of three went from five days to under 24 hours per batch, a 10x throughput jump. ¶ • Just Russel classified 1,200+ content assets and cut eight days from briefing to script for its pet food brand in five markets. ¶ • Gepromed mapped 47 opportunities before building, then deployed 16 role-specific AI skills in one operating console. ¶ • AmbryHill's aerospace ERP database became a scoped agent where each person sees only what they are allowed to touch.
 
 ============================================================
 
 SOURCE 2: The Hindu - Editorials
 
-### Business, unusual: On engaging with the Myanmar junta
-03 Nov 2026 | https://www.thehindu.com/opinion/editorial/business-unusual-on-engaging-with-the-myanmar-junta/article71662196.ece
+### Helping hand: On Cyclones Arnab and Murasu
+04 Nov 2026 | https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece
 
-• Myanmar's junta, led by Min Aung Hlaing, continues waging war on its own people after a sham election installed him as civilian President.
+• Cyclones Arnab and Murasu hit the Andhra Pradesh coast back-to-back, with Arnab making landfall on October 28 and Murasu on November 3.
 
-• More than a lakh people are estimated to have died since the 2021 coup, with thousands of civilians killed in air strikes on rebel-held villages.
+• Andhra Pradesh estimated damage from Cyclone Arnab at roughly ₹4,526 crore, and reported 12 deaths from the two cyclones.
 
-• Russia and China, the junta's principal arms suppliers, have stood by it, with Russian jets used to bomb civilians, while Beijing backed the January election.
+• Cyclone Murasu affected about 52,500 hectares of standing crops, while the first cyclone damaged nearly 90,000 hectares in southern Odisha.
 
-• India, the U.S. and Japan are pursuing business and strategic interests with the junta, eyeing projects like the Kaladan transit route and rare earths such as dysprosium and terbium.
+• The article credits the Real Time Governance Society (RTGS) and technology with cutting casualties, noting Cyclone Hudhud in October 2014 killed 63 people and caused nearly ₹22,000 crore in damage.
 
-• The article argues that trade thrives in a country at peace, and unless the generals answer for their war crimes, Myanmar will remain a war zone ruinous for its people and businesses.
+• It urges the Centre to improve the Pradhan Mantri Fasal Bima Yojana crop insurance scheme, fund permanent restoration, and act in the spirit of cooperative federalism.
 
-### Coming of age: On the Binance hack
-03 Nov 2026 | https://www.thehindu.com/opinion/editorial/coming-of-age-on-the-binance-hack/article71661713.ece
+### Damning report: On Justice Muralidhar’s report on Israeli atrocities
+04 Nov 2026 | https://www.thehindu.com/opinion/editorial/damning-report-on-justice-muralidhars-report-on-israeli-atrocities/article71665929.ece
 
-• The recent hack at Binance, the world's largest cryptocurrency exchange, was the biggest theft ever at such a platform, and it holds lessons for India.
+• Justice Srinivasan Muralidhar told the UN General Assembly that Israeli security forces continue to commit war crimes, crimes against humanity and genocide a year after the October 2025 US-brokered ceasefire.
 
-• Binance had set up an emergency fund called the Secure Asset Fund for Users (SAFU) in 2018, financed by trading fees, to protect user assets in a breach.
+• The commission's third report since October 7, 2023 draws on medical records, satellite imagery, forensic analysis, witness testimony and videos posted by Israeli soldiers.
 
-• Since the $6.3 billion worth of assets stolen exceeded SAFU's resources, Binance used its own resources to restore about 95% of users' assets within four days.
+• The report says more than 75,000 Palestinians, including 21,500 children and 11,000 women, have been killed across Palestinian territories since 2023.
 
-• The article argues the hack is not an indictment of crypto itself, since hacking is a daily occurrence across sectors and Binance's preparation and response worked well.
+• It finds soldiers used AI to identify and execute targets, including infants, with impunity, and calls on UN members to prevent genocide, prosecute suspects and set rules for AI in conflict.
 
-• It urges Indian policymakers to regulate the crypto industry rather than tax it prohibitively, which drives Indians to the black market or foreign exchanges.
+• The Hindu argues India's silence conflicts with its stated principles, as it abstains from ceasefire resolutions while supplying Israel with arms, ammunition, ordnance and drone parts.
 
 ============================================================
 
 SOURCE 5: The Hindu - Business (headlines + summary)
 
-[[US midterms and markets]]
+[[US midterm elections]]
 
-- U.S. midterm elections impact on India: faster trade deal talks and higher tariffs likely
-  04 Nov 2026 | https://www.thehindu.com/business/Economy/us-midterm-elections-impact-on-india-faster-trade-deal-talks-and-higher-tariffs-likely/article71665044.ece
-  • Democrats won both the Senate and House in the US midterms, which experts say could push Trump to press India harder for a quick trade deal. ¶ • India already faces a 10% Section 301 tariff and 50% Section 232 steel and aluminium tariffs, with a bipartisan Act allowing up to 100% tariffs over Russian oil imports.
+- Democrats win both chambers of U.S. Congress in midterm elections
+  04 Nov 2026 | https://www.thehindu.com/business/Economy/us-midterm-elections-an-economy-under-pressure-political-shift-and-the-road-ahead/article71667011.ece
+  • Democrats took control of the House and Senate, with NBC News estimating at least 258 House seats against the 218 needed for a majority. ¶ • The result is expected to speed India-U.S. trade talks while raising the risk of higher U.S. tariffs on India until a deal closes.
 
-- Oil rises on Iran war uncertainty after Trump’s Republicans face election rout
-  04 Nov 2026 | https://www.thehindu.com/business/Economy/oil-rises-on-iran-war-uncertainty-after-trumps-republicans-face-election-rout/article71664204.ece
-  • Brent rose 82 cents, or 0.8%, to $104.42 a barrel and WTI gained 50 cents, or 0.5%, to $96.59 as Democrats won both houses of Congress. ¶ • US crude stocks fell 5.27 million barrels in the week ended October 30, against analysts' average forecast of an 880,000-barrel rise.
+[[India clean energy investment]]
 
-- Stock markets rally in early trade on foreign fund inflows, easing crude oil prices
-  04 Nov 2026 | https://www.thehindu.com/business/markets/stock-markets-rally-in-early-trade-on-foreign-fund-inflows-easing-crude-oil-prices/article71664174.ece
-  • The Sensex rose 288 points to 77,185.35 and the Nifty gained 77.25 points to 23,890.85 in early trade on Wednesday, the fifth straight day of gains. ¶ • Foreign institutional investors bought equities worth ₹6,836.81 crore on Tuesday, while Brent crude traded 0.43% lower at USD 103.2 per barrel.
+- India secures $400-bn investment commitments in renewables; ALMM review in 15 days
+  04 Nov 2026 | https://www.thehindu.com/business/Industry/india-secures-400-bn-investment-commitments-in-renewables-almm-review-in-15-days/article71667048.ece
+  • India has secured preliminary investment commitments worth $400 billion across renewable energy, including green hydrogen, energy storage and transmission, Union Minister Pralhad Joshi said. ¶ • The government will consult industry stakeholders over the next 10-15 days before deciding whether to extend the Approved List of Models and Manufacturers (ALMM) framework for solar cells.
 
-- Rupee rises 14 paise to 94.61 against U.S. dollar in early trade
-  04 Nov 2026 | https://www.thehindu.com/business/markets/rupee-rises-14-paise-to-9461-against-us-dollar-in-early-trade/article71664175.ece
-  • The rupee strengthened 14 paise to 94.61 against the U.S. dollar in early trade on Wednesday, helped by lower crude prices, a weaker dollar and foreign fund inflows. ¶ • Brent crude fell 0.49% to $103.09 a barrel, the dollar index slipped 0.54% to 101.17, and FIIs bought ₹6,836.81 crore of equities on Tuesday.
+- Cabinet approves Rs 2,814 crore scheme for lithium and nickel processing
+  04 Nov 2026 | https://www.thehindu.com/business/Economy/centre-earmarks-2814-crore-to-boost-lithium-nickel-processing/article71666803.ece
+  • The Union Cabinet approved a ₹2,814-crore capital expenditure support scheme for domestic lithium and nickel processing plants, in force for five years. ¶ • The subsidy covers 30% of investment for four plants, capped at ₹500 crore per lithium beneficiary and ₹900 crore per nickel beneficiary, with minimum capacities of 30 kt and 50 kt.
 
-[[RBI and financial regulation]]
+- Union Cabinet approves ₹14,500 crore VGF scheme to develop large scale energy storage in India
+  04 Nov 2026 | https://www.thehindu.com/business/Economy/union-cabinet-approves-14500-crore-vgf-scheme-to-develop-large-scale-energy-storage-in-india/article71665406.ece
+  • The Cabinet approved a ₹14,500 crore Viability Gap Funding scheme for grid-scale energy storage from 2026-27 to 2030-31, supporting 92 GWh of new capacity. ¶ • The scheme covers 60 GWh of hydro pumped storage, 30 GWh of battery storage and 2 GWh of alternative technologies, with total estimated investment of ₹97,600 crore.
+
+- Essar Renewables signs Power Purchase Agreement with NHPC for 300 MW project
+  04 Nov 2026 | https://www.thehindu.com/business/Industry/essar-renewables-signs-power-purchase-agreement-with-nhpc-for-300-mw-project/article71664503.ece
+  • Essar Renewables signed a Power Purchase Agreement with NHPC Ltd. for a 300 MW Firm and Dispatchable Renewable Energy project in Andhra Pradesh. ¶ • Essar Power will invest about ₹4,500 crore in the project, which combines solar, wind and Battery Energy Storage Systems, as part of a planned 5 GW portfolio.
+
+[[Company results]]
+
+- Apollo Hospitals’ Q2 revenue rises 23%; profit up 32% on broad-based growth
+  04 Nov 2026 | https://www.thehindu.com/business/Industry/apollo-hospitals-q2-revenue-rises-23-profit-up-32-on-broad-based-growth/article71666462.ece
+  • Consolidated net profit rose 32% year-on-year to ₹630 crore in the September quarter, with revenue up 23% to ₹7,615 crore and EBITDA up 29% to ₹1,191 crore. ¶ • Hospital revenue rose 23% to ₹3,900 crore as inpatient volumes grew 14% to 1.86 lakh and occupancy improved to 73% from 69%, with international patient revenue up 37%.
+
+- Sundaram Finance’s Q2 PAT up 21% to ₹475 cr.; disbursements grow 28%
+  04 Nov 2026 | https://www.thehindu.com/business/sundaram-finances-q2-pat-up-21-to-475-cr-disbursements-grow-28/article71665175.ece
+  • Sundaram Finance reported standalone profit after tax of ₹475 crore in Q2FY27, up 21% YoY, with disbursements rising 28% to ₹10,355 crore. ¶ • Assets under management grew 19% YoY to ₹65,992 crore as of September 30, 2026, while gross Stage 3 assets improved to 1.84% from 2.03%.
+
+[[India business expansion]]
+
+- Mercedes-Benz Group AG to scale up technology, components sourcing from India; launches electric GLC starting ₹78.5 lakh
+  04 Nov 2026 | https://www.thehindu.com/business/mercedes-benz-group-ag-to-scale-up-technology-components-sourcing-from-india-launches-electric-glc-starting-785-lakh/article71666883.ece
+  • Mercedes-Benz announced a fresh ₹200 crore investment in India, taking its total investment in the country to ₹3,200 crore. ¶ • The company launched its electric GLC SUV at ₹78.5 lakh with a 711 km range, and said it had over 1,000 bookings before the price was announced.
+
+- Unilever to invest €40 million in India R&D and bio-futures innovation
+  04 Nov 2026 | https://www.thehindu.com/business/Industry/unilever-to-invest-40-million-in-india-rd-and-bio-futures-innovation/article71665558.ece
+  • Unilever will invest €40 million in India, including €35 million to upgrade its Mumbai and Bengaluru R&D centres into a next-generation research ecosystem. ¶ • A separate €5 million over five years funds a Bio-Futures partnership, adding to the 800-plus scientists and specialists already at the two Indian hubs.
+
+[[Banking and financial regulation]]
+
+- Supreme Court upholds States’ power to levy additional sales tax, says case has become academic
+  04 Nov 2026 | https://www.thehindu.com/news/national/supreme-court-upholds-states-power-to-levy-additional-sales-tax-says-case-has-become-academic/article71664975.ece
+  • A seven-judge Constitution Bench led by Chief Justice Surya Kant unanimously ruled that the reference on States' power to levy additional sales tax is academic and does not survive for adjudication. ¶ • The Court said the 1974 S. Kodar vs State of Kerala ruling, which upheld additional sales tax as an enhancement of the sales tax rate under Entry 54 of List II, continues to hold the field.
 
 - RBI constitutes Technical Consultative Committee for Financial Markets
   04 Nov 2026 | https://www.thehindu.com/business/markets/rbi-constitutes-technical-consultative-committee-for-financial-markets/article71664423.ece
@@ -220,69 +249,23 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 
 - Kotak Mahindra Bank gets CCI nod to acquire Deutsche Bank India's retail, private banking businesses
   04 Nov 2026 | https://www.thehindu.com/business/Industry/kotak-mahindra-bank-gets-cci-nod-to-acquire-deutsche-bank-indias-retail-private-banking-businesses/article71664408.ece
-  • The CCI approved Kotak Mahindra Bank's acquisition of Deutsche Bank's retail, private banking and wealth management business in India, announced in June for ₹281 crore. ¶ • The business holds about ₹29,000 crore in loans, ₹16,000 crore in deposits and ₹10,500 crore of assets under management, serving around 1,50,000 customers and nearly 1,000 employees.
+  • The Competition Commission of India approved Kotak Mahindra Bank's acquisition of Deutsche Bank's retail, private banking and wealth management business in India, run through its Indian branches. ¶ • The business being sold on a slump sale basis holds about ₹29,000 crore in loans, ₹16,000 crore in deposits and ₹10,500 crore in assets under management.
 
-- 4-layer motor cover for new private cars, 2-wheelers from Dec. 15: IRDAI
-  03 Nov 2026 | https://www.thehindu.com/business/4-layer-motor-cover-for-new-private-cars-2-wheelers-from-dec-15-irdai/article71662346.ece
-  • IRDAI has told general insurers to offer new private cars and two-wheelers a four-layer motor policy from December 15, covering third party liability, occupant liability, personal accident and own damage. ¶ • Third party cover and owner-driver personal accident cover stay mandatory, while occupant liability, occupant accident and own damage covers are optional at extra premium.
+[[Government schemes and statistics]]
 
-[[Company results and deals]]
-
-- NSE Q2 profit rises 23%, but sequential earnings dip 17%
-  03 Nov 2026 | https://www.thehindu.com/business/nse-q2-profit-rises-23-but-sequential-earnings-dip-17/article71661691.ece
-  • NSE reported consolidated net profit of ₹2,577 crore for the September quarter, up 23% year-on-year but down 17.4% from the April-June quarter. ¶ • EBITDA fell 13.3% sequentially to ₹3,079 crore, while average daily cash market volume rose 24% year-on-year to ₹1,18,377 crore.
-
-- NMDC’s iron ore output rose 18% in Oct, sales dip amid rain impact
-  03 Nov 2026 | https://www.thehindu.com/business/Economy/nmdcs-iron-ore-output-rose-18-in-oct-sales-dip-amid-rain-impact/article71661810.ece
-  • NMDC's October iron ore production rose 18% year-on-year to 5.04 million tonnes, while sales fell over 11% to 3.44 MT. ¶ • Heavy monsoon rains washed away sections of the Kottavalasa-Kirandul railway line, disrupting Bailadila mine dispatches for nearly a month; NMDC expects sales to improve now that rail links are restored.
-
-- HRV Pharma to acquire German firm Phatebo
-  03 Nov 2026 | https://www.thehindu.com/business/Industry/hrv-pharma-to-acquire-german-firm-phatebo/article71661790.ece
-  • Hyderabad-based HRV Pharma signed definitive agreements to buy 100% of German pharmaceutical wholesaler Phatebo GmbH from ZeroStack Corp, terms undisclosed. ¶ • Phatebo, which had revenue of about ₹350 crore in 2025, gives HRV its first finished formulations business and a licensed German operation, and will keep operating from Hilzingen under Managing Director Martin Lisker.
-
-[[Renewables and critical minerals]]
-
-- Union Cabinet to discuss capex support for critical mineral processing, VGF for RE grid-scale storage system
-  04 Nov 2026 | https://www.thehindu.com/business/union-cabinet-discussion-capex-support-for-critical-mineral-processing-vgf-re-grid-scale-storage-system/article71664202.ece
-  • The Union Cabinet is expected to consider capital expenditure support for critical mineral processing, potentially covering about 30% of plant setup costs, and a viability gap funding scheme for grid-scale storage. ¶ • India curtailed about 1,835 million units of renewable energy in July and August, including 1,462 MU of solar and 373 MU of wind, which grid-scale storage aims to absorb.
-
-- Essar Renewables signs Power Purchase Agreement with NHPC for 300 MW project
-  04 Nov 2026 | https://www.thehindu.com/business/Industry/essar-renewables-signs-power-purchase-agreement-with-nhpc-for-300-mw-project/article71664503.ece
-  • Essar Renewables signed a Power Purchase Agreement with NHPC Ltd. for a 300 MW Firm and Dispatchable Renewable Energy project in Andhra Pradesh. ¶ • Essar Power will invest about ₹4,500 crore in the project, which combines solar, wind and Battery Energy Storage Systems, as part of a planned 5 GW portfolio.
-
-- PM Surya Ghar: 1 lakh rooftop solar installations every 4-5 days; target on track, says Joshi
-  03 Nov 2026 | https://www.thehindu.com/business/Industry/pm-surya-ghar-1-lakh-rooftop-solar-installations-every-every-4-5-days-target-on-track-says-joshi/article71661338.ece
-  • PM Surya Ghar is adding one lakh rooftop solar installations every six days, with Minister Pralhad Joshi expecting that pace to reach four to five days within two to three weeks. ¶ • The scheme has crossed 55 lakh installations with about 65.65 lakh beneficiaries, and Joshi is confident of hitting one crore systems by March 31, 2027.
-
-[[Trade and exports]]
-
-- Bangladesh disturbances likely to impact yarn, fabric exports
-  03 Nov 2026 | https://www.thehindu.com/news/cities/Coimbatore/bangladesh-disturbances-likely-to-impact-yarn-fabric-exports/article71662011.ece
-  • Wage protests at Bangladesh garment factories could disrupt Indian yarn and fabric exports, as Bangladesh buys about 45% of India's cotton yarn exports. ¶ • Buyers may shift spring/summer 2027 orders away from Bangladesh, which locks in around 40% of its annual export orders from November to February.
-
-- Rice exporters federation cautions members on shipments to west Asian countries
-  03 Nov 2026 | https://www.thehindu.com/business/rice-exporters-federation-cautions-members-on-shipments-to-west-asian-countries/article71661796.ece
-  • The Indian Rice Exporters Federation advised members to use maximum caution when finalising vessel contracts and delivery schedules after reported attacks in the Strait of Hormuz. ¶ • Rice exports to west Asian countries are now about 70-80 tonnes a month, just 10% of pre-Iran war shipments, with war-risk insurance and freight rates likely to rise.
-
-[[Aviation and infrastructure]]
-
-- Shift to Navi Mumbai or stop flying to Mumbai: Adani Airports CEO tells foreign airlines
-  04 Nov 2026 | https://www.thehindu.com/business/Industry/shift-to-navi-mumbai-or-stop-flying-to-mumbai-adani-airports-ceo-tells-foreign-airlines/article71660830.ece
-  • Adani Airport Holdings CEO Arun Bansal said international airlines unwilling to move operations to Navi Mumbai International Airport could stop flying to Mumbai. ¶ • Airlines must vacate Mumbai facilities from April for Terminal 1 redevelopment, and carriers have objected to the lack of consultation and split operations.
+- Union Cabinet approves new VISTAR scheme to overhaul India’s statistical system
+  04 Nov 2026 | https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece
+  • The Union Cabinet approved the ₹4,371 crore VISTAR scheme for 2026-27 to 2030-31 to modernise India's statistical architecture at the Central and State levels. ¶ • The scheme covers 59 surveys in the 16th Finance Commission cycle, an 8th Economic Census, and AI-enabled data processing, versus 43 major surveys previously.
 
 [[Other]]
-
-- Services sector activity hits 4-month high in October as business conditions improve cautiously
-  04 Nov 2026 | https://www.thehindu.com/business/Economy/services-sector-activity-hits-4-month-high-in-october-as-business-conditions-improve-cautiously/article71665069.ece
-  • The HSBC India Services PMI Business Activity Index rose to 55.8 in October from 55.2 in September, the strongest expansion in four months. ¶ • New export orders grew at their slowest pace since February 2023, while job creation was the weakest in four months and composite PMI rose to 56.2.
 
 - As Canva restructures, how is AI reshaping creative businesses? | Explained
   04 Nov 2026 | https://www.thehindu.com/business/Industry/as-canva-restructures-how-is-ai-reshaping-creative-businesses-explained/article71664828.ece
   • Canva announced it is reorganising its workforce amid slowing growth and rapid technological change. ¶ • Generative AI is changing how visual content is designed, produced and sold, forcing creative software companies to rethink products and business models.
 
-- Supreme Court upholds States’ power to levy additional sales tax, says case has become academic
-  04 Nov 2026 | https://www.thehindu.com/news/national/supreme-court-upholds-states-power-to-levy-additional-sales-tax-says-case-has-become-academic/article71664975.ece
-  • A seven-judge Constitution Bench led by Chief Justice Surya Kant unanimously ruled that the reference on States' power to levy additional sales tax is academic and does not survive for adjudication. ¶ • The Court said the 1974 S. Kodar vs State of Kerala ruling, which upheld additional sales tax as an enhancement of the sales tax rate under Entry 54 of List II, continues to hold the field.
+- Services sector activity hits 4-month high in October as business conditions improve cautiously
+  04 Nov 2026 | https://www.thehindu.com/business/Economy/services-sector-activity-hits-4-month-high-in-october-as-business-conditions-improve-cautiously/article71665069.ece
+  • The HSBC India Services PMI Business Activity Index rose to 55.8 in October from 55.2 in September, the strongest expansion in four months. ¶ • New export orders grew at their slowest pace since February 2023, while job creation was the weakest in four months and composite PMI rose to 56.2.
 
 ============================================================
 
@@ -290,161 +273,22 @@ SOURCE 3: The Hindu - International (headlines + summary)
 
 [[US midterm elections]]
 
-- Abdul El-Sayed wins Michigan Senate seat, becomes first Muslim U.S. senator
-  04 Nov 2026 | https://www.thehindu.com/news/international/who-is-abdul-el-sayed-first-muslim-us-senator-elect-united-states-us-midterm-elections-2026/article71664610.ece
-  • Democrat Abdul El-Sayed, 42, won Michigan's open U.S. Senate seat on November 4, 2026, defeating Republican Mike Rogers and becoming the first Muslim elected to the chamber. ¶ • His victory keeps the seat held by retiring Democrat Gary Peters and marks a breakthrough for the party's progressive wing in the midterms.
+- U.S. midterm elections 2026 LIVE: Republican U.S. House Speaker to step down; Zelenskyy hopes Democrat gains will bring more help for Ukraine
+  05 Nov 2026 | https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece
+  • Democrats won control of both the House and Senate in the November 3, 2026 midterms, powered by voter anger over living costs, tariffs and the Iran war. ¶ • Republican House Speaker Mike Johnson will step down as party leader after the defeat, while Trump kept Defence Secretary Pete Hegseth and Zelenskyy said he hopes for more Ukraine aid.
 
-- Democrats win US midterms, taking Congress as Trump blames Iran war
-  04 Nov 2026 | https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-lossers-live-updates-trump-republicans-democrats-news/article71660811.ece
-  • Democrats captured both the Senate and House in the November 3 midterms, with wins including Texas, Nevada, Arizona and Oregon, and ballot-question victories on abortion in Missouri and Virginia. ¶ • Elon Musk, who gave Republicans nearly half a billion dollars, joked his "election-interfering space lasers" failed, while analysts said the result may speed India-US trade talks but risk higher tariffs first.
+- U.S. midterm elections 2026 highlights: Trump says 'largely true' Iran war caused election loss
+  05 Nov 2026 | https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-lossers-live-updates-trump-republicans-democrats-news/article71660811.ece
+  • Democrats won control of both chambers of Congress in the midterm elections, and Republican House Speaker Mike Johnson said he will step down as party leader. ¶ • Defence shares fell on fears of weaker Pentagon spending, with Lockheed Martin down 6.9%, while Trump defended the Iran war and said impeachment would 'destroy' Democrats.
 
-- U.S. midterm election results 2026: Full list of winners
-  04 Nov 2026 | https://www.thehindu.com/news/international/us-mid-term-election-poll-results-2026-full-list-of-winners/article71663723.ece
-  • Democrats swept the November 3, 2026 midterms to take full control of Congress, a rebuke of President Trump and his Republican Party. ¶ • Voter frustration over Trump's economic stewardship and the Iran war, which drove gas prices up sharply, fueled the Democratic wave.
-
-- Indian-American Candidates Win Seats and Defeat in 2026 US Midterms
-  04 Nov 2026 | https://www.thehindu.com/news/international/us-midterm-election-results-2026-list-of-indian-origin-winners-american/article71664310.ece
-  • Democratic gains were evident as Indian-American candidates Pia Dandiya and Suhas Subramanyam won seats in the US House of Representatives. ¶ • Vivek Ramaswamy, backed by Donald Trump, lost Ohio's gubernatorial race to Democrat Amy Acton, who secured over 51% of the vote.
-
-- Hakeem Jeffries poised to become first Black Speaker of U.S. House of Representatives
-  04 Nov 2026 | https://www.thehindu.com/news/international/hakeem-jeffries-poised-to-become-first-black-speaker-of-us-house-of-representatives/article71664413.ece
-  • Democrats' midterm wins put Hakeem Jeffries in line to become the first Black speaker of the U.S. House when the new Congress is sworn in the first week of January. ¶ • Jeffries must hold together moderates and progressives while pursuing affordability bills, reversing $900 billion in Medicaid cuts, and facing debt-limit and spending fights that risk a default or shutdown.
-
-[[West Asia politics]]
-
-- Israel's unassuming President Herzog holds keys to next government
-  04 Nov 2026 | https://www.thehindu.com/news/international/israels-unassuming-president-herzog-holds-keys-to-next-government/article71664315.ece
-  • President Isaac Herzog begins consultations with party representatives on Wednesday after neither Benjamin Netanyahu's nor Gadi Eisenkot's camp won a parliamentary majority in the October 27 election. ¶ • Herzog, whose role is largely ceremonial, has broad legal discretion to pick the candidate best able to form a coalition and has called for all efforts to avoid a new election.
-
-[[India diplomacy]]
-
-- Jaishankar highlights importance of digital public infrastructure at Commonwealth meet in Antigua and Barbuda
-  04 Nov 2026 | https://www.thehindu.com/news/international/jaishankar-highlights-importance-of-digital-public-infrastructure-at-commonwealth-meet-in-antigua-and-barbuda/article71665005.ece
-  • External Affairs Minister S. Jaishankar told the Commonwealth Heads of Government Executive Session in Antigua and Barbuda that digital public infrastructure supports good governance and financial responsibility. ¶ • Jaishankar also cited India's recent Free Trade Agreements and ongoing negotiations, saying such understandings will contribute to predictable trade and resilient supply chains.
-
-- India-Bangladesh Joint River Commission | Explained
-  04 Nov 2026 | https://www.thehindu.com/news/national/india-bangladesh-joint-river-commission-explained/article71664680.ece
-  • India and Bangladesh share about 54 rivers, with the Ganga, Brahmaputra and Teesta the major ones for Bangladesh's agriculture and flood preparation. ¶ • India's External Affairs Ministry said the Joint River Commission is the structured mechanism that will handle the Ganga Water Treaty, which expires on December 12, 2026.
-
-[[South Korea politics]]
-
-- Seoul court upholds ex-President Yoon’s election conviction
-  04 Nov 2026 | https://www.thehindu.com/news/international/seoul-court-upholds-ex-president-yoons-election-conviction/article71664657.ece
-  • A South Korean appeals court upheld former President Yoon Suk Yeol's 18-month suspended sentence for making false statements during his 2022 campaign. ¶ • If the Supreme Court agrees, Yoon's People Power Party must repay 39.7 billion won ($29.6 million) to the National Election Commission, about one-third of its assets.
-
-[[Environment and energy]]
-
-- North Africa’s green hydrogen exports to Europe could harm water supply and marine life: study
-  04 Nov 2026 | https://www.thehindu.com/sci-tech/energy-and-environment/north-africas-green-hydrogen-exports-to-europe-could-harm-water-supply-and-marine-life-study/article71664297.ece
-  • Green hydrogen, made by splitting water with renewable power, needs huge amounts of water, and North Africa's best solar and wind sites sit in its driest regions. ¶ • The study warns that exporting this fuel to Europe could deplete already severely stressed groundwater and damage marine life.
-
-[[Other]]
-
-- Indonesia arrests ex-police chief over alleged illegal wiretapping of President, officials
-  04 Nov 2026 | https://www.thehindu.com/news/international/indonesia-arrests-ex-police-chief-over-alleged-illegal-wiretapping-of-president-officials/article71664234.ece
-  • Indonesia's national police arrested former police chief Listyo Sigit Prabowo and two other senior officers on November 3, 2026, for allegedly tapping President Prabowo Subianto's phone and those of officials, journalists and businesspeople. ¶ • A presidential spokesman said the wiretapping may amount to treason and endanger state security, though the motive is not yet known; Listyo was fired this week as presidential chief of staff.
+- After Republicans routed, Trump devotes first post-midterm event to White House ballroom
+  05 Nov 2026 | https://www.thehindu.com/news/international/trump-says-republicans-harmed-byiran-war-inability-to-transfer-the-love-for-him/article71667372.ece
+  • Democrats took control of the Senate and House on November 3, 2026, winning seats in deeply conservative states that typically favor Republicans by double digits. ¶ • Trump's first public event after the losses was a nearly 20-minute ceremony on November 4, 2026, about the ballroom's final steel beam, with no sign of a change in course.
 
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-
-### Premji Invest goes big on strategic output & tech
-04 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/premjis-deeptech-bets-razorpay-gets-ipo-nod/articleshow/135517823.cms
-
-• Premji Invest is in talks to back Bengaluru-based Sanlayan Technologies, a defence electronics maker, and Hical Technologies, an aerospace components manufacturer.
-
-• Premji Invest and Singularity AMC are likely to lead a $30-40 million round in Sanlayan at a valuation of around $200 million.
-
-• Premji Invest is in advanced talks to lead Hical's first institutional $30-40 million fundraise alongside TVS Capital.
-
-• India's push to reduce defence imports and expand exports is opening opportunities for private manufacturers, and Premji Invest has also invested ₹300 crore in Bharat Forge subsidiary JS Auto Cast.
-
-### Razorpay gets Sebi nod for Rs 5,000-6,000 crore IPO
-04 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/premjis-deeptech-bets-razorpay-gets-ipo-nod/articleshow/135517823.cms
-
-• Razorpay has received approval from Sebi for its proposed ₹5,000-6,000 crore IPO and is targeting a stock market debut as early as December.
-
-• The Bengaluru-based fintech is working towards a listing in the first quarter of calendar year 2027, but volatile market conditions may push it later.
-
-• ET reported on April 20 that Razorpay was preparing a confidential IPO filing to raise ₹5,500-6,500 crore at an expected valuation of $5 billion (₹49,000-50,000 crore).
-
-• Razorpay completed its move from the US to India in May 2025, and Axis Capital, JPMorgan, Citi and Kotak Mahindra Capital are advising on the IPO.
-
-### Food delivery, ride-hailing firms differ on gig worker welfare levy calculation
-04 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/premjis-deeptech-bets-razorpay-gets-ipo-nod/articleshow/135517823.cms
-
-• Food delivery and quick-commerce companies such as Zomato and Swiggy are seeking a levy based on the value of transactions facilitated through their platforms.
-
-• Cab and bike-taxi aggregators such as Uber and Rapido want the levy calculated on their own turnover rather than the total value of rides facilitated.
-
-• Food delivery platforms want the levy, likely around 2%, to be calculated on the total value of orders placed through their platforms.
-
-• Under the Social Security Code, 2020, workers must complete at least 90 days of work with a single aggregator in a financial year, or 120 days cumulatively across multiple platforms, to qualify for benefits.
-
-### Giva raises over $100 million led by Multiples Alternate Asset Management
-04 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/premjis-deeptech-bets-razorpay-gets-ipo-nod/articleshow/135517823.cms
-
-• Fine jewellery brand Giva has raised over $100 million in a round led by private equity firm Multiples Alternate Asset Management.
-
-• Existing investors including Epic Capital and Edelweiss Growth Fund participated in the round.
-
-• The round was a mix of primary and secondary funding, and early backers like India Quotient and Sixth Sense Ventures exited partially.
-
-• Giva plans to use the fresh capital to expand its retail footprint across the country, boost manufacturing capabilities, and strengthen its leadership.
-
-### Chip startup Agrani Labs looks to raise $108 million from Peak XV, Google, Samsung
-04 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/premjis-deeptech-bets-razorpay-gets-ipo-nod/articleshow/135517823.cms
-
-• AI chip startup Agrani Labs is in the final stages of closing a $108-110 million round at a valuation of roughly $350 million.
-
-• Peak XV Partners is leading the round and is expected to put in more than half of the total amount.
-
-• Google, Samsung Ventures, and Stargazer, the investment vehicle launched by Groww's founders, are also expected to participate.
-
-• The proposed $350 million valuation marks a sharp jump from the $160-200 million discussed during negotiations in September.
-
-### India's cooling systems face cyber risks
-04 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/premjis-deeptech-bets-razorpay-gets-ipo-nod/articleshow/135517823.cms
-
-• Cybersecurity safeguards for operational technology (OT) systems controlling India's refrigeration and cold-storage infrastructure remain at an early stage.
-
-• Experts told ET that this raises concerns over the sector's exposure to cyberattacks as it becomes increasingly digitised.
-
-### IT firms lean on acquisitions for growth
-04 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/premjis-deeptech-bets-razorpay-gets-ipo-nod/articleshow/135517823.cms
-
-• Indian IT services companies are increasingly drawing on acquisitions to augment reported revenue growth.
-
-• In the past year, the top eight Indian IT firms spent a total of about $7.5 billion in acquisitions.
-
-• That's the most in the history of the country's $315 billion IT industry.
-
-### Global pick: Nvidia orders data centre clients to reduce China exposure
-FT | https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2
-
-[Could not read the article, possibly paywalled]
-
-### Global pick: How “reverse game theory” could keep AI agents in check
-MIT Technology Review | https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/
-
-• Researchers propose "reverse game theory," or mechanism design, to control AI models by designing incentives rather than understanding their internals.
-
-• Current alignment methods, such as peering into a model's "brain" or giving it a constitution like Claude's, have shown models can underperform deliberately, hide intentions, and mislead evaluators.
-
-• An MIT, Yale, and Columbia preprint suggests rewarding a model for how well its answers predict a second model's, making sandbagging a losing bet, or pitting agents against each other.
-
-• Princeton's Elad Hazan proposes solver and auditor roles with rewards and punishments, but concedes agents may collude, and mechanism design assumes rational behavior that humans often defy.
-
-### Global pick: AI data centres could undermine UK's emissions goals
-BBC | https://www.bbc.com/news/articles/cqvgrvx6ekl2o
-
-• AI data centres could undermine the UK's emissions goals, according to a BBC report.
-
-• Scammers are using AI-generated images of missing pets to demand reward money from owners.
-
-• Canva CEO Melanie Perkins says more than 1,000 staff will lose their jobs or change roles after the company's hardest year.
-
-• Prince William says the UK faces a terrifying risk of more wildfires due to climate change, calling 2026 the first summer he felt worried about their scale.
+[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
 
 ============================================================
 
@@ -460,25 +304,25 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 [Heg Advanced Materials Ltd (HEGAM, +19.75%)]
 
 - ~
-  04 Nov 2026 | https://themachinemaker.com/news/heg-advanced-materials-reports-q2-fy27-revenue-of-%E2%82%B9429-94-crore/
-  ## What the sector does ¶ • Graphite electrodes are large carbon rods used to melt scrap steel in electric arc furnaces, sold to steelmakers worldwide, with demand tied to steel output and prices. ¶ • Revenue depends on electrode prices and needle coke costs, while refractory and advanced materials makers sell heat-resistant linings and battery anode materials to steel, cement and battery customers. ¶ ## What the company does ¶ • HEG Advanced Materials runs graphite electrode, green power, battery energy storage and anode materials businesses after the September 2026 demerger of the graphite electrodes unit into HEG Limited. ¶ • It is building a 20,000-tonne anode materials plant at Dewas through subsidiary TACC, targeting lithium-ion battery makers, plus 278 MW of hydro and 14 MW of wind power. ¶ ## Why it moved today ¶ • The stock hit its 20% upper circuit at ₹288.90 on the BSE after Q2 FY27 revenue rose 144% year-on-year to ₹429.94 crore and profit after tax jumped 202% to ₹208.89 crore, Business Standard reported. ¶ • The board also approved a ₹1,606 crore expansion of anode capacity from 20,000 to 44,000 tonnes, a ₹475 crore crucible project and a ₹500 crore graphene project, lifting the phase-1 anode outlay to ₹2,300 crore. ¶ ## The numbers (Screener) ¶ • Stock trades at a P/E of 26.9 and 3.41 times book value of ₹76.0, with ROCE of 8.35% and ROE of 7.42%, per Screener data. ¶ • September 2026 quarter sales were ₹430 crore with operating profit of ₹196 crore at a 46% OPM and net profit of ₹306 crore, against ₹296 crore sales and ₹155 crore profit in June 2026. ¶ ## What the numbers say ¶ • The P/E of 26.9 sits below the peer median of 29.77 and well under Graphite India's 57.53, but ROCE of 8.35% trails the peer median of 13.58% and Vesuvius India's 21.34%. ¶ • September quarter sales grew 144.37% and profit 287.35% year-on-year, far ahead of the peer median sales growth of 12.84%, though the demerger makes the figures not directly comparable with earlier periods. ¶ ↗ themachinemaker.com|https://themachinemaker.com/news/heg-advanced-materials-reports-q2-fy27-revenue-of-%E2%82%B9429-94-crore/ ;; business-standard.com|https://www.business-standard.com/markets/news/volume-shockers-heg-advanced-materials-saregama-india-zoom-up-to-20-126110400967_1.html ;; thehindubusinessline.com|https://www.thehindubusinessline.com/companies/heg-advanced-materials-shares-gains-10-on-1606-crore-anode-expansion-plan/article71664683.ece
+  04 Nov 2026 | https://www.tradingview.com/news/moodys:da85af1ef2784:0-multibagger-heg-advanced-materials-shares-hit-20-upper-circuit-in-biggest-1-day-gain-in-8-years-what-drove-the-rally/
+  ## What the sector does ¶ • Graphite electrodes are conductive columns used in electric arc furnaces to melt scrap steel, sold to steelmakers worldwide. ¶ • Revenue follows global steel output and electrode prices, while cost is driven by needle coke, power and graphitisation. ¶ ## What the company does ¶ • HEG Advanced Materials runs the world's largest single-site integrated graphite electrodes plant and is part of the LNJ Bhilwara Group. ¶ • After the September 2026 demerger, graphite electrodes moved to HEG Ltd, leaving HEGAM in advanced battery materials, energy storage and green power. ¶ ## Why it moved today ¶ • The stock hit its 20% upper circuit at ₹288.90 on November 4, 2026, after September-quarter results and board-approved expansions, Business Standard reported. ¶ • Q2 FY27 operating income rose 144% year on year to ₹429.94 crore, EBITDA rose 150% to ₹196.13 crore and PAT rose 202% to ₹208.89 crore. ¶ ## The numbers (Screener) ¶ • Stock P/E is 26.3, price to book is 3.79 times, ROCE is 8.35% and ROE is 7.42%, per Screener data. ¶ • September 2026 quarter sales were ₹430 crore with net profit of ₹306 crore, against ₹296 crore sales and ₹155 crore profit in June 2026. ¶ ## What the numbers say ¶ • HEGAM's P/E of 26.3 is below the peer median of 29.45 and Graphite India's 57.26, while its ROCE of 8.35% is below the peer median of 13.58%. ¶ • The September quarter's 46% operating margin and 287% profit growth contrast with the prior quarter's ₹114 crore loss, and the stock trades at 3.79 times book. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:da85af1ef2784:0-multibagger-heg-advanced-materials-shares-hit-20-upper-circuit-in-biggest-1-day-gain-in-8-years-what-drove-the-rally/ ;; themachinemaker.com|https://themachinemaker.com/news/heg-advanced-materials-reports-q2-fy27-revenue-of-%E2%82%B9429-94-crore/ ;; business-standard.com|https://www.business-standard.com/markets/news/volume-shockers-heg-advanced-materials-saregama-india-zoom-up-to-20-126110400967_1.html
 
 [Fractal Analytics Ltd (FRACTAL, +14.04%)]
 
 - ~
   04 Nov 2026 | https://www.unite.ai/fractal-analytics-profit-climbs-139-as-healthcare-leads-growth/
-  ## What the sector does ¶ • The IT services and analytics sector sells technology consulting, software development and data/AI solutions to enterprises worldwide, mainly in BFSI, retail, healthcare and telecom. ¶ • Revenue is driven by client IT budgets, deal wins and digital transformation spending; costs are mostly employee salaries, and margins depend on utilization, pricing and offshore mix. ¶ ## What the company does ¶ • Fractal Analytics provides analytics and AI-based solutions, including its Cogentiq agentic AI platform, to enterprises for data-driven decision-making. ¶ • It earns from long-term service contracts and product subscriptions, with revenue split across CPGR (34.7%), HLS (25.1%), BFSI (13.6%) and TMT. ¶ ## Why it moved today ¶ • The stock jumped 13.13% after Q2 FY27 results on November 3 showed net profit more than doubling to ₹79.2 crore and revenue crossing $100 million for the first time. ¶ • Revenue rose 19.7% year-on-year to ₹956.5 crore, with healthcare and life sciences growing 79% and BFSI up 30%, driving optimism about the AI analytics business. ¶ ## The numbers (Screener) ¶ • P/E is 38.5, price to book is 4.17 (market cap ₹14,468 crore, book value ₹198), ROCE 12.6% and ROE 12.0% as of the latest financials. ¶ • September 2026 quarter: sales ₹956 crore (up 19.8% year-on-year), net profit ₹79 crore (up 115% year-on-year), operating margin 13%, EPS ₹4.68. ¶ ## What the numbers say ¶ • At P/E 38.5, Fractal trades at a premium to TCS (16.1), Infosys (14.3) and Wipro (14.6), but at a discount to Persistent Systems (53.2), reflecting higher expected growth. ¶ • ROCE of 12.6% is well below TCS's 63% and Infosys's 40%, showing weaker capital efficiency, while the 115% net profit growth in Q2 contrasts with the stock's high valuation. ¶ ↗ unite.ai|https://www.unite.ai/fractal-analytics-profit-climbs-139-as-healthcare-leads-growth/ ;; bwdisrupt.com|https://www.bwdisrupt.com/article/fractal-analytics-q2-net-income-jumps-139-to-rs-79-2-cr-revenue-rises-20-631988 ;; money.rediff.com|https://money.rediff.com/news/market/fractal-analytics-q2-net-profit-doubles-revenue-crosses-100m/57479020261104
+  ## What the sector does ¶ • The IT services and analytics sector sells technology consulting, software development, and data analytics to enterprises worldwide, earning fees on time-and-materials or fixed-price contracts. ¶ • Revenue depends on client technology budgets and deal wins, while costs are mainly salaries; large players include TCS, Infosys, HCL Technologies, Wipro, and Tech Mahindra. ¶ ## What the company does ¶ • Fractal Analytics provides analytics and AI-based solutions, including its Cogentiq agentic AI platform, to large enterprises in healthcare, BFSI, consumer goods, and TMT. ¶ • It earns from data analytics projects and AI products, with revenue of ₹956.5 crore in the September 2026 quarter, placing it among smaller listed IT peers. ¶ ## Why it moved today ¶ • The stock rose 14.04% after Fractal reported a 139% year-on-year jump in net income to ₹79.2 crore for the September 2026 quarter, with revenue crossing $100 million. ¶ • The results, released on November 3, 2026, showed revenue up 20% to ₹956.5 crore and adjusted EBITDA margin at 16.2%, driving the positive reaction. ¶ ## The numbers (Screener) ¶ • Stock P/E is 38.7 and price to book is 4.23 times, with market cap at ₹14,549 crore and current price ₹836. ¶ • ROCE is 12.6% and ROE 12.0%; net profit rose to ₹79 crore in the September 2026 quarter from ₹33.2 crore a year earlier. ¶ ## What the numbers say ¶ • Fractal's P/E of 38.7 is above the peer median of about 20, and its ROCE of 12.6% is below peers like TCS (63%) and Infosys (40%), suggesting a premium valuation despite lower capital efficiency. ¶ • Net profit grew 139% year-on-year in the September 2026 quarter, but operating margin was 13%, and the stock's 14% move reflects optimism about AI-driven growth amid margin pressure. ¶ ↗ unite.ai|https://www.unite.ai/fractal-analytics-profit-climbs-139-as-healthcare-leads-growth/ ;; business-standard.com|https://www.business-standard.com/companies/news/fractal-analytics-bets-on-large-ai-deals-partnerships-to-drive-growth-126110401719_1.html ;; cxodigitalpulse.com|https://www.cxodigitalpulse.com/fractal-analytics-crosses-100-million-quarterly-revenue-as-net-profit-climbs-139/
 
 [[Top Losers]]
 
 [Thangamayil Jewellery Ltd (THANGAMAYL, -5.45%)]
 
 - ~
-  04 Nov 2026 | https://www.sahi.com/news/thangamayil-jewellery-reports-q2-standalone-net-profit-of-59-5-crore-versus-58-5-crore-yoy
-  ## What the sector does ¶ • India's gems and jewellery retail sector sells gold, silver, diamond and platinum ornaments to households, with Tamil Nadu alone accounting for 40% of national gold consumption. ¶ • Revenue is driven by gold volumes and bullion prices, while costs are dominated by raw material (about 90% of sales) and finance costs for inventory; key players include Titan, Kalyan Jewellers and Senco Gold. ¶ ## What the company does ¶ • Thangamayil Jewellery runs a retail jewellery chain across Tamil Nadu, selling gold, silver, diamonds and platinum, with gold the main revenue source, and operates four in-house manufacturing units. ¶ • It earns from retail store sales, reported Q2 FY27 revenue of ₹2,387.64 crore, and competes with larger national chains like Titan and Kalyan Jewellers in the South India market. ¶ ## Why it moved today ¶ • The articles do not directly explain the 5.45% fall; the most recent news is Q2 FY27 results showing net profit up just 1.6% YoY to ₹59.45 crore and down 30.1% QoQ. ¶ • Context: Q2 FY27 revenue rose 39.6% YoY to ₹2,387.64 crore but EBITDA margin narrowed to 4.5% from 5.83%, and profit fell 30.1% from Q1 FY27. ¶ ## The numbers (Screener) ¶ • Q2 FY27 (ended 30 September 2026): revenue ₹2,387.64 crore, up 39.6% YoY; net profit ₹59.45 crore, up 1.6% YoY; EBITDA margin 4.5% vs 5.83% a year ago. ¶ • H1 FY27: revenue ₹5,054.01 crore, up 54.6% YoY; net profit ₹144.55 crore, up 38.7% YoY; ROCE 17.61% and ROE data not provided in Screener. ¶ ## What the numbers say ¶ • At an enterprise value to capital employed of 7.5, the stock trades at a discount to peers' historical averages, per MarketsMOJO, but the peer table in Screener data was not provided for direct comparison. ¶ • The 5.45% fall came despite a 51.18% one-year total return and a Buy rating from MarketsMOJO, as Q2 profit growth of 1.6% YoY and a 30.1% QoQ decline raised concerns about margin pressure. ¶ ↗ sahi.com|https://www.sahi.com/news/thangamayil-jewellery-reports-q2-standalone-net-profit-of-59-5-crore-versus-58-5-crore-yoy ;; marketsmojo.com|https://www.marketsmojo.com/news/stock-recommendation/thangamayil-jewellery-ltd-is-rated-buy-4250543 ;; businessupturn.com|https://businessupturn.com/finance/stock-market/quarterly-results/thangamayil-jewellery-q2-results-revenue-jumps-40-to-rs2-388-crore-net-profit-flat-at-rs59-5-crore-as-margins-slip/
+  04 Nov 2026 | https://www.thehindubusinessline.com/companies/thangamayil-jewellery-net-profit-flat-at-59-crore/article71665142.ece
+  ## What the sector does ¶ • The gems and jewellery sector sells gold, silver, diamond and platinum ornaments to retail consumers, mainly in India where gold is bought for weddings and savings. ¶ • Revenue depends on gold prices, festive and wedding demand, and store count; costs are raw material, making charges, interest on inventory and retail overheads. ¶ ## What the company does ¶ • Thangamayil Jewellery runs 70 retail jewellery stores across Tamil Nadu, a state that accounts for 40% of India's gold consumption, and sells gold, silver, diamonds and platinum. ¶ • Gold jewellery is the main earner, contributing ₹2,119 crore of Q2 FY27 sales, while non-gold items added ₹184 crore; the company has four in-house manufacturing units. ¶ ## Why it moved today ¶ • The stock fell 5.45% after Q2 FY27 results showed net profit nearly flat at ₹59.45 crore and EBITDA margin slipping to 4.5% from 5.83% a year earlier. ¶ • Revenue rose 39.6% to ₹2,387.64 crore, but profit fell 30.1% from the June quarter, and the company flagged West Asia war uncertainty and lower expat remittances in Tamil Nadu. ¶ ## The numbers (Screener) ¶ • Q2 FY27 net profit was ₹59.45 crore, up 1.6% from ₹58.51 crore a year ago, but down 30.1% from ₹85.09 crore in Q1 FY27. ¶ • Q2 FY27 EBITDA margin was 4.5%, down from 5.83% a year ago, as net material cost rose to about 90.5% of revenue from 88.9%. ¶ ## What the numbers say ¶ • At an enterprise value to capital employed of 7.5, the stock trades at a discount to peers' historical averages, with a PEG ratio of 0.1, according to MarketsMOJO. ¶ • The company's ROCE of 17.61% and 37.65% annual net sales growth over the long term are healthy, but the sharp QoQ profit decline and margin pressure explain the negative market reaction. ¶ ↗ thehindubusinessline.com|https://www.thehindubusinessline.com/companies/thangamayil-jewellery-net-profit-flat-at-59-crore/article71665142.ece ;; marketsmojo.com|https://www.marketsmojo.com/news/stock-recommendation/thangamayil-jewellery-ltd-is-rated-buy-4250543 ;; businessupturn.com|https://businessupturn.com/finance/stock-market/quarterly-results/thangamayil-jewellery-q2-results-revenue-jumps-40-to-rs2-388-crore-net-profit-flat-at-rs59-5-crore-as-margins-slip/
 
 [Multi Commodity Exchange Of India Ltd (MCX, -5.02%)]
 
 - ~
-  04 Nov 2026 | https://m.economictimes.com/markets/stocks/news/mcx-shares-tumble-7-even-as-q2-net-profit-surges-130-yoy-revenue-more-than-doubles/articleshow/135522688.cms
-  ## What the sector does ¶ • Commodity exchanges run electronic platforms where buyers and sellers trade futures and options on metals, energy and agricultural goods, earning fees on every contract. ¶ • Revenue comes from transaction charges and admission or membership fees, while costs are mostly technology, clearing and employee expenses; India's main players are MCX, NSE and BSE. ¶ ## What the company does ¶ • MCX is India's largest commodity derivatives exchange, operating since November 2003 under SEBI regulation and offering futures and options on bullion, base metals, energy and agri commodities. ¶ • It earns transaction fees from brokers, traders and institutions, with September-quarter average daily turnover of ₹62,819 crore in futures and ₹12,00,129 crore in options. ¶ ## Why it moved today ¶ • MCX fell 5.58% after Q2 FY27 EBITDA of ₹611 crore and its 76.4% margin came in marginally below analyst estimates, with higher technology costs, and the stock had touched a 52-week high of ₹3,538 a day earlier. ¶ • Context, not the cause: net profit still rose 130% year on year to ₹455 crore and revenue doubled to ₹799.66 crore, while the ₹47 crore tax expense at MCXCCL also weighed on reported profit. ¶ ## The numbers (Screener) ¶ • Stock P/E is 46.8 on a market cap of ₹84,015 crore and a current price of ₹3,295, with book value of ₹138 per share and dividend yield of 0.24%. ¶ • September 2026 quarter sales were ₹800 crore with net profit of ₹455 crore and EPS of ₹17.83, against ₹666 crore sales and ₹401 crore profit in the December 2025 quarter. ¶ ## What the numbers say ¶ • MCX's P/E of 46.8 sits just above the four-peer median of 45.27, while its ROCE of 71.4% and ROE of 56.3% are the highest in the table against the 55.89% median ROCE. ¶ • The stock trades at 23.8 times book value, the richest multiple in the peer set, so the fall after a marginal EBITDA miss follows a 53% gain in 2026 and 80% over one year. ¶ ↗ m.economictimes.com|https://m.economictimes.com/markets/stocks/news/mcx-shares-tumble-7-even-as-q2-net-profit-surges-130-yoy-revenue-more-than-doubles/articleshow/135522688.cms ;; indiainfoline.com|https://www.indiainfoline.com/news/companies/mcx-share-price-slips-5-heres-why ;; indianewsnetwork.com|https://www.indianewsnetwork.com/en/indian-stock-market-update-nse-sbi-key-players-focus-20261104
+  04 Nov 2026 | https://www.tradingview.com/news/moodys:04b60fb8981a7:0-mcx-q2-profit-more-than-doubles-to-rs-455-cr-revenue-surges-114/
+  ## What the sector does ¶ • Commodity derivatives exchanges run electronic platforms where traders buy and sell futures and options contracts on metals, energy and agricultural goods, earning transaction fees on each trade. ¶ • Revenue grows with average daily turnover and new products, while costs are mostly technology, employee and regulatory expenses; India's main players are MCX, NSE, BSE and Indian Energy Exchange. ¶ ## What the company does ¶ • Multi Commodity Exchange of India operates the country's largest commodity derivatives exchange, offering futures and options on bullion, base metals, energy and agricultural commodities under SEBI regulation. ¶ • MCX earns transaction fees from brokers, traders and institutions; in the September 2026 quarter, futures average daily turnover was ₹62,819 crore and options ₹12,00,129 crore. ¶ ## Why it moved today ¶ • MCX shares fell 5.02% as investors booked profits after the stock hit a 52-week high of ₹3,538 and Q2 EBITDA of ₹611.2 crore came in below analyst estimates, according to reports. ¶ • Higher technology costs and a ₹47 crore tax expense at MCXCCL weighed on profitability even as Q2 net profit rose 130% year-on-year to ₹454.57 crore. ¶ ## The numbers (Screener) ¶ • Stock P/E is 47.0 and price to book is 24.1 times, with market cap at ₹84,530 crore and dividend yield 0.24%. ¶ • September 2026 quarter revenue was ₹799.66 crore, up 113.7%, with net profit of ₹454.57 crore, up 130.2%, and operating margin of 76%. ¶ ## What the numbers say ¶ • P/E of 47.0 is above the peer median of 45.39, but MCX's ROCE of 71.4% and ROE of 56.3% are the highest among peers, well above the median ROCE of 55.89%. ¶ • September quarter sales and net profit grew 113.7% and 130.2% year-on-year, far outpacing peer median growth of 22.36% and 72.6%, yet the stock fell 5.02% on profit booking after a 53% rise in 2026. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:04b60fb8981a7:0-mcx-q2-profit-more-than-doubles-to-rs-455-cr-revenue-surges-114/ ;; m.economictimes.com|https://m.economictimes.com/markets/stocks/news/mcx-shares-tumble-7-even-as-q2-net-profit-surges-130-yoy-revenue-more-than-doubles/articleshow/135522688.cms ;; indiainfoline.com|https://www.indiainfoline.com/news/companies/mcx-share-price-slips-5-heres-why

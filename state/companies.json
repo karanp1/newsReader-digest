@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -158,14 +158,14 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -186,7 +186,7 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "walmart": {
   "name": "Walmart",
@@ -221,7 +221,7 @@
   "sector": "E-commerce",
   "description": "Global online retailer running Great Indian Festival sale in competition with Flipkart.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "chennaipetroleum": {
   "name": "Chennai Petroleum",
@@ -249,7 +249,7 @@
   "sector": "Oil refining",
   "description": "State-owned Hindustan Petroleum refining and selling petroleum products in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-05"
  },
  "pvrinox": {
   "name": "PVR Inox",
@@ -501,14 +501,14 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "naukri": {
   "name": "Naukri",
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -865,7 +865,7 @@
   "sector": "IT services",
   "description": "Indian IT services company; chairman Rishad Premji led the ET Startup Awards jury.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-05"
  },
  "porsche": {
   "name": "Porsche",
@@ -984,7 +984,7 @@
   "sector": "IT services",
   "description": "IT services firm; launched 20 purpose-built Industry AI Solutions across sectors.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-05"
  },
  "airindia": {
   "name": "Air India",
@@ -1061,7 +1061,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its IBIT bitcoin ETF led $487.1 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-11-05"
  },
  "fidelity": {
   "name": "Fidelity",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1299,14 +1299,14 @@
   "sector": "Fintech",
   "description": "Payments and crypto company; shares fell over 2% in the crypto selloff.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-11-05"
  },
  "riotplatforms": {
   "name": "Riot Platforms",
   "sector": "Bitcoin mining",
   "description": "Bitcoin miner; shares fell more than 9% during the crypto selloff.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-11-05"
  },
  "ciphermining": {
   "name": "Cipher Mining",
@@ -1355,14 +1355,14 @@
   "sector": "Banking",
   "description": "Private bank; offered credit card discounts on MacBook Neo during Flipkart sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-11-05"
  },
  "hdfcbank": {
   "name": "HDFC Bank",
   "sector": "Banking",
   "description": "Private bank; offered debit card discounts on MacBook Neo during Flipkart sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-05"
  },
  "inoxwind": {
   "name": "Inox Wind",
@@ -2062,14 +2062,14 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "bernstein": {
   "name": "Bernstein",
   "sector": "Financial research",
   "description": "Brokerage that ranked quick-commerce platforms on product availability.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-05"
  },
  "hyundaimotorindia": {
   "name": "Hyundai Motor India",
@@ -2251,7 +2251,7 @@
   "sector": "Consumer electronics",
   "description": "Electronics brand; 55-inch QLED TV discounted on Flipkart.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "bhel": {
   "name": "BHEL",
@@ -2328,7 +2328,7 @@
   "sector": "Regulator",
   "description": "India's securities regulator; to issue guidelines on closing auction session.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-05"
  },
  "reservebankofindia": {
   "name": "Reserve Bank of India",
@@ -2489,7 +2489,7 @@
   "sector": "Financial services",
   "description": "Investment bank; its Neha Agarwal commented on institutional demand for IPOs.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-11-05"
  },
  "cleartrip": {
   "name": "Cleartrip",
@@ -2531,7 +2531,7 @@
   "sector": "Media",
   "description": "Music and entertainment company; cited as a peer comparison for Prime Focus.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-05"
  },
  "tipsmusic": {
   "name": "Tips Music",
@@ -2587,7 +2587,7 @@
   "sector": "IT services",
   "description": "Indian IT services firm; cited as a peer for Persistent Systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-11-05"
  },
  "honeywellauto": {
   "name": "Honeywell Auto",
@@ -2657,7 +2657,7 @@
   "sector": "Industry body",
   "description": "Gold industry body; reported a record $31 billion into gold ETFs in Q3.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-05"
  },
  "abra": {
   "name": "Abra",
@@ -2741,7 +2741,7 @@
   "sector": "Financial data",
   "description": "Indian stock research platform; flagged valuation and return metrics for several stocks.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-05"
  },
  "tdsecurities": {
   "name": "TD Securities",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -2937,7 +2937,7 @@
   "sector": "Financial services",
   "description": "Research firm; downgraded Tech Mahindra to Sell and cut Usha Martin's grade to Hold.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-05"
  },
  "alphawaveventures": {
   "name": "Alpha Wave Ventures",
@@ -3119,7 +3119,7 @@
   "sector": "IT services",
   "description": "IT services firm; cited as a valuation peer for Tech Mahindra and traded lower.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-11-05"
  },
  "bharatelectronics": {
   "name": "Bharat Electronics",
@@ -3140,7 +3140,7 @@
   "sector": "Financial services",
   "description": "Non-bank lender; among the Sensex gainers on Monday.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-05"
  },
  "tatasteel": {
   "name": "Tata Steel",
@@ -3154,7 +3154,7 @@
   "sector": "Banking",
   "description": "Private sector bank; among the Sensex laggards on Monday.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-05"
  },
  "karnatakaplantersassociation": {
   "name": "Karnataka Planters' Association",
@@ -3287,7 +3287,7 @@
   "sector": "Technology hardware",
   "description": "PC maker and market leader; shipments fell 22.4% in Q3 2026 on memory prices.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-05"
  },
  "hp": {
   "name": "HP",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -4050,7 +4050,7 @@
   "sector": "Investment banking",
   "description": "Investment bank named among anchor investors in Jio Platforms' IPO.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-05"
  },
  "religare": {
   "name": "Religare",
@@ -4351,7 +4351,7 @@
   "sector": "Media",
   "description": "Reported McKinsey research on AI automating more than half of US work hours.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-05"
  },
  "theinformation": {
   "name": "The Information",
@@ -4379,21 +4379,21 @@
   "sector": "Media",
   "description": "Indian newspaper carrying the editorials, international and business coverage in this digest.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-05"
  },
  "entrackr": {
   "name": "Entrackr",
   "sector": "Media",
   "description": "Indian startup news outlet that publishes a weekly funding report.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-05"
  },
  "openclawnewsletter": {
   "name": "Open Claw Newsletter",
   "sector": "Media",
   "description": "Newsletter covering AI industry news and commentary.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-05"
  },
  "dynamicwatchlist": {
   "name": "Dynamic Watchlist",
@@ -4414,7 +4414,7 @@
   "sector": "Media",
   "description": "Indian business news channel reporting on Aegis Logistics and Vedanta Power moves.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-05"
  },
  "upstox": {
   "name": "Upstox",
@@ -4435,21 +4435,21 @@
   "sector": "Financial data",
   "description": "Charting and market news platform carrying several of today's stock stories.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-05"
  },
  "yahoofinance": {
   "name": "Yahoo Finance",
   "sector": "Financial data",
   "description": "Market data site carrying coverage of Transformers & Rectifiers India's gain.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-05"
  },
  "kitco": {
   "name": "Kitco",
   "sector": "Media",
   "description": "Precious metals news site reporting on gold prices and ETF flows.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-05"
  },
  "bullionvault": {
   "name": "BullionVault",
@@ -4477,7 +4477,7 @@
   "sector": "Media",
   "description": "Crypto publication reporting on shrinking bitcoin supply on exchanges.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-05"
  },
  "theblock": {
   "name": "The Block",
@@ -4512,7 +4512,7 @@
   "sector": "Media",
   "description": "Mobile news site covering Samsung Galaxy S25 FE pricing on Flipkart.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-05"
  },
  "hrkatha": {
   "name": "HRKatha",
@@ -4547,7 +4547,7 @@
   "sector": "Media",
   "description": "Indian markets site explaining HAL's consecutive share price rise.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-05"
  },
  "gktoday": {
   "name": "GKToday",
@@ -4561,21 +4561,21 @@
   "sector": "Media",
   "description": "Indian business newspaper covering IDBI Bank's share surge and Q2 results.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-05"
  },
  "economictimes": {
   "name": "Economic Times",
   "sector": "Media",
   "description": "Indian business newspaper carrying the morning dispatch and Info Edge coverage.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-05"
  },
  "businesstoday": {
   "name": "Business Today",
   "sector": "Media",
   "description": "Indian business magazine covering Vedanta Power and demerged stocks.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-05"
  },
  "linkedin": {
   "name": "LinkedIn",
@@ -4624,7 +4624,7 @@
   "sector": "Media",
   "description": "Financial news outlet reporting investor interest in Jio Platforms' IPO.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-05"
  },
  "reuters": {
   "name": "Reuters",
@@ -5037,7 +5037,7 @@
   "sector": "Banking",
   "description": "Indian private bank, a peer to IDBI Bank.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "statebankofindia": {
   "name": "State Bank of India",
@@ -5394,7 +5394,7 @@
   "sector": "Jewellery retail",
   "description": "Runs retail jewellery stores across Tamil Nadu selling gold, silver, diamonds and platinum, with in-house manufacturing units.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "cclproducts": {
   "name": "CCL Products",
@@ -7438,7 +7438,7 @@
   "sector": "Media",
   "description": "Indian business newspaper.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-05"
  },
  "hindustantimes": {
   "name": "Hindustan Times",
@@ -7487,7 +7487,7 @@
   "sector": "Media",
   "description": "Indian newspaper.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-05"
  },
  "openthemagazine": {
   "name": "OpenTheMagazine",
@@ -7522,7 +7522,7 @@
   "sector": "Ratings",
   "description": "Credit ratings and research agency.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-05"
  },
  "sec": {
   "name": "SEC",
@@ -7676,7 +7676,7 @@
   "sector": "Stock exchange",
   "description": "Indian exchange where Jio Platforms' IPO bids and Reliance share moves were recorded.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-05"
  },
  "dcgi": {
   "name": "DCGI",
@@ -7851,7 +7851,7 @@
   "sector": "News",
   "description": "Indian startup and technology news outlet.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-05"
  },
  "veloxxmedia": {
   "name": "Veloxx Media",
@@ -9671,7 +9671,7 @@
   "sector": "Design software",
   "description": "Design platform that launched Canva Craft, its first in-house image generation model.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "cci": {
   "name": "CCI",
@@ -9741,14 +9741,14 @@
   "sector": "News outlet",
   "description": "Business news site comparing Blinkit and DMart quarterly sales.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-05"
  },
  "usatoday": {
   "name": "USA Today",
   "sector": "News outlet",
   "description": "Newspaper covering whether gold will hit $5,000.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-05"
  },
  "fxempire": {
   "name": "FXEmpire",
@@ -10994,14 +10994,14 @@
   "sector": "Telecom",
   "description": "US cable and media company; launched an agentic customer-service front end for bot interactions.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "unilever": {
   "name": "Unilever",
   "sector": "Consumer goods",
   "description": "Global consumer goods company; launched NOVA, five AI agents built with Microsoft to process orders.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-05"
  },
  "bayercropscience": {
   "name": "Bayer Crop Science",
@@ -11904,7 +11904,7 @@
   "sector": "Media",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-05"
  },
  "washingtonpost": {
   "name": "Washington Post",
@@ -13115,7 +13115,7 @@
   "sector": "Power",
   "description": "Indian state-owned hydropower producer; cited as a peer comparison for Vedanta Power.",
   "first_added": "2026-10-30",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "ntpcgreen": {
   "name": "NTPC Green",
@@ -14417,7 +14417,7 @@
   "sector": "Telecom",
   "description": "US cable and broadband operator in talks with Jio Platforms over licensing wireless broadband technology for equity.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "people": {
   "name": "People Inc.",
@@ -14578,41 +14578,398 @@
   "sector": "Telecom",
   "description": "South African telecom operator; talks with Jio broke down over valuation and licensing.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "deutschebank": {
   "name": "Deutsche Bank",
   "sector": "Banking",
   "description": "German bank selling its India retail, private banking and wealth management business to Kotak.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "essarrenewables": {
   "name": "Essar Renewables",
   "sector": "Renewable energy",
   "description": "Signs PPA with NHPC for a 300 MW firm and dispatchable renewable project in Andhra Pradesh.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "hegadvancedmaterials": {
   "name": "Heg Advanced Materials",
   "sector": "Advanced materials",
   "description": "Runs graphite electrode, anode materials and green power businesses; Q2 revenue rose 144%.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "fractalanalytics": {
   "name": "Fractal Analytics",
   "sector": "AI analytics",
   "description": "Analytics and AI solutions provider; Q2 net profit more than doubled as revenue crossed $100 million.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "multicommodityexchange": {
   "name": "Multi Commodity Exchange",
   "sector": "Commodity exchange",
   "description": "India's largest commodity derivatives exchange; shares fell despite 130% profit growth.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
+ },
+ "pierrecomputercompany": {
+  "name": "Pierre Computer Company",
+  "sector": "Developer tools",
+  "description": "Maker of Code Storage and open-source developer tools including Trees and Diffs libraries; being acquired by OpenAI.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "ateam": {
+  "name": "A.Team",
+  "sector": "AI services",
+  "description": "Company that built an agentic system with Unilever to speed up media decisions.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "huron": {
+  "name": "Huron",
+  "sector": "Consulting",
+  "description": "Consulting firm whose growth team built agents that draft proposals and RFP responses.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "workos": {
+  "name": "WorkOS",
+  "sector": "Enterprise software",
+  "description": "Enterprise software company that suffered unauthorized access to an internal sales application.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "akerbp": {
+  "name": "Aker BP",
+  "sector": "Oil and gas",
+  "description": "Norwegian oil company that co-developed a field development workflow with Halliburton.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "halliburton": {
+  "name": "Halliburton",
+  "sector": "Oilfield services",
+  "description": "Oilfield services company that introduced Agile Asset Management with Aker BP.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "hyatt": {
+  "name": "Hyatt",
+  "sector": "Hospitality",
+  "description": "Hotel chain reporting Q3 2026 RevPAR growth of 7.2% and a record development pipeline.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "qatartourism": {
+  "name": "Qatar Tourism",
+  "sector": "Tourism",
+  "description": "Qatar's tourism body; its WhatsApp support agent handles 80% of requests without humans.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "shemspublicit": {
+  "name": "Shem's Publicité",
+  "sector": "Advertising",
+  "description": "Creative agency whose team cut batch production time from five days to under 24 hours using AI.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "justrussel": {
+  "name": "Just Russel",
+  "sector": "Pet food",
+  "description": "Pet food brand operating in five markets; used AI to classify content and speed up scripting.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "gepromed": {
+  "name": "Gepromed",
+  "sector": "Healthcare services",
+  "description": "Organization that mapped 47 opportunities and deployed 16 role-specific AI skills.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "ambryhill": {
+  "name": "AmbryHill",
+  "sector": "Aerospace software",
+  "description": "Provider of aerospace ERP software; turned its database into a scoped AI agent.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "apollohospitals": {
+  "name": "Apollo Hospitals",
+  "sector": "Healthcare",
+  "description": "Indian hospital chain; Q2 net profit rose 32% to Rs 630 crore on 23% revenue growth.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "sundaramfinance": {
+  "name": "Sundaram Finance",
+  "sector": "NBFC",
+  "description": "Indian non-banking finance company; Q2 profit after tax up 21% to Rs 475 crore.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "mercedesbenzgroup": {
+  "name": "Mercedes-Benz Group",
+  "sector": "Automotive",
+  "description": "German carmaker investing a further Rs 200 crore in India and launching the electric GLC SUV.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "lockheedmartin": {
+  "name": "Lockheed Martin",
+  "sector": "Defence aerospace",
+  "description": "US defence contractor whose shares fell 6.9% on fears of weaker Pentagon spending after midterms.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "zeeentertainment": {
+  "name": "Zee Entertainment",
+  "sector": "Media",
+  "description": "Indian media and entertainment company; featured among stocks to buy on November 5.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "gmrairports": {
+  "name": "GMR Airports",
+  "sector": "Airports",
+  "description": "Indian airport operator; featured among stocks to buy on November 5.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "graphiteindia": {
+  "name": "Graphite India",
+  "sector": "Graphite electrodes",
+  "description": "Indian maker of graphite electrodes used in electric arc furnaces; cited as a peer comparison for HEGAM.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "indianenergyexchange": {
+  "name": "Indian Energy Exchange",
+  "sector": "Power exchange",
+  "description": "Indian electricity trading exchange; cited as a main player in commodity derivatives.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "citibankindia": {
+  "name": "Citibank India",
+  "sector": "Banking",
+  "description": "Indian arm of Citigroup; named as an external member of RBI's Technical Consultative Committee for Financial Markets.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "morganstanleyindia": {
+  "name": "Morgan Stanley India",
+  "sector": "Financial services",
+  "description": "Indian arm of Morgan Stanley; named as an external member of RBI's Technical Consultative Committee for Financial Markets.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "ccil": {
+  "name": "CCIL",
+  "sector": "Financial infrastructure",
+  "description": "Clearing Corporation of India; named as an external member of RBI's Technical Consultative Committee for Financial Markets.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "fimmda": {
+  "name": "FIMMDA",
+  "sector": "Financial markets",
+  "description": "Fixed Income Money Market and Derivatives Association; named as an external member of RBI's committee.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "archiveofourown": {
+  "name": "Archive of Our Own",
+  "sector": "Fanfiction platform",
+  "description": "Fanfiction hosting site with nearly 18.5 million works; went down after a security incident.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "drchokseyfinserv": {
+  "name": "DRChoksey Finserv",
+  "sector": "Financial services",
+  "description": "Brokerage whose Deven Choksey expects Reliance Industries EBITDA of Rs 2.6-2.7 lakh crore in FY27.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "sp": {
+  "name": "S&P",
+  "sector": "Credit ratings",
+  "description": "Ratings agency that affirmed Reliance Industries' 'A-' rating with a stable outlook.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "marketgauge": {
+  "name": "MarketGauge",
+  "sector": "Market research",
+  "description": "Market research firm whose Michele Schneider commented on gold's broken flight-to-safety appeal.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "adp": {
+  "name": "ADP",
+  "sector": "HR services",
+  "description": "Payroll processor that reported 86,000 US private-sector jobs created in October.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "uniteai": {
+  "name": "Unite.ai",
+  "sector": "News media",
+  "description": "AI news outlet that reported Fractal Analytics' profit climb.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "indiainfoline": {
+  "name": "India Infoline",
+  "sector": "News media",
+  "description": "Indian financial news outlet that reported MCX shares slipping 5%.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "404media": {
+  "name": "404 Media",
+  "sector": "News media",
+  "description": "Technology news outlet that reported the takedown of the ao3.life fanfiction clone.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "ndtvprofit": {
+  "name": "NDTV Profit",
+  "sector": "News media",
+  "description": "Indian business news channel that listed stocks to buy on November 5.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "orissadiary": {
+  "name": "Orissa Diary",
+  "sector": "News media",
+  "description": "News outlet that reported Digit Insurance's CEO winning a leadership award.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "inshorts": {
+  "name": "Inshorts",
+  "sector": "News media",
+  "description": "News aggregation app that reported Naukri's JobSpeak hiring data.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "vaneck": {
+  "name": "VanEck",
+  "sector": "Asset management",
+  "description": "Asset manager whose blog discussed bitcoin miners and the neocloud sell-off.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "quartz": {
+  "name": "Quartz",
+  "sector": "News media",
+  "description": "News outlet that reported Goldman Sachs restricting AI coding tools for traders.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "windowsforum": {
+  "name": "Windows Forum",
+  "sector": "News media",
+  "description": "Technology forum that reported Huron's 1,046 active AI agents.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "roicai": {
+  "name": "ROIC.ai",
+  "sector": "Financial data",
+  "description": "Financial data platform that published Hyatt's third quarter 2026 earnings transcript.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "ayautomate": {
+  "name": "Ayautomate",
+  "sector": "AI services",
+  "description": "Blog that detailed agentic AI business use cases including Qatar Tourism and Just Russel.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "auroradesio": {
+  "name": "Aurora Desio",
+  "sector": "News media",
+  "description": "News site that reported Flipkart's Big Bang Diwali sale deals.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "91mobiles": {
+  "name": "91mobiles",
+  "sector": "News media",
+  "description": "Indian mobile news site that reported Motorola's Flipkart Diwali sale deals.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "indianretailer": {
+  "name": "Indian Retailer",
+  "sector": "News media",
+  "description": "Retail news outlet that reported Flipkart Minutes nearing Blinkit on order values.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "digitin": {
+  "name": "Digit.in",
+  "sector": "News media",
+  "description": "Technology news site that reported the Lenovo IdeaPad discount on Flipkart.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "adhocnewsde": {
+  "name": "Ad-hoc-news.de",
+  "sector": "News media",
+  "description": "German news site that reported Bernstein and JM Financial target prices for Eternal.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "domainnamewire": {
+  "name": "Domain Name Wire",
+  "sector": "News media",
+  "description": "Domain industry news site that reported Reliance's cybersquatting dispute over jiolat.com.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "cxodigitalpulse": {
+  "name": "CXO Digital Pulse",
+  "sector": "News media",
+  "description": "Technology news outlet that reported Fractal Analytics crossing $100 million quarterly revenue.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "themachinemaker": {
+  "name": "The Machine Maker",
+  "sector": "News media",
+  "description": "Manufacturing news outlet that reported HEG Advanced Materials' Q2 FY27 revenue.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "ventureintelligence": {
+  "name": "Venture Intelligence",
+  "sector": "News media",
+  "description": "Private equity news outlet that reported Jio's tech-for-equity talks with Comcast and Charter.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "biggofinance": {
+  "name": "BigGo Finance",
+  "sector": "News media",
+  "description": "Financial news site that carried the Jio-Comcast-Charter licensing report.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "spglobal": {
+  "name": "S&P Global",
+  "sector": "Credit ratings",
+  "description": "Ratings agency that affirmed Reliance Industries' 'A-' rating.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
  }
 }
