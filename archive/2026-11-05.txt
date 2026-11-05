@@ -3,8 +3,8 @@ METRICS
 NIFTY PE | 19.77 | 4 Nov 2026 | https://nifty-pe-ratio.com/
 Gold per 10g 24K | ₹1,42,810 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 23,960.60 (+4.46%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹76,14,297 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $80,740 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹75,90,376 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $80,457 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -13,11 +13,11 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   04 Nov 2026 | https://inc42.com/buzz/jio-in-talks-with-us-based-comcast-charter-to-license-broadband-technology-report/
-  • Jio Platforms is in talks with US cable operators Comcast and Charter Communications to license its unlicensed band radio (UBR) broadband technology in exchange for potential equity stakes. ¶ • Jio targets 10-15 global partners for its UBR technology, which beams high-speed internet to buildings over free unlicensed Wi-Fi frequencies without cables to individual homes. ¶ • Talks with South Africa's MTN Group collapsed over disagreement on valuation and certain licensing terms, with no timetable set for any agreement with Comcast or Charter. ¶ • Jio Platforms reported Q2 FY27 net profit of ₹8,387 crore, up 13.7% from ₹7,375 crore a year earlier, and net customer additions of 9.1 million to 542.4 million subscribers. ¶ • S&P affirmed Reliance Industries' 'A-' rating with a stable outlook, citing the Jio Platforms listing that raised about ₹30,000 crore in fresh capital and projected digital services EBITDA growth of 12-14% in FY27. ¶ ↗ inc42.com|https://inc42.com/buzz/jio-in-talks-with-us-based-comcast-charter-to-license-broadband-technology-report/ ;; finance.biggo.com|https://finance.biggo.com/news/555aeaa2-96d1-4d0f-8fd0-7b4d15dfd860 ;; news.ventureintelligence.com|https://news.ventureintelligence.com/private-equity/jio-platforms-explores-tech-for-equity-talks-with-comcast,-charter:-report ;; tradingview.com|https://www.tradingview.com/news/moodys:e368e40e479b8:0-how-jio-is-unlocking-hidden-value-for-reliance-shareholders/
+  • Jio Platforms is in talks with US cable operators Comcast and Charter Communications to license its unlicensed band radio (UBR) broadband technology in exchange for potential equity stakes. ¶ • Jio targets 10-15 global partners for UBR, which beams internet over free Wi-Fi frequencies from towers or rooftops without cabling individual homes. ¶ • Talks with South Africa's MTN Group collapsed over valuation and licensing terms, with no timeline set for any agreement. ¶ • Jio Platforms reported Q2 FY27 net profit of ₹8,387 crore, up 13.7% year on year, with 542.4 million subscribers after adding 9.1 million net customers. ¶ • Jio's $3.2 billion IPO listed at a 21.36% premium to its ₹1,119 issue price, and its listing narrowed Reliance's holding-company discount to about 20-25% from 30%. ¶ ↗ inc42.com|https://inc42.com/buzz/jio-in-talks-with-us-based-comcast-charter-to-license-broadband-technology-report/ ;; telecomtv.com|https://www.telecomtv.com/content/the-future-of-ran/what-s-up-with-spacex-qualcomm-sk-telecom-jio-platforms-56594/ ;; finance.biggo.com|https://finance.biggo.com/news/555aeaa2-96d1-4d0f-8fd0-7b4d15dfd860 ;; news.ventureintelligence.com|https://news.ventureintelligence.com/private-equity/jio-platforms-explores-tech-for-equity-talks-with-comcast,-charter:-report
 
 - Outlook: Bullish
   2026-11-05 |
-  §VIEW§{"stance": "bullish", "text": "The news flow is bullish: 13.7% profit growth, 9.1 million net subscriber additions to 542.4 million, and UBR licensing talks with Comcast and Charter open an overseas path. MTN talks failing shows Jio will not compromise on valuation."}
+  §VIEW§{"stance": "bullish", "text": "Talks with Comcast and Charter could give Jio its first major Western licensing deal, while Q2 profit rose 13.7% and the IPO premium signalled strong demand. The MTN collapse shows valuation discipline, not weak interest."}
 
 [Reliance Intelligence]
 
@@ -25,36 +25,41 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   04 Nov 2026 | https://www.tradingview.com/news/moodys:8c9dc40e2c989:0-reliance-industries-shares-another-record-ril-biggest-on-mtf-book-with-60-jump-dethrones-hdfc-bank-buy-or-sell/
-  • Reliance Industries filed a cybersquatting dispute over jiolat.com that a WIPO panelist ruled was reverse domain name hijacking, citing the company's failure to disclose a 2010 trademark opposition. ¶ • S&P affirmed RIL's 'A-' credit rating with a stable outlook, projecting consolidated EBITDA to grow 19-23% to ₹2.15-2.25 trillion in FY27. ¶ • RIL's Q2 FY27 profit after tax rose 33.8% year-on-year to ₹29,550 crore, with revenue up 27.8% to ₹3,62,268 crore and EBITDA up 23.9% to a record ₹62,409 crore. ¶ • Reliance's MTF exposure jumped 60% to ₹4,711 crore, overtaking HDFC Bank as the most-held stock in the margin trading book. ¶ • Deven Choksey of DRChoksey Finserv expects RIL EBITDA of ₹2.6-2.7 lakh crore in FY27, driven by strong refining margins and Jio Platforms' growing contribution. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:8c9dc40e2c989:0-reliance-industries-shares-another-record-ril-biggest-on-mtf-book-with-60-jump-dethrones-hdfc-bank-buy-or-sell/ ;; domainnamewire.com|https://domainnamewire.com/2026/11/04/indias-biggest-public-company-tries-to-reverse-hijack-domain-name/ ;; business-standard.com|https://www.business-standard.com/companies/news/s-p-affirms-reliance-industries-a-credit-rating-cites-jio-listing-stronger-earnings-126110400770_1.html ;; cnbctv18.com|https://www.cnbctv18.com/market/reliance-industries-share-price-outlook-jio-platforms-marico-hul-nestle-fmcg-deven-choksey-alpha-article-20026583.htm
+  • Reliance Industries' MTF exposure jumped 60% to ₹4,711 crore, overtaking HDFC Bank for the top spot in the margin trading book. ¶ • S&P affirmed RIL's 'A-' credit rating with a stable outlook, projecting FY27 EBITDA growth of 19-23% to ₹2.15-2.25 trillion. ¶ • RIL posted Q2 FY27 consolidated PAT of ₹29,550 crore, up 33.8% YoY, on revenue of ₹3,62,268 crore, up 27.8%. ¶ • A WIPO panelist ruled RIL attempted reverse domain name hijacking over jiolat.com, finding the owner had legitimate rights. ¶ • RIL reportedly expressed interest in Odisha's Karlapat bauxite block, though it has made no official aluminium entry statement. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:8c9dc40e2c989:0-reliance-industries-shares-another-record-ril-biggest-on-mtf-book-with-60-jump-dethrones-hdfc-bank-buy-or-sell/ ;; domainnamewire.com|https://domainnamewire.com/2026/11/04/indias-biggest-public-company-tries-to-reverse-hijack-domain-name/ ;; business-standard.com|https://www.business-standard.com/companies/news/s-p-affirms-reliance-industries-a-credit-rating-cites-jio-listing-stronger-earnings-126110400770_1.html ;; thecore.in|https://www.thecore.in/business/india-aluminium-boom-adani-reliance-bauxite-vedanta-hindalco-873581
 
 - Outlook: Bullish
   2026-11-05 |
-  §VIEW§{"stance": "bullish", "text": "Strong Q2 earnings, S&P's affirmed rating and Jio's listing support the bullish case. The reverse hijacking ruling is a minor reputational knock but does not dent the earnings-driven momentum."}
+  §VIEW§{"stance": "bullish", "text": "Record Q2 earnings, a 60% MTF surge and S&P's affirmed A- rating with 19-23% FY27 EBITDA growth point to strong momentum. The O2C EBITDA up 67.9% YoY and Jio's listing support the case."}
 
 [Flipkart]
 
 - ~
   05 Nov 2026 | https://www.auroradesio.it/top/248553232/
-  • Flipkart's Big Bang Diwali sale is live, with Motorola offering festive prices on smartphones starting at ₹12,999. ¶ • Motorola Signature 12GB+256GB is priced at ₹57,249 on Flipkart, down from its original ₹74,999. ¶ • Motorola Edge 70 Pro 8GB+256GB is available for ₹36,999, while the Edge 70 Max 8GB+256GB costs ₹51,999. ¶ • Lenovo IdeaPad Slim 5 14IMH10 gets a ₹30,100 discount on Flipkart, selling for ₹1,19,900; SBI card users save an extra ₹12,750. ¶ • Flipkart Minutes is nearing Blinkit on order values, gaining an edge through electronics, according to a report. ¶ ↗ 91mobiles.com|https://www.91mobiles.com/hub/motorola-flipkart-big-bang-diwali-sale-deals-revealed/ ;; mymobileindia.com|https://www.mymobileindia.com/motorola-signature-edge-70-and-moto-g-phones-get-festive-deals-on-flipkart/ ;; indianretailer.com|https://indianretailer.com/news/flipkart-minutes-nears-blinkit-order-values-gains-edge-through-electronics ;; digit.in|https://www.digit.in/news/laptops/lenovo-ideapad-slim-5-14imh10-available-with-over-rs-30000-discount-during-flipkart-diwali-sale-check-details.html
+  • Flipkart's Big Bang Diwali sale is live with Motorola discounts across Signature, Edge 70 and Moto G phones, and no confirmed end date. ¶ • Motorola Signature is listed at ₹57,249 on Flipkart, down from an original ₹74,999 for the 12GB + 256GB model. ¶ • Moto Edge 70 Max sells at ₹51,999 and Edge 70 Pro at ₹36,999 during the Flipkart festive sale. ¶ • Moto G77 Power is priced at ₹19,999 and Moto G06 Power at ₹12,999, with bank card and exchange offers up to ₹10,000. ¶ • Dermis Oracle listed its Seekcaus skincare and Anable haircare ranges on Flipkart, Amazon and Myntra for pan-India delivery. ¶ ↗ 91mobiles.com|https://www.91mobiles.com/hub/motorola-flipkart-big-bang-diwali-sale-deals-revealed/ ;; mymobileindia.com|https://www.mymobileindia.com/motorola-signature-edge-70-and-moto-g-phones-get-festive-deals-on-flipkart/ ;; mediabrief.com|https://mediabrief.com/dermis-oracle-expands-online-presence/ ;; passionateinmarketing.com|https://www.passionateinmarketing.com/dermis-oracle-expands-online-presence-across-amazon-flipkart-and-myntra/
 
-- Outlook: Bullish
+- Outlook: Neutral
   2026-11-05 |
-  §VIEW§{"stance": "bullish", "text": "Flipkart's festive sale with deep discounts across smartphones and laptops drives order value and engagement. Flipkart Minutes closing in on Blinkit in order values, aided by electronics, strengthens its quick-commerce position."}
+  §VIEW§{"stance": "neutral", "text": "Festive Motorola discounts and new brand listings show Flipkart's marketplace pull, but the articles give no Flipkart revenue, margin or order data. That split keeps the read neutral."}
 
 [Zomato]
 
 - ~
   04 Nov 2026 | https://www.businesstoday.in/technology/news/story/zomato-launches-host-mode-to-hide-food-prices-as-deepinder-goyal-acts-on-users-suggestion-how-it-works-565714-2026-11-04
-  • Bernstein named Blinkit its preferred quick-commerce pick for 2026 and set a target price of INR 370 for Eternal, citing lower cash burn and stronger contribution margins. ¶ • JM Financial set a target of INR 400 for Eternal, highlighting Blinkit's expansion beyond grocery into electronics and appliances. ¶ • Zomato rolled out Host Mode across India, hiding menu and cart prices from guests, after a LinkedIn suggestion reached founder Deepinder Goyal and was built in 72 hours. ¶ • Eternal stock traded at INR 343.90 on the NSE at 10:45 CET on November 4, 2026. ¶ • Bernstein warned that aggressive discounting, dark-store expansion and defending customer cohorts could keep Blinkit's profitability volatile. ¶ ↗ businesstoday.in|https://www.businesstoday.in/technology/news/story/zomato-launches-host-mode-to-hide-food-prices-as-deepinder-goyal-acts-on-users-suggestion-how-it-works-565714-2026-11-04 ;; ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/corporate-news/eternal-stock-bernstein-favors-blinkit-sets-inr-370-target/70458069 ;; ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/corporate-news/eternal-stock-gets-inr-400-target-as-blinkit-broadens-quick-commerce-range/70455471
+  • Zomato rolled out 'Host Mode' across India, hiding food prices from guests browsing a restaurant menu or cart, an idea it says it shipped in 72 hours. ¶ • Bernstein named Eternal's Blinkit its preferred sector pick for 2026 with an INR 370 target, expecting it to outpace Swiggy, Instamart and Zepto. ¶ • JM Financial set an INR 400 target on Eternal, citing Blinkit's wider assortment including electronics and appliances plus rising SKU depth. ¶ • Eternal stock traded at INR 343.90 on the NSE at 10:45 CET on November 4, 2026, per one report. ¶ • Cricketer Shubman Gill was spotted wearing what fans called a Zomato t-shirt and Deepinder Goyal's Temple device, sparking memes. ¶ ↗ businesstoday.in|https://www.businesstoday.in/technology/news/story/zomato-launches-host-mode-to-hide-food-prices-as-deepinder-goyal-acts-on-users-suggestion-how-it-works-565714-2026-11-04 ;; ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/corporate-news/eternal-stock-bernstein-favors-blinkit-sets-inr-370-target/70458069 ;; ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/corporate-news/eternal-stock-gets-inr-400-target-as-blinkit-broadens-quick-commerce-range/70455471 ;; freepressjournal.in|https://www.freepressjournal.in/sports/delivery-partner-shubman-gill-wears-red-t-shirt-deepinder-goyals-temple-device-fans-react-with-hilarious-memes
 
-- Outlook: Bullish
+- Outlook: Neutral
   2026-11-05 |
-  §VIEW§{"stance": "bullish", "text": "Two brokerages put targets of INR 370 and INR 400 on Eternal, above the INR 343.90 quote, on Blinkit's lead and wider assortment. Margin volatility from discounting and dark stores is the main risk."}
+  §VIEW§{"stance": "neutral", "text": "Two brokerages raised Eternal targets on Blinkit's lead, but they flag volatile margins from discounting. Host Mode is a product tweak, not a financial catalyst. That splits the read."}
 
 [HAL]
 
-- Five Stocks To Buy Today, November 5: HPCL, Bajaj Finance, HAL, And More
-  05 Nov 2026 | https://www.ndtvprofit.com/markets/five-stocks-to-buy-today-november-5-hpcl-zee-entertainment-hal-gmr-airports-bajaj-finance-12285008
+- ~
+  05 Nov 2026 | https://www.tradingview.com/news/moneycontrol:eacf47db4094b:0-trade-spotlight-how-should-you-trade-adani-green-energy-gail-hindustan-aeronautics-bharat-electronics-lodha-developers-and-others-on-november-5/
+  • HAL trades near ₹5,079 after a falling trendline breakout on the daily chart, with a successful retest and rebound above its 20-day moving average. ¶ • Religare sets a buy on HAL with target ₹5,470 and stop-loss ₹4,890, citing a breakout from a broader triangular pattern and a fresh buying pivot. ¶ • LKP Securities recommends buying HAL around ₹5,075 with target ₹5,400 and stop-loss ₹4,850, noting the RSI has entered a bullish crossover. ¶ • HAL sustains above its breakout zone and key weekly averages after a period of tight consolidation, forming an elevated base according to Religare. ¶ • Both analysts cite improving momentum indicators and a favourable price structure as reasons for renewed buying interest in HAL. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moneycontrol:eacf47db4094b:0-trade-spotlight-how-should-you-trade-adani-green-energy-gail-hindustan-aeronautics-bharat-electronics-lodha-developers-and-others-on-november-5/ ;; business-standard.com|https://www.business-standard.com/markets/news/religare-s-ajit-mishra-says-24-700-in-sight-for-nifty-bets-on-gail-hal-126110500087_1.html
+
+- Outlook: Bullish
+  2026-11-05 |
+  §VIEW§{"stance": "bullish", "text": "Two brokerages flag HAL's trendline and triangular breakouts with targets of Rs 5,400 and Rs 5,470, backed by RSI crossovers and sustained moves above key averages. The setup supports further upside while HAL holds above its breakout zone."}
 
 [Tejas Networks]
 
@@ -76,32 +81,32 @@ SOURCE 6: Watchlist (headlines + summary)
 [Infoedge/Naukri]
 
 - ~
-  04 Nov 2026 | https://inshorts.com/en/news/india-white-collar-hiring-up-14--in-october--naukri-1793789242382
-  • Naukri JobSpeak index rose to 2,836 in October, up 14% year-on-year in white-collar hiring. ¶ • Production and manufacturing led October hiring growth at 39%, with the auto sector up 36%. ¶ • Senior-level hiring rose 22% and fresher hiring 15% in October. ¶ • AI/ML roles jumped 32% in October, the fastest-growing skill category in the report. ¶ • Hyderabad led metro hiring growth, while Gandhinagar posted 48% growth among emerging markets. ¶ ↗ inshorts.com|https://inshorts.com/en/news/india-white-collar-hiring-up-14--in-october--naukri-1793789242382
+  05 Nov 2026 | https://m.economictimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-power-grid-ntpc-info-edge-among-26-stocks-for-dividend-rewards/articleshow/135555888.cms
+  • Info Edge fixed November 6 as record date for an interim dividend of ₹3 per share, making November 5 the last day to buy for eligibility. ¶ • India's white-collar hiring grew 14% year-on-year in October, with the Naukri JobSpeak index rising to 2,836. ¶ • Production and manufacturing led sector growth at 39%, while auto surged 36%. ¶ • Senior-level hiring rose 22% and fresher hiring 15%, with AI/ML roles up 32%. ¶ • Hyderabad led metro hiring, and Gandhinagar in Gujarat grew 48% among emerging markets. ¶ ↗ m.economictimes.com|https://m.economictimes.com/markets/stocks/news/dividend-alert-last-day-to-buy-power-grid-ntpc-info-edge-among-26-stocks-for-dividend-rewards/articleshow/135555888.cms ;; inshorts.com|https://inshorts.com/en/news/india-white-collar-hiring-up-14--in-october--naukri-1793789242382
 
 - Outlook: Bullish
   2026-11-05 |
-  §VIEW§{"stance": "bullish", "text": "Broad-based 14% hiring growth, led by manufacturing and AI/ML roles, points to firm demand for Naukri's listings and recruiter activity. Senior and fresher hiring both rising supports volumes across the platform."}
+  §VIEW§{"stance": "bullish", "text": "Naukri's 14% hiring growth and 2,836 JobSpeak index show broad demand across sectors and experience levels. The Rs 3 dividend adds a near-term return, supporting a bullish view."}
 
 [Bitcoin]
 
 - ~
-  04 Nov 2026 | https://www.vaneck.com/us/en/blogs/digital-assets/neocloud-sell-off-leaves-bitcoin-miners-oversold/
-  • Riot Platforms signed a 15-year lease with a Frontier AI Lab for its 910 MW Corsicana campus, worth about $28 billion in contracted revenue. ¶ • Riot's total contracted data center revenue reached about $38 billion across 1,151 MW, with roughly $2.2 billion average annual NOI at full deployment. ¶ • US spot Bitcoin ETFs lost $1 billion across Friday and Monday, with BlackRock's IBIT accounting for $405 million of Monday's withdrawals. ¶ • Bitcoin fell below $76,000 before recovering toward $78,000 as midterm election results clarified, while gold rose 2.4% to $4,020 an ounce. ¶ • Block agreed to pay $764 million to settle a DOJ anti-money-laundering probe, as its bitcoin gross profit fell 50% to $52 million. ¶ ↗ vaneck.com|https://www.vaneck.com/us/en/blogs/digital-assets/neocloud-sell-off-leaves-bitcoin-miners-oversold/ ;; sg.finance.yahoo.com|https://sg.finance.yahoo.com/news/riot-platforms-inc-riot-q3-010611759.html ;; bitcoinmagazine.com|https://bitcoinmagazine.com/news/block-xyz-sets-aside-764-million ;; tradingview.com|https://www.tradingview.com/news/tradingview:49a94e833094b:0-xauusd-btcusd-gold-is-back-above-4-000-bitcoin-recovers-from-election-shakeup/
+  05 Nov 2026 | https://finance.yahoo.com/markets/crypto/articles/250-bitcoin-ethereum-xrp-solana-020524465.html
+  • Bitcoin fell below Strategy's $75,451 average cost, with the coin at about $58,700 by June 30 versus a 2025 peak of $126,296. ¶ • A $1,000 basket split equally among Bitcoin, Ethereum, XRP and Solana on October 1 is worth $886.54 on November 4, down 11.3%. ¶ • Block agreed in principle to pay $764 million to resolve a Justice Department anti-money-laundering probe, more than its $566 million Q3 profit. ¶ • Bitcoin miners and powered shell providers fell about 35% in October on funding fears, though no signed leases were cancelled. ¶ • BIP-54, the Great Consensus Cleanup soft fork fixing four consensus flaws, is being tested, with MARA Pool and ViaBTC producing compatible coinbase transactions. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/250-bitcoin-ethereum-xrp-solana-020524465.html ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/strategy-down-45-high-saylor-023532838.html ;; vaneck.com|https://www.vaneck.com/us/en/blogs/digital-assets/neocloud-sell-off-leaves-bitcoin-miners-oversold/ ;; bitcoinmagazine.com|https://bitcoinmagazine.com/news/block-xyz-sets-aside-764-million
 
-- Outlook: Neutral
+- Outlook: Bearish
   2026-11-05 |
-  §VIEW§{"stance": "neutral", "text": "ETF outflows of $1 billion and Block's halved bitcoin profit weigh on sentiment, while Riot's $38 billion AI data center backlog shows miners pivoting to contracted revenue. The split is between weak crypto trading demand and strong infrastructure deals."}
+  §VIEW§{"stance": "bearish", "text": "Bitcoin trades below Strategy's $75,451 average cost and a $1,000 four-coin basket is down 11.3% since October 1. Block's bitcoin gross profit halved to $52 million, and miners fell about 35% in October."}
 
 [Gold]
 
 - ~
   04 Nov 2026 | https://fortune.com/article/current-price-of-gold-11-04-2026/
-  • Spot gold rose 2.26% to $4,041.41 an ounce on Nov. 4, up $89.31 from the previous close of $3,952.10, after midterm elections showed Democrats winning Congress. ¶ • Central banks bought a net 321 tonnes of gold in the third quarter, the fastest pace since 2024, while gold ETFs added 211 tonnes to a record, the World Gold Council reported Nov. 3. ¶ • Gold fell to a 52-week low of $3,875.58 last week, with October down 6.80%, the worst October since 2008, on higher yields, a firm dollar and oil-led inflation fears. ¶ • ADP said the US economy created 86,000 private-sector jobs in October, beating the 67,000 consensus and keeping the Fed on the fence about a December rate move. ¶ • MarketGauge's Michele Schneider said gold's flight-to-safety appeal is broken and warned a sustained break below $3,940 an ounce could push prices toward $3,500. ¶ ↗ fortune.com|https://fortune.com/article/current-price-of-gold-11-04-2026/ ;; kitco.com|https://www.kitco.com/news/article/2026-11-04/golds-recovery-above-4000-enough-fix-broken-market-asks-michele-schneider ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-diwali-dhanteras-where-is-gold-silver-rate-headed-on-november-04-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions-federal-reserve/articleshow/135528498.cms ;; usatoday.com|https://www.usatoday.com/story/money/personalfinance/2026/11/04/gold-price-on-november-04-2026/92610350007/
+  • Gold rose about 2.3% to roughly $4,040 per ounce on November 4, reclaiming the $4,000 level after a 52-week low of $3,875.58 last week. ¶ • Democrats are projected to win both the House and Senate in the US midterms, sending the dollar down as much as 0.4% and the 10-year Treasury yield down six basis points to 4.90%. ¶ • Gold remains about 26% below its 52-week high of $5,477.79 and has lost around 28% since its record high just below $5,600 in late January. ¶ • Central banks bought 321 tonnes of gold in Q3 (675 tonnes year-to-date, up 6%), while gold ETFs added 211 tonnes after a 47-tonne outflow in Q2, per the WGC. ¶ • Jewellery demand fell 17% and bar and coin demand fell 19% on high prices, and October's 6.80% drop was the worst October since 2008. ¶ ↗ fortune.com|https://fortune.com/article/current-price-of-gold-11-04-2026/ ;; finance.yahoo.com|https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-november-4-2026-gold-prices-rise-in-early-trading-but-limited-gains-expected-122544610.html ;; ig.com|https://www.ig.com/en-ch/news-and-trade-ideas/gold-price-midterms-4050-resistance-261104 ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-india-diwali-dhanteras-where-is-gold-silver-rate-headed-on-november-04-2026-mcx-gold-futures-outlook-us-iran-war-middle-east-tensions-federal-reserve/articleshow/135528498.cms
 
 - Outlook: Neutral
   2026-11-05 |
-  §VIEW§{"stance": "neutral", "text": "Gold reclaimed $4,000 on post-election dollar weakness and record central bank buying of 321 tonnes in Q3. But a 52-week low last week, weak jewellery and bar demand, and solid ADP jobs data leave the direction split."}
+  §VIEW§{"stance": "neutral", "text": "The midterm-driven dollar and yield drop lifted gold above $4,000, with steady central bank and ETF buying. But a likely hawkish Fed, weak jewellery demand and a broken technical trend cap gains."}
 
 ============================================================
 
@@ -164,7 +169,7 @@ SOURCE 8: AI News
 SOURCE 2: The Hindu - Editorials
 
 ### Helping hand: On Cyclones Arnab and Murasu
-04 Nov 2026 | https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece
+05 Nov 2026 | https://www.thehindu.com/opinion/editorial/helping-hand-on-cyclones-arnab-and-murasu/article71666118.ece
 
 • Cyclones Arnab and Murasu hit the Andhra Pradesh coast back-to-back, with Arnab making landfall on October 28 and Murasu on November 3.
 
@@ -195,11 +200,15 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 
 [[US midterm elections]]
 
+- Oil, gold and rupee swing as Democrats win U.S. midterms
+  05 Nov 2026 | https://www.thehindu.com/business/Economy/oil-prices-hit-two-month-low-after-us-democratic-win/article71668473.ece
+  • Brent crude fell 1% to $93.5 a barrel after an 8.7% drop, as Democrats took both chambers of Congress in the U.S. midterm elections. ¶ • GIFT Nifty futures at 24,295.5 pointed to a higher open for the Nifty 50, which closed at 23,960.6 on Wednesday.
+
 - Democrats win both chambers of U.S. Congress in midterm elections
   04 Nov 2026 | https://www.thehindu.com/business/Economy/us-midterm-elections-an-economy-under-pressure-political-shift-and-the-road-ahead/article71667011.ece
-  • Democrats took control of the House and Senate, with NBC News estimating at least 258 House seats against the 218 needed for a majority. ¶ • The result is expected to speed India-U.S. trade talks while raising the risk of higher U.S. tariffs on India until a deal closes.
+  • Democrats took control of the House of Representatives and the Senate, a significant setback for President Donald Trump. ¶ • Experts expect faster India-U.S. trade talks but possible higher tariffs, while U.S. inflation hit 3.7% in September and GDP grew 3.4% in Q3.
 
-[[India clean energy investment]]
+[[India energy transition]]
 
 - India secures $400-bn investment commitments in renewables; ALMM review in 15 days
   04 Nov 2026 | https://www.thehindu.com/business/Industry/india-secures-400-bn-investment-commitments-in-renewables-almm-review-in-15-days/article71667048.ece
@@ -227,7 +236,7 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   04 Nov 2026 | https://www.thehindu.com/business/sundaram-finances-q2-pat-up-21-to-475-cr-disbursements-grow-28/article71665175.ece
   • Sundaram Finance reported standalone profit after tax of ₹475 crore in Q2FY27, up 21% YoY, with disbursements rising 28% to ₹10,355 crore. ¶ • Assets under management grew 19% YoY to ₹65,992 crore as of September 30, 2026, while gross Stage 3 assets improved to 1.84% from 2.03%.
 
-[[India business expansion]]
+[[India investment and innovation]]
 
 - Mercedes-Benz Group AG to scale up technology, components sourcing from India; launches electric GLC starting ₹78.5 lakh
   04 Nov 2026 | https://www.thehindu.com/business/mercedes-benz-group-ag-to-scale-up-technology-components-sourcing-from-india-launches-electric-glc-starting-785-lakh/article71666883.ece
@@ -237,27 +246,21 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   04 Nov 2026 | https://www.thehindu.com/business/Industry/unilever-to-invest-40-million-in-india-rd-and-bio-futures-innovation/article71665558.ece
   • Unilever will invest €40 million in India, including €35 million to upgrade its Mumbai and Bengaluru R&D centres into a next-generation research ecosystem. ¶ • A separate €5 million over five years funds a Bio-Futures partnership, adding to the 800-plus scientists and specialists already at the two Indian hubs.
 
-[[Banking and financial regulation]]
+[[Government schemes and policy]]
 
-- Supreme Court upholds States’ power to levy additional sales tax, says case has become academic
-  04 Nov 2026 | https://www.thehindu.com/news/national/supreme-court-upholds-states-power-to-levy-additional-sales-tax-says-case-has-become-academic/article71664975.ece
-  • A seven-judge Constitution Bench led by Chief Justice Surya Kant unanimously ruled that the reference on States' power to levy additional sales tax is academic and does not survive for adjudication. ¶ • The Court said the 1974 S. Kodar vs State of Kerala ruling, which upheld additional sales tax as an enhancement of the sales tax rate under Entry 54 of List II, continues to hold the field.
-
-- RBI constitutes Technical Consultative Committee for Financial Markets
-  04 Nov 2026 | https://www.thehindu.com/business/markets/rbi-constitutes-technical-consultative-committee-for-financial-markets/article71664423.ece
-  • The RBI set up the Technical Consultative Committee for Financial Markets, chaired by the Deputy Governor in charge of its Financial Markets Regulation Department, to meet at least once a quarter. ¶ • The committee will advise on money, government securities, foreign exchange and derivative markets, covering liquidity, trading and settlement infrastructure, with external members from SEBI, FIMMDA, SBI, Axis Bank, ICICI Bank, Citibank India, CCIL and Morgan Stanley India.
-
-- Kotak Mahindra Bank gets CCI nod to acquire Deutsche Bank India's retail, private banking businesses
-  04 Nov 2026 | https://www.thehindu.com/business/Industry/kotak-mahindra-bank-gets-cci-nod-to-acquire-deutsche-bank-indias-retail-private-banking-businesses/article71664408.ece
-  • The Competition Commission of India approved Kotak Mahindra Bank's acquisition of Deutsche Bank's retail, private banking and wealth management business in India, run through its Indian branches. ¶ • The business being sold on a slump sale basis holds about ₹29,000 crore in loans, ₹16,000 crore in deposits and ₹10,500 crore in assets under management.
-
-[[Government schemes and statistics]]
+- From poverty alleviation to prosperity
+  04 Nov 2026 | https://www.thehindu.com/business/Economy/from-poverty-alleviation-to-prosperity/article71665574.ece
+  • The World Bank's latest Poverty and Equity brief estimates 496 million people moved out of extreme poverty between 2011 and 2023, with the $3-a-day extreme poverty rate falling to 2.6%. ¶ • India's prosperity gap is 4.9 against the $28-a-day benchmark, and about 64% of the population earns between $4.20 and $8.30 a day, needing three to sevenfold income gains.
 
 - Union Cabinet approves new VISTAR scheme to overhaul India’s statistical system
   04 Nov 2026 | https://www.thehindu.com/business/Economy/union-cabinet-approves-new-vistar-scheme-to-overhaul-indias-statistical-system/article71665494.ece
   • The Union Cabinet approved the ₹4,371 crore VISTAR scheme for 2026-27 to 2030-31 to modernise India's statistical architecture at the Central and State levels. ¶ • The scheme covers 59 surveys in the 16th Finance Commission cycle, an 8th Economic Census, and AI-enabled data processing, versus 43 major surveys previously.
 
-[[Other]]
+- Supreme Court upholds States’ power to levy additional sales tax, says case has become academic
+  04 Nov 2026 | https://www.thehindu.com/news/national/supreme-court-upholds-states-power-to-levy-additional-sales-tax-says-case-has-become-academic/article71664975.ece
+  • A seven-judge Constitution Bench led by Chief Justice Surya Kant unanimously ruled that the reference on States' power to levy additional sales tax is academic and does not survive for adjudication. ¶ • The Court said the 1974 S. Kodar vs State of Kerala ruling, which upheld additional sales tax as an enhancement of the sales tax rate under Entry 54 of List II, continues to hold the field.
+
+[[Economy and business trends]]
 
 - As Canva restructures, how is AI reshaping creative businesses? | Explained
   04 Nov 2026 | https://www.thehindu.com/business/Industry/as-canva-restructures-how-is-ai-reshaping-creative-businesses-explained/article71664828.ece
@@ -273,22 +276,135 @@ SOURCE 3: The Hindu - International (headlines + summary)
 
 [[US midterm elections]]
 
-- U.S. midterm elections 2026 LIVE: Republican U.S. House Speaker to step down; Zelenskyy hopes Democrat gains will bring more help for Ukraine
+- Democrats win US midterms; House Speaker Johnson to step down
   05 Nov 2026 | https://www.thehindu.com/news/international/us-midterm-elections-2026-results-trump-senate-congress-races-winners-losers-live-updates-republicans-democrats/article71668404.ece
-  • Democrats won control of both the House and Senate in the November 3, 2026 midterms, powered by voter anger over living costs, tariffs and the Iran war. ¶ • Republican House Speaker Mike Johnson will step down as party leader after the defeat, while Trump kept Defence Secretary Pete Hegseth and Zelenskyy said he hopes for more Ukraine aid.
+  • Democrats won control of both chambers of Congress in the November 3 midterms, prompting Republican House Speaker Mike Johnson to say he will step down as party leader. ¶ • Trump said the Iran war was worth it despite its role in the losses, while defence shares fell, with Lockheed Martin down 6.9%.
 
-- U.S. midterm elections 2026 highlights: Trump says 'largely true' Iran war caused election loss
-  05 Nov 2026 | https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-lossers-live-updates-trump-republicans-democrats-news/article71660811.ece
-  • Democrats won control of both chambers of Congress in the midterm elections, and Republican House Speaker Mike Johnson said he will step down as party leader. ¶ • Defence shares fell on fears of weaker Pentagon spending, with Lockheed Martin down 6.9%, while Trump defended the Iran war and said impeachment would 'destroy' Democrats.
+- U.S. midterm election results: Senate, House and Governor shifts before and after
+  05 Nov 2026 | https://www.thehindu.com/news/international/us-midterm-election-results-2026-congress-senate-house-governor-races-before-and-after/article71664981.ece
+  • Democrats won the House with 239 seats to the GOP's 147 and the Senate 54-44, giving them full control of Congress under President Trump. ¶ • Democrats also hold 28 governorships to 20 Republican ones, their first nationwide majority in 16 years, with firsts including Georgia's first Black female governor.
 
 - After Republicans routed, Trump devotes first post-midterm event to White House ballroom
   05 Nov 2026 | https://www.thehindu.com/news/international/trump-says-republicans-harmed-byiran-war-inability-to-transfer-the-love-for-him/article71667372.ece
   • Democrats took control of the Senate and House on November 3, 2026, winning seats in deeply conservative states that typically favor Republicans by double digits. ¶ • Trump's first public event after the losses was a nearly 20-minute ceremony on November 4, 2026, about the ballroom's final steel beam, with no sign of a change in course.
 
+[[US-China and India ties]]
+
+- What the U.S. midterms mean for ties with China
+  05 Nov 2026 | https://www.thehindu.com/news/international/what-the-us-midterms-mean-for-ties-with-china/article71668454.ece
+  • Democrats won control of both houses of Congress in the U.S. midterms, giving them power to limit President Donald Trump's tariffs on Chinese goods. ¶ • Analysts say a Democrat-led Congress may force Trump to resume a delayed $14-billion arms sale to Taiwan, which China claims as its own.
+
+- U.S. midterm results may matter less for India-U.S. ties than for India’s room to manoeuvre in geopolitics
+  05 Nov 2026 | https://www.thehindu.com/news/national/us-midterm-results-may-matter-less-for-india-us-ties-than-for-indias-room-to-manoeuvre-in-geopolitics/article71665475.ece
+  • Democrats are likely to win a sizable House majority and a comfortable Senate edge, restraining President Donald Trump on domestic and foreign policy. ¶ • Trump stood by his February 2026 attack on Iran but said Iran was "part" of the reason for Republican losses, a signal New Delhi will watch closely.
+
+[[Iran sanctions]]
+
+- U.S. slaps sanctions on Indian, Turkish firms and people for aiding Iran
+  05 Nov 2026 | https://www.thehindu.com/news/international/us-slaps-sanctions-on-indian-turkish-firms-and-people-for-aiding-iran/article71668431.ece
+  • The U.S. Treasury sanctioned India-based Suniel Kumar Sharma, his wife Jaspreet Preeti Shahid, two other Indian citizens, nine linked entities, and Turkey-based Fugo Ground Services for supporting Iran. ¶ • Treasury said Sharma's network issued false flags and certifications to vessels carrying Iranian petroleum, while Fugo serviced sanctioned Iranian airlines flying to Turkey.
+
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Entry norms for GPU bidders eased, but price pain remains
+05 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/gpu-bidding-norms-eased-lenskart-ceo-on-profitability/articleshow/135555615.cms
+
+• The government relaxed procurement terms to make it easier for companies to offer compute under the IndiaAI Mission.
+
+• Providers can now qualify with a minimum capacity of 512 GPUs or TPUs at a single data centre location in India, down from 1,000.
+
+• The first phase of procuring 10,000 GPUs under the ₹10,000 crore mission hit a snag due to escalating memory and chip costs, procurement issues and slower uptake.
+
+• Industry executives said the main issue of providing some guarantee of usage of compute has still not been addressed, and they worry about vendors quoting unsustainably low prices.
+
+### In our business, profitability tends to improve as we grow: Lenskart’s Peyush Bansal
+05 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/gpu-bidding-norms-eased-lenskart-ceo-on-profitability/articleshow/135555615.cms
+
+• Lenskart will continue to prioritise growth and investments in supply chain capacity as it looks to expand India’s eyewear market, CEO Peyush Bansal said.
+
+• India has roughly 60 optical stores per million people, compared with around 1,200 in the jewellery category, Bansal said.
+
+• Lenskart reported a 36% increase in consolidated revenue from operations in the July-September quarter to ₹2,845 crore, while net profit rose 125% to ₹232 crore.
+
+• The company plans to invest in manufacturing and supply infrastructure to meet rising demand, as the industry lacks capacity to source and manufacture enough frames and lenses.
+
+### Nykaa Q2 revenue surges 28%, net profit triples
+05 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/gpu-bidding-norms-eased-lenskart-ceo-on-profitability/articleshow/135555615.cms
+
+• Nykaa parent FSN E-Commerce Ventures reported a 28% on-year rise in consolidated revenues for the September quarter of FY27.
+
+• Revenue from operations rose to ₹3,006.04 crore from ₹2,345.98 crore a year earlier.
+
+• Net profit more than tripled to ₹101.19 crore from ₹32.98 crore in the year-ago period.
+
+• Nykaa has acquired an 82% stake in Mumbai-based beauty products brand Simply Nam for a cash consideration of ₹33 crore.
+
+### AI deployment accelerating, but enterprises becoming more discerning: Freshworks CEO Dennis Woodside
+05 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/gpu-bidding-norms-eased-lenskart-ceo-on-profitability/articleshow/135555615.cms
+
+• Enterprise adoption of AI software is accelerating, but companies are becoming more selective about where they spend, demanding clearer evidence of productivity gains and ROI, Freshworks CEO Dennis Woodside said.
+
+• Freshworks reported a 14% on-year increase in revenue to $245.4 million for the July-September quarter, marginally ahead of its guidance.
+
+• Net profit stood at $18.3 million, compared with a loss of $4.7 million in the year-ago period.
+
+• Freshworks has spent around $232 million on share buybacks since January and ended September with $697.3 million in cash, cash equivalents, restricted cash and marketable securities.
+
+### ShareChat’s FY26 revenue jumps 40% to Rs 1,016 crore on microdrama push; net loss widens
+05 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/gpu-bidding-norms-eased-lenskart-ceo-on-profitability/articleshow/135555615.cms
+
+• Mohalla Tech, which operates ShareChat, Moj, and QuickTV, reported a jump in FY26 revenues even as losses increased.
+
+• Operating revenue rose 40% to ₹1,016 crore.
+
+• Net loss widened to ₹1,978 crore from ₹1,105 crore a year ago.
+
+### BharatPe appoints Mohit Mittal
+05 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/gpu-bidding-norms-eased-lenskart-ceo-on-profitability/articleshow/135555615.cms
+
+• Fintech firm BharatPe has appointed former Bajaj Finance executive Mohit Mittal as head of investments.
+
+• Mittal will oversee product expansion, digital distribution, and strategic partnerships across BharatPe's investment offerings.
+
+• The appointment is part of BharatPe's efforts to scale its wealth management business and expand beyond its core payments and lending operations.
+
+### Sarvam AI unveils Prism
+05 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/gpu-bidding-norms-eased-lenskart-ceo-on-profitability/articleshow/135555615.cms
+
+• Sarvam AI has released Sarvam Prism, a decision model built on its Sarvam 105B model.
+
+• Sarvam Prism is a “System One” decision model designed to make fast, structured judgments from a set of predefined options rather than generating open-ended text or prose.
+
+• The model is aimed at fast, accurate choices across enterprise workflows.
+
+### Global pick: Oracle cancels $7bn Tencent AI deal under Trump pressure
+FT | https://www.ft.com/content/c5a6a738-cd78-4a8e-a814-57a7473ebb9c
+
+[Could not read the article, possibly paywalled]
+
+### Global pick: EU rules on Artificial Intelligence devices will apply in NI
+BBC | https://www.bbc.com/news/articles/c8x23zqxwdlro
+
+• A new Brexit agreement could make a £23m Border Control Post at Portsmouth Port unnecessary, prompting a compensation claim.
+
+• The Manx Fish Producers Organisation says pressures on the industry go beyond excessive red tape, voicing scepticism over a UK-EU deal.
+
+• Canva CEO Melanie Perkins says more than 1,000 staff will lose their jobs or be asked to change roles after the firm's hardest year.
+
+• Scammers are using AI-generated images of missing pets to demand reward money, with owners reporting threats to kill their cats.
+
+### Global pick: Voters set $400 million of Elon Musk’s money on fire
+Wired | https://www.wired.com/story/voters-set-dollar400-million-of-elon-musks-money-on-fire/
+
+• Candidates backed by Elon Musk's America PAC lost 20 races and won one, with 21 uncalled, per a WIRED analysis of election data.
+
+• Musk and his PAC spent more than $400 million since Trump retook office, including nearly $87 million on ads targeting 42 midterm races.
+
+• Of every traceable dollar Musk put into a decided race, more than 99 cents went to a race he lost.
+
+• Democrats will control much of Musk's Texas empire in January, including $1.6 billion in tax incentives and a SpaceX chip plant valued at more than $16.8 billion.
 
 ============================================================
 

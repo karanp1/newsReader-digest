@@ -144,7 +144,7 @@
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-05"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -515,7 +515,7 @@
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "godigit": {
   "name": "Go Digit",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-05"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -1761,7 +1761,7 @@
   "sector": "AI",
   "description": "Indian AI startup that appointed former Google Cloud India MD Sashikumar Sreedharan as President.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-05"
  },
  "otpless": {
   "name": "OTPless",
@@ -2895,7 +2895,7 @@
   "sector": "Eyewear retail",
   "description": "Omnichannel eyewear brand; fell 4.5% as Alpha Wave sold a ₹1,895 crore block stake.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-11-05"
  },
  "avenuesupermarts": {
   "name": "Avenue Supermarts",
@@ -3266,14 +3266,14 @@
   "sector": "Insurance",
   "description": "General insurance company; mentioned in the watchlist context.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "relianceintelligence": {
   "name": "Reliance Intelligence",
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-05"
  },
  "gartner": {
   "name": "Gartner",
@@ -3518,7 +3518,7 @@
   "sector": "Software",
   "description": "Business software company; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-11-05"
  },
  "oyo": {
   "name": "Oyo",
@@ -4813,7 +4813,7 @@
   "sector": "E-commerce",
   "description": "Indian beauty and fashion e-commerce platform seeing stronger festive user growth.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-05"
  },
  "asus": {
   "name": "Asus",
@@ -5121,14 +5121,14 @@
   "sector": "Crypto",
   "description": "Leading cryptocurrency that fell to $82,000 after higher-than-expected CPI.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-05"
  },
  "gold": {
   "name": "Gold",
   "sector": "Commodities",
   "description": "Precious metal trading near $4,100 with record ETF holdings.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-05"
  },
  "yaraj": {
   "name": "Yara J",
@@ -6780,7 +6780,7 @@
   "sector": "Electric vehicles",
   "description": "Electric vehicle and energy company; earnings to test Musk's AI spending ambitions amid SpaceX merger talk.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-05"
  },
  "tataconsultancyservices": {
   "name": "Tata Consultancy Services",
@@ -7172,7 +7172,7 @@
   "sector": "Retail",
   "description": "Indian beauty and fashion retailer, operator of Nykaa.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-05"
  },
  "instahelp": {
   "name": "InstaHelp",
@@ -7928,7 +7928,7 @@
   "sector": "Enterprise software",
   "description": "Database and cloud firm partnering with M42 and AstraZeneca on AI health infrastructure.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-05"
  },
  "m42": {
   "name": "M42",
@@ -14319,7 +14319,7 @@
   "sector": "Technology",
   "description": "Chinese internet and gaming group that develops open-weight AI models.",
   "first_added": "2026-11-03",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-05"
  },
  "baluforge": {
   "name": "Balu Forge",
@@ -14969,6 +14969,41 @@
   "name": "S&P Global",
   "sector": "Credit ratings",
   "description": "Ratings agency that affirmed Reliance Industries' 'A-' rating.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "dermisoracle": {
+  "name": "Dermis Oracle",
+  "sector": "Beauty personal care",
+  "description": "Indian beauty company that listed its Seekcaus skincare and Anable haircare ranges on Flipkart, Amazon and Myntra.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "simplynam": {
+  "name": "Simply Nam",
+  "sector": "Beauty personal care",
+  "description": "Mumbai-based beauty products brand in which Nykaa acquired an 82% stake for Rs 33 crore.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "sharechat": {
+  "name": "ShareChat",
+  "sector": "Social media",
+  "description": "Social media platform run by Mohalla Tech; FY26 revenue rose 40% to Rs 1,016 crore as losses widened.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "mohallatech": {
+  "name": "Mohalla Tech",
+  "sector": "Social media",
+  "description": "Operator of ShareChat, Moj and QuickTV; FY26 operating revenue rose 40% while net loss widened to Rs 1,978 crore.",
+  "first_added": "2026-11-05",
+  "last_mentioned": "2026-11-05"
+ },
+ "bharatpe": {
+  "name": "BharatPe",
+  "sector": "Fintech",
+  "description": "Indian fintech firm that appointed former Bajaj Finance executive Mohit Mittal as head of investments.",
   "first_added": "2026-11-05",
   "last_mentioned": "2026-11-05"
  }
