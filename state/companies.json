@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -158,21 +158,21 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
   "sector": "Telecom",
   "description": "Indian telecom operator providing mobile, broadband and enterprise services across the country.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-06"
  },
  "motilaloswal": {
   "name": "Motilal Oswal",
@@ -186,21 +186,21 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "walmart": {
   "name": "Walmart",
   "sector": "Retail",
   "description": "US retail giant and majority owner of Flipkart; facing pressure over employee stock option liquidity.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-06"
  },
  "myntra": {
   "name": "Myntra",
   "sector": "E-commerce",
   "description": "Online fashion retailer owned by Flipkart; former CEO Mukesh Bansal among ESOP petitioners.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "accel": {
   "name": "Accel",
@@ -501,21 +501,21 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "naukri": {
   "name": "Naukri",
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "godigit": {
   "name": "Go Digit",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -2139,7 +2139,7 @@
   "sector": "Pharmaceuticals",
   "description": "Indian drugmaker; parent of Lyfius Pharma, which filed the anti-dumping complaint on Penicillin G.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-11-06"
  },
  "propequity": {
   "name": "PropEquity",
@@ -3266,14 +3266,14 @@
   "sector": "Insurance",
   "description": "General insurance company; mentioned in the watchlist context.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "relianceintelligence": {
   "name": "Reliance Intelligence",
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "gartner": {
   "name": "Gartner",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3714,7 +3714,7 @@
   "sector": "Payments",
   "description": "Runs UPI; said MDR charges on select UPI merchant transactions start post-Diwali.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-11-06"
  },
  "higgsfieldai": {
   "name": "Higgsfield AI",
@@ -3728,7 +3728,7 @@
   "sector": "AI research",
   "description": "Google's AI research unit; builds the Gemma and Gemini model families and on-device scam detection tools.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-06"
  },
  "palantir": {
   "name": "Palantir",
@@ -3749,7 +3749,7 @@
   "sector": "Insurance",
   "description": "Life Insurance Corporation of India, the state-owned insurer; launched three new non-par individual plans.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-06"
  },
  "vantrockrealassets": {
   "name": "Vantrock Real Assets",
@@ -5016,7 +5016,7 @@
   "sector": "Oil and gas",
   "description": "Indian state oil and gas explorer, a peer to Vedanta Oil and Gas.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-06"
  },
  "oilindia": {
   "name": "Oil India",
@@ -5093,7 +5093,7 @@
   "sector": "Retail",
   "description": "Indian supermarket chain operated by Avenue Supermarts.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "indianairforce": {
   "name": "Indian Air Force",
@@ -5317,7 +5317,7 @@
   "sector": "AI",
   "description": "French AI company that released Timestral, a family of time-series foundation models running on standard CPUs.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-06"
  },
  "mckinsey": {
   "name": "McKinsey",
@@ -14137,7 +14137,7 @@
   "sector": "Crypto exchange",
   "description": "Brazilian crypto exchange that paused deposits and withdrawals after a breach.",
   "first_added": "2026-11-03",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-06"
  },
  "btcpayserver": {
   "name": "BTCPay Server",
@@ -14263,7 +14263,7 @@
   "sector": "Real estate",
   "description": "European residential property landlord using OpenAI tools for staging and asset analysis.",
   "first_added": "2026-11-03",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-06"
  },
  "rapido": {
   "name": "Rapido",
@@ -14816,7 +14816,7 @@
   "sector": "HR services",
   "description": "Payroll processor that reported 86,000 US private-sector jobs created in October.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "uniteai": {
   "name": "Unite.ai",
@@ -15012,21 +15012,21 @@
   "sector": "Auto components",
   "description": "Manesar-based Tier-1 auto parts maker; Q2 profit rose 38% and the board approved sunroof capacity expansion.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "ashokleyland": {
   "name": "Ashok Leyland",
   "sector": "Commercial vehicles",
   "description": "Hinduja group's truck and bus maker; shares jumped 10.67% as crude fell and October sales rose 23%.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "piindustries": {
   "name": "PI Industries",
   "sector": "Agrochemicals",
   "description": "Agrochemical custom synthesis and manufacturing player; shares fell 19.61% on weak Q2 results.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "aptusvaluehousingfinanceindia": {
   "name": "Aptus Value Housing Finance India",
@@ -15040,7 +15040,7 @@
   "sector": "Crypto mining",
   "description": "Bitcoin miner; posted about $126 million in Q3 net income on a paper gain on bitcoin holdings.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "marapool": {
   "name": "MARA Pool",
@@ -15061,21 +15061,21 @@
   "sector": "Telecom",
   "description": "Anil Ambani group telecom firm; ED attached Rs 510.17 crore tied to alleged bank fraud.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "reliancehomefinance": {
   "name": "Reliance Home Finance",
   "sector": "Housing finance",
   "description": "Anil Ambani group lender; ED attached assets tied to alleged bank fraud.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "reliancecommercialfinance": {
   "name": "Reliance Commercial Finance",
   "sector": "Financial services",
   "description": "Anil Ambani group lender; ED attached assets tied to alleged bank fraud.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "idioticmedia": {
   "name": "Idiotic Media",
@@ -15145,7 +15145,7 @@
   "sector": "Automotive",
   "description": "Indian automaker cited as a valuation peer in Ashok Leyland's comparison table.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "kpmg": {
   "name": "KPMG",
@@ -15285,21 +15285,21 @@
   "sector": "Media technology",
   "description": "Trump's media company; moved 4,259 Bitcoin worth $343.67 million to Crypto.com as collateral for convertible notes.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "cryptocom": {
   "name": "Crypto.com",
   "sector": "Cryptocurrency exchange",
   "description": "Crypto exchange that received 4,259 Bitcoin from Trump Media as collateral for $1 billion in convertible notes.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "cumminsindia": {
   "name": "Cummins India",
   "sector": "Industrial engines",
   "description": "Engine and power equipment maker; shares fell over 14% after Q2 net profit dropped 19% and margins narrowed.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "physicswallah": {
   "name": "PhysicsWallah",
@@ -15314,5 +15314,131 @@
   "description": "Elon Musk's political action committee; spent over $400 million and lost nearly every decided race it backed.",
   "first_added": "2026-11-05",
   "last_mentioned": "2026-11-05"
+ },
+ "cleanspark": {
+  "name": "CleanSpark",
+  "sector": "Bitcoin mining",
+  "description": "US Bitcoin mining company operating large mining facilities.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "iren": {
+  "name": "IREN",
+  "sector": "Bitcoin mining",
+  "description": "Bitcoin miner and data centre operator, formerly Iris Energy.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "cultfit": {
+  "name": "Cult.fit",
+  "sector": "Fitness",
+  "description": "Indian fitness chain and app operator with gyms and online coaching.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "merge": {
+  "name": "Merge",
+  "sector": "AI",
+  "description": "Builds connected software and AI products for customer-data integrations and agent tool access.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "worldwideexpress": {
+  "name": "Worldwide Express",
+  "sector": "Logistics",
+  "description": "US freight and transportation management company.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "zalando": {
+  "name": "Zalando",
+  "sector": "Fashion e-commerce",
+  "description": "European online fashion and lifestyle retailer.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "bytedance": {
+  "name": "ByteDance",
+  "sector": "Internet",
+  "description": "Chinese internet company, owner of TikTok.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "nexusmods": {
+  "name": "Nexus Mods",
+  "sector": "Gaming",
+  "description": "Website hosting game modifications for PC games.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "teamair": {
+  "name": "Team Air",
+  "sector": "HVAC distribution",
+  "description": "US HVAC equipment distributor.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "ansgroup": {
+  "name": "ANS Group",
+  "sector": "IT services",
+  "description": "UK managed cloud and IT services provider.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "logicmonitor": {
+  "name": "LogicMonitor",
+  "sector": "IT monitoring",
+  "description": "US provider of cloud-based infrastructure monitoring software.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "alembicpharma": {
+  "name": "Alembic Pharma",
+  "sector": "Pharmaceuticals",
+  "description": "Indian drugmaker making generics and active ingredients for India and exports.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "difgenpharmaceuticals": {
+  "name": "DifGen Pharmaceuticals",
+  "sector": "Pharmaceuticals",
+  "description": "US-focused pharma company partnering with Alembic on manufacturing and dosage forms.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "abbindia": {
+  "name": "ABB India",
+  "sector": "Industrial automation",
+  "description": "Indian arm of ABB, making electrification and automation equipment.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "adaniports": {
+  "name": "Adani Ports",
+  "sector": "Ports",
+  "description": "Indian ports and logistics operator; agreed to buy Netherlands-based Evos.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "evos": {
+  "name": "Evos",
+  "sector": "Tank storage",
+  "description": "Netherlands-based independent liquid storage operator, being acquired by Adani Ports.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "igneoinfrastructurepartners": {
+  "name": "Igneo Infrastructure Partners",
+  "sector": "Infrastructure investment",
+  "description": "Infrastructure investment manager selling Evos to Adani Ports.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "uenobank": {
+  "name": "Ueno Bank",
+  "sector": "Banking",
+  "description": "Paraguayan bank seized by the central bank amid a banking crisis.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
  }
 }
