@@ -53,14 +53,14 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-06"
  },
  "google": {
   "name": "Google",
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-06"
  },
  "olaelectric": {
   "name": "Ola Electric",
@@ -144,7 +144,7 @@
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -179,7 +179,7 @@
   "sector": "Financial services",
   "description": "Indian brokerage and financial services firm; values Jio Platforms and rates Reliance Industries a buy.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-06"
  },
  "flipkart": {
   "name": "Flipkart",
@@ -221,7 +221,7 @@
   "sector": "E-commerce",
   "description": "Global online retailer running Great Indian Festival sale in competition with Flipkart.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "chennaipetroleum": {
   "name": "Chennai Petroleum",
@@ -312,14 +312,14 @@
   "sector": "Telecom",
   "description": "Airtel-branded mobile operator in Rajasthan and Northeast India; also sells broadband in Rajasthan.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-11-06"
  },
  "vodafoneidea": {
   "name": "Vodafone Idea",
   "sector": "Telecom",
   "description": "Indian telecom operator with negative earnings, competing with Airtel and Jio.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-06"
  },
  "cupid": {
   "name": "Cupid",
@@ -830,7 +830,7 @@
   "sector": "Consumer electronics",
   "description": "Smartphone maker offering the T5x at Rs 24,999 during Flipkart's sale.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-11-06"
  },
  "meesho": {
   "name": "Meesho",
@@ -1061,7 +1061,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its IBIT bitcoin ETF led $487.1 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "fidelity": {
   "name": "Fidelity",
@@ -1201,7 +1201,7 @@
   "sector": "Stock exchange",
   "description": "National Stock Exchange; listed on 24 September at Rs 1,785 per share.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-06"
  },
  "ntpcgreenenergy": {
   "name": "NTPC Green Energy",
@@ -1243,7 +1243,7 @@
   "sector": "IT services",
   "description": "French IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-31"
+  "last_mentioned": "2026-11-06"
  },
  "microsoft": {
   "name": "Microsoft",
@@ -1355,14 +1355,14 @@
   "sector": "Banking",
   "description": "Private bank; offered credit card discounts on MacBook Neo during Flipkart sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "hdfcbank": {
   "name": "HDFC Bank",
   "sector": "Banking",
   "description": "Private bank; offered debit card discounts on MacBook Neo during Flipkart sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "inoxwind": {
   "name": "Inox Wind",
@@ -1572,7 +1572,7 @@
   "sector": "Cloud computing",
   "description": "Google's cloud unit, which appointed an interim India head this week.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-06"
  },
  "beyondappliances": {
   "name": "Beyond Appliances",
@@ -1929,7 +1929,7 @@
   "sector": "Financial services",
   "description": "Investment bank appointed for Jio Platforms' IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-11-06"
  },
  "citigroup": {
   "name": "Citigroup",
@@ -2258,21 +2258,21 @@
   "sector": "Capital goods",
   "description": "Indian power equipment maker; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-06"
  },
  "abb": {
   "name": "ABB",
   "sector": "Capital goods",
   "description": "Electrification and automation company; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-06"
  },
  "hitachienergy": {
   "name": "Hitachi Energy",
   "sector": "Capital goods",
   "description": "Power grid equipment maker; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-11-06"
  },
  "kaynestech": {
   "name": "Kaynes Tech",
@@ -2685,7 +2685,7 @@
   "sector": "Financial services",
   "description": "Derivatives exchange; its FedWatch tool tracks rate hike probabilities.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-06"
  },
  "unitedaircraft": {
   "name": "United Aircraft Corporation",
@@ -2706,7 +2706,7 @@
   "sector": "Insurance regulator",
   "description": "India's insurance regulator; proposed changes to insurance commissions and product rules.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-31"
+  "last_mentioned": "2026-11-06"
  },
  "centralelectricityregulatorycommission": {
   "name": "Central Electricity Regulatory Commission",
@@ -2741,7 +2741,7 @@
   "sector": "Financial data",
   "description": "Indian stock research platform; flagged valuation and return metrics for several stocks.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "tdsecurities": {
   "name": "TD Securities",
@@ -2797,7 +2797,7 @@
   "sector": "IT services",
   "description": "Consulting and technology firm; a founding partner in Anthropic's Critical Infrastructure Defense Program.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-06"
  },
  "crowdstrike": {
   "name": "CrowdStrike",
@@ -2937,7 +2937,7 @@
   "sector": "Financial services",
   "description": "Research firm; downgraded Tech Mahindra to Sell and cut Usha Martin's grade to Hold.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "alphawaveventures": {
   "name": "Alpha Wave Ventures",
@@ -3322,7 +3322,7 @@
   "sector": "Industrial technology",
   "description": "Industrial technology firm; technology partner for LTTS's Bengaluru manufacturing AI lab.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-06"
  },
  "elaracapital": {
   "name": "Elara Capital",
@@ -4050,7 +4050,7 @@
   "sector": "Investment banking",
   "description": "Investment bank named among anchor investors in Jio Platforms' IPO.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "religare": {
   "name": "Religare",
@@ -4071,7 +4071,7 @@
   "sector": "Electrical equipment",
   "description": "Electrical equipment maker named as an OEM on Zetwerk's manufacturing marketplace.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-06"
  },
  "ntpcrenewableenergy": {
   "name": "NTPC Renewable Energy",
@@ -4120,7 +4120,7 @@
   "sector": "AI coding",
   "description": "AI coding tool bundled into xAI's new X Subscription plan alongside Grok.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-11-06"
  },
  "grok": {
   "name": "Grok",
@@ -4155,7 +4155,7 @@
   "sector": "AI",
   "description": "Anthropic's AI assistant, adopted by GovTech Singapore and 15 federal agencies.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-06"
  },
  "claudecode": {
   "name": "Claude Code",
@@ -4183,7 +4183,7 @@
   "sector": "AI coding",
   "description": "OpenAI's coding tool used by Higgsfield creatives to turn ideas into software prototypes.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-06"
  },
  "brix": {
   "name": "BriX",
@@ -4806,14 +4806,14 @@
   "sector": "Philanthropy",
   "description": "Charitable trusts owning 66% of Tata Sons, facing governance complaints.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-06"
  },
  "nykaa": {
   "name": "Nykaa",
   "sector": "E-commerce",
   "description": "Indian beauty and fashion e-commerce platform seeing stronger festive user growth.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "asus": {
   "name": "Asus",
@@ -4932,14 +4932,14 @@
   "sector": "Judiciary",
   "description": "Indian court hearing the NMC founder's suit against Bank of Baroda and Tata Trusts caveats.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-06"
  },
  "maharashtracharitycommissioner": {
   "name": "Maharashtra Charity Commissioner",
   "sector": "Government",
   "description": "Office handling complaints about governance at Tata Trusts.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-11-06"
  },
  "usfda": {
   "name": "US FDA",
@@ -6248,14 +6248,14 @@
   "sector": "Markets",
   "description": "Indian benchmark index that fell 876.37 points to 73,852.90.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-06"
  },
  "nifty": {
   "name": "Nifty",
   "sector": "Markets",
   "description": "Indian benchmark index that dropped 257.20 points to 22,888.95.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-06"
  },
  "bsecapitalgoodsindex": {
   "name": "BSE Capital Goods Index",
@@ -6269,7 +6269,7 @@
   "sector": "Commodities",
   "description": "Oil benchmark at $107.79 a barrel, down 1.88%, a key risk to the rupee.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-06"
  },
  "rupee": {
   "name": "Rupee",
@@ -6304,7 +6304,7 @@
   "sector": "Government",
   "description": "US Federal Reserve; rate-hike odds for October 28 dropped, supporting Bitcoin.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-06"
  },
  "usspotbitcoinetfs": {
   "name": "US spot Bitcoin ETFs",
@@ -6787,7 +6787,7 @@
   "sector": "IT services",
   "description": "Indian IT services firm that issued a letter of intent to Tejas Networks for BSNL 4G sites.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-11-06"
  },
  "psg": {
   "name": "PSG",
@@ -7074,7 +7074,7 @@
   "sector": "Cloud computing",
   "description": "Amazon's cloud unit; launched the open-source TorchNeuron tool for its Trainium chips.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-06"
  },
  "trainium": {
   "name": "Trainium",
@@ -7109,7 +7109,7 @@
   "sector": "AI",
   "description": "Google's AI model family; its transcription model was compared with Voxtral 3.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-06"
  },
  "scribe": {
   "name": "Scribe",
@@ -7676,7 +7676,7 @@
   "sector": "Stock exchange",
   "description": "Indian exchange where Jio Platforms' IPO bids and Reliance share moves were recorded.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "dcgi": {
   "name": "DCGI",
@@ -8103,7 +8103,7 @@
   "sector": "Automotive data",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-11-06"
  },
  "tpci": {
   "name": "TPCI",
@@ -8327,7 +8327,7 @@
   "sector": "AI",
   "description": "Mistral's trillion-parameter model, called Le Chonk, trained on NVIDIA Grace Blackwell GPUs.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-06"
  },
  "omniverse": {
   "name": "Omniverse",
@@ -8474,7 +8474,7 @@
   "sector": "Judiciary",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-06"
  },
  "un": {
   "name": "UN",
@@ -8642,7 +8642,7 @@
   "sector": "Executive",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "vladimirputin": {
   "name": "Vladimir Putin",
@@ -9412,7 +9412,7 @@
   "sector": "Commodity exchange",
   "description": "India's multi commodity exchange trading gold and other futures.",
   "first_added": "2026-10-25",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-06"
  },
  "floridaamuniversity": {
   "name": "Florida A&M University",
@@ -10224,7 +10224,7 @@
   "sector": "Cloud computing",
   "description": "AWS service hosting Claude Opus 4.8 for Rescale's triage agent.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-06"
  },
  "amazoneks": {
   "name": "Amazon EKS",
@@ -10238,7 +10238,7 @@
   "sector": "Software",
   "description": "Protocol letting AI agents connect to tools and data sources.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-06"
  },
  "lean": {
   "name": "Lean",
@@ -10315,7 +10315,7 @@
   "sector": "Financial markets",
   "description": "US exchange where Anthropic plans to list under ticker ANT.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-06"
  },
  "defenceacquisitioncouncil": {
   "name": "Defence Acquisition Council",
@@ -11197,7 +11197,7 @@
   "sector": "Pharmaceuticals",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-31"
+  "last_mentioned": "2026-11-06"
  },
  "divislabs": {
   "name": "Divi's Labs",
@@ -11218,7 +11218,7 @@
   "sector": "Pharmaceuticals",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-06"
  },
  "drreddyslabs": {
   "name": "Dr Reddy's Labs",
@@ -11722,7 +11722,7 @@
   "sector": "IT services",
   "description": "IT firm launching GCC Origin, a dedicated unit serving global capability centres.",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-06"
  },
  "ptcindia": {
   "name": "PTC India",
@@ -15250,7 +15250,7 @@
   "sector": "Development finance",
   "description": "Multilateral lender; estimated 496 million people left extreme poverty between 2011 and 2023.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "wipo": {
   "name": "WIPO",
@@ -15473,6 +15473,412 @@
   "name": "Chip Ganassi Racing",
   "sector": "Motorsport",
   "description": "US racing team testing AI workflows to convert 3D scans into CAD models.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "dlf": {
+  "name": "DLF",
+  "sector": "Real estate",
+  "description": "Indian property developer; signed term sheet with Everstone for Rs 3,750-crore IREO investment.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "everstone": {
+  "name": "Everstone",
+  "sector": "Private equity",
+  "description": "Investment firm; joined DLF for a Rs 3,750-crore joint venture in IREO's Indian entities.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "ireo": {
+  "name": "IREO",
+  "sector": "Real estate",
+  "description": "Real estate group; DLF and Everstone will take majority stake in its Indian entities.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "microntechnology": {
+  "name": "Micron Technology",
+  "sector": "Semiconductors",
+  "description": "US memory chipmaker; Taoyuan plant saw Taiwan's first semiconductor strike; five OSAT facilities operational.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "kaynessemicon": {
+  "name": "Kaynes Semicon",
+  "sector": "Semiconductors",
+  "description": "Indian OSAT/ATMP facility that became operational this year.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "cgsemi": {
+  "name": "CG Semi",
+  "sector": "Semiconductors",
+  "description": "Indian OSAT/ATMP facility that became operational this year.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "cdil": {
+  "name": "CDIL",
+  "sector": "Semiconductors",
+  "description": "Indian OSAT/ATMP facility that became operational this year.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "suchisemicon": {
+  "name": "Suchi Semicon",
+  "sector": "Semiconductors",
+  "description": "Indian OSAT/ATMP facility that became operational this year.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "sahasrasemiconductors": {
+  "name": "Sahasra Semiconductors",
+  "sector": "Semiconductors",
+  "description": "Indian semiconductor firm that began production at its unit this year.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "rrpelectronics": {
+  "name": "RRP Electronics",
+  "sector": "Semiconductors",
+  "description": "Indian semiconductor firm that began production at its unit this year.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "m1xchange": {
+  "name": "M1xchange",
+  "sector": "Fintech",
+  "description": "TReDS invoice financing platform; financed over Rs 20,000 crore in 30 days from Navratri.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "blueorigin": {
+  "name": "Blue Origin",
+  "sector": "Space",
+  "description": "Jeff Bezos's space company; filed for a permit for 50,000 satellites.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "omanair": {
+  "name": "Oman Air",
+  "sector": "Aviation",
+  "description": "Gulf carrier; among 10 smaller Gulf airlines denied airport slots at Mumbai.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "gulfair": {
+  "name": "Gulf Air",
+  "sector": "Aviation",
+  "description": "Gulf carrier; among 10 smaller Gulf airlines denied airport slots at Mumbai.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "airarabia": {
+  "name": "Air Arabia",
+  "sector": "Aviation",
+  "description": "Gulf carrier; among 10 smaller Gulf airlines denied airport slots at Mumbai.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "kuwaitairways": {
+  "name": "Kuwait Airways",
+  "sector": "Aviation",
+  "description": "Gulf carrier; among 10 smaller Gulf airlines denied airport slots at Mumbai.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "qatarairways": {
+  "name": "Qatar Airways",
+  "sector": "Aviation",
+  "description": "Gulf carrier; among 10 smaller Gulf airlines denied airport slots at Mumbai.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "adanigroup": {
+  "name": "Adani Group",
+  "sector": "Conglomerate",
+  "description": "Indian conglomerate; deferred Navi Mumbai airport shift to summer 2027 after ministry intervention.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "quantsmallcapfund": {
+  "name": "Quant Small Cap Fund",
+  "sector": "Asset management",
+  "description": "Indian mutual fund; added 72.05 lakh Jio Platforms shares in October.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "cibil": {
+  "name": "CIBIL",
+  "sector": "Credit information",
+  "description": "Indian credit bureau; reported repeat gold borrowing rising among low-risk customers.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "unesco": {
+  "name": "UNESCO",
+  "sector": "International organisation",
+  "description": "UN cultural body; inscribed Mahabharata, Arthashastra and Rajatarangini manuscripts on regional register.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "ignca": {
+  "name": "IGNCA",
+  "sector": "Culture",
+  "description": "Indian cultural institution; prepared nomination dossiers for UNESCO Memory of the World register.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "pngrb": {
+  "name": "PNGRB",
+  "sector": "Energy regulation",
+  "description": "Indian downstream regulator; said 247 of 308 CBG plants lack pipeline connectivity.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "ministryofmines": {
+  "name": "Ministry of Mines",
+  "sector": "Government",
+  "description": "Indian government ministry; launched ninth round of critical mineral block auctions.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "ministryofcivilaviation": {
+  "name": "Ministry of Civil Aviation",
+  "sector": "Government",
+  "description": "Indian government ministry; intervened to defer Navi Mumbai airport shift.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "nationalcommissionforsafaikaramcharis": {
+  "name": "National Commission for Safai Karamcharis",
+  "sector": "Government",
+  "description": "Indian statutory body; data show 859 workers died in sewer and septic tank jobs 2014-2025.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "parliament": {
+  "name": "Parliament",
+  "sector": "Government",
+  "description": "Indian legislature; data cited on sewer cleaning deaths.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "vistar": {
+  "name": "VISTAR",
+  "sector": "Government statistics",
+  "description": "Viksit Bharat Initiative for Statistical Transformation, Analytics & Research overhauling India's statistical system.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "ecms": {
+  "name": "ECMS",
+  "sector": "Government scheme",
+  "description": "Indian electronics component manufacturing scheme; may prioritise chip supply chain firms.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "treds": {
+  "name": "TReDS",
+  "sector": "Fintech",
+  "description": "RBI-regulated invoice financing platform; volumes rose 36% to Rs 75,788 crore in August-September.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "houseofnykaa": {
+  "name": "House of Nykaa",
+  "sector": "Beauty and fashion",
+  "description": "Nykaa's portfolio of 13 owned and partner brands across beauty and fashion.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "fynd": {
+  "name": "Fynd",
+  "sector": "Retail technology",
+  "description": "Indian retail tech firm; its Festive Season Report 2026 showed Flipkart-Myntra share fell to 76.8%.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "gptrealtime": {
+  "name": "GPT Realtime",
+  "sector": "AI",
+  "description": "OpenAI's real-time voice model; used by Cult.fit for voice-first AI Trainer.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "mistralvibe": {
+  "name": "Mistral Vibe",
+  "sector": "AI",
+  "description": "Mistral's coding agent; runtime supports millions of sessions weekly.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "mistralstudio": {
+  "name": "Mistral Studio",
+  "sector": "AI",
+  "description": "Mistral's enterprise AI platform with managed agents and apps.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "sparky": {
+  "name": "Sparky",
+  "sector": "AI",
+  "description": "Walmart's AI shopping agent; can identify products from a photo and build carts from lists.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "edwinai": {
+  "name": "Edwin AI",
+  "sector": "AI",
+  "description": "LogicMonitor's AI observability tool; cut alert noise 83% at ANS Group.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "adpassist": {
+  "name": "ADP Assist",
+  "sector": "AI",
+  "description": "ADP's AI assistant; added 100,000 more clients since the fourth quarter.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "adplyric": {
+  "name": "ADP Lyric",
+  "sector": "AI",
+  "description": "ADP's HR platform; Recruiting AI Interviewer completed over 4,400 AI interviews.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "apicentral": {
+  "name": "API Central",
+  "sector": "Cloud AI",
+  "description": "ADP's API platform; expanded with Model Context Protocol servers and AI tools.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "synthid": {
+  "name": "SynthID",
+  "sector": "AI",
+  "description": "Google's imperceptible watermark; applied to Gemini Omni 1.2 Flash outputs.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "geminiapi": {
+  "name": "Gemini API",
+  "sector": "AI",
+  "description": "Google's API for Gemini models; Omni 1.2 Flash now generally available.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "geminiforbusiness": {
+  "name": "Gemini for business",
+  "sector": "AI",
+  "description": "Google's enterprise Gemini offering; Omni 1.2 Flash now available.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "chatgptedu": {
+  "name": "ChatGPT Edu",
+  "sector": "AI",
+  "description": "OpenAI's education offering; UNSW bringing it to over 80,000 students and staff.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "unswsydney": {
+  "name": "UNSW Sydney",
+  "sector": "University",
+  "description": "Australian university; partnering with OpenAI and bringing ChatGPT Edu to 80,000 students.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "universityofsydney": {
+  "name": "University of Sydney",
+  "sector": "University",
+  "description": "Australian university; partnering with OpenAI on AI-native graduates.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "latrobeuniversity": {
+  "name": "La Trobe University",
+  "sector": "University",
+  "description": "Australian university; plans universal AI access for 45,000 students and staff in Q1 2027.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "adelaideuniversity": {
+  "name": "Adelaide University",
+  "sector": "University",
+  "description": "Australian university; partnering with OpenAI on AI-native graduates.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "abanca": {
+  "name": "ABANCA",
+  "sector": "Banking",
+  "description": "Spanish bank; a Mistral Studio customer in production.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "alten": {
+  "name": "Alten",
+  "sector": "IT services",
+  "description": "French IT consulting firm; a Mistral Studio customer in production.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "cmacgm": {
+  "name": "CMA CGM",
+  "sector": "Shipping",
+  "description": "French shipping and logistics group; a Mistral Studio customer in production.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "speedship": {
+  "name": "SpeedShip",
+  "sector": "Logistics software",
+  "description": "Worldwide Express's transportation management system; integrated with multi-agent AI.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "feishu": {
+  "name": "Feishu",
+  "sector": "Collaboration software",
+  "description": "ByteDance's workplace collaboration platform; covered by new AI tool restrictions.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "windsurf": {
+  "name": "Windsurf",
+  "sector": "AI",
+  "description": "AI coding tool; phased out by ByteDance in May 2025.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "tatacomm": {
+  "name": "Tata Comm",
+  "sector": "Telecom",
+  "description": "Indian telecom and digital services firm; profitable peer cited in TTML comparison.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "divislaboratories": {
+  "name": "Divi's Laboratories",
+  "sector": "Pharma",
+  "description": "Indian CRDMO and API maker; peer cited in Sai Life Sciences comparison.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "syngene": {
+  "name": "Syngene",
+  "sector": "Pharma CRDMO",
+  "description": "Indian contract research and manufacturing firm; peer cited in Sai Life comparison.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "siemensenergy": {
+  "name": "Siemens Energy",
+  "sector": "Electrical equipment",
+  "description": "Power and energy equipment maker; peer cited in Thermax comparison.",
   "first_added": "2026-11-06",
   "last_mentioned": "2026-11-06"
  }
