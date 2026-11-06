@@ -1068,7 +1068,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its FBTC bitcoin ETF saw $105.2 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-06"
  },
  "arkhamintelligence": {
   "name": "Arkham Intelligence",
@@ -3245,7 +3245,7 @@
   "sector": "Holding company",
   "description": "Holding company controlling the Tata group; reportedly in early talks with banks about a potential listing.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-06"
  },
  "birlasoft": {
   "name": "Birlasoft",
@@ -5121,14 +5121,14 @@
   "sector": "Crypto",
   "description": "Leading cryptocurrency that fell to $82,000 after higher-than-expected CPI.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "gold": {
   "name": "Gold",
   "sector": "Commodities",
   "description": "Precious metal trading near $4,100 with record ETF holdings.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-06"
  },
  "yaraj": {
   "name": "Yara J",
@@ -5184,7 +5184,7 @@
   "sector": "Electrical equipment",
   "description": "Makes AC generators and electric motors to customer specifications near Bengaluru.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-06"
  },
  "hdfcdefencefund": {
   "name": "HDFC Defence Fund",
@@ -8040,7 +8040,7 @@
   "sector": "Telecom",
   "description": "Provides wireline voice and data services to enterprises in Maharashtra and Goa.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-06"
  },
  "keiindustries": {
   "name": "KEI Industries",
@@ -15438,6 +15438,41 @@
   "name": "Ueno Bank",
   "sector": "Banking",
   "description": "Paraguayan bank seized by the central bank amid a banking crisis.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "sailifesciences": {
+  "name": "Sai Life Sciences",
+  "sector": "Pharma services",
+  "description": "Hyderabad-based contract research and manufacturing firm serving innovator pharma and biotech clients.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "thermax": {
+  "name": "Thermax",
+  "sector": "Capital goods",
+  "description": "Indian maker of energy and environment equipment such as boilers and pollution control systems.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "corescientific": {
+  "name": "Core Scientific",
+  "sector": "Crypto mining",
+  "description": "US bitcoin miner exiting mining by year-end and shifting to colocation hosting.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "goldroyalty": {
+  "name": "Gold Royalty Corp",
+  "sector": "Mining royalties",
+  "description": "US company holding royalty interests in gold mines, reporting record quarterly revenue.",
+  "first_added": "2026-11-06",
+  "last_mentioned": "2026-11-06"
+ },
+ "chipganassiracing": {
+  "name": "Chip Ganassi Racing",
+  "sector": "Motorsport",
+  "description": "US racing team testing AI workflows to convert 3D scans into CAD models.",
   "first_added": "2026-11-06",
   "last_mentioned": "2026-11-06"
  }
