@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -130,7 +130,7 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-07"
  },
  "starlink": {
   "name": "Starlink",
@@ -158,35 +158,35 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
   "sector": "Telecom",
   "description": "Indian telecom operator providing mobile, broadband and enterprise services across the country.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "motilaloswal": {
   "name": "Motilal Oswal",
   "sector": "Financial services",
   "description": "Indian brokerage and financial services firm; values Jio Platforms and rates Reliance Industries a buy.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "flipkart": {
   "name": "Flipkart",
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "walmart": {
   "name": "Walmart",
@@ -200,7 +200,7 @@
   "sector": "E-commerce",
   "description": "Online fashion retailer owned by Flipkart; former CEO Mukesh Bansal among ESOP petitioners.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "accel": {
   "name": "Accel",
@@ -221,7 +221,7 @@
   "sector": "E-commerce",
   "description": "Global online retailer running Great Indian Festival sale in competition with Flipkart.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "chennaipetroleum": {
   "name": "Chennai Petroleum",
@@ -501,7 +501,7 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "naukri": {
   "name": "Naukri",
@@ -536,7 +536,7 @@
   "sector": "Banking",
   "description": "Indian public sector bank providing retail and corporate banking services.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-07"
  },
  "kross": {
   "name": "Kross",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -683,7 +683,7 @@
   "sector": "Quick commerce",
   "description": "Ranked fourth in product availability at 82.5%, per Bernstein.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-07"
  },
  "criteo": {
   "name": "Criteo",
@@ -830,7 +830,7 @@
   "sector": "Consumer electronics",
   "description": "Smartphone maker offering the T5x at Rs 24,999 during Flipkart's sale.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "meesho": {
   "name": "Meesho",
@@ -1061,14 +1061,14 @@
   "sector": "Asset management",
   "description": "Asset manager; its IBIT bitcoin ETF led $487.1 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "fidelity": {
   "name": "Fidelity",
   "sector": "Asset management",
   "description": "Asset manager; its FBTC bitcoin ETF saw $105.2 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "arkhamintelligence": {
   "name": "Arkham Intelligence",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1201,7 +1201,7 @@
   "sector": "Stock exchange",
   "description": "National Stock Exchange; listed on 24 September at Rs 1,785 per share.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "ntpcgreenenergy": {
   "name": "NTPC Green Energy",
@@ -1250,7 +1250,7 @@
   "sector": "Software",
   "description": "US software giant; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-31"
+  "last_mentioned": "2026-11-07"
  },
  "adobe": {
   "name": "Adobe",
@@ -1348,7 +1348,7 @@
   "sector": "Consumer electronics",
   "description": "iPhone and MacBook maker; discounts on MacBook Neo offered during Flipkart's sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-07"
  },
  "icicibank": {
   "name": "ICICI Bank",
@@ -2804,7 +2804,7 @@
   "sector": "Cybersecurity",
   "description": "Cybersecurity firm; a founding partner in Anthropic's infrastructure defense program.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-07"
  },
  "dragos": {
   "name": "Dragos",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-07"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -3021,7 +3021,7 @@
   "sector": "Steel products",
   "description": "Pipe maker; cited as a valuation peer for Usha Martin.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-11-07"
  },
  "icicilombard": {
   "name": "ICICI Lombard",
@@ -3266,7 +3266,7 @@
   "sector": "Insurance",
   "description": "General insurance company; mentioned in the watchlist context.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "relianceintelligence": {
   "name": "Reliance Intelligence",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3574,7 +3574,7 @@
   "sector": "Oil and gas",
   "description": "Abu Dhabi state energy firm open to more long-term LPG deals and storage expansion in India.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-07"
  },
  "cfminternational": {
   "name": "CFM International",
@@ -3714,7 +3714,7 @@
   "sector": "Payments",
   "description": "Runs UPI; said MDR charges on select UPI merchant transactions start post-Diwali.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "higgsfieldai": {
   "name": "Higgsfield AI",
@@ -3994,7 +3994,7 @@
   "sector": "Power",
   "description": "Power producer; named as a peer comparison for Vedanta Power.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-07"
  },
  "muthootfinance": {
   "name": "Muthoot Finance",
@@ -5016,7 +5016,7 @@
   "sector": "Oil and gas",
   "description": "Indian state oil and gas explorer, a peer to Vedanta Oil and Gas.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "oilindia": {
   "name": "Oil India",
@@ -7928,7 +7928,7 @@
   "sector": "Enterprise software",
   "description": "Database and cloud firm partnering with M42 and AstraZeneca on AI health infrastructure.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-07"
  },
  "m42": {
   "name": "M42",
@@ -9167,7 +9167,7 @@
   "sector": "Quick commerce",
   "description": "Swiggy's quick commerce grocery delivery service.",
   "first_added": "2026-10-24",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-07"
  },
  "bijnis": {
   "name": "Bijnis",
@@ -9244,7 +9244,7 @@
   "sector": "Crypto exchange",
   "description": "Global cryptocurrency exchange; transferred BTC to Fidelity's ETF wallet.",
   "first_added": "2026-10-24",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-07"
  },
  "kilitchdrugs": {
   "name": "Kilitch Drugs",
@@ -9930,7 +9930,7 @@
   "sector": "Food and beverage",
   "description": "Indian packaged foods company fined Rs 1 lakh over a misleading whole wheat bread claim.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-07"
  },
  "unnatifortuneholdings": {
   "name": "Unnati Fortune Holdings",
@@ -11680,7 +11680,7 @@
   "sector": "Cybersecurity",
   "description": "Security researchers who used AI agents to access Anthropic's internal systems in under 12 hours.",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-07"
  },
  "panasonic": {
   "name": "Panasonic",
@@ -14193,7 +14193,7 @@
   "sector": "Energy",
   "description": "Indian LNG importer; September quarter net profit rose 53.2% to Rs 1,235 crore.",
   "first_added": "2026-11-03",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-07"
  },
  "qatarenergy": {
   "name": "QatarEnergy",
@@ -15481,21 +15481,21 @@
   "sector": "Real estate",
   "description": "Indian property developer; signed term sheet with Everstone for Rs 3,750-crore IREO investment.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "everstone": {
   "name": "Everstone",
   "sector": "Private equity",
   "description": "Investment firm; joined DLF for a Rs 3,750-crore joint venture in IREO's Indian entities.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "ireo": {
   "name": "IREO",
   "sector": "Real estate",
   "description": "Real estate group; DLF and Everstone will take majority stake in its Indian entities.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "microntechnology": {
   "name": "Micron Technology",
@@ -15565,49 +15565,49 @@
   "sector": "Aviation",
   "description": "Gulf carrier; among 10 smaller Gulf airlines denied airport slots at Mumbai.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "gulfair": {
   "name": "Gulf Air",
   "sector": "Aviation",
   "description": "Gulf carrier; among 10 smaller Gulf airlines denied airport slots at Mumbai.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "airarabia": {
   "name": "Air Arabia",
   "sector": "Aviation",
   "description": "Gulf carrier; among 10 smaller Gulf airlines denied airport slots at Mumbai.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "kuwaitairways": {
   "name": "Kuwait Airways",
   "sector": "Aviation",
   "description": "Gulf carrier; among 10 smaller Gulf airlines denied airport slots at Mumbai.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "qatarairways": {
   "name": "Qatar Airways",
   "sector": "Aviation",
   "description": "Gulf carrier; among 10 smaller Gulf airlines denied airport slots at Mumbai.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "adanigroup": {
   "name": "Adani Group",
   "sector": "Conglomerate",
   "description": "Indian conglomerate; deferred Navi Mumbai airport shift to summer 2027 after ministry intervention.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "quantsmallcapfund": {
   "name": "Quant Small Cap Fund",
   "sector": "Asset management",
   "description": "Indian mutual fund; added 72.05 lakh Jio Platforms shares in October.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "cibil": {
   "name": "CIBIL",
@@ -15698,7 +15698,7 @@
   "sector": "Retail technology",
   "description": "Indian retail tech firm; its Festive Season Report 2026 showed Flipkart-Myntra share fell to 76.8%.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-07"
  },
  "gptrealtime": {
   "name": "GPT Realtime",
@@ -15881,5 +15881,166 @@
   "description": "Power and energy equipment maker; peer cited in Thermax comparison.",
   "first_added": "2026-11-06",
   "last_mentioned": "2026-11-06"
+ },
+ "angelone": {
+  "name": "Angel One",
+  "sector": "Broking",
+  "description": "Indian brokerage that reached 7 million active investors as demat accounts surged.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "relianceconsumer": {
+  "name": "Reliance Consumer",
+  "sector": "FMCG",
+  "description": "Reliance's consumer goods arm; expanded its Independence biscuit range with nine variants from Rs 5.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "blinkcommerce": {
+  "name": "Blink Commerce",
+  "sector": "Quick commerce",
+  "description": "Blinkit operator whose food licence was suspended by Maharashtra FDA.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "kotakneo": {
+  "name": "Kotak Neo",
+  "sector": "Broking",
+  "description": "Kotak Mahindra's brokerage arm that rated HAL Add with a Rs 5,305 fair value.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "pesb": {
+  "name": "PESB",
+  "sector": "Government",
+  "description": "Public Enterprises Selection Board; recommended Jasbir Singh as HAL's Director (Engineering, R&D).",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "elliptic": {
+  "name": "Elliptic",
+  "sector": "Blockchain analytics",
+  "description": "Blockchain analytics firm that traced the Binance hackers' XRP-to-bitcoin swap.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "thorchain": {
+  "name": "THORChain",
+  "sector": "Crypto",
+  "description": "Decentralised exchange protocol used to swap XRP into bitcoin.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "hacktron": {
+  "name": "Hacktron",
+  "sector": "AI security",
+  "description": "Builds AI agents for code review, penetration testing and red teaming; partnering with OpenAI on vulnerabilities.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "railway": {
+  "name": "Railway",
+  "sector": "Cloud infrastructure",
+  "description": "Cloud platform whose engineer used AI agents to scan rival Primcloud's systems.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "primcloud": {
+  "name": "Primcloud",
+  "sector": "Cloud infrastructure",
+  "description": "Cloud provider that says Railway's AI agents tried to retrieve customer secrets.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "kaltura": {
+  "name": "Kaltura",
+  "sector": "Edtech",
+  "description": "Selected by Israel's Ministry of Education to power personalised AI learning in K-12 schools.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "fiddlerai": {
+  "name": "Fiddler AI",
+  "sector": "AI security",
+  "description": "Founded 2018, raised about $99 million; becoming Falcon Observe for monitoring agents.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "dreadnode": {
+  "name": "Dreadnode",
+  "sector": "AI security",
+  "description": "Founded 2023, raised $14 million; feeding testing results into Falcon Guardian.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "dhlsupplychain": {
+  "name": "DHL Supply Chain",
+  "sector": "Logistics",
+  "description": "Keeps its finance-agent development team to two or three people; uses Oracle Document IO.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "insightenterprises": {
+  "name": "Insight Enterprises",
+  "sector": "IT solutions",
+  "description": "Built an AI governance model; discovered 9,734 agents across its environment.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "revolut": {
+  "name": "Revolut",
+  "sector": "Fintech",
+  "description": "Cut AI coding inference costs 90% by self-hosting GLM models over Claude and Codex.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "gujaratenergy": {
+  "name": "Gujarat Energy",
+  "sector": "Energy",
+  "description": "Signed a 10-year LNG supply and purchase agreement with ADNOC's XRG.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "futureretail": {
+  "name": "Future Retail",
+  "sector": "Retail",
+  "description": "CBI booked it, Kishore Biyani and others in a Rs 904 crore bank fraud case.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "taseglobal": {
+  "name": "TASE Global",
+  "sector": "Aerospace engineering",
+  "description": "Chennai-based Trusted Aerospace & Engineering; winning Rs 300 crore from ValueQuest's Tristar Fund.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "valuequest": {
+  "name": "ValueQuest",
+  "sector": "Asset management",
+  "description": "Its Tristar Fund will invest Rs 300 crore in TASE Global.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "indoasiacopper": {
+  "name": "Indo Asia Copper",
+  "sector": "Metals",
+  "description": "Its Rs 3,546-crore copper foil plant in Gujarat is the largest new ECMS commitment.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "npcitechsolutions": {
+  "name": "NPCI Tech Solutions",
+  "sector": "Fintech",
+  "description": "New wholly owned NPCI subsidiary for AI, blockchain, GCC services, eKYC Setu and ticketing.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
+ },
+ "mercedes": {
+  "name": "Mercedes",
+  "sector": "Automotive",
+  "description": "Signed Andrea Kimi Antonelli to its junior programme at 12; he became F1's youngest world champion.",
+  "first_added": "2026-11-07",
+  "last_mentioned": "2026-11-07"
  }
 }
