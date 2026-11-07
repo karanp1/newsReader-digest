@@ -3,8 +3,8 @@ METRICS
 NIFTY PE | 20.65 | 6 Nov 2026 | https://nifty-pe-ratio.com/
 Gold per 10g 24K | ₹1,43,450 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 25,030.35 (+6.78%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹71,47,071 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $75,945 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹71,48,632 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $75,992 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -13,11 +13,11 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   06 Nov 2026 | https://m.economictimes.com/markets/stocks/news/bharti-airtel-reclaims-no-2-spot-among-indias-most-valuable-companies-overtakes-jio-platforms-reliance-at-top-spot/articleshow/135605274.cms
-  • Bharti Airtel overtook Jio Platforms as India's second most valuable listed company, with market cap of ₹13,08,165.03 crore against Jio's ₹12,94,559.51 crore on November 6. ¶ • Jio Platforms shares fell 0.90% to ₹1,405.75 on the BSE, giving up part of the 21.4% listing gain from the ₹1,119 issue price on October 28. ¶ • Jio Platforms raised $3.1 billion in India's largest ever IPO, with about 14 million applications and roughly 22 times oversubscription. ¶ • Quant Small Cap Fund added 72.05 lakh shares of Jio Platforms in October, raising its sector exposure to Telecom by 3.51%. ¶ • The Jio IPO drove 3.35 million new demat accounts in October, the biggest monthly rise since January, with Angel One reaching 7 million active investors. ¶ ↗ m.economictimes.com|https://m.economictimes.com/markets/stocks/news/bharti-airtel-reclaims-no-2-spot-among-indias-most-valuable-companies-overtakes-jio-platforms-reliance-at-top-spot/articleshow/135605274.cms ;; briefs.co|https://www.briefs.co/news/jio-ipo-lifts-angel-one-past-zerodha-in-active-client-ranks/ ;; m.economictimes.com|https://m.economictimes.com/mf/analysis/quant-small-cap-fund-adds-jio-platforms-and-4-others-increases-stake-in-adani-power-5-more/articleshow/135603855.cms ;; money.rediff.com|https://money.rediff.com/news/market/bharti-airtel-reclaims-2-spot-in-mcap-overtakes-jio-platforms/57653420261106
+  • Bharti Airtel overtook Jio Platforms for India's second-largest market capitalisation, with Airtel at ₹13,08,165 crore and Jio Platforms at ₹12,94,559 crore. ¶ • Jio Platforms shares fell 0.90% to ₹1,405.75 on the BSE, sliding 1.74% over the past week on profit booking. ¶ • Jio Platforms raised $3.1 billion in India's largest IPO, with about 14 million applications and roughly 22 times oversubscription. ¶ • Quant Small Cap Fund added 72.05 lakh Jio Platforms shares in October, lifting its telecom exposure by 3.51%. ¶ • October saw 3.35 million new demat accounts, the biggest monthly rise since January, after the Jio IPO drew retail investors. ¶ ↗ m.economictimes.com|https://m.economictimes.com/markets/stocks/news/bharti-airtel-reclaims-no-2-spot-among-indias-most-valuable-companies-overtakes-jio-platforms-reliance-at-top-spot/articleshow/135605274.cms ;; briefs.co|https://www.briefs.co/news/jio-ipo-lifts-angel-one-past-zerodha-in-active-client-ranks/ ;; m.economictimes.com|https://m.economictimes.com/mf/analysis/quant-small-cap-fund-adds-jio-platforms-and-4-others-increases-stake-in-adani-power-5-more/articleshow/135603855.cms ;; money.rediff.com|https://money.rediff.com/news/market/bharti-airtel-reclaims-2-spot-in-mcap-overtakes-jio-platforms/57653420261106
 
 - Outlook: Neutral
   2026-11-07 |
-  §VIEW§{"stance": "neutral", "text": "Airtel's Rs 13,08,165.03 crore market cap against Jio's Rs 12,94,559.51 crore shows Jio slipping on listing gains. Fund buying and record demat additions support the stock, so the flow splits."}
+  §VIEW§{"stance": "neutral", "text": "The record IPO and fund buying are offset by Airtel retaking the No. 2 market-cap spot and Jio shares slipping on profit booking. The split is between post-listing demand and near-term price weakness."}
 
 [Reliance Intelligence]
 
@@ -25,31 +25,38 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   06 Nov 2026 | https://www.tradingview.com/news/moodys:4a001af0ae3de:0-reliance-may-find-biscuit-market-harder-to-disrupt-than-cola-says-britannia-ceo/
-  • Reliance Consumer expanded its Independence biscuit range with nine variants and 28 SKUs, starting at ₹5, rolling out in Tamil Nadu from 2 November. ¶ • Britannia CEO Rakshit Hargave said disrupting biscuits is harder than cola because much of the market already sells at ₹5 and ₹10. ¶ • Motilal Oswal kept a Buy on Reliance with a ₹1,520 target, citing diesel cracks and cheap crude access as drivers through 2HCY27. ¶ • Reliance will invest up to ₹3,000 crore in an underground coal gasification pilot in Andhra Pradesh's Eluru district, starting January 2027. ¶ • On 6 November, 6,501 Reliance put contracts traded at the ₹1,300 strike, with open interest of 14,530 contracts, as the stock traded near ₹1,312. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:4a001af0ae3de:0-reliance-may-find-biscuit-market-harder-to-disrupt-than-cola-says-britannia-ceo/ ;; tradingview.com|https://www.tradingview.com/news/moodys:fbf4180583f6c:0-britannia-ceo-plays-down-reliance-s-pricing-threat-in-india-s-biscuit-market/ ;; investmentguruindia.com|https://investmentguruindia.com/newsdetail/buy-reliance-industries-ltd-for-target-rs-1-520-by-motilal-oswal-financial-services-ltd896284 ;; chemindigest.com|https://chemindigest.com/reliance-industries-advances-andhra-pradesh-coal-gasification-project/
+  • Reliance Consumer expanded its Independence biscuit range with nine variants and 28 SKUs, starting at ₹5, rolling out in Tamil Nadu from 2 November. ¶ • Britannia CEO Rakshit Hargave said disrupting biscuits is harder than cola because much of the market sells at ₹5 and ₹10, limiting price cuts. ¶ • Britannia raised prices 3.5% in the September quarter and cut pack sizes earlier, with more increases possible on wheat flour, palm oil and sugar costs. ¶ • Reliance plans an underground coal gasification pilot in Andhra Pradesh's Eluru district in January 2027, investing up to ₹3,000 crore, targeting completion by mid-2028. ¶ • Motilal Oswal said Reliance's access to discounted Russian and Venezuelan crude and high diesel yields could add up to USD2 per barrel to its refining margin. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:4a001af0ae3de:0-reliance-may-find-biscuit-market-harder-to-disrupt-than-cola-says-britannia-ceo/ ;; tradingview.com|https://www.tradingview.com/news/moodys:fbf4180583f6c:0-britannia-ceo-plays-down-reliance-s-pricing-threat-in-india-s-biscuit-market/ ;; investmentguruindia.com|https://investmentguruindia.com/newsdetail/buy-reliance-industries-ltd-for-target-rs-1-520-by-motilal-oswal-financial-services-ltd896284 ;; chemindigest.com|https://chemindigest.com/reliance-industries-advances-andhra-pradesh-coal-gasification-project/
 
-- Outlook: Neutral
+- Outlook: Bullish
   2026-11-07 |
-  §VIEW§{"stance": "neutral", "text": "Refining strength and cheap crude access support earnings, while the biscuit push faces tough Rs 5 and Rs 10 price points. The coal gasification pilot is long-dated, so the flow splits."}
+  §VIEW§{"stance": "bullish", "text": "Refining margins stay supported by tight diesel supply and discounted crude access, while the biscuit push faces limited pricing room. New energy and FMCG expansion add optionality, but near-term earnings hinge on the O2C cycle."}
 
 [Flipkart]
 
-- ~
+- Paul London Bags On Flipkart - Paul back in lineup for Suns after 14 game injury absence AP News
   06 Nov 2026 | https://www.auroradesio.it/top/363672732/
-  • Myntra and Flipkart's combined share of India's online fashion orders fell to 76.8% in the 2026 festive season from 89% a year earlier, per Fynd's Festive Season Report 2026. ¶ • Flipkart is selling the 256GB iPhone 17 at an effective price of ₹59,034, combining a 3% upfront cut to ₹97,300 with bank discounts and an iPhone 15 exchange value of ₹31,250. ¶ • Vivo opened pre-launch microsites for its X500 series on Flipkart and Amazon India ahead of an expected November 25, 2026 launch, with prices estimated at ₹59,999 to ₹99,999. ¶ • The Bombay High Court ordered Amazon and Flipkart to remove unauthorised product listings in actor Ananya Panday's personality rights suit over fake merchandise and AI deepfakes. ¶ • Festive fashion orders below ₹1,000 made up 50.1% of transactions, while average discounts rose to 46% from 34% in 2025, with footwear at 52.7% of orders. ¶ ↗ indiatoday.in|https://www.indiatoday.in/technology/news/story/iphone-17-gets-big-price-cut-on-flipkart-buy-it-for-under-rs-60000-heres-how-3033444-2026-11-06 ;; businessworld.in|https://www.businessworld.in/article/myntra-flipkart-share-falls-to-76-8-as-ajio-amazon-gain-ground-632285 ;; thestatesman.com|https://www.thestatesman.com/entertainment/bollywood/ananya-panday-goes-to-court-against-ai-fakes-here-is-what-amazon-flipkart-meta-x-and-reddit-must-now-do-1503659466.html ;; mymobileindia.com|https://www.mymobileindia.com/vivo-x500-series-microsites-now-live-on-amazon-and-flipkart-ahead-of-india-launch/
 
-- Outlook: Bearish
-  2026-11-07 |
-  §VIEW§{"stance": "bearish", "text": "Myntra-Flipkart's fashion order share dropped 12.2 percentage points to 76.8% as Ajio, Amazon and Jiomart gained. Deep festive discounting, at 46% average, and a court order to pull listings add pressure."}
+- Myntra-Flipkart Share Falls To 76.8% As Ajio, Amazon Gain Ground
+  07 Nov 2026 | https://www.businessworld.in/article/myntra-flipkart-share-falls-to-76-8-as-ajio-amazon-gain-ground-632285
+  Myntra and Flipkart continued to lead India's online fashion market during the 2026 festive shopping season, but their combined share of orders declined to 76.8 per cent from 89 per cent a year earlier, while Ajio, Amazon and Jiomart…
+
+- Ananya Panday goes to court against AI fakes: Here is what Amazon, Flipkart, Meta, X and Reddit must now do
+  06 Nov 2026 | https://www.thestatesman.com/entertainment/bollywood/ananya-panday-goes-to-court-against-ai-fakes-here-is-what-amazon-flipkart-meta-x-and-reddit-must-now-do-1503659466.html
+  The Bombay High Court has protected actor Ananya Panday against the misuse of her identity online and in the market. The court passed an interim order on Thursday in her suit seeking protection of her personality and privacy rights. The…
+
+- iPhone 17 gets big price cut on Flipkart, buy it for under Rs 60,000: Here's how
+  06 Nov 2026 | https://www.indiatoday.in/technology/news/story/iphone-17-gets-big-price-cut-on-flipkart-buy-it-for-under-rs-60000-heres-how-3033444-2026-11-06
+  Eyeing the iPhone 17 but finding its Rs 99,900 price tag a little too steep? What if we told you that you could get it for under Rs 60,000? Yes, you can, but only if you have the right credit card and an eligible device to exchange.…
 
 [Zomato]
 
 - ~
   06 Nov 2026 | https://www.rediff.com/news/commentary/2026/nov/06/fda-suspends-food-licence-of-blinkit-zepto-103-others/14358878a29915ea01709670aa484bc5
-  • Maharashtra FDA suspended licences of 105 food businesses, including Blink Commerce and Zepto, and seized 39,485.42 kg of food worth ₹1.35 crore on November 4-5. ¶ • Zomato launched Limitless Delivery, letting customers order from restaurants up to 40 km away in seven cities including Bengaluru, Delhi NCR and Mumbai. ¶ • Zomato's food delivery net order value rose 21.5% to ₹11,445 crore in the September quarter, the fifth straight quarter of accelerating growth. ¶ • A Blinkit store manager in Gurgaon allegedly fled with gold and silver coins and ₹1.27 lakh cash, total value about ₹25.9 lakh. ¶ • Blinkit and Instamart are selling 24-karat gold coins with discounts up to 58% for Dhanteras, with 1-gram coins priced around ₹15,090-15,100. ¶ ↗ rediff.com|https://www.rediff.com/news/commentary/2026/nov/06/fda-suspends-food-licence-of-blinkit-zepto-103-others/14358878a29915ea01709670aa484bc5 ;; indianstartupnews.com|https://indianstartupnews.com/news/too-far-to-order-zomato-now-delivers-food-from-restaurants-up-to-40-km-away-in-seven-cities-12788207 ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/city/gurgaon/blinkit-store-manager-in-gurgaon-flees-with-gold-silver-coins-and-cash-worth-nearly-rs-26-lakh/articleshow/135619704.cms ;; m.economictimes.com|https://m.economictimes.com/wealth/invest/24k-gold-coin-buying-on-dhanteras-2026-instamart-and-blinkit-offer-discounts-on-pure-gold-coins-from-different-brands/articleshow/135599522.cms
+  • Maharashtra FDA suspended licences of 105 food outlets, including Blink Commerce and Zepto Ltd in Mumbai, over food safety violations found on November 4-5. ¶ • Zomato launched Limitless Delivery, letting customers order from restaurants up to 40 km away in seven cities including Bengaluru, Delhi NCR, Mumbai and Hyderabad. ¶ • Food delivery net order value was ₹11,445 crore in the September quarter, up 21.5% year on year, the fifth straight quarter of accelerating growth. ¶ • Average monthly transacting customers rose 16% to 28 million, and over 65% of Zomato app opens are exploratory, per the September quarter shareholders' letter. ¶ • A Blinkit store manager in Gurgaon allegedly fled with gold and silver coins and ₹1.27 lakh cash, total value about ₹25.9 lakh. ¶ ↗ rediff.com|https://www.rediff.com/news/commentary/2026/nov/06/fda-suspends-food-licence-of-blinkit-zepto-103-others/14358878a29915ea01709670aa484bc5 ;; indianstartupnews.com|https://indianstartupnews.com/news/too-far-to-order-zomato-now-delivers-food-from-restaurants-up-to-40-km-away-in-seven-cities-12788207 ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/city/gurgaon/blinkit-store-manager-in-gurgaon-flees-with-gold-silver-coins-and-cash-worth-nearly-rs-26-lakh/articleshow/135619704.cms ;; thefederal.com|https://thefederal.com/category/states/west/maharashtra/maharashtra-fda-suspends-licences-of-105-food-outlets-blinkit-zepto-262087
 
 - Outlook: Neutral
   2026-11-07 |
-  §VIEW§{"stance": "neutral", "text": "Food delivery growth is strong, but regulatory action against Blinkit and Zepto plus a theft raise operational risks. The news flow splits between expansion and compliance concerns."}
+  §VIEW§{"stance": "neutral", "text": "Zomato's 21.5% order value growth and new 40-km delivery feature support the stock, but the Maharashtra licence suspensions and a Rs 25.9 lakh Blinkit theft add regulatory and operational risk."}
 
 [HAL]
 
@@ -84,14 +91,6 @@ SOURCE 6: Watchlist (headlines + summary)
   §VIEW§{"stance": "bearish", "text": "Profit fell 31% as the claims ratio jumped to 62.4% and flood losses hit Rs 63 crore. Premiums shrank 3.6% while the industry grew 7%, and Digit sought regulatory forbearance on expense limits."}
 
 [Infoedge/Naukri]
-
-- ~
-  06 Nov 2026 | https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-nse-bank-of-maharashtra-info-edge-jsw-energy-petronet-lng-and-others-on-november-6-14072084.html
-  • Info Edge broke out above a descending wedge in July and has retested the breakout zone near ₹1,140, which aligns with its 200-week EMA. ¶ • The stock is trading at ₹1,217.5, with technical analysts flagging ₹1,235 as the level above which momentum would strengthen further. ¶ • Momentum and trend indicators remain in bullish territory on the weekly timeframe, with multiple EMAs converging near ₹1,140 as support. ¶ • Info Edge was named among six top buy ideas from experts for November 6, alongside NSE, Bank of Maharashtra, JSW Energy and Petronet LNG. ¶ • The Nifty 50 rose 2.4 percent on November 5, its sixth straight winning session, with 2,373 stocks advancing against 956 declining. ¶ ↗ moneycontrol.com|https://www.moneycontrol.com/news/business/markets/trade-spotlight-how-should-you-trade-nse-bank-of-maharashtra-info-edge-jsw-energy-petronet-lng-and-others-on-november-6-14072084.html
-
-- Outlook: Bullish
-  2026-11-07 |
-  §VIEW§{"stance": "bullish", "text": "The stock held its July breakout retest near Rs 1,140, where the 200-week EMA and converging weekly EMAs sit as support. Momentum indicators stay positive, and analysts see Rs 1,235 as the trigger for further upside."}
 
 [Bitcoin]
 
@@ -131,7 +130,7 @@ SOURCE 8: AI News
 
 [Open Claw Newsletter] AI Tutors Enter 20 Schools
   06 Nov 2026 | https://www.globenewswire.com/news-release/2026/11/03/3394178/0/en/kaltura-selected-by-israel-s-ministry-of-education-to-power-personalized-ai-learning-in-k-12-schools.html
-  • Israel's Ministry of Education selected Kaltura as a technology provider for its 720 initiative, a national program for personalized learning in K–12 schools. ¶ • Classroom use is underway in a one-year pilot across 20 schools serving about 2,000 students, after teacher training and onboarding. ¶ • The pilot covers seventh- and eighth-grade STEM students in math and science during the 2026–2027 academic year, with English planned next. ¶ • Kaltura's platform offers conversational AI avatar tutors, personalized learning paths and teacher dashboards, available in Hebrew and Arabic. ¶ • CEO Ron Yekutiel called the selection an important commercial milestone, and Kaltura plans to pursue education ministries in more countries.
+  • Around 2,000 seventh- and eighth-grade students are covered by a yearlong classroom pilot in Israel. ¶ • Students can ask questions and work through math and science exercises with AI tutors in Hebrew or Arabic. ¶ • Teachers can track progress and see where the class needs more help. ¶ • The supplier announced the deployment and has yet to report learning outcomes.
 
 [Open Claw Newsletter] CrowdStrike Signs Two Security Deals
   06 Nov 2026 | https://techcrunch.com/2026/11/03/crowdstrike-to-shell-out-nearly-500m-for-2-ai-security-startups-as-the-market-for-securing-agents-takes-off/
@@ -319,6 +318,10 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
+- China says discussions underway on Xi-Trump-Putin meeting
+  07 Nov 2026 | https://www.thehindu.com/news/international/china-says-discussions-underway-on-xi-trump-putin-meeting/article71677194.ece
+  • China's foreign ministry said it is in communication with relevant parties about a three-leader meeting, possibly this month on the sidelines of the APEC summit in Shenzhen. ¶ • Analysts expect a photo opportunity rather than substance, with Putin seeking a diplomatic win on Ukraine and Trump expected in Shenzhen for a third Xi meeting as the trade truce expires in January.
+
 - Iran reviewing proposals on Tehran’s nuclear programme: Officials
   07 Nov 2026 | https://www.thehindu.com/news/international/iran-reviewing-proposals-on-tehrans-nuclear-programme-officials/article71677167.ece
   • Iran is reviewing proposals from Qatar aimed at resolving differences with the United States concerning Tehran's nuclear program. ¶ • Tehran will only negotiate on its atomic activities after the U.S. agrees to core demands, including lifting sanctions and ending the port blockade.
@@ -326,7 +329,82 @@ SOURCE 3: The Hindu - International (headlines + summary)
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Festive stocking drives 36% jump in TReDS volumes
+06 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/treds-sees-a-festive-boost-nykaas-growth-strategy/articleshow/135590197.cms
+
+• The five RBI-regulated TReDS platforms financed invoices worth ₹75,788 crore in August and September, up 36% from ₹55,549 crore a year earlier.
+
+• TReDS lets MSMEs upload invoices approved by corporate buyers, which banks and NBFCs then bid to finance.
+
+• M1xchange financed over ₹20,000 crore in the 30 days from Navratri's start, up 33% year on year.
+
+• Analysts said the higher volumes do not necessarily mean incremental credit or better cash-flow cycles for MSMEs.
+
+### How House of Nykaa is emerging as a growth and margin driver
+06 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/treds-sees-a-festive-boost-nykaas-growth-strategy/articleshow/135590197.cms
+
+• House of Nykaa is the etailer's portfolio of 13 owned and partner brands across beauty and fashion.
+
+• The portfolio spans eight beauty and personal care brands and five fashion brands, built in-house, with experts and celebrities, and through acquisitions.
+
+• House of Nykaa CEO Adwaita Nayar said the aim is to fill out the portfolio in categories with significant growth opportunities.
+
+• Motilal Oswal said gross margin improved about 106 bps to 46%, helped by a rising House of Nykaa mix and higher marketing income.
+
+### Centre planning to use component scheme to feed chip ecosystem
+06 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/treds-sees-a-festive-boost-nykaas-growth-strategy/articleshow/135590197.cms
+
+• The government may prioritise ECMS approval for companies building parts directly linked to India's semiconductor supply chain.
+
+• The move aims to help local electronics, chemical and mechanical component units integrate with domestic chip packaging operations as they come online.
+
+• Five OSAT or ATMP facilities by Micron Technology, Kaynes Semicon, CG Semi, CDIL and Suchi Semicon became operational this year.
+
+• Sahasra Semiconductors and RRP Electronics have also begun production at their units this year.
+
+### Indian GCCs set to add 35k jobs in 2027
+06 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/treds-sees-a-festive-boost-nykaas-growth-strategy/articleshow/135590197.cms
+
+• India is expected to add up to 35,000 jobs in greenfield global capability centres next year, per estimates by an Accenture-backed firm.
+
+• Tighter H1B laws and talent availability are prompting mid-sized American companies to explore India for tech team expansions.
+
+### AI fails to curb rising IT staff costs
+06 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/treds-sees-a-festive-boost-nykaas-growth-strategy/articleshow/135590197.cms
+
+• Indian IT services companies face rising employee costs, with pressure likely to intensify in the second half of the fiscal year.
+
+• Experts said the increase comes from spending on premium talent, reskilling and higher compensation.
+
+• AI and automation are changing the labour-intensive model of IT services but have yet to bring down employee costs for the top six firms.
+
+### Global pick: Gates says Trump inaction leaves world exposed to AI bioweapons
+FT | https://www.ft.com/content/a94656af-513d-4f40-a98a-cb57eecaed85
+
+[Could not read the article, possibly paywalled]
+
+### Global pick: The Blue Wave Has Tech Bros Scrambling for Data Centers in Space
+Wired | https://www.wired.com/story/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/
+
+• Democratic candidates who opposed the data center industry won state and congressional races, notably in Texas, a national data center hot spot.
+
+• Elon Musk, who spent over $400 million backing losing Republican candidates, posted that "data centers in space looking pretty appealing right now."
+
+• Google launched a satellite with "data center class TPU," SpaceX aims to deploy thousands of AI satellites from late 2027, and Blue Origin filed for a permit for 50,000 satellites.
+
+• In-orbit data centers are far more expensive than land-based ones, cannot reach hyperscale size, and depend on risky satellite launches.
+
+### Global pick: A rare strike in Taiwan exposes labor unrest beneath the global AI rush
+Rest of World | https://restofworld.org/2026/taiwan-labor-strike-ai-profits/
+
+• About a dozen workers at Micron's Taoyuan plant in Taiwan struck for one day in October, the island's first semiconductor industry strike, after union talks on salaries and bonuses failed.
+
+• Micron, the world's third-biggest memory chipmaker, employs over 15,000 workers in Taiwan who produce more than 60% of its DRAM chips used in AI servers.
+
+• Micron said on October 22 it agreed with the Taichung union on higher salaries, quarterly bonuses and bigger pension contributions, but Taoyuan members rejected the deal, saying none of their demands were met.
+
+• Union membership at Micron's two Taiwan unions surged from around 440 to more than 13,000, and the Taoyuan union with over 2,300 members can still strike, which analysts say would mainly raise customer concern over delivery reliability.
 
 ============================================================
 
@@ -339,8 +417,28 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [[Top Gainers]]
 
-Could not fetch movers for this list
+[Tata Teleservices Maharashtra Ltd (TTML, +12.57%)]
+
+- ~
+  06 Nov 2026 | https://investmentguruindia.com/newsdetail/tata-teleservices-leads-the-gainers-of-group-a-on-bse462689
+  ## What the sector does ¶ • India's telecom services sector sells voice, data and enterprise connectivity to consumers and businesses, earning monthly subscriptions and usage fees. ¶ • Revenue is driven by subscriber additions and data usage, while costs are dominated by spectrum, network equipment and regulatory dues like AGR liabilities. ¶ ## What the company does ¶ • Tata Teleservices (Maharashtra) provides wireline voice, data and managed telecom services to enterprise customers in Maharashtra and Goa under a Unified License. ¶ • It is a small player with a market cap of ₹7,775 crore, far smaller than peers like Bharti Airtel and Jio Platforms, and remains loss-making. ¶ ## Why it moved today ¶ • The stock rose 12.57% on November 6, extending a three-session rally of about 17%, with volumes 2.79 times higher, according to HDFC Sky. ¶ • The rally followed a narrower Q2 FY27 net loss of ₹59.20 crore, down from ₹320.82 crore a year earlier, reported by Capital Market. ¶ ## The numbers (Screener) ¶ • The stock trades at ₹39.8 with a market cap of ₹7,775 crore, a book value of negative ₹2.87 per share, and a 52-week range of ₹30.1 to ₹55.6. ¶ • In the June 2009 quarter, sales were ₹512 crore with a net loss of ₹34 crore, while the latest Q2 FY27 revenue was ₹309.65 crore, up 8.2% year-on-year. ¶ ## What the numbers say ¶ • TTML's negative ROCE of -12.7% and negative book value contrast with profitable peers like Bharti Airtel (ROCE 17.56%) and Jio Platforms (ROCE 12.08%), indicating weak capital efficiency. ¶ • The stock lacks a P/E ratio due to losses, while peers trade at P/E ratios above 39, and its Q2 loss narrowed but remains far from profitability, making the recent rally momentum-driven. ¶ ↗ investmentguruindia.com|https://investmentguruindia.com/newsdetail/tata-teleservices-leads-the-gainers-of-group-a-on-bse462689 ;; hdfcsky.com|https://hdfcsky.com/news/trending-stocks-today-november-6-2026-pc-jeweller-vodafone-idea-tata-teleservices-maharashtra-yes-bank-among-top-volume-buzzers ;; univest.in|https://univest.in/blogs/tata-teleservices-share-price-jumps-13-percent-dhanteras-2026-resistance-zone-rs-40-to-rs-42-q2-loss-narrows-agr-risks
+
+[Sai Life Science Ltd (SAILIFE, +11.95%)]
+
+- ~
+  2026-11-07 |
+  ## What the sector does ¶ • Contract research and manufacturing services (CRAMS) companies run laboratories and plants for drugmakers, earning fees for research and per-kilo prices for making advanced intermediates and active ingredients. ¶ • Revenue comes from innovator pharma and biotech clients in the US and Europe, while cost is driven by scientists, plants and raw materials; peers include Divi's Lab, Laurus Labs and Syngene. ¶ ## What the company does ¶ • Sai Life Sciences, incorporated in 1999, does contract research and contract manufacturing for pharmaceutical and biotechnology customers, from discovery chemistry to commercial supply of drug intermediates. ¶ • It earns from research fees and manufacturing contracts, mainly exports, with September 2026 quarter sales of ₹659 crore and a market capitalisation of ₹37,929 crore, far smaller than Sun Pharma or Divi's Lab. ¶ ## Why it moved today ¶ • Sai Life Sciences rose 11.95% to ₹1,785.10 on November 6, 2026, an all-time high, with 1.32 crore shares traded, according to NDTV Profit and CNBC TV18. ¶ • CNBC TV18 linked the gain to second-quarter results and said the stock had risen over 92% since the start of 2026, with traded volume at 4.13 times its 10-day average. ¶ ## The numbers (Screener) ¶ • The stock trades at a P/E of 99.2 and 14.1 times book value of ₹127, with ROCE of 19.6% and ROE of 15.4%, per Screener data. ¶ • September 2026 quarter sales were ₹659 crore with net profit of ₹98 crore and EPS of ₹4.63, against ₹554 crore sales and ₹73 crore profit in the June 2026 quarter. ¶ ## What the numbers say ¶ • At a P/E of 99.2, Sai Life is priced above Sun Pharma's 36.3 and Dr Reddy's 41.0, and near Divi's Lab at 92.0, even though its ₹659 crore quarterly sales are a fraction of theirs. ¶ • Its 19.6% ROCE sits below Divi's Lab at 22.0% and Sun Pharma at 20.5%, while September quarter sales grew 22.5% year on year and profit 17.3%, so the re-rating runs ahead of the profit trend.
 
 [[Top Losers]]
 
-Could not fetch movers for this list
+[Thermax Ltd (THERMAX, -17.27%)]
+
+- ~
+  06 Nov 2026 | https://www.linkedin.com/pulse/earnings-central-from-hindalcos-record-quarter-thermaxs-17-fall-9q9tc
+  ## What the sector does ¶ • India's capital goods sector sells boilers, turbines, pollution control and water treatment equipment to power, steel, cement, refining and chemical plants. ¶ • Revenue comes from equipment orders and long-cycle projects, so profits swing with order intake, commodity input costs and execution timelines; BHEL, ABB, Siemens and Hitachi Energy are the main listed players. ¶ ## What the company does ¶ • Thermax supplies boilers, chillers, power plants, air pollution control systems, water recycling plants and ion exchange resins to energy, environment and chemical customers. ¶ • It earns from equipment sales and related services, with a market cap of ₹32,724 crore, and sits below larger peers like ABB and Siemens in scale. ¶ ## Why it moved today ¶ • Thermax shares fell 17.27% after September-quarter net profit slipped 4.2% to ₹115 crore, missing estimates, as higher input costs, an unfavourable Industrial Products mix and a ₹15 crore Green Solutions impairment hurt margins, according to a 6 November 2026 earnings wrap. ¶ ## The numbers (Screener) ¶ • Stock P/E is 60.0, book value ₹460, dividend yield 0.51%, ROCE 13.9% and ROE 10.6%, per Thermax's latest key ratios. ¶ • September 2026 quarter sales were ₹2,756 crore with net profit ₹113 crore and EPS ₹9.61, against ₹3,428 crore sales and ₹244 crore profit in the March 2026 quarter. ¶ ## What the numbers say ¶ • Thermax's P/E of 60.0 is below ABB's 93.14 and Siemens's 83.06 but above BHEL's 50.66, while its ROCE of 13.9% trails ABB's 29.93% and Siemens's 21.44%, indicating weaker returns on capital than most large peers. ¶ • September 2026 quarter sales grew 11.4% year on year but net profit fell 4.28%, and operating margin dropped to 7% from 10% in the December 2025 quarter, so the 17% fall reflects a sharp earnings miss rather than a sector-wide derating. ¶ ↗ linkedin.com|https://www.linkedin.com/pulse/earnings-central-from-hindalcos-record-quarter-thermaxs-17-fall-9q9tc ;; chemicals.economictimes.indiatimes.com|https://chemicals.economictimes.indiatimes.com/news/sustainability-and-green-chemistry/thermax-and-c1-green-chemicals-team-up-on-green-methanol-push-in-india/135528610 ;; linkedin.com|https://www.linkedin.com/posts/cnbc-tv18_earnings-central-from-hindalcos-record-activity-7524481117580886016-7vi_
+
+[Td Power Systems Ltd (TDPOWERSYS, -13.85%)]
+
+- ~
+  2026-11-07 |
+  ## What the sector does ¶ • The capital goods electrical equipment sector makes generators, motors, transformers and switchgear sold to power utilities, industrial plants, data centres and railways. ¶ • Revenue comes from equipment orders and after-sales service; cost is mainly copper, steel and labour, so order flow and commodity prices drive margins. ¶ ## What the company does ¶ • TD Power Systems makes AC generators and electric motors built to customer specifications, plus spares, services and scrap sales, from plants in India. ¶ • It sells to industrial, power and export customers; generators were the main revenue segment for the year ended 31 March 2026, with a market cap of ₹18,532 crore. ¶ ## Why it moved today ¶ • No company filing or news article explained the fall; TD Power Systems dropped 13.86% to ₹576.50 on 6 November 2026 on volume of 1.94 crore shares, about 3.86 times its 20-session average, per [thepip.in](https://www.thepip.in/markets/td-power-systems-share-price-after-q1-fy27-results-6-nov-2026). ¶ • The fall came with peers: Thermax fell 17.66%, CG Power 7.07% and GE Vernova T&D 5.89% the same session, while the Nifty Energy index slipped 1.35%, per [thepip.in](https://www.thepip.in/markets/td-power-systems-share-price-after-q1-fy27-results-6-nov-2026). ¶ ## The numbers (Screener) ¶ • June 2026 quarter: sales ₹640 crore, up 72.1% year on year, operating profit ₹122 crore at a 19% margin, and net profit ₹86.29 crore, up 72.3%. ¶ • Stock P/E 67.4, price to book 16.8 times on book value of ₹34.3, ROCE 34.0%, ROE 24.7%, dividend yield 0.18%, and market cap ₹18,532 crore. ¶ ## What the numbers say ¶ • At a P/E of 67.4, TD Power trades below ABB (93.1), Siemens (83.1), Hitachi Energy (104.0) and CG Power (87.1), but above BHEL (50.7) and near GE Vernova T&D (69.4). ¶ • Its ROCE of 34.0% beats BHEL (9.1%), ABB (29.9%) and Siemens (21.4%) but trails GE Vernova T&D (77.4%) and Siemens Energy India (67.8%), and June 2026 sales growth of 72.1% outpaced every peer in the table.
