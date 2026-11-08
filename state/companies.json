@@ -4,7 +4,7 @@
   "sector": "Fintech",
   "description": "Online investment platform offering stock trading, mutual funds, bonds and wealth advisory services to retail investors in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-08"
  },
  "fisdom": {
   "name": "Fisdom",
@@ -67,14 +67,14 @@
   "sector": "Electric vehicles",
   "description": "Manufacturer of electric scooters and two-wheelers in India; raised Rs 1,000 crore via rights issue.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-08"
  },
  "razorpay": {
   "name": "Razorpay",
   "sector": "Fintech",
   "description": "Payments and banking platform for businesses; partnered with OpenAI for ChatGPT advertising in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-08"
  },
  "openai": {
   "name": "OpenAI",
@@ -158,7 +158,7 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
@@ -172,7 +172,7 @@
   "sector": "Telecom",
   "description": "Indian telecom operator providing mobile, broadband and enterprise services across the country.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "motilaloswal": {
   "name": "Motilal Oswal",
@@ -186,7 +186,7 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "walmart": {
   "name": "Walmart",
@@ -200,7 +200,7 @@
   "sector": "E-commerce",
   "description": "Online fashion retailer owned by Flipkart; former CEO Mukesh Bansal among ESOP petitioners.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "accel": {
   "name": "Accel",
@@ -683,7 +683,7 @@
   "sector": "Quick commerce",
   "description": "Ranked fourth in product availability at 82.5%, per Bernstein.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "criteo": {
   "name": "Criteo",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1327,7 +1327,7 @@
   "sector": "Automotive",
   "description": "Two-wheeler maker; at the centre of an ownership dispute in Venu Srinivasan's family branch.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-08"
  },
  "tvsholdings": {
   "name": "TVS Holdings",
@@ -1348,7 +1348,7 @@
   "sector": "Consumer electronics",
   "description": "iPhone and MacBook maker; discounts on MacBook Neo offered during Flipkart's sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "icicibank": {
   "name": "ICICI Bank",
@@ -1586,7 +1586,7 @@
   "sector": "Venture capital",
   "description": "Consumer-focused venture fund that led Beyond Appliances' Series B round.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-08"
  },
  "neogrowth": {
   "name": "NeoGrowth",
@@ -1873,7 +1873,7 @@
   "sector": "Stock broking",
   "description": "Broking platform that recorded the fastest month-on-month client growth among top 20 brokers.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-08"
  },
  "pbfintech": {
   "name": "PB Fintech",
@@ -2510,7 +2510,7 @@
   "sector": "Fintech",
   "description": "Flipkart's lending and credit platform; former staff joined the ESOP petition.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-08"
  },
  "anscommerce": {
   "name": "ANS Commerce",
@@ -3266,7 +3266,7 @@
   "sector": "Insurance",
   "description": "General insurance company; mentioned in the watchlist context.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "relianceintelligence": {
   "name": "Reliance Intelligence",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3497,7 +3497,7 @@
   "sector": "Broking",
   "description": "Discount stockbroking firm; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-08"
  },
  "delhivery": {
   "name": "Delhivery",
@@ -4050,7 +4050,7 @@
   "sector": "Investment banking",
   "description": "Investment bank named among anchor investors in Jio Platforms' IPO.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "religare": {
   "name": "Religare",
@@ -5121,14 +5121,14 @@
   "sector": "Crypto",
   "description": "Leading cryptocurrency that fell to $82,000 after higher-than-expected CPI.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "gold": {
   "name": "Gold",
   "sector": "Commodities",
   "description": "Precious metal trading near $4,100 with record ETF holdings.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "yaraj": {
   "name": "Yara J",
@@ -5184,7 +5184,7 @@
   "sector": "Electrical equipment",
   "description": "Makes AC generators and electric motors to customer specifications near Bengaluru.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "hdfcdefencefund": {
   "name": "HDFC Defence Fund",
@@ -8040,7 +8040,7 @@
   "sector": "Telecom",
   "description": "Provides wireline voice and data services to enterprises in Maharashtra and Goa.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "keiindustries": {
   "name": "KEI Industries",
@@ -9930,7 +9930,7 @@
   "sector": "Food and beverage",
   "description": "Indian packaged foods company fined Rs 1 lakh over a misleading whole wheat bread claim.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "unnatifortuneholdings": {
   "name": "Unnati Fortune Holdings",
@@ -9979,14 +9979,14 @@
   "sector": "Electric vehicles",
   "description": "Indian electric scooter maker that posted its first quarterly net profit in September 2026.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-08"
  },
  "bajajauto": {
   "name": "Bajaj Auto",
   "sector": "Automobiles",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-08"
  },
  "eichermotors": {
   "name": "Eicher Motors",
@@ -10000,7 +10000,7 @@
   "sector": "Automobiles",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-08"
  },
  "utkarsh": {
   "name": "Utkarsh",
@@ -13381,7 +13381,7 @@
   "sector": "AI",
   "description": "US-based physical AI venture collecting real-world data to train robotics systems.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-08"
  },
  "fibe": {
   "name": "Fibe",
@@ -13584,7 +13584,7 @@
   "sector": "Fintech",
   "description": "Indian payments company; says attempted cyberattacks have risen at least tenfold from a year ago.",
   "first_added": "2026-11-02",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-08"
  },
  "payu": {
   "name": "PayU",
@@ -14515,7 +14515,7 @@
   "sector": "Jewellery",
   "description": "Indian fine jewellery brand; raised over $100 million led by Multiples Alternate Asset Management to expand retail.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-08"
  },
  "multiplesalternateassetmanagement": {
   "name": "Multiples Alternate Asset Management",
@@ -15411,7 +15411,7 @@
   "sector": "Industrial automation",
   "description": "Indian arm of ABB, making electrification and automation equipment.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "adaniports": {
   "name": "Adani Ports",
@@ -15439,21 +15439,21 @@
   "sector": "Banking",
   "description": "Paraguayan bank seized by the central bank amid a banking crisis.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "sailifesciences": {
   "name": "Sai Life Sciences",
   "sector": "Pharma services",
   "description": "Hyderabad-based contract research and manufacturing firm serving innovator pharma and biotech clients.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "thermax": {
   "name": "Thermax",
   "sector": "Capital goods",
   "description": "Indian maker of energy and environment equipment such as boilers and pollution control systems.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "corescientific": {
   "name": "Core Scientific",
@@ -15887,21 +15887,21 @@
   "sector": "Broking",
   "description": "Indian brokerage that reached 7 million active investors as demat accounts surged.",
   "first_added": "2026-11-07",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "relianceconsumer": {
   "name": "Reliance Consumer",
   "sector": "FMCG",
   "description": "Reliance's consumer goods arm; expanded its Independence biscuit range with nine variants from Rs 5.",
   "first_added": "2026-11-07",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "blinkcommerce": {
   "name": "Blink Commerce",
   "sector": "Quick commerce",
   "description": "Blinkit operator whose food licence was suspended by Maharashtra FDA.",
   "first_added": "2026-11-07",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "kotakneo": {
   "name": "Kotak Neo",
@@ -16042,5 +16042,173 @@
   "description": "Signed Andrea Kimi Antonelli to its junior programme at 12; he became F1's youngest world champion.",
   "first_added": "2026-11-07",
   "last_mentioned": "2026-11-07"
+ },
+ "parle": {
+  "name": "Parle",
+  "sector": "FMCG",
+  "description": "Indian biscuit and confectionery maker with around 29% market share in biscuits.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "goldfields": {
+  "name": "Gold Fields",
+  "sector": "Gold mining",
+  "description": "South African gold miner; reported Q3 attributable production of 605,000 ounces.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "newmont": {
+  "name": "Newmont",
+  "sector": "Gold mining",
+  "description": "US gold mining company; its shares rallied with other gold miners this week.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "agnicoeagle": {
+  "name": "Agnico Eagle",
+  "sector": "Gold mining",
+  "description": "Canadian gold mining company; its shares rallied with other gold miners this week.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "barrick": {
+  "name": "Barrick",
+  "sector": "Gold mining",
+  "description": "Canadian gold mining company; its shares rallied with other gold miners this week.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "franconevada": {
+  "name": "Franco-Nevada",
+  "sector": "Gold royalties",
+  "description": "Canadian gold-focused royalty and streaming company; its shares rallied this week.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "eloelogroup": {
+  "name": "EloElo Group",
+  "sector": "Consumer AI",
+  "description": "Bengaluru-based consumer AI and entertainment company; raised $80 million in a Series C round.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "peppermintrobotics": {
+  "name": "Peppermint Robotics",
+  "sector": "Robotics",
+  "description": "Pune-based robotics startup; raised Rs 100 crore in a Pre-Series B round.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "clinicsoncloud": {
+  "name": "Clinics On Cloud",
+  "sector": "Healthtech",
+  "description": "Pune-based health-tech startup; raised $12.5 million in a Series A round.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "altm": {
+  "name": "altM",
+  "sector": "Specialty chemicals",
+  "description": "Bengaluru-based specialty chemicals startup; raised $10.3 million in a Series A round.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "twopointocapital": {
+  "name": "Two Point O Capital",
+  "sector": "Clean energy",
+  "description": "AI-powered clean energy platform; raised $10 million led by Transition Venture Capital.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "powerupmoney": {
+  "name": "PowerUp Money",
+  "sector": "Wealthtech",
+  "description": "Wealthtech platform; raised $10 million led by Flourish Ventures.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "porter": {
+  "name": "Porter",
+  "sector": "Logistics",
+  "description": "Indian logistics company; appointed Gaurav Jain as chief financial officer.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "mathco": {
+  "name": "MathCo",
+  "sector": "Enterprise AI",
+  "description": "Enterprise AI and analytics firm; appointed Vijay Raj to its advisory board.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "avendus": {
+  "name": "Avendus",
+  "sector": "Financial services",
+  "description": "Not enough detail in today's digest.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "fulcrumdigital": {
+  "name": "Fulcrum Digital",
+  "sector": "IT services",
+  "description": "Not enough detail in today's digest.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "uipath": {
+  "name": "UiPath",
+  "sector": "Automation software",
+  "description": "Not enough detail in today's digest.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "dakshamgrowthventures": {
+  "name": "Daksham Growth Ventures",
+  "sector": "Investment platform",
+  "description": "Growth investment platform of Daksham Capital; raised Rs 125 crore for its maiden consumer fund.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "valuequesttristarfund": {
+  "name": "ValueQuest Tristar Fund",
+  "sector": "Private equity",
+  "description": "Private equity fund backing India's advanced manufacturing across aerospace, defence and energy transition.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "basiliskindustries": {
+  "name": "Basilisk Industries",
+  "sector": "Hardware",
+  "description": "Mumbai-based hardware startup; acquired by Provision Labs for an undisclosed sum.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "leverageedu": {
+  "name": "Leverage Edu",
+  "sector": "Edtech",
+  "description": "Talent mobility platform; launched its third ESOP buyback programme for employees.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "inmobi": {
+  "name": "InMobi",
+  "sector": "Adtech",
+  "description": "Not enough detail in today's digest.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "procol": {
+  "name": "Procol",
+  "sector": "Procurement software",
+  "description": "Not enough detail in today's digest.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "scripbox": {
+  "name": "Scripbox",
+  "sector": "Wealthtech",
+  "description": "Bengaluru-based wealthtech startup; approved conversion into a public limited company ahead of a potential IPO.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
  }
 }
