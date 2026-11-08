@@ -60,7 +60,7 @@
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "olaelectric": {
   "name": "Ola Electric",
@@ -144,7 +144,7 @@
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -179,7 +179,7 @@
   "sector": "Financial services",
   "description": "Indian brokerage and financial services firm; values Jio Platforms and rates Reliance Industries a buy.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "flipkart": {
   "name": "Flipkart",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -1061,7 +1061,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its IBIT bitcoin ETF led $487.1 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "fidelity": {
   "name": "Fidelity",
@@ -2251,7 +2251,7 @@
   "sector": "Consumer electronics",
   "description": "Electronics brand; 55-inch QLED TV discounted on Flipkart.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-08"
  },
  "bhel": {
   "name": "BHEL",
@@ -2797,7 +2797,7 @@
   "sector": "IT services",
   "description": "Consulting and technology firm; a founding partner in Anthropic's Critical Infrastructure Defense Program.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "crowdstrike": {
   "name": "CrowdStrike",
@@ -4813,7 +4813,7 @@
   "sector": "E-commerce",
   "description": "Indian beauty and fashion e-commerce platform seeing stronger festive user growth.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "asus": {
   "name": "Asus",
@@ -8642,7 +8642,7 @@
   "sector": "Executive",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "vladimirputin": {
   "name": "Vladimir Putin",
@@ -15502,63 +15502,63 @@
   "sector": "Semiconductors",
   "description": "US memory chipmaker; Taoyuan plant saw Taiwan's first semiconductor strike; five OSAT facilities operational.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "kaynessemicon": {
   "name": "Kaynes Semicon",
   "sector": "Semiconductors",
   "description": "Indian OSAT/ATMP facility that became operational this year.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "cgsemi": {
   "name": "CG Semi",
   "sector": "Semiconductors",
   "description": "Indian OSAT/ATMP facility that became operational this year.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "cdil": {
   "name": "CDIL",
   "sector": "Semiconductors",
   "description": "Indian OSAT/ATMP facility that became operational this year.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "suchisemicon": {
   "name": "Suchi Semicon",
   "sector": "Semiconductors",
   "description": "Indian OSAT/ATMP facility that became operational this year.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "sahasrasemiconductors": {
   "name": "Sahasra Semiconductors",
   "sector": "Semiconductors",
   "description": "Indian semiconductor firm that began production at its unit this year.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "rrpelectronics": {
   "name": "RRP Electronics",
   "sector": "Semiconductors",
   "description": "Indian semiconductor firm that began production at its unit this year.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "m1xchange": {
   "name": "M1xchange",
   "sector": "Fintech",
   "description": "TReDS invoice financing platform; financed over Rs 20,000 crore in 30 days from Navratri.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "blueorigin": {
   "name": "Blue Origin",
   "sector": "Space",
   "description": "Jeff Bezos's space company; filed for a permit for 50,000 satellites.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "omanair": {
   "name": "Oman Air",
@@ -16208,6 +16208,13 @@
   "name": "Scripbox",
   "sector": "Wealthtech",
   "description": "Bengaluru-based wealthtech startup; approved conversion into a public limited company ahead of a potential IPO.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "layertwolabs": {
+  "name": "LayerTwo Labs",
+  "sector": "Crypto",
+  "description": "Crypto venture behind the eCash Bitcoin fork launched in October.",
   "first_added": "2026-11-08",
   "last_mentioned": "2026-11-08"
  }
