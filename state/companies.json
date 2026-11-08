@@ -165,7 +165,7 @@
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -515,7 +515,7 @@
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "godigit": {
   "name": "Go Digit",
@@ -2657,7 +2657,7 @@
   "sector": "Industry body",
   "description": "Gold industry body; reported a record $31 billion into gold ETFs in Q3.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-08"
  },
  "abra": {
   "name": "Abra",
@@ -3616,7 +3616,7 @@
   "sector": "Optical fibre",
   "description": "India's largest optical fibre and cable maker, also selling power transmission cables.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-08"
  },
  "aegislogistics": {
   "name": "Aegis Logistics",
@@ -5380,7 +5380,7 @@
   "sector": "Auto components",
   "description": "Makes specialised batteries and railway safety systems such as train collision avoidance equipment, expanding into electric mobility motors.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-11-08"
  },
  "sprautotechnologies": {
   "name": "SPR Auto Technologies",
@@ -5870,7 +5870,7 @@
   "sector": "Wires and cables",
   "description": "Makes electrical and telecommunication cables and fast-moving electrical goods like fans and switches.",
   "first_added": "2026-10-19",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-11-08"
  },
  "sjvn": {
   "name": "SJVN",
@@ -9244,7 +9244,7 @@
   "sector": "Crypto exchange",
   "description": "Global cryptocurrency exchange; transferred BTC to Fidelity's ETF wallet.",
   "first_added": "2026-10-24",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "kilitchdrugs": {
   "name": "Kilitch Drugs",
@@ -13227,7 +13227,7 @@
   "sector": "Oil refining",
   "description": "Indian Oil, state refiner and fuel retailer; Q2 profit soared 184% on higher refining margins.",
   "first_added": "2026-10-31",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-08"
  },
  "gail": {
   "name": "GAIL",
@@ -14137,7 +14137,7 @@
   "sector": "Crypto exchange",
   "description": "Brazilian crypto exchange that paused deposits and withdrawals after a breach.",
   "first_added": "2026-11-03",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-08"
  },
  "btcpayserver": {
   "name": "BTCPay Server",
@@ -16006,7 +16006,7 @@
   "sector": "Retail",
   "description": "CBI booked it, Kishore Biyani and others in a Rs 904 crore bank fraud case.",
   "first_added": "2026-11-07",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-08"
  },
  "taseglobal": {
   "name": "TASE Global",
@@ -16215,6 +16215,20 @@
   "name": "LayerTwo Labs",
   "sector": "Crypto",
   "description": "Crypto venture behind the eCash Bitcoin fork launched in October.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "adanienterprises": {
+  "name": "Adani Enterprises",
+  "sector": "Conglomerate",
+  "description": "Adani group flagship; plans Rs 35,000-40,000 crore annual capex over two years.",
+  "first_added": "2026-11-08",
+  "last_mentioned": "2026-11-08"
+ },
+ "asterdmqualitycare": {
+  "name": "Aster DM Quality Care",
+  "sector": "Healthcare",
+  "description": "Private hospital network across India and the Gulf; Q2 revenue rose 19%.",
   "first_added": "2026-11-08",
   "last_mentioned": "2026-11-08"
  }
