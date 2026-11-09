@@ -2937,7 +2937,7 @@
   "sector": "Financial services",
   "description": "Research firm; downgraded Tech Mahindra to Sell and cut Usha Martin's grade to Hold.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-08"
+  "last_mentioned": "2026-11-09"
  },
  "alphawaveventures": {
   "name": "Alpha Wave Ventures",
@@ -8789,7 +8789,7 @@
   "sector": "Executive",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-11-09"
  },
  "leesedol": {
   "name": "Lee Sedol",
@@ -10385,7 +10385,7 @@
   "sector": "Consumer internet",
   "description": "Zomato founder and CEO who commented on AI shopping agent risk.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-09"
  },
  "iphone17": {
   "name": "iPhone 17",
@@ -16929,6 +16929,76 @@
   "name": "Matrix Chambers",
   "sector": "Legal services",
   "description": "London barristers' chambers acting for Sheikh Hasina on her passport request.",
+  "first_added": "2026-11-09",
+  "last_mentioned": "2026-11-09"
+ },
+ "macquarie": {
+  "name": "Macquarie",
+  "sector": "Financial services",
+  "description": "Investment bank that highlighted Reliance's record O2C quarter and Jio profitability.",
+  "first_added": "2026-11-09",
+  "last_mentioned": "2026-11-09"
+ },
+ "kremlin": {
+  "name": "Kremlin",
+  "sector": "Government",
+  "description": "Russian government office that voiced hope Trump continues his peace efforts on Ukraine.",
+  "first_added": "2026-11-09",
+  "last_mentioned": "2026-11-09"
+ },
+ "anthonyscaramucci": {
+  "name": "Anthony Scaramucci",
+  "sector": "Finance",
+  "description": "Called the crypto pullback a 'second chance' as Bitcoin returned to $76,000.",
+  "first_added": "2026-11-09",
+  "last_mentioned": "2026-11-09"
+ },
+ "jasbirsingh": {
+  "name": "Jasbir Singh",
+  "sector": "Defence aerospace",
+  "description": "HAL executive recommended by PESB as Director (Engineering, R&D).",
+  "first_added": "2026-11-09",
+  "last_mentioned": "2026-11-09"
+ },
+ "dmitrypeskov": {
+  "name": "Dmitry Peskov",
+  "sector": "Government",
+  "description": "Kremlin spokesman who said trilateral talks are set for November 10-11 in Abu Dhabi.",
+  "first_added": "2026-11-09",
+  "last_mentioned": "2026-11-09"
+ },
+ "toddblanche": {
+  "name": "Todd Blanche",
+  "sector": "Government",
+  "description": "US Attorney General who signalled possible criminal investigations of Democrats.",
+  "first_added": "2026-11-09",
+  "last_mentioned": "2026-11-09"
+ },
+ "robertgarcia": {
+  "name": "Robert Garcia",
+  "sector": "Government",
+  "description": "US Representative preparing House Oversight probes into the 'Trump crime family'.",
+  "first_added": "2026-11-09",
+  "last_mentioned": "2026-11-09"
+ },
+ "sheikhhasina": {
+  "name": "Sheikh Hasina",
+  "sector": "Government",
+  "description": "Deposed Bangladeshi Prime Minister who requested a new passport to return from exile.",
+  "first_added": "2026-11-09",
+  "last_mentioned": "2026-11-09"
+ },
+ "ajaykumarshrivastava": {
+  "name": "Ajay Kumar Shrivastava",
+  "sector": "Defence aerospace",
+  "description": "HAL Director (Engineering, R&D) retiring on November 30, 2026.",
+  "first_added": "2026-11-09",
+  "last_mentioned": "2026-11-09"
+ },
+ "datapatternsindia": {
+  "name": "Data Patterns India",
+  "sector": "Defence electronics",
+  "description": "Designs and makes defence electronics for space, air, land and sea platforms.",
   "first_added": "2026-11-09",
   "last_mentioned": "2026-11-09"
  }
