@@ -60,7 +60,7 @@
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "olaelectric": {
   "name": "Ola Electric",
@@ -144,7 +144,7 @@
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-08"
+  "last_mentioned": "2026-11-10"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -830,7 +830,7 @@
   "sector": "Consumer electronics",
   "description": "Smartphone maker offering the T5x at Rs 24,999 during Flipkart's sale.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "meesho": {
   "name": "Meesho",
@@ -2797,7 +2797,7 @@
   "sector": "IT services",
   "description": "Consulting and technology firm; a founding partner in Anthropic's Critical Infrastructure Defense Program.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "crowdstrike": {
   "name": "CrowdStrike",
@@ -2979,7 +2979,7 @@
   "sector": "Energy",
   "description": "Saudi state oil company; Houthis claimed attacks on its sites in eastern Saudi Arabia, which Saudi Arabia has not confirmed.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-08"
+  "last_mentioned": "2026-11-10"
  },
  "safran": {
   "name": "Safran",
@@ -4813,7 +4813,7 @@
   "sector": "E-commerce",
   "description": "Indian beauty and fashion e-commerce platform seeing stronger festive user growth.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "asus": {
   "name": "Asus",
@@ -6101,7 +6101,7 @@
   "sector": "Logistics",
   "description": "Indian shipping and logistics platform; peer comparison for Urban Company.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-11-10"
  },
  "icicisecurities": {
   "name": "ICICI Securities",
@@ -9244,7 +9244,7 @@
   "sector": "Crypto exchange",
   "description": "Global cryptocurrency exchange; transferred BTC to Fidelity's ETF wallet.",
   "first_added": "2026-10-24",
-  "last_mentioned": "2026-11-08"
+  "last_mentioned": "2026-11-10"
  },
  "kilitchdrugs": {
   "name": "Kilitch Drugs",
@@ -15502,7 +15502,7 @@
   "sector": "Semiconductors",
   "description": "US memory chipmaker; Taoyuan plant saw Taiwan's first semiconductor strike; five OSAT facilities operational.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "kaynessemicon": {
   "name": "Kaynes Semicon",
@@ -15558,7 +15558,7 @@
   "sector": "Space",
   "description": "Jeff Bezos's space company; filed for a permit for 50,000 satellites.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "omanair": {
   "name": "Oman Air",
@@ -15894,7 +15894,7 @@
   "sector": "FMCG",
   "description": "Reliance's consumer goods arm; expanded its Independence biscuit range with nine variants from Rs 5.",
   "first_added": "2026-11-07",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "blinkcommerce": {
   "name": "Blink Commerce",
@@ -17118,6 +17118,27 @@
   "name": "Immacule",
   "sector": "Pharmaceuticals",
   "description": "Sterile injectable contract manufacturer that commissioned a 200 million-unit facility.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "qantas": {
+  "name": "Qantas",
+  "sector": "Airlines",
+  "description": "Australian airline; cutting 850 local jobs and outsourcing back-office functions to Accenture.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "amagi": {
+  "name": "Amagi",
+  "sector": "Media tech",
+  "description": "Cloud broadcast and streaming technology firm; Q2 revenue rose 27% to Rs 476 crore and profit jumped nearly 30-fold.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "moneyview": {
+  "name": "Moneyview",
+  "sector": "Fintech",
+  "description": "Digital lending startup; Q2 net profit rose over fivefold to Rs 201 crore with disbursals up 41%.",
   "first_added": "2026-11-10",
   "last_mentioned": "2026-11-10"
  }
