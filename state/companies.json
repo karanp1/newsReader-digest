@@ -53,7 +53,7 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-10"
  },
  "google": {
   "name": "Google",
@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-10"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -130,7 +130,7 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "starlink": {
   "name": "Starlink",
@@ -158,14 +158,14 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -186,7 +186,7 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "walmart": {
   "name": "Walmart",
@@ -501,7 +501,7 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "naukri": {
   "name": "Naukri",
@@ -515,7 +515,7 @@
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "godigit": {
   "name": "Go Digit",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -662,7 +662,7 @@
   "sector": "IT services",
   "description": "Issued a Rs 1,537 crore Letter of Intent to Tejas for BSNL 4G RAN equipment.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "blinkit": {
   "name": "Blinkit",
@@ -984,7 +984,7 @@
   "sector": "IT services",
   "description": "IT services firm; launched 20 purpose-built Industry AI Solutions across sectors.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "airindia": {
   "name": "Air India",
@@ -1061,7 +1061,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its IBIT bitcoin ETF led $487.1 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-08"
+  "last_mentioned": "2026-11-10"
  },
  "fidelity": {
   "name": "Fidelity",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1201,7 +1201,7 @@
   "sector": "Stock exchange",
   "description": "National Stock Exchange; listed on 24 September at Rs 1,785 per share.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "ntpcgreenenergy": {
   "name": "NTPC Green Energy",
@@ -1229,7 +1229,7 @@
   "sector": "IT services",
   "description": "Indian IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "hcl": {
   "name": "HCL",
@@ -1432,7 +1432,7 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "citi": {
   "name": "Citi",
@@ -1446,7 +1446,7 @@
   "sector": "Financial services",
   "description": "Brokerage; valued Jio at Rs 331-450 per Reliance share.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "yessecurities": {
   "name": "Yes Securities",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-10"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -3245,7 +3245,7 @@
   "sector": "Holding company",
   "description": "Holding company controlling the Tata group; reportedly in early talks with banks about a potential listing.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-10"
  },
  "birlasoft": {
   "name": "Birlasoft",
@@ -3266,14 +3266,14 @@
   "sector": "Insurance",
   "description": "General insurance company; mentioned in the watchlist context.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "relianceintelligence": {
   "name": "Reliance Intelligence",
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "gartner": {
   "name": "Gartner",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3630,7 +3630,7 @@
   "sector": "Wires and cables",
   "description": "Makes wires, cables and FMEG products for residential, industrial and infrastructure customers.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "aetherindustries": {
   "name": "Aether Industries",
@@ -4050,7 +4050,7 @@
   "sector": "Investment banking",
   "description": "Investment bank named among anchor investors in Jio Platforms' IPO.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "religare": {
   "name": "Religare",
@@ -4806,7 +4806,7 @@
   "sector": "Philanthropy",
   "description": "Charitable trusts owning 66% of Tata Sons, facing governance complaints.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-10"
  },
  "nykaa": {
   "name": "Nykaa",
@@ -5016,7 +5016,7 @@
   "sector": "Oil and gas",
   "description": "Indian state oil and gas explorer, a peer to Vedanta Oil and Gas.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "oilindia": {
   "name": "Oil India",
@@ -5044,7 +5044,7 @@
   "sector": "Banking",
   "description": "India's largest bank, a peer to IDBI Bank.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "aadharhousing": {
   "name": "Aadhar Housing",
@@ -5121,14 +5121,14 @@
   "sector": "Crypto",
   "description": "Leading cryptocurrency that fell to $82,000 after higher-than-expected CPI.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "gold": {
   "name": "Gold",
   "sector": "Commodities",
   "description": "Precious metal trading near $4,100 with record ETF holdings.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "yaraj": {
   "name": "Yara J",
@@ -5184,7 +5184,7 @@
   "sector": "Electrical equipment",
   "description": "Makes AC generators and electric motors to customer specifications near Bengaluru.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "hdfcdefencefund": {
   "name": "HDFC Defence Fund",
@@ -7676,7 +7676,7 @@
   "sector": "Stock exchange",
   "description": "Indian exchange where Jio Platforms' IPO bids and Reliance share moves were recorded.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-10"
  },
  "dcgi": {
   "name": "DCGI",
@@ -8040,7 +8040,7 @@
   "sector": "Telecom",
   "description": "Provides wireline voice and data services to enterprises in Maharashtra and Goa.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-08"
+  "last_mentioned": "2026-11-10"
  },
  "keiindustries": {
   "name": "KEI Industries",
@@ -9272,7 +9272,7 @@
   "sector": "Pharmaceuticals",
   "description": "Indian injectables maker; US FDA issued four observations at its Dundigal facility.",
   "first_added": "2026-10-24",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-11-10"
  },
  "zhongguacunacademy": {
   "name": "Zhongguacun Academy",
@@ -9846,7 +9846,7 @@
   "sector": "AI",
   "description": "AI code review tool using GPT-6.1 Sol to flag security issues in pull requests.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-10"
  },
  "fanatics": {
   "name": "Fanatics",
@@ -9930,7 +9930,7 @@
   "sector": "Food and beverage",
   "description": "Indian packaged foods company fined Rs 1 lakh over a misleading whole wheat bread claim.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-08"
+  "last_mentioned": "2026-11-10"
  },
  "unnatifortuneholdings": {
   "name": "Unnati Fortune Holdings",
@@ -11029,7 +11029,7 @@
   "sector": "Engineering",
   "description": "Indian engineering and construction major; Q2 profit rose 33% to Rs 5,202 crore.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-10"
  },
  "maruti": {
   "name": "Maruti",
@@ -11204,7 +11204,7 @@
   "sector": "Pharmaceuticals",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-10"
  },
  "torrentpharma": {
   "name": "Torrent Pharma",
@@ -11722,7 +11722,7 @@
   "sector": "IT services",
   "description": "IT firm launching GCC Origin, a dedicated unit serving global capability centres.",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-10"
  },
  "ptcindia": {
   "name": "PTC India",
@@ -14116,7 +14116,7 @@
   "sector": "Retail",
   "description": "Reliance's retail arm; Q2 FY27 profit fell 24.3% to Rs 2,611 crore on revenue of Rs 91,716 crore.",
   "first_added": "2026-11-03",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "godigitgeneralinsurance": {
   "name": "Go Digit General Insurance",
@@ -15334,7 +15334,7 @@
   "sector": "Fitness",
   "description": "Indian fitness chain and app operator with gyms and online coaching.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-10"
  },
  "merge": {
   "name": "Merge",
@@ -15446,7 +15446,7 @@
   "sector": "Pharma services",
   "description": "Hyderabad-based contract research and manufacturing firm serving innovator pharma and biotech clients.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-08"
+  "last_mentioned": "2026-11-10"
  },
  "thermax": {
   "name": "Thermax",
@@ -16440,7 +16440,7 @@
   "sector": "Semiconductors",
   "description": "Chip buyer whose employee Alice Huang was reportedly involved in an intelligence effort around Nvidia's CEO.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "jiohotstar": {
   "name": "JioHotstar",
@@ -16867,7 +16867,7 @@
   "sector": "Oil and gas",
   "description": "British multinational oil and gas major.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "gabit": {
   "name": "Gabit",
@@ -16881,14 +16881,14 @@
   "sector": "Industry body",
   "description": "Indian trade association for oilseed processors and oilmeal exporters.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "datapatterns": {
   "name": "Data Patterns",
   "sector": "Defence electronics",
   "description": "Indian maker of defence electronics for space, air, land and sea platforms, including LCA-Tejas and BrahMos parts.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "bel": {
   "name": "BEL",
@@ -16902,7 +16902,7 @@
   "sector": "Renewable energy finance",
   "description": "Indian Renewable Energy Development Agency, a state-run lender to renewable energy projects.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "saudiarabia": {
   "name": "Saudi Arabia",
@@ -16937,7 +16937,7 @@
   "sector": "Financial services",
   "description": "Investment bank that highlighted Reliance's record O2C quarter and Jio profitability.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-10"
  },
  "kremlin": {
   "name": "Kremlin",
@@ -17001,5 +17001,124 @@
   "description": "Designs and makes defence electronics for space, air, land and sea platforms.",
   "first_added": "2026-11-09",
   "last_mentioned": "2026-11-09"
+ },
+ "kukenindustries": {
+  "name": "Kuken Industries",
+  "sector": "Industrial equipment",
+  "description": "Cooling tower maker that built an AI search tool for 70 years of engineering drawings.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "recursive": {
+  "name": "Recursive",
+  "sector": "AI",
+  "description": "Japanese AI startup and official OpenAI partner that built Kuken's drawing search tool.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "tui": {
+  "name": "TUI",
+  "sector": "Travel",
+  "description": "Travel group whose four-person security team supports over 100 product teams with an AI agent.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "soundhound": {
+  "name": "SoundHound",
+  "sector": "AI",
+  "description": "Voice AI company whose Spanish-speaking agent answers Bogotá's Linea 195 hotline.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "umobile": {
+  "name": "U Mobile",
+  "sector": "Telecom",
+  "description": "Malaysian mobile operator that built an AI-driven agentic helpdesk on Amazon Bedrock.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "axrail": {
+  "name": "Axrail",
+  "sector": "AI",
+  "description": "Partner that helped U Mobile build its AI helpdesk on AWS.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "verisk": {
+  "name": "Verisk",
+  "sector": "Data analytics",
+  "description": "Analytics firm that built a five-agent AI software development lifecycle with AWS.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "greenlightfinancial": {
+  "name": "Greenlight Financial",
+  "sector": "Fintech",
+  "description": "Family fintech whose Luna AI resolves most monthly security and risk cases autonomously.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "bmo": {
+  "name": "BMO",
+  "sector": "Banking",
+  "description": "Canadian bank deploying an internal AI agent to speed credit-card inquiry resolution.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "bill": {
+  "name": "BILL",
+  "sector": "Fintech",
+  "description": "Financial software firm using over 100 AI agents to cut underwriting times to 12 minutes.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "apiiro": {
+  "name": "Apiiro",
+  "sector": "Cybersecurity",
+  "description": "Application security vendor covering secrets, API security and AI code scanning.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "abhyudayaoperativebank": {
+  "name": "Abhyudaya Co-operative Bank",
+  "sector": "Banking",
+  "description": "Mumbai-based co-operative bank under RBI board supersession extended by another year.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "noidametrorail": {
+  "name": "Noida Metro Rail Corporation",
+  "sector": "Metro rail",
+  "description": "Awarded L&T a Rs 1,000-2,500 crore contract for the Aqua Line extension.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "bdrpharma": {
+  "name": "BDR Pharma",
+  "sector": "Pharmaceuticals",
+  "description": "Indian drugmaker acquiring a controlling stake in Acme Formulation's oral solids business.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "acmeformulation": {
+  "name": "Acme Formulation",
+  "sector": "Pharmaceuticals",
+  "description": "Contract manufacturer selling a controlling stake in its oral solid formulations business.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "pag": {
+  "name": "PAG",
+  "sector": "Private equity",
+  "description": "Investment firm leading the shareholder group selling Acme Formulation's oral solids business.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
+ },
+ "immacule": {
+  "name": "Immacule",
+  "sector": "Pharmaceuticals",
+  "description": "Sterile injectable contract manufacturer that commissioned a 200 million-unit facility.",
+  "first_added": "2026-11-10",
+  "last_mentioned": "2026-11-10"
  }
 }
