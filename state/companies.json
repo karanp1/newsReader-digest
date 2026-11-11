@@ -949,7 +949,7 @@
   "sector": "Shipbuilding",
   "description": "Indian shipbuilder with orders for over 40 ships from Germany, the U.S., Norway and others.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-11"
  },
  "reliance": {
   "name": "Reliance",
@@ -2209,7 +2209,7 @@
   "sector": "Media services",
   "description": "Mumbai-based post-production and VFX company; shares fell 3.99% amid a broader pullback.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-11-11"
  },
  "aartiindustries": {
   "name": "Aarti Industries",
@@ -2349,7 +2349,7 @@
   "sector": "Jewellery",
   "description": "Indian jewellery retailer; grew over 26% in the September quarter.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-11"
+  "last_mentioned": "2026-11-11"
  },
  "sencogold": {
   "name": "Senco Gold",
@@ -4974,7 +4974,7 @@
   "sector": "Technology",
   "description": "Technology company hosting Think 2026 and partnering on quantum computing in Andhra Pradesh.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-11"
  },
  "andhrapradesh": {
   "name": "Andhra Pradesh",
@@ -5177,7 +5177,7 @@
   "sector": "Computing hardware",
   "description": "Designs and builds high-performance computing, AI systems and data centre servers.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-25"
+  "last_mentioned": "2026-11-11"
  },
  "tdpowersystems": {
   "name": "TD Power Systems",
@@ -16440,7 +16440,7 @@
   "sector": "Semiconductors",
   "description": "Chip buyer whose employee Alice Huang was reportedly involved in an intelligence effort around Nvidia's CEO.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "jiohotstar": {
   "name": "JioHotstar",
@@ -17314,6 +17314,13 @@
   "name": "CSIR-NEERI",
   "sector": "Research",
   "description": "Indian government lab developing low-emission firecrackers.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "motherdairy": {
+  "name": "Mother Dairy",
+  "sector": "Dairy",
+  "description": "Indian dairy cooperative that raised liquid milk prices by Rs 2-4 per litre.",
   "first_added": "2026-11-11",
   "last_mentioned": "2026-11-11"
  }
