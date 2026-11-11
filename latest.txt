@@ -3,8 +3,8 @@ METRICS
 NIFTY PE | 20.48 | 9 Nov 2026 | https://nifty-pe-ratio.com/
 Gold per 10g 24K | ₹1,42,680 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 25,044.65 (+5.18%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹68,78,522 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $73,539 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹69,11,938 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $73,768 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -45,11 +45,11 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   10 Nov 2026 | https://www.rediff.com/news/commentary/2026/nov/10/want-sonias-memoir-blinkit-promises-it-in-8-minutes/00c02b2fc2f675d9a7f76dffaaf0f1f2
-  • Eternal reported Q2 FY27 net profit of INR 125 crore, up 92.3% year on year, on revenue of INR 24,138 crore, up 77.6%. ¶ • Blinkit added 308 stores in the quarter to reach 2,751, with management expecting to exceed 3,500 stores by March 2027. ¶ • Jefferies raised its target to INR 430 from INR 415 and kept Buy, citing faster Blinkit expansion and food delivery growth above 20%. ¶ • Goldman Sachs kept Buy and lifted its target 11% to INR 385, forecasting USD 1 billion in EBITDA by FY29, an analyst estimate. ¶ • Blinkit listed Sonia Gandhi's memoir at ₹849, about 35% off the ₹1,299 print price, with eight-minute delivery in Central Delhi. ¶ ↗ rediff.com|https://www.rediff.com/news/commentary/2026/nov/10/want-sonias-memoir-blinkit-promises-it-in-8-minutes/00c02b2fc2f675d9a7f76dffaaf0f1f2 ;; newindianexpress.com|https://www.newindianexpress.com/cities/delhi/2026/Nov/10/frenzy-at-khan-market-bookstores-blinkit-and-amazon-list-sonias-book-before-formal-launch ;; money.rediff.com|https://money.rediff.com/news/market/sonia-gandhi-memoir-on-blinkit-quick-commerce-enters-book-retail/57830520261110 ;; ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/corporate-news/eternal-stock-draws-higher-broker-targets-after-q2-profit-jump/70487326
+  • Eternal reported Q2 FY27 net profit of INR 125 crore, up 92.3% year on year, on revenue of INR 24,138 crore, up 77.6%. ¶ • Blinkit added 308 stores in the quarter to reach 2,751, with management expecting to exceed 3,500 stores by March 2027. ¶ • Jefferies raised its target price to INR 430 from INR 415 and kept Buy, citing faster Blinkit expansion and food delivery growth above 20%. ¶ • Goldman Sachs kept Buy and lifted its target 11% to INR 385, forecasting USD 1 billion in EBITDA by FY29, an analyst estimate. ¶ • Blinkit listed Sonia Gandhi's memoir at ₹849, about 35% below the ₹1,299 print price, with an estimated eight-minute delivery in Central Delhi. ¶ ↗ rediff.com|https://www.rediff.com/news/commentary/2026/nov/10/want-sonias-memoir-blinkit-promises-it-in-8-minutes/00c02b2fc2f675d9a7f76dffaaf0f1f2 ;; money.rediff.com|https://money.rediff.com/news/market/sonia-gandhi-memoir-on-blinkit-quick-commerce-enters-book-retail/57830520261110 ;; ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/corporate-news/eternal-stock-draws-higher-broker-targets-after-q2-profit-jump/70487326 ;; ad-hoc-news.de|https://www.ad-hoc-news.de/boerse/news/corporate-news/eternal-stock-holds-near-peak-as-broker-targets-rise-after-q2/70485014
 
 - Outlook: Bullish
   2026-11-11 |
-  §VIEW§{"stance": "bullish", "text": "Q2 profit up 92.3% and revenue up 77.6%, plus higher broker targets, show growth and improving unit economics. Blinkit's store rollout and margin execution remain the test."}
+  §VIEW§{"stance": "bullish", "text": "Q2 FY27 profit rose 92.3% and revenue 77.6%, with Blinkit at 2,751 stores and brokerages raising targets. Execution on store economics and margins decides whether the re-rating holds."}
 
 [HAL]
 
@@ -73,21 +73,21 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   10 Nov 2026 | https://www.fool.com/investing/2026/11/10/bitcoin-just-did-something-completely-unexpected/
-  • Bitcoin dipped below $77,000 before the U.S. midterms, then rallied to $80,000 even as Democrats won both chambers, with BTC last at $73,671, down 1.77%. ¶ • MARA sold 13,597 BTC after September 30 for about $1.1 billion at an average price of $81,039, using $750 million to repay Bitcoin-backed loans. ¶ • Over $10 billion in leveraged Bitcoin shorts are stacked up to $83,000, with Hyperliquid whales net short by roughly two to one since October 27. ¶ • MARA authorized a $500 million share buyback and cut debt by $1.4 billion this year, but Q3 revenue fell 34.9% to $164.23 million, missing the $176.13 million consensus. ¶ • A hotter-than-expected October CPI has futures markets leaning toward a quarter-point Fed rate hike on December 9, pressuring Bitcoin. ¶ ↗ fool.com|https://www.fool.com/investing/2026/11/10/bitcoin-just-did-something-completely-unexpected/ ;; finance.yahoo.com|https://finance.yahoo.com/markets/stocks/articles/mara-holdings-jumps-11-500-160419668.html ;; tradingview.com|https://www.tradingview.com/news/newsbtc:8dd6c4fa7094b:0-mara-sells-13-597-bitcoin-for-1-1b-as-its-ai-pivot-reshapes-treasury-strategy/ ;; tradingview.com|https://www.tradingview.com/news/cryptobriefing:25ba4cbfe094b:0-over-10-billion-in-leveraged-bitcoin-shorts-stack-up-near-83k-raising-squeeze-risk/
+  • Bitcoin dipped below $77,000 before the U.S. midterms, then rallied to $80,000 even as Democrats won both the House and Senate. ¶ • Traders stacked over $10 billion in leveraged Bitcoin shorts up to the $83,000 level as of November 9, with whale accounts on Hyperliquid net short by roughly two to one. ¶ • MARA sold 13,597 BTC after September 30 for about $1.1 billion at an average price near $81,039, using $750 million to repay Bitcoin-backed loans. ¶ • MARA authorized a $500 million share buyback and its stock jumped 11%, while Q3 revenue fell 34.9% year over year to $164.23 million. ¶ • Peter Brandt sees the 30-year Treasury yield climbing to 6.5% to 7%, with traders pricing an 84% chance of a December Fed rate hike. ¶ ↗ fool.com|https://www.fool.com/investing/2026/11/10/bitcoin-just-did-something-completely-unexpected/ ;; finance.yahoo.com|https://finance.yahoo.com/markets/stocks/articles/peter-brandt-sees-30-yield-014500881.html ;; finance.yahoo.com|https://finance.yahoo.com/markets/stocks/articles/mara-holdings-jumps-11-500-160419668.html ;; tradingview.com|https://www.tradingview.com/news/newsbtc:8dd6c4fa7094b:0-mara-sells-13-597-bitcoin-for-1-1b-as-its-ai-pivot-reshapes-treasury-strategy/
 
-- Outlook: Bearish
+- Outlook: Neutral
   2026-11-11 |
-  §VIEW§{"stance": "bearish", "text": "Bitcoin fell to $73,671 as miners sell reserves and a likely December rate hike weighs. A short squeeze above $83,000 could spike prices, but the flow is bearish."}
+  §VIEW§{"stance": "neutral", "text": "Bitcoin held $80,000 after the midterms, but heavy short positioning and a possible 7% 30-year yield pull the other way. The split is political resilience against tightening rate risk."}
 
 [Gold]
 
 - ~
   10 Nov 2026 | https://fortune.com/article/current-price-of-gold-11-10-2026/
-  • Gold fell 2.79% to $4,023.02 per ounce on November 10, down $115.64 from the previous close of $4,138.66. ¶ • October core CPI rose 0.3%, above the 0.2% forecast, lifting December Fed rate hike odds to near fully priced. ¶ • China bought 26 tonnes of gold in October, taking reserves to 2,435 tonnes, 2 tonnes behind France. ¶ • Central banks bought 321 tonnes of gold in Q3, up 42% year on year and above the five-year quarterly average of 227 tonnes. ¶ • Gold pulled back to a four-day low of $4,014 on Tuesday, holding above the 20-day moving average and former trendline support. ¶ ↗ fortune.com|https://fortune.com/article/current-price-of-gold-11-10-2026/ ;; kitco.com|https://www.kitco.com/news/article/2026-11-10/china-buys-gold-two-straight-years-central-bank-demand-remains-key-pillar ;; fxempire.com|https://www.fxempire.com/forecasts/article/gold-price-forecast-failed-breakdown-fuels-bullish-reversal-1643741 ;; usatoday.com|https://www.usatoday.com/story/money/personalfinance/2026/11/10/gold-price-on-november-10-2026/92704328007/
+  • Gold fell 2.79% to $4,023.02 per ounce on Nov. 10, down $115.64 from the previous close of $4,138.66. ¶ • US CPI rose 0.4% last month and core CPI rose 0.3%, both above economist estimates, lifting expectations of a December Fed rate hike. ¶ • China bought 26 tonnes of gold in October, taking official reserves to 2,435 tonnes, two tonnes behind France. ¶ • Central banks bought 321 tonnes of gold in Q3, up 42% from a year earlier and above the five-year quarterly average of 227 tonnes. ¶ • Gold recovered to a four-day low of $4,014 on Tuesday after a failed breakdown below $3,942, signalling a shift from sellers to buyers. ¶ ↗ fortune.com|https://fortune.com/article/current-price-of-gold-11-10-2026/ ;; kitco.com|https://www.kitco.com/news/article/2026-11-10/china-buys-gold-two-straight-years-central-bank-demand-remains-key-pillar ;; fxempire.com|https://www.fxempire.com/forecasts/article/gold-price-forecast-failed-breakdown-fuels-bullish-reversal-1643741 ;; usatoday.com|https://www.usatoday.com/story/money/personalfinance/2026/11/10/gold-price-on-november-10-2026/92704328007/
 
 - Outlook: Bearish
   2026-11-11 |
-  §VIEW§{"stance": "bearish", "text": "Hot October core CPI at 0.3% and near-certain December Fed hike lift Treasury yields and the dollar, raising gold's opportunity cost. Central bank buying of 321 tonnes in Q3 offers a cushion but has not halted the price slide."}
+  §VIEW§{"stance": "bearish", "text": "Hotter-than-expected US CPI and talk of a 50-basis-point December hike drove gold down 2.79%, as tighter policy reprices the metal first. Record central bank buying, 321 tonnes in Q3, cushions the fall but has not set a firm floor."}
 
 ============================================================
 
@@ -283,7 +283,27 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
+[[Iran and US tensions]]
+
+- Iran says no US talks as Rubio sees no need to attack
+  11 Nov 2026 | https://www.thehindu.com/news/international/no-talks-underway-with-us-says-iran-top-security-official/article71688184.ece
+  • Iran's security official Mohsen Rezaei said no negotiations with Washington are underway, and the US has not answered the seven conditions set in a June interim agreement. ¶ • Secretary of State Marco Rubio said the economic campaign makes major combat unnecessary, as Iran's Hormuz blockade keeps oil prices high after Republican midterm losses.
+
+- U.S. Treasury chief Bessent moved to military base after Iranian threats, reports say
+  11 Nov 2026 | https://www.thehindu.com/news/international/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats-reports-say/article71688103.ece
+  • Treasury Secretary Scott Bessent moved out of his home onto a military base after Iranian threats against his life, the New York Times reported. ¶ • A senior Trump administration intelligence official said lethal Iranian plots against Americans have reached advanced stages, though U.S. officials say Iran's ability to carry out large-scale attacks is limited.
+
+[[Ukraine war diplomacy]]
+
+- Ukraine’s Zelenskyy says he is pleased with messages from U.S. envoys on diplomatic efforts to end war
+  11 Nov 2026 | https://www.thehindu.com/news/international/ukraines-zelenskyy-says-he-is-pleased-with-messages-from-us-envoys-on-diplomatic-efforts-to-end-war/article71687545.ece
+  • Zelenskyy said he was very happy with U.S. messages after talks with Nordic leaders in Denmark, as the first U.S.-led trilateral talks with Ukraine and Russia in Abu Dhabi since February wrapped up. ¶ • Lavrov said Moscow would not accept an immediate ceasefire without knowing what follows, while Zelenskyy insisted the sequence must be stop the war, then security guarantees for Ukraine, then wider European security talks.
+
 [[US politics]]
+
+- Republicans keep Jim Jordan and John Thune as leaders after midterm losses
+  11 Nov 2026 | https://www.thehindu.com/news/international/trump-ally-jim-jordan-elected-us-house-republican-leader-after-midterm-election-rout/article71688105.ece
+  • House Republicans elected Jim Jordan as their leader, beating Steve Scalise 106 votes to 73, after losing control of both chambers of Congress. ¶ • Senate Republicans reelected John Thune as leader, voting 31-15 to proceed despite losing at least seven Senate seats in the midterms.
 
 - U.S. House Oversight Committee criticises Trump administration over release of Epstein records
   11 Nov 2026 | https://www.thehindu.com/news/international/us-house-oversight-committee-criticises-trump-administration-over-release-of-epstein-records/article71688114.ece
@@ -293,36 +313,107 @@ SOURCE 3: The Hindu - International (headlines + summary)
   11 Nov 2026 | https://www.thehindu.com/news/international/us-republicans-derail-bid-to-impeach-hegseth/article71687959.ece
   • The House voted 211 to 204 to send Thomas Massie's impeachment resolution against Defence Secretary Pete Hegseth to the Judiciary Committee, derailing a planned Wednesday vote. ¶ • Democrats, who swept last week's midterms and take both chambers in January, can revive the effort; 11 Democrats missed the vote.
 
-- Trump ally Jim Jordan elected U.S. House Republican leader after midterm election rout
-  11 Nov 2026 | https://www.thehindu.com/news/international/trump-ally-jim-jordan-elected-us-house-republican-leader-after-midterm-election-rout/article71688105.ece
-  • Jim Jordan, a Trump ally, was elected leader of the U.S. House Republicans by a vote of 106 to 73, replacing Mike Johnson. ¶ • Jordan's victory signals a rejection of established party leadership following the Republican loss in the recent midterm elections.
-
-- U.S. Senate Republicans vote to keep John Thune as leader after steep midterm election losses
-  11 Nov 2026 | https://www.thehindu.com/news/international/us-senate-republicans-vote-to-keep-john-thune-as-leader-after-steep-midterm-election-losses/article71688101.ece
-  • Senate Republicans voted 31-15 to keep John Thune as leader, rejecting a delay after midterms cost them at least seven Senate seats. ¶ • Thune, who replaced Mitch McConnell in early 2025, faces pressure to pass war spending and other priorities before Republicans lose power in January.
-
-[[Trump legal cases]]
-
 - U.S. judge says Trump’s $10 billion BBC defamation case can proceed
   11 Nov 2026 | https://www.thehindu.com/news/international/us-judge-says-trumps-10-billion-bbc-defamation-case-can-proceed/article71688097.ece
   • U.S. District Judge Jeffrey Kuntz in Florida allowed Trump's $10 billion defamation claim against the BBC to proceed, but dismissed his unfair trade practices claim. ¶ • The BBC has admitted the Panorama edits were misleading and apologised, though it denies liability for defamation.
 
-[[Iran threats]]
+- Is right-wing populism set to retreat?
+  11 Nov 2026 | https://www.thehindu.com/news/international/is-right-wing-populism-set-to-retreat/article71687301.ece
+  • Right-wing populism spread globally after Donald Trump's rise in the 2010s, with Trump backing populists including Brazil's Bolsonaros, El Salvador's Nayib Bukele and Hungary's Viktor Orbán. ¶ • Trump's weakening could shift political equations well beyond the U.S., since other democracies often follow its lead.
 
-- U.S. Treasury chief Bessent moved to military base after Iranian threats, reports say
-  11 Nov 2026 | https://www.thehindu.com/news/international/us-treasury-chief-bessent-moved-to-military-base-after-iranian-threats-reports-say/article71688103.ece
-  • Treasury Secretary Scott Bessent moved out of his home onto a military base after Iranian threats against his life, the New York Times reported. ¶ • A senior Trump administration intelligence official said lethal Iranian plots against Americans have reached advanced stages, though U.S. officials say Iran's ability to carry out large-scale attacks is limited.
+[[US-China AI relations]]
 
-[[Arctic drilling]]
+- U.S. and China should stay clear-eyed on AI cooperation and competition, says Scott Bessent
+  11 Nov 2026 | https://www.thehindu.com/news/international/us-and-china-should-stay-clear-eyed-on-ai-cooperation-and-competition-says-scott-bessent/article71688169.ece
+  • Treasury Secretary Scott Bessent said the U.S. and China will launch a bilateral dialogue on "superintelligence" at a Trump-Xi meeting in Shenzhen on the sidelines of the November 18-19 APEC summit. ¶ • The two sides agreed to a direct channel for alerting each other to serious AI incidents, and a Board of Trade will set mutual tariff cuts on $30 billion of non-sensitive goods each way.
+
+[[Climate and COP31]]
+
+- World leaders take stage at COP31 but big names missing
+  11 Nov 2026 | https://www.thehindu.com/sci-tech/energy-and-environment/world-leaders-take-stage-at-cop31-but-big-names-missing/article71688148.ece
+  • Dozens of leaders address the COP31 high-level segment in Antalya on November 11-12, with British PM Andy Burnham the only G7 leader scheduled to speak. ¶ • French President Macron, German Chancellor Merz, Italian PM Meloni, Canada's Carney and Japan's Takaichi are skipping, while the US and China send no top leaders.
 
 - Canada has not made a decision about lifting Arctic drilling ban, says Mark Carney
   11 Nov 2026 | https://www.thehindu.com/news/international/canada-has-not-made-a-decision-about-lifting-arctic-drilling-ban-says-mark-carney/article71688125.ece
   • Carney said C$11 million ($7.79 million) over four years in the federal budget is capacity funding for Inuit leadership, not a decision on the moratorium. ¶ • The moratorium on Arctic offshore oil and gas exploration has been in place since 2016 and is set to expire in 2028.
 
+[[Other]]
+
+- Dozens injured in South Korea after bus crashes into 32 vehicles
+  11 Nov 2026 | https://www.thehindu.com/news/international/bus-crashes-into-32-vehicles-in-seongnam-south-korea-on-november-11-2026/article71688192.ece
+  • A commuter bus hit 32 vehicles stopped at a traffic light during the morning rush hour in Seongnam, South Korea, injuring dozens. ¶ • At least 57 people were treated for injuries, nine seriously but none life-threatening; the driver said the brakes failed and tested negative for alcohol.
+
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Quick commerce delivers huge festive triumph for D2C brands
+11 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/qcomms-diwali-boost-energy-startups-attract-funds/articleshow/135722702.cms
+
+• D2C brands across fashion, beauty, snacks, gifting and puja essentials saw strong sales growth this festive season, with several doubling sales from a year earlier.
+
+• Pilgrim and Open Secret doubled their sales year-on-year during the festive period.
+
+• Suta saw a 15% increase in festive sales, with consumers favoring practical stock-keeping units (SKUs).
+
+• Quick commerce accounted for up to 65% of overall sales for brands like Open Secret, but the surge led to longer delivery times and rider shortages in several pin codes.
+
+### Energy infra startups see bigger cheques as investors bet on sovereign play
+11 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/qcomms-diwali-boost-energy-startups-attract-funds/articleshow/135722702.cms
+
+• Startups developing hardware for India's energy infrastructure are securing follow-on funding several times larger than earlier rounds.
+
+• Enerzolve, which makes smart meters, power conversion systems and energy storage systems, is in talks to raise $20 million from existing investors.
+
+• Tan90 Thermal is in talks to raise about $10.6 million (₹100 crore) led by Blume Ventures.
+
+• Investors are deepening bets on energy hardware spanning grid management, storage and power electronics, driven by energy security more than climate.
+
+### Tighter risk filters guide Prosus’ new India fintech push
+11 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/qcomms-diwali-boost-energy-startups-attract-funds/articleshow/135722702.cms
+
+• Prosus, which has invested $100 million in Sachin Bansal-founded Navi, is planning to dial up its fintech investments in India.
+
+• It has invested around $80 million in supply-chain financing platform Mintifi and $100 million in Vastu Housing Finance over the past two years.
+
+• Ashutosh Sharma, head of Prosus India, said the recent investments were part of a shift that has gathered pace over the past two to three years.
+
+• Sharma said, “You will see us over-indexing on financial services.”
+
+### SoftBank’s India gains
+11 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/qcomms-diwali-boost-energy-startups-attract-funds/articleshow/135722702.cms
+
+• SoftBank's Vision funds saw gains of nearly $400 million from its investments in Lenskart and Meesho during the September quarter.
+
+• The two Indian startups emerged among the strongest performers in SoftBank's listed portfolio globally.
+
+### Tata Electronics on alert after gas leak deaths
+11 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/qcomms-diwali-boost-energy-startups-attract-funds/articleshow/135722702.cms
+
+• Apple supplier Tata Electronics has been directed to review the safety performance of agencies maintaining the effluent treatment plant (ETP) at its Krishnagiri facility.
+
+• The review follows the deaths of three contract workers during maintenance work.
+
+### Global pick: Tech’s ‘vertical’ obsession doesn’t stack up
+FT | https://www.ft.com/content/d3f706c8-a936-4395-bcf1-7f8bc2bed99a?syn-25a6b1a6=1
+
+[Could not read the article, possibly paywalled]
+
+### Global pick: Chinese AI firms want Silicon Valley’s top minds. Poaching them won’t be easy
+Rest of World | https://restofworld.org/2026/chinese-ai-labs-hire-silicon-valley-engineers-openai-anthropic/
+
+• Chinese AI companies MiniMax and Moonshot AI are hiring Silicon Valley-based engineers to work on their models, aiming to tap talent at U.S. labs like OpenAI and Anthropic.
+
+• MiniMax has around 16 San Francisco job openings, including a research lead for its core AI model, plus a lead recruiter for Silicon Valley and Seattle.
+
+• MiniMax spent $84.3 million on employee remuneration in 2025, about $203,000 per person across 415 staff, versus OpenAI's advertised $250,000 to $445,000 base salaries for research engineers.
+
+• Chinese firms struggle to match Silicon Valley pay and frontier-model prestige, so even matching offers may not lure top talent despite ByteDance Seed's 1.5x counteroffers.
+
+### Global pick: How Jensen Huang’s years-long ties to Alice Huang enabled $7 billion-plus Nvidia chip sales to China
+The Information | https://www.theinformation.com/articles/jensen-huangs-yearslong-ties-alice-huang-enabled-nvidia-chip-sales-china
+
+[Could not read the article, possibly paywalled]
 
 ============================================================
 
@@ -337,17 +428,9 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [Data Patterns India Ltd (DATAPATTNS, +8.67%)]
 
-- Data Patterns: Profit dives 56% but Jefferies sees 38% upside—what’s driving the optimism?
+- ~
   10 Nov 2026 | https://www.indiaipo.in/news/detail/data-patterns-profit-dives-56-but-jefferies-sees-38-upsidewhats-driving-the-optimism
-  G lobal investment bank Jefferies maintained its ‘Buy’ rating on Data Patterns (India), with a price target of Rs 5,545 apiece. This implies an upside of nearly 38% from Tuesday’s closing price of Rs 4,025.
-
-- Data Patterns India Share Price - Live NSE: DATAPATTNS Stock Price & Chart
-  10 Nov 2026 | https://upstox.com/stocks/data-patterns-india-ltd-share-price/
-  As of 11 Nov 2026, Data Patterns India share price is ₹4,025.00. The stock opened at ₹3,660.00, compared to its previous close of ₹3,704.00. During today's trading session, Data Patterns India share price moved in the range of ₹3,630.50 to…
-
-- Neutral Data Patterns (India) Ltd For Target Rs.4,040 by Motilal Oswal Financial Services Ltd
-  10 Nov 2026 | https://investmentguruindia.com/newsdetail/neutral-data-patterns-india-ltd-for-target-rs-4-040-by-motilal-oswal-financial-services-ltd489872
-  * Data Patterns (DATAPATT) reported a muted 2QFY27 performance, with EBITDA declining 54% YoY, mainly due to a high base from a large contract executed in 2QFY26 and deliveries of several ongoing programs being scheduled for 2HFY27.…
+  ## What the sector does ¶ • India's defence and aerospace electronics industry sells radars, electronic warfare systems, avionics and communication gear to the Ministry of Defence, space agencies and civil aviation customers. ¶ • Revenue depends on government defence budgets and order timing, while cost is driven by imported components, in-house design and long development cycles; Bharat Electronics, BEL and HAL are the main listed players. ¶ ## What the company does ¶ • Data Patterns (India) Ltd makes defence and aerospace electronics including radars, electronic warfare systems, avionics, satellite systems and automated test equipment from its Chennai facility. ¶ • It earns from development, production and maintenance contracts, mainly for the Ministry of Defence, and reported FY26 revenue of ₹952.73 crore, making it a smaller but vertically integrated player versus peers like Bharat Electronics. ¶ ## Why it moved today ¶ • The stock rose 8.67% to ₹4,025 on 9 November 2026, a day after Jefferies maintained a Buy rating with a ₹5,545 target, implying 38% upside, even as September-quarter profit fell 56% year-on-year to ₹21.82 crore. ¶ • Context for the move: September-quarter revenue fell 57% year-on-year to ₹133 crore on a high base and delayed deliveries, but management retained FY27 revenue growth guidance of 20-25% and expects ₹1,500-2,000 crore of new orders. ¶ ## The numbers (Screener) ¶ • September 2026 quarter: revenue ₹141.44 crore, up 14.67% quarter-on-quarter; operating profit ₹29.53 crore; net profit ₹21.97 crore, down 0.41% quarter-on-quarter; EPS ₹48.47. ¶ • FY26 full year: revenue ₹952.73 crore, up 26.24% year-on-year; operating profit ₹363.54 crore, up 23.09%; net profit ₹271.37 crore, up 22.34%. ¶ ## What the numbers say ¶ • At ₹4,025, the stock trades near Jefferies' 65 times one-year forward earnings valuation, a premium to the broader market but at a 20% discount to its post-listing peak, reflecting high growth expectations. ¶ • The September quarter's 56% profit decline contrasts with FY26's 22% net profit growth, and with Motilal Oswal's Neutral rating and ₹4,040 target, the 8.67% jump looks driven by the retained guidance and order pipeline rather than current earnings. ¶ ↗ indiaipo.in|https://www.indiaipo.in/news/detail/data-patterns-profit-dives-56-but-jefferies-sees-38-upsidewhats-driving-the-optimism ;; upstox.com|https://upstox.com/stocks/data-patterns-india-ltd-share-price/ ;; investmentguruindia.com|https://investmentguruindia.com/newsdetail/neutral-data-patterns-india-ltd-for-target-rs-4-040-by-motilal-oswal-financial-services-ltd489872
 
 [Indian Renewable Energy Development Agency Ltd (IREDA, +7.47%)]
 
