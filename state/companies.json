@@ -60,7 +60,7 @@
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "olaelectric": {
   "name": "Ola Electric",
@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -130,7 +130,7 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "starlink": {
   "name": "Starlink",
@@ -158,14 +158,14 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -179,14 +179,14 @@
   "sector": "Financial services",
   "description": "Indian brokerage and financial services firm; values Jio Platforms and rates Reliance Industries a buy.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-11"
  },
  "flipkart": {
   "name": "Flipkart",
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "walmart": {
   "name": "Walmart",
@@ -305,7 +305,7 @@
   "sector": "Defence research",
   "description": "India's Defence Research and Development Organisation developing military technology and systems.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-11-11"
  },
  "bhartihexacom": {
   "name": "Bharti Hexacom",
@@ -452,7 +452,7 @@
   "sector": "Crypto exchange",
   "description": "US cryptocurrency exchange acting as custodian for US government seized crypto assets.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-08"
+  "last_mentioned": "2026-11-11"
  },
  "alamedaresearch": {
   "name": "Alameda Research",
@@ -501,7 +501,7 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "naukri": {
   "name": "Naukri",
@@ -515,7 +515,7 @@
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "godigit": {
   "name": "Go Digit",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -697,28 +697,28 @@
   "sector": "NBFC",
   "description": "Government-owned lender for long-term industrial projects; shares jumped 6% on high volume.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-11-11"
  },
  "powerfinance": {
   "name": "Power Finance Corporation",
   "sector": "NBFC",
   "description": "Peer comparison for IFCI; ROCE of 9.71% and P/E of 4.10.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-11-11"
  },
  "rec": {
   "name": "REC",
   "sector": "NBFC",
   "description": "Peer comparison for IFCI; ROCE of 9.71% and P/E of 4.87.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-11-11"
  },
  "irfc": {
   "name": "IRFC",
   "sector": "NBFC",
   "description": "Peer comparison for IFCI; ROCE of 5.64% and P/E of 13.57.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-11-11"
  },
  "pnbhousing": {
   "name": "PNB Housing",
@@ -830,7 +830,7 @@
   "sector": "Consumer electronics",
   "description": "Smartphone maker offering the T5x at Rs 24,999 during Flipkart's sale.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "meesho": {
   "name": "Meesho",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1215,7 +1215,7 @@
   "sector": "Power",
   "description": "State-run power generator; parent of NTPC Green Energy.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-11"
  },
  "cognizant": {
   "name": "Cognizant",
@@ -1446,7 +1446,7 @@
   "sector": "Financial services",
   "description": "Brokerage; valued Jio at Rs 331-450 per Reliance share.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "yessecurities": {
   "name": "Yes Securities",
@@ -1908,7 +1908,7 @@
   "sector": "Financial services",
   "description": "Investment bank appointed for Jio Platforms' IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-11"
  },
  "bankofamerica": {
   "name": "Bank of America",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-11"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -2139,7 +2139,7 @@
   "sector": "Pharmaceuticals",
   "description": "Indian drugmaker; parent of Lyfius Pharma, which filed the anti-dumping complaint on Penicillin G.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-11"
  },
  "propequity": {
   "name": "PropEquity",
@@ -2258,21 +2258,21 @@
   "sector": "Capital goods",
   "description": "Indian power equipment maker; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-11"
  },
  "abb": {
   "name": "ABB",
   "sector": "Capital goods",
   "description": "Electrification and automation company; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-11"
  },
  "hitachienergy": {
   "name": "Hitachi Energy",
   "sector": "Capital goods",
   "description": "Power grid equipment maker; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-11"
  },
  "kaynestech": {
   "name": "Kaynes Tech",
@@ -2797,7 +2797,7 @@
   "sector": "IT services",
   "description": "Consulting and technology firm; a founding partner in Anthropic's Critical Infrastructure Defense Program.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "crowdstrike": {
   "name": "CrowdStrike",
@@ -2923,7 +2923,7 @@
   "sector": "Financial services",
   "description": "Investment bank; raised Reliance's model portfolio weight to 7.50% and cut DMart's target to ₹4,000.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-11"
  },
  "clsa": {
   "name": "CLSA",
@@ -3266,14 +3266,14 @@
   "sector": "Insurance",
   "description": "General insurance company; mentioned in the watchlist context.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "relianceintelligence": {
   "name": "Reliance Intelligence",
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "gartner": {
   "name": "Gartner",
@@ -3322,7 +3322,7 @@
   "sector": "Industrial technology",
   "description": "Industrial technology firm; technology partner for LTTS's Bengaluru manufacturing AI lab.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-11"
  },
  "elaracapital": {
   "name": "Elara Capital",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3630,7 +3630,7 @@
   "sector": "Wires and cables",
   "description": "Makes wires, cables and FMEG products for residential, industrial and infrastructure customers.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "aetherindustries": {
   "name": "Aether Industries",
@@ -4050,7 +4050,7 @@
   "sector": "Investment banking",
   "description": "Investment bank named among anchor investors in Jio Platforms' IPO.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "religare": {
   "name": "Religare",
@@ -5093,7 +5093,7 @@
   "sector": "Retail",
   "description": "Indian supermarket chain operated by Avenue Supermarts.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-11"
  },
  "indianairforce": {
   "name": "Indian Air Force",
@@ -5121,14 +5121,14 @@
   "sector": "Crypto",
   "description": "Leading cryptocurrency that fell to $82,000 after higher-than-expected CPI.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "gold": {
   "name": "Gold",
   "sector": "Commodities",
   "description": "Precious metal trading near $4,100 with record ETF holdings.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "yaraj": {
   "name": "Yara J",
@@ -5184,7 +5184,7 @@
   "sector": "Electrical equipment",
   "description": "Makes AC generators and electric motors to customer specifications near Bengaluru.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "hdfcdefencefund": {
   "name": "HDFC Defence Fund",
@@ -5870,7 +5870,7 @@
   "sector": "Wires and cables",
   "description": "Makes electrical and telecommunication cables and fast-moving electrical goods like fans and switches.",
   "first_added": "2026-10-19",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-11"
  },
  "sjvn": {
   "name": "SJVN",
@@ -7837,7 +7837,7 @@
   "sector": "News",
   "description": "UK public broadcaster covering business and international news.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-11"
  },
  "billionairesafrica": {
   "name": "Billionaires Africa",
@@ -8047,14 +8047,14 @@
   "sector": "Wires and cables",
   "description": "Makes EHV, HT and LT wires and cables; shares fell 7.6% despite 29% profit growth.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-11"
  },
  "polycab": {
   "name": "Polycab",
   "sector": "Wires and cables",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-11"
  },
  "sabey": {
   "name": "Sabey",
@@ -8117,7 +8117,7 @@
   "sector": "Industry body",
   "description": "Urged exporters and MSMEs to tap benefits under the India-New Zealand FTA.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-11"
  },
  "ukibc": {
   "name": "UKIBC",
@@ -8817,7 +8817,7 @@
   "sector": "Defence manufacturing",
   "description": "Indian forging and defence company; leads a group competing for AMCA prototype contract.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-11-11"
  },
  "heatbit": {
   "name": "Heatbit",
@@ -9370,14 +9370,14 @@
   "sector": "Political party",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-25",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-11"
  },
  "yashar": {
   "name": "Yashar",
   "sector": "Political party",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-25",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-11"
  },
  "gema": {
   "name": "GEMA",
@@ -9706,7 +9706,7 @@
   "sector": "Commodity data",
   "description": "Analytics firm whose Sumit Ritolia commented on Reliance's Russian crude use.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-11"
  },
  "ft": {
   "name": "FT",
@@ -9860,7 +9860,7 @@
   "sector": "Ride hailing",
   "description": "Global ride-hailing and delivery platform expanding an AI agent to over 30,000 employees.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-11"
  },
  "rescale": {
   "name": "Rescale",
@@ -11029,7 +11029,7 @@
   "sector": "Engineering",
   "description": "Indian engineering and construction major; Q2 profit rose 33% to Rs 5,202 crore.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "maruti": {
   "name": "Maruti",
@@ -12863,7 +12863,7 @@
   "sector": "Industry body",
   "description": "Indian industry chamber; named Sanmar's Vijay Sankar President-Elect for its centenary year.",
   "first_added": "2026-10-30",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-11"
  },
  "electioncommission": {
   "name": "Election Commission",
@@ -14501,7 +14501,7 @@
   "sector": "Mining",
   "description": "Indian state-owned miner; October iron ore output rose 18% while sales fell on rain-hit rail links.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-11"
  },
  "hg": {
   "name": "Hg",
@@ -15453,7 +15453,7 @@
   "sector": "Capital goods",
   "description": "Indian maker of energy and environment equipment such as boilers and pollution control systems.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-08"
+  "last_mentioned": "2026-11-11"
  },
  "corescientific": {
   "name": "Core Scientific",
@@ -16888,21 +16888,21 @@
   "sector": "Defence electronics",
   "description": "Indian maker of defence electronics for space, air, land and sea platforms, including LCA-Tejas and BrahMos parts.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "bel": {
   "name": "BEL",
   "sector": "Defence electronics",
   "description": "Bharat Electronics, Indian state-owned defence electronics company.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-11"
  },
  "ireda": {
   "name": "IREDA",
   "sector": "Renewable energy finance",
   "description": "Indian Renewable Energy Development Agency, a state-run lender to renewable energy projects.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "saudiarabia": {
   "name": "Saudi Arabia",
@@ -17126,7 +17126,7 @@
   "sector": "Airlines",
   "description": "Australian airline; cutting 850 local jobs and outsourcing back-office functions to Accenture.",
   "first_added": "2026-11-10",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-11"
  },
  "amagi": {
   "name": "Amagi",
@@ -17141,5 +17141,180 @@
   "description": "Digital lending startup; Q2 net profit rose over fivefold to Rs 201 crore with disbursals up 41%.",
   "first_added": "2026-11-10",
   "last_mentioned": "2026-11-10"
+ },
+ "coherent": {
+  "name": "Coherent",
+  "sector": "Photonics",
+  "description": "US manufacturer of photonics, lasers and optical materials.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "lg": {
+  "name": "LG",
+  "sector": "Electronics",
+  "description": "South Korean conglomerate making consumer electronics, displays and chemicals.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "gitbook": {
+  "name": "GitBook",
+  "sector": "Software",
+  "description": "Platform for building and hosting documentation and knowledge bases.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "blackstone": {
+  "name": "Blackstone",
+  "sector": "Private equity",
+  "description": "US alternative asset manager investing across private equity and real estate.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "iiflfinance": {
+  "name": "IIFL Finance",
+  "sector": "NBFC",
+  "description": "Indian non-bank lender focused on gold loans and secured retail credit.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "mrf": {
+  "name": "MRF",
+  "sector": "Tyres",
+  "description": "Indian tyre maker supplying passenger, commercial and specialty tyres.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "rosatom": {
+  "name": "Rosatom",
+  "sector": "Nuclear energy",
+  "description": "Russian state nuclear energy corporation with lithium and mining interests.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "eugia": {
+  "name": "Eugia",
+  "sector": "Pharma",
+  "description": "US injectables arm of Aurobindo Pharma recalling an antibacterial drug.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "mara": {
+  "name": "MARA",
+  "sector": "Crypto mining",
+  "description": "US Bitcoin miner holding BTC treasury and pivoting toward AI.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "hyperliquid": {
+  "name": "Hyperliquid",
+  "sector": "Crypto",
+  "description": "Decentralised perpetual futures exchange for crypto trading.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "upwork": {
+  "name": "Upwork",
+  "sector": "Freelance marketplace",
+  "description": "US platform connecting freelancers with businesses for remote work.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "signal": {
+  "name": "Signal",
+  "sector": "Messaging",
+  "description": "Encrypted messaging app protecting private communications.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "plato": {
+  "name": "Plato",
+  "sector": "AI",
+  "description": "San Francisco AI startup whose agent Dot handled an office move.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "acronis": {
+  "name": "Acronis",
+  "sector": "Cybersecurity",
+  "description": "Swiss cybersecurity firm providing data protection and threat research.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "getmainelobster": {
+  "name": "Get Maine Lobster",
+  "sector": "Food retail",
+  "description": "US seafood retailer using AI agents for advertising campaigns.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "cura": {
+  "name": "Cura",
+  "sector": "Health products",
+  "description": "Indian herbal juice brand selling Health Plus range on e-commerce.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "tasl": {
+  "name": "TASL",
+  "sector": "Defence aerospace",
+  "description": "Tata Advanced Systems, Indian private defence and aerospace manufacturer.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "dynamatic": {
+  "name": "Dynamatic",
+  "sector": "Aerospace components",
+  "description": "Indian maker of aerospace and hydraulic components for defence.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "beml": {
+  "name": "BEML",
+  "sector": "Heavy engineering",
+  "description": "Indian state-owned maker of mining, rail and defence equipment.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "hudco": {
+  "name": "HUDCO",
+  "sector": "Housing finance",
+  "description": "Indian state-owned lender financing housing and urban infrastructure.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "phdcci": {
+  "name": "PHDCCI",
+  "sector": "Industry body",
+  "description": "Indian industry chamber representing trade and business.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "assocham": {
+  "name": "ASSOCHAM",
+  "sector": "Industry body",
+  "description": "Indian industry association advocating business policy.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "sbiresearch": {
+  "name": "SBI Research",
+  "sector": "Research",
+  "description": "Research arm of State Bank of India publishing economic estimates.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "hitpa": {
+  "name": "HITPA",
+  "sector": "Insurance services",
+  "description": "Third-party administrator owned by four Indian PSU insurers.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
+ },
+ "csirneeri": {
+  "name": "CSIR-NEERI",
+  "sector": "Research",
+  "description": "Indian government lab developing low-emission firecrackers.",
+  "first_added": "2026-11-11",
+  "last_mentioned": "2026-11-11"
  }
 }
