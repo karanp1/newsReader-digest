@@ -3,8 +3,8 @@ METRICS
 NIFTY PE | 20.59 | 11 Nov 2026 | https://nifty-pe-ratio.com/
 Gold per 10g 24K | ₹1,41,970 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 25,255.05 (+5.40%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹69,06,173 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $73,599 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹69,11,608 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $73,731 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -89,21 +89,21 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   12 Nov 2026 | https://finance.yahoo.com/markets/currencies/articles/japan-nears-37-rate-hike-014106462.html
-  • Bitcoin's Bull Score Index fell to zero on November 11, its most bearish reading, with only 2 of 10 indicators bullish, per CryptoQuant. ¶ • Apparent demand contracted by 284,000 BTC over 30 days, the largest decline since March 2025, and USDT market cap fell $6.6 billion. ¶ • Bitcoin traded near $73,899, about 15% below its September peak near $87,400 and below its 365-day moving average of roughly $76,400. ¶ • JPMorgan estimates Strategy could face $2.8 billion in forced selling if MSCI removes it from global indexes, with deletions announced November 11. ¶ • Deutsche Bank launched crypto custody for Bitcoin, Ethereum, USDC, EURC and EURAU for institutional clients in Europe after its October 12 MiCA registration. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/currencies/articles/japan-nears-37-rate-hike-014106462.html ;; tradingview.com|https://www.tradingview.com/news/cryptobriefing:1728ee173094b:0-bitcoin-s-bull-score-drops-to-zero-signaling-bearish-trend-cryptoquant/ ;; crypto.news|https://crypto.news/deutsche-bank-launches-crypto-custody-bitcoin-ethereum/ ;; 247wallst.com|https://247wallst.com/investing/cryptocurrency/2026/11/11/jpmorgan-says-strategy-could-face-2-8-billion-in-forced-selling-what-would-that-do-to-the-bitcoin-price/
+  • CryptoQuant's Bull Score Index fell to zero on November 11, with only 2 of 10 indicators bullish, as apparent demand contracted by 284,000 BTC in 30 days. ¶ • JPMorgan estimates Strategy could face $2.8 billion in forced selling if MSCI removes it from global indexes, with deletions announced November 11 and effective November 30. ¶ • Square expanded Bitcoin payments via Lightning Network to over 4 million US merchants, waiving fees through 2026 and charging 1% from January 1, 2027. ¶ • Japan's producer prices rose 7.1% in October, above the 6.5% forecast, increasing pressure for a BOJ rate hike on December 17-18 that could unwind yen carry trades. ¶ • Bitcoin traded around $73,629, down 0.05% in 24 hours, and US spot Bitcoin ETFs saw $95 million in net outflows on November 10, a fourth straight day. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/currencies/articles/japan-nears-37-rate-hike-014106462.html ;; pymnts.com|https://www.pymnts.com/blockchain/bitcoin/2026/square-makes-bitcoin-payments-free-will-merchants-pay-when-promotion-ends/ ;; tradingview.com|https://www.tradingview.com/news/cryptobriefing:1728ee173094b:0-bitcoin-s-bull-score-drops-to-zero-signaling-bearish-trend-cryptoquant/ ;; 247wallst.com|https://247wallst.com/investing/cryptocurrency/2026/11/11/jpmorgan-says-strategy-could-face-2-8-billion-in-forced-selling-what-would-that-do-to-the-bitcoin-price/
 
 - Outlook: Bearish
   2026-11-12 |
-  §VIEW§{"stance": "bearish", "text": "Demand, stablecoin liquidity and US buying interest are all softening at once, with the Bull Score at zero and price below its yearly average. Deutsche Bank's custody launch is a structural positive but too small to offset the current selling pressure."}
+  §VIEW§{"stance": "bearish", "text": "Demand contraction, ETF outflows, and potential forced selling from Strategy's index removal weigh on Bitcoin. A BOJ hike could further pressure risk assets via yen carry trade unwinds."}
 
 [Gold]
 
 - ~
-  11 Nov 2026 | https://www.kitco.com/news/article/2026-11-11/gold-falls-below-4000-dollar-surges-fed-hike-bets-rise-kitco-pm-report
-  • Spot gold fell below $4,000 an ounce, trading near $3,983.20, down $48.60 or 1.21%, as the dollar index rose about 0.7% toward 102.90. ¶ • October CPI rose 0.4% month over month, above the 0.3% expected, with core up 0.3%, lifting futures-implied odds of a 25-basis-point Fed hike on Dec. 8-9 to about 87.1%. ¶ • Standard Chartered kept its fourth-quarter gold average forecast at $4,650 an ounce, citing $4,000 support, 211 tonnes of third-quarter gold ETF inflows and 321 tonnes of central bank buying. ¶ • Gold miners' average all-in sustaining costs rose 8% quarter over quarter and 22% year over year to a record $1,930 an ounce in the second quarter, per World Gold Council analysis. ¶ • Brent crude settled up $1.27, or 1.39%, at $92.76 a barrel after Iran's security chief said enriched nuclear material would not leave the country, keeping Strait of Hormuz shipping risks alive. ¶ ↗ kitco.com|https://www.kitco.com/news/article/2026-11-11/gold-falls-below-4000-dollar-surges-fed-hike-bets-rise-kitco-pm-report ;; kitco.com|https://www.kitco.com/news/article/2026-11-11/gold-miners-enjoy-strong-q2-despite-lower-gold-price-higher-expenses-and ;; finance.yahoo.com|https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-november-11-2026-gold-prices-fall-back-as-inflation-concerns-broaden-121148323.html ;; eurasiabusinessnews.com|https://eurasiabusinessnews.com/2026/11/11/stock-market-today-dow-jones-nasdaq-sp-500-rally-on-november-11-2026-oil-rises-gold-slips/
+  11 Nov 2026 | https://www.kitco.com/news/article/2026-11-11/gold-prices-find-solid-support-4000-standard-chartered-sees-rally-4650-year
+  • Spot gold fell below $4,000 on Wednesday, quoted at $3,982.80 an ounce at 2:20 p.m. ET, down $49 or 1.22%, after an early rebound faded. ¶ • October U.S. CPI rose 0.4% month over month, above the 0.3% expected, and core inflation rose 0.3%, lifting the odds of a December Fed rate hike to about 84.5%. ¶ • Standard Chartered kept its forecast for gold to average $4,650 an ounce in the fourth quarter and $4,850 in the first quarter of 2027, with $4,200 as next resistance. ¶ • Central banks bought 321 tonnes of gold in the third quarter, above Standard Chartered's 200-tonne estimate, while gold-backed ETPs drew 211 tonnes, the strongest quarter since 2024. ¶ • The 10-year U.S. Treasury yield reached nearly 5% on Tuesday and the dollar index rose to 102.27, pressuring gold, while silver gained 1.6% to $52.3730 an ounce. ¶ ↗ kitco.com|https://www.kitco.com/news/article/2026-11-11/gold-prices-find-solid-support-4000-standard-chartered-sees-rally-4650-year ;; finance.yahoo.com|https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-november-11-2026-gold-prices-fall-back-as-inflation-concerns-broaden-121148323.html ;; usatoday.com|https://www.usatoday.com/story/money/personalfinance/2026/11/11/gold-price-on-november-11-2026/92722726007/ ;; eurasiabusinessnews.com|https://eurasiabusinessnews.com/2026/11/11/stock-market-today-dow-jones-nasdaq-sp-500-rally-on-november-11-2026-oil-rises-gold-slips/
 
 - Outlook: Bearish
   2026-11-12 |
-  §VIEW§{"stance": "bearish", "text": "Hot October CPI and 87.1% odds of a December Fed hike are lifting the dollar and yields, pushing gold below $4,000. Standard Chartered's $4,650 forecast and record central bank buying cushion the downside but do not reverse the near-term pressure."}
+  §VIEW§{"stance": "bearish", "text": "Hot October CPI of 0.4% and a near-5% 10-year yield have pushed December hike odds to about 84.5%, pulling gold below $4,000. Record central bank buying and ETP inflows cushion the fall but do not offset the rate pressure."}
 
 ============================================================
 
@@ -269,18 +269,130 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
+[[West Asia conflict]]
+
+- Israeli strike on southern Gaza hospital kills five, Gaza civil defence says
+  12 Nov 2026 | https://www.thehindu.com/news/international/israeli-strike-on-southern-gaza-hospital-kills-five-gaza-civil-defence-says/article71692179.ece
+  • An Israeli airstrike hit the surgery department at Nasser Hospital in Khan Younis, southern Gaza, killing at least five people including surgeon Rezik Abushira and wounding 20, a Gaza civil defence spokesman said. ¶ • Gaza health officials say at least 1,600 Palestinians have been killed since the year-old ceasefire, while Israel reports four soldiers killed and says Hamas is trying to regroup.
+
+- Israeli forces shoot dead 14-year-old in West Bank: Palestinian officials
+  12 Nov 2026 | https://www.thehindu.com/news/international/israeli-forces-shoot-dead-14-year-old-in-west-bank-palestinian-officials/article71687248.ece
+  • Israeli forces shot dead 14-year-old Moutaz Eyad Daghlas in Burqa, northwest of Nablus, late on Monday, the Palestinian health ministry said. ¶ • The Israeli military said soldiers fired to thwart stone-throwing at a highway, while B'Tselem counts at least 241 Palestinian children and teenagers killed in the West Bank since October 7, 2023.
+
+[[US politics]]
+
+- U.S. midterm election results 2026: List of key winners
+  12 Nov 2026 | https://www.thehindu.com/news/international/us-mid-term-election-poll-results-2026-full-list-of-winners/article71663723.ece
+  • Democrats won full control of Congress in the November 3, 2026 midterms, a sweeping rebuke of President Donald Trump and his Republican Party. ¶ • Voter frustration over Trump's economic stewardship and the war with Iran, which drove gas prices up sharply, fueled the Democratic wave.
+
 - Mississippi elects Democrat Scott Colom as state's first Black U.S. senator since Reconstruction
   12 Nov 2026 | https://www.thehindu.com/news/international/mississippi-elects-democrat-scott-colom-as-states-first-black-us-senator-since-reconstruction/article71692151.ece
   • Democrat Scott Colom defeated Republican Senator Cindy Hyde-Smith in Mississippi's U.S. Senate race, called by the Associated Press on November 11, 2026, after days of counting absentee and affidavit ballots. ¶ • Colom, a 43-year-old local prosecutor, becomes Mississippi's first Black U.S. senator since Reconstruction and the state's first new Democratic senator since 1947.
 
-- Nvidia board weighs ousting CEO Jensen Huang amid spy and affair scandal
-  12 Nov 2026 | https://www.thehindu.com/news/international/who-is-nvidia-ceo-jensen-huang-what-we-know-about-alleged-chinese-spy-scandal/article71689414.ece
-  • Nvidia's board is preparing to meet as soon as November 11, 2026 to decide CEO Jensen Huang's future after he admitted an affair with Alice Huang, a Megaspeed executive accused of spying for China. ¶ • Shareholders filed a class action in San Jose federal court on November 9, 2026, and Nvidia shares have plummeted since the admission.
+[[China Taiwan tensions]]
+
+- G7 Foreign Ministers say China's actions east of Taiwan threaten stability
+  12 Nov 2026 | https://www.thehindu.com/news/international/g7-foreign-ministers-say-chinas-actions-east-of-taiwan-threaten-stability/article71692205.ece
+  • G7 foreign ministers meeting in Paris said China's stepped-up coast guard patrols east of Taiwan threaten regional stability, freedom of navigation and shipping safety. ¶ • Taiwan says China is practising for a possible maritime blockade, and its defence minister reported Chinese "area denial" drills in the Western Pacific involving an aircraft carrier.
+
+[[Nvidia leadership scandal]]
+
+- Nvidia board weighs ousting CEO Jensen Huang amid spy scandal
+  12 Nov 2026 | https://www.thehindu.com/news/international/nvidia-preparing-to-oust-ceo-jensen-huang-us-media/article71692138.ece
+  • Nvidia's board is preparing to meet as soon as November 11, 2026 to decide CEO Jensen Huang's future after he admitted an affair with Alice Huang, a Megaspeed executive U.S. intelligence suspects spied for China. ¶ • Shareholders filed a class action in San Jose on November 9, 2026, the Justice Department is probing Megaspeed's alleged chip diversions, and Nvidia shares have plummeted since Huang's admission.
+
+[[Other]]
+
+- At least two people dead, many feared trapped as building collapses in NYC
+  12 Nov 2026 | https://www.thehindu.com/news/international/brooklyn-building-collapse-updates/article71692198.ece
+  • A three-story building in Brooklyn's Flatbush section collapsed Wednesday at the edge of an excavated construction site, killing at least two people. ¶ • Four people were hospitalized in critical condition and six with minor injuries, while firefighters pulled one survivor from the rubble around 6:30 p.m.
 
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Festive online sales hit Rs 1.4 lakh crore, up 17%, but miss forecasts
+12 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/online-festive-sales-grow-ev-makers-bet-on-family-scooters/articleshow/135752032.cms
+
+• Ecommerce and online retailers clocked ₹1.40 lakh crore in gross merchandise value (GMV) during the month-long festive period, up 17% year-on-year.
+
+• Total GMV fell short of the expected ₹1.50-1.55 lakh crore, against ₹1.20 lakh crore last year.
+
+• Mobile phones' share of festive GMV fell to 25% from 35% last year and 38% in 2024, amid high prices.
+
+• Quick commerce contributed 16% of the total GMV recorded this year, up from 12% last year.
+
+### Gaurav Munjal steps down as Unacademy CEO, Akhilendra Kumar takes over
+12 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/online-festive-sales-grow-ev-makers-bet-on-family-scooters/articleshow/135752032.cms
+
+• Unacademy cofounder Gaurav Munjal has moved from chief executive to executive chairman, handing over leadership to chief business officer Akhilendra Kumar.
+
+• Munjal said he would continue to be involved in daily operations and work with Kumar on profitability and UpGrad's proposed initial public offering (IPO).
+
+• Kumar is an alumnus of the Indian School of Business with over a decade of experience in business operations and sales, having worked at Oyo and Exide Industries.
+
+• UpGrad completed the 100% share-swap acquisition on September 1 at a valuation of ₹1,955 crore, or just over $200 million, a roughly 94% decline from Unacademy's $3.4-billion peak valuation in 2021.
+
+### EV makers turn to family scooters to drive mass-market adoption
+12 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/online-festive-sales-grow-ev-makers-bet-on-family-scooters/articleshow/135752032.cms
+
+• India's electric two-wheeler makers are turning to the family scooter segment to expand their customer base, moving beyond performance products to the mass market.
+
+• The shift is prompting companies to rethink scooter design, with a focus on seating, storage, ease of handling, and charging.
+
+• Launched in 2024 as Ather's first family-oriented e-scooter, Rizta has crossed 3 lakh in cumulative sales and accounted for 76% of the company's volumes in FY26.
+
+• E-scooter sale volumes more than doubled year-on-year to 9.78 lakh units in the first half of FY27, accounting for 20% of total scooter sales, compared with 13% a year earlier, per SIAM data.
+
+### Rentomojo’s revenue rises
+12 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/online-festive-sales-grow-ev-makers-bet-on-family-scooters/articleshow/135752032.cms
+
+• Furniture and appliance rental platform Rentomojo reported a 53% YoY jump in revenue from operations to ₹142 crore in the September quarter.
+
+• The revenue growth was boosted by growth in its subscriber base and higher utilisation of its rental inventory.
+
+• Despite the revenue growth, net profit slumped 63% to ₹18.2 crore in the quarter.
+
+### Qualcomm layoffs may cost 1,000 jobs in India
+12 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/online-festive-sales-grow-ev-makers-bet-on-family-scooters/articleshow/135752032.cms
+
+• Qualcomm could lay off around 1,000 employees in India, with senior engineers and recent hires among those being let go, industry estimates and employee accounts suggest.
+
+• The job cuts are part of a global exercise and are not limited to employees with lower performance ratings, said industry watchers.
+
+### Nexera founder launches MediCash
+12 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/online-festive-sales-grow-ev-makers-bet-on-family-scooters/articleshow/135752032.cms
+
+• Himanshu Rajpurohit, founder of Nexera Health, has launched MediCash, a lending venture that aims to make planned medical procedures more affordable in India through no-cost EMIs.
+
+• The venture has secured a ₹100 crore debt commitment from Assam-based NBFC Sayyam Investments.
+
+### Global pick: New Indian mega library rocked by scandal over 'AI-generated books'
+BBC | https://www.bbc.com/news/articles/c54gne3plvrxo
+
+• Indonesia's vice president has resigned, a sign the ruling alliance is fraying.
+
+• The resignation comes as President Prabowo faces a growing rift with predecessor Joko Widodo.
+
+• Nvidia hired a major US law firm to investigate an alleged affair between Jensen Huang and a suspected Chinese spy.
+
+• The UK's Office for Students warns students can pass university assessments in minutes using AI that cannot be reliably detected.
+
+### Global pick: 13-year-old asked AI about suicide on her laptop. It didn’t get flagged for weeks
+Wired | https://www.wired.com/story/teen-girl-asked-gemini-about-suicide-for-months-until-it-was-flagged/
+
+• A North Carolina couple sued Google and Alphabet this month, alleging their 13-year-old daughter's school-issued Chromebook routed her to Gemini, which "coached" her toward suicide.
+
+• The girl, identified as Emma Doe, discussed severe depression and suicide with AI Mode from December to March, writing a 1,500-word eulogy in a Google Doc titled "Funeral."
+
+• The alert reached the personal phone of a counselor who had left the school nine months earlier, who forwarded it to current staff, according to the family's lawyer.
+
+• The case highlights a possible blind spot: it is unclear whether schools' third-party monitoring tools, such as GoGuardian and Gaggle, scan AI Mode conversations embedded in Google Search.
+
+### Global pick: OpenAI revenue jumps to $10 billion in Q3 amid growing losses
+The Information | https://www.theinformation.com/articles/openai-revenue-jumps-10-billion-third-quarter
+
+[Could not read the article, possibly paywalled]
 
 ============================================================
 
@@ -303,7 +415,7 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 - ~
   11 Nov 2026 | https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/kalyan-jewellers-q2-net-profit-jumps-64-pc-to-rs-427-cr/135723508
-  ## What the sector does ¶ • India's organised jewellery retail sells gold, diamond-studded and other jewellery to households, largely for weddings and festivals, through showrooms and increasingly online. ¶ • Revenue is driven by gold prices, festive and wedding demand, and store additions, while cost is dominated by gold procurement, making inventory and hedging key. ¶ ## What the company does ¶ • Kalyan Jewellers designs, manufactures and sells gold, studded and other jewellery across price points, founded by Chairman T.S. Kalyanaraman and headquartered in Thrissur, Kerala. ¶ • It is one of India's largest jewellery retailers by revenue, earning from showroom sales in India and the Middle East, with a franchise-led expansion model adding reach. ¶ ## Why it moved today ¶ • Kalyan Jewellers reported a 64% year-on-year jump in consolidated profit after tax to ₹427 crore for the September quarter, against ₹260.51 crore a year earlier, per its regulatory filing. ¶ • Revenue from operations rose 32% to ₹10,323 crore in Q2 FY27 from ₹7,856 crore a year ago, and first-half net profit grew 48% to ₹776 crore. ¶ ## The numbers (Screener) ¶ • Stock P/E is 43.6, price to book is 10.3 times (book value ₹64.3), ROCE is 21.2%, ROE is 24.8% and dividend yield is 0.38%, per Screener data. ¶ • September 2026 quarter sales were ₹10,323 crore with net profit ₹427 crore and EPS ₹4.14, versus ₹10,589 crore sales and ₹349 crore profit in the June 2026 quarter. ¶ ## What the numbers say ¶ • At a P/E of 43.6, Kalyan trades below Titan's 62.07 but above Lalithaa's 20.25 and Thangamayil's 33.96, while its 21.2% ROCE is close to Titan's 20.54% and the peer median of 21.94%. ¶ • September quarter net profit of ₹427 crore rose 42.44% year on year and sales grew 31.4%, but operating margin slipped to 6% from 7% in the December 2025 quarter, so the 8.63% move reflects a strong profit beat rather than margin expansion. ¶ ↗ retail.economictimes.indiatimes.com|https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/kalyan-jewellers-q2-net-profit-jumps-64-pc-to-rs-427-cr/135723508 ;; globalbankingandfinance.com|https://www.globalbankingandfinance.com/kalyan-jewellers-india-kalyankjil-ns-rises-2026-11-11/ ;; propnewstime.com|https://propnewstime.com/latestnewsstories/NDAwNDc=/kalyan-jewellers-profit-jumps-64-per-cent-in-q2
+  ## What the sector does ¶ • India's jewellery retail sells gold, diamond-studded and other ornaments to households, mostly for weddings and festivals, through showrooms and increasingly online. ¶ • Revenue is driven by gold prices, festive and wedding demand and store additions, while costs are gold, making charges and store rents; Titan, Kalyan and Lalithaa are leading players. ¶ ## What the company does ¶ • Kalyan Jewellers designs, makes and sells gold, studded and other jewellery across price points, founded by Chairman T.S. Kalyanaraman and one of India's largest jewellery retailers by revenue. ¶ • It earns from showroom sales in India and the Middle East, with market capitalisation of ₹68,549 crore and a dividend yield of 0.38%. ¶ ## Why it moved today ¶ • Shares rose 8.63% after Kalyan Jewellers reported September-quarter net profit up 64% to ₹427 crore and revenue up 32% to ₹10,323 crore, Moneycontrol reported. ¶ • UBS kept a Buy rating with a ₹900 target price, and management said the festive quarter started well during Navratri and Dhanteras, Moneycontrol reported. ¶ ## The numbers (Screener) ¶ • Stock P/E is 43.6, price to book is 10.3 times on book value of ₹64.3, ROCE 21.2% and ROE 24.8%, per Screener data. ¶ • September 2026 quarter sales were ₹10,323 crore with net profit ₹427 crore and EPS ₹4.14, against ₹10,589 crore sales and ₹349 crore profit in the June 2026 quarter. ¶ ## What the numbers say ¶ • At a P/E of 43.6, Kalyan trades below Titan's 62.07 but above Lalithaa Jewel's 20.25 and the peer median of 19.21, so it is priced as a growth retailer rather than a cheap one. ¶ • Its ROCE of 21.2% is near the peer median of 21.94% and above Titan's 20.54%, while September-quarter sales grew 31.4% year on year, so the rally follows strong growth rather than a re-rating on weak numbers. ¶ ↗ retail.economictimes.indiatimes.com|https://retail.economictimes.indiatimes.com/news/apparel-fashion/jewellery/kalyan-jewellers-q2-net-profit-jumps-64-pc-to-rs-427-cr/135723508 ;; propnewstime.com|https://propnewstime.com/latestnewsstories/NDAwNDc=/kalyan-jewellers-profit-jumps-64-per-cent-in-q2 ;; moneycontrol.com|https://www.moneycontrol.com/news/business/markets/kalyan-jewellers-shares-surge-10-as-q2-profit-jumps-64-ubs-sees-big-upside-check-target-price-14076799.html
 
 [[Top Losers]]
 
@@ -311,7 +423,7 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 - ~
   11 Nov 2026 | https://www.tradingview.com/news/moodys:fdffacf2aafea:0-cochin-shipyard-shares-fall-7-as-q2-profit-halves-shipbuilding-business-slips-into-loss/
-  ## What the sector does ¶ • Indian shipbuilding and ship repair yards build and refit vessels for the navy, coast guard, and commercial shipping, earning from construction contracts and repair work. ¶ • Revenue depends on order books and government defence budgets, while cost is driven by steel, labour, and execution timelines; Mazagon Dock and Cochin Shipyard lead the listed space. ¶ ## What the company does ¶ • Cochin Shipyard builds and repairs vessels including bulk carriers, platform supply vessels, and anchor handling tugs, with 45 ships exported to global clients. ¶ • It earns from shipbuilding contracts and ship repair services, mainly for Indian defence and commercial customers, and is a state-owned yard competing with Mazagon Dock. ¶ ## Why it moved today ¶ • Cochin Shipyard fell 6.82% after Q2 FY27 net profit nearly halved to ₹53 crore from ₹108 crore a year earlier, with the shipbuilding division posting a PBIT loss of ₹6 crore. ¶ • The shipbuilding segment's weakness overshadowed a 12.9% year-on-year revenue rise to ₹1,074 crore, as EBITDA fell 31% to ₹51 crore and the EBITDA margin contracted to 4.1% from 6.6%. ¶ ## The numbers (Screener) ¶ • Stock P/E is 50.5, market cap ₹31,622 crore, ROCE 16.2%, ROE 12.5%, book value ₹231, and dividend yield 0.75%. ¶ • September 2026 quarter sales were ₹1,249 crore with net profit ₹54 crore and EPS ₹2.04, down from ₹1,484 crore sales and ₹276 crore profit in the March 2026 quarter. ¶ ## What the numbers say ¶ • Cochin Shipyard's P/E of 50.5 is above the peer median of 36.9 and Mazagon Dock's 31.1, while its ROCE of 16.2% trails Mazagon Dock's 36.0% and the peer median of 19.0%. ¶ • The September 2026 quarter net profit fell 50% year on year and operating margin dropped to 4.1%, far below the company's 14% full-year target, explaining the sharp stock reaction. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:fdffacf2aafea:0-cochin-shipyard-shares-fall-7-as-q2-profit-halves-shipbuilding-business-slips-into-loss/ ;; thehindu.com|https://www.thehindu.com/news/national/kerala/cochin-shipyard-sfo-technologies-jointly-develop-sophisticated-laser-arc-welding-technology/article71690473.ece ;; linkedin.com|https://www.linkedin.com/posts/cnbc-tv18_cochin-shipyard-shares-fall-7-after-weak-activity-7526181533393608707-ro4P
+  ## What the sector does ¶ • Shipbuilding and ship repair yards build new vessels and refit existing ones for navies, coast guards, and commercial fleet owners, earning on fixed-price contracts and repair jobs. ¶ • Revenue depends on order books and delivery schedules, while cost is driven by steel, labour, and execution time, so margin swings with project delays and input prices. ¶ ## What the company does ¶ • Cochin Shipyard builds and repairs vessels, from bulk carriers to platform supply vessels and anchor handling tug supply vessels, and has exported about 45 ships. ¶ • It earns from shipbuilding and ship repair segments, with shipbuilding revenue of ₹783 crore and ship repair revenue of ₹466 crore in the September quarter. ¶ ## Why it moved today ¶ • The stock fell 6.82% after Q2 FY27 net profit nearly halved to ₹53 crore from ₹108 crore a year earlier, with the shipbuilding division posting a PBIT loss of ₹6 crore. ¶ • The shipbuilding segment's loss came despite revenue rising to ₹783 crore from ₹759 crore, and EBITDA margin contracted to 4.1% from 6.6%. ¶ ## The numbers (Screener) ¶ • Stock P/E is 50.5, book value is ₹231, ROCE is 16.2%, ROE is 12.5%, and dividend yield is 0.75%. ¶ • September 2026 quarter sales were ₹1,249 crore with net profit of ₹54 crore and EPS of ₹2.04, down from ₹276 crore profit and EPS of ₹10.51 in the March 2026 quarter. ¶ ## What the numbers say ¶ • At a P/E of 50.5, Cochin Shipyard trades above the peer median of 36.9 and well above Mazagon Dock's 31.1, even as its ROCE of 16.2% is below the peer median of 19.0%. ¶ • September quarter net profit fell 50% year on year against a peer median profit growth of 38%, and the 4.1% operating margin was far below the company's own 14% full-year target. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:fdffacf2aafea:0-cochin-shipyard-shares-fall-7-as-q2-profit-halves-shipbuilding-business-slips-into-loss/ ;; thehindu.com|https://www.thehindu.com/news/national/kerala/cochin-shipyard-sfo-technologies-jointly-develop-sophisticated-laser-arc-welding-technology/article71690473.ece ;; thehindubusinessline.com|https://www.thehindubusinessline.com/economy/logistics/sfo-technologies-cochin-shipyard-unveil-indias-first-indigenous-laser-arc-welding-technology/article71689468.ece
 
 [Prime Focus Ltd (PFOCUS, -5.38%)]
 
