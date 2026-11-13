@@ -172,7 +172,7 @@
   "sector": "Telecom",
   "description": "Indian telecom operator providing mobile, broadband and enterprise services across the country.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "motilaloswal": {
   "name": "Motilal Oswal",
@@ -578,7 +578,7 @@
   "sector": "Crypto treasury",
   "description": "Sold 10,000 BTC and rebought 11,000, ending with 44,000 BTC on its balance sheet.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-13"
  },
  "firstsourcesolutions": {
   "name": "Firstsource Solutions",
@@ -606,7 +606,7 @@
   "sector": "Fintech",
   "description": "Digital payments firm; RBI removed its associate Paytm Payments Bank from scheduled banks list.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-13"
  },
  "seruminstituteofindia": {
   "name": "Serum Institute of India",
@@ -1446,7 +1446,7 @@
   "sector": "Financial services",
   "description": "Brokerage; valued Jio at Rs 331-450 per Reliance share.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-13"
  },
  "yessecurities": {
   "name": "Yes Securities",
@@ -2559,7 +2559,7 @@
   "sector": "Power equipment",
   "description": "Power generation and grid equipment firm; cited as a peer for Inox Wind.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-11-13"
  },
  "kalpataruprojects": {
   "name": "Kalpataru Projects",
@@ -5030,7 +5030,7 @@
   "sector": "Electrical equipment",
   "description": "Power transmission and distribution equipment maker, a peer to Transformers & Rectifiers India.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-11-13"
  },
  "kotakmahindrabank": {
   "name": "Kotak Mahindra Bank",
@@ -11673,7 +11673,7 @@
   "sector": "Computers",
   "description": "Hardware firm providing infrastructure for Honeywell's Forge Plant Cognition platform.",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-13"
  },
  "cathedral": {
   "name": "Cathedral",
@@ -16440,7 +16440,7 @@
   "sector": "Semiconductors",
   "description": "Chip buyer whose employee Alice Huang was reportedly involved in an intelligence effort around Nvidia's CEO.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "jiohotstar": {
   "name": "JioHotstar",
@@ -17378,7 +17378,7 @@
   "sector": "Fintech",
   "description": "Sachin Bansal-founded financial services firm; received $100 million from Prosus.",
   "first_added": "2026-11-11",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-13"
  },
  "mintifi": {
   "name": "Mintifi",
@@ -18462,6 +18462,41 @@
   "name": "Socialists",
   "sector": "Politics",
   "description": "Spain's ruling Socialist party, polling at 26%-29% ahead of elections.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "aperiacloudservices": {
+  "name": "Aperia Cloud Services",
+  "sector": "Cloud computing",
+  "description": "Singapore partner that bought servers with banned Nvidia H800 chips from Dell.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "shanghailongteng": {
+  "name": "Shanghai Longteng",
+  "sector": "Computing",
+  "description": "Chinese firm founded by Alice Huang that obtained servers with banned Nvidia H800 chips.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "euronext": {
+  "name": "Euronext",
+  "sector": "Stock exchange",
+  "description": "European stock exchange operator; reported disruptions from the Microsoft outage.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "torysllp": {
+  "name": "Torys LLP",
+  "sector": "Legal services",
+  "description": "Law firm whose partner said clients are looking at data centres in Nordic countries and Canada.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "kakashospitality": {
+  "name": "Kakas Hospitality",
+  "sector": "Food services",
+  "description": "Firm that filed the trademark suit leading the Delhi High Court to order Zomato to remove 132 listings.",
   "first_added": "2026-11-13",
   "last_mentioned": "2026-11-13"
  }
