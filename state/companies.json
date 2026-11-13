@@ -179,7 +179,7 @@
   "sector": "Financial services",
   "description": "Indian brokerage and financial services firm; values Jio Platforms and rates Reliance Industries a buy.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-13"
  },
  "flipkart": {
   "name": "Flipkart",
@@ -452,7 +452,7 @@
   "sector": "Crypto exchange",
   "description": "US cryptocurrency exchange acting as custodian for US government seized crypto assets.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-13"
  },
  "alamedaresearch": {
   "name": "Alameda Research",
@@ -508,14 +508,14 @@
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "godigit": {
   "name": "Go Digit",
@@ -564,14 +564,14 @@
   "sector": "Defence training",
   "description": "Simulator-based helicopter pilot training venture becoming a wholly owned HAL subsidiary.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-13"
  },
  "robinhood": {
   "name": "Robinhood",
   "sector": "Fintech",
   "description": "Trading app that added $25 million of bitcoin to its corporate balance sheet, its first proprietary holding.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-11-13"
  },
  "metaplanet": {
   "name": "Metaplanet",
@@ -1432,7 +1432,7 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "citi": {
   "name": "Citi",
@@ -2265,14 +2265,14 @@
   "sector": "Capital goods",
   "description": "Electrification and automation company; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-13"
  },
  "hitachienergy": {
   "name": "Hitachi Energy",
   "sector": "Capital goods",
   "description": "Power grid equipment maker; peer comparison for Inox Wind.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-13"
  },
  "kaynestech": {
   "name": "Kaynes Tech",
@@ -2566,7 +2566,7 @@
   "sector": "Engineering",
   "description": "EPC firm in power transmission and infrastructure; cited as a peer for KEC.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-13"
  },
  "railvikas": {
   "name": "Rail Vikas",
@@ -2580,7 +2580,7 @@
   "sector": "Construction",
   "description": "State-owned construction and project management firm; cited as a peer for KEC.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-13"
  },
  "techmahindra": {
   "name": "Tech Mahindra",
@@ -3273,14 +3273,14 @@
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "gartner": {
   "name": "Gartner",
   "sector": "Research",
   "description": "Research firm; reported a 22.4% year-on-year fall in worldwide PC shipments in Q3 2026.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-13"
  },
  "lenovo": {
   "name": "Lenovo",
@@ -3322,7 +3322,7 @@
   "sector": "Industrial technology",
   "description": "Industrial technology firm; technology partner for LTTS's Bengaluru manufacturing AI lab.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-13"
  },
  "elaracapital": {
   "name": "Elara Capital",
@@ -3532,7 +3532,7 @@
   "sector": "Mobility",
   "description": "Ride-hailing and mobility company; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-13"
  },
  "xai": {
   "name": "xAI",
@@ -4064,7 +4064,7 @@
   "sector": "Broking",
   "description": "Brokerage that downgraded Avenue Supermarts to Reduce on quick-commerce competition.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-13"
  },
  "cgpower": {
   "name": "CG Power",
@@ -4120,14 +4120,14 @@
   "sector": "AI coding",
   "description": "AI coding tool bundled into xAI's new X Subscription plan alongside Grok.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-13"
  },
  "grok": {
   "name": "Grok",
   "sector": "AI",
   "description": "xAI's AI assistant, bundled with Cursor and X Premium in The X Subscription.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-13"
  },
  "xpremium": {
   "name": "X Premium",
@@ -4155,7 +4155,7 @@
   "sector": "AI",
   "description": "Anthropic's AI assistant, adopted by GovTech Singapore and 15 federal agencies.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "claudecode": {
   "name": "Claude Code",
@@ -4183,7 +4183,7 @@
   "sector": "AI coding",
   "description": "OpenAI's coding tool used by Higgsfield creatives to turn ideas into software prototypes.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "brix": {
   "name": "BriX",
@@ -5086,7 +5086,7 @@
   "sector": "Industrial equipment",
   "description": "Large industrial equipment maker, a peer in the electrical equipment sector.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "dmart": {
   "name": "DMart",
@@ -5121,14 +5121,14 @@
   "sector": "Crypto",
   "description": "Leading cryptocurrency that fell to $82,000 after higher-than-expected CPI.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "gold": {
   "name": "Gold",
   "sector": "Commodities",
   "description": "Precious metal trading near $4,100 with record ETF holdings.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "yaraj": {
   "name": "Yara J",
@@ -5422,7 +5422,7 @@
   "sector": "Financial services",
   "description": "Index provider that finalized rules to exclude non-operating companies from its Global Investable Market Indexes.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "fundstrat": {
   "name": "Fundstrat",
@@ -7109,7 +7109,7 @@
   "sector": "AI",
   "description": "Google's AI model family; its transcription model was compared with Voxtral 3.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "scribe": {
   "name": "Scribe",
@@ -9517,7 +9517,7 @@
   "sector": "Streaming",
   "description": "Short-drama platform competing with Eloelo.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-13"
  },
  "quicktv": {
   "name": "QuickTV",
@@ -9860,7 +9860,7 @@
   "sector": "Ride hailing",
   "description": "Global ride-hailing and delivery platform expanding an AI agent to over 30,000 employees.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "rescale": {
   "name": "Rescale",
@@ -11029,7 +11029,7 @@
   "sector": "Engineering",
   "description": "Indian engineering and construction major; Q2 profit rose 33% to Rs 5,202 crore.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-13"
  },
  "maruti": {
   "name": "Maruti",
@@ -12632,7 +12632,7 @@
   "sector": "E-commerce",
   "description": "E-commerce platform; CEO Tobi Lütke connected wearable data to a personal AI agent.",
   "first_added": "2026-10-30",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-13"
  },
  "relationshipsaustraliasa": {
   "name": "Relationships Australia SA",
@@ -13997,7 +13997,7 @@
   "sector": "Engineering consultancy",
   "description": "PSU engineering consultancy for oil and gas, petrochemicals and fertiliser plants; shares rose 14.65%.",
   "first_added": "2026-11-02",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-13"
  },
  "cleansciencetechnology": {
   "name": "Clean Science Technology",
@@ -14270,7 +14270,7 @@
   "sector": "Ride-hailing",
   "description": "Indian bike-taxi and ride-hailing platform whose annualised gross order value hit $4 billion.",
   "first_added": "2026-11-03",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-13"
  },
  "mobikwik": {
   "name": "MobiKwik",
@@ -16237,7 +16237,7 @@
   "sector": "Consumer durables",
   "description": "Air conditioner and engineering firm; shares fell 3.87% after Q2 results.",
   "first_added": "2026-11-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-13"
  },
  "ajio": {
   "name": "Ajio",
@@ -16321,7 +16321,7 @@
   "sector": "Consumer durables",
   "description": "Air conditioning firm; peer comparison in Voltas' results coverage.",
   "first_added": "2026-11-08",
-  "last_mentioned": "2026-11-08"
+  "last_mentioned": "2026-11-13"
  },
  "esabindia": {
   "name": "Esab India",
@@ -17154,7 +17154,7 @@
   "sector": "Electronics",
   "description": "South Korean conglomerate making consumer electronics, displays and chemicals.",
   "first_added": "2026-11-11",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-13"
  },
  "gitbook": {
   "name": "GitBook",
@@ -18287,6 +18287,181 @@
   "name": "Prime Venture Partners",
   "sector": "Venture capital",
   "description": "Indian venture capital firm that led Desible.ai's Rs 32 crore funding round.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "byd": {
+  "name": "BYD",
+  "sector": "Automotive",
+  "description": "Chinese automaker that launched its luxury electric brand Denza in India with two models.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "spicejet": {
+  "name": "SpiceJet",
+  "sector": "Airlines",
+  "description": "Indian airline whose board will consider a fundraising proposal on November 18 amid weak market share.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "nammayatri": {
+  "name": "Namma Yatri",
+  "sector": "Ride hailing",
+  "description": "Indian ride-hailing app being probed by the CCPA over dark patterns.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "amberenterprises": {
+  "name": "Amber Enterprises",
+  "sector": "Consumer durables",
+  "description": "Indian RAC and electronics contract manufacturer; Q2 revenue grew 60% year-on-year.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "technoelectricengineering": {
+  "name": "Techno Electric & Engineering",
+  "sector": "Power infrastructure",
+  "description": "Provides power transmission EPC, smart metering and data centre services; shares fell 5.62%.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "caecanada": {
+  "name": "CAE Canada",
+  "sector": "Simulation",
+  "description": "Sold its remaining 50% stake in HATSOFF Helicopter Training to HAL.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "richemont": {
+  "name": "Richemont",
+  "sector": "Luxury goods",
+  "description": "Luxury group whose first-half results were delayed by the Microsoft outage.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "societegenerale": {
+  "name": "Societe Generale",
+  "sector": "Banking",
+  "description": "Estimated January 2027 index rebalancing will bring about $3.3 billion in net gold buying.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "downdetector": {
+  "name": "Downdetector",
+  "sector": "Internet services",
+  "description": "Outage tracking site that logged more than 130,000 reports for Outlook at its Thursday peak.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "denza": {
+  "name": "Denza",
+  "sector": "Automotive",
+  "description": "BYD's luxury electric brand launched in India with the D9 MPV and Z9 GT sports car.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "avenueecommerce": {
+  "name": "Avenue E-Commerce",
+  "sector": "E-commerce",
+  "description": "Wholly owned subsidiary of Avenue Supermarts; Sachin Jaolekar moved there as VP Category Management.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "x": {
+  "name": "X",
+  "sector": "Social media",
+  "description": "Social platform whose staff built open Grok apps exposing internal data.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "oppo": {
+  "name": "Oppo",
+  "sector": "Consumer electronics",
+  "description": "Phone maker linked to an Amber Enterprises mobile manufacturing deal.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "schaefflerindia": {
+  "name": "Schaeffler India",
+  "sector": "Auto components",
+  "description": "Indian bearings and auto components maker, a peer of Gabriel India.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "gevernova": {
+  "name": "GE Vernova",
+  "sector": "Power equipment",
+  "description": "Global power equipment company, a peer of Hitachi Energy.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "technodigital": {
+  "name": "Techno Digital",
+  "sector": "Data centres",
+  "description": "Techno Electric's data centre arm with about 150 MW of IT load under discussion.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "anandgroup": {
+  "name": "ANAND Group",
+  "sector": "Auto components",
+  "description": "Indian auto components group that owns Gabriel India.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "awamileague": {
+  "name": "Awami League",
+  "sector": "Politics",
+  "description": "Bangladeshi political party that Sheikh Hasina says she plans to rebuild.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "jamaateislami": {
+  "name": "Jamaat-e-Islami",
+  "sector": "Politics",
+  "description": "Bangladeshi Islamist political party.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "bnp": {
+  "name": "BNP",
+  "sector": "Politics",
+  "description": "Bangladesh Nationalist Party, the governing party in the digest's account.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "tehreeketaliban": {
+  "name": "Tehreek-e-Taliban",
+  "sector": "Politics",
+  "description": "Militant group whose fighters were killed in Pakistani operations in Balochistan and Khyber Pakhtunkhwa.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "sodalitiumchristianaevitae": {
+  "name": "Sodalitium Christianae Vitae",
+  "sector": "Religion",
+  "description": "Catholic society whose former members met Pope Leo XIV as abuse survivors.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "vox": {
+  "name": "Vox",
+  "sector": "Politics",
+  "description": "Spanish political party seen as likely coalition partner in the next government.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "pp": {
+  "name": "PP",
+  "sector": "Politics",
+  "description": "Spanish People's Party, seen as most likely to lead the next government.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "socialists": {
+  "name": "Socialists",
+  "sector": "Politics",
+  "description": "Spain's ruling Socialist party, polling at 26%-29% ahead of elections.",
   "first_added": "2026-11-13",
   "last_mentioned": "2026-11-13"
  }
