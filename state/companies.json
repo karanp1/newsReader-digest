@@ -1061,7 +1061,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its IBIT bitcoin ETF led $487.1 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-13"
  },
  "fidelity": {
   "name": "Fidelity",
@@ -1229,7 +1229,7 @@
   "sector": "IT services",
   "description": "Indian IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-13"
  },
  "hcl": {
   "name": "HCL",
@@ -1250,7 +1250,7 @@
   "sector": "Software",
   "description": "US software giant; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "adobe": {
   "name": "Adobe",
@@ -1684,7 +1684,7 @@
   "sector": "AI",
   "description": "Artificial intelligence startup that raised early-stage funding this week.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-13"
  },
  "supermush": {
   "name": "SuperMush",
@@ -1733,7 +1733,7 @@
   "sector": "Home services",
   "description": "Startup that appointed Ramesh Srinivasan as Head of Growth and Revenue.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-11-13"
  },
  "altenindia": {
   "name": "ALTEN India",
@@ -3490,7 +3490,7 @@
   "sector": "Home services",
   "description": "Home services platform; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-11-13"
  },
  "zerodha": {
   "name": "Zerodha",
@@ -4253,7 +4253,7 @@
   "sector": "Home services",
   "description": "Instant househelp services startup that has raised more than $50 million.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-13"
  },
  "houthi": {
   "name": "Houthi",
@@ -6787,7 +6787,7 @@
   "sector": "IT services",
   "description": "Indian IT services firm that issued a letter of intent to Tejas Networks for BSNL 4G sites.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-13"
  },
  "psg": {
   "name": "PSG",
@@ -18266,6 +18266,27 @@
   "name": "Godrej Consumer Products",
   "sector": "Consumer goods",
   "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "turtlemint": {
+  "name": "Turtlemint",
+  "sector": "Insurance tech",
+  "description": "Insurance distribution platform; Q2 revenue rose 35% to Rs 342 crore and net loss narrowed 67%.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "astrobase": {
+  "name": "Astrobase",
+  "sector": "Space technology",
+  "description": "Space tech firm investing Rs 800 crore to expand its rocket testing facility in Andhra Pradesh.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "primeventurepartners": {
+  "name": "Prime Venture Partners",
+  "sector": "Venture capital",
+  "description": "Indian venture capital firm that led Desible.ai's Rs 32 crore funding round.",
   "first_added": "2026-11-13",
   "last_mentioned": "2026-11-13"
  }
