@@ -60,14 +60,14 @@
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "olaelectric": {
   "name": "Ola Electric",
   "sector": "Electric vehicles",
   "description": "Manufacturer of electric scooters and two-wheelers in India; raised Rs 1,000 crore via rights issue.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-13"
  },
  "razorpay": {
   "name": "Razorpay",
@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -130,7 +130,7 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "starlink": {
   "name": "Starlink",
@@ -158,14 +158,14 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -186,21 +186,21 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "walmart": {
   "name": "Walmart",
   "sector": "Retail",
   "description": "US retail giant and majority owner of Flipkart; facing pressure over employee stock option liquidity.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "myntra": {
   "name": "Myntra",
   "sector": "E-commerce",
   "description": "Online fashion retailer owned by Flipkart; former CEO Mukesh Bansal among ESOP petitioners.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-08"
+  "last_mentioned": "2026-11-13"
  },
  "accel": {
   "name": "Accel",
@@ -221,7 +221,7 @@
   "sector": "E-commerce",
   "description": "Global online retailer running Great Indian Festival sale in competition with Flipkart.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-13"
  },
  "chennaipetroleum": {
   "name": "Chennai Petroleum",
@@ -347,7 +347,7 @@
   "sector": "Mining",
   "description": "State-owned coal mining company; joint venture partner in the Chandrapura thermal project.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-13"
  },
  "geaerospace": {
   "name": "GE Aerospace",
@@ -501,7 +501,7 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "naukri": {
   "name": "Naukri",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -2076,7 +2076,7 @@
   "sector": "Automotive",
   "description": "Carmaker whose October 2024 IPO was India's largest before Jio Platforms' offering.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-13"
  },
  "dolatcapital": {
   "name": "Dolat Capital",
@@ -2748,7 +2748,7 @@
   "sector": "Financial services",
   "description": "Investment dealer; said trend-following funds are covering gold shorts.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-13"
  },
  "pidilite": {
   "name": "Pidilite",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "accenture": {
   "name": "Accenture",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-13"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -3266,7 +3266,7 @@
   "sector": "Insurance",
   "description": "General insurance company; mentioned in the watchlist context.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "relianceintelligence": {
   "name": "Reliance Intelligence",
@@ -3357,7 +3357,7 @@
   "sector": "Credit rating",
   "description": "Rating agency; its economist expects another RBI rate hike in December.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "eutelsat": {
   "name": "Eutelsat",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3749,7 +3749,7 @@
   "sector": "Insurance",
   "description": "Life Insurance Corporation of India, the state-owned insurer; launched three new non-par individual plans.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "vantrockrealassets": {
   "name": "Vantrock Real Assets",
@@ -4771,7 +4771,7 @@
   "sector": "Pharmaceuticals",
   "description": "Indian drugmaker whose Moraiya plant received five US FDA observations.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-13"
  },
  "ticvictechnologies": {
   "name": "Ticvic Technologies",
@@ -5023,7 +5023,7 @@
   "sector": "Oil and gas",
   "description": "Indian state oil and gas producer, a peer to Vedanta Oil and Gas.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-13"
  },
  "gevernovatd": {
   "name": "GE Vernova T&D",
@@ -8817,7 +8817,7 @@
   "sector": "Defence manufacturing",
   "description": "Indian forging and defence company; leads a group competing for AMCA prototype contract.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-13"
  },
  "heatbit": {
   "name": "Heatbit",
@@ -10595,7 +10595,7 @@
   "sector": "Technology",
   "description": "German engineering group whose software arm incubated AIShield.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-13"
  },
  "generalcatalystpartners": {
   "name": "General Catalyst Partners",
@@ -11197,14 +11197,14 @@
   "sector": "Pharmaceuticals",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-13"
  },
  "divislabs": {
   "name": "Divi's Labs",
   "sector": "Pharmaceuticals",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-13"
  },
  "torrentpharma": {
   "name": "Torrent Pharma",
@@ -11218,7 +11218,7 @@
   "sector": "Pharmaceuticals",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-13"
  },
  "drreddyslabs": {
   "name": "Dr Reddy's Labs",
@@ -11232,7 +11232,7 @@
   "sector": "Pharmaceuticals",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-13"
  },
  "indegene": {
   "name": "Indegene",
@@ -11428,7 +11428,7 @@
   "sector": "Technology",
   "description": "Google's parent and a backer of Jio Platforms.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "chinamobile": {
   "name": "China Mobile",
@@ -13430,7 +13430,7 @@
   "sector": "Financial services",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-13"
  },
  "sharrpventures": {
   "name": "Sharrp Ventures",
@@ -15012,7 +15012,7 @@
   "sector": "Auto components",
   "description": "Manesar-based Tier-1 auto parts maker; Q2 profit rose 38% and the board approved sunroof capacity expansion.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-13"
  },
  "ashokleyland": {
   "name": "Ashok Leyland",
@@ -17553,7 +17553,7 @@
   "sector": "Aviation",
   "description": "Singaporean carrier holding a 25.1% stake in Air India.",
   "first_added": "2026-11-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "gilberttobin": {
   "name": "Gilbert + Tobin",
@@ -17595,7 +17595,7 @@
   "sector": "Investment",
   "description": "Indian investment company; Noel Tata retired as chairperson and Bahram Vakil succeeded him.",
   "first_added": "2026-11-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "upgrad": {
   "name": "UpGrad",
@@ -17651,14 +17651,14 @@
   "sector": "Agrochemicals",
   "description": "Indian agrochemicals firm planning a roughly Rs 550 crore IPO opening November 18.",
   "first_added": "2026-11-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "nationalstockexchange": {
   "name": "National Stock Exchange",
   "sector": "Stock exchange",
   "description": "Indian exchange whose Rs 22,563 crore IPO contributed to September fundraising.",
   "first_added": "2026-11-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "icicilife": {
   "name": "ICICI Life",
@@ -17672,7 +17672,7 @@
   "sector": "Drones",
   "description": "Drone Federation of India industry body; says the sector needs deeper localisation as imports pose risks.",
   "first_added": "2026-11-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "siam": {
   "name": "SIAM",
@@ -17686,7 +17686,7 @@
   "sector": "Nonprofit",
   "description": "Anti-poverty group; estimated total public climate finance at $32.7 billion to $44.7 billion.",
   "first_added": "2026-11-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "westpac": {
   "name": "Westpac",
@@ -17707,7 +17707,7 @@
   "sector": "Travel",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-13"
  },
  "iransrevolutionaryguards": {
   "name": "Iran's Revolutionary Guards",
@@ -18016,5 +18016,257 @@
   "description": "Source of the Info Edge story.",
   "first_added": "2026-11-12",
   "last_mentioned": "2026-11-12"
+ },
+ "amplitude": {
+  "name": "Amplitude",
+  "sector": "Analytics software",
+  "description": "US product analytics company; uses OpenAI models to power its Wave product agent.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "gondola": {
+  "name": "Gondola",
+  "sector": "Software",
+  "description": "Company that adopted OpenAI's Codex so its business team can prototype software; revenue more than doubled.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "fujifilm": {
+  "name": "Fujifilm",
+  "sector": "Healthcare",
+  "description": "Fujifilm Biotechnologies will move its AI contract-review agent from sandbox to production in December.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "fullstory": {
+  "name": "Fullstory",
+  "sector": "Analytics software",
+  "description": "US behavioural analytics firm; made StoryAI Agents and its MCP generally available.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "super": {
+  "name": "Super",
+  "sector": "Software",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "happycabbage": {
+  "name": "Happy Cabbage",
+  "sector": "Software",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "spacexsi": {
+  "name": "SpaceXSI",
+  "sector": "Space",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "davita": {
+  "name": "DaVita",
+  "sector": "Healthcare",
+  "description": "US kidney dialysis provider; sets rules for managing 10,000 AI agents.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "profero": {
+  "name": "Profero",
+  "sector": "Cybersecurity",
+  "description": "Cybersecurity firm whose threat intelligence unit analysed AI-agent attack playbooks.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "kia": {
+  "name": "Kia",
+  "sector": "Automobiles",
+  "description": "Korean carmaker; with suppliers plans a $2 billion second Andhra Pradesh plant targeting 2030 production.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "vikramsolar": {
+  "name": "Vikram Solar",
+  "sector": "Solar energy",
+  "description": "Indian solar module maker; among 22 bidders for 10 GWh of ACC battery manufacturing capacity.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "amararaja": {
+  "name": "Amara Raja",
+  "sector": "Batteries",
+  "description": "Indian battery maker; among 22 bidders for 10 GWh of ACC battery manufacturing capacity.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "exideenergy": {
+  "name": "Exide Energy",
+  "sector": "Batteries",
+  "description": "Indian battery maker; among 22 bidders for 10 GWh of ACC battery manufacturing capacity.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "bodhitree": {
+  "name": "Bodhi Tree",
+  "sector": "Investment",
+  "description": "Investment firm co-founded by James Murdoch and Uday Shankar; bought a majority stake in A2B for $180 million.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "adyaranandabhavan": {
+  "name": "Adyar Ananda Bhavan",
+  "sector": "Food retail",
+  "description": "A2B, a 50-year-old South Indian sweets and restaurant chain; sold a majority stake to Bodhi Tree.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "gabrielindia": {
+  "name": "Gabriel India",
+  "sector": "Auto components",
+  "description": "ANAND Group maker of shock absorbers, struts and front forks; shares hit the 20% upper circuit.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "godrejindustries": {
+  "name": "Godrej Industries",
+  "sector": "Conglomerate",
+  "description": "Godrej Group holding company and oleochemicals maker; Temasek will invest Rs 2,500 crore in Godrej Capital.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "godrejcapital": {
+  "name": "Godrej Capital",
+  "sector": "Financial services",
+  "description": "Godrej group lending arm with Rs 35,000 crore AUM; Temasek agreed to invest Rs 2,500 crore at up to Rs 28,000 crore valuation.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "temasek": {
+  "name": "Temasek",
+  "sector": "Investment",
+  "description": "Singapore state investor; agreed to invest Rs 2,500 crore in Godrej Capital.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "pageindustries": {
+  "name": "Page Industries",
+  "sector": "Apparel",
+  "description": "Exclusive licensee for Jockey and Speedo in India; shares fell 12.5% after Q2 profit rose just 3.8%.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "caplinpointlaboratories": {
+  "name": "Caplin Point Laboratories",
+  "sector": "Pharmaceuticals",
+  "description": "Indian maker of APIs and formulations for Latin America and Africa; shares fell 5.32% after Q2 results.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "mahanadicoalfields": {
+  "name": "Mahanadi Coalfields",
+  "sector": "Mining",
+  "description": "Coal India subsidiary; plans a $1 billion IPO after Jio Platforms and NSE.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "paragmilkfoods": {
+  "name": "Parag Milk Foods",
+  "sector": "Dairy",
+  "description": "Indian dairy company behind Gowardhan Ghee; gained from Blinkit's 'Saif ka Ghee' meme moment.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "grayscale": {
+  "name": "Grayscale",
+  "sector": "Crypto asset management",
+  "description": "US crypto asset manager; research says bitcoin explains about 50% of return variation across crypto sectors.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "itbp": {
+  "name": "ITBP",
+  "sector": "Defence",
+  "description": "Indo-Tibetan Border Police; authorised new pedestrian suspension and log bridges in Arunachal Pradesh.",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "samvardhanamotherson": {
+  "name": "Samvardhana Motherson",
+  "sector": "Auto components",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "drreddys": {
+  "name": "Dr Reddy's",
+  "sector": "Pharmaceuticals",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "hlmandoanand": {
+  "name": "HL Mando Anand",
+  "sector": "Auto components",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "hlklemove": {
+  "name": "HL Klemove",
+  "sector": "Auto components",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "forvia": {
+  "name": "Forvia",
+  "sector": "Auto components",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "3mindia": {
+  "name": "3M India",
+  "sector": "Diversified",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "dcmshriram": {
+  "name": "DCM Shriram",
+  "sector": "Diversified",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "balmerlawrie": {
+  "name": "Balmer Lawrie",
+  "sector": "Diversified",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "godrejagrovet": {
+  "name": "Godrej Agrovet",
+  "sector": "Agribusiness",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "godrejproperties": {
+  "name": "Godrej Properties",
+  "sector": "Real estate",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
+ },
+ "godrejconsumerproducts": {
+  "name": "Godrej Consumer Products",
+  "sector": "Consumer goods",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-13",
+  "last_mentioned": "2026-11-13"
  }
 }
