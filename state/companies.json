@@ -116,7 +116,7 @@
   "sector": "Consumer electronics",
   "description": "South Korean conglomerate making memory chips, smartphones and displays; competing in high-bandwidth memory.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-14"
  },
  "skhynix": {
   "name": "SK Hynix",
@@ -137,14 +137,14 @@
   "sector": "Satellite internet",
   "description": "SpaceX's satellite broadband service awaiting security approvals for its India launch.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-14"
  },
  "spacex": {
   "name": "SpaceX",
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-14"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -319,7 +319,7 @@
   "sector": "Telecom",
   "description": "Indian telecom operator with negative earnings, competing with Airtel and Jio.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-14"
  },
  "cupid": {
   "name": "Cupid",
@@ -354,7 +354,7 @@
   "sector": "Defence aerospace",
   "description": "US engine maker shipping F404-IN20 engines to HAL for Tejas LCA Mk 1A fighter jets.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-14"
  },
  "hindustanaeronautics": {
   "name": "Hindustan Aeronautics",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -788,7 +788,7 @@
   "sector": "Real estate",
   "description": "Info Edge's property listings platform; Q2 billings grew 21.2% to Rs 148.3 crore.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-14"
  },
  "mivi": {
   "name": "Mivi",
@@ -1439,7 +1439,7 @@
   "sector": "Banking",
   "description": "Investment bank; maintains Buy on Info Edge with up to 27% upside.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-11-14"
  },
  "nuvama": {
   "name": "Nuvama",
@@ -2251,7 +2251,7 @@
   "sector": "Consumer electronics",
   "description": "Electronics brand; 55-inch QLED TV discounted on Flipkart.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-08"
+  "last_mentioned": "2026-11-14"
  },
  "bhel": {
   "name": "BHEL",
@@ -2391,7 +2391,7 @@
   "sector": "Defence electronics",
   "description": "Israel-based radar maker; supplies AESA radar software for Tejas Mk1A.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-14"
  },
  "airbus": {
   "name": "Airbus",
@@ -4771,7 +4771,7 @@
   "sector": "Pharmaceuticals",
   "description": "Indian drugmaker whose Moraiya plant received five US FDA observations.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "ticvictechnologies": {
   "name": "Ticvic Technologies",
@@ -4946,7 +4946,7 @@
   "sector": "Regulator",
   "description": "US drug regulator that issued observations to Zydus Lifesciences' Moraiya plant.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-14"
  },
  "bharatnet": {
   "name": "BharatNet",
@@ -4960,7 +4960,7 @@
   "sector": "Telecom regulator",
   "description": "Indian telecom regulator whose quality-of-service benchmarks Tejas and C-DOT cited.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-11-14"
  },
  "3gpp": {
   "name": "3GPP",
@@ -4981,7 +4981,7 @@
   "sector": "Government",
   "description": "Indian state partnering with IBM on a quantum computing initiative.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-11-14"
  },
  "comoros": {
   "name": "Comoros",
@@ -5086,14 +5086,14 @@
   "sector": "Industrial equipment",
   "description": "Large industrial equipment maker, a peer in the electrical equipment sector.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "dmart": {
   "name": "DMart",
   "sector": "Retail",
   "description": "Indian supermarket chain operated by Avenue Supermarts.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-14"
  },
  "indianairforce": {
   "name": "Indian Air Force",
@@ -5422,7 +5422,7 @@
   "sector": "Financial services",
   "description": "Index provider that finalized rules to exclude non-operating companies from its Global Investable Market Indexes.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "fundstrat": {
   "name": "Fundstrat",
@@ -7074,7 +7074,7 @@
   "sector": "Cloud computing",
   "description": "Amazon's cloud unit; launched the open-source TorchNeuron tool for its Trainium chips.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-14"
  },
  "trainium": {
   "name": "Trainium",
@@ -7375,7 +7375,7 @@
   "sector": "Space",
   "description": "SpaceX's military satellite service; Musk reportedly capped speeds for Ukraine.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-14"
  },
  "jamnagarrefinery": {
   "name": "Jamnagar refinery",
@@ -8481,7 +8481,7 @@
   "sector": "International body",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-11-14"
  },
  "straitofhormuz": {
   "name": "Strait of Hormuz",
@@ -9664,7 +9664,7 @@
   "sector": "Insurance",
   "description": "Go Digit group entity merging with Go Digit General Insurance after CCI approval.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-14"
  },
  "canva": {
   "name": "Canva",
@@ -10609,7 +10609,7 @@
   "sector": "Fintech",
   "description": "Listed parent of Paytm; Q2 net profit rose to Rs 225 crore.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-14"
  },
  "dailyhuntparentverse": {
   "name": "Dailyhunt parent VerSe",
@@ -11295,7 +11295,7 @@
   "sector": "Cloud computing",
   "description": "Microsoft cloud platform now serving about half of GitHub's Git traffic.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-14"
  },
  "oraclefusioncloudapplications": {
   "name": "Oracle Fusion Cloud Applications",
@@ -17833,7 +17833,7 @@
   "sector": "Software",
   "description": "Microsoft platform on which Northern Trust's AI onboarding agent runs.",
   "first_added": "2026-11-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-14"
  },
  "sharepoint": {
   "name": "SharePoint",
@@ -18351,7 +18351,7 @@
   "sector": "Internet services",
   "description": "Outage tracking site that logged more than 130,000 reports for Outlook at its Thursday peak.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "denza": {
   "name": "Denza",
@@ -18386,7 +18386,7 @@
   "sector": "Auto components",
   "description": "Indian bearings and auto components maker, a peer of Gabriel India.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "gevernova": {
   "name": "GE Vernova",
@@ -18728,6 +18728,174 @@
   "name": "National Transportation Safety Board",
   "sector": "Transport safety",
   "description": "US agency investigating the New Orleans cruise ship and tanker collision.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "tatamotorspassengervehicles": {
+  "name": "Tata Motors Passenger Vehicles",
+  "sector": "Automotive",
+  "description": "Tata Motors' passenger vehicle arm; posted Q2 net loss of Rs 5,531 crore.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "vxpress": {
+  "name": "V-Xpress",
+  "sector": "Logistics",
+  "description": "Indian logistics firm; opening 15-plus outlets across Karnataka.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "eliblisscare": {
+  "name": "Elibliss Care",
+  "sector": "Consumer goods",
+  "description": "Flipkart seller fined over a misleading coconut oil advertisement.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "redmi": {
+  "name": "Redmi",
+  "sector": "Consumer electronics",
+  "description": "Xiaomi's budget phone and tablet brand; Pad 2 Pro 5G on Flipkart.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "jobhai": {
+  "name": "JobHai",
+  "sector": "Recruitment",
+  "description": "Info Edge's job platform; billings grew 86% year on year in Q2.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "wachtellliptonrosenkatz": {
+  "name": "Wachtell, Lipton, Rosen & Katz",
+  "sector": "Legal services",
+  "description": "US law firm hired by Nvidia's board to investigate CEO conduct.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "flightradar24": {
+  "name": "FlightRadar24",
+  "sector": "Aviation data",
+  "description": "Flight tracking service; counted 6,600 cancellations during US ground stop.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "liqmeds": {
+  "name": "LiqMeds",
+  "sector": "Pharmaceuticals",
+  "description": "Zydus Lifesciences' UK facility inspected by the USFDA.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "iaf": {
+  "name": "IAF",
+  "sector": "Defence",
+  "description": "Indian Air Force; to receive first Tejas Mk1A jets in January 2027.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "aionet": {
+  "name": "AIO-Net",
+  "sector": "AI",
+  "description": "KT's agentic AI platform that diagnoses network faults in minutes.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "tiktok": {
+  "name": "TikTok",
+  "sector": "Social media",
+  "description": "Short-video platform; a marketer's AI agent researched winning formats on it.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "postiz": {
+  "name": "Postiz",
+  "sector": "Software",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "federalistsociety": {
+  "name": "Federalist Society",
+  "sector": "Legal",
+  "description": "US conservative legal group addressed by Secretary of State Marco Rubio.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "icc": {
+  "name": "ICC",
+  "sector": "International law",
+  "description": "International Criminal Court; Rubio said the US would not submit to it.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "uscirf": {
+  "name": "USCIRF",
+  "sector": "Government",
+  "description": "US commission on religious freedom; India's envoy rejected its remarks.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "cemindia": {
+  "name": "Cemindia",
+  "sector": "Engineering",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "powergrid": {
+  "name": "Power Grid",
+  "sector": "Power transmission",
+  "description": "Indian state grid operator; key customer of Techno Electric.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "commerceministry": {
+  "name": "Commerce Ministry",
+  "sector": "Government",
+  "description": "India's commerce ministry; said black mass ban will secure domestic feedstock.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "kalahandiconsumercommission": {
+  "name": "Kalahandi consumer commission",
+  "sector": "Consumer protection",
+  "description": "Fined Flipkart and seller Elibliss Care over a misleading ad.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "horamavu": {
+  "name": "Horamavu",
+  "sector": "Government",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "domlur": {
+  "name": "Domlur",
+  "sector": "Government",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "thimmasamudram": {
+  "name": "Thimmasamudram",
+  "sector": "Government",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "narasapura": {
+  "name": "Narasapura",
+  "sector": "Government",
+  "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "dabaspet": {
+  "name": "Dabaspet",
+  "sector": "Government",
+  "description": "Not enough detail in today's digest",
   "first_added": "2026-11-14",
   "last_mentioned": "2026-11-14"
  }
