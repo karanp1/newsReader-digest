@@ -67,7 +67,7 @@
   "sector": "Electric vehicles",
   "description": "Manufacturer of electric scooters and two-wheelers in India; raised Rs 1,000 crore via rights issue.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "razorpay": {
   "name": "Razorpay",
@@ -172,7 +172,7 @@
   "sector": "Telecom",
   "description": "Indian telecom operator providing mobile, broadband and enterprise services across the country.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "motilaloswal": {
   "name": "Motilal Oswal",
@@ -515,7 +515,7 @@
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "godigit": {
   "name": "Go Digit",
@@ -963,7 +963,7 @@
   "sector": "Satellite internet",
   "description": "Satellite broadband operator that already holds an Indian authorisation.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-14"
  },
  "texprocil": {
   "name": "Texprocil",
@@ -991,7 +991,7 @@
   "sector": "Aviation",
   "description": "Indian airline; raised domestic and international fuel surcharges as costs climbed.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-14"
  },
  "airindiaexpress": {
   "name": "Air India Express",
@@ -1005,7 +1005,7 @@
   "sector": "Aviation",
   "description": "Indian airline; introduced fuel surcharges of Rs 375-1,150 by sector length.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-11-14"
  },
  "indigo": {
   "name": "IndiGo",
@@ -1103,7 +1103,7 @@
   "sector": "Crypto exchange",
   "description": "Crypto exchange; its chief economist commented on bitcoin cycle drawdowns.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-11-14"
  },
  "hal": {
   "name": "HAL",
@@ -1201,7 +1201,7 @@
   "sector": "Stock exchange",
   "description": "National Stock Exchange; listed on 24 September at Rs 1,785 per share.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-14"
  },
  "ntpcgreenenergy": {
   "name": "NTPC Green Energy",
@@ -1229,7 +1229,7 @@
   "sector": "IT services",
   "description": "Indian IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "hcl": {
   "name": "HCL",
@@ -1684,7 +1684,7 @@
   "sector": "AI",
   "description": "Artificial intelligence startup that raised early-stage funding this week.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "supermush": {
   "name": "SuperMush",
@@ -1733,7 +1733,7 @@
   "sector": "Home services",
   "description": "Startup that appointed Ramesh Srinivasan as Head of Growth and Revenue.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "altenindia": {
   "name": "ALTEN India",
@@ -3273,7 +3273,7 @@
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "gartner": {
   "name": "Gartner",
@@ -3490,7 +3490,7 @@
   "sector": "Home services",
   "description": "Home services platform; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "zerodha": {
   "name": "Zerodha",
@@ -4253,7 +4253,7 @@
   "sector": "Home services",
   "description": "Instant househelp services startup that has raised more than $50 million.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "houthi": {
   "name": "Houthi",
@@ -6248,14 +6248,14 @@
   "sector": "Markets",
   "description": "Indian benchmark index that fell 876.37 points to 73,852.90.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-14"
  },
  "nifty": {
   "name": "Nifty",
   "sector": "Markets",
   "description": "Indian benchmark index that dropped 257.20 points to 22,888.95.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-14"
  },
  "bsecapitalgoodsindex": {
   "name": "BSE Capital Goods Index",
@@ -7676,7 +7676,7 @@
   "sector": "Stock exchange",
   "description": "Indian exchange where Jio Platforms' IPO bids and Reliance share moves were recorded.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-14"
  },
  "dcgi": {
   "name": "DCGI",
@@ -8439,7 +8439,7 @@
   "sector": "Government",
   "description": "Formed a special team to investigate the eMudhra security incident.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-11-14"
  },
  "rbi": {
   "name": "RBI",
@@ -18274,21 +18274,21 @@
   "sector": "Insurance tech",
   "description": "Insurance distribution platform; Q2 revenue rose 35% to Rs 342 crore and net loss narrowed 67%.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "astrobase": {
   "name": "Astrobase",
   "sector": "Space technology",
   "description": "Space tech firm investing Rs 800 crore to expand its rocket testing facility in Andhra Pradesh.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "primeventurepartners": {
   "name": "Prime Venture Partners",
   "sector": "Venture capital",
   "description": "Indian venture capital firm that led Desible.ai's Rs 32 crore funding round.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "byd": {
   "name": "BYD",
@@ -18372,7 +18372,7 @@
   "sector": "Social media",
   "description": "Social platform whose staff built open Grok apps exposing internal data.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "oppo": {
   "name": "Oppo",
@@ -18491,14 +18491,14 @@
   "sector": "Legal services",
   "description": "Law firm whose partner said clients are looking at data centres in Nordic countries and Canada.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "kakashospitality": {
   "name": "Kakas Hospitality",
   "sector": "Food services",
   "description": "Firm that filed the trademark suit leading the Delhi High Court to order Zomato to remove 132 listings.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-14"
  },
  "jiofinancialservices": {
   "name": "Jio Financial Services",
@@ -18700,6 +18700,34 @@
   "name": "Indian Olympic Association",
   "sector": "Sports body",
   "description": "Its president P. T. Usha inaugurated KPMG's Sports Technology Hub in Bengaluru.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "nakamoto": {
+  "name": "Nakamoto",
+  "sector": "Crypto",
+  "description": "Crypto firm; extended $60 million of its Kraken loan repayment to December 2027.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "polymarket": {
+  "name": "Polymarket",
+  "sector": "Prediction markets",
+  "description": "Prediction market platform; bettors put 68% odds on Bitcoin hitting $65,000 by end-2026.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "panamericanhealthorganization": {
+  "name": "Pan American Health Organization",
+  "sector": "Public health",
+  "description": "Revoked the United States' measles-elimination status after continued transmission for over a year.",
+  "first_added": "2026-11-14",
+  "last_mentioned": "2026-11-14"
+ },
+ "nationaltransportationsafetyboard": {
+  "name": "National Transportation Safety Board",
+  "sector": "Transport safety",
+  "description": "US agency investigating the New Orleans cruise ship and tanker collision.",
   "first_added": "2026-11-14",
   "last_mentioned": "2026-11-14"
  }
