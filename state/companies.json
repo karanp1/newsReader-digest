@@ -130,21 +130,21 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "starlink": {
   "name": "Starlink",
   "sector": "Satellite internet",
   "description": "SpaceX's satellite broadband service awaiting security approvals for its India launch.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "spacex": {
   "name": "SpaceX",
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -1061,7 +1061,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its IBIT bitcoin ETF led $487.1 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-15"
  },
  "fidelity": {
   "name": "Fidelity",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -2328,7 +2328,7 @@
   "sector": "Regulator",
   "description": "India's securities regulator; to issue guidelines on closing auction session.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "reservebankofindia": {
   "name": "Reserve Bank of India",
@@ -2566,7 +2566,7 @@
   "sector": "Engineering",
   "description": "EPC firm in power transmission and infrastructure; cited as a peer for KEC.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "railvikas": {
   "name": "Rail Vikas",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -4960,7 +4960,7 @@
   "sector": "Telecom regulator",
   "description": "Indian telecom regulator whose quality-of-service benchmarks Tejas and C-DOT cited.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "3gpp": {
   "name": "3GPP",
@@ -7165,7 +7165,7 @@
   "sector": "Banking",
   "description": "Punjab National Bank, an Indian public sector bank.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-15"
  },
  "fsnecommerce": {
   "name": "FSN E-Commerce",
@@ -8817,7 +8817,7 @@
   "sector": "Defence manufacturing",
   "description": "Indian forging and defence company; leads a group competing for AMCA prototype contract.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "heatbit": {
   "name": "Heatbit",
@@ -11029,7 +11029,7 @@
   "sector": "Engineering",
   "description": "Indian engineering and construction major; Q2 profit rose 33% to Rs 5,202 crore.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "maruti": {
   "name": "Maruti",
@@ -12814,7 +12814,7 @@
   "sector": "Consumer electronics",
   "description": "Electronics maker; its 55-inch QLED TV was listed in Flipkart's Diwali sale.",
   "first_added": "2026-10-30",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-15"
  },
  "paiinternationalelectronics": {
   "name": "Pai International Electronics",
@@ -13430,7 +13430,7 @@
   "sector": "Financial services",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-15"
  },
  "sharrpventures": {
   "name": "Sharrp Ventures",
@@ -13997,7 +13997,7 @@
   "sector": "Engineering consultancy",
   "description": "PSU engineering consultancy for oil and gas, petrochemicals and fertiliser plants; shares rose 14.65%.",
   "first_added": "2026-11-02",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "cleansciencetechnology": {
   "name": "Clean Science Technology",
@@ -15096,7 +15096,7 @@
   "sector": "Auto components",
   "description": "Auto components maker cited as a valuation peer to Uno Minda.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-15"
  },
  "schaeffler": {
   "name": "Schaeffler",
@@ -16237,7 +16237,7 @@
   "sector": "Consumer durables",
   "description": "Air conditioner and engineering firm; shares fell 3.87% after Q2 results.",
   "first_added": "2026-11-08",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "ajio": {
   "name": "Ajio",
@@ -16321,7 +16321,7 @@
   "sector": "Consumer durables",
   "description": "Air conditioning firm; peer comparison in Voltas' results coverage.",
   "first_added": "2026-11-08",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "esabindia": {
   "name": "Esab India",
@@ -18197,7 +18197,7 @@
   "sector": "Auto components",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "drreddys": {
   "name": "Dr Reddy's",
@@ -18211,21 +18211,21 @@
   "sector": "Auto components",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-15"
  },
  "hlklemove": {
   "name": "HL Klemove",
   "sector": "Auto components",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-15"
  },
  "forvia": {
   "name": "Forvia",
   "sector": "Auto components",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-15"
  },
  "3mindia": {
   "name": "3M India",
@@ -18386,7 +18386,7 @@
   "sector": "Auto components",
   "description": "Indian bearings and auto components maker, a peer of Gabriel India.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "gevernova": {
   "name": "GE Vernova",
@@ -18407,7 +18407,7 @@
   "sector": "Auto components",
   "description": "Indian auto components group that owns Gabriel India.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "awamileague": {
   "name": "Awami League",
@@ -18785,7 +18785,7 @@
   "sector": "Pharmaceuticals",
   "description": "Zydus Lifesciences' UK facility inspected by the USFDA.",
   "first_added": "2026-11-14",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "iaf": {
   "name": "IAF",
@@ -18848,7 +18848,7 @@
   "sector": "Power transmission",
   "description": "Indian state grid operator; key customer of Techno Electric.",
   "first_added": "2026-11-14",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-15"
  },
  "commerceministry": {
   "name": "Commerce Ministry",
@@ -18917,6 +18917,34 @@
   "name": "Chow Sang Sang",
   "sector": "Jewellery retail",
   "description": "Chinese jewellery retailer whose prices fell 77 yuan per gram to 1,166 yuan amid a gold slump.",
+  "first_added": "2026-11-15",
+  "last_mentioned": "2026-11-15"
+ },
+ "philips": {
+  "name": "Philips",
+  "sector": "Consumer electronics",
+  "description": "Makes televisions and health technology products; its 50-inch QLED 4K Google TV featured in a Flipkart roundup.",
+  "first_added": "2026-11-15",
+  "last_mentioned": "2026-11-15"
+ },
+ "mahanagargas": {
+  "name": "Mahanagar Gas",
+  "sector": "City gas distribution",
+  "description": "Mumbai gas distributor that raised CNG prices by Rs 1.5 per kg, its sixth hike since May.",
+  "first_added": "2026-11-15",
+  "last_mentioned": "2026-11-15"
+ },
+ "saudiaramco": {
+  "name": "Saudi Aramco",
+  "sector": "Oil and gas",
+  "description": "Saudi state oil company whose Riyadh buildings were damaged in Houthi attacks.",
+  "first_added": "2026-11-15",
+  "last_mentioned": "2026-11-15"
+ },
+ "catl": {
+  "name": "CATL",
+  "sector": "Batteries",
+  "description": "Chinese battery maker whose TENER+ battery partnership was cited in Hitachi Energy India news.",
   "first_added": "2026-11-15",
   "last_mentioned": "2026-11-15"
  }
