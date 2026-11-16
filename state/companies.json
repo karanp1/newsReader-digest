@@ -130,7 +130,7 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-15"
+  "last_mentioned": "2026-11-16"
  },
  "starlink": {
   "name": "Starlink",
@@ -1901,14 +1901,14 @@
   "sector": "Investment banking",
   "description": "One of 19 banks appointed for Jio Platforms' IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-11-16"
  },
  "morganstanley": {
   "name": "Morgan Stanley",
   "sector": "Financial services",
   "description": "Investment bank appointed for Jio Platforms' IPO.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-16"
  },
  "bankofamerica": {
   "name": "Bank of America",
@@ -3091,7 +3091,7 @@
   "sector": "FMCG",
   "description": "Consumer goods major; cited as a dividend-yield and valuation peer for ITC.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-16"
  },
  "hindustanfoods": {
   "name": "Hindustan Foods",
@@ -3490,7 +3490,7 @@
   "sector": "Home services",
   "description": "Home services platform; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-15"
+  "last_mentioned": "2026-11-16"
  },
  "zerodha": {
   "name": "Zerodha",
@@ -9517,14 +9517,14 @@
   "sector": "Streaming",
   "description": "Short-drama platform competing with Eloelo.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-16"
  },
  "quicktv": {
   "name": "QuickTV",
   "sector": "Streaming",
   "description": "Short-drama platform competing with Eloelo.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-16"
  },
  "dashreels": {
   "name": "DashReels",
@@ -15089,7 +15089,7 @@
   "sector": "Semiconductors",
   "description": "US chipmaker; its Core Series 3 AI laptops are featured in Flipkart's Big Bang Diwali Sale.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-16"
  },
  "sonablw": {
   "name": "Sona BLW",
@@ -16440,14 +16440,14 @@
   "sector": "Semiconductors",
   "description": "Chip buyer whose employee Alice Huang was reportedly involved in an intelligence effort around Nvidia's CEO.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-16"
  },
  "jiohotstar": {
   "name": "JioHotstar",
   "sector": "Streaming",
   "description": "Indian streaming platform; included in Reliance Jio's Rs 10,000 prepaid plan.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-16"
  },
  "jioaicloud": {
   "name": "JioAICloud",
@@ -17602,7 +17602,7 @@
   "sector": "Edtech",
   "description": "Indian edtech company that completed a 100% share-swap acquisition of Unacademy at a Rs 1,955 crore valuation.",
   "first_added": "2026-11-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-16"
  },
  "rentomojo": {
   "name": "Rentomojo",
@@ -18994,6 +18994,69 @@
   "name": "Scripps Research",
   "sector": "Biomedical research",
   "description": "US research institute that partnered with OpenAI on brain cell data analysis.",
+  "first_added": "2026-11-16",
+  "last_mentioned": "2026-11-16"
+ },
+ "infinix": {
+  "name": "Infinix",
+  "sector": "Consumer electronics",
+  "description": "Smartphone brand selling budget 5G handsets in India.",
+  "first_added": "2026-11-16",
+  "last_mentioned": "2026-11-16"
+ },
+ "arm": {
+  "name": "Arm",
+  "sector": "Semiconductors",
+  "description": "UK chip design company whose CEO was approached by Nvidia's board.",
+  "first_added": "2026-11-16",
+  "last_mentioned": "2026-11-16"
+ },
+ "halcyon": {
+  "name": "Halcyon",
+  "sector": "Cybersecurity",
+  "description": "Anti-ransomware platform tracking a rise in ransomware attacks.",
+  "first_added": "2026-11-16",
+  "last_mentioned": "2026-11-16"
+ },
+ "emami": {
+  "name": "Emami",
+  "sector": "Consumer goods",
+  "description": "Indian personal care and healthcare FMCG company.",
+  "first_added": "2026-11-16",
+  "last_mentioned": "2026-11-16"
+ },
+ "uppercase": {
+  "name": "Uppercase",
+  "sector": "Consumer goods",
+  "description": "Luggage brand that raised prices 15% on cost pressure.",
+  "first_added": "2026-11-16",
+  "last_mentioned": "2026-11-16"
+ },
+ "wellbeingnutrition": {
+  "name": "Wellbeing Nutrition",
+  "sector": "Consumer goods",
+  "description": "Indian nutrition brand absorbing and passing on whey protein cost hikes.",
+  "first_added": "2026-11-16",
+  "last_mentioned": "2026-11-16"
+ },
+ "storytv": {
+  "name": "Story TV",
+  "sector": "Media",
+  "description": "Microdrama app with 98.3 million downloads but weak retention.",
+  "first_added": "2026-11-16",
+  "last_mentioned": "2026-11-16"
+ },
+ "oisterglobal": {
+  "name": "Oister Global",
+  "sector": "Venture capital",
+  "description": "Private markets investor launching a Rs 400 crore deeptech fund.",
+  "first_added": "2026-11-16",
+  "last_mentioned": "2026-11-16"
+ },
+ "investindia": {
+  "name": "Invest India",
+  "sector": "Investment promotion",
+  "description": "India's national investment promotion agency.",
   "first_added": "2026-11-16",
   "last_mentioned": "2026-11-16"
  }
