@@ -116,7 +116,7 @@
   "sector": "Consumer electronics",
   "description": "South Korean conglomerate making memory chips, smartphones and displays; competing in high-bandwidth memory.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-16"
+  "last_mentioned": "2026-11-17"
  },
  "skhynix": {
   "name": "SK Hynix",
@@ -1432,7 +1432,7 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-16"
+  "last_mentioned": "2026-11-17"
  },
  "citi": {
   "name": "Citi",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-16"
+  "last_mentioned": "2026-11-17"
  },
  "accenture": {
   "name": "Accenture",
@@ -4981,7 +4981,7 @@
   "sector": "Government",
   "description": "Indian state partnering with IBM on a quantum computing initiative.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-17"
  },
  "comoros": {
   "name": "Comoros",
@@ -9111,7 +9111,7 @@
   "sector": "Networking hardware",
   "description": "Router maker that released fixes for six RouterOS flaws found with OpenAI's models.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-11-17"
  },
  "volvocars": {
   "name": "Volvo Cars",
@@ -19491,6 +19491,69 @@
   "name": "Policybazaar",
   "sector": "Insurance",
   "description": "Online insurance marketplace operated by PB Fintech.",
+  "first_added": "2026-11-17",
+  "last_mentioned": "2026-11-17"
+ },
+ "baidu": {
+  "name": "Baidu",
+  "sector": "AI",
+  "description": "Chinese search and AI company whose head warned of an AI bubble amid falling revenue.",
+  "first_added": "2026-11-17",
+  "last_mentioned": "2026-11-17"
+ },
+ "zelle": {
+  "name": "Zelle",
+  "sector": "Payments",
+  "description": "US payments network slowed for transactions involving Chase customers.",
+  "first_added": "2026-11-17",
+  "last_mentioned": "2026-11-17"
+ },
+ "strandlifesciences": {
+  "name": "Strand Life Sciences",
+  "sector": "Healthcare",
+  "description": "Reliance-owned genomics firm signing a healthcare collaboration letter with AstraZeneca.",
+  "first_added": "2026-11-17",
+  "last_mentioned": "2026-11-17"
+ },
+ "astrazenecapharmaindia": {
+  "name": "AstraZeneca Pharma India",
+  "sector": "Pharmaceuticals",
+  "description": "Indian arm of AstraZeneca exploring healthcare collaboration with Strand Life Sciences.",
+  "first_added": "2026-11-17",
+  "last_mentioned": "2026-11-17"
+ },
+ "everestindustries": {
+  "name": "Everest Industries",
+  "sector": "Building materials",
+  "description": "Appointed Reliance's former solar glass technology GM as Head of R&D.",
+  "first_added": "2026-11-17",
+  "last_mentioned": "2026-11-17"
+ },
+ "heraeus": {
+  "name": "Heraeus",
+  "sector": "Precious metals",
+  "description": "Precious metals analysts commenting on gold prices and silver coin sales.",
+  "first_added": "2026-11-17",
+  "last_mentioned": "2026-11-17"
+ },
+ "ncmec": {
+  "name": "NCMEC",
+  "sector": "Nonprofit",
+  "description": "Its CyberTipline helped train OpenAI's new CSAM image classifier.",
+  "first_added": "2026-11-17",
+  "last_mentioned": "2026-11-17"
+ },
+ "safetykit": {
+  "name": "SafetyKit",
+  "sector": "AI safety",
+  "description": "Partner that detected 90% of sexualized drawings in OpenAI classifier tests.",
+  "first_added": "2026-11-17",
+  "last_mentioned": "2026-11-17"
+ },
+ "brent": {
+  "name": "Brent",
+  "sector": "Commodities",
+  "description": "Not enough detail in today's digest",
   "first_added": "2026-11-17",
   "last_mentioned": "2026-11-17"
  }
