@@ -3,8 +3,8 @@ METRICS
 NIFTY PE | 20.60 | 16 Nov 2026 | https://nifty-pe-ratio.com/
 Gold per 10g 24K | ₹1,36,790 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 25,291.10 (+0.98%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹60,75,606 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $64,790 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹60,65,635 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $64,620 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -13,11 +13,11 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   16 Nov 2026 | https://www.business-standard.com/markets/news/23-companies-to-see-ipo-lock-in-expiry-by-nov-end-jio-platforms-in-focus-126111600876_1.html
-  • Jio Platforms will see around 13% of its total shares become eligible for trading as anchor investor lock-in expires by November 30, 2026. ¶ • Jio Platforms is in talks with ISRO, Skyroot Aerospace and other domestic launch providers for its planned 1,600-satellite low Earth orbit constellation, with an initial 390 satellites to launch over two years. ¶ • Jio stopped accepting new claims for its free Google AI Pro subscription on October 29, 2026, a year after the offer launched; existing users keep access for up to 18 months. ¶ • Jio Platforms shares rose 2% as the BSE Telecommunication index gained 1% to 3,815.86, with Jio trading 25% above its IPO issue price of ₹1,119. ¶ • Jio Platforms reported Q2 FY27 net profit of ₹8,387 crore, up 13.7% from ₹7,379 crore a year earlier, on operating revenue of ₹40,475 crore, up 11.4% YoY. ¶ ↗ business-standard.com|https://www.business-standard.com/markets/news/23-companies-to-see-ipo-lock-in-expiry-by-nov-end-jio-platforms-in-focus-126111600876_1.html ;; inc42.com|https://inc42.com/buzz/jio-ends-new-sign-ups-for-free-google-ai-pro-subscription/ ;; business-standard.com|https://www.business-standard.com/markets/news/bharti-airtel-voda-idea-jio-platforms-rally-up-to-3-here-s-why-telecom-related-stocks-are-in-demand-today-126111600774_1.html ;; communicationstoday.co.in|https://www.communicationstoday.co.in/jio-weighs-domestic-launch-partners-for-1600-satellite-broadband-constellation/
+  • Jio Platforms will see about 13% of its total shares become eligible for trading when its IPO anchor lock-in expires by November 30, 2026. ¶ • Jio Platforms shares trade 25% above their IPO issue price, according to PL Capital's report on the 30-day lock-in group. ¶ • Jio stopped accepting new claims for its free Google AI Pro subscription on October 29, 2026, a year after the offer launched. ¶ • Jio Platforms is in talks with ISRO, Skyroot Aerospace and SpaceX to launch a planned constellation of about 1,600 low Earth orbit satellites within two years. ¶ • Jio Platforms reported Q2 FY27 net profit of ₹8,387 crore, up 13.7% from ₹7,379 crore a year earlier, on operating revenue of ₹40,475 crore. ¶ ↗ business-standard.com|https://www.business-standard.com/markets/news/23-companies-to-see-ipo-lock-in-expiry-by-nov-end-jio-platforms-in-focus-126111600876_1.html ;; inc42.com|https://inc42.com/buzz/jio-ends-new-sign-ups-for-free-google-ai-pro-subscription/ ;; wocult.com|https://www.wocult.com/news/jio-skyroot-isro-satellite-internet-launches ;; analyticsinsight.net|https://www.analyticsinsight.net/news/jio-ends-free-google-ai-pro-claims-what-current-users-should-know
 
 - Outlook: Neutral
   2026-11-17 |
-  §VIEW§{"stance": "neutral", "text": "Satellite and AI subscription news are strategic but revenue is years away, while the near-term share unlock adds supply. Q2 profit growth of 13.7% and a 25% gain over IPO price offset that, leaving the flow split."}
+  §VIEW§{"stance": "neutral", "text": "Lock-in expiry frees about 13% of shares for trading, a supply risk, while the stock trades 25% above issue price and Q2 FY27 profit rose 13.7%. The satellite and AI offer news are strategic, not near-term earnings drivers."}
 
 [Reliance Intelligence]
 
@@ -25,74 +25,85 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   16 Nov 2026 | https://www.constructionworld.in/energy-infrastructure/coal-and-mining/reliance-industries-to-invest-rs.-430-bn-in-andhra-coal-project/100398
-  • Reliance signed a memorandum of understanding with Andhra Pradesh to invest ₹430 bn over two years in an integrated underground coal gasification project in Eluru district. ¶ • The project has an overall investment potential of ₹2.7 tn across three phases, with Phase 1 at ₹30 bn for exploration and feasibility and Phase 2 at about ₹400 bn for commercial development. ¶ • Reliance, ONGC and BP are examining a shared offshore gas facility costing around US$1 bn in the Mahanadi basin, with discussions still preliminary and no investment confirmed. ¶ • The Mahanadi talks follow ONGC's gas discovery in well MN-DW18-1-H-D on 18 September 2026, about 43 km off Konark, Odisha, which flowed gas between 1,441 and 1,452 metres. ¶ • Reliance and ONGC signed a resource-sharing agreement on 27 January 2026 for deepwater exploration on India's east coast, covering the Krishna Godavari basin and Andaman offshore. ¶ ↗ constructionworld.in|https://www.constructionworld.in/energy-infrastructure/coal-and-mining/reliance-industries-to-invest-rs.-430-bn-in-andhra-coal-project/100398 ;; constructionworld.in|https://www.constructionworld.in/energy-infrastructure/oil-and-gas/ongc-bp-and-reliance-weigh-us1-bn-mahanadi-gas-hub/100380
+  • Reliance signed a memorandum with Andhra Pradesh to invest ₹430 bn over two years in an underground coal gasification project in Eluru district. ¶ • The project has an overall investment potential of ₹2.7 tn across three phases and is expected to create 5,000 direct jobs. ¶ • Phase 1 commits ₹30 bn for exploration and a pilot, while Phase 2 carries an initial ₹400 bn for commercial development. ¶ • ONGC, BP and Reliance are examining a shared Mahanadi basin gas facility costing around US$1 bn, with talks still preliminary. ¶ • Reliance and ONGC already hold a January 2026 resource-sharing agreement for east coast deepwater exploration and production. ¶ ↗ constructionworld.in|https://www.constructionworld.in/energy-infrastructure/coal-and-mining/reliance-industries-to-invest-rs.-430-bn-in-andhra-coal-project/100398 ;; constructionworld.in|https://www.constructionworld.in/energy-infrastructure/oil-and-gas/ongc-bp-and-reliance-weigh-us1-bn-mahanadi-gas-hub/100380
 
 - Outlook: Bullish
   2026-11-17 |
-  §VIEW§{"stance": "bullish", "text": "Reliance is expanding its energy footprint with a Rs. 430 bn Andhra coal gasification project and a possible US$1 bn Mahanadi gas hub. Both are early-stage, so near-term earnings impact is limited."}
+  §VIEW§{"stance": "bullish", "text": "Two large energy commitments, Rs. 430 bn in Andhra coal gasification and a possible US$1 bn Mahanadi gas hub, expand Reliance's upstream and feedstock reach. Both remain early-stage, so execution and approvals decide the payoff."}
 
 [Flipkart]
 
 - ~
-  16 Nov 2026 | https://www.animationxpress.com/latest-news/kuku-tv-brings-flipkart-supercoins-into-the-microdrama-mix/
-  • Flipkart teased the Motorola Edge 70 Neo on a live microsite, confirming the phone's India launch without a date. ¶ • Kuku TV partnered with Flipkart to give up to 100 per cent of microdrama subscription value back in SuperCoins. ¶ • The Edge 70 Neo is tipped to carry a 6.78-inch 1.5K 144Hz display and Snapdragon 7s Gen 3 chipset. ¶ • Leaks point to a 7,000mAh battery with 45W charging and a 50MP Sony LYTIA 710 main camera. ¶ • Flipkart's bank card offers on the iPhone 17 reach about ₹7,016, beating Amazon's ₹3,299 discount. ¶ ↗ animationxpress.com|https://www.animationxpress.com/latest-news/kuku-tv-brings-flipkart-supercoins-into-the-microdrama-mix/ ;; in.mashable.com|https://in.mashable.com/tech/116195/motorola-edge-70-neo-india-launch-imminent-flipkart-teases-new-smartphone ;; thetechoutlook.com|https://www.thetechoutlook.com/new-release/gadgets-release/mobile/motorola-edge-70-neo-india-launch-teased-official-poster-and-flipkart-microsite-reveal-rear-design/ ;; timesbull.com|https://www.timesbull.com/iphone-17-on-flipkart-vs-amazon-where-can-you-get-the-best-deal/
+  16 Nov 2026 | https://www.thetechoutlook.com/new-release/gadgets-release/mobile/motorola-edge-70-neo-india-launch-teased-official-poster-and-flipkart-microsite-reveal-rear-design/
+  • Motorola teased the Edge 70 Neo India launch with a Flipkart microsite showing a square camera module with three lenses and a circular flash. ¶ • The Flipkart page is a coming-soon campaign, not a sale, with no Indian price or confirmed launch date. ¶ • Flipkart's page address includes 'nov26', which may suggest November 26 but could mean the month and year. ¶ • The teaser highlights a 50MP Sony LYTIA camera with Ultra HDR and optical stabilisation, plus a photo-editing feature that adds objects via written requests. ¶ • For the iPhone 17 256GB, Amazon sells at around ₹92,900 while Flipkart sells at around ₹94,999, but Flipkart offers bank card discounts of around ₹7,016. ¶ ↗ thetechoutlook.com|https://www.thetechoutlook.com/new-release/gadgets-release/mobile/motorola-edge-70-neo-india-launch-teased-official-poster-and-flipkart-microsite-reveal-rear-design/ ;; businessupturn.com|https://businessupturn.com/technology/motorola-teases-edge-70-neo-india-launch-as-flipkart-page-reveals-camera-design/ ;; timesbull.com|https://www.timesbull.com/iphone-17-on-flipkart-vs-amazon-where-can-you-get-the-best-deal/
 
 - Outlook: Neutral
   2026-11-17 |
-  §VIEW§{"stance": "neutral", "text": "Flipkart gains a loyalty tie-up and a Motorola launch exclusive, plus stronger iPhone 17 card discounts than Amazon. But the phone's specs and pricing stay unconfirmed, so the flow is balanced."}
+  §VIEW§{"stance": "neutral", "text": "Flipkart gains a new exclusive Motorola launch and leads on bank offers for the iPhone 17, but Amazon undercuts it on upfront iPhone price. The news flow splits between these positives and negatives."}
 
 [Zomato]
-
-- ~
-  16 Nov 2026 | https://www.tradingview.com/news/moodys:1731765d15fa1:0-swiggy-vs-eternal-which-stock-has-the-stronger-growth-and-better-earnings-outlook-after-q2-results/
-  • Eternal's Q2 FY27 consolidated net profit rose 92% YoY to ₹125 crore, with revenue up 77.6% to ₹24,138 crore. ¶ • Blinkit's net order value jumped 79.3% YoY to ₹20,940 crore, and the network added 308 stores to reach 2,751. ¶ • Zomato's food-delivery net order value grew 21.5% YoY to ₹11,445 crore, with adjusted EBITDA of ₹627 crore, 5.5% of NOV. ¶ • Eternal is reviewing its 2030 target for a 100% electric delivery fleet, as riders grew to 12 lakh from 1.5 lakh. ¶ • The Madras High Court restrained Blinkit from using CSK fan Saravanan Hari's persona without consent, in a ₹1.1 crore damages suit. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:1731765d15fa1:0-swiggy-vs-eternal-which-stock-has-the-stronger-growth-and-better-earnings-outlook-after-q2-results/ ;; adgully.com|https://www.adgully.com/post/23839/eternal-reviews-2030-target-for-100-electric-delivery-fleet ;; lawchakra.in|https://lawchakra.in/high-court/madras-high-court/saravanan-hari-persona/ ;; barandbench.com|https://www.barandbench.com/news/litigation/madras-high-court-bars-blinkit-from-using-csk-fan-saravanan-haris-persona-without-consent
-
-- Outlook: Bullish
-  2026-11-17 |
-  §VIEW§{"stance": "bullish", "text": "Eternal's 92% profit jump and Blinkit's 79.3% NOV growth show quick commerce scaling profitably. The EV target review and the persona suit are manageable, not earnings threats."}
 
 [HAL]
 
 - ~
   16 Nov 2026 | https://aviationweek.com/defense/aircraft-propulsion/indian-industry-awaits-amca-development-decision-years-end
-  • HAL is excluded from the ₹15,000 crore AMCA stealth fighter program, with Tata Advanced Systems, Larsen & Toubro and Bharat Forge consortia bidding to build five prototypes. ¶ • HAL's September quarter revenue from operations rose 14.9% YoY and net profit grew 16.0% YoY, though operating EBITDA margin fell to 22.85% from 23.50%. ¶ • The IAF expects to induct the first Tejas Mk-1A squadron before March 31, 2027, with 180 aircraft contracted in two tranches of 83 and 97. ¶ • HAL's order book stood at ₹2.54 lakh crore at the end of FY26, 7.5 times trailing twelve-month revenue, with FY26 revenue at ₹32,250 crore. ¶ • Tejas Mk-1A deliveries were originally scheduled from February 2024 but slipped on integration issues and delayed GE engine supply. ¶ ↗ aviationweek.com|https://aviationweek.com/defense/aircraft-propulsion/indian-industry-awaits-amca-development-decision-years-end ;; airdatanews.com|https://www.airdatanews.com/three-indian-groups-compete-to-develop-amca-stealth-fighter-without-hal/ ;; upstox.com|https://upstox.com/news/market-news/stocks/hindustan-aeronautics-bharat-electronics-and-bdl-q2-revenue-rises-across-defence-ps-us-but-profit-growth-varies/article-203496/ ;; sahi.com|https://www.sahi.com/news/hindustan-aeronautics-set-to-deliver-180-tejas-jets-as-iaf-targets-full-squadron
+  • HAL's September-quarter revenue rose 14.9% YoY and net profit grew 16.0% YoY, with net margin improving to 25.42% from 25.18%. ¶ • HAL's operating EBITDA margin, a measure of core profitability, fell to 22.85% from 23.50% YoY as material costs took a larger share of revenue. ¶ • The IAF expects to induct the first Tejas Mk-1A before March 31, 2027, against an original schedule of February 2024, after engine supply and integration delays. ¶ • The ₹15,000 crore AMCA stealth fighter program will proceed without HAL, with Tata Advanced Systems, Larsen & Toubro and Bharat Forge consortia bidding to build five prototypes. ¶ • HAL is also working on the larger Tejas Mk-2, which the IAF chief said may roll out next year. ¶ ↗ aviationweek.com|https://aviationweek.com/defense/aircraft-propulsion/indian-industry-awaits-amca-development-decision-years-end ;; airdatanews.com|https://www.airdatanews.com/three-indian-groups-compete-to-develop-amca-stealth-fighter-without-hal/ ;; upstox.com|https://upstox.com/news/market-news/stocks/hindustan-aeronautics-bharat-electronics-and-bdl-q2-revenue-rises-across-defence-ps-us-but-profit-growth-varies/article-203496/ ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/defence/news/iafs-long-wait-for-tejas-mk-1a-nears-end-why-it-matters/articleshow/135877014.cms
 
 - Outlook: Neutral
   2026-11-17 |
-  §VIEW§{"stance": "neutral", "text": "HAL's Q2 revenue and profit grew and its Rs 2.54 lakh crore order book gives visibility, but the AMCA program now excludes HAL and Tejas Mk-1A deliveries remain engine-dependent. Execution decides direction."}
+  §VIEW§{"stance": "neutral", "text": "HAL's Q2 revenue and profit grew double digits, but its core margin slipped and the AMCA program is going to private bidders. Tejas Mk-1A deliveries and Mk-2 progress decide the next leg."}
 
 [Tejas Networks]
 
 [Dmart]
 
+- 2.1 Lakh Crore Market Cap Stocks to Buy in Nov 2026: Top 5 Picks
+  16 Nov 2026 | https://univest.in/blogs/two-point-one-lakh-crore-market-cap-stocks-to-buy
+  Five 2.1 lakh crore market cap stocks to buy on the November 2026 watchlist are Eicher Motors, TVS Motor Company, Tata Steel, Avenue Supermarts and Grasim Industries. All five grew revenue in their latest full year, and all five also grew…
+
 [Godigit Insurance]
 
 [Infoedge/Naukri]
 
+- Bharat Semi raises $24 Mn in seed round from Info Edge, South Park Common, others
+  16 Nov 2026 | https://entrackr.com/news/bharat-semi-raises-24-mn-in-seed-round-from-info-edge-south-park-common-others-12812801
+  Semiconductor startup Bharat Semi has raised $24 million in a seed funding round led by Info Edge Group, South Park Commons and Indus Bridge Ventures. The round also saw participation from Micromax, Valour Capital, New York-based Gaingels…
+
+- Info Edge Appoints Shivam Arora as Senior Vice President & Head of Marketing – Jeevansathi
+  16 Nov 2026 | https://hrtoday.in/info-edge-appoints-shivam-arora-as-senior-vice-president-head-of-marketing-jeevansathi/
+
+- Info Edge schedules investor meets with UTI, ICICI, Axis on Nov 19-20
+  16 Nov 2026 | https://scanx.trade/stock-market-news/companies/info-edge-schedules-investor-meets-uti-icici-axis-nov-19-20/56377202
+  Info Edge (India) Ltd shareholders have approved the appointment of Himanshu Agarwal as Whole-time Director and Chief Financial Officer, and Naresh Chand Gupta as a Non-Executive Independent Director. The resolutions were passed through…
+
+- Bharat Semi Raises $24 Million, Targets Surveillance and Consumer Devices Before Expanding AI Sensors to Robotics
+  16 Nov 2026 | https://ascendants.in/business-stories/bharat-semi-raises-24-million-seed-funding-ai-sensors/
+  Bharat Semi has secured $24 million in seed funding from a group of investors led by Info Edge, South Park Commons and Indus Bridge Ventures, as the startup develops programmable sensors designed to bring artificial intelligence closer to…
+
 [Bitcoin]
 
-- Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly
-  16 Nov 2026 | https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html
+- Bitcoin's November rout echoes past crypto downturns
+  16 Nov 2026 | https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFM1RFZURXdyZUlzalo1dW1CcWhaWjJFTEFxVk9EUDFoYjhKS3ZPdlFxMDRWRHZIVy12SExteV9NZ2RiZThpZ0RNdDNCNlJZSGpFZFdLV1JONlBETkhNUXhSWTRCNHY2V05zUVBHVVl5X1ZfZnJpZW41OFdVTmlDRmlLakVTZGhqSlVFWWhLV2FLUjN2WnBzSjNFandleW8wTHlXQnBLUG9rRHZD?oc=5
 
 - Three Reasons Behind Bitcoin’s Selloff This Month
-  16 Nov 2026 | https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-11-16-2026/card/three-reasons-behind-bitcoin-s-selloff-this-month-1qzg2ANrWXBDc0k5HBY0
+  17 Nov 2026 | https://news.google.com/rss/articles/CBMi7AFBVV95cUxQd1JhVHhmRklzUDBnSFNsMktFYkdycHlVQ0UtQmtST1VvLV8xUGtpblFUSktSVzhIQVFwbHhZZHlfNVpVZmFsb3VhUG5fMzZnSHp3cHotZVFrbnB6WDcwLWVpeEhnTXVqTjV6Y2FhNzV3dDM3bnFidG1sMjF3YjZCZkFNSjJscHgwN25ORWlraEFSeDhQei1wUmM1Z3NPdXgybi05am52bXhOOEF4RnhSRHJOMklZQ2phM2VpdE9RZDBwT2xWMS1TWE1YVnEtZEExTTV1SHMtNHloQWpQOUZfcXNVTEZnZEk4ZlUxMA?oc=5
 
-- Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off
-  16 Nov 2026 | https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off
+- As Bitcoin Plummets, Trump Media Warns It May Have To Sell Some To Repay Noteholders. Here’s Why Nov. 30 Is The Key Date For Its $1 Billion In Notes
+  17 Nov 2026 | https://finance.yahoo.com/markets/crypto/articles/bitcoin-plummets-trump-media-warns-022454401.html
+  Trump Media (DJT) faces a Nov. 30 deadline when holders of its $1 billion in notes can demand cash buybacks, and it may sell bitcoin.
 
-- Stock Market Midday, Nov. 16: Nasdaq Tumbles as Wall Street Braces for Nvidia Earnings and Bitcoin Slides
-  16 Nov 2026 | https://finance.yahoo.com/markets/stocks/articles/stock-market-midday-nov-16-174502059.html
-  Wall Street extended its recent losses on Monday, November 16, as mounting selling pressure across technology and cryptocurrency markets weighed on investor sentiment ahead of Nvidia's highly anticipated earnings report. As of 11:31 a.m.…
+- Strategy Stock Today: How To Make A Bear Put Spread Profit From Further Potential Downside
+  16 Nov 2026 | https://news.google.com/rss/articles/CBMirwFBVV95cUxOUU85cFZ5NFpjbWs4ek91Y0l4MjEtYlRBX0JrY01GaGN0TTVBV1RXeUstV1RVQnN4dHU3ZjgzNVU0Ylhtd2lweEJKMVR5RHNKUzE1ZVVHOVpLTlRWZWxuenJWdlpJYjQyd29YTmdyVF9fSEZzVjNCakV1NDFHZzlYQkhxUjNYUkk3akdNelpsc0lRUjlFVE80ck5maThuRFFRRjg4NU1VMmpNSjN2eGtz?oc=5
 
 [Gold]
 
 - ~
-  16 Nov 2026 | https://www.kitco.com/news/article/2026-11-16/gold-price-slides-fed-hike-bets-rise-silver-bar-and-coin-sales-drop-despite
-  • Spot gold fell to $3,830.74 an ounce, its lowest since October 2025, before steadying near $3,858, as October CPI rose 0.4% month-on-month against 0.3% expected. ¶ • Markets now fully price a 25 bp December Fed hike, with about a 10% chance of 50 bp, after core inflation ran at 0.3% for a third straight month. ¶ • Goldman Sachs expects gold to take about two years to reclaim its record, forecasting $4,650 an ounce by end-2027 and $5,600 by end-2028 once the Fed cuts. ¶ • Perth Mint gold sales fell 30% month-on-month to 32.9 koz in October, while silver minted-product sales dropped 36% to 389 koz despite lower prices. ¶ • Schroders stays bullish long term on de-dollarization and fiscal debasement, and sees a sharp year-end rally if energy prices ease and bearish positioning unwinds. ¶ ↗ kitco.com|https://www.kitco.com/news/article/2026-11-16/gold-price-slides-fed-hike-bets-rise-silver-bar-and-coin-sales-drop-despite ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/135871223.cms ;; mining.com|https://www.mining.com/web/goldman-forecasts-gold-price-to-take-two-years-to-recapture-all-time-highs/ ;; kitco.com|https://www.kitco.com/news/article/2026-11-16/gold-could-see-sharp-year-end-rally-energy-pressures-ease-long-term-bull
+  17 Nov 2026 | https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/135871223.cms
+  • Spot gold fell 0.6% to $3,858.40 per ounce, touching $3,830.74, its lowest level since October 2025. ¶ • October CPI rose 0.4% month-on-month, above the 0.3% expected, and core inflation rose 0.3% for a third straight month, lifting Fed hike bets. ¶ • The two-year Treasury yield sits near 4.76%, roughly 75 bp above the upper bound of the Federal Funds Target Range, signaling expected tightening beyond December. ¶ • Spot silver dropped 3.6% to $46.98 per ounce, and the Perth Mint's October silver sales fell 36% month-on-month to 389 koz. ¶ • The New York Fed's Empire State Manufacturing Survey fell to 7.8 in November from 25.5 in October, below the 17.6 forecast, yet gold still slipped 0.43% to $3,867 an ounce. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/135871223.cms ;; kitco.com|https://www.kitco.com/news/article/2026-11-16/gold-price-slides-fed-hike-bets-rise-silver-bar-and-coin-sales-drop-despite ;; usatoday.com|https://www.usatoday.com/story/money/personalfinance/2026/11/16/gold-price-on-november-16-2026/92807016007/ ;; kitco.com|https://www.kitco.com/news/article/2026-11-16/gold-price-struggles-even-new-york-feds-empire-state-survey-weakens
 
 - Outlook: Bearish
   2026-11-17 |
-  §VIEW§{"stance": "bearish", "text": "Hot October CPI and a fully priced December hike are pushing real yields and the dollar up, dragging gold to a one-year low near $3,830. Near-term flow stays weak until the Fed signals cuts."}
+  §VIEW§{"stance": "bearish", "text": "Hotter October CPI and rising Treasury yields keep a December Fed hike fully priced, pressuring gold to a one-year low. Weak manufacturing data failed to draw safe-haven bids, so near-term flow stays bearish."}
 
 ============================================================
 
@@ -104,7 +115,7 @@ SOURCE 8: AI News
 
 [OpenAI] Strengthening the fight against online child sexual abuse with new tools and support
   16 Nov 2026 | https://openai.com/index/strengthening-online-child-safety
-  • Today, we’re releasing a new tool to detect child sexual abuse material (CSAM), interventions that interrupt harmful behavior and point people toward help, practical resources for developers, and support for child-safety law enforcement investigators. ¶ • These efforts build on our Child Safety Blueprint and our ongoing work to detect, block, and report abuse. ¶ • For parents, the goal is simple: technology that helps keep children safe, with people in control.
+  • OpenAI released a new image classifier that detects potential child sexual abuse material (CSAM), including AI-generated images, and flags it for reviewers. ¶ • The classifier is the first broadly available CSAM tool with a specific signal indicating whether material may be AI generated, trained with help from NCMEC's CyberTipline. ¶ • In tests, the classifier flagged 48% fewer images while finding roughly the same abusive images, and flagged images were about twice as likely to contain abuse. ¶ • Partner tests showed fal reviewers confirmed 72% of high-confidence flags as novel CSAM, invideo AI saw one in four flags lead to a ban, and SafetyKit detected 90% of sexualized drawings. ¶ • OpenAI is offering free API access to vetted organizations and adding ChatGPT warnings that interrupt abuse attempts, remove flagged conversations, and pause access for 24 hours.
 
 [OpenAI] Science at the Frontier: How scientists use ChatGPT
   16 Nov 2026 | https://openai.com/index/science-at-the-frontier
@@ -144,7 +155,7 @@ SOURCE 8: AI News
 
 [Open Claw Newsletter] Repairs and Reservations in One Chat
   16 Nov 2026 | https://newsroom.biltrewards.com/Windsor-neighborhoodOS
-  • Leading multifamily operator brings Bilt Neighborhood OS to residents nationwide, creating a more seamless connection to property services, neighborhood businesses and personalized benefits that extend their living experience beyond the front door. ¶ • 10, 2026 — Windsor Communities, a leading multifamily owner and operator, and Bilt , the neighborhood commerce and rewards platform, today announced the deployment of Bilt Neighborhood OS ™, across Windsor’s portfolio of more than 50,000 homes. ¶ • The rollout brings property services, resident benefits, and neighborhood experiences together through a connected platform designed to make everyday life more convenient and rewarding.
+  • Windsor Communities is deploying Bilt Neighborhood OS across its portfolio of more than 50,000 homes, connecting property services, resident benefits and neighborhood businesses in one platform. ¶ • Neighborhood OS is an AI platform that integrates with Windsor's existing systems and links to Bilt's network of 50,000+ merchant partners. ¶ • Bilt says one in four U.S. apartment communities run on Bilt, and Windsor residents have redeemed Bilt Points worth more than $18 million to date. ¶ • A Bilt study with 451 Research by S&P Global found 83% of renters say one platform for rent payments to dinner reservations would meaningfully improve their experience. ¶ • Windsor associates can use the AI for routine tasks, freeing onsite teams to focus on service that strengthens resident loyalty and retention.
 
 [Open Claw Newsletter] Test Agents Impersonate Epoch Staff
   16 Nov 2026 | https://epoch.ai/publications/incident-report-ai-agents-attempted-exploits-on-our-website
@@ -192,39 +203,39 @@ SOURCE 2: The Hindu - Editorials
 
 SOURCE 5: The Hindu - Business (headlines + summary)
 
-[[Markets and Rupee]]
-
-- FPIs stage record November comeback as domestic investors turn net sellers
-  16 Nov 2026 | https://www.thehindu.com/business/fpis-stage-record-november-comeback-as-domestic-investors-turn-net-sellers/article71708488.ece
-  • Foreign portfolio investors bought a net ₹89,856 crore of Indian equities in the first two weeks of November, their highest-ever monthly inflow, after outflows of ₹34,843 crore in October. ¶ • Domestic institutional investors turned net sellers, offloading ₹52,607 crore so far in November, as the Nifty 50 narrowed its year-to-date losses to 3.3% from around 13% in October.
-
-- Rupee rises 27 paise to close at 93.92 against U.S. dollar
-  16 Nov 2026 | https://www.thehindu.com/business/Industry/rupee-rises-27-paise-to-close-at-9392-against-us-dollar/article71707732.ece
-  • The rupee appreciated 27 paise to close at 93.92 against the dollar on Monday, snapping a two-day decline on foreign fund inflows and a domestic market rally. ¶ • Brent crude fell 1.03% to $94.85 per barrel and FIIs bought ₹5,736.55 crore of equities on Friday, while India's forex reserves rose $2.49 billion to $719.547 billion.
-
-- Stock markets end higher on foreign fund inflows, lower crude oil; Sensex up 512 points
-  16 Nov 2026 | https://www.thehindu.com/business/Industry/stock-markets-end-higher-on-foreign-fund-inflows-lower-crude-oil-sensex-up-512-points/article71707675.ece
-  • Sensex rose 512.34 points, or 0.63%, to close at 82,104.79, and Nifty gained 146.80 points, or 0.58%, to 25,291.10 on Monday. ¶ • Foreign investors bought ₹84,290 crore of Indian equities in the first fortnight of November, while Brent crude fell 0.34% to $95.51 a barrel.
-
-- Stock markets rally in early trade led by foreign fund inflows, lower crude oil
-  16 Nov 2026 | https://www.thehindu.com/business/stock-markets-rally-in-early-trade-led-by-foreign-fund-inflows-lower-crude-oil/article71706819.ece
-  • Sensex rose 414.36 points to 82,010.15 and Nifty gained 102.10 points to 25,252.50 in early trade on Monday. ¶ • Foreign investors bought ₹5,736.55 crore of equities on Friday and ₹84,290 crore in the first fortnight of November, while Brent crude fell 0.88% to $95 a barrel.
-
-- Rupee rises 6 paise to 94.13 against U.S. dollar in early trade
-  16 Nov 2026 | https://www.thehindu.com/business/Industry/rupee-rises-6-paise-to-9413-against-us-dollar-in-early-trade/article71706772.ece
-  • The rupee opened at 94.22 and traded between 94.13 and 94.25, after closing at 94.19 on Friday. ¶ • Brent crude fell 1.03% to $94.85 a barrel and Sensex gained 414.36 points to 82,010.15, while the dollar index held at 103.44.
-
-[[Inflation and Taxes]]
+[[Inflation and Monetary Policy]]
 
 - Export duty on diesel hiked ₹2.5/litre, ATF ₹1.5/litre, petrol remains nil
   17 Nov 2026 | https://www.thehindu.com/business/Industry/export-duty-on-diesel-hiked-25litre-atf-15litre-petrol-remains-nil/article71710215.ece
   • The government raised the export duty on diesel by ₹2.5 per litre to ₹14 per litre and on aviation turbine fuel by ₹1.5 per litre to ₹12.5 per litre for the next fortnight. ¶ • Petrol exports stay duty-free and rates on fuel for domestic consumption are unchanged, as the fortnightly review aims to keep retail supply available by discouraging exports.
 
+- Indian central bank seeks review of Supreme Court’s Yes Bank AT-1 bonds order
+  16 Nov 2026 | https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece
+  • The RBI filed a review petition on November 13, 2026 against the Supreme Court order that set aside the write-off of ₹8,415 crore ($893.8 million) of Yes Bank AT-1 bonds. ¶ • Yes Bank told exchanges it filed its own review petition, while Axis Trustee Services filed a contempt petition over the bank's lack of a roadmap to restore the bonds.
+
 - Wholesale inflation rises to 12.3% in October 2026, second straight month of double-digit inflation
   16 Nov 2026 | https://www.thehindu.com/business/Economy/wholesale-price-inflation-october-government-data/article71707046.ece
   • India's wholesale price inflation rose to 12.29% in October 2026 from 11.39% in September, with the WPI at 113.3 versus 112.5. ¶ • Fuel and power inflation jumped to 32.84% from 25.85%, led by crude petroleum and natural gas at 70.80% and mineral oils at 45.57%.
 
-[[Tata Family and Business]]
+- Rupee rises 27 paise to close at 93.92 against U.S. dollar
+  16 Nov 2026 | https://www.thehindu.com/business/Industry/rupee-rises-27-paise-to-close-at-9392-against-us-dollar/article71707732.ece
+  • The rupee appreciated 27 paise to close at 93.92 against the dollar on Monday, helped by foreign fund inflows, a domestic market rally and softer crude. ¶ • Brent crude fell 1.03% to $94.85 a barrel, while the Sensex gained 512.34 points to 82,104.79 and FIIs bought ₹5,736.55 crore of equities on Friday.
+
+[[Markets and Foreign Flows]]
+
+- FPIs stage record November comeback as domestic investors turn net sellers
+  16 Nov 2026 | https://www.thehindu.com/business/fpis-stage-record-november-comeback-as-domestic-investors-turn-net-sellers/article71708488.ece
+  • Foreign portfolio investors bought a net ₹89,856 crore of Indian equities in the first two weeks of November, their highest-ever monthly inflow, after outflows of ₹34,843 crore in October. ¶ • Domestic institutional investors turned net sellers, offloading ₹52,607 crore so far in November, as the Nifty 50 narrowed its year-to-date losses to 3.3% from around 13% in October.
+
+- MCL fixes IPO price band at ₹129-136; Coal India to raise ₹9,000 cr.
+  16 Nov 2026 | https://www.thehindu.com/business/Industry/mcl-fixes-ipo-price-band-at-129-136-coal-india-to-raise-9000-cr/article71708776.ece
+  • Coal India subsidiary Mahanadi Coalfields set a ₹129-136 per share price band for its roughly ₹9,000-crore IPO, an offer for sale of 66.2 crore shares, or a 10% stake. ¶ • Bidding runs November 19 to 23; MCL made a net profit of ₹4,880.66 crore on revenue of ₹16,093.04 crore in the six months to September 30.
+
+- Sensex closes up 512 points as foreign inflows and lower crude lift Indian stocks
+  16 Nov 2026 | https://www.thehindu.com/business/Industry/stock-markets-end-higher-on-foreign-fund-inflows-lower-crude-oil-sensex-up-512-points/article71707675.ece
+  • The Sensex rose 512.34 points, or 0.63%, to 82,104.79, and the Nifty gained 146.80 points, or 0.58%, to 25,291.10 on Monday. ¶ • Foreign investors bought ₹84,290 crore of Indian equities in the first fortnight of November, while Brent crude fell to $95.51 a barrel.
+
+[[Tata Group Developments]]
 
 - Lakshmi Venu seeks partition of assets of Venu Srinivasan branch of TVS family
   16 Nov 2026 | https://www.thehindu.com/business/Industry/lakshmi-venu-seeks-formal-partition-of-assets-of-the-venu-srinivasan-branch-of-the-tvs-family/article71707438.ece
@@ -234,17 +245,7 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   16 Nov 2026 | https://www.thehindu.com/business/Industry/jimmy-tata-backs-tata-sons-listing-accuses-noel-of-back-door-takeover/article71708314.ece
   • Jimmy Naval Tata, 85, accused Tata Trusts Chairman Noel Tata of a back-door takeover of Tata Sons by filling the trusts with family members. ¶ • He said RBI-mandated listing of Tata Sons is now critical, and warned that breaking it up to avoid listing would be deeply damaging.
 
-[[Central Bank and Regulation]]
-
-- Indian central bank seeks review of Supreme Court’s Yes Bank AT-1 bonds order
-  16 Nov 2026 | https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece
-  • The RBI filed a review petition on November 13, 2026 against the Supreme Court order that set aside the write-off of ₹8,415 crore ($893.8 million) of Yes Bank AT-1 bonds. ¶ • Yes Bank told exchanges it filed its own review petition, while Axis Trustee Services filed a contempt petition over the bank's lack of a roadmap to restore the bonds.
-
-- Andhra’s proposed Investment Protection Act seeks to shield investors from policy U-turns
-  16 Nov 2026 | https://www.thehindu.com/news/national/andhra-pradesh/andhras-proposed-investment-protection-act-seeks-to-shield-investors-from-policy-u-turns/article71707378.ece
-  • Andhra Pradesh plans an Investment Protection Act, the first such law in India, to shield investors from policy reversals and pass it in the upcoming Assembly session. ¶ • Past reversals such as the three capitals fiasco, the July 2019 review of renewable energy power purchase agreements and a battery plant's 2019-24 move to Telangana dented investor confidence, which CII says the law would restore.
-
-[[Company Investment and Expansion]]
+[[Corporate Investment and Expansion]]
 
 - IBM investing $3 billion annually in India, plans $10 bn global quantum push: CEO
   16 Nov 2026 | https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece
@@ -258,9 +259,9 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   16 Nov 2026 | https://www.thehindu.com/business/Industry/pricol-targets-top-three-position-in-two-wheeler-polymer-segment-by-2030-after-dicvs-demerger/article71708941.ece
   • Pricol's board approved a share purchase agreement with Topaz Terrace Investments, a Warburg Pincus affiliate, for the promoter group's 38.51% stake in Pricol Autotech. ¶ • The demerged DICVS business posted about ₹2,400 crore revenue in FY26, nearly 60% of consolidated revenue, while Pricol shares fell 17.9% to ₹613.75 on Monday.
 
-- MCL fixes IPO price band at ₹129-136; Coal India to raise ₹9,000 cr.
-  16 Nov 2026 | https://www.thehindu.com/business/Industry/mcl-fixes-ipo-price-band-at-129-136-coal-india-to-raise-9000-cr/article71708776.ece
-  • Coal India subsidiary Mahanadi Coalfields set a ₹129-136 per share price band for its roughly ₹9,000-crore IPO, an offer for sale of 66.2 crore shares, or a 10% stake. ¶ • Bidding runs November 19 to 23; MCL made a net profit of ₹4,880.66 crore on revenue of ₹16,093.04 crore in the six months to September 30.
+- Andhra’s proposed Investment Protection Act seeks to shield investors from policy U-turns
+  16 Nov 2026 | https://www.thehindu.com/news/national/andhra-pradesh/andhras-proposed-investment-protection-act-seeks-to-shield-investors-from-policy-u-turns/article71707378.ece
+  • Andhra Pradesh plans an Investment Protection Act, the first such law in India, to shield investors from policy reversals and pass it in the upcoming Assembly session. ¶ • Past reversals such as the three capitals fiasco, the July 2019 review of renewable energy power purchase agreements and a battery plant's 2019-24 move to Telangana dented investor confidence, which CII says the law would restore.
 
 [[Jobs and Technology]]
 
@@ -286,6 +287,20 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
+[[US immigration and visas]]
+
+- U.S. federal court strikes down fixed terms for student, exchange visas
+  17 Nov 2026 | https://www.thehindu.com/news/international/us-federal-court-strikes-down-fixed-terms-for-student-exchange-visas/article71710228.ece
+  • Boston federal Judge F. Dennis Saylor ruled Monday that the Department of Homeland Security's July proposal to cap foreign students at four years and journalists at 240 days was arbitrary and unlawful. ¶ • The ruling keeps the Duration of Status policy, which lets students and journalists stay for the length of their programmes, after a September preliminary injunction and a DHS appeal.
+
+[[AI chips and export curbs]]
+
+- Singapore seeks ‘trusted access’ to AI chips after new US curbs
+  17 Nov 2026 | https://www.thehindu.com/sci-tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/article71710285.ece
+  • The US now requires licences for data centres worldwide to supply large volumes of advanced AI computing power to firms headquartered in China, Macau or arms-embargoed countries. ¶ • Singapore is in talks with US authorities on the rule's scope, which also covers chip shipments to Singapore, Malaysia, Thailand, Indonesia and Brazil over diversion risk.
+
+[[Sudan conflict]]
+
 - News Analysis | Drone warfare leaves no safe zones in Sudan
   17 Nov 2026 | https://www.thehindu.com/news/international/news-analysis-drone-warfare-leaves-no-safe-zones-in-sudan/article71708328.ece
   • A drone strike on a crowded transport hub near a market in Al-Dibab, West Kordofan State, killed at least 139 people on October 18, with a second drone hitting the same spot ten minutes later. ¶ • Eight days later, another drone strike on a market in Nyala, South Darfur, killed over 100 people, as the civil war between the SAF and RSF increasingly relies on unmanned aerial vehicles.
@@ -293,7 +308,97 @@ SOURCE 3: The Hindu - International (headlines + summary)
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Zomato steps up discounting, holds off fee hike as food delivery competition intensifies
+17 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/zomato-steps-up-discounts-insurance-caps-squeeze-distributors/articleshow/135907099.cms
+
+• Zomato is deploying deeper checkout discounts and zero delivery fees on orders above ₹49 for loyalty programme members.
+
+• Zomato is holding back platform fee increases during the festive season for the first time in three years.
+
+• Newer entrants like Rapido's Ownly, Swiggy's Toing, and Flipkart's Eat-in by Minutes are targeting price-sensitive consumers.
+
+• Eternal CFO Akshant Goyal said margins are expected to remain flattish over the next one or two years.
+
+### Proposed insurance commission caps could put distributor business models under pressure
+17 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/zomato-steps-up-discounts-insurance-caps-squeeze-distributors/articleshow/135907099.cms
+
+• PB Fintech said the proposed changes could put the viability of its loss-making PB Partners business under question.
+
+• PB Partners generated about ₹700 crore in revenue in the September quarter, or 32% of PB Fintech's consolidated operating revenue.
+
+• Turtlemint expects smaller, low-volume and single-product partners to exit as commissions shrink.
+
+• Distributors may increasingly turn to adjacent financial services like broking, mutual funds and loans to reduce dependence on insurance commissions.
+
+### SpaceX's Starship recovery could lower launch costs for Indian satellite companies
+17 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/zomato-steps-up-discounts-insurance-caps-squeeze-distributors/articleshow/135907099.cms
+
+• SpaceX successfully caught Starship's upper stage using the mechanical arms of its launch tower after an orbital flight.
+
+• The spacecraft deployed 26 Starlink satellites during the flight.
+
+• Full recovery of both stages is yet to be demonstrated.
+
+• Lower launch costs could intensify competition for Indian launch startups such as Skyroot Aerospace, Agnikul Cosmos, Astrobase and The Guild.
+
+### Microsoft outage impact
+17 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/zomato-steps-up-discounts-insurance-caps-squeeze-distributors/articleshow/135907099.cms
+
+• India's $315-billion IT services industry could have taken a $200-million hit from last week's Microsoft outage, per EIIRTrend.
+
+• The loss of connectivity left firms facing lost billable hours, delayed project execution, and additional costs related to delivery commitments.
+
+### Urban Company fundraise
+17 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/zomato-steps-up-discounts-insurance-caps-squeeze-distributors/articleshow/135907099.cms
+
+• Urban Company has launched a ₹2,500 crore qualified institutional placement (QIP).
+
+• The company set a floor price of ₹161.03 per share, a 6% discount to the stock's closing price Monday.
+
+• The funds will bolster operations, especially the instant house help vertical.
+
+### Dreamteam raises $53 million
+17 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/zomato-steps-up-discounts-insurance-caps-squeeze-distributors/articleshow/135907099.cms
+
+• Dreamteam, an AI-native CRM startup founded by former Freshworks executives, has raised $53 million.
+
+• The round was led by Together Fund, Accel, and Premji Invest.
+
+• The company aims to build an alternative to CRM platforms such as Salesforce and HubSpot.
+
+### Global pick: Carbon Emissions of Biggest U.S. Data Centers Already Rival Entire Countries, Study Reveals
+FT | https://www.nytimes.com/interactive/2026/11/16/climate/ai-data-center-pollution-carbon-emissions.html
+
+• The largest U.S. data centers emit an estimated 25.7 million metric tons of carbon dioxide annually, rivaling countries like Bolivia and Denmark.
+
+• The study in Nature Sustainability, led by Harvard researchers, examined 403 data centers from May 2024 to April 2025.
+
+• Those data centers used almost 2 percent of U.S. electricity, more than New York City and Los Angeles combined, with 54 percent from fossil fuels.
+
+• Researchers say the federal government should require large data centers to publicly disclose electricity use and emissions.
+
+### Global pick: The AI bubble could expose your deepest secrets
+BBC | https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets
+
+• A new research paper predicts AI autonomy by 2027 could lead to human extinction within a decade.
+
+• The article frames this as the question of whether AI might eliminate humanity.
+
+• AI fakery has already been used to scam people out of large sums of money and even attempt to sway elections.
+
+• The piece sits alongside coverage of AI in classrooms, where educator Sal Khan lays out an optimistic future.
+
+### Global pick: Nvidia Was Already in Trouble Before the Jensen Huang Mess
+Wired | https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/
+
+• Nvidia CEO Jensen Huang has left the company, with CFO Colette Kress now running it, as competitors close in.
+
+• Nvidia holds 80 percent of AI accelerator sales, but AMD's share rose from 2 percent in 2022 to 7-10 percent in 2026.
+
+• Google, Amazon and Microsoft are building their own AI chips to cut costs and reduce reliance on Nvidia.
+
+• China fell to 8 percent of Nvidia's revenue from 20 percent in 2024, while Huawei chips train Chinese models like Z.ai's.
 
 ============================================================
 
@@ -308,6 +413,10 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [Belrise Industries Ltd (BELRISE, +9.24%)]
 
+- ~
+  16 Nov 2026 | https://www.linkedin.com/posts/cnbc-tv18_belrise-industries-shares-rally-11-on-strong-activity-7527964597543276544-Gnmx
+  ## What the sector does ¶ • India's auto component industry supplies parts such as sheet metal, castings, polymer parts and suspension systems to vehicle makers, earning per-vehicle content revenue. ¶ • Revenue tracks two-wheeler, passenger car and commercial vehicle production volumes, while cost is driven by steel, aluminium and polymer resin prices. ¶ ## What the company does ¶ • Belrise Industries makes automotive sheet metal and casting parts, polymer components, suspension and mirror systems, with two-wheelers and three-wheelers contributing 79.7% of manufacturing revenue in the September quarter. ¶ • It earns from supplying Indian and global vehicle makers, and its manufacturing revenue rose 26% to ₹2,344 crore in the September quarter. ¶ ## Why it moved today ¶ • Belrise shares jumped about 12% to a one-month high of ₹241.50 on 16 November after September-quarter profit rose 25% year on year to ₹166.54 crore, reported Moneycontrol. ¶ • The company also announced a merger of H One India into Belrise and a licence agreement with Japan's Yamato for air and oil filters, per CNBC TV18. ¶ ## The numbers (Screener) ¶ • September-quarter sales were ₹2,746 crore, up 16.7% year on year, with net profit of ₹167 crore and operating margin of 12%. ¶ • The stock trades at a P/E of 41.8 and 3.19 times book value of ₹73.7, with ROCE of 14.5% and ROE of 12.6%. ¶ ## What the numbers say ¶ • Belrise's P/E of 41.8 sits below the peer median of about 54, but its ROCE of 14.5% trails Bosch's 21.5% and Schaeffler India's 27.9%. ¶ • September-quarter net profit rose 37% over the June quarter, though the 12% operating margin was flat, and the stock remains 12% below its 52-week high of ₹268. ¶ ↗ linkedin.com|https://www.linkedin.com/posts/cnbc-tv18_belrise-industries-shares-rally-11-on-strong-activity-7527964597543276544-Gnmx ;; moneycontrol.com|https://www.moneycontrol.com/news/business/stocks/belrise-industries-shares-jump-12-to-over-one-month-high-post-q2-results-emerges-top-performer-in-nifty-500-14081125.html ;; scanx.trade|https://scanx.trade/stock-market-news/companies/belrise-industries-q2-net-profit-up-25-1-67-billion-revenue-growth/56123256
+
 [Deepak Fertilisers Petrochemicals Corporation Ltd (DEEPAKFERT, +7.21%)]
 
 - ~
@@ -319,8 +428,8 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 [Kaynes Technology India Ltd (KAYNES, -13.12%)]
 
 - ~
-  16 Nov 2026 | https://www.tradingview.com/news/moneycontrol:bb112d884094b:0-kaynes-technology-shares-crash-20-hit-lower-circuits-as-q2-profit-plunges-62-brokerages-flag-margins-debt/
-  ## What the sector does ¶ • Electronics manufacturing services (EMS) companies design, assemble and test electronic products for other firms, selling to automakers, industrials, railways, defence, aerospace and medical device makers. ¶ • Revenue comes from converting components into finished boards and systems, so profit depends on order volumes, component costs, factory utilisation and working capital, with Indian players competing against global EMS giants and peers like Syrma SGS, Dixon and Zetwerk. ¶ ## What the company does ¶ • Kaynes Technology is a Mysuru-based end-to-end electronics manufacturing and IoT solutions company providing design, process engineering, integrated manufacturing and lifecycle support across automotive, industrial, aerospace, defence, railways, medical and IT segments. ¶ • It earns from manufacturing and design services, has an order book of ₹10,625.2 crore as of September 30, 2026, and is expanding into semiconductor assembly and testing (OSAT), printed circuit boards and display modules. ¶ ## Why it moved today ¶ • The stock fell 13.12% after Q2 FY27 consolidated net profit dropped 61.6% year-on-year to ₹45.4 crore and EBITDA margin contracted to 13.2% from 16.4%, with brokerages flagging weak smart metering revenue and rising debt. ¶ • Smart metering revenue fell about 80% year-on-year as the company deliberately scaled back that business, while consolidated net debt rose by roughly ₹1,000 crore in H1 FY27 to ₹1,700 crore. ¶ ## The numbers (Screener) ¶ • Stock P/E is 75.3, price to book is 4.06 times (book value ₹734), ROCE 12.7%, ROE 9.07%, and market cap ₹20,032 crore as of the digest date. ¶ • September 2026 quarter: sales ₹953 crore (up 4.4% year-on-year), operating profit ₹120 crore, OPM 13%, net profit ₹40 crore, EPS ₹6.76, versus net profit ₹77 crore in the December 2025 quarter. ¶ ## What the numbers say ¶ • At a P/E of 75.3, Kaynes trades above the peer median of 31.5 and above Syrma SGS (66.08) and Honeywell Auto (46.50), while its ROCE of 12.7% and ROE of 9.07% are below the peer median ROCE of 16.1%. ¶ • September quarter net profit fell 61.6% year-on-year and 11% sequentially from ₹45 crore, with OPM down to 13% from 16% in the March 2026 quarter, so the 13.12% fall reflects weak earnings rather than a cheap valuation. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moneycontrol:bb112d884094b:0-kaynes-technology-shares-crash-20-hit-lower-circuits-as-q2-profit-plunges-62-brokerages-flag-margins-debt/ ;; hdfcsky.com|https://hdfcsky.com/news/kaynes-technology-q2-profit-plunges-65-6-percent-to-rs-39-8-crore-shares-fall-around-14-percent ;; moneycontrol.com|https://www.moneycontrol.com/news/business/markets/kaynes-technology-eyes-clarity-on-smart-meter-installation-business-sale-by-february-seeks-to-improve-cash-flow-14081067.html
+  2026-11-17 |
+  ## What the sector does ¶ • Electronics manufacturing services (EMS) companies build printed circuit boards and finished electronic products for other firms, charging for design, assembly and lifecycle support. ¶ • Revenue comes from order volumes in autos, industrials, defence, railways and smart meters; costs are components, labour and working capital, so margins swing with mix and receivables. ¶ ## What the company does ¶ • Kaynes Technology provides end-to-end IoT-enabled electronics manufacturing, from conceptual design and process engineering to integrated manufacturing and lifecycle support, for automotive, industrial, aerospace, defence, space, nuclear, medical, railway and IT customers. ¶ • It has added smart metering, semiconductor packaging (OSAT), high-density interconnect PCBs and AI railway safety; with a ₹20,032 crore market cap it sits below Indo-MIM, Aditya Infotech and Zetwerk in the peer table. ¶ ## Why it moved today ¶ • The stock fell 13.12% to ₹2,980 after Q2 FY27 consolidated profit dropped 65.6% to ₹39.80 crore and EBITDA margin contracted to 13.2%, per the results reported by [niftytrader.in](https://www.niftytrader.in/markets/kaynes-technology-shares-price-q2-results/). ¶ • The selloff also followed a 76% fall in smart-metering revenue to ₹54 crore, gross borrowings rising to about ₹1,810 crore at September-end, and restatements of earlier financial statements, the same report said. ¶ ## The numbers (Screener) ¶ • September 2026 quarter: sales ₹953 crore, operating profit ₹120 crore, operating margin 13%, net profit ₹40 crore and EPS ₹6.76, against net profit ₹91 crore and EPS ₹13.61 in the March 2026 quarter. ¶ • The stock trades at a P/E of 75.3 and 4.06 times book value of ₹734, with ROCE of 12.7%, ROE of 9.07% and debtors at 154 days, Screener data shows. ¶ ## What the numbers say ¶ • At a P/E of 75.3, Kaynes is priced close to Aditya Infotech's 78.7 and above Syrma SGS's 66.1 and Honeywell Auto's 46.5, while its 12.7% ROCE is below the peer median of 16.1%. ¶ • September-quarter sales grew 4.43% and profit fell 61.58% year on year, far weaker than Syrma SGS's 73.64% sales growth and 83.05% profit growth, so the 13.12% fall reflects earnings and reporting concerns rather than sector-wide weakness.
 
 [Rhi Magnesita India Ltd (RHIM, -9.57%)]
 
