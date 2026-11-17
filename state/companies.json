@@ -3280,7 +3280,7 @@
   "sector": "Research",
   "description": "Research firm; reported a 22.4% year-on-year fall in worldwide PC shipments in Q3 2026.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-17"
  },
  "lenovo": {
   "name": "Lenovo",
@@ -9244,7 +9244,7 @@
   "sector": "Crypto exchange",
   "description": "Global cryptocurrency exchange; transferred BTC to Fidelity's ETF wallet.",
   "first_added": "2026-10-24",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-17"
  },
  "kilitchdrugs": {
   "name": "Kilitch Drugs",
@@ -18183,7 +18183,7 @@
   "sector": "Crypto asset management",
   "description": "US crypto asset manager; research says bitcoin explains about 50% of return variation across crypto sectors.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-17"
  },
  "itbp": {
   "name": "ITBP",
@@ -19554,6 +19554,13 @@
   "name": "Brent",
   "sector": "Commodities",
   "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-17",
+  "last_mentioned": "2026-11-17"
+ },
+ "troweprice": {
+  "name": "T. Rowe Price",
+  "sector": "Asset management",
+  "description": "Investment manager whose strategist commented on crypto liquidity and the Anthropic IPO.",
   "first_added": "2026-11-17",
   "last_mentioned": "2026-11-17"
  }

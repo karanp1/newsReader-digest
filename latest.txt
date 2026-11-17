@@ -3,8 +3,8 @@ METRICS
 NIFTY PE | 20.60 | 16 Nov 2026 | https://nifty-pe-ratio.com/
 Gold per 10g 24K | ₹1,36,040 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 25,387.40 (+0.52%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹59,98,845 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $64,173 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹60,57,609 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $64,710 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -25,38 +25,31 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   17 Nov 2026 | https://scanx.trade/stock-market-news/companies/reliance-industries-refining-margins-boosted-strong-diesel-cracks/56432804
-  • Reliance signed an MoU with Andhra Pradesh for an underground coal gasification project, initially investing ₹430 bn, with potential of ₹2.7 tn across three phases. ¶ • Reliance plans about 100 compressed biogas plants by 2030, costing about ₹15,000 crore ($1.6 billion), to produce 5 million cubic metres per day of gas. ¶ • Strong diesel cracks and lower Chinese diesel exports are supporting global refining margins, benefiting Reliance, while OMCs face diesel marketing losses of around ₹21.5/litre. ¶ • AstraZeneca Pharma India signed a letter of intent with Reliance's Strand Life Sciences to explore healthcare collaboration in India. ¶ • Reliance's former General Manager of Technology in New Energy (Solar Glass), Dr. Amit Mahajan, was appointed Head of R&D at Everest Industries. ¶ ↗ scanx.trade|https://scanx.trade/stock-market-news/companies/reliance-industries-refining-margins-boosted-strong-diesel-cracks/56432804 ;; constructionworld.in|https://www.constructionworld.in/energy-infrastructure/coal-and-mining/reliance-industries-plans-rs.-430-bn-andhra-coal-gasification-project/100437 ;; scanx.trade|https://scanx.trade/stock-market-news/companies/everest-industries-appoints-dr-amit-mahajan-head-research-development/56435754 ;; m.economictimes.com|https://m.economictimes.com/industry/energy/oil-gas/reliance-plans-to-invest-about-1-6-billion-to-build-new-biogas-plants/articleshow/135920214.cms
+  • Reliance signed a memorandum with Andhra Pradesh to invest ₹430 bn over two years in an integrated underground coal gasification project, with potential of ₹2.7 tn across three phases. ¶ • Reliance plans about 100 compressed biogas plants by 2030 costing about ₹15,000 crore ($1.6 billion), targeting 5 million cubic metres of gas per day from agricultural residue. ¶ • Reliance currently produces 350 metric tonnes of biogas per day from 45 plants running below capacity, and will add 10 plants by March 2027 to reach 1,100 metric tonnes per day. ¶ • Strong diesel crack spreads and lower Chinese diesel exports are supporting global refining margins, a positive for Reliance's refining profitability. ¶ • OMCs face diesel marketing losses of around ₹21.5 per litre, a contrast to the better position of refiners like Reliance with diesel crack exposure. ¶ ↗ scanx.trade|https://scanx.trade/stock-market-news/companies/reliance-industries-refining-margins-boosted-strong-diesel-cracks/56432804 ;; business-standard.com|https://www.business-standard.com/companies/news/reliance-plans-to-invest-about-1-6-billion-to-build-new-biogas-plants-126111700930_1.html ;; constructionworld.in|https://www.constructionworld.in/energy-infrastructure/coal-and-mining/reliance-industries-plans-rs.-430-bn-andhra-coal-gasification-project/100437 ;; m.economictimes.com|https://m.economictimes.com/industry/energy/oil-gas/reliance-plans-to-invest-about-1-6-billion-to-build-new-biogas-plants/articleshow/135920214.cms
 
 - Outlook: Bullish
   2026-11-17 |
-  §VIEW§{"stance": "bullish", "text": "Reliance is expanding into coal gasification and biogas with multi-billion-dollar investments, while strong diesel cracks boost refining margins. These growth and margin drivers outweigh unrelated management moves."}
+  §VIEW§{"stance": "bullish", "text": "Refining margins are supported by strong diesel cracks and lower Chinese diesel exports, while Rs 15,000 crore biogas and Rs 430 bn coal gasification investments expand energy capacity. These facts lean bullish."}
 
 [Flipkart]
 
 - ~
   17 Nov 2026 | https://www.tradingview.com/news/moodys:baaeb1abc3d86:0-ai-shopping-agents-push-internet-companies-to-defend-their-turf/
-  • Flipkart is beta-testing a revamped version of its AI shopping tool SLAP (Shop Like a Pro), as AI shopping agents threaten search-led product discovery. ¶ • An October McKinsey survey of about 21,000 consumers across 11 markets found 76% of Indian consumers use AI tools for shopping, second only to China. ¶ • Kuku TV partnered with Flipkart to give up to 100% of microdrama subscription value back in SuperCoins, redeemable on Flipkart Minutes, Cleartrip, Myntra and Shopsy. ¶ • Flipkart listed the 256GB Samsung Galaxy S25 Ultra at ₹88,388, a ₹41,611 cut from its ₹1,29,999 launch price, with exchange and bank offers. ¶ • Flipkart teased a new Motorola smartphone, likely the Edge 70 Neo, expected to launch in India below ₹30,000. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:baaeb1abc3d86:0-ai-shopping-agents-push-internet-companies-to-defend-their-turf/ ;; moneycontrol.com|https://www.moneycontrol.com/technology/samsung-galaxy-s25-ultra-gets-rs-41-611-price-cut-on-flipkart-additional-exchange-and-bank-offers-bring-price-down-to-rs-52-131-article-14082370.html ;; animationxpress.com|https://www.animationxpress.com/latest-news/kuku-tv-brings-flipkart-supercoins-into-the-microdrama-mix/ ;; mediabrief.com|https://mediabrief.com/kuku-tv-flipkart-partner-for-supercoins-rewards/
+  • Flipkart is beta-testing a revamped AI shopping tool, SLAP (Shop Like a Pro), as AI shopping agents threaten to take over product discovery and transactions. ¶ • Samsung Galaxy S25 Ultra 256GB is listed at ₹88,388 on Flipkart, a ₹41,611 discount from its ₹1,29,999 launch price. ¶ • Kuku TV partnered with Flipkart to give up to 100% of microdrama subscription value back in SuperCoins, redeemable across Flipkart Minutes, Cleartrip, Myntra and Shopsy. ¶ • Motorola Edge 70 Neo teaser page appeared on Flipkart, hinting at a November 26 launch with a 7,000mAh battery and Snapdragon 7s Gen 3 chipset. ¶ • Motorola Edge 50 Fusion 8GB+128GB is selling on Flipkart for ₹18,999, with the 12GB+256GB variant at around ₹20,999. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:baaeb1abc3d86:0-ai-shopping-agents-push-internet-companies-to-defend-their-turf/ ;; moneycontrol.com|https://www.moneycontrol.com/technology/samsung-galaxy-s25-ultra-gets-rs-41-611-price-cut-on-flipkart-additional-exchange-and-bank-offers-bring-price-down-to-rs-52-131-article-14082370.html ;; animationxpress.com|https://www.animationxpress.com/latest-news/kuku-tv-brings-flipkart-supercoins-into-the-microdrama-mix/ ;; nokiamob.net|https://nokiamob.net/2026/11/17/motorola-edge-70-neo-teased-on-flipkart-7000mah-battery-and-lytia-camera-expected/
 
 - Outlook: Neutral
   2026-11-17 |
-  §VIEW§{"stance": "neutral", "text": "AI shopping agents threaten Flipkart's search-led discovery and ad revenue, but its own SLAP tool and SuperCoins loyalty pushback are early. Heavy phone discounting lifts near-term sales but pressures margins."}
+  §VIEW§{"stance": "neutral", "text": "AI agents threaten Flipkart's search-led discovery and ad revenue, while its SuperCoins loyalty push and phone discounting deepen engagement and sales. The flow splits: a structural risk against steady marketplace activity."}
 
 [Zomato]
 
-- Man tries to copy Deepinder Goyal's ₹85,000 Temple with a laptop, Zomato co-founder responds
+- ~
   17 Nov 2026 | https://timesofindia.indiatimes.com/etimes/trending/man-tries-to-copy-deepinder-goyals-85000-temple-with-a-laptop-zomato-co-founder-responds/articleshow/135916772.cms
-  What happens when someone tries to copy the tech inside a pricey new wearable using nothing more than an everyday laptop? One guy decided to find out - and his late-night tinkering ended up catching the eye of Deepinder Goyal himself.…
+  • Madras High Court restrained Blinkit from commercially using CSK superfan Saravanan Hari's likeness without written consent, finding a prima facie resemblance to a March 23, 2025 newspaper ad. ¶ • Hari seeks ₹1.1 crore in damages, alleging the Blinkit ad's cartoon of a yellow-painted fan with 'THALA 7' implied he endorsed the platform. ¶ • Justice P.B. Balaji held personality rights are not limited to celebrities, extending protection to those with a recognisable public identity. ¶ • Blinkit said the ad characters were fictional and had no connection to Hari, while publisher Bennett, Coleman denied liability for ad content. ¶ • The court directed Blinkit and the publisher to preserve ad materials and listed the matter for December 14, 2026. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/etimes/trending/man-tries-to-copy-deepinder-goyals-85000-temple-with-a-laptop-zomato-co-founder-responds/articleshow/135916772.cms ;; inc42.com|https://inc42.com/buzz/madras-hc-bars-blinkit-from-using-csk-superfans-image-without-permission/ ;; the420.in|https://the420.in/madras-high-court-protects-csk-superfans-personality-rights-restrains-blinkit/ ;; theprint.in|https://theprint.in/judiciary/you-dont-have-to-be-a-dhoni-to-claim-personality-rights-csk-superfan-wins-round-1-against-blinkit/3100984/
 
-- Madras HC Bars Blinkit From Using CSK Superfan’s Image Without Permission
-  17 Nov 2026 | https://inc42.com/buzz/madras-hc-bars-blinkit-from-using-csk-superfans-image-without-permission/
-  The Madras High Court granted interim relief to Chennai Super Kings (CSK) superfan Saravanan Hari, barring Blinkit from using his likeness without his written consent
-
-- The Madras High Court has temporarily restrained Eternal-owned quick-commerce platform Blinkit from commercially using the likeness of Chennai Super Kings (CSK) superfan Saravanan Hari without his written consent following a dispute over a cartoon adv
-  17 Nov 2026 | https://www.instagram.com/p/Df1ZJJFl_-e/
-
-- ​Madras High Court Protects CSK Superfan’s Personality Rights, Restrains Blinkit
-  17 Nov 2026 | https://the420.in/madras-high-court-protects-csk-superfans-personality-rights-restrains-blinkit/
-  The Madras High Court has granted interim relief to Saravanan Hari, a well-known Chennai Super Kings (CSK) fan recognized for his yellow-painted face, black wig, thick moustache, and red lipstick during matches. Protecting his personality…
+- Outlook: Neutral
+  2026-11-17 |
+  §VIEW§{"stance": "neutral", "text": "The ruling expands personality rights beyond celebrities, raising legal risk for advertisers using recognisable individuals without consent. But it is an interim order against Blinkit, not a final judgment, so the financial impact remains unclear."}
 
 [HAL]
 
@@ -86,35 +79,23 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Bitcoin]
 
-- Bitcoin slides to $62,000 following liquidation cascade, then rebounds slightly
-  16 Nov 2026 | https://www.cnbc.com/2026/11/16/bitcoin-slides-to-62000-following-liquidation-cascade-then-rebounds-slightly.html
+- ~
+  16 Nov 2026 | https://www.investors.com/news/bitcoin-price-unravels-bitcoin-liquidations-etf-flows-anthropic-ipo-spacex-crypto-stocks/
+  • Bitcoin fell about 17% to roughly $64,000 in the first two weeks of November, with Grayscale's Crypto Sectors index down about 18%. ¶ • Grayscale attributes the selloff to three forces: stablecoin outflows after the October 29 Binance hack, weakness in AI stocks like NVIDIA, and technical selling after bitcoin broke below its 200-day moving average on November 12. ¶ • T. Rowe Price's Blue Macellari said liquidity is leaving crypto in anticipation of the Anthropic IPO on Thursday, similar to the SpaceX debut, while institutional clients are not backing away. ¶ • Bitcoin traded around $64,802, up 0.66%, with a market cap of $1.304 trillion and 24-hour volume of $33.31 billion. ¶ • Fed funds futures on November 13 showed an 88.7% likelihood of a quarter-point rate hike on December 9, with the 10-year Treasury yield at 5.15%. ¶ ↗ investors.com|https://www.investors.com/news/bitcoin-price-unravels-bitcoin-liquidations-etf-flows-anthropic-ipo-spacex-crypto-stocks/ ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/why-grayscale-bullish-bitcoin-17-103308085.html ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/anthropic-ipo-frenzy-competing-bitcoin-090322164.html ;; ca.finance.yahoo.com|https://ca.finance.yahoo.com/quote/BTC-USD/
 
-- Bitcoin's November rout echoes past crypto downturns
-  16 Nov 2026 | https://finance.yahoo.com/markets/article/bitcoins-november-rout-echoes-past-crypto-downturns-142926241.html
-  Crypto stocks fell early Monday, with bitcoin's November sell-off shaping up to become one of its worst on record.
-
-- Crypto Stuck Near Multimonth Lows After Sluggish Weekend
-  16 Nov 2026 | https://www.wsj.com/finance/currencies/crypto-off-to-downbeat-start-this-week-after-selloff-abeb286e
-
-- Bitcoin Tumbles Ahead Of Anthropic IPO. Is It Paralleling Its SpaceX Sell Off?
-  16 Nov 2026 | https://news.google.com/rss/articles/CBMivAFBVV95cUxNMEVodHE0bjlsNW9qcmxpcDQzYXoyb0FZcjF5cm94b242TV9aOFRjUkMwRXI0LUhpRl8ta0xPSTN3SVA2VG9tcE5Yd1FZMFhfcldCVm5HSmJyMjNVZVhYZm5fX2c4V2hZRTNka1AyX3JtNFJxS0tOQXRaWnA5Y3FOUm1ScUVNTElZMjRVVk10V1RXRmpqLTBSZHZ2dDlzekg0cGZYTS1ra2w0R3VyQi10a0lwdkxTYTk4MHpWUw?oc=5
+- Outlook: Bearish
+  2026-11-17 |
+  §VIEW§{"stance": "bearish", "text": "Bitcoin is below its 200-day moving average, ETF outflows continue, and an 88.7% odds of a December Fed hike weigh on prices. Grayscale's bullish call is offset by these macro and technical pressures."}
 
 [Gold]
 
-- Gold, Silver Rate Today Live Updates: Gold steadies near one-year low as strong dollar, silver also stables
+- ~
   17 Nov 2026 | https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/135871223.cms
-  Gold hits one-year low: Spot gold fell 0.6% to $3,858.40 per ounce, after touching $3,830.74, its lowest level since October 2025.
+  • Spot gold fell 0.6% to $3,858.40 per ounce, touching $3,830.74, its lowest level since October 2025. ¶ • A 25 bp December Fed hike is now fully expected, with markets assigning around a 10% probability to a 50 bp move. ¶ • October CPI rose 0.4% month-on-month, above expectations of 0.3%, while core inflation increased 0.3% for a third consecutive month. ¶ • The Perth Mint's silver sales fell 36% month-on-month to 389 koz in October, down 63% from October 2025. ¶ • The Empire State Manufacturing Survey dropped to 7.8 in November from October's 25.5, missing the 17.6 forecast. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/135871223.cms ;; kitco.com|https://www.kitco.com/news/article/2026-11-16/gold-price-slides-fed-hike-bets-rise-silver-bar-and-coin-sales-drop-despite ;; kitco.com|https://www.kitco.com/news/article/2026-11-16/gold-price-struggles-even-new-york-feds-empire-state-survey-weakens
 
-- Turkish Households Buckle Under Gold-Price Slide, Funds Crisis
-  17 Nov 2026 | https://www.bloomberg.com/news/articles/2026-11-17/turkish-households-buckle-under-gold-price-slide-funds-crisis
-
-- Gold price slides as Fed hike bets rise, silver bar and coin sales drop despite lower prices – Heraeus
-  16 Nov 2026 | https://www.kitco.com/news/article/2026-11-16/gold-price-slides-fed-hike-bets-rise-silver-bar-and-coin-sales-drop-despite
-  (Kitco News) – Gold prices are struggling amid rising interest rate expectations and a strong dollar, while physical demand for silver failed to improve despite last month’s price moderation, according to precious metals analysts at…
-
-- Gold could see sharp year-end rally as energy pressures ease, long-term bull market remains intact – Schroders
-  16 Nov 2026 | https://www.kitco.com/news/article/2026-11-16/gold-could-see-sharp-year-end-rally-energy-pressures-ease-long-term-bull
-  (Kitco News) - Although elevated energy prices have smothered gold ’s rally this year, leaving prices unable to hold recent gains above $4,000 an ounce, one investment firm remains optimistic that the precious metal will eventually find…
+- Outlook: Bearish
+  2026-11-17 |
+  §VIEW§{"stance": "bearish", "text": "Rate hike expectations and a strong dollar are pressuring gold, with a 25 bp December hike fully priced and core inflation running at 0.3% monthly. Physical demand remains weak, as Perth Mint silver sales fell 36% month-on-month despite lower prices."}
 
 ============================================================
 
@@ -210,45 +191,11 @@ SOURCE 2: The Hindu - Editorials
 
 SOURCE 5: The Hindu - Business (headlines + summary)
 
-[[Indian markets and rupee]]
-
-- FPIs pump record Rs 89,856 crore into Indian equities in November
-  17 Nov 2026 | https://www.thehindu.com/business/Economy/whats-behind-the-record-89856-crore-fpi-surge-into-indian-equities-explained/article71710393.ece
-  • Foreign portfolio investors bought a record net ₹89,856 crore of Indian equities in the first two weeks of November, after outflows of ₹34,843 crore in October and ₹35,861 crore in September. ¶ • Domestic institutional investors turned net sellers, offloading ₹52,607 crore, as the Nifty 50 cut its year-to-date loss to 3.3% from about 13% in October.
-
-- Stock markets climb in early trade on foreign fund inflows, fall in crude oil prices
-  17 Nov 2026 | https://www.thehindu.com/business/Industry/stock-markets-climb-in-early-trade-on-foreign-fund-inflows-fall-in-crude-oil-prices/article71710398.ece
-  • The Sensex rose 248.98 points to 82,353.77 and the Nifty gained 64.45 points to 25,354.20 in early trade on Tuesday. ¶ • Foreign investors bought equities worth ₹4,864.68 crore on Monday, taking November inflows to ₹84,166 crore, as Brent crude fell 0.88% to $91.65 a barrel.
-
-- Rupee rises 31 paise to 93.63 against U.S. dollar in early trade
-  17 Nov 2026 | https://www.thehindu.com/business/Industry/rupee-rises-31-paise-to-9363-against-us-dollar-in-early-trade/article71710377.ece
-  • The rupee appreciated 31 paise to 93.63 against the dollar in early trade on Tuesday, after closing 27 paise higher at 93.92 on Monday. ¶ • Brent crude fell 0.79% to $91.71 a barrel and foreign institutional investors bought ₹4,864.68 crore of equities on Monday, supporting the currency.
-
-[[RBI and regulation]]
-
-- Pseudo consent, real debt: RBI’s new battle for responsible microfinance | Explained
-  17 Nov 2026 | https://www.thehindu.com/business/pseudo-consent-real-debt-rbis-new-battle-for-responsible-microfinance-explained/article71710510.ece
-  • Early-stage delinquency in India's microfinance sector fell to 1.9% in June 2026 from 6.1% a year earlier, signaling fragile recovery after two years of contraction. ¶ • Loans overdue by more than 180 days remained high at 17.4%, showing legacy stress as the RBI pushes responsible lending over household over-indebtedness.
-
-- Indian central bank seeks review of Supreme Court’s Yes Bank AT-1 bonds order
-  16 Nov 2026 | https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece
-  • The RBI filed a review petition on November 13, 2026 against the Supreme Court order that set aside the write-off of ₹8,415 crore ($893.8 million) of Yes Bank AT-1 bonds. ¶ • Yes Bank told exchanges it filed its own review petition, while Axis Trustee Services filed a contempt petition over the bank's lack of a roadmap to restore the bonds.
-
-[[Inflation and economy]]
-
-- A poverty line that falls short
-  17 Nov 2026 | https://www.thehindu.com/opinion/op-ed/a-poverty-line-that-falls-short/article71707981.ece
-  • India's poverty rate ranges from about 5% to more than 26% depending on the line used, with the World Bank finding 2.6% poor at $3 a day in 2022-23 but 16.1% at $4.20. ¶ • SBI Research puts poverty at 7.2% rural and 4.6% urban using inflation-adjusted Tendulkar lines of ₹1,632 and ₹1,944 a month, while Sethu et al. report 26.4% using higher thresholds of ₹2,515 and ₹3,639.
-
-- Wholesale inflation rises to 12.3% in October 2026, second straight month of double-digit inflation
-  16 Nov 2026 | https://www.thehindu.com/business/Economy/wholesale-price-inflation-october-government-data/article71707046.ece
-  • India's wholesale price inflation rose to 12.29% in October 2026 from 11.39% in September, with the WPI at 113.3 versus 112.5. ¶ • Fuel and power inflation jumped to 32.84% from 25.85%, led by crude petroleum and natural gas at 70.80% and mineral oils at 45.57%.
-
 [[AI and tech investment]]
 
-- Nvidia to reveal first earnings since spy scandal
-  17 Nov 2026 | https://www.thehindu.com/business/nvidia-to-reveal-first-earnings-since-spy-scandal/article71711204.ece
-  • Nvidia reports third-quarter results Tuesday at 5:00 p.m. ET, its first under interim CEO Colette Kress after co-founder Jensen Huang quit on November 12 over extramarital affairs. ¶ • Washington imposed new AI chip export rules on Monday requiring U.S. licenses for data centers worldwide serving Chinese firms and for chip shipments to Singapore, Malaysia, Thailand, Indonesia and Brazil.
+- AI, cloud investments to drive India’s IT spending to ₹16.9 trillion in 2027: Gartner
+  17 Nov 2026 | https://www.thehindu.com/business/Industry/ai-cloud-investments-to-drive-indias-it-spending-to-169-trillion-in-2027-gartner/article71711345.ece
+  • India's IT spending is projected to reach ₹16.9 trillion in 2027, up 10.6% over 2026, Gartner forecast on Tuesday. ¶ • Infrastructure as a service (IaaS) spending is expected to grow fastest at 40.3%, while software spending rises 19.3% to ₹2.6 trillion.
 
 - Head of China’s Baidu warns of AI ‘bubble’ ahead of APEC talks
   17 Nov 2026 | https://www.thehindu.com/news/international/head-of-chinas-baidu-warns-of-ai-bubble-ahead-of-apec-talks/article71710928.ece
@@ -262,6 +209,30 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   16 Nov 2026 | https://www.thehindu.com/business/ibm-investing-3-billion-annually-in-india-plans-10-bn-global-quantum-push-ceo/article71709347.ece
   • IBM will invest about $3 billion annually in India and part of a $10 billion, five-year global quantum push, CEO Arvind Krishna said. ¶ • Krishna said AI could displace 10-20% of jobs over the next decade, with the BPO industry facing the biggest cuts, while IBM hired an estimated 5,000-10,000 people in India in the past year.
 
+[[Markets and foreign inflows]]
+
+- Rupee rises 43 paise to close at 93.51 against U.S. dollar
+  17 Nov 2026 | https://www.thehindu.com/business/Industry/rupee-rises-43-paise-to-close-at-9351-provisional-against-us-dollar/article71711483.ece
+  • The rupee closed at 93.51 against the dollar on Tuesday, up 43 paise from Monday's 93.94 close, helped by softer crude and foreign inflows. ¶ • Brent crude fell to $92.79 a barrel and FIIs bought ₹4,864.68 crore of equities on Monday, while a strong dollar and high U.S. yields capped gains.
+
+- FPIs pump record Rs 89,856 crore into Indian equities in November
+  17 Nov 2026 | https://www.thehindu.com/business/Economy/whats-behind-the-record-89856-crore-fpi-surge-into-indian-equities-explained/article71710393.ece
+  • Foreign portfolio investors bought a record net ₹89,856 crore of Indian equities in the first two weeks of November, after outflows of ₹34,843 crore in October and ₹35,861 crore in September. ¶ • Domestic institutional investors turned net sellers, offloading ₹52,607 crore, as the Nifty 50 cut its year-to-date loss to 3.3% from about 13% in October.
+
+- Stock markets climb in early trade on foreign fund inflows, fall in crude oil prices
+  17 Nov 2026 | https://www.thehindu.com/business/Industry/stock-markets-climb-in-early-trade-on-foreign-fund-inflows-fall-in-crude-oil-prices/article71710398.ece
+  • The Sensex rose 248.98 points to 82,353.77 and the Nifty gained 64.45 points to 25,354.20 in early trade on Tuesday. ¶ • Foreign investors bought equities worth ₹4,864.68 crore on Monday, taking November inflows to ₹84,166 crore, as Brent crude fell 0.88% to $91.65 a barrel.
+
+[[RBI and banking regulation]]
+
+- Pseudo consent, real debt: RBI’s new battle for responsible microfinance | Explained
+  17 Nov 2026 | https://www.thehindu.com/business/pseudo-consent-real-debt-rbis-new-battle-for-responsible-microfinance-explained/article71710510.ece
+  • Early-stage delinquency in India's microfinance sector fell to 1.9% in June 2026 from 6.1% a year earlier, signaling fragile recovery after two years of contraction. ¶ • Loans overdue by more than 180 days remained high at 17.4%, showing legacy stress as the RBI pushes responsible lending over household over-indebtedness.
+
+- Indian central bank seeks review of Supreme Court’s Yes Bank AT-1 bonds order
+  16 Nov 2026 | https://www.thehindu.com/business/indian-central-bank-seeks-review-of-supreme-courts-yes-bank-at-1-bonds-order/article71709315.ece
+  • The RBI filed a review petition on November 13, 2026 against the Supreme Court order that set aside the write-off of ₹8,415 crore ($893.8 million) of Yes Bank AT-1 bonds. ¶ • Yes Bank told exchanges it filed its own review petition, while Axis Trustee Services filed a contempt petition over the bank's lack of a roadmap to restore the bonds.
+
 [[Tata family dispute]]
 
 - Jimmy Tata backs Tata Sons listing, accuses Noel of ‘back-door takeover’
@@ -272,17 +243,21 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   16 Nov 2026 | https://www.thehindu.com/business/Industry/lakshmi-venu-seeks-formal-partition-of-assets-of-the-venu-srinivasan-branch-of-the-tvs-family/article71707438.ece
   • Lakshmi Venu, daughter of TVS Holdings chairman Venu Srinivasan, has issued him notice seeking formal partition of the Venu Srinivasan branch's assets. ¶ • Her brother Sudarshan Venu was named Significant Beneficial Owner of TVS Motor Company in April 2025, and her mother Mallika Srinivasan backs her claim to an equal share.
 
-[[Fuel taxes and IPOs]]
+[[Inflation and fuel taxes]]
 
 - Export duty on diesel hiked ₹2.5/litre, ATF ₹1.5/litre, petrol remains nil
   17 Nov 2026 | https://www.thehindu.com/business/Industry/export-duty-on-diesel-hiked-25litre-atf-15litre-petrol-remains-nil/article71710215.ece
   • The government raised the export duty on diesel by ₹2.5 per litre to ₹14 per litre and on aviation turbine fuel by ₹1.5 per litre to ₹12.5 per litre for the next fortnight. ¶ • Petrol exports stay duty-free and rates on fuel for domestic consumption are unchanged, as the fortnightly review aims to keep retail supply available by discouraging exports.
 
-- MCL fixes IPO price band at ₹129-136; Coal India to raise ₹9,000 cr.
-  16 Nov 2026 | https://www.thehindu.com/business/Industry/mcl-fixes-ipo-price-band-at-129-136-coal-india-to-raise-9000-cr/article71708776.ece
-  • Coal India subsidiary Mahanadi Coalfields set a ₹129-136 per share price band for its roughly ₹9,000-crore IPO, an offer for sale of 66.2 crore shares, or a 10% stake. ¶ • Bidding runs November 19 to 23; MCL made a net profit of ₹4,880.66 crore on revenue of ₹16,093.04 crore in the six months to September 30.
+- Wholesale inflation rises to 12.3% in October 2026, second straight month of double-digit inflation
+  16 Nov 2026 | https://www.thehindu.com/business/Economy/wholesale-price-inflation-october-government-data/article71707046.ece
+  • India's wholesale price inflation rose to 12.29% in October 2026 from 11.39% in September, with the WPI at 113.3 versus 112.5. ¶ • Fuel and power inflation jumped to 32.84% from 25.85%, led by crude petroleum and natural gas at 70.80% and mineral oils at 45.57%.
 
-[[Other]]
+[[Company results and IPOs]]
+
+- Nvidia to reveal first earnings since spy scandal
+  17 Nov 2026 | https://www.thehindu.com/business/nvidia-to-reveal-first-earnings-since-spy-scandal/article71711204.ece
+  • Nvidia reports third-quarter results Tuesday at 5:00 p.m. ET, its first under interim CEO Colette Kress after co-founder Jensen Huang quit on November 12 over extramarital affairs. ¶ • Washington imposed new AI chip export rules on Monday requiring U.S. licenses for data centers worldwide serving Chinese firms and for chip shipments to Singapore, Malaysia, Thailand, Indonesia and Brazil.
 
 - Asgard Alcobev expanding northeast brewing unit capacity to 10.8 million cases
   16 Nov 2026 | https://www.thehindu.com/business/asgard-alcobev-expanding-northeast-brewing-unit-capacity-to-108-million-cases/article71709123.ece
@@ -292,47 +267,43 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   16 Nov 2026 | https://www.thehindu.com/business/Industry/pricol-targets-top-three-position-in-two-wheeler-polymer-segment-by-2030-after-dicvs-demerger/article71708941.ece
   • Pricol's board approved a share purchase agreement with Topaz Terrace Investments, a Warburg Pincus affiliate, for the promoter group's 38.51% stake in Pricol Autotech. ¶ • The demerged DICVS business posted about ₹2,400 crore revenue in FY26, nearly 60% of consolidated revenue, while Pricol shares fell 17.9% to ₹613.75 on Monday.
 
-- Andhra’s proposed Investment Protection Act seeks to shield investors from policy U-turns
-  16 Nov 2026 | https://www.thehindu.com/news/national/andhra-pradesh/andhras-proposed-investment-protection-act-seeks-to-shield-investors-from-policy-u-turns/article71707378.ece
-  • Andhra Pradesh plans an Investment Protection Act, the first such law in India, to shield investors from policy reversals and pass it in the upcoming Assembly session. ¶ • Past reversals such as the three capitals fiasco, the July 2019 review of renewable energy power purchase agreements and a battery plant's 2019-24 move to Telangana dented investor confidence, which CII says the law would restore.
+- MCL fixes IPO price band at ₹129-136; Coal India to raise ₹9,000 cr.
+  16 Nov 2026 | https://www.thehindu.com/business/Industry/mcl-fixes-ipo-price-band-at-129-136-coal-india-to-raise-9000-cr/article71708776.ece
+  • Coal India subsidiary Mahanadi Coalfields set a ₹129-136 per share price band for its roughly ₹9,000-crore IPO, an offer for sale of 66.2 crore shares, or a 10% stake. ¶ • Bidding runs November 19 to 23; MCL made a net profit of ₹4,880.66 crore on revenue of ₹16,093.04 crore in the six months to September 30.
+
+[[Other]]
+
+- A poverty line that falls short
+  17 Nov 2026 | https://www.thehindu.com/opinion/op-ed/a-poverty-line-that-falls-short/article71707981.ece
+  • India's poverty rate ranges from about 5% to more than 26% depending on the line used, with the World Bank finding 2.6% poor at $3 a day in 2022-23 but 16.1% at $4.20. ¶ • SBI Research puts poverty at 7.2% rural and 4.6% urban using inflation-adjusted Tendulkar lines of ₹1,632 and ₹1,944 a month, while Sethu et al. report 26.4% using higher thresholds of ₹2,515 and ₹3,639.
 
 ============================================================
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
-[[ASEAN and Quad summits]]
+- Modi calls Quad a trusted partnership at ASEAN Summit in Manila
+  17 Nov 2026 | https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece
+  • Prime Minister Narendra Modi told the Quad Summit in Manila that the grouping is a constructive, trusted partnership delivering solutions across the Indo-Pacific. ¶ • Modi also proposed free e-visas for ASEAN tourists and an ASEAN-India Youth Connect initiative at the 23rd ASEAN-India Summit.
+
+- Burnham delays tabling of options for U.K.-EU ties
+  17 Nov 2026 | https://www.thehindu.com/news/international/burnham-delays-tabling-of-options-for-uk-eu-ties/article71711594.ece
+  • U.K. Prime Minister Andy Burnham delayed presenting long-term U.K.-EU ties options, saying they will inform decisions in the next Parliament. ¶ • At Friday's summit he seeks a closer-ties deal he says could raise U.K. GDP by 0.4%, with legislation due in Parliament next week.
+
+- Prince and Princess of Wales in Mumbai for Earthshot Prize 2026: All you need to know
+  17 Nov 2026 | https://www.thehindu.com/news/cities/mumbai/prince-of-wales-earthshot-prize-2026-in-mumbai-everything-you-need-to-know/article71706725.ece
+  • Prince William and Princess Kate arrived in Mumbai for a three-day visit tied to the sixth Earthshot Prize, their first joint overseas engagement since her 2024 cancer diagnosis. ¶ • The November 17, 2026 ceremony hosts 5,000 guests and awards five winners £1 million (about ₹12.5 crore) each; India has produced more finalists and winners than any other country.
+
+- Pakistan, Iran stress sustained engagement, coordination for regional stability
+  17 Nov 2026 | https://www.thehindu.com/news/international/pakistan-iran-stress-sustained-engagement-coordination-for-regional-stability/article71711296.ece
+  • Pakistan's Field Marshal Asim Munir and Iranian Foreign Minister Abbas Araghchi agreed in Rawalpindi on Monday on sustained engagement and close coordination for regional peace and stability. ¶ • The talks came as the June Islamabad Memorandum of Understanding between Washington and Tehran lapsed without a final deal, leaving the Strait of Hormuz and sanctions disputes unresolved.
 
 - Japan offers ASEAN nations access to energy storage
   17 Nov 2026 | https://www.thehindu.com/news/international/japan-offers-asean-nations-access-to-energy-storage/article71711080.ece
   • Japan will let ASEAN countries store crude oil in its unused hydro-tank facilities under the POWERR Asia initiative, announced at the Manila summit on November 17, 2026. ¶ • Japan holds 254 days of oil reserves while some ASEAN nations had under a month's worth when the West Asia war began in February.
 
-- Trump arrives in Manila for ASEAN and Quad summits as protests erupt
-  17 Nov 2026 | https://www.thehindu.com/news/international/asean-india-summit-manila-november-2026-quad-live-updates-pm-modi-trump-meeting-latest-news/article71710382.ece
-  • Trump landed in Manila to meet Quad leaders Modi, Takaichi and Albanese, days after Republican midterm losses and before meeting Xi and Putin in Shenzhen. ¶ • About 2,000 protesters opposed the Pax Silica supply chain initiative, whose 1,620-hectare AI hub north of Manila threatens to displace Indigenous families.
-
-- PM Modi leads foundation stone-laying ceremony for Philippines’ oldest gurudwara’s redevelopment
-  17 Nov 2026 | https://www.thehindu.com/news/national/pm-modi-leads-foundation-stone-laying-ceremony-for-philippines-oldest-gurudwaras-redevelopment/article71710655.ece
-  • Prime Minister Narendra Modi led the foundation stone-laying ceremony for the redevelopment of Gurudwara Khalsa Diwan in Manila, the Philippines' oldest gurudwara, established in 1901. ¶ • Modi is on a three-day Philippines visit for the 23rd ASEAN-India Summit and 21st East Asia Summit, with the gurudwara registered as Khalsa Diwan in 1924.
-
-- Our future must be shaped by ‘cooperation, not competition’: PM Modi to ASEAN leaders
-  17 Nov 2026 | https://www.thehindu.com/news/national/pm-modi-asean-summit-address-india-world-leaders-manila/article71710772.ece
-  • Prime Minister Narendra Modi told ASEAN leaders in Manila that India and ASEAN, together nearly a quarter of the world's population, must let cooperation shape their future. ¶ • Modi said India's commitment to ASEAN's unity and centrality remains steadfast and that the meeting should lift their Comprehensive Strategic Partnership.
-
-[[US trade and visas]]
-
-- Singapore seeks ‘trusted access’ to AI chips after new US curbs
-  17 Nov 2026 | https://www.thehindu.com/sci-tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/article71710285.ece
-  • The US now requires licences for data centres worldwide to supply large volumes of advanced AI computing power to firms headquartered in China, Macau or arms-embargoed countries. ¶ • Singapore is in talks with US authorities on the rule's scope, which also covers chip shipments to Singapore, Malaysia, Thailand, Indonesia and Brazil over diversion risk.
-
-- US courts strike down fixed visa terms and $100,000 H-1B fee
-  17 Nov 2026 | https://www.thehindu.com/news/international/us-federal-court-strikes-down-fixed-terms-for-student-exchange-visas/article71710228.ece
-  • Boston Judge F. Dennis Saylor struck down a DHS rule capping student, scholar and journalist visas, calling it arbitrary and beyond the agency's authority. ¶ • Massachusetts Judge Leo Sorokin voided Trump's $100,000 H-1B application fee for lacking Congressional approval, a ruling the White House will appeal.
-
-- Xi, Carney call for deeper ties as Canada looks beyond U.S. for trade
-  17 Nov 2026 | https://www.thehindu.com/news/international/xi-carney-call-for-deeper-ties-as-canada-looks-beyond-us-for-trade/article71710632.ece
-  • Chinese President Xi Jinping and Canadian Prime Minister Mark Carney met in Shenzhen on November 17, 2026, ahead of the APEC leaders' summit, and both praised their strategic partnership. ¶ • The meeting followed Carney's remark that Canada could turn to Chinese automakers if U.S. trade talks fail, building on a January deal that cut Canada's EV tariff to 6.1% on up to 49,000 vehicles a year.
-
-[[North Korea and Russia tensions]]
+- Head of China’s Baidu warns of AI ‘bubble’ ahead of APEC talks
+  17 Nov 2026 | https://www.thehindu.com/news/international/head-of-chinas-baidu-warns-of-ai-bubble-ahead-of-apec-talks/article71710928.ece
+  • Robin Li said AI adoption has not raised revenue or profits for most companies, and the bubble concern could become reality if unaddressed. ¶ • Baidu posted a sixth straight quarterly revenue drop on Monday, as Xi Jinping and Donald Trump prepare to discuss AI risks at APEC on Thursday.
 
 - North Korea’s Kim visits ski resort as Donald Trump hints at possible meeting
   17 Nov 2026 | https://www.thehindu.com/news/international/north-koreas-kim-visits-ski-resort-as-donald-trump-hints-at-possible-meeting/article71710685.ece
@@ -342,34 +313,112 @@ SOURCE 3: The Hindu - International (headlines + summary)
   17 Nov 2026 | https://www.thehindu.com/news/international/tokyo-lodges-protest-after-aircraft-believed-to-be-russian-violate-japan-airspace/article71710315.ece
   • Japan protested to Moscow on Tuesday after two aircraft believed to be Russian entered its airspace off Okinoshima island in Fukuoka prefecture. ¶ • Chief Cabinet Secretary Minoru Kihara called the violation a serious infringement of sovereignty; the last confirmed Russian incursion was off Rebun Island, Hokkaido, in September 2024.
 
-[[Pakistan-Iran regional stability]]
+- Singapore seeks ‘trusted access’ to AI chips after new US curbs
+  17 Nov 2026 | https://www.thehindu.com/sci-tech/technology/singapore-seeks-trusted-access-to-ai-chips-after-new-us-curbs/article71710285.ece
+  • The US now requires licences for data centres worldwide to supply large volumes of advanced AI computing power to firms headquartered in China, Macau or arms-embargoed countries. ¶ • Singapore is in talks with US authorities on the rule's scope, which also covers chip shipments to Singapore, Malaysia, Thailand, Indonesia and Brazil over diversion risk.
 
-- Pakistan, Iran stress sustained engagement, coordination for regional stability
-  17 Nov 2026 | https://www.thehindu.com/news/international/pakistan-iran-stress-sustained-engagement-coordination-for-regional-stability/article71711296.ece
-  • Pakistan's Field Marshal Asim Munir and Iranian Foreign Minister Abbas Araghchi agreed in Rawalpindi on Monday on sustained engagement and close coordination for regional peace and stability. ¶ • The talks came as the June Islamabad Memorandum of Understanding between Washington and Tehran lapsed without a final deal, leaving the Strait of Hormuz and sanctions disputes unresolved.
-
-[[AI industry concerns]]
-
-- Head of China’s Baidu warns of AI ‘bubble’ ahead of APEC talks
-  17 Nov 2026 | https://www.thehindu.com/news/international/head-of-chinas-baidu-warns-of-ai-bubble-ahead-of-apec-talks/article71710928.ece
-  • Robin Li said AI adoption has not raised revenue or profits for most companies, and the bubble concern could become reality if unaddressed. ¶ • Baidu posted a sixth straight quarterly revenue drop on Monday, as Xi Jinping and Donald Trump prepare to discuss AI risks at APEC on Thursday.
-
-[[US banking disruptions]]
+- US courts strike down fixed visa terms and $100,000 H-1B fee
+  17 Nov 2026 | https://www.thehindu.com/news/international/us-federal-court-strikes-down-fixed-terms-for-student-exchange-visas/article71710228.ece
+  • Boston Judge F. Dennis Saylor struck down a DHS rule capping student, scholar and journalist visas, calling it arbitrary and beyond the agency's authority. ¶ • Massachusetts Judge Leo Sorokin voided Trump's $100,000 H-1B application fee for lacking Congressional approval, a ruling the White House will appeal.
 
 - What to know about the online banking delays affecting major U.S. banks
   17 Nov 2026 | https://www.thehindu.com/sci-tech/technology/what-to-know-about-the-online-banking-delays-affecting-major-us-banks/article71710293.ece
   • A software bug in JPMorgan Chase's internal hardware caused transaction delays on Monday, with thousands of customers reporting trouble accessing online accounts at Chase and other major U.S. banks. ¶ • Chase said the issue was not a cyberattack and expected it resolved by end of day Monday; Zelle was not directly affected, though payments involving Chase customers slowed.
 
-[[Other]]
-
-- Pope Leo misses the catch as rosary from crowd hits his eye in Peru
-  17 Nov 2026 | https://www.thehindu.com/news/international/pope-leo-misses-the-catch-as-rosary-from-crowd-hits-his-eye-in-peru/article71710583.ece
-  • A rosary thrown from a crowd struck Pope Leo near the eye as he arrived for a farewell Mass at an airbase in Lima on Monday. ¶ • The 71-year-old continued his tour with no sign of injury and thanked Peruvians for their hospitality during his six-day visit.
-
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Zomato steps up discounting, holds off fee hike as food delivery competition intensifies
+17 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/zomato-steps-up-discounts-insurance-caps-squeeze-distributors/articleshow/135907099.cms
+
+• Zomato is deploying deeper checkout discounts and zero delivery fees on orders above ₹49 for loyalty programme members.
+
+• Zomato is holding back platform fee increases during the festive season for the first time in three years.
+
+• Newer entrants like Rapido's Ownly, Swiggy's Toing, and Flipkart's Eat-in by Minutes are targeting price-sensitive consumers.
+
+• Eternal CFO Akshant Goyal said margins are expected to remain flattish over the next one or two years.
+
+### Proposed insurance commission caps could put distributor business models under pressure
+17 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/zomato-steps-up-discounts-insurance-caps-squeeze-distributors/articleshow/135907099.cms
+
+• PB Fintech said the proposed changes could put the viability of its loss-making PB Partners business under question.
+
+• PB Partners generated about ₹700 crore in revenue in the September quarter, or 32% of PB Fintech's consolidated operating revenue.
+
+• Turtlemint expects smaller, low-volume and single-product partners to exit as commissions shrink.
+
+• Distributors may increasingly turn to adjacent financial services like broking, mutual funds and loans to reduce dependence on insurance commissions.
+
+### SpaceX's Starship recovery could lower launch costs for Indian satellite companies
+17 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/zomato-steps-up-discounts-insurance-caps-squeeze-distributors/articleshow/135907099.cms
+
+• SpaceX successfully caught Starship's upper stage using the mechanical arms of its launch tower after an orbital flight.
+
+• The spacecraft deployed 26 Starlink satellites during the flight.
+
+• Full recovery of both stages is yet to be demonstrated.
+
+• Lower launch costs could intensify competition for Indian launch startups such as Skyroot Aerospace, Agnikul Cosmos, Astrobase and The Guild.
+
+### Microsoft outage impact
+17 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/zomato-steps-up-discounts-insurance-caps-squeeze-distributors/articleshow/135907099.cms
+
+• India's $315-billion IT services industry could have taken a $200-million hit from last week's Microsoft outage, per EIIRTrend.
+
+• The loss of connectivity left firms facing lost billable hours, delayed project execution, and additional costs related to delivery commitments.
+
+### Urban Company fundraise
+17 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/zomato-steps-up-discounts-insurance-caps-squeeze-distributors/articleshow/135907099.cms
+
+• Urban Company has launched a ₹2,500 crore qualified institutional placement (QIP).
+
+• The company set a floor price of ₹161.03 per share, a 6% discount to the stock's closing price Monday.
+
+• The funds will bolster operations, especially the instant house help vertical.
+
+### Dreamteam raises $53 million
+17 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/zomato-steps-up-discounts-insurance-caps-squeeze-distributors/articleshow/135907099.cms
+
+• Dreamteam, an AI-native CRM startup founded by former Freshworks executives, has raised $53 million.
+
+• The round was led by Together Fund, Accel, and Premji Invest.
+
+• The company aims to build an alternative to CRM platforms such as Salesforce and HubSpot.
+
+### Global pick: Carbon Emissions of Biggest U.S. Data Centers Already Rival Entire Countries, Study Reveals
+FT | https://www.nytimes.com/interactive/2026/11/16/climate/ai-data-center-pollution-carbon-emissions.html
+
+• The largest U.S. data centers emit an estimated 25.7 million metric tons of carbon dioxide annually, rivaling countries like Bolivia and Denmark.
+
+• The study in Nature Sustainability, led by Harvard researchers, examined 403 data centers from May 2024 to April 2025.
+
+• Those data centers used almost 2 percent of U.S. electricity, more than New York City and Los Angeles combined, with 54 percent from fossil fuels.
+
+• Researchers say the federal government should require large data centers to publicly disclose electricity use and emissions.
+
+### Global pick: The AI bubble could expose your deepest secrets
+BBC | https://www.bbc.com/future/article/20261029-the-ai-bubble-could-expose-your-deepest-secrets
+
+• A new research paper predicts AI autonomy by 2027 could lead to human extinction within a decade.
+
+• The article frames this as the question of whether AI might eliminate humanity.
+
+• AI fakery has already been used to scam people out of large sums of money and even attempt to sway elections.
+
+• The piece sits alongside coverage of AI in classrooms, where educator Sal Khan lays out an optimistic future.
+
+### Global pick: Nvidia Was Already in Trouble Before the Jensen Huang Mess
+Wired | https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/
+
+• Nvidia CEO Jensen Huang has left the company, with CFO Colette Kress now running it, as competitors close in.
+
+• Nvidia holds 80 percent of AI accelerator sales, but AMD's share rose from 2 percent in 2022 to 7-10 percent in 2026.
+
+• Google, Amazon and Microsoft are building their own AI chips to cut costs and reduce reliance on Nvidia.
+
+• China fell to 8 percent of Nvidia's revenue from 20 percent in 2024, while Huawei chips train Chinese models like Z.ai's.
 
 ============================================================
 
