@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -116,7 +116,7 @@
   "sector": "Consumer electronics",
   "description": "South Korean conglomerate making memory chips, smartphones and displays; competing in high-bandwidth memory.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "skhynix": {
   "name": "SK Hynix",
@@ -130,7 +130,7 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "starlink": {
   "name": "Starlink",
@@ -144,7 +144,7 @@
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -158,14 +158,14 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -186,7 +186,7 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "walmart": {
   "name": "Walmart",
@@ -200,7 +200,7 @@
   "sector": "E-commerce",
   "description": "Online fashion retailer owned by Flipkart; former CEO Mukesh Bansal among ESOP petitioners.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-18"
  },
  "accel": {
   "name": "Accel",
@@ -221,7 +221,7 @@
   "sector": "E-commerce",
   "description": "Global online retailer running Great Indian Festival sale in competition with Flipkart.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "chennaipetroleum": {
   "name": "Chennai Petroleum",
@@ -242,7 +242,7 @@
   "sector": "Oil refining",
   "description": "State-owned Bharat Petroleum refining and marketing fuels across India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-18"
  },
  "hpcl": {
   "name": "HPCL",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -830,7 +830,7 @@
   "sector": "Consumer electronics",
   "description": "Smartphone maker offering the T5x at Rs 24,999 during Flipkart's sale.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-18"
  },
  "meesho": {
   "name": "Meesho",
@@ -1061,7 +1061,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its IBIT bitcoin ETF led $487.1 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-15"
+  "last_mentioned": "2026-11-18"
  },
  "fidelity": {
   "name": "Fidelity",
@@ -1096,7 +1096,7 @@
   "sector": "Crypto analytics",
   "description": "On-chain data firm; noted bitcoin's sell wall at $86,500 and buy orders near $81,000.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-18"
  },
  "kraken": {
   "name": "Kraken",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1145,7 +1145,7 @@
   "sector": "Quick commerce",
   "description": "Flipkart's quick-commerce arm; hired Dibyendu Sen for brand partnerships.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-18"
  },
  "safari": {
   "name": "Safari",
@@ -1201,7 +1201,7 @@
   "sector": "Stock exchange",
   "description": "National Stock Exchange; listed on 24 September at Rs 1,785 per share.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-18"
  },
  "ntpcgreenenergy": {
   "name": "NTPC Green Energy",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -2251,7 +2251,7 @@
   "sector": "Consumer electronics",
   "description": "Electronics brand; 55-inch QLED TV discounted on Flipkart.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "bhel": {
   "name": "BHEL",
@@ -2328,7 +2328,7 @@
   "sector": "Regulator",
   "description": "India's securities regulator; to issue guidelines on closing auction session.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-16"
+  "last_mentioned": "2026-11-18"
  },
  "reservebankofindia": {
   "name": "Reserve Bank of India",
@@ -2489,21 +2489,21 @@
   "sector": "Financial services",
   "description": "Investment bank; its Neha Agarwal commented on institutional demand for IPOs.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-18"
  },
  "cleartrip": {
   "name": "Cleartrip",
   "sector": "Travel",
   "description": "Online travel agency owned by Flipkart; former staff joined the ESOP petition.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-11-18"
  },
  "shopsy": {
   "name": "Shopsy",
   "sector": "E-commerce",
   "description": "Flipkart's value-focused e-commerce platform; former staff joined the ESOP petition.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-13"
+  "last_mentioned": "2026-11-18"
  },
  "supermoney": {
   "name": "Supermoney",
@@ -2972,7 +2972,7 @@
   "sector": "Banking",
   "description": "State Bank of India; bought ITC shares in the block deal where GQG sold its stake.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-18"
  },
  "aramco": {
   "name": "Aramco",
@@ -3280,7 +3280,7 @@
   "sector": "Research",
   "description": "Research firm; reported a 22.4% year-on-year fall in worldwide PC shipments in Q3 2026.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "lenovo": {
   "name": "Lenovo",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3490,7 +3490,7 @@
   "sector": "Home services",
   "description": "Home services platform; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "zerodha": {
   "name": "Zerodha",
@@ -3616,7 +3616,7 @@
   "sector": "Optical fibre",
   "description": "India's largest optical fibre and cable maker, also selling power transmission cables.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-11-08"
+  "last_mentioned": "2026-11-18"
  },
  "aegislogistics": {
   "name": "Aegis Logistics",
@@ -4155,7 +4155,7 @@
   "sector": "AI",
   "description": "Anthropic's AI assistant, adopted by GovTech Singapore and 15 federal agencies.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-18"
  },
  "claudecode": {
   "name": "Claude Code",
@@ -4981,7 +4981,7 @@
   "sector": "Government",
   "description": "Indian state partnering with IBM on a quantum computing initiative.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "comoros": {
   "name": "Comoros",
@@ -5009,7 +5009,7 @@
   "sector": "Government",
   "description": "Central bank that sold 56 tons of gold through August.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-18"
  },
  "ongc": {
   "name": "ONGC",
@@ -5324,7 +5324,7 @@
   "sector": "Consulting",
   "description": "Consulting firm adding an AI client simulation with an avatar to interviews for entry-level applicants in North America.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-11-18"
  },
  "artcraft": {
   "name": "ArtCraft",
@@ -6248,14 +6248,14 @@
   "sector": "Markets",
   "description": "Indian benchmark index that fell 876.37 points to 73,852.90.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-18"
  },
  "nifty": {
   "name": "Nifty",
   "sector": "Markets",
   "description": "Indian benchmark index that dropped 257.20 points to 22,888.95.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-18"
  },
  "bsecapitalgoodsindex": {
   "name": "BSE Capital Goods Index",
@@ -6304,7 +6304,7 @@
   "sector": "Government",
   "description": "US Federal Reserve; rate-hike odds for October 28 dropped, supporting Bitcoin.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-18"
  },
  "usspotbitcoinetfs": {
   "name": "US spot Bitcoin ETFs",
@@ -6738,21 +6738,21 @@
   "sector": "Government",
   "description": "Indian state that ran its own agrivoltaic pilot project.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-18"
  },
  "maharashtra": {
   "name": "Maharashtra",
   "sector": "Government",
   "description": "Indian state that ran its own agrivoltaic pilot project.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-18"
  },
  "madhyapradesh": {
   "name": "Madhya Pradesh",
   "sector": "Government",
   "description": "Indian state that ran its own agrivoltaic pilot project.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-18"
  },
  "oilmarketingcompanies": {
   "name": "oil marketing companies",
@@ -7179,7 +7179,7 @@
   "sector": "Home services",
   "description": "Urban Company's quick home tasks service, in a long investment phase.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-18"
  },
  "bigbilliondays": {
   "name": "Big Billion Days",
@@ -7676,7 +7676,7 @@
   "sector": "Stock exchange",
   "description": "Indian exchange where Jio Platforms' IPO bids and Reliance share moves were recorded.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-18"
  },
  "dcgi": {
   "name": "DCGI",
@@ -7816,7 +7816,7 @@
   "sector": "Government",
   "description": "Indian city hosting Infosys and Truist's AI-first Global Capability Center.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-18"
  },
  "etmorningdispatch": {
   "name": "ET Morning Dispatch",
@@ -7900,7 +7900,7 @@
   "sector": "Networking",
   "description": "Networking equipment maker; its president used personal AI agents to cut subscription costs.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-18"
  },
  "digitalsun": {
   "name": "Digital Sun",
@@ -8236,7 +8236,7 @@
   "sector": "AI",
   "description": "Eternal's privacy-focused AI assistant using open-weight models.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-11-18"
  },
  "legaledge": {
   "name": "LegalEdge",
@@ -8404,7 +8404,7 @@
   "sector": "International body",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-11-18"
  },
  "worldhealthorganization": {
   "name": "World Health Organization",
@@ -8474,21 +8474,21 @@
   "sector": "Judiciary",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-18"
  },
  "un": {
   "name": "UN",
   "sector": "International body",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-18"
  },
  "straitofhormuz": {
   "name": "Strait of Hormuz",
   "sector": "Shipping",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-11-18"
  },
  "hamas": {
   "name": "Hamas",
@@ -8635,7 +8635,7 @@
   "sector": "Politics",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-18"
  },
  "elonmusk": {
   "name": "Elon Musk",
@@ -9517,7 +9517,7 @@
   "sector": "Streaming",
   "description": "Short-drama platform competing with Eloelo.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "quicktv": {
   "name": "QuickTV",
@@ -10021,7 +10021,7 @@
   "sector": "Enterprise software",
   "description": "US enterprise software company whose platform hosts AI agent deployments at customers.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "lulasarmy": {
   "name": "Lula's Army",
@@ -10203,7 +10203,7 @@
   "sector": "AI",
   "description": "xAI's shopping bot placing agentic orders detected by Forter.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-18"
  },
  "php": {
   "name": "PHP",
@@ -10378,7 +10378,7 @@
   "sector": "Consumer internet",
   "description": "Zomato's going-out and dining business; faces medium-to-high risk from AI shopping agents.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-18"
  },
  "deepindergoyal": {
   "name": "Deepinder Goyal",
@@ -10490,7 +10490,7 @@
   "sector": "Government",
   "description": "Indian Prime Minister ahead of a Brussels trip to sign the India-EU FTA.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-18"
  },
  "luizincioluladasilva": {
   "name": "Luiz Inácio Lula da Silva",
@@ -11232,7 +11232,7 @@
   "sector": "Pharmaceuticals",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-18"
  },
  "indegene": {
   "name": "Indegene",
@@ -12443,7 +12443,7 @@
   "sector": "Defence aerospace",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-18"
  },
  "srikakulamplant": {
   "name": "Srikakulam plant",
@@ -12758,7 +12758,7 @@
   "sector": "AI",
   "description": "Developer of the Devin coding agent and the FrontierCode benchmark.",
   "first_added": "2026-10-30",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-18"
  },
  "robinson": {
   "name": "Robinson",
@@ -13388,7 +13388,7 @@
   "sector": "Fintech",
   "description": "Digital lending platform partnering Hygge Energy to finance rooftop solar.",
   "first_added": "2026-11-01",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-18"
  },
  "hyggeenergy": {
   "name": "Hygge Energy",
@@ -13556,7 +13556,7 @@
   "sector": "Space",
   "description": "India's space agency; GSLV-F18 launched successfully with the NVS-03 satellite reported healthy.",
   "first_added": "2026-11-02",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "learjet": {
   "name": "Learjet",
@@ -13885,7 +13885,7 @@
   "sector": "Government",
   "description": "Held elections in which Lula won a historic third term.",
   "first_added": "2026-11-02",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-18"
  },
  "lula": {
   "name": "Lula",
@@ -14501,7 +14501,7 @@
   "sector": "Mining",
   "description": "Indian state-owned miner; October iron ore output rose 18% while sales fell on rain-hit rail links.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "hg": {
   "name": "Hg",
@@ -15670,7 +15670,7 @@
   "sector": "Government statistics",
   "description": "Viksit Bharat Initiative for Statistical Transformation, Analytics & Research overhauling India's statistical system.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-18"
  },
  "ecms": {
   "name": "ECMS",
@@ -16629,7 +16629,7 @@
   "sector": "Semiconductors",
   "description": "Nvidia CEO; board investigating reports he was targeted by a foreign intelligence effort.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-18"
  },
  "alicehuang": {
   "name": "Alice Huang",
@@ -16811,7 +16811,7 @@
   "sector": "Philanthropy",
   "description": "Said Trump inaction leaves the world exposed to AI bioweapons, per the digest.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-18"
  },
  "dorex": {
   "name": "Dorex",
@@ -18029,7 +18029,7 @@
   "sector": "Software",
   "description": "Company that adopted OpenAI's Codex so its business team can prototype software; revenue more than doubled.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-18"
  },
  "fujifilm": {
   "name": "Fujifilm",
@@ -18673,7 +18673,7 @@
   "sector": "Trade forum",
   "description": "Asia-Pacific summit in Shenzhen where Trump, Xi and Putin plan a joint meeting.",
   "first_added": "2026-11-14",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-18"
  },
  "delhihighcourt": {
   "name": "Delhi High Court",
@@ -19415,7 +19415,7 @@
   "sector": "Think tank",
   "description": "Policy institute cited on diplomatic vacuums created by strained India-neighbour ties.",
   "first_added": "2026-11-17",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "grasimindustries": {
   "name": "Grasim Industries",
@@ -19485,7 +19485,7 @@
   "sector": "Software",
   "description": "CRM and marketing platform that Dreamteam aims to compete with.",
   "first_added": "2026-11-17",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "policybazaar": {
   "name": "Policybazaar",
@@ -19499,7 +19499,7 @@
   "sector": "AI",
   "description": "Chinese search and AI company whose head warned of an AI bubble amid falling revenue.",
   "first_added": "2026-11-17",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "zelle": {
   "name": "Zelle",
@@ -19563,5 +19563,1293 @@
   "description": "Investment manager whose strategist commented on crypto liquidity and the Anthropic IPO.",
   "first_added": "2026-11-17",
   "last_mentioned": "2026-11-17"
+ },
+ "wipro3d": {
+  "name": "Wipro 3D",
+  "sector": "3D printing",
+  "description": "Indian additive manufacturing unit of Wipro partnering with Markforged for composite 3D printing.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "markforged": {
+  "name": "Markforged",
+  "sector": "3D printing",
+  "description": "US maker of composite and metal 3D printers partnering with Wipro 3D in India.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "saiparenterals": {
+  "name": "Sai Parenterals",
+  "sector": "Pharma",
+  "description": "Indian sterile injectables maker acquiring a majority stake in Bion Therapeutics India.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "biontherapeuticsindia": {
+  "name": "Bion Therapeutics India",
+  "sector": "Pharma",
+  "description": "Hyderabad-based drugmaker with 16 brands being acquired by Sai Parenterals' subsidiary.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "brainbeessolutions": {
+  "name": "Brainbees Solutions",
+  "sector": "Retail",
+  "description": "Runs FirstCry, an online and offline retailer of mother, baby and kids products in India.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "signatureglobalindia": {
+  "name": "Signatureglobal India",
+  "sector": "Real estate",
+  "description": "Delhi NCR developer of affordable and mid-income housing that won a Raigad land bid.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "boydgroup": {
+  "name": "Boyd Group",
+  "sector": "Auto repair",
+  "description": "North American collision repair chain using AI agents to handle after-hours customer calls.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "oceanusmediaglobal": {
+  "name": "Oceanus Media Global",
+  "sector": "Media production",
+  "description": "Singapore media company using virtual production and AI-created environments for film shoots.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "tapestry": {
+  "name": "Tapestry",
+  "sector": "Energy software",
+  "description": "Developer of HyperQ software used by PJM to run grid interconnection readiness assessments.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "pjminterconnection": {
+  "name": "PJM Interconnection",
+  "sector": "Grid operator",
+  "description": "Operator of North America's largest electricity market running a reformed interconnection queue.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "apexcocoandsolarenergy": {
+  "name": "Apex Coco and Solar Energy",
+  "sector": "Agri processing",
+  "description": "Tiruppur-based coconut processor making 14 products and tripling capacity.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "tudorinvestment": {
+  "name": "Tudor Investment",
+  "sector": "Asset management",
+  "description": "US hedge fund that nearly doubled its stake in BlackRock's spot Bitcoin ETF.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "madrashighcourt": {
+  "name": "Madras High Court",
+  "sector": "Judiciary",
+  "description": "Indian court that restrained Blinkit from using a cricket superfan's likeness.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bennettcoleman": {
+  "name": "Bennett, Coleman",
+  "sector": "Media",
+  "description": "Indian media publisher involved in the Blinkit likeness suit, denying liability.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "indiasothebysinternationalrealty": {
+  "name": "India Sotheby's International Realty",
+  "sector": "Real estate",
+  "description": "Luxury real estate brokerage reporting Mumbai high-end housing transaction data.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "crematrix": {
+  "name": "CRE Matrix",
+  "sector": "Real estate data",
+  "description": "Indian real estate data and analytics firm tracking Mumbai luxury housing sales.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "directorateofrevenueintelligence": {
+  "name": "Directorate of Revenue Intelligence",
+  "sector": "Government",
+  "description": "Indian customs intelligence agency that searched Cipla premises over drug classification.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "congress": {
+  "name": "Congress",
+  "sector": "Political party",
+  "description": "Indian opposition party criticising the government over rising household prices.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "pboc": {
+  "name": "PBoC",
+  "sector": "Central bank",
+  "description": "China's central bank added 26 tonnes of gold in October, its biggest monthly purchase since 2023.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "clevelandfed": {
+  "name": "Cleveland Fed",
+  "sector": "Central bank",
+  "description": "US regional Federal Reserve bank whose president backed gradual rate rises.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "pjm": {
+  "name": "PJM",
+  "sector": "Grid operator",
+  "description": "North America's largest electricity market operator running a reformed interconnection queue.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "imda": {
+  "name": "IMDA",
+  "sector": "Government",
+  "description": "Singapore infocomm media regulator that co-organised the SME AI Impact Awards 2026.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "sbf": {
+  "name": "SBF",
+  "sector": "Business association",
+  "description": "Singapore Business Federation, co-organiser of the SME AI Impact Awards 2026.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "projectzero": {
+  "name": "Project Zero",
+  "sector": "Cybersecurity",
+  "description": "Google's security research team planning 30-day vulnerability disclosure timelines.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "amazonthreatintelligence": {
+  "name": "Amazon Threat Intelligence",
+  "sector": "Cybersecurity",
+  "description": "Amazon unit that observed AI agent campaigns through its MadPot decoy network.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "artex": {
+  "name": "ARTEX",
+  "sector": "Cybersecurity",
+  "description": "Agentic penetration testing framework used in offensive cybercrime campaigns.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "splunk": {
+  "name": "Splunk",
+  "sector": "Enterprise software",
+  "description": "US data platform acquired by Cisco in 2024 for $28 billion.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "outreach": {
+  "name": "Outreach",
+  "sector": "Enterprise software",
+  "description": "US sales engagement platform whose tools connect to ChatGPT partner plugins.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "gong": {
+  "name": "Gong",
+  "sector": "Enterprise software",
+  "description": "US revenue intelligence platform whose tools connect to ChatGPT partner plugins.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "docusign": {
+  "name": "Docusign",
+  "sector": "Enterprise software",
+  "description": "US e-signature company whose tools connect to ChatGPT partner plugins.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "harvey": {
+  "name": "Harvey",
+  "sector": "Legal tech",
+  "description": "Legal AI company whose LAB-AA benchmark OpenAI's Astra model topped.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "europeancommission": {
+  "name": "European Commission",
+  "sector": "Government",
+  "description": "Proposed a Digital Fairness Act with checkout confirmation rules for shopping agents.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "mttaragas": {
+  "name": "MT Tara Gas",
+  "sector": "Shipping",
+  "description": "Panama-flagged LPG tanker attacked in the Strait of Hormuz, with an Indian national missing.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "crpf": {
+  "name": "CRPF",
+  "sector": "Security forces",
+  "description": "Indian central armed police force whose checkpoint was attacked in Kulgam, Kashmir.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "jkpolice": {
+  "name": "J&K Police",
+  "sector": "Security forces",
+  "description": "Jammu and Kashmir police force whose two special officers were found dead in Kishtwar.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "lawcommission": {
+  "name": "Law Commission",
+  "sector": "Government",
+  "description": "Indian body that in 2015 recommended abolishing the death penalty except for terrorism and war.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "karnataka": {
+  "name": "Karnataka",
+  "sector": "Government",
+  "description": "Indian state pitching itself as a global hub for AI, deep tech and semiconductors.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bengalurutechsummit": {
+  "name": "Bengaluru Tech Summit",
+  "sector": "Event",
+  "description": "Karnataka's annual technology conference, now in its 29th edition.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "xijinping": {
+  "name": "Xi Jinping",
+  "sector": "Government",
+  "description": "China's president preparing to discuss AI risks with Donald Trump at APEC.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "asifmerchant": {
+  "name": "Asif Merchant",
+  "sector": "Individual",
+  "description": "Pakistani man sentenced to over 27 years for plotting to kill Donald Trump.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "iran": {
+  "name": "Iran",
+  "sector": "Government",
+  "description": "Accused of directing a plot to kill Donald Trump in retaliation for Soleimani's killing.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "qassemsoleimani": {
+  "name": "Qassem Soleimani",
+  "sector": "Individual",
+  "description": "Iranian commander killed in 2020, cited as motive for a plot against Donald Trump.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "harveyjones": {
+  "name": "Harvey Jones",
+  "sector": "Individual",
+  "description": "Nvidia chairperson who said the board won't reinstate Jensen Huang as CEO.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "colettekress": {
+  "name": "Colette Kress",
+  "sector": "Individual",
+  "description": "Nvidia interim CEO reporting the company's third-quarter results.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "vikasrathi": {
+  "name": "Vikas Rathi",
+  "sector": "Individual",
+  "description": "Reliance CFO who announced the $1.6 billion biogas investment plan.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "robinli": {
+  "name": "Robin Li",
+  "sector": "Individual",
+  "description": "Baidu head who warned of an AI bubble ahead of APEC talks.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "dkshivakumar": {
+  "name": "D.K. Shivakumar",
+  "sector": "Individual",
+  "description": "Karnataka Chief Minister who opened the 29th Bengaluru Tech Summit.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "jairamramesh": {
+  "name": "Jairam Ramesh",
+  "sector": "Individual",
+  "description": "Congress leader citing a survey on rising household spending in India.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "mehboobamufti": {
+  "name": "Mehbooba Mufti",
+  "sector": "Individual",
+  "description": "Politician who criticised an anti-terror operation in Kulgam, Kashmir.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "imrannabidar": {
+  "name": "Imran Nabi Dar",
+  "sector": "Individual",
+  "description": "National Conference spokesman who criticised the Kulgam anti-terror operation.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "musadikmasoodmalik": {
+  "name": "Musadik Masood Malik",
+  "sector": "Individual",
+  "description": "Pakistan's climate minister set to attend the SCO forum in New Delhi.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "rksingh": {
+  "name": "R.K. Singh",
+  "sector": "Individual",
+  "description": "India's Defense Secretary who said an AMCA prototype builder will be chosen within a month.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "vamshikrishnagv": {
+  "name": "Vamshi Krishna G V",
+  "sector": "Individual",
+  "description": "Promoted to Senior Vice President and Hyderabad Business Head at Naukri.com.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "shivamarora": {
+  "name": "Shivam Arora",
+  "sector": "Individual",
+  "description": "Appointed Senior Vice President and Head of Marketing for Jeevansathi at Info Edge.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "lizcentoni": {
+  "name": "Liz Centoni",
+  "sector": "Individual",
+  "description": "Cisco EVP running its $15 billion services business and agentic AI transformation.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "briankaner": {
+  "name": "Brian Kaner",
+  "sector": "Individual",
+  "description": "Boyd Group CEO who said agentic AI answers after-hours calls to schedule repairs.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "kokpingsoon": {
+  "name": "Kok Ping Soon",
+  "sector": "Individual",
+  "description": "SBF CEO commenting on SME capabilities at the SME AI Impact Awards 2026.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "geoffreyhinton": {
+  "name": "Geoffrey Hinton",
+  "sector": "Individual",
+  "description": "AI researcher who signed a statement on mitigating AI extinction risk.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "yoshuabengio": {
+  "name": "Yoshua Bengio",
+  "sector": "Individual",
+  "description": "AI researcher who signed a statement on mitigating AI extinction risk.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "samaltman": {
+  "name": "Sam Altman",
+  "sector": "Individual",
+  "description": "OpenAI CEO who signed a statement on mitigating AI extinction risk.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bethhammack": {
+  "name": "Beth Hammack",
+  "sector": "Individual",
+  "description": "Cleveland Fed President who backed gradual rate rises.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "pbbalaji": {
+  "name": "P B Balaji",
+  "sector": "Individual",
+  "description": "Madras High Court judge who restrained Blinkit over a superfan's likeness.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "saravananhari": {
+  "name": "Saravanan Hari",
+  "sector": "Individual",
+  "description": "CSK superfan whose likeness Blinkit was restrained from using without consent.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "paultudorjones": {
+  "name": "Paul Tudor Jones",
+  "sector": "Individual",
+  "description": "Billionaire investor whose Tudor Investment doubled its BlackRock Bitcoin ETF stake.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "firstcry": {
+  "name": "FirstCry",
+  "sector": "Retail",
+  "description": "Brainbees Solutions' online and offline mother, baby and kids products brand.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "supercoins": {
+  "name": "SuperCoins",
+  "sector": "Loyalty",
+  "description": "Flipkart's rewards currency used in the Kuku TV partnership.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "madpot": {
+  "name": "MadPot",
+  "sector": "Cybersecurity",
+  "description": "Amazon's decoy network that captured AI agent requests from offensive campaigns.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "hyperq": {
+  "name": "HyperQ",
+  "sector": "Energy software",
+  "description": "Tapestry's software that ran thousands of grid readiness assessments in one night.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "project360": {
+  "name": "Project 360",
+  "sector": "Auto repair",
+  "description": "Boyd Group's cost-savings programme with a raised $140 million target.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "viksitbharatinitiativeforstatisticaltransformationanalyticsresearch": {
+  "name": "Viksit Bharat Initiative for Statistical Transformation, Analytics & Research",
+  "sector": "Government",
+  "description": "India's approved initiative making AI and machine learning core to official statistics.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "digitalfairnessact": {
+  "name": "Digital Fairness Act",
+  "sector": "Regulation",
+  "description": "European Commission proposal setting rules for shopping agents and checkout confirmation.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "agentslastexam": {
+  "name": "Agents' Last Exam",
+  "sector": "Benchmark",
+  "description": "AI agent benchmark on which OpenAI's Astra scored above GPT-6 Astra.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "frontiercode20": {
+  "name": "FrontierCode 2.0",
+  "sector": "Benchmark",
+  "description": "Cognition's coding benchmark used to compare OpenAI's new models.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "lifeval": {
+  "name": "LifeVal",
+  "sector": "Benchmark",
+  "description": "Benchmark on which OpenAI's Sol outscores GPT-6 Astra at lower cost.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "harveylabaav11": {
+  "name": "Harvey LAB-AA v1.1",
+  "sector": "Benchmark",
+  "description": "Legal AI benchmark on which OpenAI's Astra set a new state of the art.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "gpt62astra": {
+  "name": "GPT-6.2 Astra",
+  "sector": "AI",
+  "description": "OpenAI model for complex professional work, priced below GPT-6 Astra.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "gpt62sol": {
+  "name": "GPT-6.2 Sol",
+  "sector": "AI",
+  "description": "OpenAI model for everyday tasks, cheaper than Astra on several benchmarks.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "chatgptforsales": {
+  "name": "ChatGPT for Sales",
+  "sector": "AI",
+  "description": "OpenAI's Sales plugin with seller workflows and over 30 partner plugins.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "claudefable52": {
+  "name": "Claude Fable 5.2",
+  "sector": "AI",
+  "description": "Anthropic model compared against OpenAI's new GPT-6.2 models on benchmarks.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "mtf": {
+  "name": "MTF",
+  "sector": "Finance",
+  "description": "Margin trading facility positions that SEBI may curb when leverage crosses thresholds.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "nationalconference": {
+  "name": "National Conference",
+  "sector": "Political party",
+  "description": "Jammu and Kashmir political party that criticised the Kulgam anti-terror operation.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bharatiyajanataparty": {
+  "name": "Bharatiya Janata Party",
+  "sector": "Political party",
+  "description": "India's ruling party, referenced in the context of the Kashmir security situation.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "pahalgam": {
+  "name": "Pahalgam",
+  "sector": "Location",
+  "description": "Site of an attack after which India said terrorism and bilateral talks cannot coexist.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "khasab": {
+  "name": "Khasab",
+  "sector": "Location",
+  "description": "Omani port where 21 Indian crew from the attacked tanker were evacuated ashore.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "kulgam": {
+  "name": "Kulgam",
+  "sector": "Location",
+  "description": "Kashmir district where a CRPF checkpoint was attacked and an anti-terror operation ran.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "kishtwar": {
+  "name": "Kishtwar",
+  "sector": "Location",
+  "description": "Jammu and Kashmir district where two police special officers were found dead.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "raigad": {
+  "name": "Raigad",
+  "sector": "Location",
+  "description": "Maharashtra district where SignatureGlobal's subsidiary won a 474.66-acre land bid.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "nagarnar": {
+  "name": "Nagarnar",
+  "sector": "Location",
+  "description": "Site where NMDC commissioned a 2 MT pellet plant in September.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "tokisud": {
+  "name": "Tokisud",
+  "sector": "Location",
+  "description": "Jharkhand site where NMDC began commercial coal production.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bhiwandi": {
+  "name": "Bhiwandi",
+  "sector": "Location",
+  "description": "Site of a Cipla depot searched by the Directorate of Revenue Intelligence.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "vikhroli": {
+  "name": "Vikhroli",
+  "sector": "Location",
+  "description": "Mumbai location of Cipla's office searched by the Directorate of Revenue Intelligence.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "tiruppur": {
+  "name": "Tiruppur",
+  "sector": "Location",
+  "description": "Tamil Nadu city where Apex Coco and Solar Energy is based.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "kochi": {
+  "name": "Kochi",
+  "sector": "Location",
+  "description": "City where Apex Coco received the Best National Coconut Entrepreneur Award 2026.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "noida": {
+  "name": "Noida",
+  "sector": "Location",
+  "description": "City where Congress said 200 garment factories shut over the past year.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "mumbai": {
+  "name": "Mumbai",
+  "sector": "Location",
+  "description": "City whose luxury housing market shifted towards larger 4 BHK homes.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "delhincr": {
+  "name": "Delhi NCR",
+  "sector": "Location",
+  "description": "Region where SignatureGlobal India develops affordable and mid-income housing.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "singapore": {
+  "name": "Singapore",
+  "sector": "Location",
+  "description": "Country hosting the SME AI Impact Awards 2026 and named in new US chip export rules.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "malaysia": {
+  "name": "Malaysia",
+  "sector": "Location",
+  "description": "Country named in new US AI chip export rules requiring licenses for shipments.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "thailand": {
+  "name": "Thailand",
+  "sector": "Location",
+  "description": "Country named in new US AI chip export rules requiring licenses for shipments.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "indonesia": {
+  "name": "Indonesia",
+  "sector": "Location",
+  "description": "Country named in new US AI chip export rules requiring licenses for shipments.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "china": {
+  "name": "China",
+  "sector": "Location",
+  "description": "Country whose consumers lead AI shopping adoption and whose firms face new US chip rules.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "india": {
+  "name": "India",
+  "sector": "Location",
+  "description": "Country where 76% of consumers use AI tools for shopping, second only to China.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "pakistan": {
+  "name": "Pakistan",
+  "sector": "Location",
+  "description": "Country whose climate minister will attend the SCO forum in New Delhi.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bangladesh": {
+  "name": "Bangladesh",
+  "sector": "Location",
+  "description": "Country downstream of India in shared water cooperation discussions.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "jammuandkashmir": {
+  "name": "Jammu and Kashmir",
+  "sector": "Location",
+  "description": "Region where a three-month lull in violence was broken by attacks.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "washington": {
+  "name": "Washington",
+  "sector": "Location",
+  "description": "US government that imposed new AI chip export rules requiring licenses.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "brooklyn": {
+  "name": "Brooklyn",
+  "sector": "Location",
+  "description": "US borough where a Pakistani man was sentenced for plotting to kill Donald Trump.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "panama": {
+  "name": "Panama",
+  "sector": "Location",
+  "description": "Flag state of the LPG tanker MT Tara Gas attacked in the Strait of Hormuz.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "australia": {
+  "name": "Australia",
+  "sector": "Location",
+  "description": "Country whose TGA accreditation covers Sai Parenterals' manufacturing facilities.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "southkorea": {
+  "name": "South Korea",
+  "sector": "Location",
+  "description": "Country whose partners co-own films with Singapore's Oceanus Media Global.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "northamerica": {
+  "name": "North America",
+  "sector": "Location",
+  "description": "Region where Boyd Group runs collision repair centers and PJM operates its grid.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "europe": {
+  "name": "Europe",
+  "sector": "Location",
+  "description": "Region where the European Commission proposed a Digital Fairness Act for shopping agents.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "unitedstates": {
+  "name": "United States",
+  "sector": "Location",
+  "description": "Country imposing new AI chip export rules and where bitcoin ETF outflows continued.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "jharkhand": {
+  "name": "Jharkhand",
+  "sector": "Location",
+  "description": "Indian state where NMDC began commercial coal production at Tokisud.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "tamilnadu": {
+  "name": "Tamil Nadu",
+  "sector": "Location",
+  "description": "Indian state where Tiruppur-based Apex Coco and Solar Energy operates.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "kerala": {
+  "name": "Kerala",
+  "sector": "Location",
+  "description": "Indian state where Kochi hosted the International Coconut Community award.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "uttarpradesh": {
+  "name": "Uttar Pradesh",
+  "sector": "Location",
+  "description": "Indian state where Noida garment factories shut, per Congress.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "telangana": {
+  "name": "Telangana",
+  "sector": "Location",
+  "description": "Indian state where Hyderabad-based Bion Therapeutics India operates.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "gujarat": {
+  "name": "Gujarat",
+  "sector": "Location",
+  "description": "Indian state where Reliance operates biogas plants among its 45 facilities.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "rajasthan": {
+  "name": "Rajasthan",
+  "sector": "Location",
+  "description": "Indian state where Reliance operates biogas plants among its 45 facilities.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "haryana": {
+  "name": "Haryana",
+  "sector": "Location",
+  "description": "Indian state where Reliance operates biogas plants among its 45 facilities.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "punjab": {
+  "name": "Punjab",
+  "sector": "Location",
+  "description": "Indian state where Reliance operates biogas plants among its 45 facilities.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "westbengal": {
+  "name": "West Bengal",
+  "sector": "Location",
+  "description": "Indian state where Reliance operates biogas plants among its 45 facilities.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bihar": {
+  "name": "Bihar",
+  "sector": "Location",
+  "description": "Indian state where Reliance operates biogas plants among its 45 facilities.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "uttarakhand": {
+  "name": "Uttarakhand",
+  "sector": "Location",
+  "description": "Indian state where Reliance operates biogas plants among its 45 facilities.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "himachalpradesh": {
+  "name": "Himachal Pradesh",
+  "sector": "Location",
+  "description": "Indian state where Reliance operates biogas plants among its 45 facilities.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "chhattisgarh": {
+  "name": "Chhattisgarh",
+  "sector": "Location",
+  "description": "Indian state where Reliance operates biogas plants among its 45 facilities.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "assam": {
+  "name": "Assam",
+  "sector": "Location",
+  "description": "Indian state where Reliance operates biogas plants among its 45 facilities.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "goa": {
+  "name": "Goa",
+  "sector": "Location",
+  "description": "Indian state where Reliance operates biogas plants among its 45 facilities.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "kolkata": {
+  "name": "Kolkata",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "chennai": {
+  "name": "Chennai",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bengaluru": {
+  "name": "Bengaluru",
+  "sector": "Location",
+  "description": "Indian city hosting the 29th Bengaluru Tech Summit.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "pune": {
+  "name": "Pune",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "ahmedabad": {
+  "name": "Ahmedabad",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "lucknow": {
+  "name": "Lucknow",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "kanpur": {
+  "name": "Kanpur",
+  "sector": "Location",
+  "description": "City where HAL's Transport Aircraft Division is hiring apprentices.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "nagpur": {
+  "name": "Nagpur",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "indore": {
+  "name": "Indore",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bhopal": {
+  "name": "Bhopal",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "patna": {
+  "name": "Patna",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "ranchi": {
+  "name": "Ranchi",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "guwahati": {
+  "name": "Guwahati",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bhubaneswar": {
+  "name": "Bhubaneswar",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "raipur": {
+  "name": "Raipur",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "dehradun": {
+  "name": "Dehradun",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "shimla": {
+  "name": "Shimla",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "panaji": {
+  "name": "Panaji",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "thiruvananthapuram": {
+  "name": "Thiruvananthapuram",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "coimbatore": {
+  "name": "Coimbatore",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Apex Coco's award.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "madurai": {
+  "name": "Madurai",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "vijayawada": {
+  "name": "Vijayawada",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "visakhapatnam": {
+  "name": "Visakhapatnam",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "mysuru": {
+  "name": "Mysuru",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "mangaluru": {
+  "name": "Mangaluru",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "hubballi": {
+  "name": "Hubballi",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "belagavi": {
+  "name": "Belagavi",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "kalaburagi": {
+  "name": "Kalaburagi",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "ballari": {
+  "name": "Ballari",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "davanagere": {
+  "name": "Davanagere",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "shivamogga": {
+  "name": "Shivamogga",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "udupi": {
+  "name": "Udupi",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "chikkamagaluru": {
+  "name": "Chikkamagaluru",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "hassan": {
+  "name": "Hassan",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "mandya": {
+  "name": "Mandya",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "kolar": {
+  "name": "Kolar",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "chitradurga": {
+  "name": "Chitradurga",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "koppal": {
+  "name": "Koppal",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "gadag": {
+  "name": "Gadag",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "haveri": {
+  "name": "Haveri",
+  "sector": "Location",
+  "description": "Indian city referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "uttarakannada": {
+  "name": "Uttara Kannada",
+  "sector": "Location",
+  "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "chamarajanagar": {
+  "name": "Chamarajanagar",
+  "sector": "Location",
+  "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "kodagu": {
+  "name": "Kodagu",
+  "sector": "Location",
+  "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "ramanagara": {
+  "name": "Ramanagara",
+  "sector": "Location",
+  "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "yadgir": {
+  "name": "Yadgir",
+  "sector": "Location",
+  "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bidar": {
+  "name": "Bidar",
+  "sector": "Location",
+  "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "vijayanagara": {
+  "name": "Vijayanagara",
+  "sector": "Location",
+  "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bagalkote": {
+  "name": "Bagalkote",
+  "sector": "Location",
+  "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "dharwad": {
+  "name": "Dharwad",
+  "sector": "Location",
+  "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bengalururural": {
+  "name": "Bengaluru Rural",
+  "sector": "Location",
+  "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bengalurusouth": {
+  "name": "Bengaluru South",
+  "sector": "Location",
+  "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bengalurunorth": {
+  "name": "Bengaluru North",
+  "sector": "Location",
+  "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bengalurucentral": {
+  "name": "Bengaluru Central",
+  "sector": "Location",
+  "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bengalurueast": {
+  "name": "Bengaluru East",
+  "sector": "Location",
+  "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bengaluruwest": {
+  "name": "Bengaluru West",
+  "sector": "Location",
+  "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
  }
 }
