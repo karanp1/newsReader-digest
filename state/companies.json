@@ -501,7 +501,7 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "naukri": {
   "name": "Naukri",
@@ -515,7 +515,7 @@
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "godigit": {
   "name": "Go Digit",
@@ -1432,14 +1432,14 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "citi": {
   "name": "Citi",
   "sector": "Banking",
   "description": "Investment bank; maintains Buy on Info Edge with up to 27% upside.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-15"
+  "last_mentioned": "2026-11-18"
  },
  "nuvama": {
   "name": "Nuvama",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -3266,14 +3266,14 @@
   "sector": "Insurance",
   "description": "General insurance company; mentioned in the watchlist context.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "relianceintelligence": {
   "name": "Reliance Intelligence",
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "gartner": {
   "name": "Gartner",
@@ -5121,7 +5121,7 @@
   "sector": "Crypto",
   "description": "Leading cryptocurrency that fell to $82,000 after higher-than-expected CPI.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "gold": {
   "name": "Gold",
@@ -14585,7 +14585,7 @@
   "sector": "Banking",
   "description": "German bank selling its India retail, private banking and wealth management business to Kotak.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-18"
  },
  "essarrenewables": {
   "name": "Essar Renewables",
@@ -16335,7 +16335,7 @@
   "sector": "Industrial equipment",
   "description": "Cryogenic equipment maker; peer comparison in HBL Engineering coverage.",
   "first_added": "2026-11-08",
-  "last_mentioned": "2026-11-08"
+  "last_mentioned": "2026-11-18"
  },
  "subros": {
   "name": "Subros",
@@ -18162,7 +18162,7 @@
   "sector": "Pharmaceuticals",
   "description": "Indian maker of APIs and formulations for Latin America and Africa; shares fell 5.32% after Q2 results.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-18"
  },
  "mahanadicoalfields": {
   "name": "Mahanadi Coalfields",
@@ -20926,6 +20926,48 @@
   "name": "MinoHealth AI Labs",
   "sector": "AI biotech",
   "description": "Ghana lab whose drug discovery AI designed toxic proteins, raising bioweapons concerns.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "legroupefigaro": {
+  "name": "Le Groupe Figaro",
+  "sector": "Media",
+  "description": "French media group whose Le Figaro journalism will appear in ChatGPT under a partnership.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "chase": {
+  "name": "Chase",
+  "sector": "Banking",
+  "description": "JPMorgan's consumer banking unit hit by an outage on November 17.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "vedantaaluminiummetal": {
+  "name": "Vedanta Aluminium Metal",
+  "sector": "Metals",
+  "description": "Indian aluminium producer whose shares fell 5.79% amid profit-taking.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "circle": {
+  "name": "Circle",
+  "sector": "Fintech",
+  "description": "Issuer of the USDC stablecoin, being explored by the World Bank with Citi for development funds.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "rockstargames": {
+  "name": "Rockstar Games",
+  "sector": "Video games",
+  "description": "Game developer behind Grand Theft Auto VI, released November 19 and sold via Blinkit.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "worldbankgroup": {
+  "name": "World Bank Group",
+  "sector": "Development finance",
+  "description": "Multilateral lender exploring Circle's USDC with Citi for blockchain-based development payments.",
   "first_added": "2026-11-18",
   "last_mentioned": "2026-11-18"
  }
