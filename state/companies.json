@@ -60,7 +60,7 @@
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "olaelectric": {
   "name": "Ola Electric",
@@ -508,7 +508,7 @@
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
@@ -781,7 +781,7 @@
   "sector": "Matchmaking",
   "description": "Info Edge's matrimony platform; Q2 billings rose 18.4% to Rs 39.7 crore.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "99acres": {
   "name": "99acres",
@@ -1250,7 +1250,7 @@
   "sector": "Software",
   "description": "US software giant; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "adobe": {
   "name": "Adobe",
@@ -1761,7 +1761,7 @@
   "sector": "AI",
   "description": "Indian AI startup that appointed former Google Cloud India MD Sashikumar Sreedharan as President.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-18"
  },
  "otpless": {
   "name": "OTPless",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "accenture": {
   "name": "Accenture",
@@ -9965,7 +9965,7 @@
   "sector": "AI",
   "description": "AI search company whose assistant powers the voice features in Hyundai's Bayon SUV.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-18"
  },
  "soundhoundai": {
   "name": "SoundHound AI",
@@ -16440,7 +16440,7 @@
   "sector": "Semiconductors",
   "description": "Chip buyer whose employee Alice Huang was reportedly involved in an intelligence effort around Nvidia's CEO.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-16"
+  "last_mentioned": "2026-11-18"
  },
  "jiohotstar": {
   "name": "JioHotstar",
@@ -18603,7 +18603,7 @@
   "sector": "AI voice",
   "description": "Builds conversational AI agents; enterprises generate over 55% of its revenue.",
   "first_added": "2026-11-14",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-18"
  },
  "bancointer": {
   "name": "Banco Inter",
@@ -20849,6 +20849,83 @@
   "name": "Bengaluru West",
   "sector": "Location",
   "description": "Indian district referenced in the context of Reliance's biogas operations.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "replit": {
+  "name": "Replit",
+  "sector": "AI",
+  "description": "AI coding platform among overseas firms expanding in India.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "wisprflow": {
+  "name": "Wispr Flow",
+  "sector": "AI",
+  "description": "AI voice dictation startup among overseas firms expanding in India.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "databricks": {
+  "name": "Databricks",
+  "sector": "Data software",
+  "description": "Data and AI platform company among overseas firms expanding in India.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "figma": {
+  "name": "Figma",
+  "sector": "Design software",
+  "description": "Design collaboration software company among overseas firms expanding in India.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "rippling": {
+  "name": "Rippling",
+  "sector": "HR software",
+  "description": "Workforce management software company among overseas firms expanding in India.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "harness": {
+  "name": "Harness",
+  "sector": "DevOps software",
+  "description": "Software delivery platform company among overseas firms expanding in India.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "glean": {
+  "name": "Glean",
+  "sector": "Enterprise search",
+  "description": "Enterprise search and AI company among overseas firms expanding in India.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "pegasystems": {
+  "name": "Pega Systems",
+  "sector": "Enterprise software",
+  "description": "Software company partnering with Karnataka to train students in AI technologies.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "gnaniai": {
+  "name": "Gnani.ai",
+  "sector": "AI",
+  "description": "Indian voice AI company partnering with Karnataka on AI skilling.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "henfruit": {
+  "name": "Henfruit",
+  "sector": "Food",
+  "description": "Indian egg brand that raised $15 million from Lok Capital, DSG Consumer Partners and RPSG Capital Ventures.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "minohealthailabs": {
+  "name": "MinoHealth AI Labs",
+  "sector": "AI biotech",
+  "description": "Ghana lab whose drug discovery AI designed toxic proteins, raising bioweapons concerns.",
   "first_added": "2026-11-18",
   "last_mentioned": "2026-11-18"
  }
