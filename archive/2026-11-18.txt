@@ -3,8 +3,8 @@ METRICS
 NIFTY PE | 20.68 | 17 Nov 2026 | https://nifty-pe-ratio.com/
 Gold per 10g 24K | ₹1,33,260 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 25,227.95 (-0.28%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹60,31,631 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $64,539 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹59,93,096 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $64,151 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -13,66 +13,53 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   18 Nov 2026 | https://simplywall.st/stocks/in/telecom/nse-jpl/jio-platforms-shares/news/jio-platforms-nseijpl-stock-looks-close-to-fair-value-on-cas
-  • Jio Platforms reported Q2 FY27 net profit of ₹8,389 crore, up 13.7% year on year, on revenue of ₹40,475 crore, up 11.4%. ¶ • The stock trades at ₹1,395.90, about 26% above its ₹1,119 IPO price, with a 40.5x P/E and a DCF estimate near the current price. ¶ • Reliance is exploring Indian manufacturing partnerships for a 1,600-satellite broadband constellation to support Jio Platforms, targeting completion by 2035. ¶ • The constellation plan includes at least 400 satellites from the US, a September 2027 test mission and wider deployment from early 2028. ¶ • India produces fewer than 15 satellites a year against a needed roughly 200 annually, and launch capacity is seen as the bigger constraint. ¶ ↗ simplywall.st|https://simplywall.st/stocks/in/telecom/nse-jpl/jio-platforms-shares/news/jio-platforms-nseijpl-stock-looks-close-to-fair-value-on-cas ;; communicationstoday.co.in|https://www.communicationstoday.co.in/ambani-aims-to-build-satellite-capacity-for-direct-challenge-to-starlink/ ;; livemint.com|https://www.livemint.com/market/stock-market-news/jio-platforms-shares-gain-over-26-from-ipo-price-should-investors-hold-buy-more-or-book-profits-what-experts-say-11794985144658.html ;; m.economictimes.com|https://m.economictimes.com/industry/telecom/telecom-news/mukesh-ambani-reliance-jio-seeks-to-build-satellite-capacity-for-starlink-challenge/articleshow/135945326.cms
+  • Jio Platforms reported September 2026 quarter net profit up 13.7% to ₹8,389 crore and revenue up 11.4% to ₹40,475 crore in its first results as a listed company. ¶ • The stock trades above its ₹1,119 IPO price, opening at ₹1,399.70, after listing at ₹1,358 on 28 October 2026 following a ₹30,188-crore IPO. ¶ • Reliance plans a 1,600-satellite low-earth orbit broadband constellation by 2035 to support Jio Platforms, with a September 2027 test mission and deployment from early 2028. ¶ • Reliance will import at least 400 satellites from the US and is in talks with two American suppliers, while India makes fewer than 15 satellites a year against a needed 200. ¶ • A DCF model using trailing twelve month free cash flow of about ₹374b puts Jio Platforms' intrinsic value broadly in line with its ₹1,395.90 share price. ¶ ↗ simplywall.st|https://simplywall.st/stocks/in/telecom/nse-jpl/jio-platforms-shares/news/jio-platforms-nseijpl-stock-looks-close-to-fair-value-on-cas ;; indiatoday.in|https://www.indiatoday.in/technology/news/story/jio-plans-1600-satellites-to-take-on-elon-musks-starlink-3041564-2026-11-18 ;; business-standard.com|https://www.business-standard.com/industry/news/reliance-group-seeks-to-build-satellite-capacity-for-starlink-challenge-126111800174_1.html ;; communicationstoday.co.in|https://www.communicationstoday.co.in/ambani-aims-to-build-satellite-capacity-for-direct-challenge-to-starlink/
 
 - Outlook: Neutral
   2026-11-18 |
-  §VIEW§{"stance": "neutral", "text": "Q2 profit rose 13.7% and EBITDA grew 16.6%, but the stock trades near DCF fair value at 40.5x P/E. Satellite plans add long-term optionality while capex and launch constraints weigh."}
+  §VIEW§{"stance": "neutral", "text": "Earnings growth and the satellite build-out support the story, but the stock trades near DCF fair value with heavy capex and execution risk. Valuation and cash-flow delivery split the case."}
 
 [Reliance Intelligence]
 
 [Reliance]
 
-- Reliance Industries Limited (RELIANCE.NS) Stock Price, News, Quote & History
+- ~
   18 Nov 2026 | https://ca.finance.yahoo.com/quote/RELIANCE.NS/
-  Reliance Industries Limited (RELIANCE.NS)
+  • Reliance shares rose 17.3% between October 30 and November 17, adding about ₹2.74 lakh crore to market capitalisation, per Moneycontrol. ¶ • The stock completed 11 regular sessions without a lower close, its longest such run since April 2007, according to Bloomberg data. ¶ • September-quarter results drove the rally: oil-to-chemicals EBITDA rose 67.9% to ₹25,203 crore and Jio Platforms EBITDA rose 16.6% to ₹21,879 crore. ¶ • Reliance plans to invest $1.6 billion in 100 biogas plants by 2030, targeting 5 million cubic meters per day of gas from agricultural residue. ¶ • Reliance is exploring partnerships for a 1,600-satellite broadband constellation by 2035, including at least 400 satellites from the US, to challenge Starlink in India. ¶ ↗ moneycontrol.com|https://www.moneycontrol.com/news/business/reliance-industries-on-course-for-longest-winning-streak-in-19-years-14083390.html ;; oilprice.com|https://oilprice.com/Latest-Energy-News/World-News/Reliance-Bets-16-Billion-on-Indias-Biogas-Boom.html ;; business-standard.com|https://www.business-standard.com/industry/news/reliance-group-seeks-to-build-satellite-capacity-for-starlink-challenge-126111800174_1.html
 
-- India's Reliance plans to invest about $1.6 billion to build new biogas plants
-  17 Nov 2026 | https://www.reuters.com/business/energy/indias-reliance-plans-invest-about-16-billion-build-new-biogas-plants-2026-11-17/
-
-- Reliance Industries on course for longest winning streak in 19 years- Moneycontrol.com
-  18 Nov 2026 | https://www.linkedin.com/posts/moneycontrol_reliance-industries-on-course-for-longest-activity-7528743873691406337-8d77
-
-- Reliance Industries Limited (RELIANCE.NS) stock price, news, quote and history
-  17 Nov 2026 | https://uk.finance.yahoo.com/quote/RELIANCE.NS/
-  Reliance Industries Limited (RELIANCE.NS)
+- Outlook: Bullish
+  2026-11-18 |
+  §VIEW§{"stance": "bullish", "text": "Strong Q2 earnings, with oil-to-chemicals EBITDA up 67.9% and Jio EBITDA up 16.6%, plus an 11-session run without a lower close, drive the positive flow. Biogas and satellite investments add long-term optionality."}
 
 [Flipkart]
 
 - ~
   18 Nov 2026 | https://www.91mobiles.com/hub/motorola-edge-70-neo-india-landing-page-flipkart-november-26th-hinted/
-  • Flipkart teases Motorola Edge 70 Neo with a dark green finish and square camera module, hinting at a November 2026 launch. ¶ • Motorola Edge 70 Neo is expected to pack a 7,000mAh battery, 6.78-inch 1.5K 144Hz display, and Snapdragon 7s Gen 3 chipset. ¶ • The phone may be priced between ₹20,000 and ₹25,000, undercutting the Edge 70 Fusion which starts at ₹26,999. ¶ • New e-commerce rules from January 1, 2027 require platforms like Flipkart to show the lowest price of the past 30 days and label sponsored products. ¶ • Flipkart offers up to ₹51,450 off on iPhone 17 Pro, with the 256GB model at ₹1,26,900 after a flat ₹8,000 discount. ¶ ↗ 91mobiles.com|https://www.91mobiles.com/hub/motorola-edge-70-neo-india-landing-page-flipkart-november-26th-hinted/ ;; nokiamob.net|https://nokiamob.net/2026/11/17/motorola-edge-70-neo-teased-on-flipkart-7000mah-battery-and-lytia-camera-expected/ ;; livechennai.com|https://www.livechennai.com/detailnews.asp?catid=&newsid=84853 ;; udaipurkiran.com|https://udaipurkiran.com/iphone-17-pro-discounted-save-up-to-rs-51450-on-flipkart-offers/
+  • Flipkart lists the Apple MacBook Neo with 8GB RAM and 512GB SSD at ₹78,890, a saving of ₹11,010 on its ₹89,900 list price. ¶ • Flipkart discounts the iPhone 17 Pro 256GB to ₹1,26,900, a flat ₹8,000 cut, with HDFC credit cards adding ₹6,000 off. ¶ • A Flipkart microsite teases the Motorola Edge 70 Neo, expected to launch in India on November 24th with a 7,000mAh battery. ¶ • New e-commerce rules from January 1, 2027 require Amazon and Flipkart to show the lowest price of the past 30 days for any discount. ¶ • The same rules bar platforms from manipulating search results and require sponsored products to be clearly identified. ¶ ↗ 91mobiles.com|https://www.91mobiles.com/hub/motorola-edge-70-neo-india-landing-page-flipkart-november-26th-hinted/ ;; gizbot.com|https://www.gizbot.com/deal-of-the-day/apple-macbook-neo-gets-big-discount-on-flipkart-how-to-get-the-deal-129799.html ;; livechennai.com|https://www.livechennai.com/detailnews.asp?catid=&newsid=84853 ;; udaipurkiran.com|https://udaipurkiran.com/iphone-17-pro-discounted-save-up-to-rs-51450-on-flipkart-offers/
 
 - Outlook: Neutral
   2026-11-18 |
-  §VIEW§{"stance": "neutral", "text": "Flipkart gains from exclusive launches and discount-driven sales, but faces margin pressure from new transparency rules. The net effect depends on execution."}
+  §VIEW§{"stance": "neutral", "text": "Discount-led demand for iPhones and MacBooks supports Flipkart's gross sales, but the January 2027 rules on price and search transparency raise compliance costs. The two forces offset each other."}
 
 [Zomato]
 
-- From Blinkit to YouTube, Everyone Wants a Piece of GTA 6
+- ~
   18 Nov 2026 | https://openthemagazine.com/branding-marketing-and-advertising/from-blinkit-to-youtube-everyone-wants-a-piece-of-gta-6
-  Blinkit has built its business on the promise that you do not have to wait. A packet of chips, a phone charger, a last-minute ingredient for dinner: place an order and it could be at your door in minutes. On November 18, the quick-commerce…
+  • Blinkit began delivering GTA 6 boxes in select areas of 11 cities on November 18, ahead of the game's November 19 launch. ¶ • The box holds a download code, not a disc, letting buyers pre-load the 212GB game before the midnight unlock. ¶ • GTA 6 is priced at ₹5,999 for the Standard Edition and ₹7,499 for the Ultimate Edition on PlayStation and Xbox stores in India. ¶ • Sensor Tower's November 16 tracker estimated 15 million digital pre-orders globally across PlayStation 5 and Xbox Series X/S. ¶ • The Madras High Court restrained Blinkit from using a CSK fan's likeness without written permission over a March 23, 2025 advertisement. ¶ ↗ openthemagazine.com|https://openthemagazine.com/branding-marketing-and-advertising/from-blinkit-to-youtube-everyone-wants-a-piece-of-gta-6 ;; indiatoday.in|https://www.indiatoday.in/technology/news/story/blinkit-says-it-will-send-you-gta-6-in-10-minutes-available-to-players-in-these-places-3041395-2026-11-18 ;; in.ign.com|https://in.ign.com/grand-theft-auto-vi/277351/gta-6-is-now-available-on-blinkit-ahead-of-launch ;; moneycontrol.com|https://www.moneycontrol.com/technology/blinkit-starts-delivering-gta-6-in-select-indian-cities-ahead-of-november-19-launch-article-14083255.html
 
-- GTA 6 on Blinkit: How to order, delivery cities on November 19 release date
-  18 Nov 2026 | https://indianexpress.com/article/trending/trending-in-india/gta-6-on-blinkit-cities-how-to-order-november-19-10968134/
-
-- Blinkit says it will send you GTA 6 in 10 minutes, available to players in these places
-  18 Nov 2026 | https://www.indiatoday.in/technology/news/story/blinkit-says-it-will-send-you-gta-6-in-10-minutes-available-to-players-in-these-places-3041395-2026-11-18
-  After a massive 13-year wait, Grand Theft Auto VI (GTA 6) is finally arriving, and gamers in India do not even have to step out of their homes or wait days for a courier to get it. Ahead of the game’s official unlock on November 19,…
-
-- GTA 6 Is Now Available on Blinkit Ahead of Launch
-  18 Nov 2026 | https://in.ign.com/grand-theft-auto-vi/277351/gta-6-is-now-available-on-blinkit-ahead-of-launch
-  Rockstar Games' GTA 6 is now available to order through quick-commerce platform Blinkit in select areas across different cities, ahead of its November 19 release.
+- Outlook: Neutral
+  2026-11-18 |
+  §VIEW§{"stance": "neutral", "text": "The GTA 6 listing shows Blinkit can stretch its network to high-demand launches, but a one-off game is not a daily-use product. The Madras High Court injunction adds legal risk, so the flow splits."}
 
 [HAL]
 
 - ~
   17 Nov 2026 | https://aviationweek.com/defense/aircraft-propulsion/india-plans-amca-prototype-decision-within-month
-  • India plans to select a company within a month to build the first AMCA stealth fighter prototypes, Defense Secretary R.K. Singh said on Nov. 16. ¶ • The Union Budget 2026-27 allocated ₹7.85 lakh crore to defence, including ₹1.85 lakh crore for capital acquisition. ¶ • Aircraft and aero-engine allocation under capital acquisition rose to ₹63,734 crore from ₹48,614 crore, up about 31%. ¶ • Citi recommended a Buy on HAL with a target price of ₹6,175 per share, implying 30% upside from ₹4,738. ¶ • HAL shares closed at ₹4,727 on the NSE on Nov. 17, 2026. ¶ ↗ aviationweek.com|https://aviationweek.com/defense/aircraft-propulsion/india-plans-amca-prototype-decision-within-month ;; tradebrains.in|https://tradebrains.in/indian-markets/stocks-to-buy-hal-paytm-3-other-stocks-that-can-deliver-returns-of-up-to-56-do-you-own-any-12817075 ;; goodreturns.in|https://www.goodreturns.in/news/defence-stocks-to-watch-apollo-micro-systems-bel-hal-bdl-in-focus-amid-rs-7-85-lakh-crore-budget-1547697.html
+  • India will pick a company within a month to build the first AMCA stealth fighter prototypes, Defense Secretary R.K. Singh said on Nov. 16. ¶ • The Union Budget 2026-27 allocated ₹7.85 lakh crore to defence, including ₹1.85 lakh crore for capital acquisition. ¶ • Aircraft and aero-engine allocation rose to ₹63,734 crore from ₹48,614 crore, up about 31%. ¶ • HAL shares closed at ₹4,727 on the NSE on Nov. 17. ¶ • HAL makes fighter aircraft, helicopters and aero-engines, tying its business to military procurement and indigenous aerospace manufacturing. ¶ ↗ aviationweek.com|https://aviationweek.com/defense/aircraft-propulsion/india-plans-amca-prototype-decision-within-month ;; goodreturns.in|https://www.goodreturns.in/news/defence-stocks-to-watch-apollo-micro-systems-bel-hal-bdl-in-focus-amid-rs-7-85-lakh-crore-budget-1547697.html
 
 - Outlook: Bullish
   2026-11-18 |
-  §VIEW§{"stance": "bullish", "text": "The 31% rise in aircraft and aero-engine allocation to Rs 63,734 crore directly supports HAL's order pipeline. The AMCA prototype decision within a month adds a near-term catalyst."}
+  §VIEW§{"stance": "bullish", "text": "The 31% rise in aircraft and aero-engine allocation to Rs 63,734 crore and the AMCA prototype decision support HAL's order pipeline. Execution of existing contracts remains the swing factor."}
 
 [Tejas Networks]
 
@@ -101,20 +88,25 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Infoedge/Naukri]
 
-- Naukri.com Promotes Vamshi Krishna G V to Senior Vice President and Hyderabad Business Head
-  17 Nov 2026 | https://hrtoday.in/naukri-com-promotes-vamshi-krishna-g-v-to-senior-vice-president-and-hyderabad-business-head/
-
 [Bitcoin]
 
 - ~
   17 Nov 2026 | https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal
-  • Bitcoin fell to about $62,000 on Nov. 15 and traded near $64,970 on Tuesday, with over $2 billion in liquidations over the weekend. ¶ • Glassnode said realized losses relative to past-year profits hit levels seen only near the 2018, 2020, 2022 and early 2023 lows. ¶ • U.S. spot Bitcoin ETFs extended their outflow streak to eight sessions and have bled about $2.2 billion so far in November. ¶ • Buyers absorbed about 66,000 BTC in the $62,000 to $66,000 range, but stablecoin supply shrank 4.2% over 90 days. ¶ • The World Bank Group is exploring Circle's USDC with Citi to move development funds through blockchain-based payment infrastructure. ¶ ↗ decrypt.co|https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/bitcoin-price-struggles-under-65k-083854458.html
+  • Bitcoin fell to about $62,000 on Nov. 15 before bouncing to near $64,970 on Tuesday, with more than $2 billion in liquidations over the weekend. ¶ • Glassnode said realized losses relative to past-year profits hit levels seen only near the 2018, 2020, 2022 and early 2023 lows. ¶ • U.S. spot Bitcoin ETFs extended their outflow streak to eight sessions and have bled about $2.2 billion so far in November. ¶ • Buyers absorbed about 66,000 BTC in the $62,000 to $66,000 range during the two days of heaviest selling, and resting bids within 5% of price outweigh asks about 2.3 to 1. ¶ • Arthur Hayes said Bitcoin could fall to $10,000 in a 1929-style crash if authorities chose austerity, though he doubts they would. ¶ ↗ decrypt.co|https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/arthur-hayes-warns-1929-style-104830975.html ;; businessinsider.com|https://www.businessinsider.com/nvidia-earnings-anthropic-ipo-bitcoin-price-btc-ant-nvda-2026-11
 
 - Outlook: Bearish
   2026-11-18 |
-  §VIEW§{"stance": "bearish", "text": "ETF outflows of $2.2 billion in November and thin demand keep pressure on Bitcoin. A daily close below $62,000 could trigger a drop toward $58,500 or $53,700."}
+  §VIEW§{"stance": "bearish", "text": "ETF outflows of about $2.2 billion in November and thin demand keep pressure on Bitcoin, with a daily close below $62,000 risking $58,500 or $53,700. Glassnode's capitulation reading and absorbed bids offer only early support."}
 
 [Gold]
+
+- ~
+  18 Nov 2026 | https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-selloff-deepens-before-fed-minutes-1645327
+  • Spot gold fell more than 1% to a 14-month low near $3,796 on Wednesday as the dollar held near a 19-month high and traders priced a 95.7% chance of a December quarter-point Fed hike. ¶ • US retail sales rose 0.2% in October, down from 0.8% in September, while the control group that feeds into GDP jumped 0.6%, giving the Fed little reason to back off. ¶ • New York Fed President John Williams said the central bank will likely need to raise rates again to curb inflation, though he pushed back against a more aggressive path. ¶ • Gold ETF holdings reached a record 4,275 tonnes in October and central banks bought 61 tonnes in September, with Goldman Sachs assuming central banks average 60 tonnes per month through 2028. ¶ • Goldman Sachs expects four quarter-point Fed cuts between November 2027 and September 2028, which would lower the fed funds rate to 3.25%-3.5% and help gold reclaim $5,600 per ounce by end-2028. ¶ ↗ fxempire.com|https://www.fxempire.com/forecasts/article/gold-and-silver-price-forecast-selloff-deepens-before-fed-minutes-1645327 ;; finance.yahoo.com|https://finance.yahoo.com/markets/commodities/articles/gold-prices-rise-feds-expected-180258536.html ;; kitco.com|https://www.kitco.com/news/article/2026-11-17/gold-will-reclaim-5600oz-2028-rate-cuts-bring-western-investors-back ;; fxempire.com|https://www.fxempire.com/forecasts/article/gold-xauusd-silver-price-forecast-gold-breaks-to-a-14-month-low-ahead-of-fed-minutes-can-3781-hold-1645349
+
+- Outlook: Bearish
+  2026-11-18 |
+  §VIEW§{"stance": "bearish", "text": "Near-term pressure dominates: the dollar sits near a 19-month high, December hike odds are 95.7%, and gold broke below $3,800. Record ETF holdings and steady central-bank buying provide a floor, but not enough to offset the rate-driven selloff."}
 
 ============================================================
 
@@ -202,21 +194,39 @@ SOURCE 2: The Hindu - Editorials
 
 SOURCE 5: The Hindu - Business (headlines + summary)
 
-[[Markets and rupee]]
+[[Rupee and interest rates]]
 
-- SEBI weighs curbs on margin trading as leveraged retail bets hit record
-  18 Nov 2026 | https://www.thehindu.com/business/markets/sebi-considering-proposals-to-strengthen-margin-trading-facility-chair-says/article71715267.ece
-  • SEBI is considering limits on fresh margin-funded purchases when a stock's leverage crosses 5-10% of its free float, with no decision yet, Chairman Tuhin Kanta Pandey said. ¶ • Margin trading facility positions have reached ₹1.53 trillion, up 29% from a year earlier, with about two-thirds in small- and mid-cap stocks.
+- Rupee rises 7 paise to close at 93.44 against U.S. dollar
+  18 Nov 2026 | https://www.thehindu.com/business/markets/rupee-rises-7-paise-to-close-at-9344-against-us-dollar/article71715596.ece
+  • The rupee settled at 93.44 against the dollar, up 7 paise from its previous close, after touching an intraday high of 93.25 and low of 93.57. ¶ • A strong dollar at a 19-month high, U.S.-Iran tensions and a 500-point Sensex fall pulled the rupee off its morning gains, while Brent crude at $92.71 a barrel limited the decline.
 
-- Sensex and Nifty slip in early trade as profit-taking ends two-day rally
-  18 Nov 2026 | https://www.thehindu.com/business/markets/stock-markets-on-november-18-2026/article71714534.ece
-  • The Sensex fell 75.10 points to 82,482.30 and the Nifty dropped 26.95 points to 25,355.65 in early trade on November 18, after the Sensex gained 427.40 points to 82,532.19 on November 17. ¶ • Foreign Institutional Investors bought equities worth ₹4,195.38 crore on November 17, and the Sensex is up nearly 11% so far in November through November 17.
+- RBI may hike interest rates by 75 basis points by Q2 CY27: Goldman Sachs
+  18 Nov 2026 | https://www.thehindu.com/business/Industry/rbi-may-hike-interest-rates-by-75-basis-points-by-q2-cy27-goldman-sachs/article71715510.ece
+  • Goldman Sachs forecasts a 25 basis point repo rate hike in December and another 50 basis points in the first half of CY27, taking the rate to 6.25%. ¶ • Retail inflation hit 6.1% in October 2026, breaching the RBI's upper target band for the first time in two years, and is expected to stay near 6% for two more quarters.
 
 - Rupee rises 24 paise to 93.27 against U.S. dollar in early trade
   18 Nov 2026 | https://www.thehindu.com/business/markets/rupee-vs-dollar-on-november-18-2026-forex-markets/article71714482.ece
   • The rupee appreciated 24 paise to 93.27 against the U.S. dollar in early trade on Wednesday, after closing at a seven-month high of 93.51 on Tuesday. ¶ • Traders attributed the gain to a drop in Brent crude to $92.71 a barrel and foreign portfolio inflows exceeding $8 billion into Indian equities this month.
 
-[[Company investments and deals]]
+[[Markets and trading]]
+
+- Gold futures fall for 3rd day; decline ₹3,016 to ₹1.31 lakh per 10 gm
+  18 Nov 2026 | https://www.thehindu.com/business/markets/gold-futures-fall-for-3rd-day-decline-3016-to-131-lakh-per-10-gm/article71715406.ece
+  • MCX December gold futures fell ₹3,016, or 2.25%, to ₹1,31,207 per 10 grams on Wednesday, a third straight session of losses. ¶ • Comex December gold dropped $91.30, or 2.36%, to $3,772.90 an ounce, its lowest since September 2025, on a 19-month-high dollar and Fed rate-hike expectations.
+
+- SEBI weighs curbs on margin trading as leveraged retail bets hit record
+  18 Nov 2026 | https://www.thehindu.com/business/markets/sebi-considering-proposals-to-strengthen-margin-trading-facility-chair-says/article71715267.ece
+  • SEBI is considering limits on fresh margin-funded purchases when a stock's leverage crosses 5-10% of its free float, with no decision yet, Chairman Tuhin Kanta Pandey said. ¶ • Margin trading facility positions have reached ₹1.53 trillion, up 29% from a year earlier, with about two-thirds in small- and mid-cap stocks.
+
+- Stock markets fall in early trade after two-day rally
+  18 Nov 2026 | https://www.thehindu.com/business/markets/stock-markets-on-november-18-2026/article71714534.ece
+  • The Sensex fell 75.10 points to 82,482.30 and the Nifty dropped 26.95 points to 25,355.65 in early trade on profit-taking. ¶ • The Sensex had gained nearly 11% this month through November 17, while FIIs bought equities worth ₹4,195.38 crore on November 17.
+
+[[Company deals and investments]]
+
+- A2B sells majority stake to Bodhi Tree in $180-million deal
+  18 Nov 2026 | https://www.thehindu.com/news/national/tamil-nadu/a2b-secures-180-million-investment-from-james-murdoch-uday-shankar-backed-bodhi-tree/article71694799.ece
+  • Bodhi Tree Systems, co-founded by James Murdoch and Uday Shankar, invested $180 million (over ₹1,600 crore) in Adyar Ananda Bhavan, valuing the 50-year-old chain at roughly $350 million. ¶ • A2B will use the funds to expand into western India and Europe and modernise its Chennai and Bengaluru factories, with Uday Shankar chairing the new board.
 
 - BPCL plans to raise ₹9,000 crore through bond sale after nearly four years
   17 Nov 2026 | https://www.thehindu.com/business/bpcl-plans-to-raise-9000-crore-through-bond-sale-after-nearly-four-years/article71713305.ece
@@ -226,27 +236,15 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   17 Nov 2026 | https://www.thehindu.com/business/reliance-plans-16-billion-investment-in-100-compressed-biogas-plants-by-2030/article71713310.ece
   • Reliance Industries will invest about ₹150 billion ($1.6 billion) to build roughly 100 compressed biogas plants by 2030, producing around five million cubic metres of gas daily from agricultural residue. ¶ • Reliance runs 45 biogas plants today at below capacity, and plans 10 more by March 2027 to reach 1.1 million metric tonnes, as India targets 15% natural gas in its energy mix by 2030 from 6.2% now.
 
-- NMDC eyes 24 million tonnes pellet capacity
-  17 Nov 2026 | https://www.thehindu.com/business/nmdc-eyes-24-million-tonnes-pellet-capacity/article71713102.ece
-  • NMDC plans to scale pellet capacity to 24 million tonnes a year, with a 2 MT plant at Nagarnar commissioned in September to be upgraded to 6 MTPA and then 13 MTPA. ¶ • The company began commercial coal production at Tokisud in Jharkhand and awarded a ₹9,500 crore technology package within 25 days of opening the technical bid.
-
 - Sai Parenterals acquiring majority stake in Bion
   17 Nov 2026 | https://www.thehindu.com/business/Industry/sai-parenterals-acquiring-majority-stake-in-bion/article71712875.ece
   • Sai Parenterals, through subsidiary SP Analytics, signed an all-cash deal for a majority stake in Hyderabad-based Bion Therapeutics India, expected to close this month. ¶ • The deal adds 16 established brands and around 250 field staff, and Bion's production will move into Sai Parenterals' TGA-Australia and WHO-GMP accredited facilities.
 
-- Fibe bets on repeat borrowers to drive digital lending growth
-  17 Nov 2026 | https://www.thehindu.com/business/fibe-bets-on-repeat-borrowers-to-drive-digital-lending-growth/article71712815.ece
-  • Fibe's personal loan assets under management rose to ₹6,656.76 crore in FY26 from ₹3,483.03 crore in FY24, with disbursements of ₹12,702.24 crore. ¶ • Existing customers made up 61.47% of monthly personal loan disbursements by value, as fintech-led personal lending in India grew at a 41.4% CAGR in value from FY20 to FY26.
+[[Regulatory and legal action]]
 
-- Wipro 3D ties up with Markforged to expand industrial 3D printing in India
-  17 Nov 2026 | https://www.thehindu.com/business/Industry/wipro-3d-ties-up-with-markforged-to-expand-industrial-3d-printing-in-india/article71712452.ece
-  • Wipro 3D has partnered with Markforged to bring composite 3D printing to Indian manufacturers in aerospace, defence, automotive, energy and heavy engineering. ¶ • Wipro 3D will help manufacturers pick applications and integrate composite additive manufacturing into existing production, using Markforged's Continuous Fiber Reinforcement technology.
-
-- Amazon to invest $7 billion in India renewables by 2030
-  17 Nov 2026 | https://www.thehindu.com/business/Industry/amazon-to-invest-7-billion-in-india-renewables-by-2030/article71712037.ece
-  • Amazon plans to invest an additional $7 billion in Indian renewable energy by 2030, on top of $4 billion already committed. ¶ • Four new wind and solar projects totalling 934 MW will lift its contracted Indian capacity past 2 GW, enough for over 3.5 million households.
-
-[[Regulatory and tax policy]]
+- Bombay High Court quashes ICICI Bank’s nod to prosecute ex-CEO Chanda Kochhar in ‘loan fraud’ case
+  18 Nov 2026 | https://www.thehindu.com/business/Industry/bombay-high-court-quashes-icici-banks-nod-to-prosecute-ex-ceo-chanda-kochhar-in-loan-fraud-case/article71715652.ece
+  • The Bombay High Court quashed ICICI Bank's May 15, 2023 sanction to prosecute former CEO Chanda Kochhar, ruling the authority that granted it was not competent and failed to apply its mind. ¶ • The CBI had arrested Kochhar and her husband in December 2022 over a ₹3,250-crore ICICI loan to the Videocon Group in 2012 that became a non-performing asset and was classified as bank fraud.
 
 - Too soon issue draft framework for centralised assessment of CGST taxpayers: CBIC chief
   18 Nov 2026 | https://www.thehindu.com/business/too-soon-issue-draft-framework-for-centralised-assessment-of-cgst-taxpayers-cbic-chief/article71714986.ece
@@ -256,35 +254,35 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   17 Nov 2026 | https://www.thehindu.com/business/dri-searches-ciplas-mumbai-office-and-bhiwandi-depot-over-imported-drug-classification/article71713303.ece
   • The Directorate of Revenue Intelligence searched Cipla's Vikhroli office and Bhiwandi depot on Monday under the Customs Act over classification or exemption of an imported finished drug. ¶ • Cipla said the proceedings will have no material impact on its financials or operations, and its shares traded at ₹1,390.70 on the BSE, down 0.24 per cent.
 
-[[Banking and political scrutiny]]
+[[Trade and exports]]
+
+- India on track to hit $1 trillion exports this year: Commerce Secretary
+  18 Nov 2026 | https://www.thehindu.com/business/Economy/india-on-track-to-hit-1-trillion-exports-this-year-commerce-secretary/article71715515.ece
+  • Commerce Secretary Rajesh Agrawal said India is on track to hit $1 trillion in goods and services exports in 2026-27, after a 16.6% rise in April-September. ¶ • India's exports touched an all-time high of $863 billion last fiscal, and Agrawal said global uncertainty leaves India advantaged as a trusted trading partner.
+
+- Tata Electronics flags supply chain, talent gaps in ₹1.18 lakh crore semiconductor push
+  18 Nov 2026 | https://www.thehindu.com/business/Industry/tata-electronics-flags-supply-chain-talent-gaps-in-118-lakh-crore-semiconductor-push/article71715646.ece
+  • Tata Electronics is investing up to ₹1.18 lakh crore in a Gujarat fab and an Assam OSAT plant, and says its supplier base is still not fully mature. ¶ • Equipment costs $1 million-$3 million per tool, totalling $5 billion-$6 billion, with annual operating expenses near $500 million, as the company trains engineers in Taiwan.
+
+[[Banking and corporate governance]]
 
 - Deutsche Bank chair backs CEO after reports expose past lapses; Trump calls tax leak ‘illegal’
   18 Nov 2026 | https://www.thehindu.com/news/international/deutsche-bank-chair-backs-ceo-after-reports-expose-past-lapses-trump-calls-tax-leak-illegal/article71715150.ece
   • Deutsche Bank chairman Alexander Wynaendts backed CEO Christian Sewing after 15 million leaked records renewed scrutiny of the bank's past clients, including Trump, Epstein and Russian oligarchs. ¶ • Shares fell as much as 6%, the biggest drop since April 2025, as German Finance Minister Lars Klingbeil urged authorities to investigate and Trump called the bank's 2017 tax-document error 'illegal'.
 
-- Rising prices reflect government’s economic mismanagement: Congress
-  17 Nov 2026 | https://www.thehindu.com/news/national/rising-prices-reflect-governments-economic-mismanagement-congress/article71712503.ece
-  • Congress's Jairam Ramesh cited a survey finding monthly household spending rose over 20% in the past year for 61% of families. ¶ • He said 200 garment factories shut in Noida over the past year, blaming U.S. tariffs, high input costs and government apathy.
+[[Other]]
 
-[[AI and tech growth]]
+- Apollo, Microsoft deploy AI agent to strengthen patient safety reviews
+  18 Nov 2026 | https://www.thehindu.com/business/Industry/apollo-microsoft-deploy-ai-agent-to-strengthen-patient-safety-reviews/article71715353.ece
+  • Apollo Hospitals and Microsoft built the Daily Tiered Huddle agent, which flags patient safety cases and prepares records for clinician review across 55 main hospitals. ¶ • More than 60% of reviewed cases now close within three days, and staff satisfaction with error handling rose almost 30% on the annual safety culture survey.
 
 - Balancing AI-driven estimates and ground-level evidence in official statistics
   17 Nov 2026 | https://www.thehindu.com/business/Economy/balancing-ai-driven-estimates-and-ground-level-evidence-in-official-statistics/article71713245.ece
   • India's newly approved Viksit Bharat Initiative for Statistical Transformation, Analytics & Research (VISTAR) makes AI and machine learning core pillars of a planned overhaul of the country's official data architecture. ¶ • A statement warning that mitigating AI extinction risk should be a global priority alongside pandemics and nuclear war was signed by 350 technology and industry leaders, including Geoffrey Hinton, Yoshua Bengio, Sam Altman and Bill Gates.
 
-- Karnataka charting next tech leap to push AI, deep-tech: CM D.K. Shivakumar
-  17 Nov 2026 | https://www.thehindu.com/news/cities/bangalore/bengaluru-tech-summit-karnataka-charts-next-tech-leap-to-push-ai-deep-tech-cm-dk-shivakumar/article71710810.ece
-  • Karnataka Chief Minister D.K. Shivakumar opened the 29th Bengaluru Tech Summit on November 17, pitching the state as a global hub for AI, deep tech and semiconductors. ¶ • Karnataka drew $9.4 billion in FDI equity inflow in the first half of FY 2025-26, 26.7% of India's total, and its startups have raised about $79 billion.
-
-[[Other]]
-
-- Mumbai luxury housing market shifts towards larger 4 BHK homes
-  17 Nov 2026 | https://www.thehindu.com/business/mumbai-luxury-housing-market-shifts-towards-larger-4-bhk-homes/article71712959.ece
-  • Transactions for homes priced at ₹10 crore and above in Mumbai's primary and secondary markets totalled ₹18,512 crore in Q1 2026, per India Sotheby's International Realty and CRE Matrix. ¶ • Homes above 4,000 sq. ft were 11% of primary-market luxury sales but over 25% of transaction value, with average prices around ₹38,000 per sq. ft.
-
-- Apex Coco recognised as best coconut entrepreneur
-  17 Nov 2026 | https://www.thehindu.com/news/cities/Coimbatore/apex-coco-recognised-as-best-coconut-entrepreneur/article71712067.ece
-  • Tiruppur-based Apex Coco and Solar Energy received the International Coconut Community's Best National Coconut Entrepreneur Award 2026 in Kochi on Tuesday. ¶ • The ₹433-crore company processes four lakh coconuts daily into 14 products and is investing ₹120 crore to triple capacity by December next year.
+- NMDC eyes 24 million tonnes pellet capacity
+  17 Nov 2026 | https://www.thehindu.com/business/nmdc-eyes-24-million-tonnes-pellet-capacity/article71713102.ece
+  • NMDC plans to scale pellet capacity to 24 million tonnes a year, with a 2 MT plant at Nagarnar commissioned in September to be upgraded to 6 MTPA and then 13 MTPA. ¶ • The company began commercial coal production at Tokisud in Jharkhand and awarded a ₹9,500 crore technology package within 25 days of opening the technical bid.
 
 ============================================================
 
@@ -292,17 +290,13 @@ SOURCE 3: The Hindu - International (headlines + summary)
 
 [[West Asia conflict]]
 
+- LPG tanker Gas Husky hit by projectiles and sinks off Bulgaria; separate attack in Strait of Hormuz leaves Indian crew member missing
+  18 Nov 2026 | https://www.thehindu.com/news/international/lpg-tanker-that-sank-off-bulgaria-was-hit-by-projectiles-official/article71715541.ece
+  • The Liberian-flagged Gas Husky, carrying 3,400 metric tons of LPG from Egypt to Romania, was struck by four projectiles and sank about 50 miles east of Byala, with all 19 crew rescued. ¶ • In the Strait of Hormuz, Panama-flagged MT Tara Gas was attacked on November 16, leaving one of 24 Indian nationals missing and two injured, while 21 were evacuated ashore at Khasab.
+
 - Iran targets U.S. base in Kuwait; Bahrain also repels drone attacks
   18 Nov 2026 | https://www.thehindu.com/news/international/iran-army-says-it-targeted-us-military-base-in-kuwait/article71715048.ece
   • Iran's army said its drones targeted Ali Al Salem Air Base in Kuwait, hitting Patriot air defence systems and drone and missile launch platforms. ¶ • Kuwait and Bahrain said they intercepted the attacks, while the U.S. struck an IRGC missile site on Iran's Qeshm Island.
-
-- Indian national missing after attacks on commercial vessel in Strait of Hormuz
-  18 Nov 2026 | https://www.thehindu.com/news/national/indian-national-missing-after-attacks-on-commercial-vessel-in-strait-of-hormuz/article71714331.ece
-  • An Indian national is missing and two others injured after the Panama-flagged LPG tanker MT Tara Gas was attacked in the Strait of Hormuz on November 16. ¶ • Of the 24 Indian nationals on board, 21 were safely evacuated ashore at Khasab, and India condemned the attack, saying targeting of commercial shipping must end.
-
-- Why Ukraine keeps targeting the Kerch Bridge
-  18 Nov 2026 | https://www.thehindu.com/news/international/why-ukraine-keeps-targeting-the-kerch-bridge/article71714957.ece
-  • Two Ukrainian drone and missile attacks this week brought down a span of the Kerch road bridge and damaged the parallel rail bridge, prompting Russia to suspend road traffic and restrict trains. ¶ • The 19-km bridge, Europe's longest at $3.6 billion, matters less now because Russia has a land corridor and ferry services, but the strike shows Ukraine can hit Russia's most fortified infrastructure.
 
 [[US politics]]
 
@@ -318,15 +312,31 @@ SOURCE 3: The Hindu - International (headlines + summary)
   18 Nov 2026 | https://www.thehindu.com/news/international/pakistani-man-convicted-of-plotting-to-kill-trump-is-sentenced-to-over-27-years-in-prison/article71714337.ece
   • A U.S. judge in Brooklyn sentenced Asif Merchant, 48, to 330 months in prison for plotting in 2024 to kill Donald Trump and other politicians at Iran's behest. ¶ • Prosecutors said the plan was retaliation for the 2020 killing of Iranian commander Qassem Soleimani, and an informant's tip thwarted it before any attack.
 
-- At Deepavali celebration, Mamdani flags targeting of Hindu temples
-  18 Nov 2026 | https://www.thehindu.com/news/international/at-deepavali-celebration-mamdani-flags-targeting-of-hindu-temples-urges-rejection-of-politics-of-hate/article71714862.ece
-  • New York City Mayor Zohran Mamdani said Hindu temples in the U.S. had been targeted over the past year and alleged federal leaders had targeted Sikhs. ¶ • Hosting an official Diwali event at Gracie Mansion on November 17, Mamdani called on communities to reject divisive politics and said he was proud to be the city's first Indian-American mayor.
+[[Israel and West Bank]]
 
-[[Trade and tariffs]]
+- Australia sanctions Israeli settlers, organisations over West Bank expansion
+  18 Nov 2026 | https://www.thehindu.com/news/international/australia-sanctions-israeli-settlers-organisations-over-west-bank-expansion/article71715383.ece
+  • Australia sanctioned three Israeli individuals and four organisations over illegal West Bank settlement expansion and settler violence. ¶ • The measures bar Australians and Australian businesses from trading with or supporting those sanctioned, following Britain's sanctions on eight Israeli construction companies.
 
-- Donald Trump says U.S. has concluded ‘very big trade deal’ with Philippines
-  18 Nov 2026 | https://www.thehindu.com/news/international/donald-trump-says-us-has-concluded-very-big-trade-deal-with-philippines/article71714768.ece
-  • Trump said at a state luncheon in Manila that the U.S. had just concluded a "very big trade deal" with the Philippines, without giving details. ¶ • Manila announced no agreement and Marcos Jr.'s office gave no immediate comment; the deal was not on either country's released schedules.
+- Israeli Parliament elects new Knesset Speaker backed by Netanyahu's opponents
+  18 Nov 2026 | https://www.thehindu.com/news/international/israeli-parliament-elects-new-knesset-speaker-backed-by-netanyahus-opponents/article71714379.ece
+  • Israel's Knesset elected Matan Kahana as speaker with 66 votes in the 120-member chamber, defeating Netanyahu-backed Ofir Katz, who got 52 after a seven-hour debate. ¶ • Kahana's win lets the bloc of Gadi Eisenkot, who has five weeks to form a coalition, use its majority to advance bills to undo Netanyahu's judicial and other policies.
+
+[[Ukraine and Russia]]
+
+- Why Ukraine keeps targeting the Kerch Bridge
+  18 Nov 2026 | https://www.thehindu.com/news/international/why-ukraine-keeps-targeting-the-kerch-bridge/article71714957.ece
+  • Two Ukrainian drone and missile attacks this week brought down a span of the Kerch road bridge and damaged the parallel rail bridge, prompting Russia to suspend road traffic and restrict trains. ¶ • The 19-km bridge, Europe's longest at $3.6 billion, matters less now because Russia has a land corridor and ferry services, but the strike shows Ukraine can hit Russia's most fortified infrastructure.
+
+[[India diplomacy]]
+
+- PM Modi gifts Pichwaai painting, Banarasi Katan silk stole, Kashmiri carpet to world leaders
+  18 Nov 2026 | https://www.thehindu.com/news/national/pm-modi-gifts-pichwaai-painting-banarasi-katan-silk-stole-kashmiri-carpet-to-world-leaders/article71715310.ece
+  • Prime Minister Narendra Modi gave gifts of Indian crafts to world leaders at the India-ASEAN Summit in Manila, including a golden Pichwaai painting for U.S. President Donald Trump. ¶ • Other recipients included Australian PM Anthony Albanese, who received a blue Jaipur pottery artefact, and Philippine President Ferdinand Marcos Jr., who got a Kashmiri silk carpet.
+
+- India, Japan set to review defence ties as Rajnath, Jaishankar arrive in Tokyo
+  18 Nov 2026 | https://www.thehindu.com/news/international/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/article71714856.ece
+  • Defence Minister Rajnath Singh and External Affairs Minister S. Jaishankar arrived in Tokyo on November 18 for the fourth India-Japan 2+2 ministerial dialogue with counterparts Shinjiro Koizumi and Toshimitsu Motegi. ¶ • The two sides will review defence equipment and technology, maritime security, joint military exercises across all three services and defence industrial partnerships, following the previous round in New Delhi on August 20, 2024.
 
 [[US immigration policy]]
 
@@ -334,36 +344,97 @@ SOURCE 3: The Hindu - International (headlines + summary)
   18 Nov 2026 | https://www.thehindu.com/news/international/us-proposes-tougher-rules-for-employment-based-green-cards-longer-hiring-process/article71715178.ece
   • The Labor Department proposed the first major revision in 20 years to the PERM labor market test for employment-based green cards. ¶ • Employers would advertise vacancies for 90 days instead of 30 and could not tailor job ads to foreign workers.
 
-[[India defence diplomacy]]
-
-- India, Japan set to review defence ties as Rajnath, Jaishankar arrive in Tokyo
-  18 Nov 2026 | https://www.thehindu.com/news/international/india-japan-set-to-review-defence-ties-as-rajnath-jaishankar-arrive-in-tokyo/article71714856.ece
-  • Defence Minister Rajnath Singh and External Affairs Minister S. Jaishankar arrived in Tokyo on November 18 for the fourth India-Japan 2+2 ministerial dialogue with counterparts Shinjiro Koizumi and Toshimitsu Motegi. ¶ • The two sides will review defence equipment and technology, maritime security, joint military exercises across all three services and defence industrial partnerships, following the previous round in New Delhi on August 20, 2024.
-
-[[Russia and Ukraine]]
-
-- Russian military transport plane crashes in Siberia, killing 19: Defence Ministry
-  18 Nov 2026 | https://www.thehindu.com/news/international/several-dead-after-russian-military-transport-plane-crashes-in-siberia/article71713626.ece
-  • A Russian An-12 military transport plane crashed near Kemerovo in western Siberia on November 17, 2026, killing all 19 people on board, the Defence Ministry said. ¶ • Preliminary findings pointed to equipment failure, and the Investigative Committee opened an inquiry into possible flight safety violations.
-
-- U.K. hands NATO-assigned American soldier accused of Russia spying to U.S.
-  18 Nov 2026 | https://www.thehindu.com/news/international/american-soldier-accused-of-russia-spying/article71713619.ece
-  • U.S. Army Lieutenant Colonel Brandon Tyner, 41, arrested in Britain on November 10 on suspicion of spying for Russia, was transferred to U.S. military custody, U.K. police said. ¶ • Tyner was assigned to NATO's Allied Rapid Reaction Corps at Imjin Barracks near Gloucester, close to the GCHQ intelligence agency, and Russia has denied any links to him.
-
 [[Other]]
+
+- NASA Voyager 1 probe believed to have reached ‘light-day’ milestone
+  18 Nov 2026 | https://www.thehindu.com/sci-tech/science/nasa-voyager-1-probe-believed-to-have-reached-light-day-milestone/article71715503.ece
+  • NASA calculated Voyager 1 reached one light-day from Earth, about 16 billion miles (26 billion km), on November 18, 2026 at 5:16 a.m. ET. ¶ • A signal confirming the distance is expected about a day later, and power-saving measures could keep both Voyagers communicating for three to four more years.
 
 - Why did the U.S. lose its measles elimination status? | Explained
   18 Nov 2026 | https://www.thehindu.com/sci-tech/health/why-the-us-lost-its-measles-elimination-status-explained/article71714981.ece
   • PAHO revoked the United States' measles elimination status on November 17, 2026, after more than 5,400 cases were reported in 2026, the highest annual total since 1989-91. ¶ • Unicef data shows 96% of cases were in unvaccinated people or those with unknown vaccination status, with children under five at 18% and those aged 5-19 at 40%.
 
-- Israeli Parliament elects new Knesset Speaker backed by Netanyahu's opponents
-  18 Nov 2026 | https://www.thehindu.com/news/international/israeli-parliament-elects-new-knesset-speaker-backed-by-netanyahus-opponents/article71714379.ece
-  • Israel's Knesset elected Matan Kahana as speaker with 66 votes in the 120-member chamber, defeating Netanyahu-backed Ofir Katz, who got 52 after a seven-hour debate. ¶ • Kahana's win lets the bloc of Gadi Eisenkot, who has five weeks to form a coalition, use its majority to advance bills to undo Netanyahu's judicial and other policies.
-
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Silicon Valley's AI startups join the race for India's top tech talent
+18 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/ai-firms-race-for-indian-talent-it-margins-under-pressure/articleshow/135945224.cms
+
+• A cohort of 24 overseas AI and new-age tech companies tracked by Xpheno employs around 24,000 people in India.
+
+• Their combined workforce has grown more than 30% over the past year, according to the staffing firm.
+
+• The cohort includes Anthropic, OpenAI, ElevenLabs, Perplexity, Replit, Wispr Flow, Databricks, Figma, Rippling, Harness, and Glean.
+
+• The shift is driven by access to skilled professionals, difficulty hiring in hubs like San Francisco, and Indian teams' ability to develop global products.
+
+### Indian IT is caught between discounts and AI tools costs
+18 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/ai-firms-race-for-indian-talent-it-margins-under-pressure/articleshow/135945224.cms
+
+• Indian IT services firms have contained AI adoption's impact on operating margins to 0.5-1 percentage points, per UnearthInsight.
+
+• Nine in 10 IT services contracts up for renewal are being renegotiated, with clients seeking 10-30% discounts.
+
+• 50-60% of contracts involve AI-led services or delivery, but productivity gains are not translating into higher margins.
+
+• Blended token prices fell about 67% between Q1 2025 and Q1 2026, yet 73% of enterprises went over their AI budgets last year.
+
+### Jensen Huang says he is willing to return as Nvidia CEO
+18 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/ai-firms-race-for-indian-talent-it-margins-under-pressure/articleshow/135945224.cms
+
+• Former Nvidia CEO Jensen Huang said he is willing to return to the top job if the board believes it is in the company's best interests.
+
+• In his first public statement since stepping down last week, Huang said he received calls from employees, investors, partners, and customers.
+
+• Huang said he would be honored to answer the calls and return as CEO.
+
+• The controversy follows days of scrutiny over Huang's personal relationships, including an affair with a Chinese businesswoman suspected by US authorities of being a spy.
+
+### Karnataka's AI skilling push
+18 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/ai-firms-race-for-indian-talent-it-margins-under-pressure/articleshow/135945224.cms
+
+• Karnataka partnered with five technology companies, including Google, Salesforce, Pega Systems, Sarvam AI, and Gnani.ai.
+
+• The partnerships aim to train 63,200 engineering and diploma students and working professionals in emerging AI technologies.
+
+• The MoUs were formalised at the Bengaluru Tech Summit.
+
+### Henfruit raises $15 million
+18 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/ai-firms-race-for-indian-talent-it-margins-under-pressure/articleshow/135945224.cms
+
+• Egg brand Henfruit has raised $15 million from Lok Capital, DSG Consumer Partners, and RPSG Capital Ventures.
+
+• This marks its first fundraise since inception in 2014.
+
+• The company will use the capital to expand across India through online and offline distribution channels and invest in marketing, founder Tarun Gupta told ET.
+
+### Global pick: Inside the $900bn data centre bet behind Anthropic’s IPO
+FT | https://www.ft.com/content/559c13f1-0888-47e5-b6ce-523309a37193?syn-25a6b1a6=1
+
+[Could not read the article, possibly paywalled]
+
+### Global pick: How new US chip restrictions on South East Asia will hit China
+BBC | https://www.bbc.com/news/articles/cwq6e2qgvmlgo
+
+• The US government has confirmed an investigation into Singapore-based tech firm Megaspeed over suspected smuggling of high-end Nvidia AI chips to China, violating US export rules.
+
+• Pakistan's solar boom has lifted solar's share of its electricity from 1% to 28%, so much that the national grid is crumbling.
+
+• China fears the Nvidia spy scandal could increase US pressure to further restrict sales of advanced chips, an unexpected hurdle as Trump and Xi meet.
+
+• Trump is in Asia for talks with the Russian and Chinese presidents, saying he would be open to a one-on-one meeting with Putin if available.
+
+### Global pick: The small African lab sounding the alarm on AI bioweapons
+Rest of World | https://restofworld.org/2026/ghana-ai-lab-minohealth-bioweapons-threat-dna-synthesis-regulation/
+
+• Researchers at MinoHealth AI Labs in Accra, Ghana removed guardrails from their drug discovery AI in 2024 and asked it to design toxins instead.
+
+• The model produced designs for 1,020 proteins and 5,000 small molecules, all scored likely toxic by prediction software, some resembling ricin.
+
+• The study, uploaded to arXiv in May 2025, has been discussed within Interpol and raised calls to regulate DNA synthesis providers across Africa.
+
+• MinoHealth founder Darlington Akogo warns AI poses an existential bioweapons threat, a risk MI5 now ranks as the top AI misuse concern.
 
 ============================================================
 
@@ -376,27 +447,28 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [[Top Gainers]]
 
-[Inox India Ltd (INOXINDIA, +8.92%)]
-
-[Urban Company Ltd (URBANCO, +6.73%)]
+[Inox India Ltd (INOXINDIA, +7.81%)]
 
 - ~
-  18 Nov 2026 | https://www.moneycontrol.com/news/business/markets/urban-company-shares-rise-7-as-rs-2-500-crore-qip-oversubscribed-14083396.html
-  ## What the sector does ¶ • India's online home and beauty services market connects customers booking cleaning, repair, plumbing and salon work with verified independent professionals through apps. ¶ • Platforms earn a commission on each booking plus product sales, with revenue driven by order volume and take rate, and costs dominated by professional payouts, marketing and technology. ¶ ## What the company does ¶ • Urban Company, incorporated in December 2014, runs a technology-driven full-stack marketplace for home and beauty services, connecting customers with vetted service professionals across Indian cities. ¶ • It earns from commissions and fees on bookings plus sales of beauty and home-care products, and is expanding InstaHelp in the quick home-services segment. ¶ ## Why it moved today ¶ • Urban Company shares rose 7% on 18 November 2026 after its ₹2,500 crore qualified institutional placement (QIP) drew bids worth about ₹15,300 crore, nearly six times the issue size, Moneycontrol reported. ¶ • The QIP attracted domestic mutual funds including SBI Mutual Fund, ICICI Prudential Mutual Fund, UTI Mutual Fund and Aditya Birla Sun Life Mutual Fund, plus foreign portfolio investors and insurers, with Morgan Stanley managing the issue. ¶ ## The numbers (Screener) ¶ • The stock trades at ₹172.50 with a market capitalisation of ₹26,603 crore, a book value of ₹12.8 per share and no dividend yield, against a 52-week range of ₹96.4 to ₹184. ¶ • September 2026 quarter sales rose 41.38% to ₹537.29 crore, but operating profit was negative ₹196 crore at a -36% margin and net loss widened to ₹182.48 crore, or ₹1.18 per share. ¶ ## What the numbers say ¶ • Urban Company's September 2026 quarter sales growth of 41.38% beat the peer median of 31.28%, but its ROCE of -7.82% and ROE of -12.0% trail profitable peers like FSN E-Commerce (ROCE 17.23%) and Cartrade Tech (11.82%). ¶ • At 13.4 times book value with no P/E because of losses, the stock is priced well above the peer median P/E of 53.34, so the 6.73% move reflects QIP demand rather than an earnings-based re-rating. ¶ ↗ moneycontrol.com|https://www.moneycontrol.com/news/business/markets/urban-company-shares-rise-7-as-rs-2-500-crore-qip-oversubscribed-14083396.html ;; inshorts.com|https://inshorts.com/en/news/urban-company-s--2-500-cr-qip-attracts-bids-worth--15-300-cr--report-1794915740806 ;; marketsmojo.com|https://www.marketsmojo.com/news/stock-market-news/sensex-dips-061-amid-broad-market-weakness-cipla-and-urban-company-shine-4267218
+  2026-11-18 |
+  ## What the sector does ¶ • Cryogenic equipment makers design, build and install tanks, transport vessels and regasification systems that store gases at very low temperatures for industrial gas, LNG and medical users. ¶ • Revenue comes from project orders and equipment sales to gas majors, refiners and hospitals, while cost is driven by stainless steel, fabrication labour and project execution timelines. ¶ ## What the company does ¶ • Inox India, incorporated in 1976, designs, engineers, manufactures and installs cryogenic storage, transport and regasification systems for gases such as oxygen, nitrogen, argon, hydrogen and LNG. ¶ • It earns from equipment orders across industrial gas, LNG, cryo-scientific and beverage keg businesses, with industrial gas at 54% of FY26 revenue, and competes with HBL Engineering, Esab India and KRN Heat Exchanger. ¶ ## Why it moved today ¶ • The stock rose 7.81% to ₹2,123.20 on 18 November 2026, a day after it climbed 6.78% on Q2 FY27 revenue of ₹467 crore, up 26.6% year on year, and record order inflows of ₹1,028 crore ([welomoney.com](https://welomoney.com/articles/stock/why-inox-india-shares-rose-678-today-17-nov-strong-q2-results-and-record-order-backlog)). ¶ • The order backlog crossed ₹2,268 crore, its highest ever, with demand from industrial gas, LNG, cryo-scientific and beverage keg businesses ([welomoney.com](https://welomoney.com/articles/stock/why-inox-india-shares-rose-678-today-17-nov-strong-q2-results-and-record-order-backlog)). ¶ ## The numbers (Screener) ¶ • Stock P/E is 73.1, price to book is 15.8 times, ROCE is 33.5% and ROE is 26.1%, with a dividend yield of 0.09%. ¶ • September 2026 quarter sales were ₹456 crore, up 27% year on year, with net profit of ₹67 crore and operating margin of 19%, down from 22% a year earlier. ¶ ## What the numbers say ¶ • At a P/E of 73.1, Inox India trades well above the peer median of 25.0 and above HBL Engineering at 37.7 and Esab India at 39.7, while its ROCE of 33.5% is below HBL's 59.3% and Esab's 64.7%. ¶ • September 2026 quarter sales grew 27.4% year on year against the peer median of 22.5%, but operating margin slipped to 19% from 22% a year earlier, so the re-rating rests on order inflows rather than margin expansion.
+
+[Urban Company Ltd (URBANCO, +6.87%)]
+
+- ~
+  18 Nov 2026 | https://www.medianama.com/2026/11/223-urban-company-600-cr-qip-instahelp/
+  ## What the sector does ¶ • India's online home services market connects consumers to vetted professionals for cleaning, repairs, beauty and appliance work, earning commission on each booking. ¶ • Revenue comes from booking commissions and product sales, while costs are service professional payouts, training, marketing and technology; listed players include Eternal, Swiggy, Meesho and FSN E-Commerce. ¶ ## What the company does ¶ • Urban Company runs a full-stack home and beauty services marketplace, incorporated in December 2014, with a market cap of ₹26,684 crore at a price of ₹173. ¶ • It earns from bookings across salon, repair and cleaning services, and now InstaHelp, a 15-minute house help service launched in January 2025, competing with Snabbit and Pronto. ¶ ## Why it moved today ¶ • The stock rose 6.87% after Urban Company's ₹2,500 crore qualified institutional placement drew bids worth about ₹15,300 crore, nearly six times the issue size, per Moneycontrol. ¶ • The QIP, with a floor price of ₹161.03, was oversubscribed with participation from SBI Mutual Fund, ICICI Prudential Mutual Fund, UTI Mutual Fund and Aditya Birla Sun Life Mutual Fund. ¶ ## The numbers (Screener) ¶ • Urban Company reported revenue of ₹537 crore in the September 2026 quarter, up 41.38% year on year, but a net loss of ₹182 crore. ¶ • The company's return on capital employed is -7.82% and return on equity is -12.0%, with the stock trading at 13.4 times its book value of ₹12.8. ¶ ## What the numbers say ¶ • Urban Company's negative ROCE of -7.82% and ROE of -12.0% contrast with peer Eternal's ROCE of 2.48% and FSN E-Commerce's 17.23%, showing weaker capital efficiency. ¶ • The stock trades at 13.4 times book value despite losses, while the peer median P/E is 53.68, and the 6.87% move reflects the QIP oversubscription rather than a change in profitability. ¶ ↗ medianama.com|https://www.medianama.com/2026/11/223-urban-company-600-cr-qip-instahelp/ ;; moneycontrol.com|https://www.moneycontrol.com/news/business/markets/urban-company-shares-rise-7-as-rs-2-500-crore-qip-oversubscribed-14083396.html ;; inshorts.com|https://inshorts.com/en/news/urban-company-s--2-500-cr-qip-attracts-bids-worth--15-300-cr--report-1794915740806
 
 [[Top Losers]]
 
-[Caplin Point Laboratories Ltd (CAPLIPOINT, -7.62%)]
+[Caplin Point Laboratories Ltd (CAPLIPOINT, -7.20%)]
 
 - ~
   18 Nov 2026 | https://www.linkedin.com/posts/cnbc-tv18_caplin-point-shares-decline-10-in-two-sessions-activity-7528716605065932800-Szab
   ## What the sector does ¶ • Indian pharma sells generic medicines, injectables and active ingredients to hospitals, distributors and governments in India, the US and emerging markets. ¶ • Revenue comes from drug volumes and US filings; costs are raw materials, manufacturing and regulatory compliance, with Sun Pharma, Divi's and Cipla among the largest players. ¶ ## What the company does ¶ • Caplin Point makes and sources APIs, finished formulations and sterile injectables, with plants including Caplin Steriles' Gummidipoondi injectable and ophthalmic site. ¶ • It sells mainly in Latin America and Africa, is expanding in the US, and earned ₹630 crore sales and ₹182 crore net profit in the September 2026 quarter. ¶ ## Why it moved today ¶ • The US FDA classified Caplin Steriles' Gummidipoondi facility as Official Action Indicated after an August 13-21, 2026 inspection with 10 procedural observations, CNBC TV18 reported. ¶ • The stock fell 7.62% in the session and 13.23% over three sessions from Friday's close, with the company saying there is no material impact on financials or operations. ¶ ## The numbers (Screener) ¶ • Stock P/E is 22.8, price to book about 4.0 times on book value of ₹513, ROCE 24.2% and ROE 20.9%, with dividend yield 0.37%. ¶ • Sales rose from ₹543 crore in December 2025 to ₹630 crore in September 2026, while net profit rose from ₹166 crore to ₹182 crore and EPS from ₹21.56 to ₹23.43. ¶ ## What the numbers say ¶ • At a P/E of 22.8, Caplin trades below peers like Sun Pharma at 36.6, Divi's at 86.0 and Cipla at 36.9, and its ROCE of 24.2% is the highest in the peer table. ¶ • September 2026 sales grew 17.9% and net profit 15.3% year on year, slower than Divi's 35.4% sales growth, so the US FDA action adds regulatory risk to an otherwise cheap, high-return business. ¶ ↗ linkedin.com|https://www.linkedin.com/posts/cnbc-tv18_caplin-point-shares-decline-10-in-two-sessions-activity-7528716605065932800-Szab ;; business-standard.com|https://www.business-standard.com/markets/news/caplin-point-slides-13-in-3-sessions-after-us-fda-flags-plant-for-action-126111800383_1.html ;; businessupturn.com|https://businessupturn.com/business/caplin-point-laboratories-subsidiary-receives-oai-classification-from-us-fda-for-gummidipoondi-facility/
 
-[Vedanta Aluminium Metal Ltd (VAML, -5.79%)]
+[Creditaccess Grameen Ltd (CREDITACC, -5.75%)]
 
-- Vedanta Aluminium Shares Today at Nifty 50 and BSE Sensex – November 18, 2026
-  18 Nov 2026 | https://businessnewsthisweek.com/business/vedanta-aluminium-shares-today-at-nifty-50-and-bse-sensex-november-18-2026/
-  Mumbai, Nov 18 : Shares of Vedanta Aluminium Metal Ltd (NSE: VAML) traded lower on Wednesday morning, tracking the cautious mood across the Indian stock market. The stock declined nearly 2% as investors booked profits amid weakness in…
-
-- VAML provides fuel-efficient chulhas to 330+ homes across Kalahandi and Rayagada
-  17 Nov 2026 | https://kalingatv.com/odisha/vaml-provides-fuel-efficient-chulhas-to-330-homes-across-kalahandi-and-rayagada/
+- ~
+  18 Nov 2026 | https://www.business-standard.com/companies/news/karnataka-bank-appoints-udaya-kumar-hebbar-md-ceo-three-years-126111800470_1.html
+  ## What the sector does ¶ • Microfinance institutions lend small unsecured loans, mostly ₹20,000 to ₹60,000, to women borrowers organised into joint liability groups in rural and semi-urban India. ¶ • Revenue is interest and fees on that loan book, funded by bank borrowings, so cost of funds and credit costs from defaults drive profitability; players include CreditAccess Grameen, Satin Creditcare, Muthoot Microfin, Fusion Finance and Spandana Sphoorty. ¶ ## What the company does ¶ • CreditAccess Grameen is an RBI-registered non-deposit-taking NBFC-MFI that lends to women members organised as joint liability groups, and also sells other financial products through the same network. ¶ • It is the largest listed pure-play microfinance lender by market capitalisation at ₹16,812 crore, ahead of Satin Creditcare at ₹2,822 crore and Muthoot Microfin at ₹2,817 crore. ¶ ## Why it moved today ¶ • The news articles do not explain the 5.75% fall; they report that former MD and CEO Udaya Kumar Hebbar, who led CreditAccess Grameen from 2015 to June 2025, was appointed MD and CEO of Karnataka Bank on 18 November 2026. ¶ • As context only, Hebbar remains a non-executive nominee director at CreditAccess Grameen and deputy chairman of CreditAccess India BV, and the stock's 52-week low is ₹994 against the current ₹1,046. ¶ ## The numbers (Screener) ¶ • Stock P/E is 10.6, book value ₹556 per share, ROE 10.5%, ROCE 9.98% and dividend yield 0.00%, with the current price at ₹1,046 against a 52-week range of ₹994 to ₹1,634. ¶ • Net profit rose from ₹252 crore in the December 2025 quarter to ₹340 crore in March 2026, ₹493 crore in June 2026 and ₹502 crore in September 2026, with EPS at ₹31.25. ¶ ## What the numbers say ¶ • At a P/E of 10.6 the stock trades above the peer median of 9.02 and Satin Creditcare's 5.30, while its ROCE of 9.98% is above the peer median of 9.31% but below Satin's 13.84%. ¶ • September-quarter net profit grew 298.67% year on year on sales of ₹1,903.74 crore, up 26.21%, so the fall sits against sharply improving earnings rather than weak reported results. ¶ ↗ business-standard.com|https://www.business-standard.com/companies/news/karnataka-bank-appoints-udaya-kumar-hebbar-md-ceo-three-years-126111800470_1.html ;; thehindubusinessline.com|https://www.thehindubusinessline.com/money-and-banking/karnataka-bank-appoints-udaya-kumar-hebbar-as-md-and-ceo/article71714897.ece ;; cnbctv18.com|https://www.cnbctv18.com/market/karnataka-bank-share-price-udaya-kumar-hebbar-md-ceo-appointment-20036642.htm

@@ -774,7 +774,7 @@
   "sector": "Microfinance",
   "description": "Microfinance lender; Q2 AUM jumped 19.5% to Rs 30,946 crore.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-18"
  },
  "jeevansathi": {
   "name": "Jeevansathi",
@@ -1355,7 +1355,7 @@
   "sector": "Banking",
   "description": "Private bank; offered credit card discounts on MacBook Neo during Flipkart sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-18"
  },
  "hdfcbank": {
   "name": "HDFC Bank",
@@ -5128,7 +5128,7 @@
   "sector": "Commodities",
   "description": "Precious metal trading near $4,100 with record ETF holdings.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-18"
  },
  "yaraj": {
   "name": "Yara J",
@@ -14704,7 +14704,7 @@
   "sector": "Healthcare",
   "description": "Indian hospital chain; Q2 net profit rose 32% to Rs 630 crore on 23% revenue growth.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-18"
  },
  "sundaramfinance": {
   "name": "Sundaram Finance",
@@ -17399,7 +17399,7 @@
   "sector": "Electronics manufacturing",
   "description": "Apple supplier; directed to review safety after three contract workers died in a gas leak.",
   "first_added": "2026-11-11",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-18"
  },
  "minimax": {
   "name": "MiniMax",
@@ -20968,6 +20968,34 @@
   "name": "World Bank Group",
   "sector": "Development finance",
   "description": "Multilateral lender exploring Circle's USDC with Citi for blockchain-based development payments.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "a2b": {
+  "name": "A2B",
+  "sector": "Food services",
+  "description": "Indian restaurant chain Adyar Ananda Bhavan; sold majority stake to Bodhi Tree in a $180-million deal.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "bodhitreesystems": {
+  "name": "Bodhi Tree Systems",
+  "sector": "Investment",
+  "description": "Investment firm co-founded by James Murdoch and Uday Shankar; invested $180 million in Adyar Ananda Bhavan.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "gashusky": {
+  "name": "Gas Husky",
+  "sector": "Shipping",
+  "description": "Liberian-flagged LPG tanker; struck by four projectiles and sank off Bulgaria with all 19 crew rescued.",
+  "first_added": "2026-11-18",
+  "last_mentioned": "2026-11-18"
+ },
+ "karnatakabank": {
+  "name": "Karnataka Bank",
+  "sector": "Banking",
+  "description": "Indian private sector bank; appointed Udaya Kumar Hebbar as MD and CEO for three years.",
   "first_added": "2026-11-18",
   "last_mentioned": "2026-11-18"
  }
