@@ -984,7 +984,7 @@
   "sector": "IT services",
   "description": "IT services firm; launched 20 purpose-built Industry AI Solutions across sectors.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-19"
  },
  "airindia": {
   "name": "Air India",
@@ -1222,7 +1222,7 @@
   "sector": "IT services",
   "description": "IT services firm; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-19"
  },
  "infosys": {
   "name": "Infosys",
@@ -1761,7 +1761,7 @@
   "sector": "AI",
   "description": "Indian AI startup that appointed former Google Cloud India MD Sashikumar Sreedharan as President.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-19"
  },
  "otpless": {
   "name": "OTPless",
@@ -1880,7 +1880,7 @@
   "sector": "Fintech",
   "description": "Policybazaar parent whose price target BofA cut 19% on IRDAI commission change risks.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-19"
  },
  "hindustanpetroleum": {
   "name": "Hindustan Petroleum",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-19"
  },
  "accenture": {
   "name": "Accenture",
@@ -3686,7 +3686,7 @@
   "sector": "Gaming",
   "description": "Indian gaming company; founder Nitish Mittersain stepped down as MD.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-19"
  },
  "insta360": {
   "name": "Insta360",
@@ -6787,7 +6787,7 @@
   "sector": "IT services",
   "description": "Indian IT services firm that issued a letter of intent to Tejas Networks for BSNL 4G sites.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-19"
  },
  "psg": {
   "name": "PSG",
@@ -9979,7 +9979,7 @@
   "sector": "Electric vehicles",
   "description": "Indian electric scooter maker that posted its first quarterly net profit in September 2026.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-19"
  },
  "bajajauto": {
   "name": "Bajaj Auto",
@@ -19492,7 +19492,7 @@
   "sector": "Insurance",
   "description": "Online insurance marketplace operated by PB Fintech.",
   "first_added": "2026-11-17",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-19"
  },
  "baidu": {
   "name": "Baidu",
@@ -19716,14 +19716,14 @@
   "sector": "Government",
   "description": "Singapore infocomm media regulator that co-organised the SME AI Impact Awards 2026.",
   "first_added": "2026-11-18",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-19"
  },
  "sbf": {
   "name": "SBF",
   "sector": "Business association",
   "description": "Singapore Business Federation, co-organiser of the SME AI Impact Awards 2026.",
   "first_added": "2026-11-18",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-19"
  },
  "projectzero": {
   "name": "Project Zero",
@@ -21185,6 +21185,104 @@
   "name": "Scania",
   "sector": "Automotive",
   "description": "Swedish truck and bus maker and occupier at IndoSpace's Narasapura-I park.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "zeno": {
+  "name": "Zeno",
+  "sector": "Electric vehicles",
+  "description": "Electric motorcycle startup in talks to raise $35-40 million and enter India.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "simpleenergy": {
+  "name": "Simple Energy",
+  "sector": "Electric vehicles",
+  "description": "Indian electric two-wheeler startup that raised $180 million.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "rivermobility": {
+  "name": "River Mobility",
+  "sector": "Electric vehicles",
+  "description": "Indian electric two-wheeler startup that raised $120 million.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "ultraviolette": {
+  "name": "Ultraviolette",
+  "sector": "Electric vehicles",
+  "description": "Indian electric motorcycle maker that raised $85 million.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "insurancedekho": {
+  "name": "InsuranceDekho",
+  "sector": "Insurance distribution",
+  "description": "Indian insurance marketplace that cut 400-500 jobs after merging with RenewBuy and paused its IPO.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "renewbuy": {
+  "name": "RenewBuy",
+  "sector": "Insurance distribution",
+  "description": "Indian insurance distribution platform that merged with InsuranceDekho in September.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "humynlabs": {
+  "name": "Humyn Labs",
+  "sector": "Physical AI",
+  "description": "Physical AI startup founded by ex-Nazara CEO Manish Agarwal; raised $47 million for robot deployment.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "networkrailinfrastructure": {
+  "name": "Network Rail Infrastructure",
+  "sector": "Rail infrastructure",
+  "description": "UK rail infrastructure owner that awarded Cognizant a 133.2 million pound data centre contract.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "dxctechnology": {
+  "name": "DXC Technology",
+  "sector": "IT services",
+  "description": "US IT services firm that lost the Network Rail data centre deal to Cognizant.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "atosit": {
+  "name": "Atos IT",
+  "sector": "IT services",
+  "description": "European IT services firm that lost the Network Rail data centre deal to Cognizant.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "osmo": {
+  "name": "Osmo",
+  "sector": "AI",
+  "description": "Startup spun out of Google Brain in 2023 claiming human-level AI smell intelligence.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "sensortower": {
+  "name": "Sensor Tower",
+  "sector": "Market intelligence",
+  "description": "App analytics firm estimating 15 million global GTA 6 digital pre-orders.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "pewresearch": {
+  "name": "Pew Research",
+  "sector": "Research",
+  "description": "US think tank projecting Muslims will outnumber Christians worldwide by 2035.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "gatesfoundation": {
+  "name": "Gates Foundation",
+  "sector": "Philanthropy",
+  "description": "US charitable foundation that gave Osmo a $3.5 million grant for its AI smell model.",
   "first_added": "2026-11-19",
   "last_mentioned": "2026-11-19"
  }
