@@ -130,7 +130,7 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-19"
  },
  "starlink": {
   "name": "Starlink",
@@ -529,7 +529,7 @@
   "sector": "Electronics manufacturing",
   "description": "Indian electronics manufacturing services company producing components and systems.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-19"
  },
  "bankofmaharashtra": {
   "name": "Bank of Maharashtra",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-19"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-19"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -11092,7 +11092,7 @@
   "sector": "Pharmaceuticals",
   "description": "Runs CDMO, hospital generics and consumer healthcare; Q2 revenue rose 28% and it returned to profit.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-19"
  },
  "syngeneinternational": {
   "name": "Syngene International",
@@ -19310,7 +19310,7 @@
   "sector": "Electronics manufacturing",
   "description": "Indian electronics manufacturing services company competing in the EMS sector.",
   "first_added": "2026-11-17",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-19"
  },
  "tvsmotorcompany": {
   "name": "TVS Motor Company",
@@ -21283,6 +21283,55 @@
   "name": "Gates Foundation",
   "sector": "Philanthropy",
   "description": "US charitable foundation that gave Osmo a $3.5 million grant for its AI smell model.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "vvdn": {
+  "name": "VVDN",
+  "sector": "Electronics manufacturing",
+  "description": "Indian electronics design and manufacturing firm setting up operations at the Gwalior telecom zone.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "optiemus": {
+  "name": "Optiemus",
+  "sector": "Electronics manufacturing",
+  "description": "Indian electronics manufacturer investing in the Gwalior Telecom Manufacturing Zone.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "cyientsemiconductors": {
+  "name": "Cyient Semiconductors",
+  "sector": "Semiconductors",
+  "description": "Hyderabad-based custom ASIC design firm that raised $10 million from GlobalFoundries.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "globalfoundries": {
+  "name": "GlobalFoundries",
+  "sector": "Semiconductors",
+  "description": "US contract chipmaker that invested $10 million in Cyient Semiconductors.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "clearwateranalytics": {
+  "name": "Clearwater Analytics",
+  "sector": "Fintech",
+  "description": "US investment accounting software firm led by CEO Sandeep Sahai.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "yapanbio": {
+  "name": "Yapan Bio",
+  "sector": "Biopharma CDMO",
+  "description": "Hyderabad-based contract development and manufacturing firm being fully acquired by Piramal Pharma.",
+  "first_added": "2026-11-19",
+  "last_mentioned": "2026-11-19"
+ },
+ "grameenbank": {
+  "name": "Grameen Bank",
+  "sector": "Microfinance",
+  "description": "Bangladeshi microfinance bank founded by Muhammad Yunus; branches burned in unrest.",
   "first_added": "2026-11-19",
   "last_mentioned": "2026-11-19"
  }
