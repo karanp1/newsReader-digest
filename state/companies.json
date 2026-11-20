@@ -3616,7 +3616,7 @@
   "sector": "Optical fibre",
   "description": "India's largest optical fibre and cable maker, also selling power transmission cables.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-20"
  },
  "aegislogistics": {
   "name": "Aegis Logistics",
@@ -6087,7 +6087,7 @@
   "sector": "Banking",
   "description": "Indian private bank; peer comparison for J&K Bank's valuation.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-11-20"
  },
  "pcblchemical": {
   "name": "PCBL Chemical",
@@ -17399,7 +17399,7 @@
   "sector": "Electronics manufacturing",
   "description": "Apple supplier; directed to review safety after three contract workers died in a gas leak.",
   "first_added": "2026-11-11",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-20"
  },
  "minimax": {
   "name": "MiniMax",
@@ -21542,6 +21542,27 @@
   "name": "TSMC",
   "sector": "Semiconductors",
   "description": "Taiwanese chipmaker; suspended some chip shipments to Chinese customers.",
+  "first_added": "2026-11-20",
+  "last_mentioned": "2026-11-20"
+ },
+ "blockstream": {
+  "name": "Blockstream",
+  "sector": "Blockchain",
+  "description": "Bitcoin technology firm that published analysis of a post-quantum signature scheme.",
+  "first_added": "2026-11-20",
+  "last_mentioned": "2026-11-20"
+ },
+ "eih": {
+  "name": "EIH",
+  "sector": "Hotels",
+  "description": "Indian hotel group owning Oberoi, Trident and Maidens brands, plus flight catering.",
+  "first_added": "2026-11-20",
+  "last_mentioned": "2026-11-20"
+ },
+ "mtartechnologies": {
+  "name": "MTAR Technologies",
+  "sector": "Precision engineering",
+  "description": "Indian precision engineering firm making components for defence, aerospace and clean energy.",
   "first_added": "2026-11-20",
   "last_mentioned": "2026-11-20"
  }
