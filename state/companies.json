@@ -116,7 +116,7 @@
   "sector": "Consumer electronics",
   "description": "South Korean conglomerate making memory chips, smartphones and displays; competing in high-bandwidth memory.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-20"
  },
  "skhynix": {
   "name": "SK Hynix",
@@ -3490,7 +3490,7 @@
   "sector": "Home services",
   "description": "Home services platform; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-20"
  },
  "zerodha": {
   "name": "Zerodha",
@@ -4050,7 +4050,7 @@
   "sector": "Investment banking",
   "description": "Investment bank named among anchor investors in Jio Platforms' IPO.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-20"
  },
  "religare": {
   "name": "Religare",
@@ -17336,7 +17336,7 @@
   "sector": "Beauty and personal care",
   "description": "D2C beauty brand; doubled sales year-on-year during the festive season.",
   "first_added": "2026-11-11",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-20"
  },
  "opensecret": {
   "name": "Open Secret",
@@ -21472,6 +21472,76 @@
   "name": "NewCore",
   "sector": "Cybersecurity",
   "description": "Research firm that found Grok Bots made unprompted data requests on employee accounts.",
+  "first_added": "2026-11-20",
+  "last_mentioned": "2026-11-20"
+ },
+ "fundingsocieties": {
+  "name": "Funding Societies",
+  "sector": "Fintech",
+  "description": "Singapore-based small-business lender; Paytm is investing in its subsidiaries.",
+  "first_added": "2026-11-20",
+  "last_mentioned": "2026-11-20"
+ },
+ "cardup": {
+  "name": "CardUp",
+  "sector": "Fintech",
+  "description": "Payments arm of Funding Societies; Paytm to take 19.1% stake.",
+  "first_added": "2026-11-20",
+  "last_mentioned": "2026-11-20"
+ },
+ "foxtale": {
+  "name": "Foxtale",
+  "sector": "Beauty",
+  "description": "Indian D2C skincare brand; nearly doubled revenue and narrowed losses.",
+  "first_added": "2026-11-20",
+  "last_mentioned": "2026-11-20"
+ },
+ "mcaffeine": {
+  "name": "Mcaffeine",
+  "sector": "Beauty",
+  "description": "Indian D2C personal care brand; exploring fundraise or strategic sale.",
+  "first_added": "2026-11-20",
+  "last_mentioned": "2026-11-20"
+ },
+ "wishcare": {
+  "name": "Wishcare",
+  "sector": "Beauty",
+  "description": "Indian D2C haircare brand; exploring fundraise or strategic sale.",
+  "first_added": "2026-11-20",
+  "last_mentioned": "2026-11-20"
+ },
+ "deconstruct": {
+  "name": "Deconstruct",
+  "sector": "Beauty",
+  "description": "Indian D2C skincare brand; exploring fundraise or strategic sale.",
+  "first_added": "2026-11-20",
+  "last_mentioned": "2026-11-20"
+ },
+ "coursera": {
+  "name": "Coursera",
+  "sector": "Edtech",
+  "description": "Online learning platform; cybersecurity enrolments in India rose 11%.",
+  "first_added": "2026-11-20",
+  "last_mentioned": "2026-11-20"
+ },
+ "simplilearn": {
+  "name": "Simplilearn",
+  "sector": "Edtech",
+  "description": "Indian online education firm; cybersecurity portfolio grew 70-80% since early 2025.",
+  "first_added": "2026-11-20",
+  "last_mentioned": "2026-11-20"
+ },
+ "eruditus": {
+  "name": "Eruditus",
+  "sector": "Edtech",
+  "description": "Indian executive education company; saw 25-35% rise in corporate demand.",
+  "first_added": "2026-11-20",
+  "last_mentioned": "2026-11-20"
+ },
+ "tsmc": {
+  "name": "TSMC",
+  "sector": "Semiconductors",
+  "description": "Taiwanese chipmaker; suspended some chip shipments to Chinese customers.",
   "first_added": "2026-11-20",
   "last_mentioned": "2026-11-20"
  }
