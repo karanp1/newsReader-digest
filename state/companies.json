@@ -53,7 +53,7 @@
   "sector": "Social media",
   "description": "Operator of Facebook, Instagram and WhatsApp; reports child abuse content to Indian authorities.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "google": {
   "name": "Google",
@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -116,7 +116,7 @@
   "sector": "Consumer electronics",
   "description": "South Korean conglomerate making memory chips, smartphones and displays; competing in high-bandwidth memory.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "skhynix": {
   "name": "SK Hynix",
@@ -130,14 +130,14 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "starlink": {
   "name": "Starlink",
   "sector": "Satellite internet",
   "description": "SpaceX's satellite broadband service awaiting security approvals for its India launch.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-21"
  },
  "spacex": {
   "name": "SpaceX",
@@ -158,14 +158,14 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -186,14 +186,14 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "walmart": {
   "name": "Walmart",
   "sector": "Retail",
   "description": "US retail giant and majority owner of Flipkart; facing pressure over employee stock option liquidity.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-21"
  },
  "myntra": {
   "name": "Myntra",
@@ -354,7 +354,7 @@
   "sector": "Defence aerospace",
   "description": "US engine maker shipping F404-IN20 engines to HAL for Tejas LCA Mk 1A fighter jets.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-15"
+  "last_mentioned": "2026-11-21"
  },
  "hindustanaeronautics": {
   "name": "Hindustan Aeronautics",
@@ -501,7 +501,7 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "naukri": {
   "name": "Naukri",
@@ -515,7 +515,7 @@
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "godigit": {
   "name": "Go Digit",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -1061,7 +1061,7 @@
   "sector": "Asset management",
   "description": "Asset manager; its IBIT bitcoin ETF led $487.1 million in net outflows.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-21"
  },
  "fidelity": {
   "name": "Fidelity",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1250,7 +1250,7 @@
   "sector": "Software",
   "description": "US software giant; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "adobe": {
   "name": "Adobe",
@@ -1327,14 +1327,14 @@
   "sector": "Automotive",
   "description": "Two-wheeler maker; at the centre of an ownership dispute in Venu Srinivasan's family branch.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-21"
  },
  "tvsholdings": {
   "name": "TVS Holdings",
   "sector": "Holding company",
   "description": "TVS Group holding firm; disclosed Sudarshan Venu as a Significant Beneficial Owner.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-21"
  },
  "bharat6galliance": {
   "name": "Bharat 6G Alliance",
@@ -2209,7 +2209,7 @@
   "sector": "Media services",
   "description": "Mumbai-based post-production and VFX company; shares fell 3.99% amid a broader pullback.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-21"
  },
  "aartiindustries": {
   "name": "Aarti Industries",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "accenture": {
   "name": "Accenture",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -3266,7 +3266,7 @@
   "sector": "Insurance",
   "description": "General insurance company; mentioned in the watchlist context.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "relianceintelligence": {
   "name": "Reliance Intelligence",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3490,7 +3490,7 @@
   "sector": "Home services",
   "description": "Home services platform; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "zerodha": {
   "name": "Zerodha",
@@ -4687,7 +4687,7 @@
   "sector": "Private equity",
   "description": "Global private equity firm with over $105 billion in assets under management.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-21"
  },
  "publicisgroupe": {
   "name": "Publicis Groupe",
@@ -5303,7 +5303,7 @@
   "sector": "AI",
   "description": "AI platform company in early discussions with Anthropic about becoming an independent evaluator.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-21"
  },
  "bostondynamics": {
   "name": "Boston Dynamics",
@@ -6087,7 +6087,7 @@
   "sector": "Banking",
   "description": "Indian private bank; peer comparison for J&K Bank's valuation.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "pcblchemical": {
   "name": "PCBL Chemical",
@@ -10609,7 +10609,7 @@
   "sector": "Fintech",
   "description": "Listed parent of Paytm; Q2 net profit rose to Rs 225 crore.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "dailyhuntparentverse": {
   "name": "Dailyhunt parent VerSe",
@@ -14228,7 +14228,7 @@
   "sector": "Semiconductors",
   "description": "Chipmaker whose Instinct MI355X GPUs power Vultr's Chennai AI supercluster.",
   "first_added": "2026-11-03",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-21"
  },
  "gilead": {
   "name": "Gilead",
@@ -15152,7 +15152,7 @@
   "sector": "Professional services",
   "description": "Audit and advisory firm; scrutinised the judging process for the Asia Insurance Industry Awards.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-21"
  },
  "icicidirect": {
   "name": "ICICI Direct",
@@ -17336,7 +17336,7 @@
   "sector": "Beauty and personal care",
   "description": "D2C beauty brand; doubled sales year-on-year during the festive season.",
   "first_added": "2026-11-11",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "opensecret": {
   "name": "Open Secret",
@@ -17399,7 +17399,7 @@
   "sector": "Electronics manufacturing",
   "description": "Apple supplier; directed to review safety after three contract workers died in a gas leak.",
   "first_added": "2026-11-11",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "minimax": {
   "name": "MiniMax",
@@ -18372,7 +18372,7 @@
   "sector": "Social media",
   "description": "Social platform whose staff built open Grok apps exposing internal data.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-21"
  },
  "oppo": {
   "name": "Oppo",
@@ -19261,14 +19261,14 @@
   "sector": "Auto components",
   "description": "Indian auto parts maker focusing on ACFMS and precision products after the DICVS demerger.",
   "first_added": "2026-11-17",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-21"
  },
  "pricolautotech": {
   "name": "Pricol Autotech",
   "sector": "Auto components",
   "description": "Demerged Pricol business whose 38.51% promoter stake is being sold to a Warburg Pincus affiliate.",
   "first_added": "2026-11-17",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-21"
  },
  "topazterraceinvestments": {
   "name": "Topaz Terrace Investments",
@@ -21480,70 +21480,70 @@
   "sector": "Fintech",
   "description": "Singapore-based small-business lender; Paytm is investing in its subsidiaries.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "cardup": {
   "name": "CardUp",
   "sector": "Fintech",
   "description": "Payments arm of Funding Societies; Paytm to take 19.1% stake.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "foxtale": {
   "name": "Foxtale",
   "sector": "Beauty",
   "description": "Indian D2C skincare brand; nearly doubled revenue and narrowed losses.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "mcaffeine": {
   "name": "Mcaffeine",
   "sector": "Beauty",
   "description": "Indian D2C personal care brand; exploring fundraise or strategic sale.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "wishcare": {
   "name": "Wishcare",
   "sector": "Beauty",
   "description": "Indian D2C haircare brand; exploring fundraise or strategic sale.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "deconstruct": {
   "name": "Deconstruct",
   "sector": "Beauty",
   "description": "Indian D2C skincare brand; exploring fundraise or strategic sale.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "coursera": {
   "name": "Coursera",
   "sector": "Edtech",
   "description": "Online learning platform; cybersecurity enrolments in India rose 11%.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "simplilearn": {
   "name": "Simplilearn",
   "sector": "Edtech",
   "description": "Indian online education firm; cybersecurity portfolio grew 70-80% since early 2025.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "eruditus": {
   "name": "Eruditus",
   "sector": "Edtech",
   "description": "Indian executive education company; saw 25-35% rise in corporate demand.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "tsmc": {
   "name": "TSMC",
   "sector": "Semiconductors",
   "description": "Taiwanese chipmaker; suspended some chip shipments to Chinese customers.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "blockstream": {
   "name": "Blockstream",
@@ -21557,13 +21557,83 @@
   "sector": "Hotels",
   "description": "Indian hotel group owning Oberoi, Trident and Maidens brands, plus flight catering.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "mtartechnologies": {
   "name": "MTAR Technologies",
   "sector": "Precision engineering",
   "description": "Indian precision engineering firm making components for defence, aerospace and clean energy.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
+ },
+ "chaayos": {
+  "name": "Chaayos",
+  "sector": "Food and beverage",
+  "description": "Indian tea cafe chain whose Mumbai outlets had food licences suspended by the FDA.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "5spice": {
+  "name": "5 Spice",
+  "sector": "Food and beverage",
+  "description": "Mumbai restaurant whose food licence was suspended over hygiene violations.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "dxpventuresindia": {
+  "name": "DXP Ventures India",
+  "sector": "Food distribution",
+  "description": "Bhiwandi firm fined for allegedly relabelling imported food products with revised dates.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "bitcoinwell": {
+  "name": "Bitcoin Well",
+  "sector": "Crypto",
+  "description": "Bitcoin ATM and services firm; Q3 2026 revenue fell 57% year on year.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "twilio": {
+  "name": "Twilio",
+  "sector": "Cloud communications",
+  "description": "US cloud communications firm reorganizing marketing around AI orchestrators.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "raiffeisenbankinternational": {
+  "name": "Raiffeisen Bank International",
+  "sector": "Banking",
+  "description": "Austrian bank using hybrid AI agents and workflows for payment inquiries.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "starhealth": {
+  "name": "Star Health",
+  "sector": "Insurance",
+  "description": "Indian health insurer fined Rs 2 crore by IRDAI over claims handling.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "natcopharma": {
+  "name": "Natco Pharma",
+  "sector": "Pharmaceuticals",
+  "description": "Indian drugmaker; its Vizag formulations unit got US FDA VAI classification.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "ramcosystems": {
+  "name": "Ramco Systems",
+  "sector": "Enterprise software",
+  "description": "Indian software firm that digitised the Canadian Coast Guard's aviation operations.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "visegrad24": {
+  "name": "Visegrad24",
+  "sector": "Media",
+  "description": "Polish right-wing social media account that raised money from Silicon Valley donors.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
  }
 }
