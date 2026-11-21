@@ -508,7 +508,7 @@
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-21"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
@@ -1355,14 +1355,14 @@
   "sector": "Banking",
   "description": "Private bank; offered credit card discounts on MacBook Neo during Flipkart sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-21"
  },
  "hdfcbank": {
   "name": "HDFC Bank",
   "sector": "Banking",
   "description": "Private bank; offered debit card discounts on MacBook Neo during Flipkart sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-21"
  },
  "inoxwind": {
   "name": "Inox Wind",
@@ -1432,7 +1432,7 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-21"
  },
  "citi": {
   "name": "Citi",
@@ -3154,7 +3154,7 @@
   "sector": "Banking",
   "description": "Private sector bank; among the Sensex laggards on Monday.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-21"
  },
  "karnatakaplantersassociation": {
   "name": "Karnataka Planters' Association",
@@ -5037,7 +5037,7 @@
   "sector": "Banking",
   "description": "Indian private bank, a peer to IDBI Bank.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-21"
  },
  "statebankofindia": {
   "name": "State Bank of India",
@@ -7543,7 +7543,7 @@
   "sector": "Banking",
   "description": "Canadian bank; cut its Q4 gold forecast to $4,500 an ounce.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-21"
  },
  "iea": {
   "name": "IEA",
@@ -9916,7 +9916,7 @@
   "sector": "Hospitality",
   "description": "Indian hotel chain; Q2 net profit rose 52% to Rs 203 crore on strong demand.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-21"
  },
  "tamilnadmercantilebank": {
   "name": "Tamilnad Mercantile Bank",
@@ -21633,6 +21633,90 @@
   "name": "Visegrad24",
   "sector": "Media",
   "description": "Polish right-wing social media account that raised money from Silicon Valley donors.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "hmt": {
+  "name": "HMT",
+  "sector": "Watches",
+  "description": "Indian watchmaker that issued a legal notice to Flipkart after its CEO bought a fake Rs 290 watch on the platform.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "twentyonecapital": {
+  "name": "Twenty One Capital",
+  "sector": "Bitcoin",
+  "description": "Bitcoin holding company that added $10 million of Bitcoin, bringing holdings to about 43,841 BTC.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "quprayog": {
+  "name": "QuPrayog",
+  "sector": "Deep tech",
+  "description": "Pune startup that built a Rubidium-87 atomic clock prototype and aims for a miniature product by end-2027.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "bloomenergy": {
+  "name": "Bloom Energy",
+  "sector": "Fuel cells",
+  "description": "US fuel cell maker whose data center projects are a watchpoint for MTAR Technologies.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "waaree": {
+  "name": "Waaree",
+  "sector": "Solar energy",
+  "description": "Indian solar equipment maker cited as a peer comparison in MTAR's valuation.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "emmvee": {
+  "name": "Emmvee",
+  "sector": "Solar energy",
+  "description": "Indian solar module maker cited as a peer comparison in MTAR's valuation.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "diamondpower": {
+  "name": "Diamond Power",
+  "sector": "Capital goods",
+  "description": "Indian equipment maker cited as a peer comparison in MTAR's valuation.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "apar": {
+  "name": "Apar",
+  "sector": "Capital goods",
+  "description": "Indian industrial products maker cited as a peer comparison in MTAR's valuation.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "indianhotels": {
+  "name": "Indian Hotels",
+  "sector": "Hotels",
+  "description": "Tata group hotel chain cited as a peer comparison in EIH's valuation.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "leelapalaces": {
+  "name": "Leela Palaces",
+  "sector": "Hotels",
+  "description": "Indian luxury hotel chain cited as a peer comparison in EIH's valuation.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "lemontree": {
+  "name": "Lemon Tree",
+  "sector": "Hotels",
+  "description": "Indian budget hotel chain cited as a peer comparison in EIH's valuation.",
+  "first_added": "2026-11-21",
+  "last_mentioned": "2026-11-21"
+ },
+ "farsideinvestors": {
+  "name": "Farside Investors",
+  "sector": "Crypto data",
+  "description": "Crypto data provider tracking US spot Bitcoin ETF flows.",
   "first_added": "2026-11-21",
   "last_mentioned": "2026-11-21"
  }

@@ -3,25 +3,33 @@ METRICS
 NIFTY PE | 21.02 | 20 Nov 2026 | https://nifty-pe-ratio.com/
 Gold per 10g 24K | ₹1,25,080 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 25,800.60 (+2.01%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹53,57,858 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $57,860 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹53,65,636 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $57,931 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
 
 [Jio Platforms]
 
+- ~
+  20 Nov 2026 | https://enewsinsight.com/reliance-jio-gears-up-to-challenge-elon-musks-starlink/
+  • Reliance plans a 1,600-satellite broadband network to compete with Starlink in India, with a first test mission in September 2027. ¶ • The project's completion target has slipped from 2030 to 2035 due to manufacturing and launch challenges. ¶ • Reliance is in talks with two US firms to buy at least 400 satellites, and is considering European suppliers but not Chinese ones. ¶ • India makes fewer than 15 satellites a year, so capacity must rise to around 200 a year for the network. ¶ • Starlink already has more than 10,000 satellites in orbit and faces Indian regulatory and security concerns over foreign control. ¶ ↗ enewsinsight.com|https://enewsinsight.com/reliance-jio-gears-up-to-challenge-elon-musks-starlink/
+
+- Outlook: Neutral
+  2026-11-21 |
+  §VIEW§{"stance": "neutral", "text": "The satellite push opens a new growth path for Jio Platforms, but a 2035 completion and India's tiny satellite output keep it distant. Starlink's 10,000-satellite lead and Indian regulatory hurdles split the near-term picture."}
+
 [Reliance Intelligence]
 
 [Reliance]
 
 - ~
-  20 Nov 2026 | https://www.tradingview.com/news/cnbctv:785c81c27094b:0/
-  • Promoter entities bought 4.26 lakh Reliance shares for ₹57.15 crore on November 16, lifting RSHL to 34.37 crore shares and RIIHL to 48.19 crore shares. ¶ • Reliance reported record September-quarter FY27 net profit of ₹29,550 crore, up 33.8% year-on-year, on revenue of ₹3.62 lakh crore, up 27.8%. ¶ • JPMorgan reiterated Overweight on Reliance with a ₹1,675 target, about 23% above Wednesday's close of ₹1,363; all 33 analysts rate it Buy. ¶ • Reliance topped India Inc's Q2FY27 profit list as the 2,600 listed companies tracked by Bank of Baroda posted record net profit of about ₹4.5 lakh crore, up nearly 26%. ¶ • Reliance raised supertankers on time charter to about a dozen from seven to eight, as Indian refiners lock in vessels amid record freight costs. ¶ ↗ tradingview.com|https://www.tradingview.com/news/cnbctv:785c81c27094b:0/ ;; simplywall.st|https://simplywall.st/stocks/in/energy/nse-reliance/reliance-industries-shares/news/reliance-nseireliance-stock-seems-overvalued-after-its-16b-b ;; business-standard.com|https://www.business-standard.com/companies/news/strand-eyes-us-southeast-asia-mkts-for-blood-based-cancer-screening-test-126112001024_1.html ;; vibesofindia.com|https://www.vibesofindia.com/five-companies-drive-quarter-of-india-inc-record-q2-profits/
+  21 Nov 2026 | https://simplywall.st/stocks/in/energy/nse-reliance/reliance-industries-shares/news/reliance-nseireliance-stock-seems-overvalued-after-its-16b-b
+  • Reliance Industries posted a record net profit of ₹29,550 crore in the September quarter of FY27, up 33.8% year-on-year, on revenue of ₹3.62 lakh crore, up 27.8%. ¶ • Promoter entities bought 4.26 lakh shares for ₹57.15 crore on November 16, lifting the promoter group stake to 50.44%. ¶ • JPMorgan kept an Overweight rating with a ₹1,675 target, and all 33 analysts covering the stock have a Buy recommendation. ¶ • Reliance plans a 1,600-satellite broadband network to rival Starlink, with a first test in September 2027 and completion pushed to 2035. ¶ • Reliance has raised supertankers on time charter to about a dozen, part of roughly 25 crude and products tankers, to cut freight costs amid Persian Gulf disruption. ¶ ↗ simplywall.st|https://simplywall.st/stocks/in/energy/nse-reliance/reliance-industries-shares/news/reliance-nseireliance-stock-seems-overvalued-after-its-16b-b ;; vibesofindia.com|https://www.vibesofindia.com/five-companies-drive-quarter-of-india-inc-record-q2-profits/ ;; cnbctv18.com|https://www.cnbctv18.com/market/reliance-industries-promoters-buy-shares-ril-stock-price-jpmorgan-target-20038818.htm ;; m.economictimes.com|https://m.economictimes.com/industry/energy/oil-gas/reliance-indian-oil-other-indian-refiners-race-to-secure-oil-tankers-as-freight-costs-rise/articleshow/136026329.cms
 
 - Outlook: Bullish
   2026-11-21 |
-  §VIEW§{"stance": "bullish", "text": "Record Q2FY27 profit of Rs 29,550 crore, promoter buying of Rs 57.15 crore and a unanimous Buy consensus support the stock. Valuation at 22.7x P/E versus the 15.7x industry average is the main offset."}
+  §VIEW§{"stance": "bullish", "text": "Record Q2 profit of Rs 29,550 crore, promoter buying and a unanimous Buy from 33 analysts support the stock. The 22.7x P/E against a 15.7x industry average is the main risk."}
 
 [Flipkart]
 
@@ -36,12 +44,12 @@ SOURCE 6: Watchlist (headlines + summary)
 [Zomato]
 
 - ~
-  20 Nov 2026 | https://www.newsband.in/article_detail/fda-suspends-licenses-of-chaayos-5-spice-blinkit-outlet
-  • Maharashtra FDA suspended the food licence of Blink Commerce Pvt Ltd's Fort outlet, Zomato's Blinkit arm, with immediate effect after inspections found hygiene violations. ¶ • The Fort suspension was one of six Mumbai licences cancelled on November 19, alongside Chaayos Churchgate, 5 Spice Bandra, Eve Santacruz and two others. ¶ • Inspectors found live cockroaches and flies, rusted tea-making equipment, uncovered dustbins and raw and cooked food stored together at the raided premises. ¶ • The FDA said the lapses breached the Food Safety and Standards Act and Schedule 4 of the 2011 licensing regulations, calling them a threat to public health. ¶ • The crackdown follows FDA raids across Colaba, Fort, Cuffe Parade and Churchgate, with inspections expected to continue across Mumbai and nearby areas. ¶ ↗ newsband.in|https://www.newsband.in/article_detail/fda-suspends-licenses-of-chaayos-5-spice-blinkit-outlet ;; livemint.com|https://www.livemint.com/companies/news/tukaram-mundhes-fda-suspends-licences-of-blinkit-chaayos-5-spice-among-6-mumbai-establishments-what-inspection-found-11795188506556.html
+  21 Nov 2026 | https://sundayguardianlive.com/trending/zomato-viral-news-customer-finds-strands-of-hair-on-cham-cham-ordered-online-seeks-refund-platform-promises-to-investigate-after-complaint-goes-viral-on-x-325439/
+  • Maharashtra FDA suspended licences of six Mumbai establishments, including Blinkit's Blink Commerce, after inspections found cockroaches and uncovered dustbins. ¶ • Zomato said it will check a customer complaint about hair found on cham cham with the restaurant partner and update him. ¶ • The customer, X user @bishnoi7701, posted photos of two to three hair strands on the sweet and asked Zomato for a refund. ¶ • Social media reaction split between users blaming the sweet shop and others raising hygiene concerns about delivery platforms. ¶ • FDA also suspended four establishments in Pandharpur after inspecting 54 outlets ahead of the Kartiki Wari pilgrimage. ¶ ↗ sundayguardianlive.com|https://sundayguardianlive.com/trending/zomato-viral-news-customer-finds-strands-of-hair-on-cham-cham-ordered-online-seeks-refund-platform-promises-to-investigate-after-complaint-goes-viral-on-x-325439/ ;; livemint.com|https://www.livemint.com/companies/news/tukaram-mundhes-fda-suspends-licences-of-blinkit-chaayos-5-spice-among-6-mumbai-establishments-what-inspection-found-11795188506556.html
 
 - Outlook: Bearish
   2026-11-21 |
-  §VIEW§{"stance": "bearish", "text": "A licence suspension at Blinkit's Fort store is a direct regulatory hit to Zomato's quick-commerce arm. Continued FDA inspections across Mumbai keep near-term operational and reputational risk elevated."}
+  §VIEW§{"stance": "bearish", "text": "Food safety crackdowns in Mumbai and Pandharpur plus a viral hygiene complaint keep regulatory and reputational risk high for Zomato. The licence suspension of rival Blinkit shows the regulator is acting, not just warning."}
 
 [HAL]
 
@@ -59,46 +67,39 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Godigit Insurance]
 
-- Go Digit approved to set up Gift City insurance office
-  20 Nov 2026 | https://insuranceasianews.com/go-digit-approved-to-set-up-gift-city-insurance-office/
-
 [Infoedge/Naukri]
 
 - ~
   20 Nov 2026 | https://www.indiatoday.in/jobs/story/hr-expert-subir-verma-on-why-young-indians-must-rethink-their-government-job-obsession-3043327-2026-11-20
-  • HR leader Subir Verma said at Aajtak Masterclass 2026 that the obsession with government jobs is the biggest problem among job seekers in North India. ¶ • Verma advised freshers to pick a specific role, shortlist 20 companies and find 10 hiring contacts at each, building a list of 200 contacts. ¶ • He suggested interacting with those professionals on LinkedIn for three weeks before asking for five minutes of mentorship, aiming at referrals. ¶ • Verma said loyalty should work both ways and employees should weigh designation and compensation growth before deciding to stay or leave. ¶ • His broader message was that job seekers should stop waiting for opportunities and build a job search strategy for their whole career. ¶ ↗ indiatoday.in|https://www.indiatoday.in/jobs/story/hr-expert-subir-verma-on-why-young-indians-must-rethink-their-government-job-obsession-3043327-2026-11-20
+  • MPPSC released a tentative 2027 calendar for 25 recruitment exams, with State Service prelims on January 24 and May 2, 2027. ¶ • HR leader Subir Verma called the obsession with government jobs the biggest problem among job seekers in North India. ¶ • Verma advised freshers to shortlist 20 companies and identify 10 hiring contacts at each, building 200 relevant contacts. ¶ • Verma suggested interacting with professionals on LinkedIn for three weeks before asking for five minutes of mentorship. ¶ • Verma said employees should assess growth in designation and compensation, and explore other opportunities if sidelined. ¶ ↗ indiatoday.in|https://www.indiatoday.in/jobs/story/hr-expert-subir-verma-on-why-young-indians-must-rethink-their-government-job-obsession-3043327-2026-11-20 ;; news.careers360.com|https://news.careers360.com/mppsc-exam-calendar-2027-state-service-prelims-twice-25-recruitment-test-dates-sarkari-naukri-madhya-pradesh-govt-jobs
 
 - Outlook: Neutral
   2026-11-21 |
-  §VIEW§{"stance": "neutral", "text": "The article is career advice from an HR leader, not news on Infoedge or Naukri's business. It carries no financial figures or company developments, so it does not tilt the topic either way."}
+  §VIEW§{"stance": "neutral", "text": "The MPPSC calendar shows continued demand for government exams, while Verma's advice pushes private-sector job search. These pull in opposite directions for Naukri's listings mix."}
 
 [Bitcoin]
 
 - ~
   20 Nov 2026 | https://bitcoinmagazine.com/videos/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom
-  • Bitcoin fell to $59,300 Friday, breaking below $60,000 as the Fear and Greed Index dropped to 9, its weakest reading since February. ¶ • Roughly $727 million in leveraged crypto positions were liquidated over 24 hours, about 86% of them bullish bets, while U.S. spot Bitcoin ETFs lost $582.2 million on Thursday. ¶ • U.S. spot Bitcoin ETFs have seen $3.4 billion in outflows since Oct. 1, and stablecoin capitalization has fallen roughly $16 billion since mid-October. ¶ • Twenty One Capital added $10 million worth of Bitcoin, bringing holdings to about 43,841 BTC, valued at $2.5 billion at current prices. ¶ • Robert Kiyosaki said he will wait for Bitcoin to reach another bottom before buying, advising investors not to catch a falling knife. ¶ ↗ decrypt.co|https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest ;; seekingalpha.com|https://seekingalpha.com/article/4970810-whales-insight-can-bitcoin-find-support-after-anthropics-record-ipo ;; cryptobriefing.com|https://cryptobriefing.com/bitcoin-investment-strategy-twenty-one-capital/ ;; tradingview.com|https://www.tradingview.com/news/binance_news:0fa0c148a094b:0-robert-kiyosaki-says-he-will-wait-for-bitcoin-to-bottom-again-before-buying/
+  • Bitcoin fell to $59,300 Friday, breaking below $60,000 as the Fear and Greed Index dropped to 9, its weakest since February. ¶ • US spot Bitcoin ETFs lost $582.2 million on Thursday, with roughly $3.5 billion withdrawn in November, per Farside Investors. ¶ • Roughly $727 million in leveraged crypto positions were liquidated over 24 hours, about 86% of them bullish bets. ¶ • Twenty One Capital added $10 million of Bitcoin, bringing holdings to about 43,841 BTC, valued at $2.5 billion. ¶ • Robert Kiyosaki said he will wait for another Bitcoin bottom before buying, advising investors not to catch a falling knife. ¶ ↗ bitcoinmagazine.com|https://bitcoinmagazine.com/videos/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom ;; tradingview.com|https://www.tradingview.com/news/binance_news:0fa0c148a094b:0-robert-kiyosaki-says-he-will-wait-for-bitcoin-to-bottom-again-before-buying/ ;; decrypt.co|https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest ;; cryptobriefing.com|https://cryptobriefing.com/bitcoin-investment-strategy-twenty-one-capital/
 
 - Outlook: Bearish
   2026-11-21 |
-  §VIEW§{"stance": "bearish", "text": "ETF outflows of $3.4 billion since Oct. 1 and $727 million in liquidations show sellers in control. A December Fed hike is priced at 99.2%, keeping pressure on risk assets."}
+  §VIEW§{"stance": "bearish", "text": "Bitcoin broke below $60,000 with the Fear and Greed Index at 9 and heavy ETF outflows. Higher rates and the Anthropic IPO are pulling money from crypto, so the near-term flow stays negative."}
 
 [Gold]
 
 - ~
   20 Nov 2026 | https://www.kitco.com/news/article/2026-11-20/there-are-five-trillion-reasons-not-give-gold-just-yet
-  • Gold fell to $3,503 an ounce, down 25% from the $4,679 swing high, with three black crows signaling persistent selling pressure. ¶ • Traders put 99% odds on a quarter-point Fed rate increase in December, per CME FedWatch, pushing gold toward support at $3,500. ¶ • CIBC warned the U.S. could hit its $41.1 trillion debt ceiling by late February, with Congress possibly needing a nearly $5 trillion raise. ¶ • Gold in India stood at ₹1.22 lakh per 10 grams on 21 November 2026, down over 32% from its January 2026 peak of ₹1.80 lakh. ¶ • Miners' all-in sustaining costs rose 22% year on year in the second quarter, the steepest since 2013, squeezing margins to $2,582 per oz. ¶ ↗ kitco.com|https://www.kitco.com/news/article/2026-11-20/there-are-five-trillion-reasons-not-give-gold-just-yet ;; fxempire.com|https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-deepening-selloff-nears-major-support-1646229 ;; livemint.com|https://www.livemint.com/money/personal-finance/golden-lessons-from-past-gold-price-fluctuations-amid-current-gold-price-crash-32-down-from-its-peak-in-2026-11795234156396.html ;; mining.com|https://www.mining.com/gold-price-falls-nears-3500-as-miners-face-soaring-costs/
+  • Gold fell to $3,513.54 an ounce, its lowest since September 2025, capping a weekly drop of nearly 9.5%. ¶ • Traders put 96-99% odds on a quarter-point Fed rate hike in December, pressuring non-yielding gold. ¶ • CIBC warned the U.S. could hit its $41.1 trillion debt ceiling by late February, with a possible $5 trillion raise. ¶ • Miners' all-in sustaining costs rose 22% year on year in Q2, with capital spending at a record $441 an ounce. ¶ • Gold in India stood near ₹1.22 lakh per 10 grams, down over 32% from its January 2026 peak of ₹1.80 lakh. ¶ ↗ kitco.com|https://www.kitco.com/news/article/2026-11-20/there-are-five-trillion-reasons-not-give-gold-just-yet ;; fxempire.com|https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-deepening-selloff-nears-major-support-1646229 ;; livemint.com|https://www.livemint.com/money/personal-finance/golden-lessons-from-past-gold-price-fluctuations-amid-current-gold-price-crash-32-down-from-its-peak-in-2026-11795234156396.html ;; mining.com|https://www.mining.com/gold-price-falls-nears-3500-as-miners-face-soaring-costs/
 
 - Outlook: Bearish
   2026-11-21 |
-  §VIEW§{"stance": "bearish", "text": "Rate-hike odds at 99% and a stronger dollar are driving gold toward $3,500 support, with miners facing record costs. The debt-ceiling risk is a longer-term tailwind, but near-term selling pressure dominates."}
+  §VIEW§{"stance": "bearish", "text": "Rate-hike odds near 99% and a stronger dollar are driving the selloff, with gold at a 14-month low. Debt-ceiling risk and miner costs are longer-term supports, but near-term flows favor sellers."}
 
 ============================================================
 
 SOURCE 8: AI News
-
-[OpenAI] Combatting adversarial distillation
-  20 Nov 2026 | https://openai.com/index/combatting-adversarial-distillation
-  • OpenAI says adversarial distillation lets bad actors train a second model on a frontier model's outputs, then deploy it without the original's safeguards. ¶ • It focuses on protecting chain-of-thought, the intermediate reasoning steps a model generates internally, which can carry information the final answer omits. ¶ • In an internal adaptive evaluation, the average attack success rate at recovering protected reasoning fell from 54.0% against GPT-6 Astra to 0.2% against GPT-6.2 Astra with updated safeguards. ¶ • In a cyber distillation study, a student trained on exact reasoning traces generally beat one trained on reasoning summaries after supervised fine-tuning, and still scored higher after reinforcement learning at the largest inference budget tested. ¶ • Defenses sit at two levels: request-level model behavior, classifiers and API controls, plus campaign-level detection of coordinated extraction attempts, with findings fed back into training and testing.
 
 [Open Claw Newsletter] Twilio Builds Campaigns in Minutes
   20 Nov 2026 | https://www.businessinsider.com/twilio-cmo-restructures-marketing-organization-ai-orchestrators-2026-11
@@ -184,9 +185,9 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   20 Nov 2026 | https://www.thehindu.com/business/markets/cea-flags-need-to-align-capital-markets-with-indias-development-priorities/article71725057.ece
   • Chief Economic Adviser V. Anantha Nageswaran said Indian capital markets must channel household savings into long-term productive investments for infrastructure, manufacturing, agriculture and mineral exploration. ¶ • He noted equity market capitalisation is about 130% of GDP while the corporate bond market is only around 16%, and warned a consumption-led model may not suit India.
 
-- SEBI mulls review of additional disclosure norms for FPIs; floats consultation paper
-  20 Nov 2026 | https://www.thehindu.com/business/markets/sebi-mulls-review-of-additional-disclosure-norms-for-fpis-floats-consultation-paper/article71724977.ece
-  • SEBI proposed removing the Additional Disclosure Framework that forces certain FPIs to reveal all owners on a full look-through basis, seeking comments by December 11. ¶ • The framework applies to FPIs holding over 50% of Indian equity AUM in one corporate group or more than ₹50,000 crore of equity AUM, and FPIs pulled out over ₹5.61 lakh crore from Indian equities between October 2024 and October 2026.
+- Anthropic’s 17% IPO gain fails to lift AI stocks as Nasdaq slides 2.25%
+  20 Nov 2026 | https://www.thehindu.com/business/anthropics-17-ipo-gain-fails-to-lift-ai-stocks-as-nasdaq-slides-225/article71725100.ece
+  • Anthropic began trading on Nasdaq under ticker ANT at $111.50, a 34.3% premium over its $83 IPO price, and closed at $97.17, up 17.1%. ¶ • The Nasdaq Composite fell 2.25% and Nvidia dropped 3.3%, while analysts cited stretched valuations and record corporate share issuance.
 
 - Rupee settles above 93 level after seven months on FII flows
   20 Nov 2026 | https://www.thehindu.com/business/Industry/rupee-settles-above-93-level-after-seven-months-on-fii-flows/article71724100.ece
@@ -196,11 +197,29 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   20 Nov 2026 | https://www.thehindu.com/business/markets/stock-markets-defy-global-rout-sensex-jumps-898-points-nifty-climbs-to-25800/article71724101.ece
   • The Sensex rallied 898 points, closing at 83,919.71, while the Nifty surged to 25,800.60, defying weak global markets. ¶ • Foreign Institutional Investors purchased equities worth ₹7,411.41 crore on Thursday, alongside buying in bank stocks and lower crude oil prices.
 
-[[Company news and results]]
+[[Regulatory and policy]]
+
+- What does EPFO’s Systematic Withdrawal Plan entail for retirees | Explained
+  21 Nov 2026 | https://www.thehindu.com/business/Economy/what-does-epfos-systematic-withdrawal-plan-for-entail-for-retirees-explained/article71727225.ece
+  • The Central Board of Trustees of the Employees' Provident Fund Organisation approved a Systematic Withdrawal Plan on November 19, 2026, letting retiring members take periodic payouts instead of a lump sum. ¶ • Members can choose monthly, quarterly, half-yearly or annual withdrawals, with the remaining corpus staying in the EPF Fund and continuing to earn EPF interest.
 
 - IRDAI imposes ₹2 cr penalty on Star Health
   21 Nov 2026 | https://www.thehindu.com/business/Industry/irdai-imposes-2-cr-penalty-on-star-health/article71725657.ece
   • IRDAI fined Star Health and Allied Insurance ₹2 crore after a January 31-February 11, 2022 inspection, with ₹1 crore each for two sets of violations. ¶ • The regulator said claims were processed inconsistently with policy terms and Covid claim settlement circulars, and that deductions and repudiations were arbitrary and not communicated to policyholders.
+
+- Coal auction rounds attract 85 bids; 20 first-time players enter sector
+  20 Nov 2026 | https://www.thehindu.com/business/Economy/coal-auction-rounds-attract-85-bids-20-first-time-players-enter-sector/article71725209.ece
+  • The 16th round of commercial coal mine auctions drew 83 bids for 17 blocks, plus two bids for one block left over from the 15th round. ¶ • Across the 26 blocks on offer, bids quadrupled from the previous round, and 20 first-time bidders joined the regime that has auctioned 145 mines since June 2020.
+
+- SEBI mulls review of additional disclosure norms for FPIs; floats consultation paper
+  20 Nov 2026 | https://www.thehindu.com/business/markets/sebi-mulls-review-of-additional-disclosure-norms-for-fpis-floats-consultation-paper/article71724977.ece
+  • SEBI proposed removing the Additional Disclosure Framework that forces certain FPIs to reveal all owners on a full look-through basis, seeking comments by December 11. ¶ • The framework applies to FPIs holding over 50% of Indian equity AUM in one corporate group or more than ₹50,000 crore of equity AUM, and FPIs pulled out over ₹5.61 lakh crore from Indian equities between October 2024 and October 2026.
+
+[[Company news]]
+
+- Abhishek Manu Singhvi to represent Venu Srinivasan in property dispute with daughter
+  20 Nov 2026 | https://www.thehindu.com/business/abhishek-manu-singhvi-preparing-notice-for-tvs-venu-srinivasan-in-partition-case/article71725738.ece
+  • Abhishek Manu Singhvi is preparing a reply for TVS Motor Chairman Emeritus Venu Srinivasan to a partition notice from his daughter Lakshmi Venu. ¶ • Lakshmi Venu seeks an equal share of the VS Trust assets, which hold a controlling stake in TVS Holdings, citing gender bias and her rights as a coparcener under Section 6 of the Hindu Succession Act.
 
 - U.S. FDA issues VAI classification to Natco Pharma’s FDF unit in Vizag
   20 Nov 2026 | https://www.thehindu.com/business/Industry/us-fda-issues-vai-classification-to-natco-pharmas-fdf-unit-in-vizag/article71724838.ece
@@ -214,11 +233,11 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   20 Nov 2026 | https://www.thehindu.com/business/Industry/ramco-systems-digitises-canadian-coast-guards-aviation-operations/article71724050.ece
   • Ramco Systems deployed its aviation software at the Canadian Coast Guard’s Aircraft Services Directorate, digitising inventory, procurement, repair and component maintenance across 14 bases and vessels. ¶ • The second phase will extend the platform to aircraft maintenance planning and execution, with Ramco’s aviation software used by over 90 organisations and 24,000 users managing more than 4,000 aircraft globally.
 
-[[Gold and consumer demand]]
+[[Trade and exports]]
 
-- Jewellery demand remains resilient for Q3 despite gold price surge
-  20 Nov 2026 | https://www.thehindu.com/business/Industry/jewellery-demand-remains-resilient-for-q3-despite-gold-price-surge/article71675165.ece
-  • Gold business during Dhanteras is expected to reach about ₹60,000 crore, up 15-20% in value from last year, per GJC estimates. ¶ • Analysts expect gold to retail at ₹1,30,000-1,40,000 per 10 gram by year end, consolidating at current levels.
+- Pune startup develops atomic clock prototype amid growing export curbs on critical technologies
+  21 Nov 2026 | https://www.thehindu.com/sci-tech/technology/pune-startup-develops-atomic-clock-prototype-amid-growing-export-curbs-on-critical-technologies/article71727456.ece
+  • QuPrayog Private Limited built a Rubidium-87 atomic clock prototype using Coherent Population Trapping technology in seven months, reaching Technology Readiness Level 4. ¶ • The prototype kept time nearly 50 times better than a conventional free-running crystal oscillator over 1,000 seconds, and the company aims for a miniature integrated product by end-2027.
 
 - Garment exporters urged to focus on financial disciple and have strategic foresight to capture orders
   20 Nov 2026 | https://www.thehindu.com/news/cities/Coimbatore/garment-exporters-urged-to-focus-on-financial-disciple-and-have-strategic-foresight-to-capture-orders/article71724690.ece
@@ -228,73 +247,27 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   20 Nov 2026 | https://www.thehindu.com/business/higher-apparel-prices-fail-to-lift-festive-sales-industry-pins-hopes-on-wedding-season/article71724477.ece
   • A CMAI survey found 35% of apparel sellers saw higher year-on-year festive sales while 35% saw a decline and 30% stayed flat. ¶ • 73% of respondents raised prices, and nearly 50% expect wedding season sales to beat last year.
 
-[[Energy and coal sector]]
+[[Gold and jewellery]]
 
-- Coal auction rounds attract 85 bids; 20 first-time players enter sector
-  20 Nov 2026 | https://www.thehindu.com/business/Economy/coal-auction-rounds-attract-85-bids-20-first-time-players-enter-sector/article71725209.ece
-  • The 16th round of commercial coal mine auctions drew 83 bids for 17 blocks, plus two bids for one block left over from the 15th round. ¶ • Across the 26 blocks on offer, bids quadrupled from the previous round, and 20 first-time bidders joined the regime that has auctioned 145 mines since June 2020.
+- Jewellery demand remains resilient for Q3 despite gold price surge
+  20 Nov 2026 | https://www.thehindu.com/business/Industry/jewellery-demand-remains-resilient-for-q3-despite-gold-price-surge/article71675165.ece
+  • Gold business during Dhanteras is expected to reach about ₹60,000 crore, up 15-20% in value from last year, per GJC estimates. ¶ • Analysts expect gold to retail at ₹1,30,000-1,40,000 per 10 gram by year end, consolidating at current levels.
 
-[[Technology and AI]]
-
-- Pune startup develops atomic clock prototype amid growing export curbs on critical technologies
-  21 Nov 2026 | https://www.thehindu.com/sci-tech/technology/pune-startup-develops-atomic-clock-prototype-amid-growing-export-curbs-on-critical-technologies/article71727456.ece
-  • QuPrayog Private Limited built a Rubidium-87 atomic clock prototype using Coherent Population Trapping technology in seven months, reaching Technology Readiness Level 4. ¶ • The prototype kept time nearly 50 times better than a conventional free-running crystal oscillator over 1,000 seconds, and the company aims for a miniature integrated product by end-2027.
-
-- Anthropic's 17% IPO gain fails to lift AI stocks as Nasdaq slides 2.25%
-  20 Nov 2026 | https://www.thehindu.com/business/anthropics-17-ipo-gain-fails-to-lift-ai-stocks-as-nasdaq-slides-225/article71725100.ece
-  • Anthropic closed at $97.17, up 17.1% from its $83 IPO price, after opening at $111.50 and raising a record $81.3 billion. ¶ • The Nasdaq Composite fell 2.25% and Nvidia dropped 3.3% as investors sold existing holdings to fund Anthropic's offering, with Morningstar valuing the stock at $92.
+[[Healthcare AI]]
 
 - Healthcare AI: hospitals lack capacity to measure real-world patient outcomes, warns French expert
   20 Nov 2026 | https://www.thehindu.com/business/Industry/healthcare-ai-hospitals-lack-capacity-to-measure-real-world-patient-outcomes-warns-french-expert/article71723894.ece
   • Emmanuel Bacry, scientific director of France's Health Data Hub, said only about six or seven hospitals worldwide can evaluate medical devices deployed in their systems. ¶ • He cited a rules-based ICU kidney failure alert that was linked to a doubling of deaths at two of six US hospitals in 2022, and said about 70% of healthcare AI training data comes from male, white, Western populations.
 
-[[Legal and regulatory disputes]]
-
-- Abhishek Manu Singhvi to represent Venu Srinivasan in property dispute with daughter
-  20 Nov 2026 | https://www.thehindu.com/business/abhishek-manu-singhvi-preparing-notice-for-tvs-venu-srinivasan-in-partition-case/article71725738.ece
-  • Abhishek Manu Singhvi is preparing a reply for TVS Motor Chairman Emeritus Venu Srinivasan to a partition notice from his daughter Lakshmi Venu. ¶ • Lakshmi Venu seeks an equal share of the VS Trust assets, which hold a controlling stake in TVS Holdings, citing gender bias and her rights as a coparcener under Section 6 of the Hindu Succession Act.
-
-[[Other]]
-
-- What does EPFO’s Systematic Withdrawal Plan entail for retirees | Explained
-  21 Nov 2026 | https://www.thehindu.com/business/Economy/what-does-epfos-systematic-withdrawal-plan-for-entail-for-retirees-explained/article71727225.ece
-  • The Central Board of Trustees of the Employees' Provident Fund Organisation approved a Systematic Withdrawal Plan on November 19, 2026, letting retiring members take periodic payouts instead of a lump sum. ¶ • Members can choose monthly, quarterly, half-yearly or annual withdrawals, with the remaining corpus staying in the EPF Fund and continuing to earn EPF interest.
-
-- Why is PM Modi upset with corporate India? | Explained
-  20 Nov 2026 | https://www.thehindu.com/business/why-is-pm-modi-upset-with-corporate-india-explained/article71723615.ece
-  • Prime Minister Narendra Modi criticised India's top corporate leaders at FICCI's Annual General Meeting on November 19, 2026, saying industry had barely advanced domestic manufacturing since the 1930s. ¶ • Modi's acknowledgement of concerns previously raised by the Opposition lends greater weight to the issues affecting the Indian economy.
-
 ============================================================
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
-[[Ukraine and Russia talks]]
+[[Iran and West Asia conflict]]
 
-- Russia dusts off its pre-war demands as the U.S. raises discussing European security at Ukraine talks
-  21 Nov 2026 | https://www.thehindu.com/news/international/russia-dusts-off-its-pre-war-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/article71727588.ece
-  • The Kremlin is using a U.S. offer to discuss post-war European security to reaffirm demands Putin made before the 2022 invasion, worrying Ukraine and NATO allies. ¶ • Russia's 2021 draft demands included blocking NATO expansion to Ukraine and Georgia, pulling back NATO forces from Central and Eastern Europe, and a freeze on warship and bomber patrols near each other's borders.
-
-- Three to tango: On Trump, Xi, Putin trilateral summit
-  21 Nov 2026 | https://www.thehindu.com/opinion/editorial/three-to-tango-on-trump-xi-putin-trilateral-summit/article71725845.ece
-  • The first trilateral summit between the Presidents of China, the U.S. and Russia was held in Shenzhen on November 19, with the leaders agreeing to start nuclear arms talks. ¶ • The summit produced no breakthrough on nuclear arms reduction, non-proliferation or the Ukraine war, and no road map for the future.
-
-[[US politics and economy]]
-
-- ‘Look at India, they have low interest rates’: Trump says U.S. could achieve 14–15% economic growth
-  21 Nov 2026 | https://www.thehindu.com/news/international/look-at-india-they-have-low-interest-rates-trump-says-us-could-achieve-1415-economic-growth/article71727140.ece
-  • Trump said at a White House press conference that he secured two trade deals with Thailand and the Philippines in Manila, with about 10 more expected soon. ¶ • He pointed to India's low interest rates and 7% growth rate, saying the US could reach 14-15% growth with lower rates.
-
-[[Asia diplomatic summits]]
-
-- Key takeaways from the Quad, ASEAN-India, and East Asia Summits in Manila | Explained
-  21 Nov 2026 | https://www.thehindu.com/news/international/key-takeaways-from-the-quad-asean-india-and-east-asia-summitsin-manila-explained/article71727587.ece
-  • PM Modi attended three back-to-back summits in Manila: the ASEAN-India Summit, East Asia Summit and Quad Summit with Trump, Takaichi and Albanese. ¶ • Modi skipped the 2025 ASEAN Summits in Kuala Lumpur, and the Manila trip follows improved ties after Philippine President Marcos' August 2025 Delhi visit.
-
-- Pakistan Climate Minister arrives in Delhi to attend SCO Civilisations Dialogue Forum
-  21 Nov 2026 | https://www.thehindu.com/news/international/pakistan-climate-minister-in-delhi-to-attend-sco-meeting/article71723340.ece
-  • Pakistan's Federal Minister for Climate Change, Dr. Musadik Masood Malik, arrived in Delhi for the SCO Civilisational Dialogue Forum. ¶ • The event, proposed by Prime Minister Narendra Modi, will be inaugurated at Delhi's Purana Quila, a 16th Century fort.
-
-[[West Asia conflict]]
+- Iran-U.S. negotiations stalled over uranium enrichment dispute, mediators warn of renewed conflict, says reports
+  21 Nov 2026 | https://www.thehindu.com/news/international/iran-us-negotiations-stalled-over-uranium-enrichment-dispute-mediators-warn-of-renewed-conflict-says-reports/article71727934.ece
+  • Talks between Washington and Tehran have stalled over Iran's stockpile of uranium enriched to 60%, with mediators saying they cannot guarantee a return to military escalation in West Asia. ¶ • Iran's Foreign Minister Abbas Araghchi said Tehran wants a lasting agreement and will not move the enriched uranium abroad, while messages continue through Qatar and Pakistan.
 
 - Iraq fire at Basra power station kills at least four, injures 30
   21 Nov 2026 | https://www.thehindu.com/news/international/fire-at-basras-hartha-power-station-in-iraq/article71727609.ece
@@ -304,11 +277,39 @@ SOURCE 3: The Hindu - International (headlines + summary)
   21 Nov 2026 | https://www.thehindu.com/news/international/saudi-led-coalition-says-downed-3-houthi-missiles-headed-for-riyadh/article71727179.ece
   • The Saudi-led coalition said it intercepted and destroyed three Houthi ballistic missiles aimed at Riyadh on Saturday, after an AFP reporter heard explosions in the capital. ¶ • The Houthis claimed strikes across Saudi Arabia in retaliation for a coalition "special operation" on Friday that hit the Red Sea port city of Hodeida.
 
-[[US cyber breaches]]
+[[US politics and economy]]
+
+- ‘Look at India, they have low interest rates’: Trump says U.S. could achieve 14–15% economic growth
+  21 Nov 2026 | https://www.thehindu.com/news/international/look-at-india-they-have-low-interest-rates-trump-says-us-could-achieve-1415-economic-growth/article71727140.ece
+  • Trump said at a White House press conference that he secured two trade deals with Thailand and the Philippines in Manila, with about 10 more expected soon. ¶ • He pointed to India's low interest rates and 7% growth rate, saying the US could reach 14-15% growth with lower rates.
 
 - FBI, U.S. Agriculture Department breached by hackers, reports say
   21 Nov 2026 | https://www.thehindu.com/news/international/fbis-criminal-information-database-hacked-reports-say/article71727198.ece
   • The FBI is investigating a suspected breach of the National Crime Information Center database, which law enforcement agencies nationwide use to share warrants, criminal histories and background checks. ¶ • The USDA was also hacked, with a system for payments to farmers targeted, and it is unclear whether the two incidents are related or who is responsible.
+
+- Three to tango: On Trump, Xi, Putin trilateral summit
+  21 Nov 2026 | https://www.thehindu.com/opinion/editorial/three-to-tango-on-trump-xi-putin-trilateral-summit/article71725845.ece
+  • The first trilateral summit between the Presidents of China, the U.S. and Russia was held in Shenzhen on November 19, with the leaders agreeing to start nuclear arms talks. ¶ • The summit produced no breakthrough on nuclear arms reduction, non-proliferation or the Ukraine war, and no road map for the future.
+
+[[Russia-Ukraine talks]]
+
+- Russia dusts off its pre-war demands as the U.S. raises discussing European security at Ukraine talks
+  21 Nov 2026 | https://www.thehindu.com/news/international/russia-dusts-off-its-pre-war-demands-as-the-us-raises-discussing-european-security-at-ukraine-talks/article71727588.ece
+  • The Kremlin is using a U.S. offer to discuss post-war European security to reaffirm demands Putin made before the 2022 invasion, worrying Ukraine and NATO allies. ¶ • Russia's 2021 draft demands included blocking NATO expansion to Ukraine and Georgia, pulling back NATO forces from Central and Eastern Europe, and a freeze on warship and bomber patrols near each other's borders.
+
+[[South Asia diplomacy]]
+
+- Bangladesh Minister vows action against those behind arson, blames Awami League-linked groups, says reports
+  21 Nov 2026 | https://www.thehindu.com/news/international/bangladesh-minister-vows-action-against-those-behind-arson-blames-awami-league-linked-groups-says-reports/article71727826.ece
+  • State Minister for Foreign Affairs Humaiun Kobir said law enforcement will pursue those behind recent arson and petrol bomb attacks, blaming groups linked to the banned Awami League. ¶ • At least four people were killed earlier this week, including three leaders of the ruling BNP and a bus helper burnt alive, amid protests over Sheikh Hasina's return.
+
+- Key takeaways from the Quad, ASEAN-India, and East Asia Summits in Manila | Explained
+  21 Nov 2026 | https://www.thehindu.com/news/international/key-takeaways-from-the-quad-asean-india-and-east-asia-summitsin-manila-explained/article71727587.ece
+  • PM Modi attended three back-to-back summits in Manila: the ASEAN-India Summit, East Asia Summit and Quad Summit with Trump, Takaichi and Albanese. ¶ • Modi skipped the 2025 ASEAN Summits in Kuala Lumpur, and the Manila trip follows improved ties after Philippine President Marcos' August 2025 Delhi visit.
+
+- Pakistan Climate Minister arrives in Delhi to attend SCO Civilisations Dialogue Forum
+  21 Nov 2026 | https://www.thehindu.com/news/international/pakistan-climate-minister-in-delhi-to-attend-sco-meeting/article71723340.ece
+  • Pakistan's Federal Minister for Climate Change, Dr. Musadik Masood Malik, arrived in Delhi for the SCO Civilisational Dialogue Forum. ¶ • The event, proposed by Prime Minister Narendra Modi, will be inaugurated at Delhi's Purana Quila, a 16th Century fort.
 
 [[Natural disasters]]
 
@@ -319,7 +320,80 @@ SOURCE 3: The Hindu - International (headlines + summary)
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### D2C beauty startups seek capital for a makeover
+20 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/beauty-brands-seek-fresh-funds-cybersecurity-courses-gain-traction/articleshow/136009658.cms
+
+• Pilgrim, Foxtale, Mcaffeine, Wishcare and Deconstruct are exploring fundraises or strategic sales to larger consumer companies.
+
+• Pilgrim's revenue grew 69% to ₹690 crore in FY26.
+
+• Foxtale nearly doubled its operating revenue to ₹383 crore and narrowed its loss to ₹66 crore.
+
+• Analysts attribute growth to products tailored to niche requirements and influencer-led social media campaigns targeting young consumers.
+
+### Surge in cyberattacks fuels demand for cybersecurity courses
+20 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/beauty-brands-seek-fresh-funds-cybersecurity-courses-gain-traction/articleshow/136009658.cms
+
+• Coursera's cybersecurity enrolments in India rose 11% year-on-year during January-September.
+
+• Simplilearn's cybersecurity portfolio has grown an estimated 70-80% since early 2025.
+
+• Eruditus has seen demand from companies rise 25-35% year-on-year globally.
+
+• Around 20 Indian financial institutions suffered cyberattacks in October, prompting companies to rethink security and training priorities.
+
+### Paytm to invest up to Rs 200 crore in Singapore fintech partnership
+20 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/beauty-brands-seek-fresh-funds-cybersecurity-courses-gain-traction/articleshow/136009658.cms
+
+• One 97 Communications will invest up to ₹200 crore in subsidiaries of Singapore-based small-business lender Funding Societies.
+
+• Paytm's Singapore subsidiary will initially invest about ₹162 crore for a 19.1% stake in Funding Societies' payments arm CardUp, valuing it at around ₹848 crore.
+
+• The remaining ₹38 crore may be invested in another affiliate of Funding Societies.
+
+• Paytm will enter a five-year technology partnership with CardUp, providing payments and lending technology in return for technology fees and a share of revenue.
+
+### Urban Company raises Rs 2,500 crore
+20 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/beauty-brands-seek-fresh-funds-cybersecurity-courses-gain-traction/articleshow/136009658.cms
+
+• Urban Company raised ₹2,500 crore via a qualified institutional placement from investors.
+
+• The Gurugram-based company allocated shares to institutional investors at a price of ₹156 apiece.
+
+### IT firms go slow on sales hiring
+20 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/beauty-brands-seek-fresh-funds-cybersecurity-courses-gain-traction/articleshow/136009658.cms
+
+• Indian IT outsourcing companies are either trimming or making minimal additions to their sales teams.
+
+• Top and mid-tier IT companies calibrated their sales headcounts in FY27, shifting focus to mining existing accounts instead of chasing new logos.
+
+### Global pick: TSMC and Samsung suspend some chip shipments to Chinese customers
+FT | https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74?syn-25a6b1a6=1
+
+[Could not read the article, possibly paywalled]
+
+### Global pick: Brighton Anthropic founder to become billionaire
+BBC | https://www.bbc.com/news/articles/cq1k9jej8209o
+
+• Anthropic, the company behind the Claude chatbot, raised $81bn in a record-breaking stock market debut.
+
+• Its shares closed up 17% on the first day of trading, making it one of the world's most valuable public companies.
+
+• Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.
+
+• A Dutch watchdog told people not to buy AI smart glasses after tests showed some misread medicine instructions or pretended to have called an ambulance.
+
+### Global pick: Leaked: How Silicon Valley Elites Bankrolled an Anti-Migrant, Pro-Israel Propaganda Machine
+Wired | https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/
+
+• Visegrad24, a Polish right-wing account, posted nearly 400 times in the first three days of the Gaza war, racking up 370 million views, per University of Washington researchers.
+
+• Founder Stefan Tompson texted a confidant that his goal was to "fundraise off of this," choosing a pro-Israel line partly because supporters have "a lot of influence and money."
+
+• WIRED reviewed V24 financial records, internal communications and donor correspondence, and found Tompson succeeded in raising money from Silicon Valley Israel supporters; he denied the reporting through a lawyer.
+
+• Musk engaged with Visegrad24 at least three times more than any other of 30 far-right European accounts over 45 days ending January 2025, and V24 ranks 32nd on X for community notes.
 
 ============================================================
 
@@ -332,8 +406,28 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [[Top Gainers]]
 
-Could not fetch movers for this list
+[Indusind Bank Ltd (INDUSINDBK, +8.59%)]
+
+- ~
+  21 Nov 2026 | https://www.storyboard18.com/brand-makers/indusind-bank-terminates-former-ceo-sumant-kathpalia-invokes-clawback-provisions-115197.htm
+  ## What the sector does ¶ • Indian private banks take deposits from households and businesses and lend to retail, corporate and microfinance borrowers, earning a spread between interest paid and charged. ¶ • Revenue is driven by loan growth and deposit costs, while profits depend on credit costs and treasury gains; HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank are the largest private peers. ¶ ## What the company does ¶ • IndusInd Bank is a private-sector commercial bank incorporated in 1994, offering retail and corporate banking, microfinance and treasury services across India, including at international financial services centres. ¶ • It earns from net interest income and fees; with a market capitalisation of ₹78,148 crore it is smaller than HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank. ¶ ## Why it moved today ¶ • The board terminated former CEO Sumant Kathpalia's employment on November 20, 2026 and invoked malus and clawback provisions from March 24, 2020, per exchange filings reported by Reuters and Storyboard18. ¶ • Context: loans and deposits returned to double-digit growth in the September 2026 quarter, the first since the derivatives accounting discrepancies surfaced, and the stock has gained about 16% so far this year. ¶ ## The numbers (Screener) ¶ • Net profit rose to ₹1,242 crore in the September 2026 quarter from ₹128 crore in December 2025, with EPS of ₹15.94, per Screener. ¶ • The stock trades at a P/E of 26.0 and 1.15 times book value of ₹870, with ROE of 1.36% and ROCE of 5.68%, per Screener. ¶ ## What the numbers say ¶ • At a P/E of 26.0, IndusInd trades above the peer median of 14.22 and above HDFC Bank at 16.30, ICICI Bank at 19.95 and Axis Bank at 15.04, despite a lower ROE of 1.36%. ¶ • September 2026 quarter net profit of ₹1,242 crore was up 384% year on year, but quarterly sales grew just 1.61% against the peer median of 16.19%, so the 8.59% move reflects governance news rather than an operating re-rating. ¶ ↗ storyboard18.com|https://www.storyboard18.com/brand-makers/indusind-bank-terminates-former-ceo-sumant-kathpalia-invokes-clawback-provisions-115197.htm ;; thefederal.com|https://thefederal.com/category/business/indusind-bank-terminates-ceo-kathpalia-employment-to-recover-pay-263631 ;; legal.economictimes.indiatimes.com|http://legal.economictimes.indiatimes.com/news/corporate-business/indusind-bank-terminates-sumant-kathpalias-employment-invokes-malus-and-clawback-from-2020/136044783
+
+[Eih Ltd (EIHOTEL, +7.79%)]
+
+- ~
+  2026-11-21 |
+  ## What the sector does ¶ • India's branded hotel industry sells rooms, food and beverage, and banquets to business travellers, tourists and event organisers, earning revenue per available room (RevPAR) from occupancy and average room rate (ARR). ¶ • Revenue rises with occupancy and room rates while costs are largely fixed, so profits swing sharply with demand; Indian Hotels, ITC Hotels, Leela Palaces, Chalet, Ventive and Lemon Tree are the main listed players. ¶ ## What the company does ¶ • EIH owns and manages premium luxury hotels and cruisers under the Oberoi, Trident and Maidens brands, plus flight catering, airport restaurants and corporate air charters, per its 2020 annual report. ¶ • It is the flagship of the Oberoi group, with a market cap of ₹20,897 crore at a price of ₹334, and it competes with Indian Hotels and Leela Palaces in the luxury segment. ¶ ## Why it moved today ¶ • No news article explaining the 20 November 2026 move was retrieved, so the direct cause of the 7.79% gain to ₹334.15 is not established in the available material. ¶ • Context: EIH's 16 November 2026 investor call reported Q2 FY27 revenue growth of 16% and EBITDA growth of 19%, with 18.3% RevPAR growth, and the stock trades 11.45% below its level a year ago, per TechnoSports. ¶ ## The numbers (Screener) ¶ • Q2 FY27 (September 2026 quarter) sales were ₹694 crore, up 16.1% year on year, with net profit of ₹141 crore, up 19.9%, and operating margin of 27.2%, per HV Investing. ¶ • The stock trades at a P/E of 27.7 with book value of ₹86.9, ROCE of 20.7% and ROE of 14.5%, and the company is almost debt free, per Screener data. ¶ ## What the numbers say ¶ • At a P/E of 27.7, EIH is cheaper than Indian Hotels at 64.57, ITC Hotels at 38.78, Leela Palaces at 49.76 and Lemon Tree at 37.89, and close to the peer median of 27.34. ¶ • Its ROCE of 20.67% is the highest in the peer table against a median of 10.79%, and Q2 FY27 profit grew 26.3% year on year, so the 7.79% move leaves it still 11.45% below its year-ago price.
 
 [[Top Losers]]
 
-Could not fetch movers for this list
+[Mtar Technologies Ltd (MTARTECH, -5.70%)]
+
+- ~
+  21 Nov 2026 | https://scanx.trade/stock-market-news/companies/mtar-technologies-promoters-confirm-no-share-encumbrance-in-fy26/42861711
+  ## What the sector does ¶ • The capital goods sector makes precision components and equipment for defence, aerospace, nuclear and clean energy customers, earning revenue from long-cycle government and industrial contracts. ¶ • Revenue depends on order wins and execution schedules, while cost is driven by raw materials, skilled labour and working capital tied up in receivables. ¶ ## What the company does ¶ • MTAR Technologies makes components and equipment for defence, aerospace, nuclear and clean energy, plus specialised products such as ball screws and electro-mechanical actuation systems. ¶ • It earns from manufacturing contracts for Indian government agencies and export clients, with seven units in Hyderabad and a dedicated export facility. ¶ ## Why it moved today ¶ • The supplied articles do not explain the 5.70% fall; they report MTAR confirming operations are on schedule and flag operational issues at a second Bloom Energy data center project as a watchpoint. ¶ • As context only, MTAR's September-quarter net profit was ₹50 crore on sales of ₹361 crore, up 130% year on year, after a weak ₹4 crore profit in the September 2025 quarter. ¶ ## The numbers (Screener) ¶ • Stock P/E is 127 and price to book is 21.0 times, against a book value of ₹267 per share and a current price of ₹5,614. ¶ • ROCE is 15.1% and ROE 12.4%; quarterly sales rose from ₹136 crore in Sep 2025 to ₹361 crore in Jun 2026, with net profit up from ₹4 crore to ₹50 crore. ¶ ## What the numbers say ¶ • At a P/E of 127, MTAR trades far above every named peer, from Waaree's 18.1 and Emmvee's 12.6 to Diamond Power's 81.7, so the price already assumes strong growth. ¶ • Its 15.1% ROCE is below peers such as Waaree at 38.5% and Apar at 31.8%, while the 364.7% quarterly profit growth is off a low base, leaving the 5.70% fall looking like profit-taking after a sharp re-rating. ¶ ↗ scanx.trade|https://scanx.trade/stock-market-news/companies/mtar-technologies-promoters-confirm-no-share-encumbrance-in-fy26/42861711
+
+[Prime Focus Ltd (PFOCUS, -5.41%)]
+
+- ~
+  20 Nov 2026 | https://whatsondisneyplus.com/vivica-a-fox-chef-kevmo-to-appear-on-abc-news-live-prime-with-linsey-davis/
+  ## What the sector does ¶ • Media and entertainment services firms sell post-production work such as visual effects, digital intermediate and 2D-to-3D conversion to film studios, streaming platforms and broadcasters. ¶ • Revenue comes from project fees and long-term contracts, while costs are mostly skilled artists, software and studio infrastructure, so margins swing with project mix and utilisation. ¶ ## What the company does ¶ • Prime Focus Ltd provides post-production, visual effects and 3D conversion services to media and entertainment clients from 18 cities across five continents, founded by Namit Malhotra in 1997. ¶ • It earns project and retainer fees from studios and streaming platforms, and with a market cap of ₹19,680 crore it is the largest listed peer in the Screener media set. ¶ ## Why it moved today ¶ • No news article in the input explains the 5.41% fall on 20 November 2026; the only article is an ABC News Live listing that mentions a segment called Prime Focus, unrelated to the company. ¶ ## The numbers (Screener) ¶ • Sales rose to ₹1,429 crore in the September 2026 quarter from ₹1,267 crore in June 2026, while net profit recovered to ₹58 crore after a ₹46 crore loss in June. ¶ • Operating margin was 27% in September 2026, down from 35% in March 2026; trailing P/E is 87.6, price to book 9.31, ROCE 11.3% and ROE 15.7%. ¶ ## What the numbers say ¶ • At a P/E of 87.6, Prime Focus trades well above the peer median of 61.35 and its 9.31 times book value is rich against a peer median market cap of ₹371.88 crore. ¶ • Its 11.3% ROCE beats the peer median of 3.26%, but the 27% operating margin is below its own 35% March peak, and the 5.41% fall followed a quarter with a net loss in June. ¶ ↗ whatsondisneyplus.com|https://whatsondisneyplus.com/vivica-a-fox-chef-kevmo-to-appear-on-abc-news-live-prime-with-linsey-davis/
