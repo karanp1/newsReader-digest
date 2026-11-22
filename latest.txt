@@ -3,8 +3,8 @@ METRICS
 NIFTY PE | 21.02 | 20 Nov 2026 | https://nifty-pe-ratio.com/
 Gold per 10g 24K | ₹1,25,080 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 25,800.60 (+2.01%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹55,60,848 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $60,019 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹54,89,172 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $59,200 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -26,22 +26,22 @@ SOURCE 6: Watchlist (headlines + summary)
 [Flipkart]
 
 - ~
-  21 Nov 2026 | https://deshgujarat.com/2026/11/21/flipkart-delivery-boy-flees-with-120-parcels-including-18-mobile-phones-in-ahmedabad/
-  • A Flipkart delivery boy in Ahmedabad allegedly fled with 120 parcels, including 18 mobile phones and four tablets, and did not deposit cash-on-delivery collections. ¶ • Navrangpura police registered a case on November 20 against the delivery boy, who joined on August 18 and left with the parcels on October 19. ¶ • Flipkart is offering up to 80% off on selected smartwatches this weekend, with prices starting at around ₹1,299. ¶ • Discounted models include Noise Crew at ₹1,399 to ₹1,599, GOBOULT Tuff Rivet at ₹1,399, and Pebble Vienna Women at ₹1,999. ¶ • GOBOULT Drift is listed at around ₹1,499 against an MRP of ₹7,999, a discount of approximately 81%. ¶ ↗ deshgujarat.com|https://deshgujarat.com/2026/11/21/flipkart-delivery-boy-flees-with-120-parcels-including-18-mobile-phones-in-ahmedabad/ ;; analyticsinsight.net|https://www.analyticsinsight.net/deals/smartwatch-offers-of-more-than-70-on-flipkart-this-weekend
+  21 Nov 2026 | https://www.analyticsinsight.net/deals/smartwatch-offers-of-more-than-70-on-flipkart-this-weekend
+  • Flipkart is running a weekend smartwatch sale with discounts of up to 80% on selected models. ¶ • Deals cover brands Noise, GOBOULT and Pebble, with prices starting at around ₹1,299. ¶ • GOBOULT Drift is listed at about ₹1,499 against an MRP of ₹7,999, a discount of roughly 81%. ¶ • Noise Icon 2 Gen 2 is listed at around ₹1,299 against an MRP of ₹5,999, about 78% off. ¶ • Pebble Vienna Women is listed at ₹1,999 against an MRP of ₹6,999, a discount of around 71%. ¶ ↗ analyticsinsight.net|https://www.analyticsinsight.net/deals/smartwatch-offers-of-more-than-70-on-flipkart-this-weekend
 
 - Outlook: Neutral
   2026-11-22 |
-  §VIEW§{"stance": "neutral", "text": "Theft of 120 parcels and missing COD cash is a small operational hit, while steep smartwatch discounts show aggressive promotion. These split the flow, so no clear direction."}
+  §VIEW§{"stance": "neutral", "text": "The sale is a routine weekend promotion with steep discounts on budget smartwatches, not a shift in Flipkart's business. It shows continued promotional intensity but no new financial or strategic facts."}
 
 [Zomato]
 
 - ~
-  21 Nov 2026 | https://sundayguardianlive.com/trending/zomato-viral-news-customer-finds-strands-of-hair-on-cham-cham-ordered-online-seeks-refund-platform-promises-to-investigate-after-complaint-goes-viral-on-x-325439/
-  • A customer alleged finding two to three strands of hair on a cham cham ordered through Zomato, posting photos on X and seeking a refund. ¶ • Zomato replied on X that it would check with the restaurant partner and provide an update, without sharing further details. ¶ • The complaint went viral on X, drawing mixed reactions on whether Zomato or the sweet shop is responsible for food preparation issues. ¶ • Some users questioned the authenticity of the photos, while others shared their own complaints about hygiene and delivery services. ¶ ↗ sundayguardianlive.com|https://sundayguardianlive.com/trending/zomato-viral-news-customer-finds-strands-of-hair-on-cham-cham-ordered-online-seeks-refund-platform-promises-to-investigate-after-complaint-goes-viral-on-x-325439/
+  22 Nov 2026 | https://the420.in/maharashtra-fda-suspends-licenses-of-six-mumbai-establishments-including-blinkit-and-chaayos/
+  • Maharashtra FDA suspended licenses of six Mumbai establishments, including Blinkit and Chaayos, over food safety violations like cockroaches and flies. ¶ • A Zomato customer alleged finding hair on a cham cham order and sought a refund; Zomato said it would investigate with the restaurant partner. ¶ • The FDA found specific lapses at 5 Spice: no water and food testing reports, damaged walls and floor tiles, and clogged drains. ¶ • Inspections also revealed uncovered dustbins next to food, rusted tea equipment, and missing staff medical fitness certificates. ¶ • In a separate Pandharpur drive, the FDA suspended licenses of four establishments and collected 20 samples of fasting food and prasad. ¶ ↗ the420.in|https://the420.in/maharashtra-fda-suspends-licenses-of-six-mumbai-establishments-including-blinkit-and-chaayos/ ;; sundayguardianlive.com|https://sundayguardianlive.com/trending/zomato-viral-news-customer-finds-strands-of-hair-on-cham-cham-ordered-online-seeks-refund-platform-promises-to-investigate-after-complaint-goes-viral-on-x-325439/
 
-- Outlook: Neutral
+- Outlook: Bearish
   2026-11-22 |
-  §VIEW§{"stance": "neutral", "text": "A single viral hygiene complaint with no confirmed facts or financial impact leaves the news flow neutral. It splits between reputational risk and Zomato's limited role as a delivery platform."}
+  §VIEW§{"stance": "bearish", "text": "License suspensions for Blinkit and Chaayos plus a viral hygiene complaint raise regulatory and reputational risk for Zomato's food delivery and quick commerce. The FDA's findings of cockroaches and unsafe storage reinforce this negative pressure."}
 
 [HAL]
 
@@ -80,22 +80,29 @@ SOURCE 6: Watchlist (headlines + summary)
 [Bitcoin]
 
 - ~
-  21 Nov 2026 | https://finance.yahoo.com/markets/crypto/articles/bitcoin-traded-below-200-week-133941953.html
-  • Bitcoin fell to $55,500 on Nov. 21, below $56,000 for the first time in more than two years, and traded at $56,805, down 7.93% over 24 hours. ¶ • Strategy holds 850,849 BTC bought for about $64.2 billion, an average of $75,452 per coin, leaving a paper loss of roughly $17 billion at $55,500. ¶ • Spot Bitcoin ETFs saw a $582 million net outflow on Nov. 19, with total net assets falling to $76.5 billion from $104.9 billion on Oct. 28. ¶ • Bitcoin trades about 14% below its 200-week moving average of $68,130, a level it has held only 8.4% of its life, per River. ¶ • Nvidia shares fell roughly 40% from their Oct. 6 high of $243.37 to about $150, dragging Bitcoin below $60,000 and the total crypto market to about $2 trillion. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/bitcoin-traded-below-200-week-133941953.html ;; tradingview.com|https://www.tradingview.com/news/cryptobriefing:8b0cda734094b:0-nvidia-sinks-roughly-40-as-ai-bubble-fears-drag-bitcoin-below-60-000/ ;; 247wallst.com|https://247wallst.com/investing/cryptocurrency/2026/11/21/anthropic-is-now-worth-more-than-bitcoin-could-bitcoin-pass-it-by-2030/ ;; bitcoinfoundation.org|https://bitcoinfoundation.org/news/analysis/why-is-bitcoin-crashing-btc-price-plunges-toward-55-500/
+  21 Nov 2026 | https://www.fool.com/investing/2026/11/21/after-the-midterm-elections-vanecks-matthew-sigel-is-still-bullish-on-bitcoin-heres-why-hes-rightwrong/
+  • Bitcoin fell below $60,000 on Nov 21, hitting an intraday low of $55,500, down more than 30% since September 2026. ¶ • Strategy's 850,849 BTC, bought for $64.2 billion, was worth about $47.2 billion at $55,500, a paper loss of roughly $17 billion. ¶ • Spot Bitcoin ETFs saw a $582 million net outflow on Nov 19, with total net assets dropping to $76.5 billion from $104.9 billion on Oct 28. ¶ • Bitcoin traded 14% below its 200-week moving average of $68,130, a level seen only 8.4% of the time, per River. ¶ • Bitcoin Core released versions 30.5 and 31.3 to fix a medium-severity flaw that could stall nodes for over a dozen seconds. ¶ ↗ fool.com|https://www.fool.com/investing/2026/11/21/after-the-midterm-elections-vanecks-matthew-sigel-is-still-bullish-on-bitcoin-heres-why-hes-rightwrong/ ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/bitcoin-traded-below-200-week-133941953.html ;; tradingview.com|https://www.tradingview.com/news/cryptobriefing:8b0cda734094b:0-nvidia-sinks-roughly-40-as-ai-bubble-fears-drag-bitcoin-below-60-000/ ;; 247wallst.com|https://247wallst.com/investing/cryptocurrency/2026/11/21/anthropic-is-now-worth-more-than-bitcoin-could-bitcoin-pass-it-by-2030/
 
 - Outlook: Bearish
   2026-11-22 |
-  §VIEW§{"stance": "bearish", "text": "Bitcoin is caught in a macro liquidity squeeze: ETF outflows, a possible December Fed hike, and a 40% Nvidia drop are pulling it down with tech. Strategy's $17 billion paper loss adds balance-sheet risk."}
+  §VIEW§{"stance": "bearish", "text": "Bitcoin is caught in a macro liquidity squeeze from AI bubble fears and ETF outflows, with Strategy's $17 billion paper loss adding pressure. The Fed's expected December rate hike and regulatory uncertainty keep the near-term flow bearish."}
 
 [Gold]
 
-- ~
-  21 Nov 2026 | https://www.kitco.com/charts/gold
-  • Spot gold fell 2.8% to $3,518.50 per ounce on Friday, touching $3,513.54, its lowest since September 2025, and closed the week near $3,537.90. ¶ • Gold lost roughly 9.5% over the week, its worst weekly performance in eight months, and sits about 28% below its early-2026 high of $5,589.38 per ounce. ¶ • Markets price a 96% probability of a 25-basis-point Fed rate hike in December, and Philadelphia Fed President Anna Paulson flagged inflation risks that could warrant another increase. ¶ • An AI-linked equity selloff, with NVIDIA down 14.01% in the last session and 43.45% over the month, pushed investors to liquidate gold to cover losses in stocks. ¶ • CIBC forecasts gold at $5,200 per ounce next year, while Goldman Sachs sees $4,650 by end-2027, even as central bank purchase support has moderated. ¶ ↗ fxempire.com|https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-deepening-selloff-nears-major-support-1646229 ;; livemint.com|https://www.livemint.com/money/personal-finance/gold-prices-crash-nearly-10-in-a-week-mega-reasons-behind-massive-yellow-metal-rate-fall-list-11795249539231.html ;; nai500.com|https://nai500.com/blog/2026/11/gold-price-nears-52-week-low-institutions-forecast-rebound-to-5200-next-year/ ;; elkodaily.com|https://elkodaily.com/news/local/business/mining/article_aa93fc84-2e18-4fac-b707-e663a5d33618.html
+- Gold Price Forecast: XAU/USD Breaks Multi-Year Uptrend in Worst Week Since March
+  21 Nov 2026 | https://www.forexfactory.com/news/1438027-gold-price-forecast-xauusd-breaks-multi-year-uptrend-in
 
-- Outlook: Bearish
-  2026-11-22 |
-  §VIEW§{"stance": "bearish", "text": "A stronger dollar, a 96% priced odds of a December Fed hike and equity-driven liquidation are driving the selloff. Oversold technicals near $3,500-$3,447 may slow the fall, but no reversal signal has appeared."}
+- Gold Price Today | Price of Gold Per Ounce | 24 Hour Spot Chart
+  21 Nov 2026 | https://www.kitco.com/charts/gold
+  Gold Price Today — Per Ounce, Gram and Kilo
+
+- Gold prices crash nearly 10% in a week: Mega reasons behind massive yellow metal rate fall – List
+  21 Nov 2026 | https://www.livemint.com/money/personal-finance/gold-prices-crash-nearly-10-in-a-week-mega-reasons-behind-massive-yellow-metal-rate-fall-list-11795249539231.html
+  Gold prices extended their declines in international markets on Friday, 20 November, falling to a notable 14-month low as a stronger US dollar , rising interest rate expectations and a severe global stock market sell-off weighed on the…
+
+- Gold (XAU/USD) Price Forecast: Deepening Selloff Nears Major Support
+  21 Nov 2026 | https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-deepening-selloff-nears-major-support-1646229
+  Persistent Selling Pressure Nears Potential Support
 
 ============================================================
 
@@ -107,18 +114,7 @@ SOURCE 8: AI News
 
 SOURCE 2: The Hindu - Editorials
 
-### Three to tango: On Trump, Xi, Putin trilateral summit
-21 Nov 2026 | https://www.thehindu.com/opinion/editorial/three-to-tango-on-trump-xi-putin-trilateral-summit/article71725845.ece
-
-• The first trilateral summit between the Presidents of China, the U.S. and Russia was held in Shenzhen on November 19.
-
-• Trump pushed for joint talks among the three largest nuclear powers on reducing nuclear warheads after the New START treaty expired in February 2026.
-
-• The summit produced no breakthrough on nuclear arms reduction, non-proliferation or the Ukraine war, and no road map for the future.
-
-• The joint declaration stated that 'a nuclear war cannot be won and must never be fought', but much depends on what follows.
-
-• The article argues the leaders should draw up a clear road map for nuclear talks with realistic objectives, and that UN reform must involve rising middle powers such as India, South Africa and Brazil.
+[No editorials in the last 24 hours. The newest one on The Hindu's feed is from 21 Nov, 08:17 AM IST.]
 
 ============================================================
 
@@ -203,7 +199,80 @@ SOURCE 3: The Hindu - International (headlines + summary)
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### D2C beauty startups seek capital for a makeover
+20 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/beauty-brands-seek-fresh-funds-cybersecurity-courses-gain-traction/articleshow/136009658.cms
+
+• Pilgrim, Foxtale, Mcaffeine, Wishcare and Deconstruct are exploring fundraises or strategic sales to larger consumer companies.
+
+• Pilgrim's revenue grew 69% to ₹690 crore in FY26.
+
+• Foxtale nearly doubled its operating revenue to ₹383 crore and narrowed its loss to ₹66 crore.
+
+• Analysts attribute growth to products tailored to niche requirements and influencer-led social media campaigns targeting young consumers.
+
+### Surge in cyberattacks fuels demand for cybersecurity courses
+20 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/beauty-brands-seek-fresh-funds-cybersecurity-courses-gain-traction/articleshow/136009658.cms
+
+• Coursera's cybersecurity enrolments in India rose 11% year-on-year during January-September.
+
+• Simplilearn's cybersecurity portfolio has grown an estimated 70-80% since early 2025.
+
+• Eruditus has seen demand from companies rise 25-35% year-on-year globally.
+
+• Around 20 Indian financial institutions suffered cyberattacks in October, prompting companies to rethink security and training priorities.
+
+### Paytm to invest up to Rs 200 crore in Singapore fintech partnership
+20 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/beauty-brands-seek-fresh-funds-cybersecurity-courses-gain-traction/articleshow/136009658.cms
+
+• One 97 Communications will invest up to ₹200 crore in subsidiaries of Singapore-based small-business lender Funding Societies.
+
+• Paytm's Singapore subsidiary will initially invest about ₹162 crore for a 19.1% stake in Funding Societies' payments arm CardUp, valuing it at around ₹848 crore.
+
+• The remaining ₹38 crore may be invested in another affiliate of Funding Societies.
+
+• Paytm will enter a five-year technology partnership with CardUp, providing payments and lending technology in return for technology fees and a share of revenue.
+
+### Urban Company raises Rs 2,500 crore
+20 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/beauty-brands-seek-fresh-funds-cybersecurity-courses-gain-traction/articleshow/136009658.cms
+
+• Urban Company raised ₹2,500 crore via a qualified institutional placement from investors.
+
+• The Gurugram-based company allocated shares to institutional investors at a price of ₹156 apiece.
+
+### IT firms go slow on sales hiring
+20 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/beauty-brands-seek-fresh-funds-cybersecurity-courses-gain-traction/articleshow/136009658.cms
+
+• Indian IT outsourcing companies are either trimming or making minimal additions to their sales teams.
+
+• Top and mid-tier IT companies calibrated their sales headcounts in FY27, shifting focus to mining existing accounts instead of chasing new logos.
+
+### Global pick: TSMC and Samsung suspend some chip shipments to Chinese customers
+FT | https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74?syn-25a6b1a6=1
+
+[Could not read the article, possibly paywalled]
+
+### Global pick: Brighton Anthropic founder to become billionaire
+BBC | https://www.bbc.com/news/articles/cq1k9jej8209o
+
+• Anthropic, the company behind the Claude chatbot, raised $81bn in a record-breaking stock market debut.
+
+• Its shares closed up 17% on the first day of trading, making it one of the world's most valuable public companies.
+
+• Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.
+
+• A Dutch watchdog told people not to buy AI smart glasses after tests showed some misread medicine instructions or pretended to have called an ambulance.
+
+### Global pick: Leaked: How Silicon Valley Elites Bankrolled an Anti-Migrant, Pro-Israel Propaganda Machine
+Wired | https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/
+
+• Visegrad24, a Polish right-wing account, posted nearly 400 times in the first three days of the Gaza war, racking up 370 million views, per University of Washington researchers.
+
+• Founder Stefan Tompson texted a confidant that his goal was to "fundraise off of this," choosing a pro-Israel line partly because supporters have "a lot of influence and money."
+
+• WIRED reviewed V24 financial records, internal communications and donor correspondence, and found Tompson succeeded in raising money from Silicon Valley Israel supporters; he denied the reporting through a lawyer.
+
+• Musk engaged with Visegrad24 at least three times more than any other of 30 far-right European accounts over 45 days ending January 2025, and V24 ranks 32nd on X for community notes.
 
 ============================================================
 
@@ -408,7 +477,7 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 - ~
   21 Nov 2026 | https://thefederal.com/category/business/indusind-bank-terminates-ceo-kathpalia-employment-to-recover-pay-263631
-  ## What the sector does ¶ • Indian private banks take deposits from households and firms and lend to retail, corporate and small-business borrowers, earning a spread between interest paid and interest charged. ¶ • Revenue is driven by loan growth and the cost of funds, while profits depend on net interest margin and provisions for bad loans; HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank are the largest listed peers. ¶ ## What the company does ¶ • IndusInd Bank is a private-sector commercial bank incorporated in 1994, offering retail and corporate banking plus treasury operations through branches in India and at the International Financial Service Centres. ¶ • It earns from interest on loans and from fees on deposits, cards and treasury products; with a market capitalisation of ₹78,148 crore it is far smaller than HDFC Bank and ICICI Bank. ¶ ## Why it moved today ¶ • The articles do not state a cause for the 8.59% rise; they report the board's November 20 decision to terminate former MD and CEO Sumant Kathpalia and invoke malus and clawback provisions from March 24, 2020. ¶ • Context in the input: the bank's loans and deposits returned to double-digit growth in the September 2026 quarter, its first such showing since the derivative accounting discrepancies surfaced, and net profit rose to ₹1,242 crore. ¶ ## The numbers (Screener) ¶ • Net profit rose from ₹128 crore in the December 2025 quarter to ₹1,242 crore in the September 2026 quarter, lifting EPS from ₹1.64 to ₹15.94. ¶ • The stock trades at ₹1,003, or 26.0 times earnings and 1.15 times book value of ₹870, with ROE of 1.36% and ROCE of 5.68%. ¶ ## What the numbers say ¶ • At 26.0 times earnings IndusInd is the most expensive stock in the peer table, above Kotak Mahindra Bank at 24.20 and well above the peer median P/E of 14.22, while its 1.15 times book is a discount to that earnings multiple. ¶ • Its September quarter net profit grew 384.24% year on year but quarterly sales rose only 1.61% against a peer median of 16.19%, and ROCE of 5.68% trails the peer median of 6.40%. ¶ ↗ thefederal.com|https://thefederal.com/category/business/indusind-bank-terminates-ceo-kathpalia-employment-to-recover-pay-263631 ;; thehindu.com|https://www.thehindu.com/business/indusind-bank-terminates-sumant-kathpalias-services-invokes-clawback-provisions/article71729300.ece ;; storyboard18.com|https://www.storyboard18.com/brand-makers/indusind-bank-terminates-former-ceo-sumant-kathpalia-invokes-clawback-provisions-115197.htm
+  ## What the sector does ¶ • Indian private banks take deposits from savers and lend to retail and corporate borrowers, earning a margin between the two rates plus fees. ¶ • Revenue is driven by loan growth and the interest margin, while cost is driven by deposit rates and credit provisions; HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank are the largest private players. ¶ ## What the company does ¶ • IndusInd Bank is a Hinduja group-promoted private commercial bank incorporated in 1994, serving retail and corporate clients with loans, deposits and treasury operations. ¶ • It earns from interest on loans and from fees, with a market capitalisation of ₹78,148 crore and a loan book that returned to double-digit growth in the September 2026 quarter. ¶ ## Why it moved today ¶ • The bank's board terminated former MD and CEO Sumant Kathpalia with immediate effect on November 20, 2026 and invoked malus and clawback provisions to recover his pay from March 2020, per exchange filings reported by Reuters and The Hindu. ¶ • The action closes a disciplinary process that began after the April 2025 disclosure of derivative accounting discrepancies, which PwC quantified at ₹1,979 crore as of June 30, 2024, and the bank's loans and deposits returned to double-digit growth in the September 2026 quarter. ¶ ## The numbers (Screener) ¶ • Net profit rose from ₹128 crore in the December 2025 quarter to ₹594 crore in March 2026, ₹1,037 crore in June 2026 and ₹1,242 crore in September 2026, with EPS of ₹15.94 in the latest quarter. ¶ • The stock trades at a P/E of 26.0 and 1.15 times its book value of ₹870, with ROE of 1.36% and ROCE of 5.68%. ¶ ## What the numbers say ¶ • At a P/E of 26.0, IndusInd trades above the peer median of 14.22 and above HDFC Bank at 16.30, ICICI Bank at 19.95 and Axis Bank at 15.04, even though its ROE of 1.36% is far below theirs. ¶ • Quarterly profit grew 384.24% year on year but sales rose only 1.61%, against a peer median sales growth of 16.19%, so the recovery in earnings is not yet matched by balance sheet growth. ¶ ↗ thefederal.com|https://thefederal.com/category/business/indusind-bank-terminates-ceo-kathpalia-employment-to-recover-pay-263631 ;; thehindu.com|https://www.thehindu.com/business/indusind-bank-terminates-sumant-kathpalias-services-invokes-clawback-provisions/article71729300.ece ;; newindianexpress.com|https://www.newindianexpress.com/business/2026/Nov/22/indusind-fires-former-ceo-kathpalia-seeks-pay-recovery
 
 [Eih Ltd (EIHOTEL, +7.79%)]
 
