@@ -8859,7 +8859,7 @@
   "sector": "Power",
   "description": "Indian power transmission and distribution company; Q2 profit more than doubled to Rs 1,364 crore.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-11-16"
+  "last_mentioned": "2026-11-22"
  },
  "idlexplosives": {
   "name": "IDL Explosives",
@@ -13535,7 +13535,7 @@
   "sector": "Automotive",
   "description": "India's largest carmaker; led October passenger vehicle wholesales with 2.12 lakh units, up 20%.",
   "first_added": "2026-11-02",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-22"
  },
  "mm": {
   "name": "M&M",
@@ -21815,6 +21815,20 @@
   "name": "Rediff.com India",
   "sector": "Internet",
   "description": "Operates consumer internet and enterprise communication businesses; filed updated IPO papers for Rs 600 crore fresh issue.",
+  "first_added": "2026-11-22",
+  "last_mentioned": "2026-11-22"
+ },
+ "reliancebrands": {
+  "name": "Reliance Brands",
+  "sector": "Retail",
+  "description": "Reliance unit operating premium and luxury brand stores in India; FY26 revenue rose with a narrower loss.",
+  "first_added": "2026-11-22",
+  "last_mentioned": "2026-11-22"
+ },
+ "fareye": {
+  "name": "FarEye",
+  "sector": "Logistics software",
+  "description": "Delivery and logistics software platform used by Flipkart Wholesale for dispatch, routing and payments.",
   "first_added": "2026-11-22",
   "last_mentioned": "2026-11-22"
  }

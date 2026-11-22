@@ -3,8 +3,8 @@ METRICS
 NIFTY PE | 21.02 | 20 Nov 2026 | https://nifty-pe-ratio.com/
 Gold per 10g 24K | ₹1,25,080 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 25,800.60 (+2.01%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹55,68,143 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $59,877 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹56,36,288 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $60,906 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -27,21 +27,27 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   22 Nov 2026 | https://www.moneycontrol.com/news/business/companies/flipkart-wholesale-cuts-logistics-costs-by-6-vehicle-deployment-by-8-with-fareye-14086384.html
-  • Flipkart Wholesale cut logistics costs by 6% and vehicle deployment by 8% with FarEye across 26 stores and one cross-dock. ¶ • An Agra seller says 550 boxes of new shoes came back as worn-out footwear, and Etmadpur police have been directed to investigate. ¶ • A Flipkart delivery boy in Ahmedabad allegedly fled with 120 parcels, including 18 mobile phones and four tablets, with a case filed on November 20. ¶ • Flipkart's Black Friday Sale runs November 21 to 27, 2026, with the Apple iPhone 17 (256GB) cut 11% from ₹99,900 to ₹89,100. ¶ • Smartwatch discounts of up to 80% run this weekend, with models from Noise, GOBOULT and Pebble starting at around ₹1,299. ¶ ↗ moneycontrol.com|https://www.moneycontrol.com/news/business/companies/flipkart-wholesale-cuts-logistics-costs-by-6-vehicle-deployment-by-8-with-fareye-14086384.html ;; indiatoday.in|https://www.indiatoday.in/trending-news/story/flipkart-seller-return-scam-agra-police-probe-550-boxes-old-shoes-3044312-2026-11-22 ;; the420.in|https://the420.in/flipkart-agra-shoe-return-fraud/ ;; telecomtalk.info|https://telecomtalk.info/flipkart-blackfriday-sale-upi-discounts-on-appleiphone17/1014227/
+  • Flipkart Wholesale cut logistics costs by 6% and vehicle deployment by 8% across its pan-India network through a partnership with FarEye. ¶ • The digitisation of dispatch, routing, compliance and payment collection across 26 stores and one cross-dock reduced vehicle idle time by 10% and return-to-origin rates by 1%. ¶ • Integration of UPI payments into delivery operations generated direct savings of 0.25% on cash collected, according to the companies. ¶ • An Agra-based Flipkart seller alleged receiving 550 boxes of worn-out shoes instead of new footwear in returns; Agra Police have directed an investigation. ¶ • Flipkart's Black Friday Sale runs from November 21 to 27, 2026, with an 11% discount on the Apple iPhone 17, bringing its price to ₹89,100. ¶ ↗ moneycontrol.com|https://www.moneycontrol.com/news/business/companies/flipkart-wholesale-cuts-logistics-costs-by-6-vehicle-deployment-by-8-with-fareye-14086384.html ;; flipit.money|https://flipit.money/flips/fareye-helps-flipkart-wholesale-cut-logistics-costs-by-6-and-vehicles-by-8 ;; indiatoday.in|https://www.indiatoday.in/trending-news/story/flipkart-seller-return-scam-agra-police-probe-550-boxes-old-shoes-3044312-2026-11-22 ;; the420.in|https://the420.in/flipkart-agra-shoe-return-fraud/
 
 - Outlook: Neutral
   2026-11-22 |
-  §VIEW§{"stance": "neutral", "text": "Logistics savings and heavy festive discounting support volumes, but two alleged fraud cases, 550 boxes of returned shoes and 120 parcels taken, expose return and delivery gaps. The split is operational efficiency against seller trust."}
+  §VIEW§{"stance": "neutral", "text": "Logistics cost cuts and Black Friday discounts support operations and sales, but the Agra return scam highlights seller risks. The net effect is balanced."}
 
 [Zomato]
 
-- ~
+- Man orders Cham Cham on Zomato, finds hair on sweet; internet’s ‘Baal Mithai’ joke steals the show
   22 Nov 2026 | https://timesofindia.indiatimes.com/etimes/trending/man-orders-cham-cham-on-zomato-finds-hair-on-sweet-internets-baal-mithai-joke-steals-the-show/articleshow/136067587.cms
-  • A customer alleged finding two to three strands of hair on a cham cham ordered through Zomato and demanded a refund on X. ¶ • Zomato replied that it would check the complaint with the restaurant partner and update the customer. ¶ • Social media users split over fault, with some saying Zomato only delivers food and others questioning hygiene. ¶ • Maharashtra FDA suspended licenses of six Mumbai establishments, including Blinkit and Chaayos, for hygiene violations. ¶ • FDA inspections found cockroaches, flies, uncovered dustbins, rusted equipment and unsafe food storage at the outlets. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/etimes/trending/man-orders-cham-cham-on-zomato-finds-hair-on-sweet-internets-baal-mithai-joke-steals-the-show/articleshow/136067587.cms ;; the420.in|https://the420.in/maharashtra-fda-suspends-licenses-of-six-mumbai-establishments-including-blinkit-and-chaayos/ ;; sundayguardianlive.com|https://sundayguardianlive.com/trending/zomato-viral-news-customer-finds-strands-of-hair-on-cham-cham-ordered-online-seeks-refund-platform-promises-to-investigate-after-complaint-goes-viral-on-x-325439/
+  A man’s sweet craving turned into a gross surprise after he allegedly found strands of hair sitting right on top of the cham cham he ordered through
 
-- Outlook: Bearish
-  2026-11-22 |
-  §VIEW§{"stance": "bearish", "text": "Hygiene complaints and a regulator suspending Blinkit's Mumbai license keep food-safety scrutiny on Zomato's platform. The viral refund case adds reputational pressure while the FDA action signals tighter enforcement."}
+- Chandigarh Man Earns Rs 39,000 In First Month As Blinkit Delivery Partner, Shares Experience
+  22 Nov 2026 | https://www.ndtv.com/offbeat/chandigarh-man-earns-rs-39-000-in-first-month-as-blinkit-delivery-partner-shares-experience-12361626
+
+- Maharashtra FDA Suspends Licenses of Six Mumbai Establishments Including Blinkit and Chaayos
+  22 Nov 2026 | https://the420.in/maharashtra-fda-suspends-licenses-of-six-mumbai-establishments-including-blinkit-and-chaayos/
+  The Maharashtra Food and Drug Administration has suspended the licenses of six establishments in Mumbai, including Blinkit and Chaayos, over serious violations of food safety and hygiene standards. During inspections led by Food Safety…
+
+- Chandigarh Man Earns Rs 39,000 In First Month As Blinkit Delivery Partner, Shares Experience
+  22 Nov 2026 | https://twaslnews1.twaslnews.com/8105810/
 
 [HAL]
 
@@ -69,25 +75,33 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Infoedge/Naukri]
 
+- ~
+  21 Nov 2026 | https://bitternepark.info/index.php?option=com_content&view=article&id=13845:edge-hub-renamed-the-ark-as-it-moves-to-new-venue&catid=166&Itemid=92&template=jimstheme&is_preview=on
+  • The Edge Hub on Meggeson Avenue has been renamed The Ark Hub and moved to Moorlands Community Centre. ¶ • The hub opened in January 2024 in a disused council office at The Edge. ¶ • The Ark Hub's mission is to serve Townhill Park with a safe, welcoming space and community activities. ¶ • The new name reconnects with the former local pub The Ark and expresses safety, belonging, and welcome. ¶ • Free tickets are available for an immersive Christmas service based on The Lion, the Witch and the Wardrobe. ¶ ↗ bitternepark.info|https://bitternepark.info/index.php?option=com_content&view=article&id=13845:edge-hub-renamed-the-ark-as-it-moves-to-new-venue&catid=166&Itemid=92&template=jimstheme&is_preview=on
+
+- Outlook: Neutral
+  2026-11-22 |
+  §VIEW§{"stance": "neutral", "text": "This community hub news does not affect Infoedge/Naukri's business or financials. No material impact on the company's outlook."}
+
 [Bitcoin]
 
 - ~
-  21 Nov 2026 | https://www.fool.com/investing/2026/11/21/after-the-midterm-elections-vanecks-matthew-sigel-is-still-bullish-on-bitcoin-heres-why-hes-rightwrong/
-  • Bitcoin traded near $60,424 after recovering from a low of $55,130 on Saturday, its lowest level in more than two years, but remained down 12.53% for the week. ¶ • U.S. spot Bitcoin ETFs recorded $582.3 million in net outflows on November 19, with BlackRock's IBIT accounting for $541.1 million, bringing cumulative November outflows to about $3.47 billion. ¶ • Bitcoin is trading about 14% below its 200-week moving average of $68,130, a level it has been below only 8.4% of the time, according to River. ¶ • The crypto market capitalization stood near $2.03 trillion, with Bitcoin dominance around 58.5%, as Ethereum recovered above $1,700 and XRP and Solana traded near $0.92 and $70. ¶ • VanEck's Matthew Sigel said Bitcoin likely bottomed this summer below $60,000, citing four-year cycles and potential catalysts in institutional adoption and regulatory certainty. ¶ ↗ fool.com|https://www.fool.com/investing/2026/11/21/after-the-midterm-elections-vanecks-matthew-sigel-is-still-bullish-on-bitcoin-heres-why-hes-rightwrong/ ;; crypto.news|https://crypto.news/bitcoin-price-pi-network-vvv-weekend-recovery/ ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/bitcoin-traded-below-200-week-133941953.html ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/anthropic-bitcoin-both-falling-where-123100764.html
+  22 Nov 2026 | https://finance.yahoo.com/markets/commodities/articles/great-cash-grab-crashing-gold-094952865.html
+  • Bitcoin fell to about $55,100 on Saturday, its lowest since September 2024, as gold, silver and crypto sold off together on rate-hike bets and a tech-stock rout. ¶ • Traders price an 88.6% chance of a Fed rate hike at the Dec. 8-9 meeting, with hot inflation lifting the dollar and Treasury yields. ¶ • Binance Bitcoin perpetual futures funding turned negative at -0.0073%, the first such reading since June 2026, meaning shorts now pay longs. ¶ • Russia will let exchanges trade Bitcoin from Nov. 22 once the central bank approves rules, with Moscow Exchange planning a Dec. 1 pilot and ordinary investors capped at 300,000 rubles a year per intermediary. ¶ • Goldman Sachs warned computer-driven funds could sell up to $80.6 billion in stocks this week, and its Panic Index hit 9 out of 10 on Friday. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/commodities/articles/great-cash-grab-crashing-gold-094952865.html ;; cryptoslate.com|https://cryptoslate.com/russia-bitcoin-trading-rules-moscow-exchange/ ;; tradingview.com|https://www.tradingview.com/news/cryptobriefing:3844a8027094b:0-binance-bitcoin-funding-turns-negative-and-one-analyst-sees-a-possible-reversal/
 
 - Outlook: Bearish
   2026-11-22 |
-  §VIEW§{"stance": "bearish", "text": "ETF outflows of $3.47 billion in November and a 12.53% weekly drop show heavy selling pressure. Bitcoin trades 14% below its 200-week average, a rare bearish signal."}
+  §VIEW§{"stance": "bearish", "text": "Macro is driving the selloff: 88.6% odds of a December rate hike and a Nasdaq down over 20% keep pressuring Bitcoin, now about 56.3% below its peak. Negative funding hints at a rebound but is a weak signal."}
 
 [Gold]
 
 - ~
   22 Nov 2026 | https://www.kotakneo.com/gold-rates/
-  • Gold fell about 8.7% in five sessions to near $3,544 an ounce, its largest weekly drop since March and lowest since September 2025. ¶ • MCX gold futures fell 4.49%, or ₹5,733, to ₹1,21,719 per 10 grams, and silver futures dropped 6.6% to ₹1,47,066 per kg. ¶ • Futures imply a better than 90% chance the Fed raises rates at its December 8-9 meeting, after a quarter-point rise to 3.75-4.00% on September 16. ¶ • Central banks bought 321 tonnes in the third quarter, 42% more than a year earlier, but that equals about 12% of one day's $365 billion gold trading. ¶ • India's gold imports fell to $24.78 billion in April-October from $41.24 billion a year earlier, as the effective import duty rose to 18.45% from 9.18%. ¶ ↗ ceoworld.biz|https://ceoworld.biz/2026/11/22/gold-price-slump-wipes-an-estimated-15-trillion-from-gold-and-silver/ ;; livemint.com|https://www.livemint.com/money/gold-24k-22k-18k-999-fine-silver-prices-today-cities-22-november-retail-rates-delhi-mumbai-bangalore-chennai-coimbatore-11795313371117.html ;; startupfortune.com|https://startupfortune.com/indian-traders-thank-modi-for-gold-appeal-as-imports-fall-nearly-40/ ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/gold-falls-4-49-to-rs-1-21-lakh-silver-plunges-6-6-in-a-single-day-to-rs-1-47-lakh-wedding-shoppers-get-a-buying-opportunity-with-some-families-advancing-jewellery-purchases-while-others-wait-for-further-price-cuts/articleshow/136056926.cms
+  • Gold fell about 9% this week, its largest weekly loss since March 2026, with spot gold down 3% to $3,514.08/oz. ¶ • MCX gold futures dropped 4.49%, or ₹5,733, to ₹1,21,719 per 10 grams on Friday, while silver futures fell 6.6%. ¶ • India's gold imports fell nearly 40% to $24.78 billion in April-October from $41.24 billion a year earlier, per CAIT. ¶ • The government doubled the basic customs duty on gold from 5% to 10% and raised the agriculture cess from 1% to 5%. ¶ • US Federal Reserve minutes showed nearly all policymakers saw rates needing to rise further, strengthening the dollar and bond yields. ¶ ↗ livemint.com|https://www.livemint.com/money/gold-24k-22k-18k-999-fine-silver-prices-today-cities-22-november-retail-rates-delhi-mumbai-bangalore-chennai-coimbatore-11795313371117.html ;; startupfortune.com|https://startupfortune.com/indian-traders-thank-modi-for-gold-appeal-as-imports-fall-nearly-40/ ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/gold-falls-4-49-to-rs-1-21-lakh-silver-plunges-6-6-in-a-single-day-to-rs-1-47-lakh-wedding-shoppers-get-a-buying-opportunity-with-some-families-advancing-jewellery-purchases-while-others-wait-for-further-price-cuts/articleshow/136056926.cms ;; elkodaily.com|https://elkodaily.com/news/local/business/mining/article_aa93fc84-2e18-4fac-b707-e663a5d33618.html
 
 - Outlook: Bearish
   2026-11-22 |
-  §VIEW§{"stance": "bearish", "text": "A Fed expected to hike in December, a stronger dollar and a 4.95% 10-year Treasury yield raise the cost of holding gold, and forced selling is hitting it. Central bank buying of 321 tonnes is too small to offset this."}
+  §VIEW§{"stance": "bearish", "text": "A near-9% weekly drop, hawkish Fed minutes and a doubled import duty weigh on gold. India's 40% import fall removes a major buyer, though wedding demand and central bank purchases offer some support."}
 
 ============================================================
 
@@ -105,7 +119,11 @@ SOURCE 2: The Hindu - Editorials
 
 SOURCE 5: The Hindu - Business (headlines + summary)
 
-[[Company results and leadership]]
+[[Company results and deals]]
+
+- Adani Group forays into West Bengal’s power sector, Trinamool calls for transparency
+  22 Nov 2026 | https://www.thehindu.com/news/national/west-bengal/adani-group-forays-into-west-bengals-power-sector-trinamool-calls-for-transparency/article71730885.ece
+  • Adani Energy Solutions won a letter of award from WBSEDCL to supply 1,750 MW of round-the-clock renewable power for 25 years, with a 750 MW greenshoe option that could raise the total to 2,500 MW. ¶ • Supply starts July 1, 2028 for 1,750 MW and April 1, 2029 for the optional 750 MW, while Trinamool Congress demanded transparency in the long-term contract.
 
 - Reliance Brands FY26 revenue up 3.8% to ₹3,390.9 crore; loss narrows to ₹137 crore
   22 Nov 2026 | https://www.thehindu.com/business/Industry/reliance-brands-fy26-revenue-up-38-to-33909-crore-loss-narrows-to-137-crore/article71730681.ece
@@ -115,15 +133,15 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   21 Nov 2026 | https://www.thehindu.com/business/indusind-bank-terminates-sumant-kathpalias-services-invokes-clawback-provisions/article71729300.ece
   • IndusInd Bank terminated former MD and CEO Sumant Kathpalia with immediate effect on November 20, 2026, after an inquiry report by a former Bombay High Court judge. ¶ • The board invoked malus and clawback provisions from Kathpalia's March 24, 2020 appointment, tied to derivative accounting lapses PwC put at ₹1,979 crore as of June 30, 2024.
 
-[[Regulatory and governance]]
+- Kirloskar firms bag ₹366 crore pumps order from Nigerian refinery
+  21 Nov 2026 | https://www.thehindu.com/business/kirloskar-firms-bag-366-crore-pumps-order-from-nigerian-refinery/article71728312.ece
+  • Kirloskar Brothers and its joint venture Kirloskar Ebara Pumps won a $38.94 million (₹366 crore) order to supply pumps to Dangote Petroleum Refinery in Lagos, Nigeria. ¶ • KEPL's share is $21.34 million (₹201 crore) and KBL's is $17.60 million (₹165 crore), for a refinery with 7,00,000 barrels per day of capacity.
 
-- Adani Group forays into West Bengal’s power sector, Trinamool calls for transparency
-  22 Nov 2026 | https://www.thehindu.com/news/national/west-bengal/adani-group-forays-into-west-bengals-power-sector-trinamool-calls-for-transparency/article71730885.ece
-  • Adani Energy Solutions won a letter of award from WBSEDCL to supply 1,750 MW of round-the-clock renewable power for 25 years, with a 750 MW greenshoe option that could raise the total to 2,500 MW. ¶ • Supply starts July 1, 2028 for 1,750 MW and April 1, 2029 for the optional 750 MW, while Trinamool Congress demanded transparency in the long-term contract.
+[[Commodity prices]]
 
-- SEBI proposals will open window to foreign funds with opaque offshore ownership structures, says Congress
-  22 Nov 2026 | https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece
-  • SEBI proposed on November 22, 2026, to review the additional disclosure framework for Foreign Portfolio Investors, which since August 2023 required FPIs with over 50% of Indian equity in one corporate group to disclose ultimate ownership. ¶ • Congress's Jairam Ramesh said the move reopens a loophole and cannot reverse the ₹5.61 lakh crore that FPIs have pulled out of Indian equities over the past two years.
+- Gold, copper, aluminium dive to at least 7-month lows
+  22 Nov 2026 | https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece
+  • Gold fell to $3,521.38 per troy ounce on the LBMA, its lowest since September 2025, as traders price a 95% chance of a Fed rate hike next month. ¶ • Copper hit an eight-month low of $12,230.40 per metric tonne on the LME and aluminium an almost one-year low of $2,824.5, on weak industrial demand and easing supply concerns.
 
 [[Semiconductors and AI]]
 
@@ -141,6 +159,10 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 
 [[Manufacturing and exports]]
 
+- Maruti Suzuki hikes select model prices amid cost pressures
+  22 Nov 2026 | https://www.thehindu.com/business/Industry/maruti-suzuki-hikes-select-model-prices-amid-cost-pressures/article71730848.ece
+  • Maruti Suzuki raised prices of select models from November 22, 2026, with an estimated volume-weighted average increase of about 0.31%. ¶ • The hike follows three increases in the first half of FY27 totalling just over 1%, after Q2 net profit fell 26.36% to ₹2,466.1 crore on higher input costs.
+
 - Plastics industry aims at doubling its exports in 4 years
   21 Nov 2026 | https://www.thehindu.com/business/plastics-industry-aims-at-doubling-its-exports-in-4-years/article71728298.ece
   • India's plastics industry plans to double export volume in four years, after earning close to $12.5 billion in FY26 despite global trade headwinds. ¶ • PLEXCONCIL points to new Free Trade Agreements and fast-growing markets in Africa and Latin America to help exporters, especially MSMEs, win orders.
@@ -153,25 +175,17 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   21 Nov 2026 | https://www.thehindu.com/business/indias-building-automation-market-likely-to-grow-to-1256-billion-by-2030/article71729114.ece
   • India's building automation market is projected to grow from $4.32 billion in 2025 to $12.56 billion by 2030, a 23.8% CAGR, per a MarketsandMarkets report. ¶ • IoT-enabled automation in organised commercial office space is seen rising from 25% to 45% by FY2030, with integrated building management systems up from 8% to 23%.
 
-- Kirloskar firms bag ₹366 crore pumps order from Nigerian refinery
-  21 Nov 2026 | https://www.thehindu.com/business/kirloskar-firms-bag-366-crore-pumps-order-from-nigerian-refinery/article71728312.ece
-  • Kirloskar Brothers and its joint venture Kirloskar Ebara Pumps won a $38.94 million (₹366 crore) order to supply pumps to Dangote Petroleum Refinery in Lagos, Nigeria. ¶ • KEPL's share is $21.34 million (₹201 crore) and KBL's is $17.60 million (₹165 crore), for a refinery with 7,00,000 barrels per day of capacity.
+[[Regulation and governance]]
 
-[[Commodities and shipping]]
+- SEBI proposals will open window to foreign funds with opaque offshore ownership structures, says Congress
+  22 Nov 2026 | https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece
+  • SEBI proposed on November 22, 2026, to review the additional disclosure framework for Foreign Portfolio Investors, which since August 2023 required FPIs with over 50% of Indian equity in one corporate group to disclose ultimate ownership. ¶ • Congress's Jairam Ramesh said the move reopens a loophole and cannot reverse the ₹5.61 lakh crore that FPIs have pulled out of Indian equities over the past two years.
 
-- Gold, copper, aluminium dive to at least 7-month lows
-  21 Nov 2026 | https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece
-  • Gold fell to $3,521.38 per troy ounce on the LBMA, its lowest since September 2025, as traders price a 95% chance of a Fed rate hike next month. ¶ • Copper hit an eight-month low of $12,230.40 per metric tonne on the LME and aluminium an almost one-year low of $2,824.5, on weak industrial demand and easing supply concerns.
+[[Trade and diplomacy]]
 
 - India a swing vote at IMO meeting on shipping decarbonisation
   21 Nov 2026 | https://www.thehindu.com/business/india-a-swing-vote-at-imo-meeting-on-shipping-decarbonisation/article71729104.ece
   • The IMO meets in London from November 23 with a vote expected December 4 on a framework to cut ship greenhouse gas intensity 43% by 2035 and charge non-compliant ships a carbon tax. ¶ • India, which backed last year's postponement, has not decided its position and is weighing climate justice principles against concerns over the cost and availability of green fuels.
-
-[[Auto and international ties]]
-
-- Maruti Suzuki hikes select model prices amid cost pressures
-  22 Nov 2026 | https://www.thehindu.com/business/Industry/maruti-suzuki-hikes-select-model-prices-amid-cost-pressures/article71730848.ece
-  • Maruti Suzuki raised prices of select models from November 22, 2026, with an estimated volume-weighted average increase of about 0.31%. ¶ • The hike follows three increases in the first half of FY27 totalling just over 1%, after Q2 net profit fell 26.36% to ₹2,466.1 crore on higher input costs.
 
 - India, Finland seek to deepen economic ties through startup cooperation: Envoy Mikko Kivikoski
   21 Nov 2026 | https://www.thehindu.com/news/national/india-finland-seek-to-deepen-economic-ties-through-startup-cooperation-envoy-mikko-kivikoski/article71728251.ece
@@ -180,6 +194,20 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 ============================================================
 
 SOURCE 3: The Hindu - International (headlines + summary)
+
+[[West Asia conflict]]
+
+- Saudi-led coalition says it intercepted Houthi missile in western region
+  22 Nov 2026 | https://www.thehindu.com/news/international/saudi-led-coalition-says-it-intercepted-houthi-missile-in-western-region/article71731039.ece
+  • The Saudi-led coalition said air defence intercepted and destroyed a ballistic missile launched by the Houthis toward the kingdom's western Red Sea coast on November 22, 2026. ¶ • Houthi attacks have killed 26 people in Saudi Arabia since September, including 23 in airport strikes, and have hit oil installations near the Yanbu crude export terminal and Jazan refinery.
+
+- Iraq fire at Basra power station kills at least four, injures 30
+  22 Nov 2026 | https://www.thehindu.com/news/international/fire-at-basras-hartha-power-station-in-iraq/article71727609.ece
+  • A fire at the Hartha power station north of Basra killed at least four people and injured 30, with the toll expected to rise, security officials said. ¶ • The fire halted operations at the 800-megawatt station, which had been running at about 400 megawatts, and spread to neighbouring houses.
+
+- Bahrain says Iran struck industrial site as tankers hit in Hormuz
+  22 Nov 2026 | https://www.thehindu.com/news/international/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz/article71730497.ece
+  • Bahrain accused Iran of targeting a civilian industrial facility, causing a fire but no casualties, while two tankers were hit in the Strait of Hormuz. ¶ • Iran's Fars news agency claimed Revolutionary Guards attacked two U.S. bases in Bahrain in response to U.S. actions.
 
 [[US-China tech tensions]]
 
@@ -191,21 +219,11 @@ SOURCE 3: The Hindu - International (headlines + summary)
   22 Nov 2026 | https://www.thehindu.com/news/international/china-slams-malicious-us-ban-on-telecom-firms-phone-number-access/article71730683.ece
   • China's Commerce Ministry called the FCC order, approved Thursday, malicious and without factual basis, demanding Washington revoke it. ¶ • The order cuts China Unicom, China Telecom and China Mobile's direct access to U.S. phone numbers over illegal robocalling concerns.
 
-[[Middle East conflict]]
+[[Russia-Ukraine war]]
 
-- Iraq fire at Basra power station kills at least four, injures 30
-  22 Nov 2026 | https://www.thehindu.com/news/international/fire-at-basras-hartha-power-station-in-iraq/article71727609.ece
-  • A fire at the Hartha power station north of Basra killed at least four people and injured 30, with the toll expected to rise, security officials said. ¶ • The fire halted operations at the 800-megawatt station, which had been running at about 400 megawatts, and spread to neighbouring houses.
-
-- Bahrain says Iran struck industrial site as tankers hit in Hormuz
-  22 Nov 2026 | https://www.thehindu.com/news/international/bahrain-says-iran-struck-industrial-site-as-tankers-hit-in-hormuz/article71730497.ece
-  • Bahrain accused Iran of targeting a civilian industrial facility, causing a fire but no casualties, while two tankers were hit in the Strait of Hormuz. ¶ • Iran's Fars news agency claimed Revolutionary Guards attacked two U.S. bases in Bahrain in response to U.S. actions.
-
-[[Genocide and rights rulings]]
-
-- ICJ rules Myanmar committed genocide against Rohingya in 2017 crackdown
-  22 Nov 2026 | https://www.thehindu.com/news/international/news-in-frames-living-withthe-wounds-of-displacement/article71730570.ece
-  • The International Court of Justice ruled on November 19 that Myanmar committed genocide against the Rohingya during the military's 2017 clearance operations, the first time the court held a state responsible for genocide. ¶ • The court ordered Myanmar to prosecute those responsible, allow the safe return of the displaced and pay compensation, though it declined to order citizenship for the Rohingya.
+- At least 14 people missing after Russian drone hit building in Kyiv region, Zelenskyy says
+  22 Nov 2026 | https://www.thehindu.com/news/international/at-least-14-people-missing-after-russian-drone-hit-building-in-kyiv-region-zelenskyy-says/article71731042.ece
+  • A Russian drone struck a five-story apartment building in Dymer in Ukraine's Kyiv region on Sunday morning, collapsing part of it and leaving at least 14 people possibly trapped under the rubble. ¶ • Nine people were evacuated and the fire was contained, while local officials said two people, including a teenager, were injured.
 
 [[Climate and COP31]]
 
@@ -223,11 +241,7 @@ SOURCE 3: The Hindu - International (headlines + summary)
   22 Nov 2026 | https://www.thehindu.com/news/international/two-rulers-one-fort-pakistan-minister-invokes-humayun-sher-shah-at-sco-civilisational-forum/article71729569.ece
   • Pakistan Minister Musadik Malik, at the SCO Civilisational Dialogue Forum at Purana Qila, said the fort reflects "two rulers and one fort" built by Humayun and Sher Shah Suri. ¶ • The three-day summit, hosted by the Culture and External Affairs Ministries from November 20-22, is Malik's first visit to India amid strained ties since the 2025 Pahalgam attack.
 
-- The Shenzhen trilateral | The unlikely trio
-  22 Nov 2026 | https://www.thehindu.com/news/international/the-shenzhen-trilateral-the-unlikely-trio/article71729376.ece
-  • Trump, Xi Jinping and Putin met on November 19, 2026, at the APEC Economic Leaders' Meeting in Shenzhen, China. ¶ • Putin, asked about comparisons to the 1945 Yalta Conference, said he would consider it right to codify a victory over neo-Nazism.
-
-[[Immigration enforcement]]
+[[Immigration and law enforcement]]
 
 - Indian-origin man detained in Texas after serving sentence for visual recording conviction
   22 Nov 2026 | https://www.thehindu.com/news/international/indian-origin-man-detained-in-texas-after-serving-sentence-for-visual-recording-conviction/article71730866.ece
@@ -247,6 +261,10 @@ SOURCE 3: The Hindu - International (headlines + summary)
   22 Nov 2026 | https://www.thehindu.com/news/international/north-korea-delays-international-marathon-until-october-tour-agency/article71730826.ece
   • North Korea has postponed its Pyongyang International Marathon from April 2027 to October 2027, according to Beijing-based tour agency Koryo Tours. ¶ • Last year's race drew about 200 foreign runners alongside more than 200 North Koreans, down from about 950 foreigners in 2019.
 
+- News in Frames | Living with the wounds of displacement
+  22 Nov 2026 | https://www.thehindu.com/news/international/news-in-frames-living-withthe-wounds-of-displacement/article71730570.ece
+  • The International Court of Justice ruled on November 19 that Myanmar committed genocide against the Rohingya during the military's 2017 clearance operations in Rakhine State, the first time the world court held a country responsible for genocide. ¶ • More than 740,000 Rohingya fled to Bangladesh in August 2017, and nearly 1.2 million now live in Cox's Bazar camps, with the ICJ verdict unlikely to ease their suffering as Rakhine State fighting continues.
+
 - Fire at Indonesian candy factory leaves 3 dead, dozens unaccounted for
   22 Nov 2026 | https://www.thehindu.com/news/international/rescuers-say-many-missing-after-indonesia-factory-fire/article71730558.ece
   • A fire at the PT Fonusa Agung Mulia candy factory in Serang, Banten province, killed three people and left 36 workers unaccounted for. ¶ • Fifteen people were rescued alive, four of them injured, as firefighters battled the blaze for over 12 hours; survivors said it started in a third-floor cooling unit.
@@ -254,7 +272,80 @@ SOURCE 3: The Hindu - International (headlines + summary)
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### D2C beauty startups seek capital for a makeover
+20 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/beauty-brands-seek-fresh-funds-cybersecurity-courses-gain-traction/articleshow/136009658.cms
+
+• Pilgrim, Foxtale, Mcaffeine, Wishcare and Deconstruct are exploring fundraises or strategic sales to larger consumer companies.
+
+• Pilgrim's revenue grew 69% to ₹690 crore in FY26.
+
+• Foxtale nearly doubled its operating revenue to ₹383 crore and narrowed its loss to ₹66 crore.
+
+• Analysts attribute growth to products tailored to niche requirements and influencer-led social media campaigns targeting young consumers.
+
+### Surge in cyberattacks fuels demand for cybersecurity courses
+20 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/beauty-brands-seek-fresh-funds-cybersecurity-courses-gain-traction/articleshow/136009658.cms
+
+• Coursera's cybersecurity enrolments in India rose 11% year-on-year during January-September.
+
+• Simplilearn's cybersecurity portfolio has grown an estimated 70-80% since early 2025.
+
+• Eruditus has seen demand from companies rise 25-35% year-on-year globally.
+
+• Around 20 Indian financial institutions suffered cyberattacks in October, prompting companies to rethink security and training priorities.
+
+### Paytm to invest up to Rs 200 crore in Singapore fintech partnership
+20 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/beauty-brands-seek-fresh-funds-cybersecurity-courses-gain-traction/articleshow/136009658.cms
+
+• One 97 Communications will invest up to ₹200 crore in subsidiaries of Singapore-based small-business lender Funding Societies.
+
+• Paytm's Singapore subsidiary will initially invest about ₹162 crore for a 19.1% stake in Funding Societies' payments arm CardUp, valuing it at around ₹848 crore.
+
+• The remaining ₹38 crore may be invested in another affiliate of Funding Societies.
+
+• Paytm will enter a five-year technology partnership with CardUp, providing payments and lending technology in return for technology fees and a share of revenue.
+
+### Urban Company raises Rs 2,500 crore
+20 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/beauty-brands-seek-fresh-funds-cybersecurity-courses-gain-traction/articleshow/136009658.cms
+
+• Urban Company raised ₹2,500 crore via a qualified institutional placement from investors.
+
+• The Gurugram-based company allocated shares to institutional investors at a price of ₹156 apiece.
+
+### IT firms go slow on sales hiring
+20 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/beauty-brands-seek-fresh-funds-cybersecurity-courses-gain-traction/articleshow/136009658.cms
+
+• Indian IT outsourcing companies are either trimming or making minimal additions to their sales teams.
+
+• Top and mid-tier IT companies calibrated their sales headcounts in FY27, shifting focus to mining existing accounts instead of chasing new logos.
+
+### Global pick: TSMC and Samsung suspend some chip shipments to Chinese customers
+FT | https://www.ft.com/content/d42dd235-7b0e-4651-a8d2-f7b7b4963a74?syn-25a6b1a6=1
+
+[Could not read the article, possibly paywalled]
+
+### Global pick: Brighton Anthropic founder to become billionaire
+BBC | https://www.bbc.com/news/articles/cq1k9jej8209o
+
+• Anthropic, the company behind the Claude chatbot, raised $81bn in a record-breaking stock market debut.
+
+• Its shares closed up 17% on the first day of trading, making it one of the world's most valuable public companies.
+
+• Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.
+
+• A Dutch watchdog told people not to buy AI smart glasses after tests showed some misread medicine instructions or pretended to have called an ambulance.
+
+### Global pick: Leaked: How Silicon Valley Elites Bankrolled an Anti-Migrant, Pro-Israel Propaganda Machine
+Wired | https://www.wired.com/story/leaked-how-silicon-valley-elites-bankrolled-anti-migrant-pro-israel-propaganda-machine/
+
+• Visegrad24, a Polish right-wing account, posted nearly 400 times in the first three days of the Gaza war, racking up 370 million views, per University of Washington researchers.
+
+• Founder Stefan Tompson texted a confidant that his goal was to "fundraise off of this," choosing a pro-Israel line partly because supporters have "a lot of influence and money."
+
+• WIRED reviewed V24 financial records, internal communications and donor correspondence, and found Tompson succeeded in raising money from Silicon Valley Israel supporters; he denied the reporting through a lawyer.
+
+• Musk engaged with Visegrad24 at least three times more than any other of 30 far-right European accounts over 45 days ending January 2025, and V24 ranks 32nd on X for community notes.
 
 ============================================================
 
@@ -458,14 +549,14 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 [Indusind Bank Ltd (INDUSINDBK, +8.59%)]
 
 - ~
-  21 Nov 2026 | https://www.thehindu.com/business/indusind-bank-terminates-sumant-kathpalias-services-invokes-clawback-provisions/article71729300.ece
-  ## What the sector does ¶ • Indian private banks take deposits from savers and lend to retail, corporate and small-business borrowers, earning a net interest margin plus fees on services. ¶ • Revenue rises with loan growth and deposit spreads, while cost is driven by funding rates and credit provisions; HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank are the largest private peers. ¶ ## What the company does ¶ • IndusInd Bank is a private commercial bank incorporated in 1994, offering retail, corporate and treasury banking from branches across India, including at the International Financial Service Centres. ¶ • It earns from loans, deposits and fee services, with a market cap of ₹78,148 crore, promoter holding of 15.8%, and sits mid-sized against larger private peers like HDFC Bank and ICICI Bank. ¶ ## Why it moved today ¶ • The articles do not state a cause for the 8.59% rise; they report the board's November 20, 2026 decision to terminate former MD and CEO Sumant Kathpalia and invoke malus and clawback provisions from March 24, 2020. ¶ • Context only: the bank reported September 2026 quarter net profit of ₹1,242 crore, up sharply from ₹128 crore in December 2025, and the derivatives accounting issue was estimated at ₹1,979 crore to ₹2,329 crore. ¶ ## The numbers (Screener) ¶ • Stock P/E is 26.0, price is ₹1,003 against book value of ₹870, giving a price-to-book of 1.15 times, with dividend yield 0.15% and face value ₹10. ¶ • Net profit rose from ₹128 crore in December 2025 to ₹594 crore in March 2026, ₹1,037 crore in June 2026 and ₹1,242 crore in September 2026; EPS rose from ₹1.64 to ₹15.94 over the same quarters. ¶ ## What the numbers say ¶ • At a P/E of 26.0, IndusInd trades above the peer median of 14.22 and above HDFC Bank's 16.30, ICICI Bank's 19.95 and Axis Bank's 15.04, even though its ROCE of 5.68% and ROE of 1.36% are below the peer median ROCE of 6.4%. ¶ • September 2026 quarter net profit grew 384.24% year on year, but quarterly sales rose only 1.61% against the peer median sales growth of 16.19%, so the sharp move sits against weak top-line momentum and a low 1.15 times book valuation. ¶ ↗ thehindu.com|https://www.thehindu.com/business/indusind-bank-terminates-sumant-kathpalias-services-invokes-clawback-provisions/article71729300.ece ;; newindianexpress.com|https://www.newindianexpress.com/business/2026/Nov/22/indusind-fires-former-ceo-kathpalia-seeks-pay-recovery ;; bfsi.eletsonline.com|https://bfsi.eletsonline.com/indusind-bank-dismisses-former-md-and-ceo-sumant-kathpalia-after/
+  22 Nov 2026 | https://inshorts.com/en/news/why-is-indusind-bank-seeking-ex-ceo-kathpalia-s-salary-back--1795341646025
+  ## What the sector does ¶ • Indian private banks take deposits from savers and lend to retail and corporate borrowers, earning a net interest margin plus fees on cards, wealth and treasury. ¶ • Revenue rises with loan growth and the spread over deposit costs; profits swing with credit costs, and the RBI and large players like HDFC Bank, ICICI Bank and Axis Bank set the competitive tone. ¶ ## What the company does ¶ • IndusInd Bank is a Hinduja-group promoted private bank incorporated in 1994, serving retail and corporate clients with deposits, loans, cards and treasury operations across India. ¶ • It earns from lending and fee income at a market cap of ₹78,148 crore and a price of ₹1,003, placing it mid-sized against far larger peers like HDFC Bank and ICICI Bank. ¶ ## Why it moved today ¶ • The articles do not explain the 8.59% rise; they report IndusInd terminating former CEO Sumant Kathpalia on November 20, 2026 and invoking malus and clawback provisions from March 24, 2020. ¶ • Context: the bank had already accounted for derivative accounting discrepancies estimated at ₹2,329 crore, and September-quarter net profit was ₹1,242 crore, up sharply from ₹128 crore a year earlier. ¶ ## The numbers (Screener) ¶ • Stock P/E is 26.0 and price to book is 1.15 times, with book value at ₹870 and market cap at ₹78,148 crore as of the digest date. ¶ • Net profit rose from ₹128 crore in the December 2025 quarter to ₹1,242 crore in September 2026, with EPS up from ₹1.64 to ₹15.94. ¶ ## What the numbers say ¶ • At a P/E of 26.0, IndusInd trades above the peer median of 14.22 and above HDFC Bank at 16.30 and ICICI Bank at 19.95, while its 1.15 times book is below the sector's usual multiples. ¶ • ROE of 1.36% and ROCE of 5.68% trail the peer median ROCE of 6.4%, and September-quarter sales grew just 1.61% against the peer median of 16.19%, so the rally rests on recovering profits rather than growth. ¶ ↗ inshorts.com|https://inshorts.com/en/news/why-is-indusind-bank-seeking-ex-ceo-kathpalia-s-salary-back--1795341646025 ;; thehindu.com|https://www.thehindu.com/business/indusind-bank-terminates-sumant-kathpalias-services-invokes-clawback-provisions/article71729300.ece ;; newindianexpress.com|https://www.newindianexpress.com/business/2026/Nov/22/indusind-fires-former-ceo-kathpalia-seeks-pay-recovery
 
 [Eih Ltd (EIHOTEL, +7.79%)]
 
 - ~
   21 Nov 2026 | https://capitalethiopia.com/2026/11/22/eih-ties-pay-rises-bonuses-to-audited-profits-drawing-union-concerns/
-  ## What the sector does ¶ • India's listed hotel industry sells rooms, food and beverage, and banqueting to business travellers, tourists and event organisers, earning per-room revenue that rises with occupancy and room rates. ¶ • Revenue is seasonal, peaking in the December quarter, while costs are largely fixed salaries, power and property upkeep, so margins swing with occupancy; Indian Hotels, ITC Hotels, Leela Palaces and Chalet are the main listed peers. ¶ ## What the company does ¶ • EIH owns and manages premium luxury hotels and cruisers under the Oberoi, Trident and Maidens brands, and also runs flight catering, airport restaurants, project management and corporate air charters. ¶ • It operates 19 Oberoi-branded luxury properties and 10 Trident five-star hotels, earning from room tariffs, restaurants and banquets, with a market capitalisation of ₹20,897 crore. ¶ ## Why it moved today ¶ • The news articles do not explain the 7.79% rise; the EIH in the 21 November 2026 labour report is Ethiopian Investment Holdings, a different entity, and the other two articles describe a weak trend and a June 2026 downgrade. ¶ • Context only: EIH's September 2026 quarter net profit rose 26.3% year on year to ₹141 crore on sales of ₹694 crore, up 16.1%, with operating margin at 27%. ¶ ## The numbers (Screener) ¶ • Stock P/E is 27.7 and price to book is 3.8 times, with book value of ₹86.9 per share, against a current price of ₹334 and a 52-week range of ₹271 to ₹392. ¶ • September 2026 quarter sales were ₹694 crore, up 16.1% year on year, with net profit of ₹141 crore and operating margin of 27%, down from 43% in the December 2025 quarter. ¶ ## What the numbers say ¶ • At a P/E of 27.7, EIH trades below Indian Hotels at 64.6, ITC Hotels at 38.8 and Leela Palaces at 49.8, and slightly below the peer median P/E of 27.3, while its ROCE of 20.7% is the highest in the peer table. ¶ • The September 2026 quarter's 27% operating margin is well below the 43% of December 2025, and the 7.79% gain leaves the stock still below its 52-week high of ₹392. ¶ ↗ capitalethiopia.com|https://capitalethiopia.com/2026/11/22/eih-ties-pay-rises-bonuses-to-audited-profits-drawing-union-concerns/ ;; marketsmojo.com|https://www.marketsmojo.com/news/stocks-in-action/eih-ltd-reports-negative-financial-trend-despite-strong-quarterly-earnings-growth-4260835 ;; marketsmojo.com|https://www.marketsmojo.com/news/result-analysis/eih-ltd-q2-fy2027-profit-surge-masks-margin-compression-concerns-4261017
+  ## What the sector does ¶ • India's hotel sector sells rooms, food and beverage and banquets to leisure travellers, corporates and MICE groups, earning revenue from occupancy and room rates. ¶ • Revenue rises with average room rates and RevPAR (revenue per available room); costs are staff, energy, food and property, and the main listed players are Indian Hotels, ITC Hotels, Leela Palaces, Chalet and Lemon Tree. ¶ ## What the company does ¶ • EIH owns and manages luxury hotels and cruisers under the Oberoi, Trident and Maidens brands, plus flight catering and airport restaurants, earning from room tariffs, banquets and catering. ¶ • It plans 32 new properties with 2,992 keys by 2031, 24 of them managed for owners, and its Q2 FY27 revenue was ₹694 crore, smaller than Indian Hotels' ₹2,484 crore. ¶ ## Why it moved today ¶ • The news does not give a clear cause for the 7.79% jump; the only price report, from a 21 November article, cites the 7.82% rise to ₹334.35 without a stated trigger. ¶ • Context: Q2 FY27 revenue rose 16% to ₹694 crore and profit after tax rose to ₹141 crore from ₹117 crore, while the 32-property pipeline was in focus. ¶ ## The numbers (Screener) ¶ • Stock P/E 27.7, price to book about 3.8 times on book value of ₹86.9 and market cap ₹20,897 crore, with ROCE 20.7% and ROE 14.5%. ¶ • Sales fell from ₹895 crore in the March 2026 quarter to ₹657 crore in June and ₹694 crore in September 2026, when net profit was ₹141 crore and operating margin 27%. ¶ ## What the numbers say ¶ • At P/E 27.7 EIH is cheaper than Indian Hotels at 64.57 and ITC Hotels at 38.78, and its 20.7% ROCE is the highest in the peer table against a 10.79% median. ¶ • September 2026 sales of ₹694 crore were up 16.1% year on year and profit up 26.3%, but operating margin fell from 43% in December 2025 to 27%, so the 7.79% move sits against a still-soft profit trend. ¶ ↗ capitalethiopia.com|https://capitalethiopia.com/2026/11/22/eih-ties-pay-rises-bonuses-to-audited-profits-drawing-union-concerns/ ;; marketsmojo.com|https://www.marketsmojo.com/news/stock-recommendation/eih-ltd-is-rated-sell-by-marketsmojo-4269289 ;; tradebrains.in|https://tradebrains.in/indian-markets/how-is-eih-limited-planning-to-grow-its-hotel-business-without-heavy-capital-investment-12816514
 
 [[Top Losers]]
 
