@@ -1,0 +1,442 @@
+<title>Morning Wire</title>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,600;0,700;1,500&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #EEF0EE;
+  --surface: #FFFFFF;
+  --surface-2: #F5F6F3;
+  --ink: #1B2320;
+  --ink-soft: #59645D;
+  --ink-faint: #8A948D;
+  --border: #DCE0DA;
+  --accent: #A8650C;
+  --accent-ink: #6E4708;
+  --accent-soft: #F3E4C8;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #12151A;
+    --surface: #1A1F26;
+    --surface-2: #20262E;
+    --ink: #E7E9E4;
+    --ink-soft: #9FA8A2;
+    --ink-faint: #6B746E;
+    --border: #2B323A;
+    --accent: #E3A542;
+    --accent-ink: #F0C878;
+    --accent-soft: #3A2E14;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #12151A;
+  --surface: #1A1F26;
+  --surface-2: #20262E;
+  --ink: #E7E9E4;
+  --ink-soft: #9FA8A2;
+  --ink-faint: #6B746E;
+  --border: #2B323A;
+  --accent: #E3A542;
+  --accent-ink: #F0C878;
+  --accent-soft: #3A2E14;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Public Sans", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: var(--accent-ink); }
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 14px 20px 0;
+}
+.topbar-inner {
+  max-width: 700px;
+  margin: 0 auto;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.topbar-left {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.wordmark {
+  font-family: "Fraunces", serif;
+  font-weight: 700;
+  font-size: 1.15rem;
+  letter-spacing: 0.01em;
+}
+.dateline {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.copy-btn {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent-ink);
+  background: var(--accent-soft);
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  padding: 5px 12px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.copy-btn:active { transform: scale(0.96); }
+.chip-nav-row {
+  max-width: 700px;
+  margin: 10px auto 0;
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 12px;
+  scrollbar-width: none;
+}
+.chip-nav-row::-webkit-scrollbar { display: none; }
+.chip-nav {
+  flex: none;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  color: var(--ink-soft);
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 5px 12px;
+  white-space: nowrap;
+}
+.metrics-section {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 18px 20px 0;
+}
+.metric-line {
+  margin: 0 0 6px;
+  font-size: 0.98rem;
+}
+.metric-label {
+  color: var(--ink-soft);
+}
+.metric-value {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 500;
+}
+.metric-value a {
+  color: var(--accent-ink);
+  text-decoration: none;
+}
+.metric-value a:hover { text-decoration: underline; }
+.metric-asof {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.8rem;
+  color: var(--ink-faint);
+}
+main {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 28px 20px 60px;
+}
+.wire-section {
+  padding: 28px 0;
+  border-bottom: 1px solid var(--border);
+}
+.wire-section:first-child { padding-top: 8px; }
+.eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-faint);
+  margin-bottom: 6px;
+}
+.eyebrow .idx { color: var(--accent-ink); font-weight: 500; }
+.wire-section h2 {
+  font-family: "Fraunces", serif;
+  font-weight: 700;
+  font-size: 1.65rem;
+  line-height: 1.15;
+  text-wrap: balance;
+  margin: 0 0 14px;
+}
+.sub-article { margin: 22px 0 0; }
+.sub-article:first-child { margin-top: 0; }
+.sub-article h3 {
+  font-family: "Fraunces", serif;
+  font-weight: 600;
+  font-size: 1.2rem;
+  line-height: 1.25;
+  text-wrap: balance;
+  margin: 0 0 6px;
+}
+.wire-section h4 {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent-ink);
+  margin: 22px 0 8px;
+}
+.wire-section h4:first-of-type { margin-top: 4px; }
+.subsection-title {
+  font-family: "Fraunces", serif;
+  font-weight: 600;
+  font-size: 1.15rem;
+  margin: 28px 0 14px;
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+}
+.subsection-title:first-of-type { margin-top: 4px; padding-top: 0; border-top: none; }
+.byline {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+  margin: 0 0 12px;
+  word-break: break-all;
+}
+.byline a { color: inherit; text-decoration: none; }
+p {
+  font-size: 1.02rem;
+  line-height: 1.6;
+  margin: 0 0 14px;
+  max-width: 62ch;
+}
+p.lede {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+p.empty {
+  color: var(--ink-soft);
+  font-style: italic;
+}
+.wire-list {
+  margin: 0 0 14px;
+  padding-left: 1.2em;
+}
+.wire-list li {
+  font-size: 1.02rem;
+  line-height: 1.6;
+  margin-bottom: 6px;
+}
+.wire-row {
+  padding: 14px 0;
+  border-top: 1px solid var(--border);
+}
+.wire-row:first-child { border-top: none; padding-top: 0; }
+.wire-row .headline {
+  display: block;
+  font-weight: 600;
+  color: var(--ink);
+  text-decoration: none;
+  margin: 0 0 4px;
+}
+.wire-row a.headline:hover {
+  text-decoration: underline;
+}
+.wire-row p:not(.headline) {
+  color: var(--ink-soft);
+  font-size: 0.96rem;
+}
+.wire-row p.pubdate {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+  margin: 0 0 6px;
+}
+.theme-title {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent-ink);
+  margin: 24px 0 4px;
+}
+.theme-title:first-of-type { margin-top: 6px; }
+.bl { margin: 0 0 10px; padding-left: 1.2em; }
+.bl li { margin: 0 0 5px; }
+.blabel {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent-ink);
+  margin: 16px 0 6px;
+}
+.blabel:first-child { margin-top: 0; }
+.srcs { font-size: 0.78rem; color: var(--ink-soft); }
+.view {
+  margin: 0 0 14px;
+  padding: 10px 14px;
+  background: var(--surface-2);
+  border-left: 3px solid var(--ink-soft);
+  border-radius: 4px;
+}
+.view p { margin: 0 0 4px; }
+.view-bullish { border-left-color: #3E9B66; }
+.view-bearish { border-left-color: #C4503F; }
+.view .view-head {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-soft);
+}
+.view .stance { font-weight: 600; color: var(--ink); }
+.view-bullish .stance { color: #3E9B66; }
+.view-bearish .stance { color: #C4503F; }
+.chip {
+  display: inline-block;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent-ink);
+  background: var(--accent-soft);
+  border-radius: 4px;
+  padding: 2px 7px;
+  margin-bottom: 6px;
+}
+footer {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 20px 40px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+}
+</style>
+<div id="mw-gate" style="min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px;background:var(--bg);">
+  <form id="mw-gate-form" style="max-width:280px;width:100%;text-align:center;font-family:'Public Sans',system-ui,sans-serif;">
+    <p style="font-family:'Fraunces',serif;font-weight:700;font-size:1.3rem;color:var(--ink);margin:0 0 16px;">Morning Wire</p>
+    <input id="mw-gate-input" type="password" placeholder="Password" autocomplete="off"
+      style="width:100%;box-sizing:border-box;padding:10px 12px;font-size:1rem;border:1px solid var(--border);border-radius:8px;background:var(--surface);color:var(--ink);margin-bottom:10px;">
+    <button type="submit" style="width:100%;padding:10px 12px;font-size:0.9rem;font-weight:600;border:none;border-radius:8px;background:var(--accent);color:#fff;cursor:pointer;">Unlock</button>
+    <p id="mw-gate-error" style="display:none;color:#c0392b;font-size:0.8rem;margin-top:10px;">Wrong password.</p>
+  </form>
+</div>
+<script>
+(function () {
+  var HASH = "9447d60f27823a109168f19de1046a91fc23bb4f157ae19b35efbf7403d177cd";
+
+  // The real content div is written *after* this script in the HTML
+  // stream, so it doesn't exist yet if queried at top-level execution —
+  // wait for the full document to parse first.
+  document.addEventListener("DOMContentLoaded", function () {
+  var gate = document.getElementById("mw-gate");
+  var content = document.getElementById("mw-content");
+  var form = document.getElementById("mw-gate-form");
+  var input = document.getElementById("mw-gate-input");
+  var error = document.getElementById("mw-gate-error");
+
+  function sha256Hex(text) {
+    return crypto.subtle.digest("SHA-256", new TextEncoder().encode(text)).then(function (buf) {
+      return Array.from(new Uint8Array(buf)).map(function (b) {
+        return b.toString(16).padStart(2, "0");
+      }).join("");
+    });
+  }
+
+  function unlock() {
+    gate.style.display = "none";
+    content.style.display = "";
+    try { localStorage.setItem("mw_unlocked", "1"); } catch (e) {}
+  }
+
+  var alreadyUnlocked = false;
+  try { alreadyUnlocked = localStorage.getItem("mw_unlocked") === "1"; } catch (e) {}
+  if (alreadyUnlocked) unlock();
+
+  form.addEventListener("submit", function (ev) {
+    ev.preventDefault();
+    sha256Hex(input.value).then(function (hex) {
+      if (hex === HASH) {
+        unlock();
+      } else {
+        error.style.display = "block";
+        input.value = "";
+        input.focus();
+      }
+    });
+  });
+  });
+})();
+</script>
+
+<div id="mw-content" style="display:none">
+<div class="topbar">
+  <div class="topbar-inner">
+    <div class="topbar-left">
+      <span class="wordmark">Morning Wire</span>
+      <span class="dateline">Monday, 23 November 2026</span>
+    </div>
+    <button id="copy-md-btn" class="copy-btn" type="button">Copy as Markdown</button>
+  </div>
+  <nav class="chip-nav-row"><a class="chip-nav" href="#metrics">Metrics</a><a class="chip-nav" href="#src-6">Watchlist</a><a class="chip-nav" href="#src-8">AI News</a><a class="chip-nav" href="#src-2">Editorials</a><a class="chip-nav" href="#src-5">Business</a><a class="chip-nav" href="#src-3">World</a><a class="chip-nav" href="#src-1">ET Dispatch</a><a class="chip-nav" href="#src-4">Funding</a><a class="chip-nav" href="#src-7">Movers</a><a class="chip-nav" href="companies.html">Companies</a><a class="chip-nav" href="archive/">Archive</a></nav>
+</div>
+<section id="metrics" class="metrics-section"><p class="metric-line"><span class="metric-label">NIFTY PE:</span> <span class="metric-value"><a href="https://nifty-pe-ratio.com/">21.02</a></span> <span class="metric-asof">(20 Nov 2026)</span></p><p class="metric-line"><span class="metric-label">Gold per 10g 24K:</span> <span class="metric-value"><a href="https://groww.in/gold-rates/gold-rate-today-in-bangalore">₹1,25,070</a></span></p><p class="metric-line"><span class="metric-label">Nifty 50:</span> <span class="metric-value"><a href="https://groww.in/indices/nifty">25,800.60 (+2.01%)</a></span></p><p class="metric-line"><span class="metric-label">Bitcoin (INR):</span> <span class="metric-value"><a href="https://www.coingecko.com/en/coins/bitcoin/inr">₹56,21,785</a></span></p><p class="metric-line"><span class="metric-label">Bitcoin (USD):</span> <span class="metric-value"><a href="https://coinmarketcap.com/currencies/bitcoin/">$60,753</a></span></p></section>
+<main>
+<section id="src-6" class="wire-section"><div class="eyebrow"><span class="idx">01</span><span>Watchlist</span></div><h2>Watchlist (headlines + summary)</h2><h4>Jio Platforms</h4><div class="wire-row"><a class="headline" href="https://www.multibagg.ai/market-pulse/articles/jio-platforms-valuation-target-upside-cmwrlwvkh003z2mmt0h3cfq52">Jio Platforms Limited valuation leaves little target upside</a><p class="pubdate">22 Nov 2026</p></div><h4>Reliance Intelligence</h4><p class="empty">No items published in the last 24 hours</p><h4>Reliance</h4><div class="wire-row"><ul class="bl"><li>Promoter group led by Mukesh Ambani bought 426,000 more Reliance shares, worth about ₹58 crore at ₹1,364.60 each.</li><li>Reliance stock rose about 14% in a month and went 12 straight sessions without a lower close, its longest streak in 19 years.</li><li>JP Morgan kept an overweight rating with a target price of ₹1,675 for September 2027, citing oil-to-chemicals profit growth.</li><li>The promoter group raised its stake to 50.48% at end-June from about 50% three months earlier, buying worth ₹8,500 crore to ₹9,000 crore.</li><li>Reliance-owned Hathway Cable reported Q2 FY27 revenue up 7.8% year on year to ₹598.59 crore, with a debt-to-equity ratio of 0.00.</li></ul><p class="srcs">Sources: <a href="https://www.billionaires.africa/2026/11/22/indian-billionaire-mukesh-ambanis-family-buys-426-000-reliance-shares-as-stock-jumps-14/">billionaires.africa</a>, <a href="https://www.livemint.com/market/stock-market-news/penny-stock-under-rs-10-with-strong-fundamentals-high-book-value-do-you-own-this-reliance-group-share-target-sl-11795316117383.html">livemint.com</a></p></div><div class="view view-bullish"><p class="view-head">Outlook: <span class="stance">Bullish</span></p><p>Promoter buying and a 12-session winning streak show insider confidence, while JP Morgan sees oil-to-chemicals driving profit growth. The stock sits 18% below its high, so earnings must confirm the run.</p></div><h4>Flipkart</h4><div class="wire-row"><ul class="bl"><li>Flipkart Wholesale cut logistics spend 6% and vehicle deployment 8% across India via FarEye&#x27;s delivery management platform.</li><li>Vehicle idle time fell 10% and return-to-origin rates 1% across 26 stores and one cross-dock, with delivery efficiency unchanged.</li><li>Digital payments integration brought direct savings of 0.25% on cash collected, alongside automated e-way bill generation.</li><li>The network handles over 200,000 orders and about 195,000 vehicle assignments a month, per the companies&#x27; statement.</li><li>An Agra seller alleges 550 boxes of worn-out shoes came back in place of new footwear; Agra Police directed an investigation.</li></ul><p class="srcs">Sources: <a href="https://www.business-standard.com/companies/news/fareye-helps-reduce-e-commerce-major-flipkart-logistics-expenses-by-6-126112200607_1.html">business-standard.com</a>, <a href="https://www.moneycontrol.com/news/business/companies/flipkart-wholesale-cuts-logistics-costs-by-6-vehicle-deployment-by-8-with-fareye-14086384.html">moneycontrol.com</a>, <a href="https://flipit.money/flips/fareye-helps-flipkart-wholesale-cut-logistics-costs-by-6-and-vehicles-by-8">flipit.money</a>, <a href="https://www.indiatoday.in/trending-news/story/flipkart-seller-return-scam-agra-police-probe-550-boxes-old-shoes-3044312-2026-11-22">indiatoday.in</a></p></div><div class="view view-neutral"><p class="view-head">Outlook: <span class="stance">Neutral</span></p><p>Wholesale logistics gains of 6% cost and 8% vehicle cuts are real operating wins, but they cover one B2B arm. The Agra return-fraud complaint keeps seller-trust risk open, splitting the flow.</p></div><h4>Zomato</h4><div class="wire-row"><a class="headline" href="https://www.tradingview.com/news/tradingview:42de3e1734056:0-weekly-recap-q2-earnings-growth-and-blinkit-store-expansion/">Weekly Recap: Q2 earnings growth and Blinkit store expansion</a><p class="pubdate">23 Nov 2026</p></div><div class="wire-row"><a class="headline" href="https://timesofindia.indiatimes.com/etimes/trending/man-orders-cham-cham-on-zomato-finds-hair-on-sweet-internets-baal-mithai-joke-steals-the-show/articleshow/136067587.cms">Man orders Cham Cham on Zomato, finds hair on sweet; internet’s ‘Baal Mithai’ joke steals the show</a><p class="pubdate">22 Nov 2026</p><p>A man’s sweet craving turned into a gross surprise after he allegedly found strands of hair sitting right on top of the cham cham he ordered through</p></div><div class="wire-row"><a class="headline" href="https://www.ndtv.com/offbeat/chandigarh-man-earns-rs-39-000-in-first-month-as-blinkit-delivery-partner-shares-experience-12361626">Chandigarh Man Earns Rs 39,000 In First Month As Blinkit Delivery Partner, Shares Experience</a><p class="pubdate">22 Nov 2026</p></div><div class="wire-row"><a class="headline" href="https://www.moneycontrol.com/news/trends/blinkit-delivery-partner-in-chandigarh-earns-rs-39-000-in-first-month-shares-reality-working-12-hours-14086639.html">Blinkit delivery partner in Chandigarh earns Rs 39,000 in first month, shares reality: &#x27;Working 12...</a><p class="pubdate">22 Nov 2026</p><p>A month into the job, the delivery partner shared details of his 12 to 16-hour shifts, weekend rush and incentive structure. He also explained why Chandigarh’s planned roads make deliveries easier and how customer tips add to his earnings.</p></div><h4>HAL</h4><p class="empty">No items published in the last 24 hours</p><h4>Tejas Networks</h4><div class="wire-row"><ul class="bl"><li>Tejas Networks received a Letter of Intent for a Telecom Manufacturing Zone in Madhya Pradesh, announced by Prashant Jain, Director and Head of Public Policy and Government Affairs.</li><li>The LoI was received in the presence of Union Communications Minister Jyotiraditya M. Scindia and Madhya Pradesh Chief Minister Mohan Yadav.</li><li>Tejas Networks, a Tata Group company, develops and manufactures telecom and networking products for communication service providers, utilities, defence and government customers.</li><li>The company has been expanding its role in India&#x27;s telecom equipment sector amid the government&#x27;s push for domestic manufacturing and the rollout of next-generation communication infrastructure.</li><li>The development supports India&#x27;s domestic telecom equipment ecosystem and the vision of Atmanirbhar Bharat.</li></ul><p class="srcs">Sources: <a href="https://www.communicationstoday.co.in/tejas-networks-receives-loi-for-tmz-in-madhya-pradesh/">communicationstoday.co.in</a></p></div><div class="view view-bullish"><p class="view-head">Outlook: <span class="stance">Bullish</span></p><p>The LoI for a Telecom Manufacturing Zone expands Tejas Networks&#x27; manufacturing footprint with government backing. This strengthens its position in India&#x27;s domestic telecom equipment push.</p></div><h4>Dmart</h4><p class="empty">No items published in the last 24 hours</p><h4>Godigit Insurance</h4><p class="empty">No items published in the last 24 hours</p><h4>Infoedge/Naukri</h4><p class="empty">No items published in the last 24 hours</p><h4>Bitcoin</h4><div class="wire-row"><ul class="bl"><li>Bitcoin fell to about $55,100 on Saturday, its lowest level since September 2024, before rebounding above $60,000.</li><li>Forced liquidations across crypto futures totaled $1.8 billion to $2.7 billion in 24 hours, hitting more than 340,000 traders, mostly leveraged longs.</li><li>US spot Bitcoin ETFs saw net outflows of roughly $1.1 billion to $1.5 billion, with net assets falling to $77 billion from $105 billion in a month.</li><li>Kraken briefly pushed Bitcoin to about $17,000 on its Canadian-dollar pair during heavy selling; the exchange upheld all trades and found no breach.</li><li>Traders price an 88.6% chance of a Fed rate hike at the December 8-9 meeting, and Goldman Sachs warned funds could sell up to $80.6 billion in stocks.</li></ul><p class="srcs">Sources: <a href="https://finance.yahoo.com/markets/commodities/articles/great-cash-grab-crashing-gold-094952865.html">finance.yahoo.com</a>, <a href="https://www.tradingview.com/news/cointelegraph:8169d7dc0094b:0-bitcoin-briefly-drops-to-17k-on-kraken-exchange-upholds-trades/">tradingview.com</a>, <a href="https://investinglive.com/cryptocurrency/bitcoin-analysis-more-volume-but-less-downside-damage-possible-dip/">investinglive.com</a>, <a href="https://cryptobriefing.com/bitcoin-recovers-60k-after-liquidation-wipeout/">cryptobriefing.com</a></p></div><div class="view view-bearish"><p class="view-head">Outlook: <span class="stance">Bearish</span></p><p>Rate-hike odds at 88.6% and $1.1-1.5 billion of ETF outflows keep pressure on Bitcoin. The rebound from $55,100 came from forced selling exhausting, not fresh demand.</p></div><h4>Gold</h4><div class="wire-row"><ul class="bl"><li>Gold fell 8.9% last week to close near $3,538 an ounce, its lowest in 14 months and more than a third below January&#x27;s record above $5,600.</li><li>The dollar rose for a fourth straight week to a 19-week high, and markets now price about an 80% chance of a 25-basis-point Fed rate hike in December.</li><li>In India, 24K gold averaged ₹12,508 per gram on 23 November, with 22K at ₹11,465 and 18K at ₹9,381.</li><li>Egypt&#x27;s 21-karat gold fell over 8.4% in a week to EGP 5,445 per gram, its lowest in a year, tracking the global ounce.</li><li>Gold&#x27;s three-month correlation with the S&amp;P 500 has risen to 0.35, and bullion is down about 18% in 2026, its biggest annual drop since 2013&#x27;s 28%.</li></ul><p class="srcs">Sources: <a href="https://www.kotakneo.com/gold-rates/">kotakneo.com</a>, <a href="https://dailynewsegypt.com/2026/11/22/egypts-gold-prices-fall-egp-500-in-one-week-amid-global-market-losses/">dailynewsegypt.com</a>, <a href="https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-deepening-selloff-nears-major-support-1646229">fxempire.com</a>, <a href="https://beincrypto.com/peter-schiff-gold-crash-2008-bullish/">beincrypto.com</a></p></div><div class="view view-bearish"><p class="view-head">Outlook: <span class="stance">Bearish</span></p><p>A stronger dollar, an 80% priced December hike and rising real yields are pulling gold down and breaking its hedge role. Central-bank buying and seasonal demand are support, not yet a floor.</p></div></section><section id="src-8" class="wire-section"><div class="eyebrow"><span class="idx">02</span><span>AI News</span></div><h2>AI News</h2><div class="wire-row"><span class="chip">No posts from the AI labs or the newsletter in the last 24 hours</span><p class="headline"></p></div></section><section id="src-2" class="wire-section"><div class="eyebrow"><span class="idx">03</span><span>Editorials</span></div><h2>The Hindu - Editorials</h2><article class="sub-article"><h3>Core accountability: On core sector performance</h3><p class="pubdate">22 Nov 2026</p><p class="byline"><a href="https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece">https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece</a></p><ul class="wire-list"><li>India&#x27;s core sector grew 10.9% in October 2026, a series high, but the index had risen just 0.8% in October 2025.</li><li>Coal grew 23% and electricity nearly 22% in October 2026, after contracting 8.5% and near 7% a year earlier.</li><li>Construction-linked sectors show genuine growth: iron ore rose 26.4%, cement 15.4% and steel 7.3% in October 2026.</li><li>Crude oil fell 4.1% for a 22nd straight month and natural gas 7.6%, a series worst and 28th straight contraction.</li><li>The newspaper asks the Petroleum Ministry to explain to Parliament in December why India&#x27;s oil and gas output keeps falling.</li></ul></article><article class="sub-article"><h3>Paper tiger: On the Green India Mission</h3><p class="pubdate">22 Nov 2026</p><p class="byline"><a href="https://www.thehindu.com/opinion/editorial/paper-tiger/article71731271.ece">https://www.thehindu.com/opinion/editorial/paper-tiger/article71731271.ece</a></p><ul class="wire-list"><li>The Public Accounts Committee on November 19 criticised the Environment Ministry for the Green India Mission&#x27;s virtual failure and for not issuing implementation guidelines for its revised form.</li><li>The original 10-year vision sought to expand forest and tree cover by 5 million hectares each, improve livelihoods for 3 million households, and sequester up to 60 million tonnes of carbon dioxide a year, with an outlay of ₹46,000 crore.</li><li>In 2014 the Cabinet approved ₹13,000 crore for 1.4 mha each of the first two objectives by 2018, but 81.5% was to come from CAMPA, NAP, and MGNREGS funds that never materialised.</li><li>Programmes to improve forest quality and forest cover fell short by 91.8% and 97.5% respectively against the 2014 target, as the Ministry built a large programme around resources it could not control.</li><li>The PAC&#x27;s demand for an implementation timetable is insufficient; the Union government must dedicate adequate resources and formalise responsibility-sharing so climate action is timely.</li></ul></article></section><section id="src-5" class="wire-section"><div class="eyebrow"><span class="idx">04</span><span>Business</span></div><h2>The Hindu - Business (headlines + summary)</h2><h4 class="theme-title">Trade and tariffs</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece">Congress attacks government over SEBI’s proposal to remove disclosure norms for FPIs</a><p class="pubdate">22 Nov 2026</p><ul class="bl"><li>SEBI proposed on November 22, 2026, to review the additional disclosure framework for Foreign Portfolio Investors, which since August 2023 required FPIs with over 50% of Indian equity in one corporate group to disclose ultimate ownership.</li><li>Congress&#x27;s Jairam Ramesh said the move reopens a loophole and cannot reverse the ₹5.61 lakh crore that FPIs have pulled out of Indian equities over the past two years.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/news/national/india-eu-trade-pact-likely-to-be-signed-on-december-16/article71731223.ece">India-EU trade pact likely to be signed on December 16</a><p class="pubdate">22 Nov 2026</p><ul class="bl"><li>India and the 27-nation EU are likely to sign their free trade agreement on December 16, after concluding negotiations on January 27.</li><li>The deal gives duty-free access to 93% of Indian shipments to the EU and covers a market of about 2 billion people.</li></ul></div><h4 class="theme-title">Commodity prices</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/must-balance-economic-patriotism-with-cultural-heritage-gjc-on-pm-modis-call-to-stop-gold-purchases/article71423466.ece">Must balance ‘economic patriotism’ with cultural heritage: GJC on PM Modi’s call to stop gold purchases</a><p class="pubdate">22 Nov 2026</p><ul class="bl"><li>The All India Gem &amp; Jewellery Domestic Council welcomed PM Modi&#x27;s call to buy local and cut gold imports, but said jewellery demand is tied to culture and weddings.</li><li>GJC chairman Rajesh Rokde said the sector contributes nearly 7-8% to the economy and is a ₹10 lakh crore industry supporting millions of livelihoods.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/gold-copper-aluminium-dive-to-at-least-7-month-lows/article71729065.ece">Gold, copper, aluminium dive to at least 7-month lows</a><p class="pubdate">22 Nov 2026</p><ul class="bl"><li>Gold fell to $3,521.38 per troy ounce on the LBMA, its lowest since September 2025, as traders price a 95% chance of a Fed rate hike next month.</li><li>Copper hit an eight-month low of $12,230.40 per metric tonne on the LME and aluminium an almost one-year low of $2,824.5, on weak industrial demand and easing supply concerns.</li></ul></div><h4 class="theme-title">Company deals and results</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Industry/tata-steel-approves-sale-of-tubes-pipes-business-tata-steel-colors-to-apollo-tubes-for-28000-crore/article71733189.ece">Tata Steel approves sale of tubes &amp; pipes business, Tata Steel Colors to Apollo Tubes for ₹28,000 crore</a><p class="pubdate">23 Nov 2026</p><ul class="bl"><li>Tata Steel&#x27;s board approved selling its steel tubes and pipes business to APL Apollo Tubes for up to ₹11,700 crore on a slump sale basis.</li><li>The board also approved selling its 100% stake in Tata Steel Colors to APL Apollo for ₹16,300 crore, with both deals subject to regulatory approvals.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/news/national/west-bengal/adani-group-forays-into-west-bengals-power-sector-trinamool-calls-for-transparency/article71730885.ece">Adani Group forays into West Bengal’s power sector, Trinamool calls for transparency</a><p class="pubdate">22 Nov 2026</p><ul class="bl"><li>Adani Energy Solutions won a letter of award from WBSEDCL to supply 1,750 MW of round-the-clock renewable power for 25 years, with a 750 MW greenshoe option that could raise the total to 2,500 MW.</li><li>Supply starts July 1, 2028 for 1,750 MW and April 1, 2029 for the optional 750 MW, while Trinamool Congress demanded transparency in the long-term contract.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Industry/affluent-indians-buy-bigger-protection/article71730717.ece">Affluent Indians buy bigger protection</a><p class="pubdate">22 Nov 2026</p><ul class="bl"><li>HNI term cover bookings at Policybazaar have doubled since April 2023, with the average sum assured up 30%.</li><li>Almost 50% of these buyers are under 35, and they favor protection-led plans over return-of-premium options.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Industry/reliance-brands-fy26-revenue-up-38-to-33909-crore-loss-narrows-to-137-crore/article71730681.ece">Reliance Brands FY26 revenue up 3.8% to ₹3,390.9 crore; loss narrows to ₹137 crore</a><p class="pubdate">22 Nov 2026</p><ul class="bl"><li>Reliance Brands reported revenue of ₹3,390.89 crore in FY26, up 3.77% from ₹3,267.66 crore in FY25, per an RoC filing.</li><li>The company&#x27;s loss narrowed to ₹137.04 crore from ₹233.79 crore, and it operated 1,085 points of sale across India as of March 31, 2026.</li></ul></div><h4 class="theme-title">Auto and insurance</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Industry/maruti-suzuki-hikes-select-model-prices-amid-cost-pressures/article71730848.ece">Maruti Suzuki hikes select model prices amid cost pressures</a><p class="pubdate">22 Nov 2026</p><ul class="bl"><li>Maruti Suzuki raised prices of select models from November 22, 2026, with an estimated volume-weighted average increase of about 0.31%.</li><li>The hike follows three increases in the first half of FY27 totalling just over 1%, after Q2 net profit fell 26.36% to ₹2,466.1 crore on higher input costs.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Industry/harvesting-gains-tax-efficiently/article71730736.ece">Harvesting gains tax efficiently</a><p class="pubdate">22 Nov 2026</p><ul class="bl"><li>The Income Tax Act exempts up to ₹1.25 lakh a year in long-term capital gains from equity investments.</li><li>Investors face a trade-off: holding gains risks a market crash, while selling all gains risks missing the goal amount.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Industry/unbundling-motor-cover-lets-spread-the-joy/article71730682.ece">Unbundling motor cover: let’s spread the joy!</a><p class="pubdate">22 Nov 2026</p><ul class="bl"><li>On a Supreme Court direction, IRDAI issued a circular on November 2 splitting motor insurance into four layers.</li><li>The change means terms like bumper-to-bumper cover no longer spell out exactly what a policy includes.</li></ul></div><h4 class="theme-title">Economy and policy</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece">Core accountability: On core sector performance</a><p class="pubdate">22 Nov 2026</p><ul class="bl"><li>India&#x27;s core industries grew 10.9% in October 2026, a series high, but October 2025 growth was just 0.8%, so a low base effect inflated the figure.</li><li>Crude oil shrank 4.1% for a 22nd straight month and natural gas fell 7.6%, a series worst and 28th straight contraction, keeping India dependent on imported fuel.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece">Rampur’s Lavi Fair: Storytelling through 300 years of Himalayan trade and tradition</a><p class="pubdate">22 Nov 2026</p><ul class="bl"><li>The Lavi Fair in Rampur Bushahr, Shimla district, has traded Himalayan wool and woollen goods for about 300 years, and its name is linked to &quot;Loe&quot;, a sheet of woollen cloth.</li><li>Woollen pattus and shawls remain central to the fair, with families buying shawls for weddings and trousseaux, as the author recalls receiving a black sheep wool and pashmina shawl for her own wedding.</li></ul></div><h4 class="theme-title">Other</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Industry/healthcare-ai-hospitals-lack-capacity-to-measure-real-world-patient-outcomes-warns-french-expert/article71723894.ece">Healthcare AI: hospitals lack capacity to measure real-world patient outcomes, warns French expert</a><p class="pubdate">22 Nov 2026</p><ul class="bl"><li>Emmanuel Bacry, scientific director of France&#x27;s Health Data Hub, said only about six or seven hospitals worldwide can evaluate medical devices deployed in their systems.</li><li>He cited a rules-based ICU kidney failure alert that was linked to a doubling of deaths at two of six US hospitals in 2022, and said about 70% of healthcare AI training data comes from male, white, Western populations.</li></ul></div></section><section id="src-3" class="wire-section"><div class="eyebrow"><span class="idx">05</span><span>World</span></div><h2>The Hindu - International (headlines + summary)</h2><h4 class="theme-title">US immigration enforcement</h4><div class="wire-row"><p class="headline">Father, daughter detained by ICE at Seattle airport were travelling to family baptism, says lawyer</p><p class="pubdate">23 Nov 2026</p><ul class="bl"><li>ICE officers in unmarked jackets detained Ricardo Larrondo Mendoza and his daughter on a Seattle-Tacoma jet bridge on November 21, delaying the Alaska Airlines flight to Los Angeles.</li><li>Their lawyer says the two, in the U.S. since 2015 and seeking asylum, were headed to a California baptism and have no criminal record; ICE says Mendoza overstayed his visa.</li></ul></div><h4 class="theme-title">US shootings</h4><div class="wire-row"><p class="headline">3 killed and 1 wounded in shooting at Ohio baby shower; 1 man in custody, police say</p><p class="pubdate">23 Nov 2026</p><ul class="bl"><li>Three people were killed and one was shot in the leg at a baby shower Saturday evening at Pandora&#x27;s Magical Events Venue in Parma, Ohio, about 10 miles south of Cleveland.</li><li>A 29-year-old man is in custody but not charged as detectives weigh whether he was the aggressor or acted in self-defence, and a 19-year-old suspected shooter was among the dead.</li></ul></div><h4 class="theme-title">Climate talks</h4><div class="wire-row"><p class="headline">COP31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out</p><p class="pubdate">23 Nov 2026</p><ul class="bl"><li>Countries at COP31 in Antalya, Turkiye failed to reach any consensus agreement on Sunday after running a record 48 hours into overtime.</li><li>The EU, backed by about 130 countries, rejected President Murat Kurum&#x27;s cover text for omitting explicit language on moving away from fossil fuels, while India, China and Saudi Arabia supported it.</li></ul></div><h4 class="theme-title">Russia Ukraine conflict</h4><div class="wire-row"><p class="headline">Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say</p><p class="pubdate">23 Nov 2026</p><ul class="bl"><li>Suspected Ukrainian sea drones severely damaged the Russian corvette Merkury at Benghazi Naval Base in eastern Libya on November 22, igniting a fire that was later extinguished.</li><li>Two of at least six drones hit the ship, which had docked to refuel under a Russia deal with eastern Libya&#x27;s government, and Libya and Russia opened a joint investigation.</li></ul></div></section><section id="src-1" class="wire-section"><div class="eyebrow"><span class="idx">06</span><span>ET Dispatch</span></div><h2>ET Morning Dispatch</h2><p class="empty">[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]</p></section><section id="src-4" class="wire-section"><div class="eyebrow"><span class="idx">07</span><span>Funding</span></div><h2>Entrackr Weekly Funding Report</h2><article class="sub-article"><h3>Dreamteam</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Raised $53 million in a funding round with participation from Together Fund, Accel and Premji Invest.</li><li>The round was one of six growth-stage deals this week.</li><li>AI-native CRM startup.</li></ul></article><article class="sub-article"><h3>Nexon Omniverse</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Raised ₹485 crore (approximately $52 million) in a Series E funding round.</li><li>The round was one of six growth-stage deals this week.</li><li>Parent company of value fashion retailer Style Union.</li></ul></article><article class="sub-article"><h3>Boba Bhai</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Raised $18 million in a funding round.</li><li>The round was one of six growth-stage deals this week.</li><li>Bubble tea and Korean street food brand.</li></ul></article><article class="sub-article"><h3>Botsync</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Raised $11 million in a Series B funding round led by IvyCap Ventures.</li><li>The round was one of six growth-stage deals this week.</li><li>Robotics company.</li></ul></article><article class="sub-article"><h3>InPrime Finserv</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Raised ₹101 crore (approximately $10.7 million) in a Series B funding round led by FMO.</li><li>The round was one of six growth-stage deals this week.</li><li>The report does not describe what it does.</li></ul></article><article class="sub-article"><h3>Humyn Labs</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Raised $47 million in a Series A round comprising equity and debt.</li><li>The round includes $26 million in equity and $21 million in venture debt.</li><li>The report does not describe what it does.</li></ul></article><article class="sub-article"><h3>Bharat Semi</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Raised $24 million in a seed funding round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.</li><li>The round was one of 17 early-stage deals this week.</li><li>Semiconductor startup.</li></ul></article><article class="sub-article"><h3>Henfruit</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Raised $15 million in a Series A funding round led by Lok Capital.</li><li>The round was one of 17 early-stage deals this week.</li><li>Branded egg company.</li></ul></article><article class="sub-article"><h3>Shree Anandhaas</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Raised ₹110 crore in a fresh funding round led by new investor Ayra Ventures.</li><li>The round was one of 17 early-stage deals this week.</li><li>Coimbatore-based sweets and snacks chain.</li></ul></article><article class="sub-article"><h3>Fatehpuria Hygiene</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Raised ₹100 crore in its maiden equity funding round led by investor Madhu Kela.</li><li>The round was one of 17 early-stage deals this week.</li><li>Trade, supply chain and fulfilment company.</li></ul></article><article class="sub-article"><h3>CarDekho Group</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Appointed Sudhir Pai as CEO of its auto classifieds business and group strategy head.</li><li>He will oversee platforms including CarDekho.com, ZigWheels and BikeDekho.</li><li>Operates auto classifieds platforms including CarDekho.com, ZigWheels and BikeDekho.</li></ul></article><article class="sub-article"><h3>Medi Assist Healthcare Services</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Appointed Aruna Vaidyanathan, formerly Global Head of Growth Marketing at TCS.</li><li>The appointment was one of five key hirings this week.</li><li>The report does not describe what it does.</li></ul></article><article class="sub-article"><h3>Naxatra Labs</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Appointed Naveen Deepak Veeramaneni as its Chief Product Officer.</li><li>The appointment was one of five key hirings this week.</li><li>Indian deep-tech company.</li></ul></article><article class="sub-article"><h3>Peak XV Partners</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Kriti Gupta, vice president, has quit the venture capital firm after five years to join Goodwater Capital.</li><li>The departure was one of two exits this week.</li><li>Venture capital firm.</li></ul></article><article class="sub-article"><h3>PB Fintech</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Co-founder Alok Bansal will step down as Executive Vice Chairman and Whole Time Director on March 31, 2027.</li><li>He will continue on the company&#x27;s board as a Non-Executive, Non-Independent Director from April 1, 2027.</li><li>The report does not describe what it does.</li></ul></article><article class="sub-article"><h3>Oister Global</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Launched a growth-stage deep tech fund with a target corpus of ₹400 crore and a greenshoe option of ₹200 crore.</li><li>The fund&#x27;s potential size is ₹600 crore.</li><li>India-focused private markets asset manager.</li></ul></article><article class="sub-article"><h3>Fractal Analytics</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Is in discussions with 20–25 AI startups as it looks to expand its capabilities across healthcare, agentic AI and AI engineering.</li><li>Is open to acquisitions worth up to ₹1,000 crore, with a preferred deal size of $50 million to $100 million.</li><li>The report does not describe what it does.</li></ul></article><article class="sub-article"><h3>OpenAI</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Appointed Pragya Misra to lead business development across India and South Asia.</li><li>Misra joined OpenAI in 2024 as its first employee in India.</li><li>The report does not describe what it does.</li></ul></article><article class="sub-article"><h3>PhonePe</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Partnered with Kerala Startup Mission to support startups through digital payment infrastructure, onboarding assistance and technical support.</li><li>The partnership will also include workshops and knowledge-sharing initiatives.</li><li>The report does not describe what it does.</li></ul></article><article class="sub-article"><h3>Drip Capital</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Signed an MoU with Bihar&#x27;s Department of Industries to facilitate up to ₹5,000 crore in trade finance for MSME exporters over five years.</li><li>The partnership will provide collateral-free working capital and connect local manufacturers with domestic and international buyers.</li><li>The report does not describe what it does.</li></ul></article><article class="sub-article"><h3>Rediff.com India</h3><p class="pubdate">Week of Nov 16 to Nov 21</p><p class="byline"><a href="https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487">https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</a></p><ul class="wire-list"><li>Filed updated draft IPO papers proposing a fresh issue of equity shares worth ₹600 crore, without an offer-for-sale component.</li><li>The company operates consumer internet and enterprise communication businesses.</li><li>Operates consumer internet and enterprise communication businesses.</li></ul></article></section><section id="src-7" class="wire-section"><div class="eyebrow"><span class="idx">08</span><span>Movers</span></div><h2>Dynamic Watchlist (headlines + summary)</h2><h3 class="subsection-title">Top Gainers</h3><p class="empty">Could not fetch movers for this list</p><h3 class="subsection-title">Top Losers</h3><p class="empty">Could not fetch movers for this list</p></section>
+</main>
+<footer>Compiled 23 Nov 2026, 02:13 &middot; ET Tech &middot; The Hindu &middot; Entrackr</footer>
+<script type="application/json" id="digest-markdown">"# Morning Wire \u2014 Monday, 23 November 2026\n\n## Metrics\n\nNIFTY PE: 21.02 (20 Nov 2026)\nGold per 10g 24K: \u20b91,25,070\nNifty 50: 25,800.60 (+2.01%)\nBitcoin (INR): \u20b956,21,785\nBitcoin (USD): $60,753\n\n## Watchlist (headlines + summary)\n\n## Jio Platforms\n\n- Jio Platforms Limited valuation leaves little target upside\n  22 Nov 2026\n\n## Reliance Intelligence\n\nNo items published in the last 24 hours\n\n## Reliance\n\n- Promoter group led by Mukesh Ambani bought 426,000 more Reliance shares, worth about \u20b958 crore at \u20b91,364.60 each.\n- Reliance stock rose about 14% in a month and went 12 straight sessions without a lower close, its longest streak in 19 years.\n- JP Morgan kept an overweight rating with a target price of \u20b91,675 for September 2027, citing oil-to-chemicals profit growth.\n- The promoter group raised its stake to 50.48% at end-June from about 50% three months earlier, buying worth \u20b98,500 crore to \u20b99,000 crore.\n- Reliance-owned Hathway Cable reported Q2 FY27 revenue up 7.8% year on year to \u20b9598.59 crore, with a debt-to-equity ratio of 0.00.\n\nOutlook: Bullish. Promoter buying and a 12-session winning streak show insider confidence, while JP Morgan sees oil-to-chemicals driving profit growth. The stock sits 18% below its high, so earnings must confirm the run.\n\n## Flipkart\n\n- Flipkart Wholesale cut logistics spend 6% and vehicle deployment 8% across India via FarEye's delivery management platform.\n- Vehicle idle time fell 10% and return-to-origin rates 1% across 26 stores and one cross-dock, with delivery efficiency unchanged.\n- Digital payments integration brought direct savings of 0.25% on cash collected, alongside automated e-way bill generation.\n- The network handles over 200,000 orders and about 195,000 vehicle assignments a month, per the companies' statement.\n- An Agra seller alleges 550 boxes of worn-out shoes came back in place of new footwear; Agra Police directed an investigation.\n\nOutlook: Neutral. Wholesale logistics gains of 6% cost and 8% vehicle cuts are real operating wins, but they cover one B2B arm. The Agra return-fraud complaint keeps seller-trust risk open, splitting the flow.\n\n## Zomato\n\n- Weekly Recap: Q2 earnings growth and Blinkit store expansion\n  23 Nov 2026\n\n- Man orders Cham Cham on Zomato, finds hair on sweet; internet\u2019s \u2018Baal Mithai\u2019 joke steals the show\n  22 Nov 2026\n  A man\u2019s sweet craving turned into a gross surprise after he allegedly found strands of hair sitting right on top of the cham cham he ordered through\n\n- Chandigarh Man Earns Rs 39,000 In First Month As Blinkit Delivery Partner, Shares Experience\n  22 Nov 2026\n\n- Blinkit delivery partner in Chandigarh earns Rs 39,000 in first month, shares reality: 'Working 12...\n  22 Nov 2026\n  A month into the job, the delivery partner shared details of his 12 to 16-hour shifts, weekend rush and incentive structure. He also explained why Chandigarh\u2019s planned roads make deliveries easier and how customer tips add to his earnings.\n\n## HAL\n\nNo items published in the last 24 hours\n\n## Tejas Networks\n\n- Tejas Networks received a Letter of Intent for a Telecom Manufacturing Zone in Madhya Pradesh, announced by Prashant Jain, Director and Head of Public Policy and Government Affairs.\n- The LoI was received in the presence of Union Communications Minister Jyotiraditya M. Scindia and Madhya Pradesh Chief Minister Mohan Yadav.\n- Tejas Networks, a Tata Group company, develops and manufactures telecom and networking products for communication service providers, utilities, defence and government customers.\n- The company has been expanding its role in India's telecom equipment sector amid the government's push for domestic manufacturing and the rollout of next-generation communication infrastructure.\n- The development supports India's domestic telecom equipment ecosystem and the vision of Atmanirbhar Bharat.\n\nOutlook: Bullish. The LoI for a Telecom Manufacturing Zone expands Tejas Networks' manufacturing footprint with government backing. This strengthens its position in India's domestic telecom equipment push.\n\n## Dmart\n\nNo items published in the last 24 hours\n\n## Godigit Insurance\n\nNo items published in the last 24 hours\n\n## Infoedge/Naukri\n\nNo items published in the last 24 hours\n\n## Bitcoin\n\n- Bitcoin fell to about $55,100 on Saturday, its lowest level since September 2024, before rebounding above $60,000.\n- Forced liquidations across crypto futures totaled $1.8 billion to $2.7 billion in 24 hours, hitting more than 340,000 traders, mostly leveraged longs.\n- US spot Bitcoin ETFs saw net outflows of roughly $1.1 billion to $1.5 billion, with net assets falling to $77 billion from $105 billion in a month.\n- Kraken briefly pushed Bitcoin to about $17,000 on its Canadian-dollar pair during heavy selling; the exchange upheld all trades and found no breach.\n- Traders price an 88.6% chance of a Fed rate hike at the December 8-9 meeting, and Goldman Sachs warned funds could sell up to $80.6 billion in stocks.\n\nOutlook: Bearish. Rate-hike odds at 88.6% and $1.1-1.5 billion of ETF outflows keep pressure on Bitcoin. The rebound from $55,100 came from forced selling exhausting, not fresh demand.\n\n## Gold\n\n- Gold fell 8.9% last week to close near $3,538 an ounce, its lowest in 14 months and more than a third below January's record above $5,600.\n- The dollar rose for a fourth straight week to a 19-week high, and markets now price about an 80% chance of a 25-basis-point Fed rate hike in December.\n- In India, 24K gold averaged \u20b912,508 per gram on 23 November, with 22K at \u20b911,465 and 18K at \u20b99,381.\n- Egypt's 21-karat gold fell over 8.4% in a week to EGP 5,445 per gram, its lowest in a year, tracking the global ounce.\n- Gold's three-month correlation with the S&P 500 has risen to 0.35, and bullion is down about 18% in 2026, its biggest annual drop since 2013's 28%.\n\nOutlook: Bearish. A stronger dollar, an 80% priced December hike and rising real yields are pulling gold down and breaking its hedge role. Central-bank buying and seasonal demand are support, not yet a floor.\n\n## AI News\n\n- [No posts from the AI labs or the newsletter in the last 24 hours] \n\n## The Hindu - Editorials\n\n## Core accountability: On core sector performance\n\n22 Nov 2026\n\n- India's core sector grew 10.9% in October 2026, a series high, but the index had risen just 0.8% in October 2025.\n- Coal grew 23% and electricity nearly 22% in October 2026, after contracting 8.5% and near 7% a year earlier.\n- Construction-linked sectors show genuine growth: iron ore rose 26.4%, cement 15.4% and steel 7.3% in October 2026.\n- Crude oil fell 4.1% for a 22nd straight month and natural gas 7.6%, a series worst and 28th straight contraction.\n- The newspaper asks the Petroleum Ministry to explain to Parliament in December why India's oil and gas output keeps falling.\n\n## Paper tiger: On the Green India Mission\n\n22 Nov 2026\n\n- The Public Accounts Committee on November 19 criticised the Environment Ministry for the Green India Mission's virtual failure and for not issuing implementation guidelines for its revised form.\n- The original 10-year vision sought to expand forest and tree cover by 5 million hectares each, improve livelihoods for 3 million households, and sequester up to 60 million tonnes of carbon dioxide a year, with an outlay of \u20b946,000 crore.\n- In 2014 the Cabinet approved \u20b913,000 crore for 1.4 mha each of the first two objectives by 2018, but 81.5% was to come from CAMPA, NAP, and MGNREGS funds that never materialised.\n- Programmes to improve forest quality and forest cover fell short by 91.8% and 97.5% respectively against the 2014 target, as the Ministry built a large programme around resources it could not control.\n- The PAC's demand for an implementation timetable is insufficient; the Union government must dedicate adequate resources and formalise responsibility-sharing so climate action is timely.\n\n## The Hindu - Business (headlines + summary)\n\n## Trade and tariffs\n\n- Congress attacks government over SEBI\u2019s proposal to remove disclosure norms for FPIs\n  22 Nov 2026\n  - SEBI proposed on November 22, 2026, to review the additional disclosure framework for Foreign Portfolio Investors, which since August 2023 required FPIs with over 50% of Indian equity in one corporate group to disclose ultimate ownership.\n  - Congress's Jairam Ramesh said the move reopens a loophole and cannot reverse the \u20b95.61 lakh crore that FPIs have pulled out of Indian equities over the past two years.\n\n- India-EU trade pact likely to be signed on December 16\n  22 Nov 2026\n  - India and the 27-nation EU are likely to sign their free trade agreement on December 16, after concluding negotiations on January 27.\n  - The deal gives duty-free access to 93% of Indian shipments to the EU and covers a market of about 2 billion people.\n\n## Commodity prices\n\n- Must balance \u2018economic patriotism\u2019 with cultural heritage: GJC on PM Modi\u2019s call to stop gold purchases\n  22 Nov 2026\n  - The All India Gem & Jewellery Domestic Council welcomed PM Modi's call to buy local and cut gold imports, but said jewellery demand is tied to culture and weddings.\n  - GJC chairman Rajesh Rokde said the sector contributes nearly 7-8% to the economy and is a \u20b910 lakh crore industry supporting millions of livelihoods.\n\n- Gold, copper, aluminium dive to at least 7-month lows\n  22 Nov 2026\n  - Gold fell to $3,521.38 per troy ounce on the LBMA, its lowest since September 2025, as traders price a 95% chance of a Fed rate hike next month.\n  - Copper hit an eight-month low of $12,230.40 per metric tonne on the LME and aluminium an almost one-year low of $2,824.5, on weak industrial demand and easing supply concerns.\n\n## Company deals and results\n\n- Tata Steel approves sale of tubes & pipes business, Tata Steel Colors to Apollo Tubes for \u20b928,000 crore\n  23 Nov 2026\n  - Tata Steel's board approved selling its steel tubes and pipes business to APL Apollo Tubes for up to \u20b911,700 crore on a slump sale basis.\n  - The board also approved selling its 100% stake in Tata Steel Colors to APL Apollo for \u20b916,300 crore, with both deals subject to regulatory approvals.\n\n- Adani Group forays into West Bengal\u2019s power sector, Trinamool calls for transparency\n  22 Nov 2026\n  - Adani Energy Solutions won a letter of award from WBSEDCL to supply 1,750 MW of round-the-clock renewable power for 25 years, with a 750 MW greenshoe option that could raise the total to 2,500 MW.\n  - Supply starts July 1, 2028 for 1,750 MW and April 1, 2029 for the optional 750 MW, while Trinamool Congress demanded transparency in the long-term contract.\n\n- Affluent Indians buy bigger protection\n  22 Nov 2026\n  - HNI term cover bookings at Policybazaar have doubled since April 2023, with the average sum assured up 30%.\n  - Almost 50% of these buyers are under 35, and they favor protection-led plans over return-of-premium options.\n\n- Reliance Brands FY26 revenue up 3.8% to \u20b93,390.9 crore; loss narrows to \u20b9137 crore\n  22 Nov 2026\n  - Reliance Brands reported revenue of \u20b93,390.89 crore in FY26, up 3.77% from \u20b93,267.66 crore in FY25, per an RoC filing.\n  - The company's loss narrowed to \u20b9137.04 crore from \u20b9233.79 crore, and it operated 1,085 points of sale across India as of March 31, 2026.\n\n## Auto and insurance\n\n- Maruti Suzuki hikes select model prices amid cost pressures\n  22 Nov 2026\n  - Maruti Suzuki raised prices of select models from November 22, 2026, with an estimated volume-weighted average increase of about 0.31%.\n  - The hike follows three increases in the first half of FY27 totalling just over 1%, after Q2 net profit fell 26.36% to \u20b92,466.1 crore on higher input costs.\n\n- Harvesting gains tax efficiently\n  22 Nov 2026\n  - The Income Tax Act exempts up to \u20b91.25 lakh a year in long-term capital gains from equity investments.\n  - Investors face a trade-off: holding gains risks a market crash, while selling all gains risks missing the goal amount.\n\n- Unbundling motor cover: let\u2019s spread the joy!\n  22 Nov 2026\n  - On a Supreme Court direction, IRDAI issued a circular on November 2 splitting motor insurance into four layers.\n  - The change means terms like bumper-to-bumper cover no longer spell out exactly what a policy includes.\n\n## Economy and policy\n\n- Core accountability: On core sector performance\n  22 Nov 2026\n  - India's core industries grew 10.9% in October 2026, a series high, but October 2025 growth was just 0.8%, so a low base effect inflated the figure.\n  - Crude oil shrank 4.1% for a 22nd straight month and natural gas fell 7.6%, a series worst and 28th straight contraction, keeping India dependent on imported fuel.\n\n- Rampur\u2019s Lavi Fair: Storytelling through 300 years of Himalayan trade and tradition\n  22 Nov 2026\n  - The Lavi Fair in Rampur Bushahr, Shimla district, has traded Himalayan wool and woollen goods for about 300 years, and its name is linked to \"Loe\", a sheet of woollen cloth.\n  - Woollen pattus and shawls remain central to the fair, with families buying shawls for weddings and trousseaux, as the author recalls receiving a black sheep wool and pashmina shawl for her own wedding.\n\n## Other\n\n- Healthcare AI: hospitals lack capacity to measure real-world patient outcomes, warns French expert\n  22 Nov 2026\n  - Emmanuel Bacry, scientific director of France's Health Data Hub, said only about six or seven hospitals worldwide can evaluate medical devices deployed in their systems.\n  - He cited a rules-based ICU kidney failure alert that was linked to a doubling of deaths at two of six US hospitals in 2022, and said about 70% of healthcare AI training data comes from male, white, Western populations.\n\n## The Hindu - International (headlines + summary)\n\n## US immigration enforcement\n\n- Father, daughter detained by ICE at Seattle airport were travelling to family baptism, says lawyer\n  23 Nov 2026\n  - ICE officers in unmarked jackets detained Ricardo Larrondo Mendoza and his daughter on a Seattle-Tacoma jet bridge on November 21, delaying the Alaska Airlines flight to Los Angeles.\n  - Their lawyer says the two, in the U.S. since 2015 and seeking asylum, were headed to a California baptism and have no criminal record; ICE says Mendoza overstayed his visa.\n\n## US shootings\n\n- 3 killed and 1 wounded in shooting at Ohio baby shower; 1 man in custody, police say\n  23 Nov 2026\n  - Three people were killed and one was shot in the leg at a baby shower Saturday evening at Pandora's Magical Events Venue in Parma, Ohio, about 10 miles south of Cleveland.\n  - A 29-year-old man is in custody but not charged as detectives weigh whether he was the aggressor or acted in self-defence, and a 19-year-old suspected shooter was among the dead.\n\n## Climate talks\n\n- COP31 talks fail as EU, others reject any climate deal without language on a fossil fuel phase-out\n  23 Nov 2026\n  - Countries at COP31 in Antalya, Turkiye failed to reach any consensus agreement on Sunday after running a record 48 hours into overtime.\n  - The EU, backed by about 130 countries, rejected President Murat Kurum's cover text for omitting explicit language on moving away from fossil fuels, while India, China and Saudi Arabia supported it.\n\n## Russia Ukraine conflict\n\n- Suspected Ukrainian sea drones hit Russian warship at Benghazi naval base, Libyan officials say\n  23 Nov 2026\n  - Suspected Ukrainian sea drones severely damaged the Russian corvette Merkury at Benghazi Naval Base in eastern Libya on November 22, igniting a fire that was later extinguished.\n  - Two of at least six drones hit the ship, which had docked to refuel under a Russia deal with eastern Libya's government, and Libya and Russia opened a joint investigation.\n\n## ET Morning Dispatch\n\n[Not fetched this run \u2014 checked again at the 08:45 IST run, by when this is normally out]\n\n## Entrackr Weekly Funding Report\n\n## Dreamteam\n\nWeek of Nov 16 to Nov 21\n\n- Raised $53 million in a funding round with participation from Together Fund, Accel and Premji Invest.\n- The round was one of six growth-stage deals this week.\n- AI-native CRM startup.\n\n## Nexon Omniverse\n\nWeek of Nov 16 to Nov 21\n\n- Raised \u20b9485 crore (approximately $52 million) in a Series E funding round.\n- The round was one of six growth-stage deals this week.\n- Parent company of value fashion retailer Style Union.\n\n## Boba Bhai\n\nWeek of Nov 16 to Nov 21\n\n- Raised $18 million in a funding round.\n- The round was one of six growth-stage deals this week.\n- Bubble tea and Korean street food brand.\n\n## Botsync\n\nWeek of Nov 16 to Nov 21\n\n- Raised $11 million in a Series B funding round led by IvyCap Ventures.\n- The round was one of six growth-stage deals this week.\n- Robotics company.\n\n## InPrime Finserv\n\nWeek of Nov 16 to Nov 21\n\n- Raised \u20b9101 crore (approximately $10.7 million) in a Series B funding round led by FMO.\n- The round was one of six growth-stage deals this week.\n- The report does not describe what it does.\n\n## Humyn Labs\n\nWeek of Nov 16 to Nov 21\n\n- Raised $47 million in a Series A round comprising equity and debt.\n- The round includes $26 million in equity and $21 million in venture debt.\n- The report does not describe what it does.\n\n## Bharat Semi\n\nWeek of Nov 16 to Nov 21\n\n- Raised $24 million in a seed funding round led by Info Edge Group, South Park Commons and Indus Bridge Ventures.\n- The round was one of 17 early-stage deals this week.\n- Semiconductor startup.\n\n## Henfruit\n\nWeek of Nov 16 to Nov 21\n\n- Raised $15 million in a Series A funding round led by Lok Capital.\n- The round was one of 17 early-stage deals this week.\n- Branded egg company.\n\n## Shree Anandhaas\n\nWeek of Nov 16 to Nov 21\n\n- Raised \u20b9110 crore in a fresh funding round led by new investor Ayra Ventures.\n- The round was one of 17 early-stage deals this week.\n- Coimbatore-based sweets and snacks chain.\n\n## Fatehpuria Hygiene\n\nWeek of Nov 16 to Nov 21\n\n- Raised \u20b9100 crore in its maiden equity funding round led by investor Madhu Kela.\n- The round was one of 17 early-stage deals this week.\n- Trade, supply chain and fulfilment company.\n\n## CarDekho Group\n\nWeek of Nov 16 to Nov 21\n\n- Appointed Sudhir Pai as CEO of its auto classifieds business and group strategy head.\n- He will oversee platforms including CarDekho.com, ZigWheels and BikeDekho.\n- Operates auto classifieds platforms including CarDekho.com, ZigWheels and BikeDekho.\n\n## Medi Assist Healthcare Services\n\nWeek of Nov 16 to Nov 21\n\n- Appointed Aruna Vaidyanathan, formerly Global Head of Growth Marketing at TCS.\n- The appointment was one of five key hirings this week.\n- The report does not describe what it does.\n\n## Naxatra Labs\n\nWeek of Nov 16 to Nov 21\n\n- Appointed Naveen Deepak Veeramaneni as its Chief Product Officer.\n- The appointment was one of five key hirings this week.\n- Indian deep-tech company.\n\n## Peak XV Partners\n\nWeek of Nov 16 to Nov 21\n\n- Kriti Gupta, vice president, has quit the venture capital firm after five years to join Goodwater Capital.\n- The departure was one of two exits this week.\n- Venture capital firm.\n\n## PB Fintech\n\nWeek of Nov 16 to Nov 21\n\n- Co-founder Alok Bansal will step down as Executive Vice Chairman and Whole Time Director on March 31, 2027.\n- He will continue on the company's board as a Non-Executive, Non-Independent Director from April 1, 2027.\n- The report does not describe what it does.\n\n## Oister Global\n\nWeek of Nov 16 to Nov 21\n\n- Launched a growth-stage deep tech fund with a target corpus of \u20b9400 crore and a greenshoe option of \u20b9200 crore.\n- The fund's potential size is \u20b9600 crore.\n- India-focused private markets asset manager.\n\n## Fractal Analytics\n\nWeek of Nov 16 to Nov 21\n\n- Is in discussions with 20\u201325 AI startups as it looks to expand its capabilities across healthcare, agentic AI and AI engineering.\n- Is open to acquisitions worth up to \u20b91,000 crore, with a preferred deal size of $50 million to $100 million.\n- The report does not describe what it does.\n\n## OpenAI\n\nWeek of Nov 16 to Nov 21\n\n- Appointed Pragya Misra to lead business development across India and South Asia.\n- Misra joined OpenAI in 2024 as its first employee in India.\n- The report does not describe what it does.\n\n## PhonePe\n\nWeek of Nov 16 to Nov 21\n\n- Partnered with Kerala Startup Mission to support startups through digital payment infrastructure, onboarding assistance and technical support.\n- The partnership will also include workshops and knowledge-sharing initiatives.\n- The report does not describe what it does.\n\n## Drip Capital\n\nWeek of Nov 16 to Nov 21\n\n- Signed an MoU with Bihar's Department of Industries to facilitate up to \u20b95,000 crore in trade finance for MSME exporters over five years.\n- The partnership will provide collateral-free working capital and connect local manufacturers with domestic and international buyers.\n- The report does not describe what it does.\n\n## Rediff.com India\n\nWeek of Nov 16 to Nov 21\n\n- Filed updated draft IPO papers proposing a fresh issue of equity shares worth \u20b9600 crore, without an offer-for-sale component.\n- The company operates consumer internet and enterprise communication businesses.\n- Operates consumer internet and enterprise communication businesses.\n\n## Dynamic Watchlist (headlines + summary)\n\n## Top Gainers\n\nCould not fetch movers for this list\n\n## Top Losers\n\nCould not fetch movers for this list\n"</script>
+<script>
+(function () {
+  var btn = document.getElementById("copy-md-btn");
+  var dataEl = document.getElementById("digest-markdown");
+  if (!btn || !dataEl) return;
+  var md = JSON.parse(dataEl.textContent);
+  var defaultLabel = btn.textContent;
+
+  function flash(label) {
+    btn.textContent = label;
+    setTimeout(function () { btn.textContent = defaultLabel; }, 1500);
+  }
+
+  btn.addEventListener("click", function () {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(md).then(
+        function () { flash("Copied!"); },
+        function () { flash("Copy failed"); }
+      );
+    } else {
+      var ta = document.createElement("textarea");
+      ta.value = md;
+      ta.style.position = "fixed";
+      ta.style.opacity = "0";
+      document.body.appendChild(ta);
+      ta.select();
+      try {
+        document.execCommand("copy");
+        flash("Copied!");
+      } catch (e) {
+        flash("Copy failed");
+      }
+      document.body.removeChild(ta);
+    }
+  });
+})();
+</script>
+</div>

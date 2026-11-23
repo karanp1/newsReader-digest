@@ -81,7 +81,7 @@
   "sector": "AI",
   "description": "Developer of ChatGPT and large language models; releasing AI-generated math solutions and partnering with Razorpay.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "bytexl": {
   "name": "ByteXL",
@@ -158,14 +158,14 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-21"
+  "last_mentioned": "2026-11-23"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -186,7 +186,7 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "walmart": {
   "name": "Walmart",
@@ -207,7 +207,7 @@
   "sector": "Venture capital",
   "description": "Global venture capital firm and early Flipkart investor that has exited with large returns.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-23"
  },
  "tigerglobal": {
   "name": "Tiger Global",
@@ -501,21 +501,21 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-21"
+  "last_mentioned": "2026-11-23"
  },
  "naukri": {
   "name": "Naukri",
   "sector": "Job portal",
   "description": "India's largest job listing platform publishing monthly hiring data through its JobSpeak report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-21"
+  "last_mentioned": "2026-11-23"
  },
  "tejasnetworks": {
   "name": "Tejas Networks",
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-21"
+  "last_mentioned": "2026-11-23"
  },
  "godigit": {
   "name": "Go Digit",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -1103,14 +1103,14 @@
   "sector": "Crypto exchange",
   "description": "Crypto exchange; its chief economist commented on bitcoin cycle drawdowns.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-23"
  },
  "hal": {
   "name": "HAL",
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1432,7 +1432,7 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-21"
+  "last_mentioned": "2026-11-23"
  },
  "citi": {
   "name": "Citi",
@@ -1600,7 +1600,7 @@
   "sector": "Development finance",
   "description": "Dutch development bank that funded MSME lender NeoGrowth.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-23"
  },
  "leapfroginvestments": {
   "name": "LeapFrog Investments",
@@ -1824,7 +1824,7 @@
   "sector": "Fintech",
   "description": "Payments platform that partnered with DPCGC to simplify OTT regulatory compliance for merchants.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "pluckk": {
   "name": "Pluckk",
@@ -1880,7 +1880,7 @@
   "sector": "Fintech",
   "description": "Policybazaar parent whose price target BofA cut 19% on IRDAI commission change risks.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "hindustanpetroleum": {
   "name": "Hindustan Petroleum",
@@ -2328,7 +2328,7 @@
   "sector": "Regulator",
   "description": "India's securities regulator; to issue guidelines on closing auction session.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-23"
  },
  "reservebankofindia": {
   "name": "Reserve Bank of India",
@@ -2706,7 +2706,7 @@
   "sector": "Insurance regulator",
   "description": "India's insurance regulator; proposed changes to insurance commissions and product rules.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-23"
  },
  "centralelectricityregulatorycommission": {
   "name": "Central Electricity Regulatory Commission",
@@ -2902,7 +2902,7 @@
   "sector": "Retail",
   "description": "Runs the DMart value supermarket chain; fell 4% as Q2 margin missed despite 18% revenue growth.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "ushamartin": {
   "name": "Usha Martin",
@@ -3147,7 +3147,7 @@
   "sector": "Steel",
   "description": "Steel major; among the Sensex gainers on Monday.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-23"
  },
  "axisbank": {
   "name": "Axis Bank",
@@ -3266,14 +3266,14 @@
   "sector": "Insurance",
   "description": "General insurance company; mentioned in the watchlist context.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-21"
+  "last_mentioned": "2026-11-23"
  },
  "relianceintelligence": {
   "name": "Reliance Intelligence",
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-23"
  },
  "gartner": {
   "name": "Gartner",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3952,7 +3952,7 @@
   "sector": "Venture capital",
   "description": "Indian venture capital firm in the first cohort of the government's RDI scheme.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-11-23"
  },
  "ideaspringcapital": {
   "name": "Ideaspring Capital",
@@ -4050,7 +4050,7 @@
   "sector": "Investment banking",
   "description": "Investment bank named among anchor investors in Jio Platforms' IPO.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-23"
  },
  "religare": {
   "name": "Religare",
@@ -5121,7 +5121,7 @@
   "sector": "Crypto",
   "description": "Leading cryptocurrency that fell to $82,000 after higher-than-expected CPI.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-23"
  },
  "gold": {
   "name": "Gold",
@@ -7634,7 +7634,7 @@
   "sector": "Steel pipes",
   "description": "Indian steel tube maker, a peer of Jindal Saw.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-23"
+  "last_mentioned": "2026-11-23"
  },
  "shreecement": {
   "name": "Shree Cement",
@@ -8859,7 +8859,7 @@
   "sector": "Power",
   "description": "Indian power transmission and distribution company; Q2 profit more than doubled to Rs 1,364 crore.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "idlexplosives": {
   "name": "IDL Explosives",
@@ -11113,7 +11113,7 @@
   "sector": "Venture capital",
   "description": "Existing investor that participated in Cent's $15 million funding round.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-23"
  },
  "anker": {
   "name": "Anker",
@@ -13535,7 +13535,7 @@
   "sector": "Automotive",
   "description": "India's largest carmaker; led October passenger vehicle wholesales with 2.12 lakh units, up 20%.",
   "first_added": "2026-11-02",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "mm": {
   "name": "M&M",
@@ -14529,7 +14529,7 @@
   "sector": "Venture capital",
   "description": "Investor leading a $108-110 million round in AI chip startup Agrani Labs.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "samsungventures": {
   "name": "Samsung Ventures",
@@ -14543,7 +14543,7 @@
   "sector": "Investment firm",
   "description": "Indian investment firm; in talks to back defence electronics maker Sanlayan and aerospace components manufacturer Hical.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-23"
  },
  "sanlayantechnologies": {
   "name": "Sanlayan Technologies",
@@ -14606,7 +14606,7 @@
   "sector": "AI analytics",
   "description": "Analytics and AI solutions provider; Q2 net profit more than doubled as revenue crossed $100 million.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "multicommodityexchange": {
   "name": "Multi Commodity Exchange",
@@ -18967,7 +18967,7 @@
   "sector": "Deep tech semiconductors",
   "description": "Indian deeptech startup making programmable sensors for surveillance, automotive, UAVs and IoT.",
   "first_added": "2026-11-16",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "redstart": {
   "name": "Redstart",
@@ -18981,7 +18981,7 @@
   "sector": "Venture capital",
   "description": "Investor that participated in Bharat Semi's seed funding round.",
   "first_added": "2026-11-16",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-23"
  },
  "perturbai": {
   "name": "PerturbAI",
@@ -19051,7 +19051,7 @@
   "sector": "Venture capital",
   "description": "Private markets investor launching a Rs 400 crore deeptech fund.",
   "first_added": "2026-11-16",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "investindia": {
   "name": "Invest India",
@@ -19450,14 +19450,14 @@
   "sector": "AI",
   "description": "AI-native CRM startup founded by former Freshworks executives, raised $53 million to take on Salesforce.",
   "first_added": "2026-11-17",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "togetherfund": {
   "name": "Together Fund",
   "sector": "Venture capital",
   "description": "Investor that led Dreamteam's $53 million funding round.",
   "first_added": "2026-11-17",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-23"
  },
  "huawei": {
   "name": "Huawei",
@@ -19492,7 +19492,7 @@
   "sector": "Insurance",
   "description": "Online insurance marketplace operated by PB Fintech.",
   "first_added": "2026-11-17",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-23"
  },
  "baidu": {
   "name": "Baidu",
@@ -20920,7 +20920,7 @@
   "sector": "Food",
   "description": "Indian egg brand that raised $15 million from Lok Capital, DSG Consumer Partners and RPSG Capital Ventures.",
   "first_added": "2026-11-18",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "minohealthailabs": {
   "name": "MinoHealth AI Labs",
@@ -21235,7 +21235,7 @@
   "sector": "Physical AI",
   "description": "Physical AI startup founded by ex-Nazara CEO Manish Agarwal; raised $47 million for robot deployment.",
   "first_added": "2026-11-19",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "networkrailinfrastructure": {
   "name": "Network Rail Infrastructure",
@@ -21389,14 +21389,14 @@
   "sector": "Food and beverage",
   "description": "Coimbatore-based sweets and vegetarian restaurant chain; raised Rs 110 crore to expand outlets.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "ayraventures": {
   "name": "Ayra Ventures",
   "sector": "Investment",
   "description": "Investor that led Shree Anandhaas' Rs 110 crore funding round.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-23"
  },
  "a91partners": {
   "name": "A91 Partners",
@@ -21753,83 +21753,188 @@
   "sector": "Retail",
   "description": "Parent of value fashion retailer Style Union; raised Rs 485 crore in Series E.",
   "first_added": "2026-11-22",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "bobabhai": {
   "name": "Boba Bhai",
   "sector": "Food and beverage",
   "description": "Bubble tea and Korean street food brand; raised $18 million.",
   "first_added": "2026-11-22",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "botsync": {
   "name": "Botsync",
   "sector": "Robotics",
   "description": "Robotics company; raised $11 million Series B led by IvyCap Ventures.",
   "first_added": "2026-11-22",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "inprimefinserv": {
   "name": "InPrime Finserv",
   "sector": "Financial services",
   "description": "Raised Rs 101 crore Series B led by FMO; not enough detail in today's digest.",
   "first_added": "2026-11-22",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "fatehpuriahygiene": {
   "name": "Fatehpuria Hygiene",
   "sector": "Supply chain",
   "description": "Trade, supply chain and fulfilment company; raised Rs 100 crore led by Madhu Kela.",
   "first_added": "2026-11-22",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "cardekhogroup": {
   "name": "CarDekho Group",
   "sector": "Auto classifieds",
   "description": "Operates CarDekho.com, ZigWheels and BikeDekho; appointed Sudhir Pai as CEO of auto classifieds.",
   "first_added": "2026-11-22",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "mediassisthealthcareservices": {
   "name": "Medi Assist Healthcare Services",
   "sector": "Health insurance",
   "description": "Health benefits administrator; appointed Aruna Vaidyanathan from TCS.",
   "first_added": "2026-11-22",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "naxatralabs": {
   "name": "Naxatra Labs",
   "sector": "Deep tech",
   "description": "Indian deep-tech company; appointed Naveen Deepak Veeramaneni as Chief Product Officer.",
   "first_added": "2026-11-22",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "dripcapital": {
   "name": "Drip Capital",
   "sector": "Fintech",
   "description": "Trade finance provider; signed MoU with Bihar to facilitate up to Rs 5,000 crore for MSME exporters.",
   "first_added": "2026-11-22",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "rediffcomindia": {
   "name": "Rediff.com India",
   "sector": "Internet",
   "description": "Operates consumer internet and enterprise communication businesses; filed updated IPO papers for Rs 600 crore fresh issue.",
   "first_added": "2026-11-22",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "reliancebrands": {
   "name": "Reliance Brands",
   "sector": "Retail",
   "description": "Reliance unit operating premium and luxury brand stores in India; FY26 revenue rose with a narrower loss.",
   "first_added": "2026-11-22",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "fareye": {
   "name": "FarEye",
   "sector": "Logistics software",
   "description": "Delivery and logistics software platform used by Flipkart Wholesale for dispatch, routing and payments.",
   "first_added": "2026-11-22",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
+ },
+ "hathwaycable": {
+  "name": "Hathway Cable",
+  "sector": "Cable TV",
+  "description": "Reliance-owned cable operator; Q2 FY27 revenue rose 7.8% year on year.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "apollotubes": {
+  "name": "Apollo Tubes",
+  "sector": "Steel pipes",
+  "description": "Steel tubes maker buying Tata Steel's tubes and pipes business and Tata Steel Colors.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "lokcapital": {
+  "name": "Lok Capital",
+  "sector": "Impact investing",
+  "description": "Led Henfruit's $15 million Series A funding round.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "goodwatercapital": {
+  "name": "Goodwater Capital",
+  "sector": "Venture capital",
+  "description": "Hired Peak XV Partners vice president Kriti Gupta.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "keralastartupmission": {
+  "name": "Kerala Startup Mission",
+  "sector": "Government",
+  "description": "Kerala government startup agency; partnered with PhonePe to support startups.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "styleunion": {
+  "name": "Style Union",
+  "sector": "Fashion retail",
+  "description": "Value fashion retailer owned by Nexon Omniverse.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "zigwheels": {
+  "name": "ZigWheels",
+  "sector": "Auto classifieds",
+  "description": "CarDekho Group's auto classifieds platform.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "bikedekho": {
+  "name": "BikeDekho",
+  "sector": "Auto classifieds",
+  "description": "CarDekho Group's two-wheeler classifieds platform.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "cardekhocom": {
+  "name": "CarDekho.com",
+  "sector": "Auto classifieds",
+  "description": "CarDekho Group's car classifieds platform.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "wbsedcl": {
+  "name": "WBSEDCL",
+  "sector": "Power utility",
+  "description": "West Bengal state power distribution company; awarded Adani Energy Solutions a 1,750 MW supply deal.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "tatasteelcolors": {
+  "name": "Tata Steel Colors",
+  "sector": "Steel",
+  "description": "Tata Steel unit being sold to APL Apollo for Rs 16,300 crore.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "alaskaairlines": {
+  "name": "Alaska Airlines",
+  "sector": "Airlines",
+  "description": "US carrier whose Seattle-Los Angeles flight was delayed by ICE detentions.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "ice": {
+  "name": "ICE",
+  "sector": "Government",
+  "description": "US immigration enforcement agency; detained a father and daughter at Seattle airport.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "pandorasmagicaleventsvenue": {
+  "name": "Pandora's Magical Events Venue",
+  "sector": "Events",
+  "description": "Venue in Parma, Ohio where a shooting at a baby shower killed three people.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "healthdatahub": {
+  "name": "Health Data Hub",
+  "sector": "Health data",
+  "description": "French health data agency; its scientific director warned hospitals lack capacity to measure AI outcomes.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
  }
 }
