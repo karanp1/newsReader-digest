@@ -67,7 +67,7 @@
   "sector": "Electric vehicles",
   "description": "Manufacturer of electric scooters and two-wheelers in India; raised Rs 1,000 crore via rights issue.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-15"
+  "last_mentioned": "2026-11-23"
  },
  "razorpay": {
   "name": "Razorpay",
@@ -130,7 +130,7 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "starlink": {
   "name": "Starlink",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -1327,7 +1327,7 @@
   "sector": "Automotive",
   "description": "Two-wheeler maker; at the centre of an ownership dispute in Venu Srinivasan's family branch.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-21"
+  "last_mentioned": "2026-11-23"
  },
  "tvsholdings": {
   "name": "TVS Holdings",
@@ -2209,7 +2209,7 @@
   "sector": "Media services",
   "description": "Mumbai-based post-production and VFX company; shares fell 3.99% amid a broader pullback.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "aartiindustries": {
   "name": "Aarti Industries",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "accenture": {
   "name": "Accenture",
@@ -3525,7 +3525,7 @@
   "sector": "Hospitality",
   "description": "Hotel booking and hospitality chain; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-23"
  },
  "ola": {
   "name": "Ola",
@@ -5128,7 +5128,7 @@
   "sector": "Commodities",
   "description": "Precious metal trading near $4,100 with record ETF holdings.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-23"
  },
  "yaraj": {
   "name": "Yara J",
@@ -6087,7 +6087,7 @@
   "sector": "Banking",
   "description": "Indian private bank; peer comparison for J&K Bank's valuation.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "pcblchemical": {
   "name": "PCBL Chemical",
@@ -9979,7 +9979,7 @@
   "sector": "Electric vehicles",
   "description": "Indian electric scooter maker that posted its first quarterly net profit in September 2026.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-23"
  },
  "bajajauto": {
   "name": "Bajaj Auto",
@@ -10742,7 +10742,7 @@
   "sector": "Automobiles",
   "description": "Indian two- and three-wheeler maker; peer comparison in today's digest.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-23"
  },
  "hero": {
   "name": "Hero",
@@ -21207,14 +21207,14 @@
   "sector": "Electric vehicles",
   "description": "Indian electric two-wheeler startup that raised $120 million.",
   "first_added": "2026-11-19",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-23"
  },
  "ultraviolette": {
   "name": "Ultraviolette",
   "sector": "Electric vehicles",
   "description": "Indian electric motorcycle maker that raised $85 million.",
   "first_added": "2026-11-19",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-23"
  },
  "insurancedekho": {
   "name": "InsuranceDekho",
@@ -21557,14 +21557,14 @@
   "sector": "Hotels",
   "description": "Indian hotel group owning Oberoi, Trident and Maidens brands, plus flight catering.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "mtartechnologies": {
   "name": "MTAR Technologies",
   "sector": "Precision engineering",
   "description": "Indian precision engineering firm making components for defence, aerospace and clean energy.",
   "first_added": "2026-11-20",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-23"
  },
  "chaayos": {
   "name": "Chaayos",
@@ -21934,6 +21934,34 @@
   "name": "Health Data Hub",
   "sector": "Health data",
   "description": "French health data agency; its scientific director warned hospitals lack capacity to measure AI outcomes.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "oravelstays": {
+  "name": "Oravel Stays",
+  "sector": "Hospitality",
+  "description": "Parent company of hotel chain Oyo; filed a revised draft prospectus for an IPO.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "obenelectric": {
+  "name": "Oben Electric",
+  "sector": "Electric vehicles",
+  "description": "Electric two-wheeler maker planning 200 additional showrooms by the end of this fiscal.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "hexaware": {
+  "name": "Hexaware",
+  "sector": "IT services",
+  "description": "Carlyle-backed IT services company; new CEO running a 90-day review focused on AI and large deals.",
+  "first_added": "2026-11-23",
+  "last_mentioned": "2026-11-23"
+ },
+ "marvellindia": {
+  "name": "Marvell India",
+  "sector": "Semiconductors",
+  "description": "India unit of chipmaker Marvell; contributes to nearly 90% of the company's products.",
   "first_added": "2026-11-23",
   "last_mentioned": "2026-11-23"
  }
