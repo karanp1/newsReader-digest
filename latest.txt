@@ -1,69 +1,78 @@
-DAILY NEWS DIGEST — 2026-11-23
+DAILY NEWS DIGEST — 2026-11-24
 METRICS
-NIFTY PE | 21.02 | 20 Nov 2026 | https://nifty-pe-ratio.com/
-Gold per 10g 24K | ₹1,26,560 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
+NIFTY PE | 20.65 | 23 Nov 2026 | https://nifty-pe-ratio.com/
+Gold per 10g 24K | ₹1,26,570 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 25,349.65 (-0.15%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹56,88,455 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $61,253 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹56,61,871 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $60,671 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
 
 [Jio Platforms]
 
-- ~
-  23 Nov 2026 | https://www.businesstoday.in/magazine/cover-story/story/mukesh-ambanis-next-big-bets-for-reliance-569074-2026-11-23
-  • Jio Platforms listed recently, described as the reward for Mukesh Ambani's two decades of building a consumer conglomerate alongside Reliance's oil-to-chemicals business. ¶ • Reliance has reached record profitability, with cash flows now funding newer businesses in green energy and artificial intelligence. ¶ • Akash, Isha and Anant Ambani have taken charge of key Reliance business verticals, passing the empire to the third generation. ¶ • Foreign investors have returned to Indian equities after five years of selling, buying large-cap stocks as the AI frenzy overseas cools. ¶ • Retail inflation has risen above the central bank's 6% tolerance limit, driven by costlier fuel and a deficient monsoon. ¶ ↗ businesstoday.in|https://www.businesstoday.in/magazine/cover-story/story/mukesh-ambanis-next-big-bets-for-reliance-569074-2026-11-23 ;; businesstoday.in|https://www.businesstoday.in/magazine/editors-note/story/mukesh-ambanis-long-game-is-paying-off-569070-2026-11-23
-
-- Outlook: Bullish
-  2026-11-23 |
-  §VIEW§{"stance": "bullish", "text": "Jio Platforms' listing and Reliance's record cash flows into green energy and AI, plus returning foreign inflows, support the bullish case. Inflation above 6% is the main risk."}
+- 36,237,032 Equity Shares of Jio Platforms Limited are subject to a Lock-Up Agreement Ending on 24-NOV-2026.
+  24 Nov 2026 | https://www.marketscreener.com/news/36-237-032-equity-shares-of-jio-platforms-limited-are-subject-to-a-lock-up-agreement-ending-on-24-no-ce7851dadf80f024
 
 [Reliance Intelligence]
 
 [Reliance]
 
-- ~
-  23 Nov 2026 | https://www.business-standard.com/companies/news/supreme-court-it-department-case-reliance-merger-tax-case-companies-126112300492_1.html
-  • The Supreme Court dismissed the Income Tax Department's appeal, leaving intact a Bombay High Court ruling that quashed tax assessments against Reliance Polyethylene and Reliance Polypropylene for 1993-94, 1994-95 and 1995-96. ¶ • The Bombay High Court had held the assessments void because the two companies ceased to exist after merging with Reliance Industries, and the assessing officer knew of the merger. ¶ • For assessment year 1994-95 alone, the Income Tax Department had assessed the combined taxable income of the two merged companies at about ₹77.25 crore. ¶ • In December 1996, a tax refund of about ₹45 crore due to Reliance Industries was adjusted against outstanding demands of the two merged companies, yet the same officer issued assessment orders against them in March 1997. ¶ • Reliance Industries plans to invest ₹150 bn to set up about 100 compressed biogas plants by 2030, targeting production of about 5 mn cubic metres of gas per day from agricultural residue. ¶ ↗ business-standard.com|https://www.business-standard.com/companies/news/supreme-court-it-department-case-reliance-merger-tax-case-companies-126112300492_1.html ;; constructionworld.in|https://www.constructionworld.in/policy-updates-and-economic-news/reliance-to-invest-rs.-150-bn-in-new-biogas-plants/100751 ;; barandbench.com|https://www.barandbench.com/news/litigation/supreme-court-upholds-quashing-of-it-departments-proceedings-against-defunct-reliance-companies ;; lawchakra.in|https://lawchakra.in/supreme-court/reliance-merged-tax/
+- Reliance Industries slides Monday, still outperforms market
+  23 Nov 2026 | https://www.marketwatch.com/story/reliance-industries-slides-monday-still-outperforms-market-8f85ae3a-111e1a9e9691
 
-- Outlook: Bullish
-  2026-11-23 |
-  §VIEW§{"stance": "bullish", "text": "The Supreme Court ending a three-decade tax dispute removes a contingent liability, while the Rs 150 bn biogas plan adds a new energy growth avenue. Both support a bullish stance."}
+- News by CNBC TV18 on TradingView, 2026-11-23 — cnbctv:4220afda3094b:0
+  23 Nov 2026 | https://www.tradingview.com/news/cnbctv:4220afda3094b:0/
+
+- India's Reliance seeks partners for 1,600-satellite LEO network to rival Starlink - report
+  23 Nov 2026 | https://www.telecompaper.com/news/indias-reliance-seeks-partners-for-1600-satellite-leo-network-to-rival-starlink-report--1589742
+  India's Reliance seeks partners for 1,600-satellite LEO network to rival Starlink - report
+
+- Reliance to Invest Rs. 150 bn in New Biogas Plants
+  23 Nov 2026 | https://www.constructionworld.in/policy-updates-and-economic-news/reliance-to-invest-rs.-150-bn-in-new-biogas-plants/100751
+  Reliance to Invest Rs. 150 bn in New Biogas Plants
 
 [Flipkart]
 
 - ~
-  23 Nov 2026 | https://www.business-standard.com/companies/news/flipkart-doubles-ev-fleet-to-42-000-in-a-year-on-quick-commerce-growth-126112300901_1.html
-  • Flipkart doubled its last-mile electric vehicle fleet to 42,000 this festive season, from over 20,000 in 2025, toward a fully electric last-mile fleet by 2030 under the Climate Group's EV100 initiative. ¶ • Electric two-wheelers serving Flipkart Minutes quick commerce make up about 77 per cent of the EV fleet, with another 20 per cent in the wider delivery network. ¶ • Fleet growth was strongest in Bengaluru, Mumbai, Chennai, Pune and Gurugram, the company said. ¶ • A survey of over 9,400 delivery partners found intent to switch to an EV was nearly four times higher among those who had tried one; 59 per cent of EV riders cited cost savings. ¶ • Among internal combustion engine riders, 55 per cent said financial support such as EMI loans, down-payment assistance or a daily EMI option would encourage a switch; Flipkart appointed Amith Fomra as VP, Financial Planning & Analysis, from Walmart. ¶ ↗ business-standard.com|https://www.business-standard.com/companies/news/flipkart-doubles-ev-fleet-to-42-000-in-a-year-on-quick-commerce-growth-126112300901_1.html ;; apparelresources.com|https://apparelresources.com/business-news/retail/flipkart-appoints-amith-fomra-as-vp-financial-planning-analysis-what-will-his-game-plan-be/ ;; indiantelevision.com|https://indiantelevision.com/iworld/flipkart-doubles-last-mile-ev-fleet-to-42000-this-festive-season/ ;; thehindubusinessline.com|https://www.thehindubusinessline.com/economy/logistics/flipkart-doubles-last-mile-electric-fleet-to-42000-in-a-year/article71734437.ece
+  23 Nov 2026 | https://www.thehindu.com/news/national/karnataka/flipkart-claims-it-has-more-than-doubled-its-ev-fleet-to-42000-from-20000-in-2025/article71735892.ece
+  • Flipkart doubled its last-mile electric vehicle fleet to 42,000 this festive season from over 20,000 in 2025, targeting a fully electric fleet by 2030. ¶ • Electric two-wheelers for Flipkart Minutes quick commerce make up about 77% of the EV fleet, with another 20% in the wider delivery network. ¶ • A survey of over 9,400 delivery partners found intent to switch to EVs was nearly four times higher among those who had tried one. ¶ • Among EV riders, 59% cited cost savings as a key motivation, while 55% of ICE riders said financial support like EMI loans would encourage switching. ¶ • Flipkart appointed Amith Fomra, formerly Walmart's VP International FP&A, as VP of Financial Planning & Analysis to strengthen enterprise planning. ¶ ↗ thehindu.com|https://www.thehindu.com/news/national/karnataka/flipkart-claims-it-has-more-than-doubled-its-ev-fleet-to-42000-from-20000-in-2025/article71735892.ece ;; business-standard.com|https://www.business-standard.com/companies/news/flipkart-doubles-ev-fleet-to-42-000-in-a-year-on-quick-commerce-growth-126112300901_1.html ;; indiantelevision.com|https://indiantelevision.com/iworld/flipkart-doubles-last-mile-ev-fleet-to-42000-this-festive-season/ ;; apparelresources.com|https://apparelresources.com/business-news/retail/flipkart-appoints-amith-fomra-as-vp-financial-planning-analysis-what-will-his-game-plan-be/
 
-- Outlook: Bullish
-  2026-11-23 |
-  §VIEW§{"stance": "bullish", "text": "Doubling the EV fleet to 42,000 and quick commerce driving 77 per cent of it shows Flipkart Minutes scaling fast. Charging access and financing for riders remain the constraints on the 2030 target."}
+- Outlook: Neutral
+  2026-11-24 |
+  §VIEW§{"stance": "neutral", "text": "The EV fleet doubling and quick-commerce tilt show operational scale, but adoption still hinges on charging access and financing. The finance hire points to planning discipline rather than a near-term earnings driver."}
 
 [Zomato]
 
 - ~
-  23 Nov 2026 | https://www.storyboard18.com/amp/brand-marketing/sita-ram-stops-zomato-orders-over-commission-hike-ws-l-115317.htm
-  • Sita Ram by Pran Nath Kohli stopped accepting orders on Zomato across all outlets, citing a sudden increase in commission. ¶ • Food delivery aggregators typically charge commissions of 20-25% of an order's value, with restaurants spending around 5% more on advertising. ¶ • Eternal's food delivery business grew net order value 21% year-on-year to ₹11,445 crore in Q2 FY27. ¶ • Food delivery adjusted revenue rose 35% year-on-year to ₹3,879 crore, with adjusted EBITDA up 25% to ₹627 crore. ¶ • A Chandigarh Blinkit delivery partner earned about ₹39,000 in his first month, working 12 hours on weekdays and 16 on weekends. ¶ ↗ storyboard18.com|https://www.storyboard18.com/amp/brand-marketing/sita-ram-stops-zomato-orders-over-commission-hike-ws-l-115317.htm ;; moneycontrol.com|https://www.moneycontrol.com/news/trends/blinkit-delivery-partner-in-chandigarh-earns-rs-39-000-in-first-month-shares-reality-working-12-hours-14086639.html ;; livemint.com|https://www.livemint.com/news/trends/chandigarh-man-shares-first-month-blinkit-earnings-of-39-000-offers-advice-to-aspiring-delivery-partners-11795369666247.html ;; sundayguardianlive.com|https://sundayguardianlive.com/trending/blinkit-delivery-partner-earns-rs-39000-in-first-month-in-chandigarh-shares-his-experience-of-working-with-the-quick-commerce-giant-heres-how-he-made-it-happen-326264/
+  23 Nov 2026 | https://www.storyboard18.com/brand-marketing/sita-ram-stops-zomato-orders-over-commission-hike-ws-l-115317.htm
+  • Sita Ram by Pran Nath Kohli stopped accepting orders on Zomato across all outlets, citing a sudden commission increase. ¶ • Aggregators typically charge 20-25% commission, plus about 5% on ads, taking total costs to 20-30% of order value. ¶ • Eternal's food delivery net order value rose 21% year-on-year to ₹11,445 crore in Q2 FY27. ¶ • Food delivery adjusted revenue grew 35% to ₹3,879 crore and adjusted EBITDA rose 25% to ₹627 crore. ¶ • Eternal's ad and sales promotion expenses rose 41% to ₹1,138 crore in Q2 FY27. ¶ ↗ storyboard18.com|https://www.storyboard18.com/brand-marketing/sita-ram-stops-zomato-orders-over-commission-hike-ws-l-115317.htm
 
 - Outlook: Neutral
-  2026-11-23 |
-  §VIEW§{"stance": "neutral", "text": "Eternal's food delivery grew NOV 21% and adjusted EBITDA 25% in Q2 FY27, but Sita Ram's exit over commissions shows partner cost strain. Growth and restaurant pushback split the picture."}
+  2026-11-24 |
+  §VIEW§{"stance": "neutral", "text": "Restaurant pushback on commissions and a 41% jump in promotion spend pressure margins, but 21% order value growth and 25% higher adjusted EBITDA show the core business still expanding."}
 
 [HAL]
 
-[Tejas Networks]
-
 - ~
-  23 Nov 2026 | https://www.communicationstoday.co.in/tejas-networks-receives-loi-for-tmz-in-madhya-pradesh/
-  • Tejas Networks received a Letter of Intent for a Telecom Manufacturing Zone in Madhya Pradesh, announced by Prashant Jain, Director and Head of Public Policy and Government Affairs. ¶ • The LoI was received in the presence of Union Communications Minister Jyotiraditya M. Scindia and Madhya Pradesh Chief Minister Mohan Yadav. ¶ • Tejas Networks, a Tata Group company, develops and manufactures telecom and networking products for communication service providers, utilities, defence and government customers. ¶ • The company has been expanding its role in India's telecom equipment sector amid the government's push for domestic manufacturing and the rollout of next-generation communication infrastructure. ¶ • The development supports India's domestic telecom equipment ecosystem and the vision of Atmanirbhar Bharat. ¶ ↗ communicationstoday.co.in|https://www.communicationstoday.co.in/tejas-networks-receives-loi-for-tmz-in-madhya-pradesh/
+  24 Nov 2026 | https://www.hindustantimes.com/india-news/first-batch-of-delayed-lcas-to-be-delivered-by-march-hal-to-indian-air-force-101795481112038.html
+  • IAF will accept 16 to 18 Tejas LCA Mk-1A fighters by March 31, 2027, HAL said after a November 16 review meeting. ¶ • HAL will seek the release to service document from CEMILAC and a signal-out certificate from DGQA to authorise operations. ¶ • The Mk-1A programme is nearly two years behind schedule; the first jet, ordered in 2021, was due in March 2024. ¶ • The IAF has ordered 180 Mk-1A jets worth ₹1.1 lakh crore across contracts of 83 aircraft in February 2021 and 97 in September 2025. ¶ • HAL has finished joining the LCA Mk-2 fuselage and targets its first ground run by March 2027, with maiden flight later that year. ¶ ↗ hindustantimes.com|https://www.hindustantimes.com/india-news/first-batch-of-delayed-lcas-to-be-delivered-by-march-hal-to-indian-air-force-101795481112038.html
 
 - Outlook: Bullish
-  2026-11-23 |
-  §VIEW§{"stance": "bullish", "text": "The LoI for a Telecom Manufacturing Zone expands Tejas Networks' manufacturing footprint with government backing. This strengthens its position in India's domestic telecom equipment push."}
+  2026-11-24 |
+  §VIEW§{"stance": "bullish", "text": "Delivery of 16-18 Mk-1A jets by March 2027 and resolved hardware issues point to execution finally starting on the Rs 1.1 lakh crore order book. Mk-2 progress adds to the pipeline."}
+
+[Tejas Networks]
 
 [Dmart]
+
+- ~
+  23 Nov 2026 | https://univest.in/blogs/retail-stocks-to-watch-in-2027
+  • DMart's September 2026 quarter revenue rose 17.7% to ₹19,657.54 crore, while net profit grew 8.5%. ¶ • For FY26, DMart revenue came in at ₹68,894.84 crore, up 15.8%, with net profit up 9.7% to ₹2,969.86 crore. ¶ • DMart trades at a P/E of 72.51 against an industry P/E of 64.51, a premium to the sector. ¶ • The stock closed at ₹3,459.00 on 18 November 2026, well below its 52-week closing high. ¶ • DMart's net profit has compounded about 18.8% a year from FY22 to FY26 and grown every year since FY22. ¶ ↗ univest.in|https://univest.in/blogs/retail-stocks-to-watch-in-2027
+
+- Outlook: Neutral
+  2026-11-24 |
+  §VIEW§{"stance": "neutral", "text": "Revenue growth of 17.7% and steady profit compounding support the story, but an 8.5% profit rise and a P/E of 72.51 against an industry 64.51 leave valuation stretched. The split between sales momentum and margin-led profit growth keeps the stance neutral."}
 
 [Godigit Insurance]
 
@@ -71,34 +80,43 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Bitcoin]
 
-- Bitcoin’s quantum threat goes beyond code to custodians, bridges, and 6 million coins
-  22 Nov 2026 | https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins
+- ~
+  23 Nov 2026 | https://finance.yahoo.com/markets/crypto/articles/bitcoin-rallies-anthropic-sinks-nvidia-163204306.html
+  • Bitcoin jumped above $64,000 after Nvidia reinstated Jensen Huang as CEO, then faded to about $61,100, giving up nearly the whole spike. ¶ • Leveraged traders lost about $321 million in bitcoin liquidations, with short bets making up $224 million; broader crypto liquidations topped $762 million. ¶ • Spot bitcoin ETFs lost about $1.79 billion last week, a fourth straight week of net outflows, as bitcoin fell to a weekend low near $55,100. ¶ • Strategy bought 457 bitcoin for $29.6 million between Nov. 16 and Nov. 22 at an average price of $64,898, lifting holdings to 851,305 BTC. ¶ • North Korea's hackers moved at least $247 million of the $6.4 billion Binance theft through Bitcoin coinjoins, mostly via one Wasabi coordinator. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/bitcoin-rallies-anthropic-sinks-nvidia-163204306.html ;; decrypt.co|https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers ;; bitcoinmagazine.com|https://bitcoinmagazine.com/markets/bitcoin-price-fades-61000-huang ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/strategy-buys-30-million-bitcoin-140400520.html
 
-- France Moves to Defuse the Debt Crisis Bitcoin Bulls Were Counting On
-  23 Nov 2026 | https://finance.yahoo.com/markets/crypto/articles/france-moves-defuse-debt-crisis-112815801.html
-  Lend France money for 10 years, and in October it briefly paid you more than 5% a year. That was the highest rate since 2002. Now President Emmanuel Macron wants to stop it from happening again by writing spending limits into the…
-
-- Fibonacci Day: How Crypto Traders Use Retracement Levels to Spot Potential Bitcoin Reversals
-  23 Nov 2026 | https://finance.yahoo.com/markets/crypto/articles/fibonacci-day-crypto-traders-retracement-120215022.html
-  Nov. 23 Marks Fibonacci Day as it celebrates the mathematical sequence behind one of the most widely used technical analysis tools in cryptocurrency trading.
-
-- Kraken Won’t Reverse Trades From a 71% Bitcoin Drop on Its Canadian Dollar Book
-  23 Nov 2026 | https://finance.yahoo.com/markets/crypto/articles/kraken-won-t-reverse-trades-114554583.html
-  Bitcoin had two very different prices on Kraken between Friday afternoon and Saturday morning: its U.S. dollar market never went below $55,100, while its Canadian dollar (CAD) book printed as low as C$24,250 . Kraken says it will not…
+- Outlook: Bearish
+  2026-11-24 |
+  §VIEW§{"stance": "bearish", "text": "Bitcoin round-tripped a rally above $64,000 to near $61,100 even as stocks surged, with $1.79 billion of ETF outflows and a stronger dollar weighing. Rate-hike risk and stalled crypto rules keep buyers away."}
 
 [Gold]
 
 - ~
-  23 Nov 2026 | https://finance.biggo.com/news/a8741850-54ca-4524-817c-97e309025687
-  • Gold rebounded above $3,600 an ounce on November 23, with spot gold up 2.07% to $3,611.38 and U.S. futures up 2.71% to $3,610.75, after last week's 9% drop. ¶ • The CME FedWatch tool shows a 96.2% probability of a December 9 rate hike, with markets pricing a 92% chance, keeping pressure on gold. ¶ • Central banks bought 321 tonnes of gold in Q3 2026, up 42% year on year and above the five-year quarterly average of 227 tonnes. ¶ • CIBC warned the U.S. could hit its $41.1 trillion debt ceiling by late February 2027, requiring a raise of nearly $5 trillion. ¶ • India's gold demand fell 12% to 444 tonnes in the first nine months of 2026, but the value rose 38% to ₹6,688 billion ($71 billion). ¶ ↗ finance.biggo.com|https://finance.biggo.com/news/a8741850-54ca-4524-817c-97e309025687 ;; ap7am.com|https://www.ap7am.com/en/139966/gold-prices-today-rates-rebound-on-november-23-after-sharp-weekly-crash ;; finance.yahoo.com|https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-november-23-2026-gold-prices-opened-at-lowest-point-since-9225-122415220.html ;; frontline.thehindu.com|https://frontline.thehindu.com/columns/gold-price-crash-india-modi-claims/article71733497.ece
+  23 Nov 2026 | https://finance.yahoo.com/personal-finance/investing/article/gold-is-having-a-rough-year-does-it-still-belong-in-your-portfolio-174652144.html
+  • Gold fell about 30% from its January 2026 record above $5,500 an ounce, trading near $3,600 on November 23. ¶ • Spot gold rose 2.4% to $3,616.51 an ounce in overnight trading after a 9% weekly drop, its steepest since March. ¶ • Goldman Sachs forecast gold at $4,650 by end-2027 and $5,600 by end-2028, citing central bank buying of 60 tonnes a month through 2028. ¶ • CFTC data to November 17 showed speculative net long at 166,132 contracts, down from 190,107 the prior week. ¶ • Markets price a 96.2% chance of a December 9 Fed rate hike, with the 10-year Treasury yield near 4.92%. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/personal-finance/investing/article/gold-is-having-a-rough-year-does-it-still-belong-in-your-portfolio-174652144.html ;; fxempire.com|https://www.fxempire.com/forecasts/article/gold-price-forecast-3500-bounce-may-face-selling-pressure-1646542 ;; kitco.com|https://www.kitco.com/news/article/2026-11-23/gold-price-rallies-above-3600-ai-selloff-reshapes-fed-outlook-kitco-am ;; finance.yahoo.com|https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-monday-november-23-2026-gold-prices-opened-at-lowest-point-since-9225-122415220.html
 
-- Outlook: Neutral
-  2026-11-23 |
-  §VIEW§{"stance": "neutral", "text": "Gold's rebound is capped by a 96.2% odds of a December rate hike and dollar strength, but central bank buying and U.S. debt ceiling risks provide support. The split is between near-term Fed tightening and long-term sovereign debt concerns."}
+- Outlook: Bearish
+  2026-11-24 |
+  §VIEW§{"stance": "bearish", "text": "A stronger dollar, higher Treasury yields and a near-certain December rate hike keep pressuring gold after its 30% drop from January's record. Goldman's central-bank-driven forecasts offer the main offset, but near-term flows stay weak."}
 
 ============================================================
 
 SOURCE 8: AI News
+
+[OpenAI] OpenAI and Cisco introduce Shirudo
+  23 Nov 2026 | https://openai.com/index/introducing-shirudo
+  • OpenAI and Cisco are launching Shirudo, an open-source runtime that protects Linux systems while teams roll out patches. ¶ • In a controlled test, a Codex-generated shield blocked a Java4Shell exploit against a running Elasticsearch service without a restart. ¶ • Shirudo uses eBPF, a Linux technology that runs small programs inside the operating system to observe activity and apply targeted protections. ¶ • Shields are cryptographically signed and verified before loading, and a Trusted Platform Module (TPM) records protections loaded or removed. ¶ • Shirudo is open-sourced under BSD 2-Clause, with BPF programs dual-licensed under BSD and GPL, aiming to ship tested shields alongside vulnerability disclosures.
+
+[OpenAI] Connected intelligence for in-house legal
+  23 Nov 2026 | https://openai.com/business/learn/connected-intelligence-for-in-house-legal
+  • OpenAI's Stacey Wang and Craig Bruney joined Mary O'Carroll of LECG and Cooley's Richard Segal for a webinar on connected intelligence for in-house legal. ¶ • The session covered how AI can help in-house legal teams connect business context. ¶ • The panel also explored building reusable workflows with AI. ¶ • The discussion included how legal teams can get more from outside counsel. ¶ • The webinar was published on November 23, 2026.
+
+[OpenAI] Richpanel helps companies automate 50% of support in 30 days
+  23 Nov 2026 | https://openai.com/business/customer-stories/richpanel-ai-customer-support
+  • Richpanel built an AI manager, called Boss AI, that sets up its customer-support AI agents by writing procedures and defining how they call tools. ¶ • CEO Amit RG says human agents may use 20 or 30 tools per customer, with procedures that were never written down. ¶ • Richpanel uses GPT-6 Astra and GPT-6.1 Sol for Boss AI setup and cheaper GPT-6 Luna for frontline conversations, balancing cost and intelligence. ¶ • At the October 2026 interview, Richpanel had completed about 300 AI support deployments in the previous six months. ¶ • Richpanel guarantees a 50% automation rate within 30 days or money back, and Amit says it met that across all deployments, with AI beating humans on satisfaction.
+
+[Google DeepMind] Finding faster quantum algorithms with agents and formal verification
+  23 Nov 2026 | https://deepmind.google/blog/finding-faster-quantum-algorithms-with-agents-and-formal-verification/
+  • Google DeepMind and Google Quantum AI used teams of Gemini 4 agents to optimize quantum circuits, proving each result with Lean, a formal theorem prover. ¶ • For inertial confinement fusion, a laser method that compresses hydrogen fuel until ignition, the agents cut computing cost by 11.8× and memory from 5,650 to 4,338 error-corrected qubits. ¶ • For Cytochrome P450, an enzyme that breaks down most human medicines, they found a 2.5× improvement and lowered memory from 481 to 333 qubits. ¶ • The agents also found a 2.57× speedup for a Grover's algorithm implementation and a 290× speedup for arcsin, a routine that loads numbers into quantum states. ¶ • The team open-sourced its Lean library, problem specifications and verified solutions on GitHub, and says proof-checked AI search could compress years of manual design work.
 
 [Open Claw Newsletter] 150 Agents, 128,000 Hours
   23 Nov 2026 | https://www.sec.gov/Archives/edgar/data/746515/000119312526466274/expd-ex99_1.htm
@@ -144,258 +162,138 @@ SOURCE 8: AI News
 
 SOURCE 2: The Hindu - Editorials
 
-### Core accountability: On core sector performance
-22 Nov 2026 | https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece
+### Fatal disagreement: on the COP31 summit
+23 Nov 2026 | https://www.thehindu.com/opinion/editorial/fatal-disagreement-on-the-cop31-summit/article71735124.ece
 
-• India's core sector grew 10.9% in October 2026, a series high, but the index had risen just 0.8% in October 2025.
+• COP31 in Antalya, Türkiye ended with nearly 190 countries failing to agree on a cover text after almost 12 days of talks, running close to 50 hours over.
 
-• Coal grew 23% and electricity nearly 22% in October 2026, after contracting 8.5% and near 7% a year earlier.
+• The proposed cover text sought a target of 35% of global final energy consumption from electricity by 2035 to cut direct fossil fuel emissions.
 
-• Construction-linked sectors show genuine growth: iron ore rose 26.4%, cement 15.4% and steel 7.3% in October 2026.
+• The EU blocked the text because it lacked any explicit mention of fossil fuel, let alone a phase-out, and about 130 countries also demanded fossil fuel language.
 
-• Crude oil fell 4.1% for a 22nd straight month and natural gas 7.6%, a series worst and 28th straight contraction.
+• COP31 did advance the Just Transition agreement but made no progress on climate finance, the other major prong of negotiations.
 
-• The newspaper asks the Petroleum Ministry to explain to Parliament in December why India's oil and gas output keeps falling.
+• The article argues developed countries must honor past climate finance promises, and that without good-faith dialogue COP risks becoming a sideshow and a blow to multilateralism.
 
-### Paper tiger: On the Green India Mission
-22 Nov 2026 | https://www.thehindu.com/opinion/editorial/paper-tiger/article71731271.ece
+### Just verdict: on Myanmar and the International Court of Justice
+23 Nov 2026 | https://www.thehindu.com/opinion/editorial/just-verdict-on-myanmar-and-the-international-court-of-justice/article71735482.ece
 
-• The Public Accounts Committee on November 19 criticised the Environment Ministry for the Green India Mission's virtual failure and for not issuing implementation guidelines for its revised form.
+• The International Court of Justice ruled on November 19 that Myanmar committed genocide against the Rohingya, the first time it has held any state responsible for the crime.
 
-• The original 10-year vision sought to expand forest and tree cover by 5 million hectares each, improve livelihoods for 3 million households, and sequester up to 60 million tonnes of carbon dioxide a year, with an outlay of ₹46,000 crore.
+• The verdict came by nine votes to six, with the court requiring genocide intent to be the only reasonable inference from the facts.
 
-• In 2014 the Cabinet approved ₹13,000 crore for 1.4 mha each of the first two objectives by 2018, but 81.5% was to come from CAMPA, NAP, and MGNREGS funds that never materialised.
+• The court accepted that in 2017 at least 10,000 Rohingya were killed, 1,834 raped and 392 villages destroyed in northern Rakhine State, with over 7,00,000 fleeing to Bangladesh.
 
-• Programmes to improve forest quality and forest cover fell short by 91.8% and 97.5% respectively against the 2014 target, as the Ministry built a large programme around resources it could not control.
+• Myanmar must allow safe, voluntary and dignified return and pay compensation, but the court cannot enforce its judgment and only the UN Security Council can, where China and Russia hold vetoes.
 
-• The PAC's demand for an implementation timetable is insufficient; the Union government must dedicate adequate resources and formalise responsibility-sharing so climate action is timely.
+• The article argues only a truly democratic, federal, plural and peaceful Myanmar can bring the Rohingya home in safety.
 
 ============================================================
 
 SOURCE 5: The Hindu - Business (headlines + summary)
 
-[[Indian markets selloff]]
+[[US FDA observations]]
 
-- Sensex plunges 1,484 points as bank and metal stocks drag markets lower
-  23 Nov 2026 | https://www.thehindu.com/business/markets/markets-take-heavy-drubbing-dragged-by-banks-sensex-plunges-1484-points-nifty-dives-to-2534965/article71734374.ece
-  • The Sensex fell 1,483.72 points, or 1.77%, to close at 82,435.99, and the Nifty dropped 450.95 points, or 1.75%, to 25,349.65 on November 23, 2026. ¶ • Tata Steel slumped 8.16% after agreeing to buy a 26.6% promoter stake in APL Apollo Tubes for ₹15,510 crore, plus an open offer for another 26% at ₹16,756 crore.
+- Marksans Pharma shares dip on 6 U.S. FDA observations to Goa unit
+  23 Nov 2026 | https://www.thehindu.com/business/Industry/marksans-pharma-shares-dip-on-6-us-fda-observations-to-goa-unit/article71735508.ece
+  • The U.S. FDA issued six observations after a cGMP inspection of Marksans Pharma's Verna, Goa plant from November 12-20, and shares closed 4.57% lower at ₹277.60 on the BSE. ¶ • Marksans said all observations are procedural with no data integrity or repeat findings, and expects no impact on its new pipeline or commercial supplies from the site.
 
-- Rupee falls 30 paise to 92.92, ending five-day rally as stocks sell off
+- Natco Pharma formulation unit issued 7 observations by U.S. FDA
+  23 Nov 2026 | https://www.thehindu.com/business/Industry/natco-pharma-formulation-unit-issued-7-observations-by-us-fda/article71735531.ece
+  • The U.S. FDA issued seven observations in Form-483 to Natco Pharma's formulation plant in Kothur, Hyderabad, after an inspection from November 12-20. ¶ • Natco said the observations are procedural and it is confident of addressing them within stipulated timelines.
+
+[[Markets and banking]]
+
+- Nvidia reinstates Jensen Huang as CEO, sparking a Wall Street rally
+  23 Nov 2026 | https://www.thehindu.com/business/markets/wall-street-roars-back-as-nvidia-reinstates-jensen-huang-as-ceo/article71736138.ece
+  • Nvidia reinstated Jensen Huang as CEO on November 23 after U.S. government input, three days after President Trump publicly urged the company to take him back. ¶ • Nvidia shares surged 32.2% and the Nasdaq Composite gained 6.69% to 24,131.42, with the Nasdaq-100 on track to add over $2 trillion in market value.
+
+- SBI, HDFC Bank, ICICI Bank retain D-SIB status; RBI maintains capital requirements
+  23 Nov 2026 | https://www.thehindu.com/business/Economy/sbi-hdfc-bank-icici-bank-retain-d-sib-status-rbi-maintains-capital-requirements/article71734757.ece
+  • The RBI kept SBI, HDFC Bank and ICICI Bank in its 2026 list of Domestic Systemically Important Banks, in the same buckets as 2025. ¶ • SBI must hold an extra 0.80% Common Equity Tier 1 capital against risk weighted assets, HDFC Bank 0.40% and ICICI Bank 0.20%, on top of the Capital Conservation Buffer.
+
+- Rupee snaps 5-day rally; tumbles 30 paise to settle at 92.92 against U.S. dollar
   23 Nov 2026 | https://www.thehindu.com/business/markets/rupee-snaps-5-day-rally-tumbles-30-paise-to-settle-at-9292-against-us-dollar/article71734465.ece
-  • The rupee settled at 92.92 against the U.S. dollar on November 23, down 30 paise, after a five-session rally that had lifted it 1.6% from 94.19 on November 13. ¶ • The Sensex crashed 1,483.72 points, or 1.77%, to 82,435.99, and the Nifty fell 450.95 points, or 1.75%, to 25,349.65.
+  • The rupee fell 30 paise to close at 92.92 against the dollar on Monday, ending a five-day rally that had lifted it 1.6% from 94.19 on November 13. ¶ • A domestic stock sell-off drove the Sensex down 1,483.72 points, or 1.77%, to 82,435.99, outweighing support from lower crude and a softer dollar.
 
-[[Tata corporate moves]]
+- Markets take heavy drubbing dragged by banks; Sensex plunges 1,484 points, Nifty dives to 25,349.65
+  23 Nov 2026 | https://www.thehindu.com/business/markets/markets-take-heavy-drubbing-dragged-by-banks-sensex-plunges-1484-points-nifty-dives-to-2534965/article71734374.ece
+  • The Sensex fell 1,483.72 points, or 1.77%, to 82,435.99 and the Nifty dropped 450.95 points, or 1.75%, to 25,349.65 on Monday, November 23, 2026. ¶ • Bank stocks led the decline, with Axis Bank down 3.95%, ICICI Bank 3.39% and HDFC Bank 3.22%, while Tata Steel slumped 8.16% on its ₹15,510 crore deal for a 26.6% promoter stake in APL Apollo Tubes.
+
+[[AI and tech]]
+
+- Pixxel, IIT Kanpur join hands for hyperspectral imaging, AI research
+  23 Nov 2026 | https://www.thehindu.com/business/Industry/pixxel-iit-kanpur-join-hands-for-hyperspectral-imaging-ai-research/article71735977.ece
+  • Pixxel signed an MoU with IIT Kanpur to develop machine learning models and computer vision algorithms for high-resolution hyperspectral imagery. ¶ • The partnership will also use satellite data to study river basin processes, river health and land-use changes, and integrate it with ground observations.
+
+- Nasscom seeks three-Year AI Transformation Scheme in Budget 2027-28
+  23 Nov 2026 | https://www.thehindu.com/business/Industry/nasscom-seeks-three-year-ai-transformation-scheme-in-budget-2027-28/article71735294.ece
+  • Nasscom has asked the government to create a three-year AI Services Transformation and Innovation Scheme in the Union Budget 2027-28 to support India's global competitiveness. ¶ • Its pre-Budget wishlist also covers permanent establishment safeguards, deferred ESOP taxation, a higher Section 146 wage ceiling of ₹1 lakh a month, MSME cybersecurity and tax-neutral restructuring.
+
+- AI reality check: Leadership turmoil, IPO jitters and the fragility of big tech
+  23 Nov 2026 | https://www.thehindu.com/business/Industry/ai-reality-check-leadership-turmoil-ipo-jitters-and-the-fragility-of-big-tech/article71730828.ece
+  • Markets are shifting away from rewarding companies for AI ambitions alone, demanding evidence of sustainable revenues, cash flows and returns on capital. ¶ • Nvidia and CEO Jensen Huang sat at the centre of the AI investment story, with Microsoft, Amazon and Google committing enormous sums to data centres.
+
+[[Corporate deals and IPOs]]
+
+- Mahanadi Coalfields IPO fully subscribed on final day
+  23 Nov 2026 | https://www.thehindu.com/business/mahanadi-coalfields-ipo-fully-subscribed-on-final-day/article71736093.ece
+  • Mahanadi Coalfields' ₹8,981-crore IPO was subscribed 1.52 times on the final day, with bids for 74,86,87,060 shares against 49,30,68,045 on offer. ¶ • The offer is entirely an offer-for-sale, so all proceeds go to parent Coal India, and the shares are likely to list on November 27.
+
+- Hyderabad defence tech firm Apollo Micro Systems to acquire Bengaluru-based IEC Group
+  23 Nov 2026 | https://www.thehindu.com/business/Industry/hyderabad-defence-tech-firm-apollo-micro-systems-to-acquire-bengaluru-based-iec-group/article71735501.ece
+  • Apollo Micro Systems' subsidiary Apollo Defence Industries issued a binding expression of interest to buy 100% of three IEC Group entities: Integrated Electric Co, IE Power Technologies and partnership firm Integrated Services. ¶ • The deal adds IEC's four decades of electrical rotating machines, generators and drives to Apollo's defence capabilities, with consideration and terms to be disclosed when definitive agreements are signed.
+
+- Adani Airports raises $300-mn from 360 ONE Asset; total equity funding reaches $1.35-bn
+  23 Nov 2026 | https://www.thehindu.com/business/Industry/adani-airports-raises-300-mn-from-360-one-asset-total-equity-funding-reaches-135-bn/article71735537.ece
+  • Adani Airport Holdings signed a binding agreement with 360 ONE Alternates Asset Management to raise ₹2,790 crore ($300 million) at the same terms and valuation as earlier investors. ¶ • The deal lifts AAHL's total equity fundraising to $1.35 billion, with investors holding about 7.01% of the company after both transactions close.
 
 - Tata Sons board meet postponed to November 30 after Noel raises concerns
   23 Nov 2026 | https://www.thehindu.com/business/tata-sons-board-meet-postponed-to-november-30-after-noel-raises-concerns/article71734604.ece
   • Tata Sons postponed its board meeting on the RBI-mandated listing by four days to November 30, after Tata Trusts chairman Noel Tata said the seven-day notice period was not followed. ¶ • The November 30 meeting will weigh the listing against Noel's alternative restructuring, with a Tata Sons IPO potentially valuing the company at over ₹15 lakh crore.
 
-- Tata Steel to buy 26.6% of APL Apollo after selling tubes business for Rs 28,000 crore
-  23 Nov 2026 | https://www.thehindu.com/business/Industry/tata-steel-apl-apollo-agreements-promoter-stake-open-offer-stake/article71733521.ece
-  • Tata Steel will buy 26.38% of APL Apollo from promoters at ₹2,100 per share, up to ₹15,511 crore, plus a mandatory open offer for 26% at ₹2,301.40 per share, up to ₹16,756 crore. ¶ • The move follows Tata Steel's ₹28,000 crore sale of its tubes business and Tata Steel Colors to APL Apollo, and Tata Steel shares fell 7.5% to ₹164.50 on the BSE.
+[[Regulatory and policy]]
 
-[[AI and tech investing]]
+- IRDAI sets up two panels on distribution reforms and Ombudsman review
+  23 Nov 2026 | https://www.thehindu.com/business/Industry/irdai-forms-expert-panel-on-distribution-commission-reforms/article71735880.ece
+  • IRDAI formed an expert committee chaired by Indu Bhushan to refine proposed reforms on insurance distribution, commissions and expenses of management, with a report due by December 31. ¶ • IRDAI reconstituted its Insurance Ombudsman review panel under Sriram Taranikanti for a two-year term, after ombudsmen decided 41,055 grievances in 2025-26, 79% in policyholders' favour.
 
-- Anthropic's record IPO fades as markets demand proof of AI profits
-  23 Nov 2026 | https://www.thehindu.com/business/Industry/ai-reality-check-leadership-turmoil-ipo-jitters-and-the-fragility-of-big-tech/article71730828.ece
-  • Anthropic raised $81.3 billion in the largest-ever IPO on November 19, pricing shares at $83 and closing the first day at $97.17, up 17.1%. ¶ • The stock fell 8.5% to $88.91 on day two, as investors shift from rewarding AI ambition to demanding sustainable revenue and returns.
+- Oil and gas production to pick up in 4-5 years as recent measures take effect, Petroleum Ministry says
+  23 Nov 2026 | https://www.thehindu.com/business/Economy/oil-and-gas-production-to-pick-up-in-4-5-years-as-recent-measures-take-effect-petroleum-ministry-says/article71734940.ece
+  • The Petroleum Ministry says domestic oil and gas output will recover in 4-5 years, after contracting for 22 and 28 months respectively, because new acreage, record drilling and Mumbai High revival take time to show. ¶ • ONGC paid ₹56,384 crore in subsidies in 2013-14 against a net profit of ₹22,095 crore, a burden ended in 2015-16, and the Samudra Manthan mission has now committed ₹84,084 crore to deepwater exploration.
 
-[[Auto and EV sales]]
+[[Auto and EV]]
+
+- Paytm partners ChargeZone to enable QR payments at 15,000 EV charging points
+  23 Nov 2026 | https://www.thehindu.com/business/Industry/paytm-partners-chargezone-to-enable-qr-payments-at-15000-ev-charging-points/article71735559.ece
+  • Paytm, owned by One 97 Communications, has partnered with EV supercharging network ChargeZone to enable QR-based payments at over 15,000 high-speed charging points in India. ¶ • EV users can scan a Paytm QR code at ChargeZone stations, enter an amount and pay through Paytm before starting their charging session.
 
 - Auto retail hits record 55.25 lakh units during 42-day festive season, EV sales suge 53%: FADA
   23 Nov 2026 | https://www.thehindu.com/business/markets/auto-retail-hits-record-5525-lakh-units-during-42-day-festive-season-ev-sales-suge-53-fada/article71733558.ece
   • India's vehicle retail sales rose 2.21% year-on-year to a record 55,25,490 units over the 42-day festive season, FADA said. ¶ • EV retail sales jumped 52.62% to over five lakh units, with nearly one in ten festive vehicles sold electric, while passenger vehicle sales fell 7.16% to 7,48,616 units.
 
-[[SEBI and FPI rules]]
-
-- Congress attacks government over SEBI’s proposal to remove disclosure norms for FPIs
-  23 Nov 2026 | https://www.thehindu.com/business/markets/sebi-proposals-will-open-window-to-foreign-funds-with-opaque-offshore-ownership-structures-says-congress/article71730702.ece
-  • SEBI proposed on November 22, 2026, to review the additional disclosure framework for Foreign Portfolio Investors, which since August 2023 required FPIs with over 50% of Indian equity in one corporate group to disclose ultimate ownership. ¶ • Congress's Jairam Ramesh said the move reopens a loophole and cannot reverse the ₹5.61 lakh crore that FPIs have pulled out of Indian equities over the past two years.
-
-[[Personal finance and insurance]]
-
-- Harvesting gains tax efficiently
-  23 Nov 2026 | https://www.thehindu.com/business/Industry/harvesting-gains-tax-efficiently/article71730736.ece
-  • The Income Tax Act exempts up to ₹1.25 lakh a year in long-term capital gains from equity investments. ¶ • Investors face a trade-off: holding gains risks a market crash, while selling all gains risks missing the goal amount.
-
-- Unbundling motor cover: let’s spread the joy!
-  23 Nov 2026 | https://www.thehindu.com/business/Industry/unbundling-motor-cover-lets-spread-the-joy/article71730682.ece
-  • On a Supreme Court direction, IRDAI issued a circular on November 2 splitting motor insurance into four layers. ¶ • The change means terms like bumper-to-bumper cover no longer spell out exactly what a policy includes.
-
 [[Other]]
 
-- Core accountability: On core sector performance
-  22 Nov 2026 | https://www.thehindu.com/opinion/editorial/core-accountability/article71731259.ece
-  • India's core industries grew 10.9% in October 2026, a series high, but October 2025 growth was just 0.8%, so a low base effect inflated the figure. ¶ • Crude oil shrank 4.1% for a 22nd straight month and natural gas fell 7.6%, a series worst and 28th straight contraction, keeping India dependent on imported fuel.
-
-- Rampur’s Lavi Fair: Storytelling through 300 years of Himalayan trade and tradition
-  22 Nov 2026 | https://www.thehindu.com/society/lavi-fair-rampur-himachal-pradesh-story/article71660853.ece
-  • The Lavi Fair in Rampur Bushahr, Shimla district, has traded Himalayan wool and woollen goods for about 300 years, and its name is linked to "Loe", a sheet of woollen cloth. ¶ • Woollen pattus and shawls remain central to the fair, with families buying shawls for weddings and trousseaux, as the author recalls receiving a black sheep wool and pashmina shawl for her own wedding.
+- India will have 1.38 crore white-collar jobs in 2027
+  23 Nov 2026 | https://www.thehindu.com/business/india-will-have-138-crore-white-collar-jobs-in-2027/article71735942.ece
+  • India's white-collar hiring grew 3.30% year-on-year in 2026, with 1.38 crore jobs projected for 2027 and hiring expected to rise 8.16%, says foundit. ¶ • IT roles grew 20.28% in 2026 even as IT-Software services hiring fell 1.66%, while AI, cloud and cybersecurity demand surged 30-40%.
 
 ============================================================
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
-[[South Asia diplomacy]]
+- Trump orders U.S. Army to pause detonation of lead explosives in Iowa
+  24 Nov 2026 | https://www.thehindu.com/news/international/trump-orders-us-army-to-pause-detonation-of-lead-explosives-in-iowa/article71737035.ece
+  • Trump told the Army to hold off on detonating 68 drums, nearly 10,000 pounds (4,500 kilograms), of lead azide at the Iowa Army Ammunition Plant in Middletown. ¶ • The 8th US Circuit Court of Appeals lifted its stay hours later, but the Army's next move stayed unclear because Trump said Governor-elect Rob Sand should also approve.
 
-- Modi’s Canada visit is set to move ties in a new direction: Vina Nadjibulla
-  23 Nov 2026 | https://www.thehindu.com/opinion/interview/modis-canada-visit-is-set-to-move-ties-in-a-new-direction-vina-nadjibulla/article71734232.ece
-  • Prime Minister Narendra Modi will visit Canada, which Vina Nadjibulla calls an opportunity to reset bilateral relations. ¶ • Nadjibulla, CEO of the Centre for Strategic Statecraft, says India and Canada have made significant progress normalising diplomatic ties after a recent breakdown.
-
-- Nepal PM India visit LIVE: PM Modi announces offshore campus of IIT in Nepal
-  23 Nov 2026 | https://www.thehindu.com/news/national/nepal-pm-india-visit-balen-shah-begins-bilateral-trip-energy-connectivity-on-agenda-live-updates-november-23-2026/article71733252.ece
-  • Balendra Shah arrived in New Delhi on Sunday afternoon for his first official visit to India, with energy and connectivity on the agenda. ¶ • The Nepali Congress opposition urged him to put national interest first, and he is set to hold talks with Prime Minister Narendra Modi and inaugurate projects on Monday.
-
-- China says ready to work with India to facilitate visa issuance for business people
-  23 Nov 2026 | https://www.thehindu.com/news/national/china-says-ready-to-work-with-india-to-facilitate-visa-issuance-for-business-people/article71734314.ece
-  • China's Foreign Ministry said it is ready to work with India on visa arrangements for business personnel, after reports its missions cut visa issuance to Indian nationals. ¶ • India has cut its visa rejection rate for Chinese nationals to about 7% in recent months, and direct flights including Beijing-New Delhi have resumed.
-
-- Bangladesh vows to arrest ex-PM Hasina if she returns from India
-  23 Nov 2026 | https://www.thehindu.com/news/international/bangladesh-vows-to-arrest-ex-pm-hasina-if-she-returns-from-india/article71734092.ece
-  • Bangladesh will arrest and jail former Prime Minister Sheikh Hasina if she returns from India, State Minister for Foreign Affairs Shama Obaed Islam said. ¶ • Dhaka is seeking her extradition under an existing treaty, while her Awami League's protests over her planned December 2026 return brought bomb blasts and arson in at least 28 districts.
-
-[[Israel politics and conflict]]
-
-- Israel at an Inflection Point
-  23 Nov 2026 | https://www.thehindu.com/news/international/israel-at-an-inflection-point/article71734081.ece
-  • The Hindu Group published an e-book, Israel at an Inflection Point, on Israel's strategic and political landscape after an election ended Benjamin Netanyahu's governing majority. ¶ • Its essays cover post-October 7 opposition to Palestinian statehood, U.S. scepticism, and India's de-hyphenation policy of deepening ties with Tel Aviv while backing a two-state solution.
-
-- Netanyahu, Eisenkot parties end talks without deal on forming Israel government
-  23 Nov 2026 | https://www.thehindu.com/news/international/netanyahu-eisenkot-parties-end-talks-without-deal-on-forming-israel-government/article71732431.ece
-  • Eisenkot's Yashar and Netanyahu's Likud met four hours in Herzliya on Sunday without agreeing on a coalition, and will hold a follow-up meeting with no date set. ¶ • Eisenkot has until December 6, with a possible 14-day extension, to form a government, needing 61 lawmakers for a majority while his 48-member bloc is divided over ultra-Orthodox, Arab or unity partners.
-
-[[Russia Ukraine war]]
-
-- Pakistan PM Shehbaz Sharif postpones Russia visit over regional and internal situation
-  23 Nov 2026 | https://www.thehindu.com/news/international/pakistan-pm-shehbaz-sharif-to-undertake-official-visit-to-russia/article71733670.ece
-  • Sharif's office said the Russia trip, reported for March 3-5, was postponed after consultations, with a new date to be set by mutual agreement. ¶ • The decision came as cross-border clashes with Afghanistan flared since February 26 and protests spread across Pakistan over the death of Iran's Supreme Leader Ali Khamenei in U.S.-Israel air strikes.
-
-- Ukraine says Russian strikes kill 15 in Kyiv region
-  23 Nov 2026 | https://www.thehindu.com/news/international/ukraine-says-russian-strikes-kill-several-in-kyiv-region/article71733677.ece
-  • Russian strikes on the Kyiv region killed at least 15 people, including 11 in a five-storey apartment block in Dymer that partially collapsed. ¶ • A strike on a supermarket in Vyshneve killed three and wounded 15, as Putin vowed "much more painful" retaliation for Ukrainian attacks on the Crimea bridge.
-
-[[Climate talks]]
-
-- COP31 talks fail as EU and others reject climate deal without fossil fuel phase-out language
-  23 Nov 2026 | https://www.thehindu.com/sci-tech/energy-and-environment/cop31-fails-to-agree-on-climate-deal-in-chaotic-finale/article71731651.ece
-  • Countries at COP31 in Antalya, Turkiye, failed to reach any consensus agreement on Sunday after running a record 48 hours into overtime over a fossil fuel phase-out standoff. ¶ • The EU, backed by about 130 countries, rejected COP31 President Murat Kurum's cover text for omitting explicit fossil fuel language, while India, Saudi Arabia and China supported it.
-
-[[China influence concerns]]
-
-- U.S. panel urges India dialogue for Dalai Lama succession, warns of China legitimacy contest
-  23 Nov 2026 | https://www.thehindu.com/news/international/us-panel-urges-india-dialogue-for-dalai-lama-succession-warns-of-china-legitimacy-contest/article71733447.ece
-  • The U.S.-China Economic and Security Review Commission told Congress to set up a senior-level channel with India for succession contingency planning and intelligence sharing on Chinese influence operations. ¶ • The report backs the Gaden Phodrang Trust, set up by the Dalai Lama in 2011, as the sole authority to recognise his successor, and urges Congress not to recognise any successor installed by China.
-
-- Alice Huang in touch with Chinese spy agency during affair with Nvidia CEO, says NYT
-  23 Nov 2026 | https://www.thehindu.com/news/international/alice-huang-in-touch-with-chinese-spy-agency-during-affair-with-nvidia-ceo-says-nyt/article71733237.ece
-  • The New York Times reported Alice Huang was in contact with a Ministry of State Security officer from spring 2025 until fall 2026, during her affair with then-CEO Jensen Huang. ¶ • US officials, including Attorney General Todd Blanche and intelligence chief Jay Clayton, say they have not concluded she spied, while the scandal led to Jensen Huang's resignation and a steep drop in Nvidia's stock price.
-
-[[Labor and industry]]
-
-- Bangladesh garment makers eye 15% wage hike, far short of workers' demand
-  23 Nov 2026 | https://www.thehindu.com/news/international/bangladesh-garment-makers-eye-15-wage-hike-far-short-of-workers-demand/article71734242.ece
-  • Garment manufacturers may propose about a 15% minimum monthly wage increase at talks on Monday, against workers' demand to raise it to 30,000 taka ($242) from 12,500 taka. ¶ • Unrest over 18 days cost 317 factories about $428 million and shifted roughly $254 million in orders abroad, in an industry employing over 4 million workers.
-
-- Indonesia says 24 killed in factory blaze as rescuers search for dozens missing
-  23 Nov 2026 | https://www.thehindu.com/news/international/indonesia-banten-factory-fire-death-toll-people-missing/article71733448.ece
-  • A fire at the PT Fonusa Agung Mulia confectionery factory in Cikande, Banten province, killed 24 people and left about 30 missing, with 29 confirmed safe including five hospitalised. ¶ • Preliminary reports suggest an air-conditioner short circuit caused the Saturday evening blaze, and police say victims are unidentifiable visually so DNA collection from relatives could take weeks.
+- Chinese neuroscientist at Princeton is held by ICE after detention at Washington airport
+  24 Nov 2026 | https://www.thehindu.com/news/international/chinese-neuroscientist-at-princeton-is-held-by-ice-after-detention-at-washington-airport/article71736987.ece
+  • ICE detained Princeton doctoral student Eva Yi Xie at Ronald Reagan Washington National Airport on November 19, 2026, and she remains in the Caroline Detention Centre in Virginia. ¶ • DHS says Xie overstayed a visa that expired September 15, 2016, while her lawyer says she has permission to live, work and study in the US with a pending asylum application.
 
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-
-### Oyo eyes January-March IPO as investors peg valuation at around $2 billion
-23 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/oyo-eyes-ipo-again-ev-makers-expand-dealerships/articleshow/136086699.cms
-
-• Oravel Stays, Oyo's parent, is likely to launch its IPO in the January-March quarter at a valuation of ₹20,000-22,000 crore ($2.1-2.3 billion).
-
-• The IPO is expected to be entirely a primary capital raise, with no offer-for-sale component.
-
-• In October, Oravel cut its proposed IPO size by nearly half to ₹3,350 crore.
-
-• More than 84% of Oyo's operating revenue comes from outside India, with the US at 27% and Europe around 24%.
-
-### Dealership expansion becomes key to EV makers’ growth ambitions
-23 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/oyo-eyes-ipo-again-ev-makers-expand-dealerships/articleshow/136086699.cms
-
-• Electric two-wheeler makers are ramping up dealership networks to drive sales and strengthen after-sales service.
-
-• Ola Electric is targeting more than 700 dealerships by March 2027, while Oben Electric plans 200 additional showrooms by the end of this fiscal.
-
-• Bajaj's Chetak has over 550 exclusive stores and is targeting 1,000 in about a year, while TVS sells its iQube through more than 2,800 dealerships.
-
-• Electric two-wheeler registrations rose 48% year-on-year to a record 2.24 lakh in October.
-
-### Hexaware’s new chief charts 90-day reset, eyes AI growth, big-ticket deals
-23 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/oyo-eyes-ipo-again-ev-makers-expand-dealerships/articleshow/136086699.cms
-
-• Hexaware's incoming CEO Vivek Jetley is undertaking a 90-day review to decide growth priorities, including geographies and business segments.
-
-• Jetley said he is evaluating acquisitions that can bring forward deployed engineering (FDE) capabilities, consulting, data modernisation or cybersecurity solutions.
-
-• The company is building a pool of 250 FDEs and 1,200 architects to support AI-led client projects, and is ahead of its target.
-
-• Jetley wants to strengthen Hexaware's AI go-to-market strategy.
-
-### Karnataka’s data centres push
-23 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/oyo-eyes-ipo-again-ev-makers-expand-dealerships/articleshow/136086699.cms
-
-• The Karnataka government is targeting a data centre capacity of 1,000 MW by 2031.
-
-• It plans to develop data centre zones in Hoskote, Mangaluru and Mysuru.
-
-• Industry executives pointed out that the state data centre policy offers land subsidy and stamp duty reimbursement only to data centres setting up outside Bengaluru.
-
-### GTA VI drives used console demand
-23 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/oyo-eyes-ipo-again-ev-makers-expand-dealerships/articleshow/136086699.cms
-
-• The launch of Grand Theft Auto VI is driving a rush for used Sony PlayStation 5 consoles in India.
-
-• Refurbished gaming retailers are reporting stockouts and rising resale prices.
-
-• Players are scrambling to get the hardware needed to play the new title, which was released last week.
-
-### Marvell India drives global products
-23 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/oyo-eyes-ipo-again-ev-makers-expand-dealerships/articleshow/136086699.cms
-
-• Marvell India contributes to the making of nearly 90% of the US semiconductor company’s products.
-
-• The level of involvement ranges from 10-20% in some products to complete ownership in others, country manager Navin Bishnoi said.
-
-• The India unit has evolved from being primarily an engineering support centre to owning complete product lines.
-
-### Global pick: London's urgent race to make AI safer
-BBC | https://www.bbc.com/news/articles/cmvg23q5xq31o
-
-• London has built a cluster of AI safety organisations, with up to 50 in the capital according to the London AI Hub.
-
-• The UK's AI Security Institute (AISI) assesses leading models before and after release for risks like cyber misuse.
-
-• The government will launch an AI Biosecurity Lab, with Basecamp Research working alongside OpenAI and Anthropic on antibiotics and vaccines.
-
-• Prof Gina Neff warns researchers struggle to access cutting-edge models before release, and a world-leading ecosystem needs energy-hungry data centres.
-
-### Global pick: AI isn’t replacing your job. It’s turning it into low-paid gig work
-Rest of World | https://restofworld.org/2026/ai-jobs-skills-gig-work/
-
-• Recruiting platform Outlier, run by Scale AI, advertises up to $180 an hour for U.S. physicians to design cardiac scenarios and rank AI outputs, but up to $7.50 an hour for Tagalog work in the Philippines.
-
-• Platforms like Scale AI first outsourced data work to cheap labor, then recruited physicians, lawyers and Ph.D.s to generate and annotate data while controlling payment and conditions.
-
-• In Venezuela, teacher Rogelio and his 13-year-old son earned 18 cents and just over $2 on their first days labeling data; Beast Mode brought in $20 in a single day in December 2020 before disappearing in early 2021.
-
-• The writer calls this pattern extractivism: platforms pay well to build a workforce, cut rates and move on, as Remotasks ended its hourly program in Venezuela in 2021 and left Kenya, Nigeria and Pakistan in March 2024.
-
-### Global pick: The most misunderstood graph in AI just got a major update
-MIT Technology Review | https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/
-
-• METR's updated time horizon plot adds longer and more open-ended tasks to its evaluation of AI model capabilities.
-
-• The original plot showed the length of tasks frontier models could complete doubling every four months.
-
-• No AI-designed evaluation was good enough for METR employees to consider useful for their research.
-
-• Models still lag humans on judgment-heavy tasks, though newest models like Opus 5.5 reach borderline above the bar.
+[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
 
 ============================================================
 
@@ -600,24 +498,24 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 - ~
   23 Nov 2026 | https://timesofindia.indiatimes.com/education/news/iti-students-deserve-the-same-respect-as-iit-students-says-pm-modi/articleshow/136090452.cms
-  ## What the sector does ¶ • India's telecom equipment industry makes optical fibre, routers, switches and transmission gear for telecom operators, defence and government networks. ¶ • Revenue comes from equipment orders and annual maintenance contracts, mostly from state-run telcos and ministries; costs are components, labour and interest. ¶ ## What the company does ¶ • ITI Ltd makes and services telecom equipment such as telephone exchanges, optical fibre cable and defence communication gear, mainly for government and state-run telecom customers. ¶ • It earns from equipment supply and maintenance contracts; its market cap is ₹26,622 crore and it competes with private telecom gear makers. ¶ ## Why it moved today ¶ • The news articles do not explain the 12.41% rise; they cover PM Modi's remarks on Industrial Training Institutes, a volume-gainers list and a college convocation, none about ITI Ltd. ¶ • Context: ITI's September 2026 quarter net loss was ₹31 crore on sales of ₹482 crore, and the stock trades at 14.3 times book value. ¶ ## The numbers (Screener) ¶ • Stock P/E is not meaningful as earnings are negative; book value is ₹19.1, price ₹276, market cap ₹26,622 crore, ROCE 2.10% and ROE -8.86%. ¶ • September 2026 quarter: sales ₹482 crore, operating profit ₹7 crore (OPM 1.4%), net loss ₹31 crore, EPS -0.33; March 2026 quarter had net profit ₹436 crore including other income of ₹503 crore. ¶ ## What the numbers say ¶ • ITI's 2.10% ROCE and negative ROE trail peers like Sterlite Tech (7.65% ROCE), Optiemus (10.92%) and Valiant (37.69%), showing weak capital returns. ¶ • At 14.3 times book value with a ₹31 crore quarterly loss, the stock looks expensive versus loss-making Tejas Networks and profitable Birla Cable (P/E 10.12). ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/education/news/iti-students-deserve-the-same-respect-as-iit-students-says-pm-modi/articleshow/136090452.cms ;; hdfcsky.com|https://hdfcsky.com/news/volume-gainers-november-23-2026-at-12-pm ;; odishabarta.com|https://odishabarta.com/convocation-ceremony-held-at-government-iti-rayagada/
+  ## What the sector does ¶ • Telecom equipment makers sell network gear such as optical fibre cable, routers and switching systems to telecom operators, defence and government buyers. ¶ • Revenue depends on operator capex and government tenders, while cost is driven by raw materials like copper and optical fibre, plus project execution. ¶ ## What the company does ¶ • ITI Ltd manufactures, trades and services telecommunication equipment and offers telephone communication services, with the government as a major customer. ¶ • It competes with private telecom gear makers such as Sterlite Technologies and Tejas Networks, and had a market cap of ₹26,603 crore at a price of ₹276. ¶ ## Why it moved today ¶ • ITI shares rose 12.41% on 23 November 2026, with 319.49 lakh shares changing hands on the NSE, according to a report citing NSE data. ¶ • The move came as Q2 FY27 revenue fell 11.3% year-on-year to ₹481.99 crore, but net loss narrowed 42.15% to ₹31.44 crore and operating profit turned positive at ₹6.51 crore. ¶ ## The numbers (Screener) ¶ • ITI's stock P/E is not meaningful as the company is loss-making, with a book value of ₹19.1 and a price-to-book of about 14.4 times. ¶ • Quarterly sales fell from ₹628 crore in March 2026 to ₹482 crore in September 2026, while net profit was negative ₹31 crore in September 2026. ¶ ## What the numbers say ¶ • ITI's ROCE of 2.10% and ROE of -8.86% are far below peers such as Sterlite Technologies (ROCE 7.65%) and Optiemus Infra (ROCE 10.92%), showing weak capital returns. ¶ • The stock trades at about 14.4 times book value despite losses, while peers like Birla Cable trade at a P/E of 10.11, making ITI look expensive relative to its current earnings. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/education/news/iti-students-deserve-the-same-respect-as-iit-students-says-pm-modi/articleshow/136090452.cms ;; kotakneo.com|https://www.kotakneo.com/news/stocks/iti-share-price-in-focus-after-q2-losses-narrow-and-five-year-returns-rise/ ;; vigan.bomboradyo.com|https://vigan.bomboradyo.com/panangraut-dagiti-drone-idiay-sudan-4-ti-natay-pasdek-ti-un-nadadael/
 
 [Pb Fintech Ltd (POLICYBZR, +6.48%)]
 
 - ~
   23 Nov 2026 | https://www.linkedin.com/posts/cnbc-tv18_pb-fintech-jumps-9-after-recent-rout-among-activity-7530579355367047168-S-d0
-  ## What the sector does ¶ • India's online insurance and lending distribution market sells policies and loans to retail customers through digital marketplaces rather than agents. ¶ • Revenue comes from commissions paid by insurers and lenders on policies and loans sold, so earnings track premium volumes, loan disbursals and commission rates set by IRDAI. ¶ ## What the company does ¶ • PB Fintech runs Policybazaar, India's largest online insurance marketplace, and Paisabazaar, its lending and credit marketplace, selling to retail customers across the country. ¶ • It earns commissions from insurers and lenders on policies and loans sold, with revenue of ₹2,178 crore in the September 2026 quarter and a market cap of ₹50,780 crore. ¶ ## Why it moved today ¶ • CNBC TV18 reported PB Fintech surged as much as 9% on November 23 and ended 6.5% higher at ₹1,089.10, one of the top two Nifty 500 gainers, after four straight losing sessions. ¶ • The rebound followed a 39% fall in 2026 driven by IRDAI's September draft proposing commission caps and dark-pattern curbs, and a 6% drop on November 19 after co-founder Alok Bansal said he would step down from his executive role effective March 31, 2027. ¶ ## The numbers (Screener) ¶ • Stock P/E is 63.0, price to book is 6.49 times on a book value of ₹168, ROCE is 10.3% and ROE is 9.75%, with no dividend. ¶ • September 2026 quarter sales were ₹2,178 crore, up 34.96% year on year, with net profit of ₹192.39 crore, up 42.70%, and operating margin of 7%. ¶ ## What the numbers say ¶ • PB Fintech's P/E of 63.0 is above the peer median of 28.64 but below One 97's 132.97 and Pine Labs' 114.36, while its ROCE of 10.3% sits below the peer median of 14.13%. ¶ • September quarter sales growth of 34.96% is in line with the peer median of 34.3%, but operating margin slipped to 7% from 10% in the March 2026 quarter, and the stock remains 44% below its 52-week high of ₹1,964.20. ¶ ↗ linkedin.com|https://www.linkedin.com/posts/cnbc-tv18_pb-fintech-jumps-9-after-recent-rout-among-activity-7530579355367047168-S-d0 ;; tradingview.com|https://www.tradingview.com/news/cnbctv:d9ab3414f094b:0/ ;; univest.in|https://univest.in/blogs/pb-fintech-share-price-target-2027
+  ## What the sector does ¶ • Online insurance and lending marketplaces earn commission and fee income by connecting customers with insurers, banks and non-bank lenders. ¶ • Revenue depends on insurance premium volumes and loan disbursals, while costs are driven by advertising, marketing and technology spending. ¶ ## What the company does ¶ • PB Fintech runs Policybazaar, India's largest online insurance marketplace, and PaisaBazaar, a lending marketplace for credit cards, personal and business loans. ¶ • It earns commission from insurers and lenders on policies and loans sold, with revenue of ₹2,178 crore in the September 2026 quarter. ¶ ## Why it moved today ¶ • PB Fintech rose 6.48% to ₹1,089 on November 23, rebounding from a four-session losing streak, with CNBC-TV18 reporting the stock as one of the top two Nifty 500 gainers. ¶ • The rebound followed a 39% year-to-date decline driven by IRDAI's September draft proposing commission caps and dark-pattern restrictions, which analysts said could hurt online insurance distributors' profitability. ¶ ## The numbers (Screener) ¶ • Stock P/E is 62.9, price to book is 6.48 times, ROCE is 10.3% and ROE is 9.75%, with a market cap of ₹50,661 crore. ¶ • September 2026 quarter revenue was ₹2,178 crore, up 35% year on year, and net profit was ₹192 crore, up 43%, with operating margin at 7%. ¶ ## What the numbers say ¶ • PB Fintech's P/E of 62.9 is above the peer median of 28.59, but its ROCE of 10.3% is below the peer median of 14.13%, suggesting the market is pricing in growth rather than current returns. ¶ • Revenue growth of 35% and profit growth of 43% in the September quarter are strong, but the 7% operating margin and elevated advertising costs remain a concern for investors. ¶ ↗ linkedin.com|https://www.linkedin.com/posts/cnbc-tv18_pb-fintech-jumps-9-after-recent-rout-among-activity-7530579355367047168-S-d0 ;; businessworld.in|https://www.businessworld.in/article/pb-fintech-shares-jump-as-investors-look-past-regulatory-concerns-634842 ;; indiaipo.in|https://www.indiaipo.in/news/detail/pb-fintech-jumps-9-after-recent-rout-among-top-nifty-500-gainers
 
 [[Top Losers]]
 
 [Apl Apollo Tubes Ltd (APLAPOLLO, -21.29%)]
 
 - ~
-  23 Nov 2026 | https://www.moneycontrol.com/news/business/markets/apl-apollo-tubes-shares-plunge-10-tata-steel-falls-4-as-rs-5-825-crore-block-deal-follows-acquisition-news-14086850.html
-  ## What the sector does ¶ • Indian steel tubes and pipes makers sell MS black pipes, galvanised and pre-galvanised tubes and structural hollow sections to construction, housing, irrigation, solar and engineering buyers. ¶ • Revenue tracks steel prices and construction demand, while cost is dominated by hot-rolled coil, so spreads and capacity use drive margins; large listed players include APL Apollo, Welspun Corp, Ratnamani Metals and Jindal Saw. ¶ ## What the company does ¶ • APL Apollo Tubes makes over 1,500 varieties of MS black pipes, galvanised tubes, pre-galvanised tubes and structural ERW steel tubes from 10 plants, selling to urban infrastructure, housing, irrigation, solar and engineering customers. ¶ • It is India's largest branded steel tubes maker by scale, with FY26 turnover of about ₹23,079 crore and profit after tax of about ₹1,203 crore, and its 14 brands and 5,000-plus products are the asset Tata Steel is buying into. ¶ ## Why it moved today ¶ • The stock fell 21.29% to ₹1,658.9 as 2.77 crore shares, about 10% of equity, changed hands in a ₹5,825 crore block deal at ₹2,100 apiece tied to Tata Steel's purchase from promoter S Gupta Holding. ¶ • Tata Steel agreed to buy up to 26.38% from the promoter for about ₹15,511 crore and launch a mandatory open offer for another 26% at ₹2,301.40 a share, while APL Apollo will buy Tata Steel's tubes business and Tata Steel Colors for up to ₹28,000 crore. ¶ ## The numbers (Screener) ¶ • The stock trades at a P/E of 35.4 and 8.54 times book value of ₹207, with ROCE of 31.8% and ROE of 25.4%, against a market capitalisation of ₹46,318 crore. ¶ • September 2026 quarter sales were ₹7,002 crore with net profit of ₹382 crore and EPS of ₹13.77, up from ₹5,607 crore sales and ₹263 crore profit in the June 2026 quarter. ¶ ## What the numbers say ¶ • At a P/E of 35.4 the stock is priced above the peer median of 20.62 and above Welspun Corp's 23.97, Shyam Metalics' 26.07 and Jindal Saw's 28.05, while its 31.8% ROCE is the highest in the peer table against a median of 13.31%. ¶ • September 2026 quarter sales rose 26.58% and net profit 26.82% year on year, faster than Welspun's 6.18% sales growth, so the 21.29% fall reflects the block deal and ownership change rather than a break in operating momentum. ¶ ↗ moneycontrol.com|https://www.moneycontrol.com/news/business/markets/apl-apollo-tubes-shares-plunge-10-tata-steel-falls-4-as-rs-5-825-crore-block-deal-follows-acquisition-news-14086850.html ;; m.economictimes.com|https://m.economictimes.com/industry/indl-goods/svs/steel/tata-steel-to-sell-tubes-pipes-business-and-tata-steel-colors-to-apl-apollo-for-rs-28000-crore/articleshow/136078094.cms ;; moneycontrol.com|https://www.moneycontrol.com/news/business/tata-steel-to-buy-up-to-26-38-in-apl-apollo-for-rs-15-511-crore-launch-rs-16-756-crore-open-offer-14086787.html
+  23 Nov 2026 | https://www.rediff.com/business/report/tata-steel-sells-tube--colour-coated-businesses-to-apl-apollo-for-28000-crore/20261123.htm
+  ## What the sector does ¶ • Steel tubes and pipes makers sell MS black pipes, galvanised tubes and hollow sections to construction, housing, irrigation, solar and engineering customers, mostly through distributors. ¶ • Revenue tracks steel prices and construction demand; cost is hot-rolled coil, the main raw material, so margins swing with steel spreads. ¶ ## What the company does ¶ • APL Apollo Tubes makes over 1,500 varieties of MS black pipes, galvanised and pre-galvanised tubes and structural ERW steel tubes from 10 plants, mainly in Delhi NCR. ¶ • It sells branded tubes to urban infrastructure, housing, irrigation, solar and greenhouse projects, with consolidated turnover of about ₹23,079 crore in FY26 and profit after tax of about ₹1,203 crore. ¶ ## Why it moved today ¶ • The stock fell 21.29% after a block deal of 2.77 crore shares, about 10% of equity, changed hands at ₹2,100 apiece for ₹5,825 crore, per Moneycontrol. ¶ • Tata Steel agreed to buy up to 26.38% from promoter S Gupta Holding for about ₹15,511 crore and launched a mandatory open offer for 26% at ₹2,301.40 a share, worth up to ₹16,756 crore. ¶ ## The numbers (Screener) ¶ • Stock P/E is 35.4, price to book is 8.08 times, ROCE is 31.8%, ROE is 25.4% and dividend yield is 0.51%, per Screener data. ¶ • September 2026 quarter sales were ₹7,002 crore with net profit of ₹382 crore and EPS of ₹13.77, against ₹5,607 crore sales and ₹263 crore profit in the June 2026 quarter. ¶ ## What the numbers say ¶ • At a P/E of 35.4, APL Apollo trades above the peer median of 20.39 and above Welspun Corp's 23.98, Shyam Metalics' 26.29 and Jindal Saw's 28.04, so the market has priced in faster growth. ¶ • Its ROCE of 31.8% and ROE of 25.4% are the highest in the peer table, against a peer median ROCE of 13.01%, and September quarter sales grew 26.58% and profit 26.82% year on year. ¶ ↗ rediff.com|https://www.rediff.com/business/report/tata-steel-sells-tube--colour-coated-businesses-to-apl-apollo-for-28000-crore/20261123.htm ;; moneycontrol.com|https://www.moneycontrol.com/news/business/markets/apl-apollo-tubes-shares-plunge-10-tata-steel-falls-4-as-rs-5-825-crore-block-deal-follows-acquisition-news-14086850.html ;; moneycontrol.com|https://www.moneycontrol.com/news/business/tata-steel-to-buy-up-to-26-38-in-apl-apollo-for-rs-15-511-crore-launch-rs-16-756-crore-open-offer-14086787.html
 
 [Tata Steel Ltd (TATASTEEL, -8.43%)]
 
 - ~
-  23 Nov 2026 | https://www.moneycontrol.com/news/business/markets/apl-apollo-tubes-shares-plunge-10-tata-steel-falls-4-as-rs-5-825-crore-block-deal-follows-acquisition-news-14086850.html
-  ## What the sector does ¶ • Indian steel tubes and pipes makers sell MS black pipes, galvanised and pre-galvanised tubes and structural hollow sections to construction, housing, irrigation, solar and engineering buyers. ¶ • Revenue tracks steel prices and construction demand, while cost is dominated by hot-rolled coil, so spreads and capacity use drive margins; large listed players include APL Apollo, Welspun Corp, Ratnamani Metals and Jindal Saw. ¶ ## What the company does ¶ • APL Apollo Tubes makes over 1,500 varieties of MS black pipes, galvanised tubes, pre-galvanised tubes and structural ERW steel tubes from 10 plants, selling to urban infrastructure, housing, irrigation, solar and engineering customers. ¶ • It is India's largest branded steel tubes maker by scale, with FY26 turnover of about ₹23,079 crore and profit after tax of about ₹1,203 crore, and its 14 brands and 5,000-plus products are the asset Tata Steel is buying into. ¶ ## Why it moved today ¶ • The stock fell 21.29% to ₹1,658.9 as 2.77 crore shares, about 10% of equity, changed hands in a ₹5,825 crore block deal at ₹2,100 apiece tied to Tata Steel's purchase from promoter S Gupta Holding. ¶ • Tata Steel agreed to buy up to 26.38% from the promoter for about ₹15,511 crore and launch a mandatory open offer for another 26% at ₹2,301.40 a share, while APL Apollo will buy Tata Steel's tubes business and Tata Steel Colors for up to ₹28,000 crore. ¶ ## The numbers (Screener) ¶ • The stock trades at a P/E of 35.4 and 8.54 times book value of ₹207, with ROCE of 31.8% and ROE of 25.4%, against a market capitalisation of ₹46,318 crore. ¶ • September 2026 quarter sales were ₹7,002 crore with net profit of ₹382 crore and EPS of ₹13.77, up from ₹5,607 crore sales and ₹263 crore profit in the June 2026 quarter. ¶ ## What the numbers say ¶ • At a P/E of 35.4 the stock is priced above the peer median of 20.62 and above Welspun Corp's 23.97, Shyam Metalics' 26.07 and Jindal Saw's 28.05, while its 31.8% ROCE is the highest in the peer table against a median of 13.31%. ¶ • September 2026 quarter sales rose 26.58% and net profit 26.82% year on year, faster than Welspun's 6.18% sales growth, so the 21.29% fall reflects the block deal and ownership change rather than a break in operating momentum. ¶ ↗ moneycontrol.com|https://www.moneycontrol.com/news/business/markets/apl-apollo-tubes-shares-plunge-10-tata-steel-falls-4-as-rs-5-825-crore-block-deal-follows-acquisition-news-14086850.html ;; m.economictimes.com|https://m.economictimes.com/industry/indl-goods/svs/steel/tata-steel-to-sell-tubes-pipes-business-and-tata-steel-colors-to-apl-apollo-for-rs-28000-crore/articleshow/136078094.cms ;; moneycontrol.com|https://www.moneycontrol.com/news/business/tata-steel-to-buy-up-to-26-38-in-apl-apollo-for-rs-15-511-crore-launch-rs-16-756-crore-open-offer-14086787.html
+  23 Nov 2026 | https://www.rediff.com/business/report/tata-steel-sells-tube--colour-coated-businesses-to-apl-apollo-for-28000-crore/20261123.htm
+  ## What the sector does ¶ • Steelmakers smelt iron ore and coal into flat and long products sold to construction, auto, appliance and infrastructure buyers, mostly through distributors and long-term contracts. ¶ • Revenue tracks global and domestic steel prices and volumes, while cost is dominated by iron ore, coking coal and energy, so margins swing with the commodity cycle. ¶ ## What the company does ¶ • Tata Steel is Asia's first integrated private steel company, founded in 1907, spanning mining and processing of iron ore and coal through to finished steel distribution. ¶ • It sells flat and long steel products to construction, automotive and industrial customers, and had a target to raise domestic steelmaking capacity to 30 million tonnes per annum by 2025. ¶ ## Why it moved today ¶ • Tata Steel fell 8.43% after announcing it will acquire up to 26.38% of APL Apollo Tubes from promoter S Gupta Holding for about ₹15,511 crore, triggering a mandatory open offer for another 26% at ₹2,301.40 a share. ¶ • The combined outlay could reach ₹32,266 crore, and a ₹5,825-crore block deal of 2.77 crore APL Apollo shares at ₹2,100 apiece followed the announcement, with APL Apollo closing down 21.8%. ¶ ## The numbers (Screener) ¶ • The stock trades at a P/E of 17.1 and 1.96 times its book value of ₹83.1, with a dividend yield of 2.45%, ROCE of 12.5% and ROE of 11.7%. ¶ • September 2026 quarter sales were ₹65,436 crore with net profit of ₹3,700 crore and EPS of ₹2.94, against ₹60,794 crore and ₹2,385 crore in the June 2026 quarter. ¶ ## What the numbers say ¶ • At a P/E of 17.1, Tata Steel sits in line with the peer median of 17.14 and below JSW Steel's 20.44, while its 12.5% ROCE beats JSW Steel's 10.96% and the peer median of 9.7%. ¶ • September quarter sales rose 11.5% and net profit 1.11% year on year, slower than JSW Steel's 20.67% sales growth, so the 8.43% fall reflects the APL Apollo deal rather than a results miss. ¶ ↗ rediff.com|https://www.rediff.com/business/report/tata-steel-sells-tube--colour-coated-businesses-to-apl-apollo-for-28000-crore/20261123.htm ;; moneycontrol.com|https://www.moneycontrol.com/news/business/markets/apl-apollo-tubes-shares-plunge-10-tata-steel-falls-4-as-rs-5-825-crore-block-deal-follows-acquisition-news-14086850.html
