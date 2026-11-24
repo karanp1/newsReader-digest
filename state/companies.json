@@ -116,7 +116,7 @@
   "sector": "Consumer electronics",
   "description": "South Korean conglomerate making memory chips, smartphones and displays; competing in high-bandwidth memory.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-24"
  },
  "skhynix": {
   "name": "SK Hynix",
@@ -137,14 +137,14 @@
   "sector": "Satellite internet",
   "description": "SpaceX's satellite broadband service awaiting security approvals for its India launch.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-21"
+  "last_mentioned": "2026-11-24"
  },
  "spacex": {
   "name": "SpaceX",
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-24"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -172,7 +172,7 @@
   "sector": "Telecom",
   "description": "Indian telecom operator providing mobile, broadband and enterprise services across the country.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-24"
  },
  "motilaloswal": {
   "name": "Motilal Oswal",
@@ -627,7 +627,7 @@
   "sector": "Asset management",
   "description": "Trimmed its Robinhood stake, selling 151,903 HOOD shares through ARKK.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-09"
+  "last_mentioned": "2026-11-24"
  },
  "barclays": {
   "name": "Barclays",
@@ -683,7 +683,7 @@
   "sector": "Quick commerce",
   "description": "Ranked fourth in product availability at 82.5%, per Bernstein.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-24"
  },
  "criteo": {
   "name": "Criteo",
@@ -1250,7 +1250,7 @@
   "sector": "Software",
   "description": "US software giant; suspended from the US PERM green card programme.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-21"
+  "last_mentioned": "2026-11-24"
  },
  "adobe": {
   "name": "Adobe",
@@ -1348,7 +1348,7 @@
   "sector": "Consumer electronics",
   "description": "iPhone and MacBook maker; discounts on MacBook Neo offered during Flipkart's sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-24"
  },
  "icicibank": {
   "name": "ICICI Bank",
@@ -1432,7 +1432,7 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-23"
+  "last_mentioned": "2026-11-24"
  },
  "citi": {
   "name": "Citi",
@@ -1761,7 +1761,7 @@
   "sector": "AI",
   "description": "Indian AI startup that appointed former Google Cloud India MD Sashikumar Sreedharan as President.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-24"
  },
  "otpless": {
   "name": "OTPless",
@@ -2741,7 +2741,7 @@
   "sector": "Financial data",
   "description": "Indian stock research platform; flagged valuation and return metrics for several stocks.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-24"
  },
  "tdsecurities": {
   "name": "TD Securities",
@@ -3273,7 +3273,7 @@
   "sector": "AI",
   "description": "Not enough detail in today's digest.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-23"
+  "last_mentioned": "2026-11-24"
  },
  "gartner": {
   "name": "Gartner",
@@ -4351,7 +4351,7 @@
   "sector": "Media",
   "description": "Reported McKinsey research on AI automating more than half of US work hours.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-24"
  },
  "theinformation": {
   "name": "The Information",
@@ -4365,42 +4365,42 @@
   "sector": "Media",
   "description": "Reported the UAE became the first country to make AI a required K-12 subject.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-24"
  },
  "financialtimes": {
   "name": "Financial Times",
   "sector": "Media",
   "description": "Published an analysis on whether Accenture will survive or thrive in the age of AI.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-24"
  },
  "thehindu": {
   "name": "The Hindu",
   "sector": "Media",
   "description": "Indian newspaper carrying the editorials, international and business coverage in this digest.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-24"
  },
  "entrackr": {
   "name": "Entrackr",
   "sector": "Media",
   "description": "Indian startup news outlet that publishes a weekly funding report.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-24"
  },
  "openclawnewsletter": {
   "name": "Open Claw Newsletter",
   "sector": "Media",
   "description": "Newsletter covering AI industry news and commentary.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-24"
  },
  "dynamicwatchlist": {
   "name": "Dynamic Watchlist",
   "sector": "Finance",
   "description": "Market watchlist source providing top gainers and losers headlines and summaries.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-24"
  },
  "moneycontrol": {
   "name": "Moneycontrol",
@@ -4435,21 +4435,21 @@
   "sector": "Financial data",
   "description": "Charting and market news platform carrying several of today's stock stories.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-24"
  },
  "yahoofinance": {
   "name": "Yahoo Finance",
   "sector": "Financial data",
   "description": "Market data site carrying coverage of Transformers & Rectifiers India's gain.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-24"
  },
  "kitco": {
   "name": "Kitco",
   "sector": "Media",
   "description": "Precious metals news site reporting on gold prices and ETF flows.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-24"
  },
  "bullionvault": {
   "name": "BullionVault",
@@ -4498,7 +4498,7 @@
   "sector": "Media",
   "description": "Indian newspaper covering Flipkart's Big Billion Days smartphone deals.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-11-24"
  },
  "tubefilter": {
   "name": "TubeFilter",
@@ -4568,7 +4568,7 @@
   "sector": "Media",
   "description": "Indian business newspaper carrying the morning dispatch and Info Edge coverage.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-24"
  },
  "businesstoday": {
   "name": "Business Today",
@@ -4617,21 +4617,21 @@
   "sector": "Media",
   "description": "Technology news site reporting Jio Platforms' $20 billion in IPO bids.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-24"
  },
  "bloomberg": {
   "name": "Bloomberg",
   "sector": "Media",
   "description": "Financial news outlet reporting investor interest in Jio Platforms' IPO.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-24"
  },
  "reuters": {
   "name": "Reuters",
   "sector": "Media",
   "description": "News agency whose reporting is cited across today's international stories.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-24"
  },
  "associatedpress": {
   "name": "Associated Press",
@@ -5303,7 +5303,7 @@
   "sector": "AI",
   "description": "AI platform company in early discussions with Anthropic about becoming an independent evaluator.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-11-21"
+  "last_mentioned": "2026-11-24"
  },
  "bostondynamics": {
   "name": "Boston Dynamics",
@@ -6339,7 +6339,7 @@
   "sector": "Government",
   "description": "US president who announced farm fuel relief and commented on French riots.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-24"
  },
  "truthsocial": {
   "name": "Truth Social",
@@ -6983,7 +6983,7 @@
   "sector": "Cybersecurity",
   "description": "Open-source platform used by a hacker to run AI agents against company websites.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-24"
  },
  "schlotzskys": {
   "name": "Schlotzsky's",
@@ -7039,14 +7039,14 @@
   "sector": "Investment",
   "description": "Japanese technology investment group.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-24"
  },
  "certin": {
   "name": "CERT-In",
   "sector": "Cybersecurity",
   "description": "India's national computer emergency response team; issued an advisory on AI agent threats.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-24"
  },
  "humantechnologyinstitute": {
   "name": "Human Technology Institute",
@@ -7074,7 +7074,7 @@
   "sector": "Cloud computing",
   "description": "Amazon's cloud unit; launched the open-source TorchNeuron tool for its Trainium chips.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-24"
  },
  "trainium": {
   "name": "Trainium",
@@ -7109,7 +7109,7 @@
   "sector": "AI",
   "description": "Google's AI model family; its transcription model was compared with Voxtral 3.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-24"
  },
  "scribe": {
   "name": "Scribe",
@@ -7487,7 +7487,7 @@
   "sector": "Media",
   "description": "Indian newspaper.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-24"
  },
  "openthemagazine": {
   "name": "OpenTheMagazine",
@@ -7522,7 +7522,7 @@
   "sector": "Ratings",
   "description": "Credit ratings and research agency.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-24"
  },
  "sec": {
   "name": "SEC",
@@ -7676,7 +7676,7 @@
   "sector": "Stock exchange",
   "description": "Indian exchange where Jio Platforms' IPO bids and Reliance share moves were recorded.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-24"
  },
  "dcgi": {
   "name": "DCGI",
@@ -7823,7 +7823,7 @@
   "sector": "Newsletter",
   "description": "Economic Times newsletter covering Indian tech and business news.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-24"
  },
  "constructionworld": {
   "name": "Construction World",
@@ -7837,7 +7837,7 @@
   "sector": "News",
   "description": "UK public broadcaster covering business and international news.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-24"
  },
  "billionairesafrica": {
   "name": "Billionaires Africa",
@@ -8446,7 +8446,7 @@
   "sector": "Central bank",
   "description": "Raised the repo rate 25 basis points to 5.5% and flagged widening inflation.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-24"
  },
  "deendayalport": {
   "name": "Deendayal Port",
@@ -9671,7 +9671,7 @@
   "sector": "Design software",
   "description": "Design platform that launched Canva Craft, its first in-house image generation model.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-24"
  },
  "cci": {
   "name": "CCI",
@@ -9755,7 +9755,7 @@
   "sector": "News outlet",
   "description": "Markets site covering gold and silver forecasts ahead of the Fed.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-26"
+  "last_mentioned": "2026-11-24"
  },
  "newindianexpress": {
   "name": "New Indian Express",
@@ -10014,7 +10014,7 @@
   "sector": "Crypto",
   "description": "Digital asset financial services firm saying bitcoin's bear market ended in June.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-16"
+  "last_mentioned": "2026-11-24"
  },
  "salesforce": {
   "name": "Salesforce",
@@ -10224,7 +10224,7 @@
   "sector": "Cloud computing",
   "description": "AWS service hosting Claude Opus 4.8 for Rescale's triage agent.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-24"
  },
  "amazoneks": {
   "name": "Amazon EKS",
@@ -10245,7 +10245,7 @@
   "sector": "Software",
   "description": "Proof assistant used to formalize OpenAI's math and computer science results.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-24"
  },
  "onet": {
   "name": "O*NET",
@@ -10987,7 +10987,7 @@
   "sector": "Telecom",
   "description": "South Korean telecom operator; published first AI governance report treating AI agents as labor.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-24"
  },
  "comcast": {
   "name": "Comcast",
@@ -11029,7 +11029,7 @@
   "sector": "Engineering",
   "description": "Indian engineering and construction major; Q2 profit rose 33% to Rs 5,202 crore.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-24"
  },
  "maruti": {
   "name": "Maruti",
@@ -11953,7 +11953,7 @@
   "sector": "Media",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-24"
  },
  "mediaindia": {
   "name": "Media India",
@@ -13556,7 +13556,7 @@
   "sector": "Space",
   "description": "India's space agency; GSLV-F18 launched successfully with the NVS-03 satellite reported healthy.",
   "first_added": "2026-11-02",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-24"
  },
  "learjet": {
   "name": "Learjet",
@@ -13654,7 +13654,7 @@
   "sector": "Gaming",
   "description": "Microsoft's gaming brand; console prices have risen, with AI blamed.",
   "first_added": "2026-11-02",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-24"
  },
  "multistate": {
   "name": "MultiState",
@@ -14312,7 +14312,7 @@
   "sector": "E-commerce",
   "description": "Chinese e-commerce and cloud group that also develops open-weight AI models.",
   "first_added": "2026-11-03",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-24"
  },
  "tencent": {
   "name": "Tencent",
@@ -16377,7 +16377,7 @@
   "sector": "Government",
   "description": "Government vehicle registration database; source of October EV registration data.",
   "first_added": "2026-11-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-24"
  },
  "houthis": {
   "name": "Houthis",
@@ -16440,21 +16440,21 @@
   "sector": "Semiconductors",
   "description": "Chip buyer whose employee Alice Huang was reportedly involved in an intelligence effort around Nvidia's CEO.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-24"
  },
  "jiohotstar": {
   "name": "JioHotstar",
   "sector": "Streaming",
   "description": "Indian streaming platform; included in Reliance Jio's Rs 10,000 prepaid plan.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-16"
+  "last_mentioned": "2026-11-24"
  },
  "jioaicloud": {
   "name": "JioAICloud",
   "sector": "Cloud storage",
   "description": "Reliance Jio's cloud storage service; offers 50GB with the Rs 10,000 prepaid plan.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-24"
  },
  "firmus": {
   "name": "Firmus",
@@ -16839,7 +16839,7 @@
   "sector": "Media",
   "description": "News site; reported the Vivo T5 5G discount on Flipkart.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-24"
  },
  "theopenpress": {
   "name": "The Open Press",
@@ -17840,7 +17840,7 @@
   "sector": "Software",
   "description": "Microsoft collaboration tool integrated with Northern Trust's onboarding agent.",
   "first_added": "2026-11-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-24"
  },
  "excel": {
   "name": "Excel",
@@ -18575,7 +18575,7 @@
   "sector": "Telecom",
   "description": "Korean telecom; uses AIO-Net agentic AI platform to diagnose network faults in about five minutes.",
   "first_added": "2026-11-14",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-24"
  },
  "unitedairlines": {
   "name": "United Airlines",
@@ -19492,7 +19492,7 @@
   "sector": "Insurance",
   "description": "Online insurance marketplace operated by PB Fintech.",
   "first_added": "2026-11-17",
-  "last_mentioned": "2026-11-23"
+  "last_mentioned": "2026-11-24"
  },
  "baidu": {
   "name": "Baidu",
@@ -19737,7 +19737,7 @@
   "sector": "Cybersecurity",
   "description": "Amazon unit that observed AI agent campaigns through its MadPot decoy network.",
   "first_added": "2026-11-18",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-24"
  },
  "artex": {
   "name": "ARTEX",
@@ -20423,7 +20423,7 @@
   "sector": "Location",
   "description": "Indian state where Reliance operates biogas plants among its 45 facilities.",
   "first_added": "2026-11-18",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-24"
  },
  "bihar": {
   "name": "Bihar",
@@ -20962,7 +20962,7 @@
   "sector": "Video games",
   "description": "Game developer behind Grand Theft Auto VI, released November 19 and sold via Blinkit.",
   "first_added": "2026-11-18",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-24"
  },
  "worldbankgroup": {
   "name": "World Bank Group",
@@ -21634,7 +21634,7 @@
   "sector": "Media",
   "description": "Polish right-wing social media account that raised money from Silicon Valley donors.",
   "first_added": "2026-11-21",
-  "last_mentioned": "2026-11-22"
+  "last_mentioned": "2026-11-24"
  },
  "hmt": {
   "name": "HMT",
@@ -21991,7 +21991,7 @@
   "sector": "Cables",
   "description": "Indian optical fibre and cable maker, a peer of ITI.",
   "first_added": "2026-11-23",
-  "last_mentioned": "2026-11-23"
+  "last_mentioned": "2026-11-24"
  },
  "sitarambyprannathkohli": {
   "name": "Sita Ram by Pran Nath Kohli",
@@ -22200,6 +22200,377 @@
   "name": "Dabur Honitus",
   "sector": "Consumer goods",
   "description": "Ayurvedic cough relief brand from Dabur; launched winter campaign with Blinkit and Himesh Reshammiya.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "target": {
+  "name": "Target",
+  "sector": "Retail",
+  "description": "US discount department store chain with stores and e-commerce.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "dwelly": {
+  "name": "Dwelly",
+  "sector": "Proptech",
+  "description": "UK lettings platform using AI agents to manage rental properties.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "papajohns": {
+  "name": "Papa John's",
+  "sector": "Restaurants",
+  "description": "US pizza restaurant chain with franchised outlets worldwide.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "lguplus": {
+  "name": "LG Uplus",
+  "sector": "Telecom",
+  "description": "South Korean mobile and broadband telecom operator.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "naver": {
+  "name": "Naver",
+  "sector": "Internet",
+  "description": "South Korean internet portal and search company.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "vodafone": {
+  "name": "Vodafone",
+  "sector": "Telecom",
+  "description": "UK-headquartered global mobile and fixed telecom operator.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "standardbankgroup": {
+  "name": "Standard Bank Group",
+  "sector": "Banking",
+  "description": "South African banking and financial services group.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "klarna": {
+  "name": "Klarna",
+  "sector": "Fintech",
+  "description": "Swedish buy-now-pay-later and shopping payments company.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "paisabazaar": {
+  "name": "Paisabazaar",
+  "sector": "Fintech",
+  "description": "Indian online lending and credit marketplace run by PB Fintech.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "sharestation": {
+  "name": "ShareStation",
+  "sector": "Gaming rentals",
+  "description": "Hyderabad-based platform renting gaming consoles.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "rentconsole": {
+  "name": "RentConsole",
+  "sector": "Gaming rentals",
+  "description": "Hyderabad-based platform renting gaming consoles.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "sony": {
+  "name": "Sony",
+  "sector": "Electronics",
+  "description": "Japanese maker of PlayStation consoles and consumer electronics.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "cftc": {
+  "name": "CFTC",
+  "sector": "Regulator",
+  "description": "US regulator overseeing derivatives and futures markets.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "elasticsearch": {
+  "name": "Elasticsearch",
+  "sector": "Software",
+  "description": "Open-source search and analytics engine.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "googlequantumai": {
+  "name": "Google Quantum AI",
+  "sector": "Quantum computing",
+  "description": "Google's quantum computing research unit.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "dataform": {
+  "name": "Dataform",
+  "sector": "Software",
+  "description": "Google Cloud data transformation and pipeline tool.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "bigquery": {
+  "name": "BigQuery",
+  "sector": "Cloud computing",
+  "description": "Google Cloud's serverless data warehouse.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "awsfargate": {
+  "name": "AWS Fargate",
+  "sector": "Cloud computing",
+  "description": "AWS serverless compute engine for containers.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "awsstepfunctions": {
+  "name": "AWS Step Functions",
+  "sector": "Cloud computing",
+  "description": "AWS service for orchestrating workflows.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "awswellarchitectedtool": {
+  "name": "AWS Well-Architected Tool",
+  "sector": "Cloud computing",
+  "description": "AWS tool for reviewing cloud workloads against best practices.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "entraagentid": {
+  "name": "Entra Agent ID",
+  "sector": "Software",
+  "description": "Microsoft identity service for AI agents.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "onedrive": {
+  "name": "OneDrive",
+  "sector": "Software",
+  "description": "Microsoft cloud file storage service.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "exchange": {
+  "name": "Exchange",
+  "sector": "Software",
+  "description": "Microsoft email and calendaring server.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "teams": {
+  "name": "Teams",
+  "sector": "Software",
+  "description": "Microsoft workplace communication and collaboration app.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "outlook": {
+  "name": "Outlook",
+  "sector": "Software",
+  "description": "Microsoft email and calendar application.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "copilot": {
+  "name": "Copilot",
+  "sector": "AI",
+  "description": "Microsoft's AI assistant across its products.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "autopilot": {
+  "name": "Autopilot",
+  "sector": "AI",
+  "description": "Microsoft's always-on personal agent for employees.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "fancode": {
+  "name": "FanCode",
+  "sector": "Streaming",
+  "description": "Indian sports streaming platform.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "jiotv": {
+  "name": "JioTV",
+  "sector": "Streaming",
+  "description": "Indian live TV streaming app from Reliance Jio.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "jiogames": {
+  "name": "JioGames",
+  "sector": "Gaming",
+  "description": "Indian gaming platform from Reliance Jio.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "foundit": {
+  "name": "foundit",
+  "sector": "Recruitment",
+  "description": "Indian online job portal and hiring platform.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "ransom": {
+  "name": "Inc Ransom",
+  "sector": "Cybersecurity",
+  "description": "Ransomware and extortion group.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "jsaadvocatessolicitors": {
+  "name": "JSA Advocates & Solicitors",
+  "sector": "Legal services",
+  "description": "Indian law firm advising on corporate and technology matters.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "dholera": {
+  "name": "Dholera",
+  "sector": "Industrial",
+  "description": "Gujarat industrial region hosting semiconductor projects.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "blind": {
+  "name": "Blind",
+  "sector": "Software",
+  "description": "Anonymous workplace discussion platform.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "tracxn": {
+  "name": "Tracxn",
+  "sector": "Data",
+  "description": "Indian market intelligence platform tracking startups.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "indiaaimission": {
+  "name": "IndiaAI Mission",
+  "sector": "Government",
+  "description": "Indian government initiative to fund and support AI development.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "iitkanpur": {
+  "name": "IIT Kanpur",
+  "sector": "Education",
+  "description": "Indian Institute of Technology in Kanpur.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "bihardepartmentofindustries": {
+  "name": "Bihar Department of Industries",
+  "sector": "Government",
+  "description": "Bihar state government industry department.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "valiantcommun": {
+  "name": "Valiant Commun",
+  "sector": "Telecom equipment",
+  "description": "Indian telecom equipment and cable maker.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "chosunilbo": {
+  "name": "Chosun Ilbo",
+  "sector": "Media",
+  "description": "South Korean newspaper.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "retaildive": {
+  "name": "Retail Dive",
+  "sector": "Media",
+  "description": "US retail industry news publication.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "aimmediahouse": {
+  "name": "AIM Media House",
+  "sector": "Media",
+  "description": "Indian AI and retail news publication.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "channelnewsasia": {
+  "name": "Channel News Asia",
+  "sector": "Media",
+  "description": "Singapore-based Asian news channel.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "odishabarta": {
+  "name": "Odisha Barta",
+  "sector": "Media",
+  "description": "Indian Odia-language news outlet.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "ssbcrack": {
+  "name": "SSBCrack",
+  "sector": "Media",
+  "description": "Indian defence and education news website.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "dynamitenews": {
+  "name": "Dynamite News",
+  "sector": "Media",
+  "description": "Indian news agency.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "herzindagi": {
+  "name": "HerZindagi",
+  "sector": "Media",
+  "description": "Indian lifestyle website.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "bairdmaritime": {
+  "name": "Baird Maritime",
+  "sector": "Media",
+  "description": "Maritime industry news publication.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "telecompaper": {
+  "name": "Telecompaper",
+  "sector": "Media",
+  "description": "Telecom industry news and research service.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "bweducation": {
+  "name": "BW Education",
+  "sector": "Media",
+  "description": "Indian education news publication.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "bomboradyo": {
+  "name": "Bomboradyo",
+  "sector": "Media",
+  "description": "Philippine radio and news network.",
+  "first_added": "2026-11-24",
+  "last_mentioned": "2026-11-24"
+ },
+ "emtedad": {
+  "name": "Emtedad",
+  "sector": "Media",
+  "description": "Iranian news website.",
   "first_added": "2026-11-24",
   "last_mentioned": "2026-11-24"
  }
