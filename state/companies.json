@@ -193,7 +193,7 @@
   "sector": "Retail",
   "description": "US retail giant and majority owner of Flipkart; facing pressure over employee stock option liquidity.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-23"
+  "last_mentioned": "2026-11-25"
  },
  "myntra": {
   "name": "Myntra",
@@ -1327,7 +1327,7 @@
   "sector": "Automotive",
   "description": "Two-wheeler maker; at the centre of an ownership dispute in Venu Srinivasan's family branch.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-23"
+  "last_mentioned": "2026-11-25"
  },
  "tvsholdings": {
   "name": "TVS Holdings",
@@ -2398,7 +2398,7 @@
   "sector": "Aerospace",
   "description": "European planemaker; building a commercial MRO hub in Nashik with HAL.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-25"
  },
  "choicebroking": {
   "name": "Choice Broking",
@@ -3686,7 +3686,7 @@
   "sector": "Gaming",
   "description": "Indian gaming company; founder Nitish Mittersain stepped down as MD.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-25"
  },
  "insta360": {
   "name": "Insta360",
@@ -11029,7 +11029,7 @@
   "sector": "Engineering",
   "description": "Indian engineering and construction major; Q2 profit rose 33% to Rs 5,202 crore.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-25"
  },
  "maruti": {
   "name": "Maruti",
@@ -14109,7 +14109,7 @@
   "sector": "Media",
   "description": "South Indian broadcaster cited as a peer in the Zee Entertainment comparison.",
   "first_added": "2026-11-02",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-25"
  },
  "relianceretail": {
   "name": "Reliance Retail",
@@ -14732,7 +14732,7 @@
   "sector": "Media",
   "description": "Indian media and entertainment company; featured among stocks to buy on November 5.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-25"
  },
  "gmrairports": {
   "name": "GMR Airports",
@@ -19464,7 +19464,7 @@
   "sector": "Semiconductors",
   "description": "Chinese chipmaker whose chips train Chinese AI models like Z.ai's.",
   "first_added": "2026-11-17",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-25"
  },
  "agnikulcosmos": {
   "name": "Agnikul Cosmos",
@@ -23502,6 +23502,62 @@
   "name": "WeFast",
   "sector": "Logistics",
   "description": "Borzo India on-demand delivery business being acquired by Shadowfax for Rs 23.3 crore.",
+  "first_added": "2026-11-25",
+  "last_mentioned": "2026-11-25"
+ },
+ "astrotalk": {
+  "name": "AstroTalk",
+  "sector": "Consumer apps",
+  "description": "Indian astrology consultation app; denied profiling users after data-collection claims.",
+  "first_added": "2026-11-25",
+  "last_mentioned": "2026-11-25"
+ },
+ "icliniq": {
+  "name": "iCliniq",
+  "sector": "Healthtech",
+  "description": "Coimbatore-founded, New York-headquartered telehealth firm running AI-powered healthcare tools.",
+  "first_added": "2026-11-25",
+  "last_mentioned": "2026-11-25"
+ },
+ "jupiterwagons": {
+  "name": "Jupiter Wagons",
+  "sector": "Rail equipment",
+  "description": "Indian rail wagon maker forming an 80:20 joint venture with Woojin for metro coaches.",
+  "first_added": "2026-11-25",
+  "last_mentioned": "2026-11-25"
+ },
+ "woojinindustrialsystems": {
+  "name": "Woojin Industrial Systems",
+  "sector": "Rail equipment",
+  "description": "South Korean maker of metro coaches and propulsion systems partnering with Jupiter Wagons.",
+  "first_added": "2026-11-25",
+  "last_mentioned": "2026-11-25"
+ },
+ "daburindia": {
+  "name": "Dabur India",
+  "sector": "FMCG",
+  "description": "Indian Ayurvedic and natural health care, foods and personal care products company.",
+  "first_added": "2026-11-25",
+  "last_mentioned": "2026-11-25"
+ },
+ "bisleri": {
+  "name": "Bisleri",
+  "sector": "Beverages",
+  "description": "Indian packaged drinking water brand whose sample failed FSSAI bromate and PAH tests.",
+  "first_added": "2026-11-25",
+  "last_mentioned": "2026-11-25"
+ },
+ "leonardo": {
+  "name": "Leonardo",
+  "sector": "Defence aerospace",
+  "description": "Italian defence and aerospace company in focus for India's naval helicopter acquisition.",
+  "first_added": "2026-11-25",
+  "last_mentioned": "2026-11-25"
+ },
+ "nsil": {
+  "name": "NSIL",
+  "sector": "Space",
+  "description": "Indian public sector space company that contracted HAL-L&T to build five PSLV rockets.",
   "first_added": "2026-11-25",
   "last_mentioned": "2026-11-25"
  }
