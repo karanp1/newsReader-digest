@@ -144,7 +144,7 @@
   "sector": "Space aerospace",
   "description": "Rocket launch and satellite company; parent of Starlink broadband service.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-26"
  },
  "reliancejio": {
   "name": "Reliance Jio",
@@ -536,7 +536,7 @@
   "sector": "Banking",
   "description": "Indian public sector bank providing retail and corporate banking services.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-26"
  },
  "kross": {
   "name": "Kross",
@@ -3245,7 +3245,7 @@
   "sector": "Holding company",
   "description": "Holding company controlling the Tata group; reportedly in early talks with banks about a potential listing.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-26"
  },
  "birlasoft": {
   "name": "Birlasoft",
@@ -7578,7 +7578,7 @@
   "sector": "Cement",
   "description": "Chennai-based cement maker with about 14.45 million tonnes capacity, mainly South India; also owns Chennai Super Kings.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-11-26"
  },
  "zenatarisrenewableenergy": {
   "name": "Zenataris Renewable Energy",
@@ -17399,7 +17399,7 @@
   "sector": "Electronics manufacturing",
   "description": "Apple supplier; directed to review safety after three contract workers died in a gas leak.",
   "first_added": "2026-11-11",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "minimax": {
   "name": "MiniMax",
@@ -23670,6 +23670,69 @@
   "name": "P&G Hygiene",
   "sector": "FMCG",
   "description": "Indian arm of Procter & Gamble selling health and hygiene products.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "wellsfargo": {
+  "name": "Wells Fargo",
+  "sector": "Banking",
+  "description": "US bank that more than doubled its iShares Bitcoin Trust stake to about $2.4 billion.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "agnicai": {
+  "name": "Agnic.AI",
+  "sector": "AI",
+  "description": "Company that completed a live mainnet Bitcoin purchase by an AI agent inside ChatGPT.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "gobtcpay": {
+  "name": "GoBTC Pay",
+  "sector": "Crypto payments",
+  "description": "Payments firm that settled a live mainnet Bitcoin purchase by an AI agent inside ChatGPT.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "norseatlantic": {
+  "name": "Norse Atlantic",
+  "sector": "Airlines",
+  "description": "Long-haul airline that suspended flights and warned it may file for bankruptcy without urgent financing.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "bangchak": {
+  "name": "Bangchak Corp",
+  "sector": "Oil refining",
+  "description": "Thai energy company that shut all units at its Phra Khanong refinery after a fire injured at least seven.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "fedex": {
+  "name": "FedEx",
+  "sector": "Logistics",
+  "description": "US delivery company whose MD-11 aircraft overran a runway at Miami International Airport.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "asml": {
+  "name": "ASML",
+  "sector": "Semiconductors",
+  "description": "Dutch semiconductor equipment maker partnering with Tata Electronics on a fabrication project in India.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "actionconstructionequipment": {
+  "name": "Action Construction Equipment",
+  "sector": "Construction equipment",
+  "description": "Indian maker of cranes, loaders and forklifts; shares rose on a Rs 11,000 crore government equipment scheme.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "prestigeestatesprojects": {
+  "name": "Prestige Estates Projects",
+  "sector": "Real estate",
+  "description": "Indian property developer of residential, office, retail and hospitality projects; shares jumped on an Axis Securities Buy call.",
   "first_added": "2026-11-26",
   "last_mentioned": "2026-11-26"
  }
