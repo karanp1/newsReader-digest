@@ -3,8 +3,8 @@ METRICS
 NIFTY PE | 21.03 | 25 Nov 2026 | https://nifty-pe-ratio.com/
 Gold per 10g 24K | ₹1,23,270 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 25,819.25 (+2.34%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹56,06,084 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $60,791 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹56,17,914 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $60,609 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -12,12 +12,12 @@ SOURCE 6: Watchlist (headlines + summary)
 [Jio Platforms]
 
 - ~
-  25 Nov 2026 | https://www.kotakneo.com/news/stocks/jio-platforms-share-price-anchor-investor-lock-in-period-ends/
-  • About 3.62 crore Jio Platforms shares, roughly 13% of total equity, became eligible for trading as the 30-day anchor investor lock-in ended. ¶ • The stock fell around 2% in morning trade on November 25 as the unlocked shares, worth nearly ₹4,950 crore at Monday's close of ₹1,365.90, came free. ¶ • Jio Platforms launched JioAstro, an AI-powered Vedic astrology platform in English, Hindi, Marathi and Gujarati, taking on Astrotalk and AstroSage. ¶ • The astrology market is estimated at $390 million in 2026 and projected to reach $2.32 billion by 2032, a 34.61% CAGR, per MarkNtel Advisors. ¶ • A DCF estimate put Jio Platforms' intrinsic value broadly in line with its ₹1,397.60 share price, with free cash flow of roughly ₹374 billion over the last twelve months. ¶ ↗ kotakneo.com|https://www.kotakneo.com/news/stocks/jio-platforms-share-price-anchor-investor-lock-in-period-ends/ ;; inc42.com|https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/ ;; simplywall.st|https://simplywall.st/stocks/in/telecom/nse-jpl/jio-platforms-shares/news/jio-platforms-nseijpl-stock-looks-fairly-valued-with-cash-fl ;; fortuneindia.com|https://www.fortuneindia.com/markets/jio-platforms-362-crore-shares-to-become-eligible-for-trading-as-30-day-ipo-lock-in-ends-tomorrow/172044
+  25 Nov 2026 | https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/
+  • Jio Platforms launched JioAstro, an AI-powered Vedic astrology app, entering India's spiritual tech market against Astrotalk and AstroSage. ¶ • About 3.62 crore Jio Platforms shares, nearly 13% of equity, become eligible for trading on November 26 as the 30-day anchor investor lock-in ends. ¶ • Jio Platforms trades at a 40.6x P/E, with free cash flow of roughly ₹374 billion over the last twelve months. ¶ • Jio Platforms' user base reached 542.4 million, including 300 million 5G users and 30 million fixed-broadband homes, with ARPU at ₹218.8. ¶ • Jio Platforms' net debt fell to ₹8,800 crore, expected to shrink or become zero next quarter after its ₹30,200 crore IPO. ¶ ↗ inc42.com|https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/ ;; fortuneindia.com|https://www.fortuneindia.com/markets/jio-platforms-362-crore-shares-to-become-eligible-for-trading-as-30-day-ipo-lock-in-ends-tomorrow/172044 ;; simplywall.st|https://simplywall.st/stocks/in/telecom/nse-jpl/jio-platforms-shares/news/jio-platforms-nseijpl-stock-looks-fairly-valued-with-cash-fl ;; livemint.com|https://www.livemint.com/market/stock-market-news/jio-financial-services-vs-reliance-vs-jio-platforms-shares-which-mukesh-ambanis-stock-to-buy-amid-dalal-street-rally-11795586335156.html
 
 - Outlook: Neutral
   2026-11-26 |
-  §VIEW§{"stance": "neutral", "text": "The lock-in expiry adds near-term share supply while the stock trades 22% above its IPO price, but JioAstro and steady cash flow support the longer view. Supply risk and growth bets offset each other."}
+  §VIEW§{"stance": "neutral", "text": "JioAstro expands Jio's digital ecosystem, but the lock-in expiry adds near-term share supply. Strong cash flow and low net debt support the stock, yet the new app's revenue impact is unproven."}
 
 [Reliance Intelligence]
 
@@ -25,41 +25,49 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   25 Nov 2026 | https://www.business-standard.com/video-gallery/companies/from-tvs-to-tata-inside-india-s-biggest-corporate-family-feuds-reliance-industries-raymonds-179519.htm
-  • Reliance Industries shares rose over 2% as Sensex gained 1.65% and Nifty 1.25% by 1:10 PM. ¶ • Reliance's O2C EBITDA grew about 70% YoY to around ₹25,200 crore in the September 2026 quarter. ¶ • Jio Platforms' user base reached 542.4 million, including 300 million 5G users and 30 million fixed-broadband homes, with ARPU at ₹218.8. ¶ • Jio Platforms' net debt fell to ₹8,800 crore and may reach zero next quarter after its ₹30,200 crore IPO. ¶ • Jio Financial Services' consolidated income surged 131.7% YoY to ₹1,699 crore, but net profit fell 51.1% YoY to ₹340 crore. ¶ ↗ livemint.com|https://www.livemint.com/market/stock-market-news/jio-financial-services-vs-reliance-vs-jio-platforms-shares-which-mukesh-ambanis-stock-to-buy-amid-dalal-street-rally-11795586335156.html
+  • Reliance's Shein India venture averaged about 6 million monthly active users in October, versus Myntra's roughly 100 million, per Sensor Tower estimates. ¶ • Shein India downloads fell 73% year on year to 790,000 in September despite a 60% rise in advertising spending, then slipped to 740,000. ¶ • NextGen Fast Fashion Ltd., the Reliance unit running Shein India, posted revenue of 4.4 million rupees for the year ended March 31. ¶ • Reliance Industries reported strong year-on-year growth in the September 2026 quarter, with oil-to-chemicals EBITDA up about 70% to around ₹25,200 crore. ¶ • Jio Platforms' user base reached 542.4 million, including 300 million 5G users and 30 million fixed-broadband homes, with ARPU at ₹218.8. ¶ ↗ m.economictimes.com|https://m.economictimes.com/industry/services/retail/mukesh-ambani-reliance-retail-struggles-to-revive-shein-india-fortunes-fast-fashion-sales/articleshow/136176897.cms ;; livemint.com|https://www.livemint.com/market/stock-market-news/jio-financial-services-vs-reliance-vs-jio-platforms-shares-which-mukesh-ambanis-stock-to-buy-amid-dalal-street-rally-11795586335156.html
 
-- Outlook: Bullish
+- Outlook: Neutral
   2026-11-26 |
-  §VIEW§{"stance": "bullish", "text": "O2C EBITDA up about 70% YoY to around Rs 25,200 crore and expected to continue supports strong Q3. Jio Platforms' 542.4 million users and falling net debt add to the positive flow."}
+  §VIEW§{"stance": "neutral", "text": "Reliance's core energy and telecom engines are delivering strong growth, but the Shein India venture is struggling badly. The news flow splits between a robust core and a weak consumer bet."}
 
 [Flipkart]
 
 - ~
   25 Nov 2026 | https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/
-  • Flipkart Group CEO Kalyan Krishnamurthy will step down, with his last day on December 4, and no permanent successor named. ¶ • Chief product and technology officer Balaji Thiagarajan and the Flipkart board will lead the company in the interim. ¶ • Sources told Inc42 that Walmart leadership asked Krishnamurthy to step down amid differences over IPO timing and financial priorities. ¶ • Flipkart's IPO was put on hold indefinitely in May 2026, and Walmart wants EBITDA breakeven by the end of FY27 before listing. ¶ • At least 14 vice presidents and senior vice presidents left Flipkart over the past year, and 1,000 former employees wrote to Walmart's board in October over ESOP liquidity. ¶ ↗ techcrunch.com|https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/ ;; finance.yahoo.com|https://finance.yahoo.com/news/kalyan-krishnamurthy-step-down-flipkart-140719571.html ;; startupfortune.com|https://startupfortune.com/flipkart-ceo-kalyan-krishnamurthy-is-leaving-walmarts-india-unit-after-11-years/ ;; inc42.com|https://inc42.com/buzz/kalyan-krishnamurthy-to-exit-flipkart-after-nearly-a-decade-at-the-helm/
+  • Flipkart CEO Kalyan Krishnamurthy will step down, with his last day on December 4, 2026, after more than 11 years at the company. ¶ • Walmart asked Krishnamurthy to step down as a probe into alleged seller kickbacks widened across Flipkart, Myntra and Cleartrip, sources told Inc42. ¶ • Chief Product and Technology Officer Balaji Thiagarajan and the Flipkart board will lead the company until a successor is named in the coming weeks. ¶ • The leadership change comes as Flipkart's IPO, planned for FY27, was put on hold indefinitely in May 2026 over volatile markets and a crowded listings pipeline. ¶ • Group CFO Sriram Venkataraman stepped down in March 2026, and Myntra CEO Nandita Sinha was reported to be leaving in April, thinning the senior bench. ¶ ↗ techcrunch.com|https://techcrunch.com/2026/11/25/flipkart-ceo-kalyan-krishnamurthy-to-step-down-next-week-amid-ipo-uncertainty/ ;; finance.yahoo.com|https://finance.yahoo.com/news/kalyan-krishnamurthy-step-down-flipkart-140719571.html ;; startupfortune.com|https://startupfortune.com/flipkart-ceo-kalyan-krishnamurthy-is-leaving-walmarts-india-unit-after-11-years/ ;; inc42.com|https://inc42.com/features/kalyan-krishnamurthy-exit-how-walmarts-kickback-probe-ipo-delay-shook-up-flipkart/
 
 - Outlook: Bearish
   2026-11-26 |
-  §VIEW§{"stance": "bearish", "text": "The abrupt CEO exit, no successor, and a delayed IPO with Walmart demanding EBITDA breakeven by FY27 leave Flipkart's listing path uncertain. Senior departures and ESOP discontent add pressure, making the near-term news flow bearish."}
+  §VIEW§{"stance": "bearish", "text": "A CEO exit tied to a widening kickback probe, an interim finance chief and no listing date leave the IPO story unresolved. Walmart's push for profitability over expansion adds near-term uncertainty."}
 
 [Zomato]
 
 - ~
   26 Nov 2026 | https://www.moneycontrol.com/news/business/companies/ex-zomato-food-delivery-head-rakesh-ranjan-to-lead-uber-india-and-south-asia-14089181.html
-  • Rakesh Ranjan, former CEO of Zomato's food delivery business, will join Uber as President, India and South Asia, from January 4, 2027. ¶ • Blinkit's privacy policy states it may collect information about other apps installed on a user's phone, including presence or absence and details. ¶ • A researcher claims Blinkit's code checks for 21 specific apps and records Wi-Fi network names and GPS coordinates during order confirmation and address selection. ¶ • Blinkit's Android app allegedly backs up a file with login information including a sign-in token, user ID, email address and phone number. ¶ • A Pune customer complained to Zomato and the FDA about stale momos delivered from Mad Momos in Karvenagar at 4:07 a.m. on November 23, 2026. ¶ ↗ moneycontrol.com|https://www.moneycontrol.com/news/business/companies/ex-zomato-food-delivery-head-rakesh-ranjan-to-lead-uber-india-and-south-asia-14089181.html ;; m.economictimes.com|https://m.economictimes.com/tech/technology/ex-zomato-food-delivery-ceo-rakesh-ranjan-to-join-uber-as-india-south-asia-head/articleshow/136168484.cms ;; timesnownews.com|https://www.timesnownews.com/technology-science/blinkit-may-know-more-than-your-grocery-list-apps-on-your-phone-wi-fi-details-should-you-worry-article-156565173 ;; digit.in|https://www.digit.in/features/general/is-blinkit-spying-on-you-what-the-decompiled-app-claims-to-show.html
+  • Uber appointed former Zomato food delivery CEO Rakesh Ranjan as President, India and South Asia, effective January 4, 2027, after a search of more than three months. ¶ • Ranjan spent eight years at Zomato from 2017, rising to CEO of food ordering and delivery and also leading Hyperpure and Zomato Gold. ¶ • At Zomato, Ranjan as Vice President of Food Delivery and Head of Supply expanded the company's presence from seven cities to more than 1,000. ¶ • Blinkit's privacy policy states it may collect information on other apps installed on a user's phone and Wi-Fi connection details for personalised advertising. ¶ • A researcher claimed Blinkit's code checks for 21 specific installed apps and records Wi-Fi names and GPS coordinates, but found no code using battery level to set prices. ¶ ↗ moneycontrol.com|https://www.moneycontrol.com/news/business/companies/ex-zomato-food-delivery-head-rakesh-ranjan-to-lead-uber-india-and-south-asia-14089181.html ;; exchange4media.com|https://www.exchange4media.com/people-movement-news/zomatos-rakesh-ranjan-to-join-uber-as-president-india-south-asia-160700.html ;; m.economictimes.com|https://m.economictimes.com/news/company/corporate-trends/uber-appoints-rakesh-ranjan-as-president-for-india-and-south-asia-to-drive-growth-in-key-market/articleshow/136176357.cms ;; timesnownews.com|https://www.timesnownews.com/technology-science/blinkit-may-know-more-than-your-grocery-list-apps-on-your-phone-wi-fi-details-should-you-worry-article-156565173
 
-- Outlook: Bearish
+- Outlook: Neutral
   2026-11-26 |
-  §VIEW§{"stance": "bearish", "text": "Blinkit's data collection and backup of login tokens raise privacy and regulatory risk for Zomato's largest growth driver. A food safety complaint adds to reputational pressure."}
+  §VIEW§{"stance": "neutral", "text": "Losing a senior food delivery leader to Uber is a mild negative, while Blinkit faces data-privacy scrutiny but no proven pricing misuse. The two offset each other."}
 
 [HAL]
 
-- ~
-  25 Nov 2026 | https://www.indiatoday.in/india/story/tejas-mk1a-upgrades-aesa-radar-electronic-warfare-avionics-iaf-indian-air-force-ge-engines-itspc-3045866-2026-11-25
-  • HAL committed to deliver 16 to 18 Tejas Mk-1A jets to the IAF by March 31, 2027, forming the first full squadron, after a November 16 review meeting. ¶ • The IAF will accept the delayed fighters without relaxing capability requirements; hardware issues including weapons trials are resolved and radar software work is in final stages. ¶ • The Mk-1A adds an AESA radar, an advanced electronic warfare suite with a Radar Warning Receiver and Advanced Self-Protection Jammer, and an upgraded Digital Flight Control Computer. ¶ • Deliveries were originally due from March 2024 but slipped to 2027 due to delayed GE Aerospace F404 engine supply; total orders now stand at 180 jets worth about ₹1.1 lakh crore. ¶ • HAL completed structural coupling of the Tejas Mk-2 airframe and targets its first ground run by March 2027, with maiden flight expected later in 2027. ¶ ↗ indiatoday.in|https://www.indiatoday.in/india/story/tejas-mk1a-upgrades-aesa-radar-electronic-warfare-avionics-iaf-indian-air-force-ge-engines-itspc-3045866-2026-11-25 ;; businesstoday.in|https://www.businesstoday.in/india/story/iaf-to-get-first-full-tejas-mk-1a-squadron-by-march-2027-as-hal-commits-16-18-jets-569346-2026-11-25 ;; indianmasterminds.com|https://indianmasterminds.com/news/defence/hal-tejas-mk1a-delivery-march-2027-253245/ ;; prameyanews.com|https://www.prameyanews.com/indian-air-force-gears-up-for-sharpened-tejas-mk1a-fighter-with-aesa-radar-and-electronic-shield
+- Navy, Coast Guard helicopter acquisition puts Leonardo, Airbus and HAL in focus
+  25 Nov 2026 | https://timesofindia.indiatimes.com/defence/news/navy-coast-guard-helicopter-acquisition-puts-leonardo-airbus-and-hal-in-focus/articleshow/136152110.cms
+  Indian navy and coast guard are preparing to acquire 76 Naval Utility Helicopters (NUHs) in a procurement programme estimated at around Rs 15,000 crore, with European manufacturers expected to emerge as the front-runners. The requirement…
 
-- Outlook: Bullish
-  2026-11-26 |
-  §VIEW§{"stance": "bullish", "text": "HAL's firm 16-18 jet commitment by March 2027 and resolved hardware issues move the long-delayed Tejas Mk-1A toward actual induction. The IAF holding capability standards keeps execution risk alive, but order book and Mk-2 progress support the programme."}
+- Tejas Mk-1A Fighter Jet Programme: HAL Solved This Big Problem and Makes A Bold Delivery Commitment
+  25 Nov 2026 | https://indianmasterminds.com/news/defence/hal-tejas-mk1a-delivery-march-2027-253245/
+  New Delhi: India’s indigenous fighter aircraft programme has reached an important stage. HAL Tejas Mk-1A delivery plans have gained momentum, with Hindustan Aeronautics Limited (HAL) reportedly committing to deliver 16 to 18 fighter jets…
+
+- IAF to get first full Tejas Mk-1A squadron by March 2027 as HAL commits 16-18 jets
+  25 Nov 2026 | https://www.businesstoday.in/india/story/iaf-to-get-first-full-tejas-mk-1a-squadron-by-march-2027-as-hal-commits-16-18-jets-569346-2026-11-25
+  The Indian Air Force is set to get its first full squadron of Tejas LCA Mk-1A fighter jets by March 31, 2027, with Hindustan Aeronautics Ltd committing to deliver 16 to 18 aircraft by the deadline, even as the indigenous fighter programme…
+
+- Indian Air Force gears up for sharpened Tejas Mk1A fighter with AESA radar and electronic shield
+  25 Nov 2026 | https://www.prameyanews.com/indian-air-force-gears-up-for-sharpened-tejas-mk1a-fighter-with-aesa-radar-and-electronic-shield
+  Upgraded Tejas Mk1A brings sharper radar and electronic combat tools.
 
 [Tejas Networks]
 
@@ -75,13 +83,13 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Godigit Insurance]
 
-- Digit Insurance Covers 150 Solar Plants and 25 Wind Projects
+- ~
   25 Nov 2026 | https://www.energetica-india.net/news/digit-insurance-covers-150-solar-plants-and-25-wind-projects
-  Go Digit General Insurance has disclosed insurance coverage for over 150 solar plants, 25 wind projects and 10 hydropower projects in its 15th Transparency Report for H1 FY27, alongside coverage of battery energy storage and other energy…
+  • Go Digit disclosed coverage for over 150 solar plants, 25 wind projects and 10 hydropower projects in its 15th Transparency Report for H1 FY27. ¶ • Digit settled more than 6.2 lakh claims in H1 FY27, a 32 percent year-on-year increase, with a highest single-day volume of 11,750 claims. ¶ • After the Gujarat floods, Digit settled 2,109 motor claims and paid INR 28.5 crore by the end of H1 FY27, covering 72.5 percent of motor flood claims received. ¶ • Health cashless pre-authorisation requests were approved in an average of 25.1 minutes in H1 FY27, compared with 26.9 minutes in H1 FY26. ¶ • Digit offers 90 active insurance products and has served more than 9.4 crore customers and settled over 48 lakh claims since inception. ¶ ↗ energetica-india.net|https://www.energetica-india.net/news/digit-insurance-covers-150-solar-plants-and-25-wind-projects
 
-- Insurance stocks in demand: PB Fintech, Max Life, HDFC Life rally up to 8%
-  25 Nov 2026 | https://www.business-standard.com/markets/news/insurance-stocks-in-demand-pb-fintech-max-life-hdfc-life-rally-up-to-8-126112500194_1.html
-  Life insurance-related stocks price movement
+- Outlook: Neutral
+  2026-11-26 |
+  §VIEW§{"stance": "neutral", "text": "Claims rose 32% year-on-year and flood payouts were large, but service times improved and renewable energy exposure broadened. The mix of higher claims and better efficiency leaves the direction split."}
 
 [Infoedge/Naukri]
 
@@ -92,21 +100,21 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   25 Nov 2026 | https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor
-  • The American Reserve Modernization Act of 2026, H.R. 8957, was reported by the House Financial Services Committee and placed on the Union Calendar as Calendar No. 789 on Nov. 24, making it eligible for a House floor vote. ¶ • The amended bill would lock all bitcoin in a new Strategic Bitcoin Reserve for at least 20 years after enactment, with no reserve bitcoin sold, swapped, auctioned, encumbered, or otherwise disposed of for any purpose. ¶ • US spot Bitcoin ETFs recorded $4.94 billion in net outflows this month through November 24, according to Glassnode data cited by BeInCrypto. ¶ • Bitcoin traded around $60,000 on Nov. 25, down about 8% over seven days, with Ethereum near $1,650, XRP below $1, and Solana around $69. ¶ • US annual PCE inflation accelerated to 3.8% in October, reinforcing expectations of a December interest rate hike. ¶ ↗ bitcoinmagazine.com|https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/low-bitcoin-ethereum-xrp-fall-013734178.html ;; eurasiabusinessnews.com|https://eurasiabusinessnews.com/2026/11/25/crypto-market-today-november-25-2026-bitcoin-below-60000-as-ethereum-xrp-and-solana-slide/
+  • Bitcoin fell to about $57,500 on Wednesday, down roughly 24% in November and on course for its worst month since 2022. ¶ • U.S. spot bitcoin ETFs lost about $231.6 million on Tuesday, a sixth straight outflow session, with November withdrawals at $4.94 billion through Nov. 24. ¶ • October core PCE inflation rose 3.3% from a year earlier, above the 3.2% expected, and traders priced a 98% chance of a quarter-point Fed rate hike on Dec. 8-9. ¶ • The House Financial Services Committee reported the Strategic Bitcoin Reserve bill to the floor, with a 20-year lock-up on reserve bitcoin and 23 cosponsors. ¶ • Strategy fell about 8% to near $71, below its average purchase price of $75,446, and MSCI will remove it from its indexes on Nov. 30. ¶ ↗ bitcoinmagazine.com|https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/low-bitcoin-ethereum-xrp-fall-013734178.html ;; finance.yahoo.com|https://finance.yahoo.com/markets/article/bitcoin-sinks-in-brutal-november-sell-off-as-broader-market-slides-143727717.html ;; bitcoinmagazine.com|https://bitcoinmagazine.com/markets/bitcoin-price-falls-57500-nasdaq
 
 - Outlook: Bearish
   2026-11-26 |
-  §VIEW§{"stance": "bearish", "text": "ETF outflows of $4.94 billion and Bitcoin below $60,000 show weak demand, while 3.8% PCE inflation points to a December rate hike. The reserve bill's 20-year lock-up is a longer-term positive but does not offset near-term selling pressure."}
+  §VIEW§{"stance": "bearish", "text": "Hot 3.8% PCE inflation and a near-certain December rate hike are draining liquidity, while spot ETFs have bled $4.94 billion in November. The reserve bill's progress is real but slow and secondary."}
 
 [Gold]
 
 - ~
   25 Nov 2026 | https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-november-25-2026-gold-prices-fall-as-inflation-data-and-potential-new-tariffs-loom-121548844.html
-  • Spot gold fell more than 3% to $3,427.90 an ounce after October core PCE inflation rose 3.3% year over year, above the 3.2% expected. ¶ • Third-quarter GDP was revised up to 4.3% growth from 3.4%, with the PCE price index at 2.1% for the quarter. ¶ • Initial jobless claims fell to 189,000 for the week ending November 21, below the 200,000 forecast. ¶ • New home sales jumped 14.2% in October to a 701,000 annualized rate, beating the 650,000 consensus. ¶ • Traders priced a 98% chance of a 25 basis point Fed rate hike in December, with reports of new US tariffs on China, the EU and 14 other economies. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-november-25-2026-gold-prices-fall-as-inflation-data-and-potential-new-tariffs-loom-121548844.html ;; kitco.com|https://www.kitco.com/news/article/2026-11-25/gold-prices-drop-another-1-us-q3-gdp-revised-43-contained-pce-inflation ;; kitco.com|https://www.kitco.com/news/article/2026-11-25/gold-price-approaches-3500oz-after-us-weekly-jobless-claims-fall-189k ;; eurasiabusinessnews.com|https://eurasiabusinessnews.com/2026/11/25/stock-market-today-nov-25-2026-nasdaq-trims-losses-gold-price-falls-brent-oil-91/
+  • Gold futures opened at $3,559.30 per troy ounce on Wednesday, down 2.1% from Tuesday's open, and fell to $3,536.10 by 7:07 a.m. ET. ¶ • Spot gold dropped more than 3% to $3,427.90 after new home sales rose 14.2% in October to a 701,000 annualized rate, above the 650,000 forecast. ¶ • Q3 GDP was revised up to 4.3% growth from 3.4%, with core PCE up 2.5% for the quarter and 3.3% over 12 months. ¶ • Initial jobless claims fell to 189,000 for the week ending November 21, below the 200,000 expected, with the four-week average at 196,000. ¶ • Durable goods orders rose 0.2% in October, below the 0.4% consensus, while non-defense capital goods excluding aircraft rose 1.2%. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/personal-finance/investing/article/gold-price-today-wednesday-november-25-2026-gold-prices-fall-as-inflation-data-and-potential-new-tariffs-loom-121548844.html ;; kitco.com|https://www.kitco.com/news/article/2026-11-25/gold-prices-drop-another-1-us-q3-gdp-revised-43-contained-pce-inflation ;; kitco.com|https://www.kitco.com/news/article/2026-11-25/gold-price-falls-session-lows-us-new-home-sales-rise-142-october ;; kitco.com|https://www.kitco.com/news/article/2026-11-25/gold-price-approaches-3500oz-after-us-weekly-jobless-claims-fall-189k
 
 - Outlook: Bearish
   2026-11-26 |
-  §VIEW§{"stance": "bearish", "text": "Strong GDP, contained inflation and solid jobs and housing data keep the Fed on track to hike in December, pressuring non-yielding gold. Tariff uncertainty adds risk but has not supported bullion."}
+  §VIEW§{"stance": "bearish", "text": "Strong GDP growth, contained core PCE, solid housing and labor data keep the Fed on track to hike in December, pressuring non-yielding gold. The rebound from $3,426 shows buyers defending support, but the data flow still favors further downside."}
 
 ============================================================
 
@@ -174,28 +182,11 @@ SOURCE 2: The Hindu - Editorials
 
 • It concludes the alliance offers a rehash of identity politics rather than the serious debate Punjab needs on welfare spending and reviving its stagnant agrarian economy.
 
-### Beyond generosity: on India-Nepal ties
-25 Nov 2026 | https://www.thehindu.com/opinion/editorial/beyond-generosity-on-india-nepal-ties/article71738937.ece
-
-• Nepal Prime Minister Balendra Shah made his first state visit to India, eight months after taking power as leader of the GenZ movement that ousted the previous government.
-
-• India announced a Development Cooperation Package of ₹15,000 crore (about $1.6 billion) for reconstruction and long-term development in Nepal.
-
-• India offered land-locked Nepal access to its ports in Gujarat and Odisha, addressing a long-standing grievance linked to the 2015 trade blockade.
-
-• The two sides agreed to resolve all outstanding matters through dialogue, but the joint statement did not directly address Shah's boundary dispute comments or Nepal's overflight request for two debt-ridden airports.
-
-• The article warns that Delhi's position that the Eminent Persons Group report on the 1950 Friendship treaty is not relevant will ruffle feathers in Kathmandu, and grievances left unaddressed could trip up broader progress.
-
 ============================================================
 
 SOURCE 5: The Hindu - Business (headlines + summary)
 
-[[Markets and Economy]]
-
-- Broad-based pressure on food prices continues: RBI Bulletin
-  25 Nov 2026 | https://www.thehindu.com/business/Economy/broad-based-pressure-on-food-prices-continues-rbi-bulletin/article71743566.ece
-  • High-frequency data to November 19 show broad-based food price pressure, with cereals, pulses, edible oils and most CPI divisions rising sequentially in October. ¶ • Food and beverages inflation stayed above 6% in both rural and urban India, while the Indian crude basket fell to $95 per barrel during November 1-18.
+[[Markets and FDI]]
 
 - Net FDI fell to more than 5.5-year low in September 2026, as outflows jumped 40%
   25 Nov 2026 | https://www.thehindu.com/business/Economy/net-fdi-fell-to-more-than-55-year-low-in-september-2026-as-outflows-jumped-40/article71742778.ece
@@ -205,11 +196,7 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   25 Nov 2026 | https://www.thehindu.com/business/markets/sensex-jumps-1502-points-nifty-surges-to-25819-on-foreign-fund-inflows-lower-crude-oil/article71742244.ece
   • The Sensex rose 1,502 points, or 1.82%, to 83,938 and the Nifty gained 470 points, or 1.85%, to 25,819 on November 25, 2026. ¶ • The rupee climbed to an eight-month high of 92.23 against the dollar, up 62 paise, helped by $14 billion in November foreign inflows and Brent crude below $90 a barrel.
 
-- Air passenger services see 35% inflation in Q2; banking, securities transaction witness deflation
-  25 Nov 2026 | https://www.thehindu.com/business/Economy/air-passenger-services-see-35-inflation-in-q2-banking-securities-transaction-witness-deflation/article71741711.ece
-  • Air passenger services recorded 35.52% inflation in the July-September quarter, the highest among seven major services in the provisional Service Producer Price Indices. ¶ • Securities transaction and banking services posted deflation of 6.93% and 3.96% respectively, while railway passenger inflation eased to 2.17% from 3.50%.
-
-[[Regulatory and Policy]]
+[[Regulatory and policy]]
 
 - IRDAI health panel forms 2 study groups to enhance transparency in claims
   25 Nov 2026 | https://www.thehindu.com/business/Industry/irdai-health-panel-forms-2-study-groups-to-enhance-transparency-in-claims/article71743517.ece
@@ -227,49 +214,57 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   25 Nov 2026 | https://www.thehindu.com/news/national/fssais-pan-india-enforcement-drive-on-packaged-drinking-water-lab-test-to-take-1-2-months-ceo/article71741966.ece
   • FSSAI is collecting packaged drinking water samples nationwide and expects lab results in one to two months, CEO Rajit Punhani said. ¶ • The drive follows a Bisleri sample that failed bromate limits and later tested unsafe for polynuclear aromatic hydrocarbons (PAHs); FSSAI has sanctioned prosecution, while Bisleri says its water is safe.
 
-[[Corporate Leadership and Strategy]]
+[[Corporate leadership changes]]
+
+- Jensen Huang returns as Nvidia CEO after scandal-driven exit
+  26 Nov 2026 | https://www.thehindu.com/sci-tech/technology/jensen-huang-needs-a-new-playbook-for-his-second-innings-at-nvidia/article71745086.ece
+  • Huang returned to Nvidia's Santa Clara headquarters on November 23, 2026, apologising to employees and vowing to be a better CEO after his exit wiped out close to a quarter of the company's market value. ¶ • Nvidia's stock soared on his return, adding nearly a trillion dollars in market value, though Gartner analyst Gaurav Gupta warns of years of geopolitical scrutiny, lawsuits and tighter board controls.
 
 - Three months into the job, Air India CEO Tewolde sets ₹6,000 crore cost-saving target, looks to boost revenues
   25 Nov 2026 | https://www.thehindu.com/business/Industry/three-months-into-the-job-air-india-ceo-tewolde-sets-6000-crore-cost-saving-target-looks-to-boost-revenues/article71743179.ece
   • Air India CEO Tewolde Gebremariam set a ₹6,000 crore cost-saving target, with ₹1,500 crore achieved and ₹3,500 crore of opportunities identified so far. ¶ • The airline posted a ₹22,238 crore loss in FY26 and needs cost per available seat kilometre (CASK, cost per seat flown one km) below revenue per available seat kilometre (RASK).
 
-- Huang’s return restores stability, but NVIDIA faces years of scrutiny, warns Gartner
-  25 Nov 2026 | https://www.thehindu.com/business/Industry/huangs-return-restores-stability-but-nvidia-faces-years-of-scrutiny-warns-gartner/article71739137.ece
-  • Gartner VP analyst Gaurav Gupta said Jensen Huang's return as CEO restores leadership continuity but leaves NVIDIA exposed to years of geopolitical, legal and governance risks. ¶ • Gupta advised enterprise customers to cut dependence on NVIDIA by diversifying hardware, software, cloud and AI models, and to weigh vendor financial health and contractual flexibility in procurement.
-
-- Deloitte India opens Mangaluru office, plans to recruit over 1,000 professionals in next two years
-  25 Nov 2026 | https://www.thehindu.com/news/cities/Mangalore/deloitte-india-opens-mangaluru-office-plans-to-recruit-over-1000-professionals-in-next-two-years/article71741992.ece
-  • Deloitte India opened its Mangaluru office on November 25, 2026, starting with about 250 professionals and aiming for more than 1,000 within two years. ¶ • The office is Deloitte India's 27th in the country and first in Karnataka outside Bengaluru, and the company will move its innovation team there from Bengaluru.
-
 - Kalyan Krishnamurthy to step down as Flipkart CEO
   25 Nov 2026 | https://www.thehindu.com/business/Industry/kalyan-krishnamurthy-to-step-down-as-flipkart-ceo/article71741751.ece
   • Flipkart CEO Kalyan Krishnamurthy will step down after more than 11 years at the Bengaluru-based e-tailer, with a successor to be named in the coming weeks. ¶ • Chief Product and Technology Officer Balaji Thiagarajan and the Flipkart board will run operations in the interim; the Walmart-owned company grew more than fivefold during Krishnamurthy's tenure.
 
-[[Company Investments and Partnerships]]
+[[Company investments and deals]]
 
 - Airtel to invest ₹1,200 cr in 3 data centers in Assam
   25 Nov 2026 | https://www.thehindu.com/business/Industry/airtel-to-invest-1200-cr-in-3-data-centers-in-assam/article71742828.ece
   • Bharti Airtel will invest about ₹1,200 crore in three Assam data centres, with ₹700 crore for Guwahati and ₹500 crore for Jorhat and Silchar. ¶ • The Jorhat and Silchar facilities, backed by signed MoUs, will have 25 MW combined capacity and create around 164 direct jobs.
 
-- Alembic Pharma gets U.S. FDA nod for additional strength of cancer drug
-  25 Nov 2026 | https://www.thehindu.com/business/Industry/alembic-pharma-gets-us-fda-nod-for-additional-strength-of-cancer-drug/article71743591.ece
-  • Alembic Pharmaceuticals won final U.S. FDA approval for its supplemental application for Bosutinib Tablets, 400 mg, a kinase inhibitor for chronic phase Ph+ CML. ¶ • The 400 mg strength had an estimated market size of $246 million for the twelve months ended September 2026, per IQVIA.
-
 - BP ropes in Wipro to transform its core finance operations
   25 Nov 2026 | https://www.thehindu.com/business/Industry/bp-ropes-in-wipro-to-transform-its-core-finance-operations/article71742656.ece
   • BP will transfer about 3,000 finance operations employees in India, Hungary and Malaysia to Wipro under a strategic partnership. ¶ • Wipro will use AI and automation to streamline BP's finance processes, which BP says will cut costs and build simpler operations.
 
-[[Legal and Family Disputes]]
+- Deloitte India opens Mangaluru office, plans to recruit over 1,000 professionals in next two years
+  25 Nov 2026 | https://www.thehindu.com/news/cities/Mangalore/deloitte-india-opens-mangaluru-office-plans-to-recruit-over-1000-professionals-in-next-two-years/article71741992.ece
+  • Deloitte India opened its Mangaluru office on November 25, 2026, starting with about 250 professionals and aiming for more than 1,000 within two years. ¶ • The office is Deloitte India's 27th in the country and first in Karnataka outside Bengaluru, and the company will move its innovation team there from Bengaluru.
 
-- Lakshmi Venu sues for partition of Venu Srinivasan family assets
+[[Pharma and food]]
+
+- Alembic Pharma gets U.S. FDA nod for additional strength of cancer drug
+  25 Nov 2026 | https://www.thehindu.com/business/Industry/alembic-pharma-gets-us-fda-nod-for-additional-strength-of-cancer-drug/article71743591.ece
+  • Alembic Pharmaceuticals won final U.S. FDA approval for its supplemental application for Bosutinib Tablets, 400 mg, a kinase inhibitor for chronic phase Ph+ CML. ¶ • The 400 mg strength had an estimated market size of $246 million for the twelve months ended September 2026, per IQVIA.
+
+- Broad-based pressure on food prices continues: RBI Bulletin
+  25 Nov 2026 | https://www.thehindu.com/business/Economy/broad-based-pressure-on-food-prices-continues-rbi-bulletin/article71743566.ece
+  • High-frequency data to November 19 show broad-based food price pressure, with cereals, pulses, edible oils and most CPI divisions rising sequentially in October. ¶ • Food and beverages inflation stayed above 6% in both rural and urban India, while the Indian crude basket fell to $95 per barrel during November 1-18.
+
+[[Other]]
+
+- Lakshmi Venu files suit for partition of Venu Srinivasan family assets
   25 Nov 2026 | https://www.thehindu.com/business/Industry/lakshmi-venu-files-suit-for-partition-of-venu-srinivasan-family-assets/article71741444.ece
-  • Lakshmi Venu, daughter of TVS Holdings chairman Venu Srinivasan, filed a partition suit in the Madras High Court after her November 16, 2026 notice went unanswered. ¶ • The dispute centres on the April 2025 naming of her brother Sudarshan Venu as Significant Beneficial Owner of TVS Holdings, which holds 50.26% of TVS Motor Company.
+  • Lakshmi Venu, daughter of TVS Holdings chairman Venu Srinivasan, filed a suit in the Madras High Court seeking partition of the family's joint assets and her rightful share. ¶ • The Venu Srinivasan branch controls TVS Motor Company, India's third largest two-wheeler maker by market share worth over $20 billion, now headed by her younger brother Sudarshan Venu.
 
 - AstroTalk says app data collection is for ‘security’, denies profiling users
   25 Nov 2026 | https://www.thehindu.com/business/Industry/astrotalk-says-app-data-collection-is-for-security-denies-profiling-users/article71741668.ece
   • AstroTalk said its Android app's checks on 244 other installed apps are for security and denied using the data for profiling or credit assessment, after a creator's reverse-engineering claim. ¶ • The company reported revenue from operations up 55% to ₹1,823 crore in FY26 from ₹1,176 crore in FY25, with net profit at ₹222 crore.
 
-[[Other]]
+- Air passenger services see 35% inflation in Q2; banking, securities transaction witness deflation
+  25 Nov 2026 | https://www.thehindu.com/business/Economy/air-passenger-services-see-35-inflation-in-q2-banking-securities-transaction-witness-deflation/article71741711.ece
+  • Air passenger services recorded 35.52% inflation in the July-September quarter, the highest among seven major services in the provisional Service Producer Price Indices. ¶ • Securities transaction and banking services posted deflation of 6.93% and 3.96% respectively, while railway passenger inflation eased to 2.17% from 3.50%.
 
 - Coimbatore entrepreneur joins Nasdaq Closing Bell ceremony in New York
   25 Nov 2026 | https://www.thehindu.com/business/Industry/coimbatore-entrepreneur-joins-nasdaq-closing-bell-ceremony-in-new-york/article71741336.ece
@@ -279,7 +274,25 @@ SOURCE 5: The Hindu - Business (headlines + summary)
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
-[[Other]]
+[[US tariffs on India]]
+
+- U.S. announces new 25% tariffs on India, second-highest in the 14 countries against which action has been taken
+  26 Nov 2026 | https://www.thehindu.com/news/international/donald-trump-tariffs-us-midterm-elections/article71743081.ece
+  • The U.S. announced a 25% tariff on Indian goods on Wednesday, second only to Vietnam's 35% among 14 economies hit by the latest action. ¶ • The rate could drop to 17% if India and the U.S. finalize a Reciprocal Trade agreement, and it will not stack on the existing 10% Section 301 tariff.
+
+[[Bangladesh extradition dispute]]
+
+- MEA separates Sheikh Hasina’s plans to return to Bangladesh from issue of extradition
+  26 Nov 2026 | https://www.thehindu.com/news/national/mea-separates-sheikh-hasinas-plans-to-return-to-bangladesh-from-issue-of-extradition/article71743712.ece
+  • India's External Affairs Ministry said Sheikh Hasina's return on a travel document and Bangladesh's extradition request are separate matters, with the request still being examined. ¶ • Spokesperson Randhir Jaiswal also expressed concern over violence against minorities in Bangladesh and urged Dhaka to investigate and bring perpetrators to justice.
+
+[[Nvidia leadership]]
+
+- Jensen Huang needs a new playbook for his second innings at Nvidia
+  26 Nov 2026 | https://www.thehindu.com/sci-tech/technology/jensen-huang-needs-a-new-playbook-for-his-second-innings-at-nvidia/article71745086.ece
+  • Jensen Huang returned as Nvidia CEO on Monday, November 23, 2026, after quitting the company he co-founded and led for over three decades amid a sex-and-spy scandal. ¶ • His exit wiped out close to a quarter of Nvidia's market value, and his return added nearly a trillion dollars in market value the same day.
+
+[[US military and accidents]]
 
 - U.S. Army declares success in detonation of lead-based explosives stockpile in Iowa
   26 Nov 2026 | https://www.thehindu.com/news/international/us-army-declares-success-in-detonation-of-lead-based-explosives-stockpile-in-iowa/article71745045.ece
@@ -289,6 +302,8 @@ SOURCE 3: The Hindu - International (headlines + summary)
   26 Nov 2026 | https://www.thehindu.com/news/international/plane-crash-off-coast-of-mississippi-kills-extended-family-of-six-on-fishing-trip/article71745032.ece
   • A Cessna 210 flying from New Orleans to Fort Myers crashed in the Gulf of Mexico on Tuesday, killing all six family members aboard. ¶ • The plane was at about 9,000 feet when it began a rapid descending right turn; investigators have not determined a cause.
 
+[[Other]]
+
 - Bad weather postpones Macy’s 100th Thanksgiving Day Parade for first time ever
   26 Nov 2026 | https://www.thehindu.com/news/international/bad-weather-postpones-macys-100th-thanksgiving-day-parade-for-first-time-ever/article71745030.ece
   • Macy's postponed its 100th Thanksgiving Day Parade from Thursday to Saturday, November 28, 2026, because of severe wind and rain in New York City. ¶ • The National Weather Service issued a high wind warning and coastal flood warning, and NBC will air a rerun of the 2025 parade on Thursday instead.
@@ -296,7 +311,80 @@ SOURCE 3: The Hindu - International (headlines + summary)
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Flipkart group CEO Kalyan Krishnamurthy to exit
+26 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/kalyan-krishnamurthy-to-exit-flipkart-rakesh-ranjan-joins-uber/articleshow/136176043.cms
+
+• Flipkart announced on Wednesday that Kalyan Krishnamurthy is concluding his tenure as CEO after more than a decade.
+
+• The exit comes amid delays in its planned initial public offering (IPO) and differences with its US parent Walmart.
+
+• Flipkart said it will name a successor in the coming weeks, with Balaji Thiagarajan and the board leading it in the interim.
+
+• Krishnamurthy met Walmart leadership in Bentonville, US, earlier this month where his exit was discussed.
+
+### PhonePe back in talks with bankers to revive IPO
+26 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/kalyan-krishnamurthy-to-exit-flipkart-rakesh-ranjan-joins-uber/articleshow/136176043.cms
+
+• Walmart-owned PhonePe has restarted talks with investment bankers to revive its IPO after pausing it in March.
+
+• The fintech is exploring a valuation of about ₹1.2 lakh crore to ₹1.4 lakh crore.
+
+• The public issue is likely to be entirely an OFS (offer for sale) of ₹12,000-14,000 crore without any fresh issue component.
+
+• PhonePe deferred its $1.3 billion IPO in March, citing market volatility and geopolitical tensions.
+
+### Ex-Zomato food delivery CEO Rakesh Ranjan to join Uber
+26 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/kalyan-krishnamurthy-to-exit-flipkart-rakesh-ranjan-joins-uber/articleshow/136176043.cms
+
+• Former Zomato food delivery chief executive Rakesh Ranjan is set to join Uber as its India and South Asia head in January.
+
+• Ranjan, currently with Allen Online, will report to Dominic Taylor, Uber’s APAC mobility head.
+
+• This is the first time in over a decade that Uber has appointed an India head from outside the company.
+
+• Ranjan had joined Zomato in 2017 and rose through the ranks to become the food delivery CEO in 2023.
+
+### Gaps in India’s space industry
+26 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/kalyan-krishnamurthy-to-exit-flipkart-rakesh-ranjan-joins-uber/articleshow/136176043.cms
+
+• India’s satellite manufacturing ambitions are being held back by heavy import dependence, inadequate testing infrastructure and a shortage of specialised skills, according to a new report by IN-SPACe.
+
+• Despite the gaps, the report identified significant opportunities for domestic industry.
+
+### Govt defends Sarvam AI
+26 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/kalyan-krishnamurthy-to-exit-flipkart-rakesh-ranjan-joins-uber/articleshow/136176043.cms
+
+• Information Technology secretary S Krishnan said Sarvam’s latest offering, Token Factory, is a service in the AI space being attempted to generate revenue.
+
+• It had informed beforehand of plans to create a ‘harness’ within which a number of open-weight models including their own can be provided to customers globally, Krishnan said.
+
+### Global pick: ‘Tech bros strike back’ as Trump rescues Nvidia’s Huang
+FT | https://www.ft.com/content/a1374617-d3a2-415a-8490-72b164eefc0e?syn-25a6b1a6=1
+
+[Could not read the article, possibly paywalled]
+
+### Global pick: Japanese technology company to create 200 new jobs
+BBC | https://www.bbc.com/news/articles/cv4gnekn7kwpo
+
+• Queen's University investigation cleared Jason Arday's research, the 41-year-old who was found dead in August after weeks of media coverage over plagiarism allegations he denied.
+
+• Newry construction companies O'Hare & McGovern Limited and OHMG (Holdings) Limited were put into administration, with 31 job losses.
+
+• Surrey County Council adopted a formal policy setting out rules and safeguarding around its use of AI tools.
+
+• MP Mims Davies urged people to report incidents after her likeness was used for AI porn deepfakes so culprits can be held to account.
+
+### Global pick: ‘Rejection Will Have Consequences’: Inside Team Trump’s Takeover of a Chips Giant
+Wired | https://www.wired.com/story/inside-trumps-demands-to-another-chips-ceo/
+
+• Commerce Department lawyer David Shapiro told Intel's CFO in August 2025 that the US government wanted a stake in the company, saying "the President is expecting to announce a deal on these terms on Friday."
+
+• Shapiro warned Intel's board that rejection "will have consequences that [Shapiro] cannot predict," and days later the board agreed to give the government a 10% stake.
+
+• Trump posted that the US "paid nothing" for the shares, now valued at approximately $11 billion, and later said he convinced Nvidia's board to rehire CEO Jensen Huang.
+
+• A shareholder lawsuit alleges Intel's board "caved to the government's extortion," while Cato's Scott Lincicome calls it "straight-up coercion" that makes companies serve politics over shareholders.
 
 ============================================================
 
@@ -311,9 +399,16 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [Jupiter Wagons Ltd (JWL, +20.00%)]
 
-- ~
+- Jupiter Wagons and Korea’s Woojin sign pact for 80:20 metro coach venture
+  25 Nov 2026 | https://www.railway.supply/jupiter-wagons-and-koreas-woojin-sign-pact-for-8020-metro-coach-venture/
+  INDIA: Jupiter Wagons Limited has signed a framework agreement with South Korea’s Woojin Industrial Systems for a proposed 80:20 metro coach joint venture that would also localize propulsion systems.
+
+- Jupiter Wagons shares rally 20% after company signs 80:20 JV with South Korea's Woojin - CNBC TV18
   25 Nov 2026 | https://www.linkedin.com/posts/cnbc-tv18_jupiter-wagons-shares-rally-20-after-company-activity-7531228699099242496-JQMR
-  ## What the sector does ¶ • Indian wagon makers supply Indian Railways and private freight operators with freight wagons, bogies, couplers, brake systems and wheelsets, earning from wagon orders and maintenance. ¶ • Metro and passenger rail is the growth segment: India has nearly 1,200 km of metro lines in 26 cities, and Make in India rules require at least 75% domestic content in metro cars. ¶ ## What the company does ¶ • Jupiter Wagons makes load bodies for commercial vehicles, rail freight wagons and components such as bogies, couplers, brake systems and wheelsets. ¶ • It is now moving into passenger rail: it has a collaboration with Poland's PESA Bydgoszcz and signed a framework agreement with South Korea's Woojin for metro coaches. ¶ ## Why it moved today ¶ • The stock rose 20% after Jupiter Wagons signed a framework agreement with South Korea's Woojin Industrial Systems for an 80:20 metro coach joint venture, CNBC TV18 reported on 25 November 2026. ¶ • Under the pact, Jupiter Wagons will own 80% of the venture and fund land, plant, machinery and working capital, while Woojin contributes technology and core components such as propulsion systems and bogies. ¶ ## The numbers (Screener) ¶ • Stock P/E is 55.2, book value is ₹71.0 per share, ROCE is 9.14% and ROE is 6.37%, with a dividend yield of 0.45%. ¶ • Revenue fell from ₹890 crore in the December 2025 quarter to ₹772 crore in September 2026, while net profit fell from ₹62 crore to ₹46 crore over the same period. ¶ ## What the numbers say ¶ • At a P/E of 55.2, the stock trades at a rich multiple for a business earning 9.14% on capital and 6.37% on equity, so the price already reflects expectations of the metro venture. ¶ • Revenue and net profit have declined across the last four quarters, with net profit down from ₹62 crore to ₹46 crore, so the 20% move rests on the new venture rather than current earnings. ¶ ↗ linkedin.com|https://www.linkedin.com/posts/cnbc-tv18_jupiter-wagons-shares-rally-20-after-company-activity-7531228699099242496-JQMR ;; railway.supply|https://www.railway.supply/jupiter-wagons-and-koreas-woojin-sign-pact-for-8020-metro-coach-venture/ ;; kotakneo.com|https://www.kotakneo.com/news/market-news/stocks-to-watch-today/
+
+- Stocks to Watch Today: Hyundai Motor, Jupiter Wagons, Adani Enterprises and More on 25 November 2026
+  25 Nov 2026 | https://www.kotakneo.com/news/market-news/stocks-to-watch-today/
+  Against this backdrop, here are some of the key stocks to watch today in India.
 
 [Dabur India Ltd (DABUR, +7.77%)]
 

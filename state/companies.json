@@ -200,7 +200,7 @@
   "sector": "E-commerce",
   "description": "Online fashion retailer owned by Flipkart; former CEO Mukesh Bansal among ESOP petitioners.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-26"
  },
  "accel": {
   "name": "Accel",
@@ -515,7 +515,7 @@
   "sector": "Telecom equipment",
   "description": "Indian maker of optical networking and broadband equipment for telecom operators.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "godigit": {
   "name": "Go Digit",
@@ -746,7 +746,7 @@
   "sector": "Consumer goods",
   "description": "Peer comparison for Cupid; ROCE of 18.75% and P/E of 42.57.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-11-26"
  },
  "dabur": {
   "name": "Dabur",
@@ -1761,7 +1761,7 @@
   "sector": "AI",
   "description": "Indian AI startup that appointed former Google Cloud India MD Sashikumar Sreedharan as President.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "otpless": {
   "name": "OTPless",
@@ -1775,7 +1775,7 @@
   "sector": "FMCG",
   "description": "Consumer goods major that acquired an additional 24.09% stake in Satiya Nutraceuticals.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-04"
+  "last_mentioned": "2026-11-26"
  },
  "satiyanutraceuticals": {
   "name": "Satiya Nutraceuticals",
@@ -1824,7 +1824,7 @@
   "sector": "Fintech",
   "description": "Payments platform that partnered with DPCGC to simplify OTT regulatory compliance for merchants.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-26"
  },
  "pluckk": {
   "name": "Pluckk",
@@ -2398,7 +2398,7 @@
   "sector": "Aerospace",
   "description": "European planemaker; building a commercial MRO hub in Nashik with HAL.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "choicebroking": {
   "name": "Choice Broking",
@@ -2496,7 +2496,7 @@
   "sector": "Travel",
   "description": "Online travel agency owned by Flipkart; former staff joined the ESOP petition.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-26"
  },
  "shopsy": {
   "name": "Shopsy",
@@ -3014,14 +3014,14 @@
   "sector": "Steel products",
   "description": "Pipe and tube maker; cited as a valuation peer for Usha Martin.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-23"
+  "last_mentioned": "2026-11-26"
  },
  "jindalsaw": {
   "name": "Jindal Saw",
   "sector": "Steel products",
   "description": "Pipe maker; cited as a valuation peer for Usha Martin.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-26"
  },
  "icicilombard": {
   "name": "ICICI Lombard",
@@ -6108,7 +6108,7 @@
   "sector": "Broking",
   "description": "Indian brokerage that raised its PNB target price to Rs 140.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-26"
  },
  "emkay": {
   "name": "Emkay",
@@ -9860,7 +9860,7 @@
   "sector": "Ride hailing",
   "description": "Global ride-hailing and delivery platform expanding an AI agent to over 30,000 employees.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-26"
  },
  "rescale": {
   "name": "Rescale",
@@ -14333,7 +14333,7 @@
   "sector": "FMCG",
   "description": "Hindustan Unilever, Indian consumer goods major cited as an FMCG peer.",
   "first_added": "2026-11-03",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-26"
  },
  "nirmalbang": {
   "name": "Nirmal Bang",
@@ -15089,7 +15089,7 @@
   "sector": "Semiconductors",
   "description": "US chipmaker; its Core Series 3 AI laptops are featured in Flipkart's Big Bang Diwali Sale.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-16"
+  "last_mentioned": "2026-11-26"
  },
  "sonablw": {
   "name": "Sona BLW",
@@ -16223,7 +16223,7 @@
   "sector": "Conglomerate",
   "description": "Adani group flagship; plans Rs 35,000-40,000 crore annual capex over two years.",
   "first_added": "2026-11-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-26"
  },
  "asterdmqualitycare": {
   "name": "Aster DM Quality Care",
@@ -23552,7 +23552,7 @@
   "sector": "Defence aerospace",
   "description": "Italian defence and aerospace company in focus for India's naval helicopter acquisition.",
   "first_added": "2026-11-25",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "nsil": {
   "name": "NSIL",
@@ -23628,6 +23628,48 @@
   "name": "Macy's",
   "sector": "Retail",
   "description": "US department store chain that postponed its 100th Thanksgiving Day Parade due to severe weather.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "astrosage": {
+  "name": "AstroSage",
+  "sector": "Spiritual tech",
+  "description": "Indian astrology website and app offering horoscopes, kundli and astrologer consultations.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "sheinindia": {
+  "name": "Shein India",
+  "sector": "Fashion ecommerce",
+  "description": "Reliance-run fast fashion ecommerce venture in India under the Shein brand.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "nextgenfastfashion": {
+  "name": "NextGen Fast Fashion",
+  "sector": "Fashion ecommerce",
+  "description": "Reliance unit that operates the Shein India fast fashion business.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "hyundaimotor": {
+  "name": "Hyundai Motor",
+  "sector": "Automotive",
+  "description": "South Korean carmaker producing passenger vehicles sold globally including India.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "patanjalifoods": {
+  "name": "Patanjali Foods",
+  "sector": "FMCG",
+  "description": "Indian FMCG company selling edible oils, foods and personal care products.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "pghygiene": {
+  "name": "P&G Hygiene",
+  "sector": "FMCG",
+  "description": "Indian arm of Procter & Gamble selling health and hygiene products.",
   "first_added": "2026-11-26",
   "last_mentioned": "2026-11-26"
  }
