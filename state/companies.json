@@ -60,7 +60,7 @@
   "sector": "Internet services",
   "description": "Search, advertising and cloud giant; reports child sexual abuse material detected on its platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "olaelectric": {
   "name": "Ola Electric",
@@ -193,7 +193,7 @@
   "sector": "Retail",
   "description": "US retail giant and majority owner of Flipkart; facing pressure over employee stock option liquidity.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "myntra": {
   "name": "Myntra",
@@ -753,7 +753,7 @@
   "sector": "Consumer goods",
   "description": "Peer comparison for Cupid; ROCE of 20.28% and P/E of 33.93.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-26"
  },
  "colgatepalmolive": {
   "name": "Colgate-Palmolive",
@@ -1446,14 +1446,14 @@
   "sector": "Financial services",
   "description": "Brokerage; valued Jio at Rs 331-450 per Reliance share.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-26"
  },
  "yessecurities": {
   "name": "Yes Securities",
   "sector": "Brokerage",
   "description": "Brokerage; forecast net interest income up 14.7% and valued Jio.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-10"
+  "last_mentioned": "2026-11-26"
  },
  "hdfcsecurities": {
   "name": "HDFC Securities",
@@ -2041,7 +2041,7 @@
   "sector": "Crypto derivatives",
   "description": "Crypto options exchange whose CEO commented on bitcoin tail risk and VaR measures.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-10-30"
+  "last_mentioned": "2026-11-26"
  },
  "londonbullionmarketassociation": {
   "name": "London Bullion Market Association",
@@ -2328,7 +2328,7 @@
   "sector": "Regulator",
   "description": "India's securities regulator; to issue guidelines on closing auction session.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "reservebankofindia": {
   "name": "Reserve Bank of India",
@@ -2706,7 +2706,7 @@
   "sector": "Insurance regulator",
   "description": "India's insurance regulator; proposed changes to insurance commissions and product rules.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "centralelectricityregulatorycommission": {
   "name": "Central Electricity Regulatory Commission",
@@ -2741,7 +2741,7 @@
   "sector": "Financial data",
   "description": "Indian stock research platform; flagged valuation and return metrics for several stocks.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "tdsecurities": {
   "name": "TD Securities",
@@ -2790,7 +2790,7 @@
   "sector": "AI",
   "description": "AI company; launched the Anthropic Cyber Mission to help defenders secure critical systems.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "accenture": {
   "name": "Accenture",
@@ -2937,7 +2937,7 @@
   "sector": "Financial services",
   "description": "Research firm; downgraded Tech Mahindra to Sell and cut Usha Martin's grade to Hold.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-26"
  },
  "alphawaveventures": {
   "name": "Alpha Wave Ventures",
@@ -2972,7 +2972,7 @@
   "sector": "Banking",
   "description": "State Bank of India; bought ITC shares in the block deal where GQG sold its stake.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-26"
  },
  "aramco": {
   "name": "Aramco",
@@ -3280,7 +3280,7 @@
   "sector": "Research",
   "description": "Research firm; reported a 22.4% year-on-year fall in worldwide PC shipments in Q3 2026.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-26"
  },
  "lenovo": {
   "name": "Lenovo",
@@ -3903,7 +3903,7 @@
   "sector": "Banking",
   "description": "Public sector bank offering personal, corporate, SME and NRI services; faces a $15 billion lawsuit by BR Shetty.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-26"
  },
  "standardchartered": {
   "name": "Standard Chartered",
@@ -4330,7 +4330,7 @@
   "sector": "Media",
   "description": "Reported a small group of founders and engineers have embraced cigarettes for networking.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-27"
+  "last_mentioned": "2026-11-26"
  },
  "cnbc": {
   "name": "CNBC",
@@ -4372,42 +4372,42 @@
   "sector": "Media",
   "description": "Published an analysis on whether Accenture will survive or thrive in the age of AI.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-26"
  },
  "thehindu": {
   "name": "The Hindu",
   "sector": "Media",
   "description": "Indian newspaper carrying the editorials, international and business coverage in this digest.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "entrackr": {
   "name": "Entrackr",
   "sector": "Media",
   "description": "Indian startup news outlet that publishes a weekly funding report.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "openclawnewsletter": {
   "name": "Open Claw Newsletter",
   "sector": "Media",
   "description": "Newsletter covering AI industry news and commentary.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "dynamicwatchlist": {
   "name": "Dynamic Watchlist",
   "sector": "Finance",
   "description": "Market watchlist source providing top gainers and losers headlines and summaries.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "moneycontrol": {
   "name": "Moneycontrol",
   "sector": "Media",
   "description": "Indian financial news outlet reporting on Bank of Baroda's lawsuit and Meesho's fall.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "cnbctv18": {
   "name": "CNBC TV18",
@@ -4435,21 +4435,21 @@
   "sector": "Financial data",
   "description": "Charting and market news platform carrying several of today's stock stories.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "yahoofinance": {
   "name": "Yahoo Finance",
   "sector": "Financial data",
   "description": "Market data site carrying coverage of Transformers & Rectifiers India's gain.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "kitco": {
   "name": "Kitco",
   "sector": "Media",
   "description": "Precious metals news site reporting on gold prices and ETF flows.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "bullionvault": {
   "name": "BullionVault",
@@ -4477,7 +4477,7 @@
   "sector": "Media",
   "description": "Crypto publication reporting on shrinking bitcoin supply on exchanges.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-26"
  },
  "theblock": {
   "name": "The Block",
@@ -4547,7 +4547,7 @@
   "sector": "Media",
   "description": "Indian markets site explaining HAL's consecutive share price rise.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-26"
  },
  "gktoday": {
   "name": "GKToday",
@@ -4561,21 +4561,21 @@
   "sector": "Media",
   "description": "Indian business newspaper covering IDBI Bank's share surge and Q2 results.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-26"
  },
  "economictimes": {
   "name": "Economic Times",
   "sector": "Media",
   "description": "Indian business newspaper carrying the morning dispatch and Info Edge coverage.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "businesstoday": {
   "name": "Business Today",
   "sector": "Media",
   "description": "Indian business magazine covering Vedanta Power and demerged stocks.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-26"
  },
  "linkedin": {
   "name": "LinkedIn",
@@ -4589,7 +4589,7 @@
   "sector": "Financial data",
   "description": "Market news platform carrying Elecon, Meesho and Info Edge coverage.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-26"
  },
  "gulfnews": {
   "name": "Gulf News",
@@ -4603,7 +4603,7 @@
   "sector": "Media",
   "description": "Indian business newspaper covering BR Shetty's lawsuit against Bank of Baroda.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-26"
  },
  "startupfortune": {
   "name": "StartupFortune",
@@ -4806,7 +4806,7 @@
   "sector": "Philanthropy",
   "description": "Charitable trusts owning 66% of Tata Sons, facing governance complaints.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-26"
  },
  "nykaa": {
   "name": "Nykaa",
@@ -4932,7 +4932,7 @@
   "sector": "Judiciary",
   "description": "Indian court hearing the NMC founder's suit against Bank of Baroda and Tata Trusts caveats.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "maharashtracharitycommissioner": {
   "name": "Maharashtra Charity Commissioner",
@@ -4946,7 +4946,7 @@
   "sector": "Regulator",
   "description": "US drug regulator that issued observations to Zydus Lifesciences' Moraiya plant.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "bharatnet": {
   "name": "BharatNet",
@@ -5499,7 +5499,7 @@
   "sector": "Food regulator",
   "description": "India's food safety regulator that issued notices to Flipkart, BigBasket and Gemini Edibles.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-10-22"
+  "last_mentioned": "2026-11-26"
  },
  "bigbasket": {
   "name": "BigBasket",
@@ -6136,14 +6136,14 @@
   "sector": "News",
   "description": "Technology news site that reported Flipkart's food delivery pilot.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-26"
  },
  "wired": {
   "name": "Wired",
   "sector": "News",
   "description": "Technology magazine that reported OnlyFans creators' dispute with Meta.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-26"
  },
  "pymnts": {
   "name": "PYMNTS",
@@ -7074,7 +7074,7 @@
   "sector": "Cloud computing",
   "description": "Amazon's cloud unit; launched the open-source TorchNeuron tool for its Trainium chips.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "trainium": {
   "name": "Trainium",
@@ -7165,7 +7165,7 @@
   "sector": "Banking",
   "description": "Punjab National Bank, an Indian public sector bank.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-16"
+  "last_mentioned": "2026-11-26"
  },
  "fsnecommerce": {
   "name": "FSN E-Commerce",
@@ -7487,7 +7487,7 @@
   "sector": "Media",
   "description": "Indian newspaper.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "openthemagazine": {
   "name": "OpenTheMagazine",
@@ -7641,14 +7641,14 @@
   "sector": "Cement",
   "description": "Indian cement producer, a peer of India Cements.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-26"
  },
  "acc": {
   "name": "ACC",
   "sector": "Cement",
   "description": "Indian cement maker, a peer of India Cements.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-26"
  },
  "epsiloncarbon": {
   "name": "Epsilon Carbon",
@@ -7830,14 +7830,14 @@
   "sector": "News",
   "description": "Indian construction and infrastructure news outlet.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-26"
  },
  "bbc": {
   "name": "BBC",
   "sector": "News",
   "description": "UK public broadcaster covering business and international news.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-26"
  },
  "billionairesafrica": {
   "name": "Billionaires Africa",
@@ -7851,7 +7851,7 @@
   "sector": "News",
   "description": "Indian startup and technology news outlet.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-26"
  },
  "veloxxmedia": {
   "name": "Veloxx Media",
@@ -8446,7 +8446,7 @@
   "sector": "Central bank",
   "description": "Raised the repo rate 25 basis points to 5.5% and flagged widening inflation.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "deendayalport": {
   "name": "Deendayal Port",
@@ -8474,7 +8474,7 @@
   "sector": "Judiciary",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "un": {
   "name": "UN",
@@ -9734,7 +9734,7 @@
   "sector": "News outlet",
   "description": "Marketing news site covering Flipkart for Earth and the Blinkit-Instamart private label race.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-26"
  },
  "businessupturn": {
   "name": "Business Upturn",
@@ -10014,7 +10014,7 @@
   "sector": "Crypto",
   "description": "Digital asset financial services firm saying bitcoin's bear market ended in June.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "salesforce": {
   "name": "Salesforce",
@@ -11673,7 +11673,7 @@
   "sector": "Computers",
   "description": "Hardware firm providing infrastructure for Honeywell's Forge Plant Cognition platform.",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-26"
  },
  "cathedral": {
   "name": "Cathedral",
@@ -13850,7 +13850,7 @@
   "sector": "Regulator",
   "description": "US Federal Aviation Administration, sending a team to aid the NTSB investigation into the Florida jet crash.",
   "first_added": "2026-11-02",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "ntsb": {
   "name": "NTSB",
@@ -14662,7 +14662,7 @@
   "sector": "Hospitality",
   "description": "Hotel chain reporting Q3 2026 RevPAR growth of 7.2% and a record development pipeline.",
   "first_added": "2026-11-05",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-26"
  },
  "qatartourism": {
   "name": "Qatar Tourism",
@@ -15481,7 +15481,7 @@
   "sector": "Real estate",
   "description": "Indian property developer; signed term sheet with Everstone for Rs 3,750-crore IREO investment.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-26"
  },
  "everstone": {
   "name": "Everstone",
@@ -15908,7 +15908,7 @@
   "sector": "Broking",
   "description": "Kotak Mahindra's brokerage arm that rated HAL Add with a Rs 5,305 fair value.",
   "first_added": "2026-11-07",
-  "last_mentioned": "2026-11-07"
+  "last_mentioned": "2026-11-26"
  },
  "pesb": {
   "name": "PESB",
@@ -17903,7 +17903,7 @@
   "sector": "Media",
   "description": "Source of the Reliance and HAL stories.",
   "first_added": "2026-11-12",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-26"
  },
  "indianstartupnews": {
   "name": "Indian Startup News",
@@ -18260,7 +18260,7 @@
   "sector": "Real estate",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-26"
  },
  "godrejconsumerproducts": {
   "name": "Godrej Consumer Products",
@@ -18414,7 +18414,7 @@
   "sector": "Politics",
   "description": "Bangladeshi political party that Sheikh Hasina says she plans to rebuild.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-26"
  },
  "jamaateislami": {
   "name": "Jamaat-e-Islami",
@@ -19688,7 +19688,7 @@
   "sector": "Political party",
   "description": "Indian opposition party criticising the government over rising household prices.",
   "first_added": "2026-11-18",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-26"
  },
  "pboc": {
   "name": "PBoC",
@@ -22712,7 +22712,7 @@
   "sector": "Healthcare data",
   "description": "Healthcare data firm cited for US sales of the Ferric Citrate reference drug.",
   "first_added": "2026-11-25",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "keryx": {
   "name": "Keryx",
@@ -22782,7 +22782,7 @@
   "sector": "Government",
   "description": "US Trade Representative preparing new tariffs after a Section 301 probe.",
   "first_added": "2026-11-25",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "conferenceboard": {
   "name": "Conference Board",
@@ -22831,7 +22831,7 @@
   "sector": "Media",
   "description": "News outlet that reported Flipkart's EV fleet expansion.",
   "first_added": "2026-11-25",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "propnewstime": {
   "name": "Prop News Time",
@@ -22852,7 +22852,7 @@
   "sector": "Media",
   "description": "News outlet that reported Sana Shaikh joining OpenAI.",
   "first_added": "2026-11-25",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-26"
  },
  "aviacionline": {
   "name": "Aviacionline",
@@ -23733,6 +23733,335 @@
   "name": "Prestige Estates Projects",
   "sector": "Real estate",
   "description": "Indian property developer of residential, office, retail and hospitality projects; shares jumped on an Axis Securities Buy call.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "chipotle": {
+  "name": "Chipotle",
+  "sector": "Restaurants",
+  "description": "US fast-casual Mexican chain; uses AI hiring assistant Ava Cado and demand tool Cook to Needs.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "hyland": {
+  "name": "Hyland",
+  "sector": "Enterprise software",
+  "description": "US software company; partnering with GOSH and AWS on an agentic AI hospital programme.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "ifood": {
+  "name": "iFood",
+  "sector": "Food delivery",
+  "description": "Brazilian food delivery company; built an internal platform running AI agents across 15,000 code repositories.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "nhnonghyupbank": {
+  "name": "NH NongHyup Bank",
+  "sector": "Banking",
+  "description": "South Korean bank; plans to give every employee an AI agent, introducing 150 by next year.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "agilesoda": {
+  "name": "AgileSoDA",
+  "sector": "AI",
+  "description": "NH NongHyup's AI subsidiary; being developed into an AI hub for the wider NongHyup group.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "axissecurities": {
+  "name": "Axis Securities",
+  "sector": "Financial services",
+  "description": "Indian brokerage; reiterated a Buy on Prestige Estates with a Rs 1,950 target.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "fitch": {
+  "name": "Fitch",
+  "sector": "Credit ratings",
+  "description": "Global credit rating agency; assigned a BBB- rating to Bank of Maharashtra's EMTN programme.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "flipitmoney": {
+  "name": "Flipit Money",
+  "sector": "Financial research",
+  "description": "Indian stock news site; reported Action Construction's jump after the cabinet scheme.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "retailnewsasia": {
+  "name": "Retail News Asia",
+  "sector": "Media",
+  "description": "Asian retail news site; reported the Flipkart CEO departure.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "bwdisrupt": {
+  "name": "BW Disrupt",
+  "sector": "Media",
+  "description": "Indian business news site; reported JioAstro's launch and Uber's India head appointment.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "zeebusiness": {
+  "name": "Zee Business",
+  "sector": "Media",
+  "description": "Indian business news channel; gave DMART, Divis Lab and Hind Zinc trading calls.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "indiasnews": {
+  "name": "India's News",
+  "sector": "Media",
+  "description": "News site; reported Go Digit's H1 FY27 claims settlement numbers.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "shattered": {
+  "name": "Shattered",
+  "sector": "Media",
+  "description": "Crypto news site; reported $7 billion of bitcoin options expiring on Deribit.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "gosh": {
+  "name": "GOSH",
+  "sector": "Healthcare",
+  "description": "Great Ormond Street Hospital; leading a 15-month agentic AI programme with Hyland and AWS.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "socradar": {
+  "name": "SOCRadar",
+  "sector": "Cybersecurity",
+  "description": "Cybersecurity firm; researchers found a jailbroken AI agent stole 8.6GB from public bodies.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "ncsc": {
+  "name": "NCSC",
+  "sector": "Cybersecurity",
+  "description": "UK National Cyber Security Centre; warned about faster AI-enabled cyber attacks.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "skift": {
+  "name": "Skift",
+  "sector": "Media",
+  "description": "Travel industry news site; reported Hyatt's brand repositioning for AI agents.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "milestone": {
+  "name": "Milestone",
+  "sector": "Hospitality research",
+  "description": "Hospitality research firm; surveyed about 1,128 US hotels on AI booking sources.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "cornell": {
+  "name": "Cornell",
+  "sector": "Education",
+  "description": "US university; a professor commented on Hyatt's brand strategy risks.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "sedaily": {
+  "name": "Sedaily",
+  "sector": "Media",
+  "description": "South Korean business news site; reported NH NongHyup Bank's AI agent plans.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "cio": {
+  "name": "CIO",
+  "sector": "Media",
+  "description": "Technology leadership publication; ran a CTO's account of building a routing AI agent.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "jira": {
+  "name": "Jira",
+  "sector": "Software",
+  "description": "Atlassian's project tracking tool; used to capture manager corrections for an AI routing agent.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "cato": {
+  "name": "Cato",
+  "sector": "Think tank",
+  "description": "US libertarian think tank; an analyst called the Intel stake straight-up coercion.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "queensuniversity": {
+  "name": "Queen's University",
+  "sector": "Education",
+  "description": "UK university; an investigation cleared Jason Arday's research.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "oharemcgovern": {
+  "name": "O'Hare & McGovern",
+  "sector": "Construction",
+  "description": "Newry construction company; put into administration with 31 job losses.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "ohmgholdings": {
+  "name": "OHMG (Holdings)",
+  "sector": "Construction",
+  "description": "Newry construction holding company; put into administration alongside O'Hare & McGovern.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "surreycountycouncil": {
+  "name": "Surrey County Council",
+  "sector": "Government",
+  "description": "UK local authority; adopted a formal policy on its use of AI tools.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "inspace": {
+  "name": "IN-SPACe",
+  "sector": "Space regulation",
+  "description": "India's space promotion body; report found import dependence and skills gaps in satellite manufacturing.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "iref": {
+  "name": "IREF",
+  "sector": "Trade body",
+  "description": "Indian Rice Exporters' Federation; said non-basmati rice export bans are unlikely soon.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "defencespaceagency": {
+  "name": "Defence Space Agency",
+  "sector": "Defence",
+  "description": "Indian defence agency; seeking Indian partners for AI, anti-jamming and space surveillance tech.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "nhsengland": {
+  "name": "NHS England",
+  "sector": "Healthcare",
+  "description": "English health body; funding GOSH's agentic AI hospital programme.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "allenonline": {
+  "name": "Allen Online",
+  "sector": "Edtech",
+  "description": "Online education arm of Allen; Rakesh Ranjan is its CEO before joining Uber.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "jswcement": {
+  "name": "JSW Cement",
+  "sector": "Cement",
+  "description": "Indian cement company; used as a valuation peer for India Cements.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "lodha": {
+  "name": "Lodha",
+  "sector": "Real estate",
+  "description": "Indian property developer; named among real estate sector leaders.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "brigadeenterprises": {
+  "name": "Brigade Enterprises",
+  "sector": "Real estate",
+  "description": "Indian property developer; led the Nifty Realty index rally to a 52-week high.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "hindzinc": {
+  "name": "Hind Zinc",
+  "sector": "Metals",
+  "description": "Indian zinc producer; featured in a futures trading call.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "divislab": {
+  "name": "Divis Lab",
+  "sector": "Pharmaceuticals",
+  "description": "Indian drugmaker; featured in a stock of the day trading call.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "ultratech": {
+  "name": "UltraTech",
+  "sector": "Cement",
+  "description": "India's largest cement maker; named as a sector leader.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "adanicement": {
+  "name": "Adani Cement",
+  "sector": "Cement",
+  "description": "Adani group's cement business; named among the largest cement players.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "dalmia": {
+  "name": "Dalmia",
+  "sector": "Cement",
+  "description": "Indian cement company; named among the largest cement players.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "chennaisuperkings": {
+  "name": "Chennai Super Kings",
+  "sector": "Sports",
+  "description": "IPL cricket franchise sponsored by India Cements.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "anc": {
+  "name": "ANC",
+  "sector": "Politics",
+  "description": "South Africa's ruling party; Ramaphosa's court win voided steps under an impeachment report.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "sadb": {
+  "name": "SAD(B)",
+  "sector": "Politics",
+  "description": "Shiromani Akali Dal (Badal); allied with the BJP in Punjab six years after leaving the NDA.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "bjp": {
+  "name": "BJP",
+  "sector": "Politics",
+  "description": "India's ruling party; allied with SAD(B) in Punjab ahead of elections.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "aap": {
+  "name": "AAP",
+  "sector": "Politics",
+  "description": "Aam Aadmi Party; described as entrenched in Punjab politics.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "nda": {
+  "name": "NDA",
+  "sector": "Politics",
+  "description": "India's National Democratic Alliance; SAD(B) quit it in 2020 over farm laws.",
+  "first_added": "2026-11-26",
+  "last_mentioned": "2026-11-26"
+ },
+ "swatpremierleague": {
+  "name": "Swat Premier League",
+  "sector": "Sports",
+  "description": "Cricket tournament in Mingora; a viral one-handed catch was taken at one of its matches.",
   "first_added": "2026-11-26",
   "last_mentioned": "2026-11-26"
  }
