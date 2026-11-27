@@ -116,7 +116,7 @@
   "sector": "Consumer electronics",
   "description": "South Korean conglomerate making memory chips, smartphones and displays; competing in high-bandwidth memory.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-27"
  },
  "skhynix": {
   "name": "SK Hynix",
@@ -235,7 +235,7 @@
   "sector": "Oil refining",
   "description": "India's largest state-owned oil refining and marketing company.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-27"
  },
  "bpcl": {
   "name": "BPCL",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-27"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -830,7 +830,7 @@
   "sector": "Consumer electronics",
   "description": "Smartphone maker offering the T5x at Rs 24,999 during Flipkart's sale.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-27"
  },
  "meesho": {
   "name": "Meesho",
@@ -1432,7 +1432,7 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-27"
  },
  "citi": {
   "name": "Citi",
@@ -2251,7 +2251,7 @@
   "sector": "Consumer electronics",
   "description": "Electronics brand; 55-inch QLED TV discounted on Flipkart.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-19"
+  "last_mentioned": "2026-11-27"
  },
  "bhel": {
   "name": "BHEL",
@@ -2405,7 +2405,7 @@
   "sector": "Financial services",
   "description": "Brokerage firm; issued a technical buy call on Go Digit General Insurance.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-27"
  },
  "zetwerkmanufacturing": {
   "name": "Zetwerk Manufacturing",
@@ -2741,7 +2741,7 @@
   "sector": "Financial data",
   "description": "Indian stock research platform; flagged valuation and return metrics for several stocks.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-26"
+  "last_mentioned": "2026-11-27"
  },
  "tdsecurities": {
   "name": "TD Securities",
@@ -2923,7 +2923,7 @@
   "sector": "Financial services",
   "description": "Investment bank; raised Reliance's model portfolio weight to 7.50% and cut DMart's target to ₹4,000.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-16"
+  "last_mentioned": "2026-11-27"
  },
  "clsa": {
   "name": "CLSA",
@@ -2965,7 +2965,7 @@
   "sector": "Asset management",
   "description": "Mutual fund; bought ITC shares in the block deal where GQG sold its stake.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-12"
+  "last_mentioned": "2026-11-27"
  },
  "sbi": {
   "name": "SBI",
@@ -3329,7 +3329,7 @@
   "sector": "Financial services",
   "description": "Brokerage firm; expects two more RBI rate hikes this financial year.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-27"
  },
  "tatamotors": {
   "name": "Tata Motors",
@@ -3623,7 +3623,7 @@
   "sector": "Oil and gas logistics",
   "description": "Runs bulk liquid terminals, LPG import terminals and pipelines in India.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-27"
  },
  "rrkabel": {
   "name": "R R Kabel",
@@ -3791,7 +3791,7 @@
   "sector": "Rail transport",
   "description": "India's state rail operator; freight loading rose 6.14% in September 2026 year on year.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-10-14"
+  "last_mentioned": "2026-11-27"
  },
  "tristarholdings": {
   "name": "Tristar Holdings",
@@ -4407,14 +4407,14 @@
   "sector": "Media",
   "description": "Indian financial news outlet reporting on Bank of Baroda's lawsuit and Meesho's fall.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-26"
+  "last_mentioned": "2026-11-27"
  },
  "cnbctv18": {
   "name": "CNBC TV18",
   "sector": "Media",
   "description": "Indian business news channel reporting on Aegis Logistics and Vedanta Power moves.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-27"
  },
  "upstox": {
   "name": "Upstox",
@@ -5107,7 +5107,7 @@
   "sector": "Government",
   "description": "Indian ministry that announced HAL's engine capacity expansion.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-10-15"
+  "last_mentioned": "2026-11-27"
  },
  "michaelsaylor": {
   "name": "Michael Saylor",
@@ -6122,7 +6122,7 @@
   "sector": "News",
   "description": "Indian business news outlet that reported Urban Company's earnings miss.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-27"
  },
  "equitymaster": {
   "name": "Equitymaster",
@@ -6318,7 +6318,7 @@
   "sector": "Crypto",
   "description": "BlackRock's spot Bitcoin ETF; subject of a new downside-protection filing.",
   "first_added": "2026-10-20",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-27"
  },
  "noahdoe": {
   "name": "Noah Doe",
@@ -7151,7 +7151,7 @@
   "sector": "Telecom",
   "description": "Reliance's telecom brand, India's largest mobile network by subscribers.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-27"
  },
  "airtel": {
   "name": "Airtel",
@@ -7536,7 +7536,7 @@
   "sector": "Streaming",
   "description": "US streaming service; posted record India subscriber growth in Q3 2026 helped by a Flipkart bundle.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-11-27"
  },
  "cibc": {
   "name": "CIBC",
@@ -7557,7 +7557,7 @@
   "sector": "Defence alliance",
   "description": "Military alliance deploying planes, drones and radars to the Black Sea after attacks on ships.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-27"
  },
  "renault": {
   "name": "Renault",
@@ -7676,7 +7676,7 @@
   "sector": "Stock exchange",
   "description": "Indian exchange where Jio Platforms' IPO bids and Reliance share moves were recorded.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-27"
  },
  "dcgi": {
   "name": "DCGI",
@@ -9412,7 +9412,7 @@
   "sector": "Commodity exchange",
   "description": "India's multi commodity exchange trading gold and other futures.",
   "first_added": "2026-10-25",
-  "last_mentioned": "2026-11-06"
+  "last_mentioned": "2026-11-27"
  },
  "floridaamuniversity": {
   "name": "Florida A&M University",
@@ -9643,7 +9643,7 @@
   "sector": "Market research",
   "description": "Research firm expecting Apple to take 44% of foldable value in 2026 on 31% of units.",
   "first_added": "2026-10-26",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-27"
  },
  "anantambanisfoundation": {
   "name": "Anant Ambani's foundation",
@@ -11288,7 +11288,7 @@
   "sector": "AI",
   "description": "OpenAI model with the lowest median first-sentence latency in Retell's October 2026 benchmark.",
   "first_added": "2026-10-28",
-  "last_mentioned": "2026-10-28"
+  "last_mentioned": "2026-11-27"
  },
  "azure": {
   "name": "Azure",
@@ -14361,7 +14361,7 @@
   "sector": "Media",
   "description": "US publisher producing agent-friendly article versions and selling ads to AI agents.",
   "first_added": "2026-11-03",
-  "last_mentioned": "2026-11-03"
+  "last_mentioned": "2026-11-27"
  },
  "etsy": {
   "name": "Etsy",
@@ -16895,7 +16895,7 @@
   "sector": "Defence electronics",
   "description": "Bharat Electronics, Indian state-owned defence electronics company.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-27"
  },
  "ireda": {
   "name": "IREDA",
@@ -17273,7 +17273,7 @@
   "sector": "Heavy engineering",
   "description": "Indian state-owned maker of mining, rail and defence equipment.",
   "first_added": "2026-11-11",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-27"
  },
  "hudco": {
   "name": "HUDCO",
@@ -18379,7 +18379,7 @@
   "sector": "Consumer electronics",
   "description": "Phone maker linked to an Amber Enterprises mobile manufacturing deal.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-15"
+  "last_mentioned": "2026-11-27"
  },
  "schaefflerindia": {
   "name": "Schaeffler India",
@@ -18414,7 +18414,7 @@
   "sector": "Politics",
   "description": "Bangladeshi political party that Sheikh Hasina says she plans to rebuild.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-26"
+  "last_mentioned": "2026-11-27"
  },
  "jamaateislami": {
   "name": "Jamaat-e-Islami",
@@ -19310,7 +19310,7 @@
   "sector": "Electronics manufacturing",
   "description": "Indian electronics manufacturing services company competing in the EMS sector.",
   "first_added": "2026-11-17",
-  "last_mentioned": "2026-11-20"
+  "last_mentioned": "2026-11-27"
  },
  "tvsmotorcompany": {
   "name": "TVS Motor Company",
@@ -23181,7 +23181,7 @@
   "sector": "Software",
   "description": "Messaging app where Klarna's upgraded shopping assistant is available.",
   "first_added": "2026-11-25",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-27"
  },
  "imessage": {
   "name": "iMessage",
@@ -23524,14 +23524,14 @@
   "sector": "Rail equipment",
   "description": "Indian rail wagon maker forming an 80:20 joint venture with Woojin for metro coaches.",
   "first_added": "2026-11-25",
-  "last_mentioned": "2026-11-26"
+  "last_mentioned": "2026-11-27"
  },
  "woojinindustrialsystems": {
   "name": "Woojin Industrial Systems",
   "sector": "Rail equipment",
   "description": "South Korean maker of metro coaches and propulsion systems partnering with Jupiter Wagons.",
   "first_added": "2026-11-25",
-  "last_mentioned": "2026-11-26"
+  "last_mentioned": "2026-11-27"
  },
  "daburindia": {
   "name": "Dabur India",
@@ -23629,7 +23629,7 @@
   "sector": "Retail",
   "description": "US department store chain that postponed its 100th Thanksgiving Day Parade due to severe weather.",
   "first_added": "2026-11-26",
-  "last_mentioned": "2026-11-26"
+  "last_mentioned": "2026-11-27"
  },
  "astrosage": {
   "name": "AstroSage",
@@ -23657,7 +23657,7 @@
   "sector": "Automotive",
   "description": "South Korean carmaker producing passenger vehicles sold globally including India.",
   "first_added": "2026-11-26",
-  "last_mentioned": "2026-11-26"
+  "last_mentioned": "2026-11-27"
  },
  "patanjalifoods": {
   "name": "Patanjali Foods",
@@ -24118,6 +24118,272 @@
   "name": "Hindu Munnani",
   "sector": "Politics",
   "description": "Not enough detail in today's digest",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "airasia": {
+  "name": "AirAsia",
+  "sector": "Aviation",
+  "description": "Malaysian low-cost airline; delaying staff salaries to month-end after a third straight quarterly loss.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "verizon": {
+  "name": "Verizon",
+  "sector": "Telecom",
+  "description": "US telecom operator; a partner in WhatsApp's in-app travel eSIM feature.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "geojitinvestments": {
+  "name": "Geojit Investments",
+  "sector": "Financial services",
+  "description": "Brokerage; cited BEML's Rs 21,388 crore order book in its coverage.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "downstox": {
+  "name": "Downstox",
+  "sector": "Financial data",
+  "description": "Financial data provider; source of Aegis Logistics peer comparison data.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "capitalmarket": {
+  "name": "Capital Market",
+  "sector": "Media",
+  "description": "Indian financial publisher; reported Aegis Logistics' one-year 62.39% gain.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "jamaateislamibangladesh": {
+  "name": "Jamaat-e-Islami Bangladesh",
+  "sector": "Politics",
+  "description": "Bangladeshi Islamist party; sent a legal notice to The Australian over a report on its Ameer.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "theaustralian": {
+  "name": "The Australian",
+  "sector": "Media",
+  "description": "Australian newspaper; received a legal notice from Jamaat-e-Islami Bangladesh over a report.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "lyonandturnbull": {
+  "name": "Lyon and Turnbull",
+  "sector": "Auction house",
+  "description": "UK auctioneer; will sell a 200-year-old Taj Mahal marble slab on December 9.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "universityofcostarica": {
+  "name": "University of Costa Rica",
+  "sector": "Education",
+  "description": "Asked the government to explain denying entry to a UN special rapporteur.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "brookings": {
+  "name": "Brookings",
+  "sector": "Think tank",
+  "description": "US think tank; led by the late Strobe Talbott from 2002 to 2017.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "smartaxiata": {
+  "name": "Smart Axiata",
+  "sector": "Telecom",
+  "description": "Cambodian telecom operator; a partner in WhatsApp's in-app travel eSIM feature.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "smartcommunications": {
+  "name": "Smart Communications",
+  "sector": "Telecom",
+  "description": "Philippine telecom operator; a partner in WhatsApp's in-app travel eSIM feature.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "spotdraft": {
+  "name": "SpotDraft",
+  "sector": "Legal tech",
+  "description": "Contract management software startup; appointed Sajana Shankaran as VP of human resources.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "uti": {
+  "name": "UTI",
+  "sector": "Asset management",
+  "description": "Indian asset manager; met Info Edge in one-on-one investor meetings in Mumbai.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "axisassetmanagement": {
+  "name": "Axis Asset Management",
+  "sector": "Asset management",
+  "description": "Indian asset manager; met Info Edge in one-on-one investor meetings in Mumbai.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "niftybank": {
+  "name": "Nifty Bank",
+  "sector": "Index",
+  "description": "Indian banking index; rose nearly 26% from its April 2 low on earnings strength.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "niftyindiadefence": {
+  "name": "Nifty India Defence",
+  "sector": "Index",
+  "description": "Indian defence sector index; rose 4% with BEML as its top performer.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "saopaulostockexchange": {
+  "name": "Sao Paulo Stock Exchange",
+  "sector": "Exchange",
+  "description": "Brazilian bourse; closed up 6% after rumors of the Finance Minister pick.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "ministryofinformationandbroadcasting": {
+  "name": "Ministry of Information and Broadcasting",
+  "sector": "Government",
+  "description": "Told Netflix to avoid publishing Pakistani content under the 2021 IT rules.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "vopak": {
+  "name": "Vopak",
+  "sector": "Oil and gas logistics",
+  "description": "Dutch tank storage company; partner in Aegis Logistics' Aegis Vopak joint venture.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "adanitotal": {
+  "name": "Adani Total",
+  "sector": "Energy",
+  "description": "Indian energy joint venture; named as a player in oil, gas and chemical logistics.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "titagarhrailsystems": {
+  "name": "Titagarh Rail Systems",
+  "sector": "Rail equipment",
+  "description": "Indian rail rolling stock maker; named as a key listed wagon player.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "texmacorail": {
+  "name": "Texmaco Rail",
+  "sector": "Rail equipment",
+  "description": "Indian rail wagon and coach maker; named as a key listed wagon player.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "bdl": {
+  "name": "BDL",
+  "sector": "Defence aerospace",
+  "description": "Bharat Dynamics; named among the main listed defence players.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "aegisvopak": {
+  "name": "Aegis Vopak",
+  "sector": "Oil and gas logistics",
+  "description": "Joint venture between Aegis Logistics and Vopak building a nationwide terminal network.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "projectgati": {
+  "name": "Project GATI",
+  "sector": "Oil and gas logistics",
+  "description": "Aegis Logistics' nationwide network build-out of terminals, filling plants and gas stations.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "cooktoneeds": {
+  "name": "Cook to Needs",
+  "sector": "Restaurants",
+  "description": "Chipotle's AI tool that recommends how much fresh food each restaurant should prepare.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "avacado": {
+  "name": "Ava Cado",
+  "sector": "Restaurants",
+  "description": "Chipotle's AI hiring assistant that cut time from application to start to four days.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "remoteagentsplatform": {
+  "name": "Remote Agents Platform",
+  "sector": "AI",
+  "description": "iFood's internal API that delegates engineering tasks to remote sandboxes as merge requests.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "thestandard": {
+  "name": "The Standard",
+  "sector": "Hospitality",
+  "description": "Hyatt hotel brand; being repositioned around boldness under chief creative officer Amar Lalvani.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "andaz": {
+  "name": "Andaz",
+  "sector": "Hospitality",
+  "description": "Hyatt hotel brand; being repositioned around grounded discovery.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "thompson": {
+  "name": "Thompson",
+  "sector": "Hospitality",
+  "description": "Hyatt hotel brand; being repositioned as the home base.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "standardinternational": {
+  "name": "Standard International",
+  "sector": "Hospitality",
+  "description": "Hotel company formerly led by Amar Lalvani, now Hyatt's chief creative officer.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "tokenfactory": {
+  "name": "Token Factory",
+  "sector": "AI",
+  "description": "Sarvam AI's commercial inference platform giving businesses API access to its models.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "halima": {
+  "name": "Halima",
+  "sector": "Shipping",
+  "description": "Panama-flagged cargo ship that sank off Cuba with 208 containers and 16 crew.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "jointmeccadefenseagreement": {
+  "name": "Joint Mecca Defense Agreement",
+  "sector": "Defence",
+  "description": "Trilateral pact between Pakistan, Saudi Arabia and Turkey treating an attack on one as on all.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "hr8957": {
+  "name": "H.R. 8957",
+  "sector": "Government",
+  "description": "US bill to codify the Strategic Bitcoin Reserve with a 20-year holding period.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "strategicbitcoinreserve": {
+  "name": "Strategic Bitcoin Reserve",
+  "sector": "Government",
+  "description": "US government bitcoin holding; a House committee advanced a bill to codify it.",
   "first_added": "2026-11-27",
   "last_mentioned": "2026-11-27"
  }
