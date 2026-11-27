@@ -3,8 +3,8 @@ METRICS
 NIFTY PE | 21.08 | 26 Nov 2026 | https://nifty-pe-ratio.com/
 Gold per 10g 24K | ₹1,24,810 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 25,884.50 (+1.45%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹56,63,919 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $60,731 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹56,87,804 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $61,421 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -13,11 +13,11 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   26 Nov 2026 | https://www.indianstartuptimes.com/news/reliance-backed-jio-platforms-launches-ai-powered-jioastro-enters-indias-digital-astrology-market/
-  • Jio Platforms launched JioAstro, an AI-powered Vedic astrology platform, entering India's digital astrology market against Astrotalk and AstroSage. ¶ • Jio took JioAstro offline hours after it became publicly accessible, with the site saying a demo survey had closed. ¶ • JioAstro's mobile app is an invite-only prototype on internal testing, with no public pricing or rollout timeline announced. ¶ • India's digital astrology market is estimated at $390 million in 2026 and projected to reach $2.32 billion by 2032, growing 34.61% CAGR. ¶ • Astrology apps recorded 150 million downloads from January to September 2026, up 75% from the same period last year. ¶ ↗ indianstartuptimes.com|https://www.indianstartuptimes.com/news/reliance-backed-jio-platforms-launches-ai-powered-jioastro-enters-indias-digital-astrology-market/ ;; inc42.com|https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/ ;; bwdisrupt.com|https://www.bwdisrupt.com/article/reliance-s-jio-enters-digital-astrology-market-with-ai-powered-jioastro-app-635286 ;; business-standard.com|https://www.business-standard.com/companies/news/reliance-enters-india-s-growing-digital-astrology-market-with-jioastro-126112600381_1.html
+  • Jio Platforms launched JioAstro, an AI-powered Vedic astrology platform, entering India's digital astrology market in competition with Astrotalk and AstroSage. ¶ • JioAstro was taken offline hours after becoming publicly accessible, with the website saying the demo survey had closed, per Inc42 sources. ¶ • The platform offers Kundali generation, birth charts, daily Panchang and identifies more than 40 Yogas and Doshas in four languages. ¶ • JioAstro's mobile app is an invite-only prototype on internal testing, with no public pricing or wider rollout timeline announced. ¶ • India's digital astrology market is estimated at $390 million in 2026 and projected to reach $2.32 billion by 2032, a 34.61% CAGR. ¶ ↗ indianstartuptimes.com|https://www.indianstartuptimes.com/news/reliance-backed-jio-platforms-launches-ai-powered-jioastro-enters-indias-digital-astrology-market/ ;; inc42.com|https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/ ;; bwdisrupt.com|https://www.bwdisrupt.com/article/reliance-s-jio-enters-digital-astrology-market-with-ai-powered-jioastro-app-635286 ;; business-standard.com|https://www.business-standard.com/companies/news/reliance-enters-india-s-growing-digital-astrology-market-with-jioastro-126112600381_1.html
 
 - Outlook: Neutral
   2026-11-27 |
-  §VIEW§{"stance": "neutral", "text": "JioAstro's abrupt takedown and invite-only prototype leave no revenue or rollout to judge, while the market's 34.61% CAGR and 150 million downloads show demand. The split is execution versus opportunity."}
+  §VIEW§{"stance": "neutral", "text": "Jio's entry into a market growing at 34.61% CAGR is offset by JioAstro being pulled offline hours after launch, with no pricing or rollout timeline. The product's fate is unclear."}
 
 [Reliance Intelligence]
 
@@ -45,23 +45,23 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   26 Nov 2026 | https://www.tradingview.com/news/moodys:5c9742c095f10:0-uber-appints-former-zomato-food-delivery-ceo-rakesh-ranjan-as-president-for-india-south-asia/
-  • Uber appointed former Zomato food delivery CEO Rakesh Ranjan as President of Uber India and South Asia, effective January 4, 2027. ¶ • Ranjan spent eight years at Zomato from 2017, rising to CEO of food ordering and delivery and also leading Zomato Gold, sales and Hyperpure. ¶ • Ranjan joins from Allen Online, where he is CEO, and will report to Uber Asia Pacific head Dom Taylor after a search of more than three months. ¶ • He succeeds Prabhjeet Singh, who left Uber India in July after 11 years to join OpenAI as India managing director. ¶ • Uber India is its third-largest market by trips after the US and Brazil, with operations in more than 200 cities and over two million monthly active drivers. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:5c9742c095f10:0-uber-appints-former-zomato-food-delivery-ceo-rakesh-ranjan-as-president-for-india-south-asia/ ;; nationalheraldindia.com|https://www.nationalheraldindia.com/business/uber-appoints-former-zomato-executive-rakesh-ranjan-as-india-and-south-asia-chief ;; storyboard18.com|https://www.storyboard18.com/brand-makers/uber-appoints-ex-zomato-executive-rakesh-ranjan-as-india-president-ws-l-115512.htm ;; entrackr.com|https://entrackr.com/snippets/uber-appoints-former-zomato-food-delivery-ceo-rakesh-ranjan-as-india-president-12842354
+  • Uber named former Zomato food delivery CEO Rakesh Ranjan as President of Uber India and South Asia, effective January 4, 2027, reporting to Asia Pacific head Dom Taylor. ¶ • Ranjan spent eight years at Zomato from 2017, leading Zomato Gold, sales, Hyperpure and the food ordering and delivery business as CEO. ¶ • Ranjan succeeds Prabhjeet Singh, who left Uber India in July after 11 years to join OpenAI as India managing director. ¶ • Uber operates in more than 200 cities in India with over two million monthly active drivers, its third-largest market by trips after the US and Brazil. ¶ • Uber infused ₹2,921 crore into its India arm earlier this year, as it faces competition from Rapido in price-sensitive mobility segments. ¶ ↗ tradingview.com|https://www.tradingview.com/news/moodys:5c9742c095f10:0-uber-appints-former-zomato-food-delivery-ceo-rakesh-ranjan-as-president-for-india-south-asia/ ;; nationalheraldindia.com|https://www.nationalheraldindia.com/business/uber-appoints-former-zomato-executive-rakesh-ranjan-as-india-and-south-asia-chief ;; entrackr.com|https://entrackr.com/snippets/uber-appoints-former-zomato-food-delivery-ceo-rakesh-ranjan-as-india-president-12842354 ;; tradingview.com|https://www.tradingview.com/news/moodys:7c7005e1b3d05:0-uber-appoints-zomato-s-rakesh-ranjan-as-president-for-india-south-asia/
 
 - Outlook: Neutral
   2026-11-27 |
-  §VIEW§{"stance": "neutral", "text": "Zomato loses a senior leader to a rival, but no Zomato operating or financial data changed. Uber gains India experience while facing Rapido competition; the news flow is neutral for Zomato."}
+  §VIEW§{"stance": "neutral", "text": "A senior Zomato food delivery executive leaving for Uber signals talent competition, not a change in Zomato's own operations. No Zomato financials or demand data appear, so the flow is neutral."}
 
 [HAL]
 
-[Tejas Networks]
-
 - ~
-  26 Nov 2026 | https://www.marketsmojo.com/news/stock-recommendation/tejas-networks-ltd-is-rated-sell-by-marketsmojo-4260603
-  • Tejas Networks posted a Q2 FY27 net loss of ₹207 crore, narrower than ₹307 crore a year earlier, while revenue rose 54.4% to ₹413 crore. ¶ • MarketsMOJO rated the stock Sell, citing negative EBITDA of Rs -459.46 crore and a Debt to EBITDA ratio of -10.82 times. ¶ • Nine-month net sales fell 51.89% to ₹1,140.53 crore with a net loss of Rs -620.52 crore, and no dividend was paid. ¶ • The stock trades about 37.4% below its 52-week high of ₹644.75 and has a negative ROE of minus 32.33%. ¶ • Tata group entities hold 53.28% of Tejas Networks, with foreign institutions at 6.63% and the public at 36.09%. ¶ ↗ marketsmojo.com|https://www.marketsmojo.com/news/stock-recommendation/tejas-networks-ltd-is-rated-sell-by-marketsmojo-4260603 ;; univest.in|https://univest.in/blogs/tejas-networks-vs-hfcl-comparison
+  27 Nov 2026 | https://tradebrains.in/indian-markets/hal-schneider-electric-and-3-others-with-bullish-macd-crossovers-to-keep-on-your-radar-12843189
+  • HAL appeared in a technical screen of stocks with bullish MACD crossovers, a momentum signal watched by traders. ¶ ↗ tradebrains.in|https://tradebrains.in/indian-markets/hal-schneider-electric-and-3-others-with-bullish-macd-crossovers-to-keep-on-your-radar-12843189
 
-- Outlook: Bearish
+- Outlook: Neutral
   2026-11-27 |
-  §VIEW§{"stance": "bearish", "text": "Tejas remains loss-making with negative EBITDA and high debt, and its nine-month sales fell 51.89%. The Sell rating and weak fundamentals outweigh the narrower quarterly loss."}
+  §VIEW§{"stance": "neutral", "text": "The only item is a technical screen mention, with no company fundamentals or order news. That gives no basis to lean bullish or bearish."}
+
+[Tejas Networks]
 
 [Dmart]
 
@@ -73,35 +73,43 @@ SOURCE 6: Watchlist (headlines + summary)
 
 [Godigit Insurance]
 
+- ~
+  26 Nov 2026 | https://www.indiasnews.net/news/279457479/digit-insurance-settles-over-6-lakh-claims-in-h1-fy27-health-cashless-approvals-average-25-minutes
+  • Digit settled over 6.2 lakh claims in H1 FY27, up 32% year-on-year, according to its 15th Transparency Report. ¶ • Cashless health pre-authorisation requests were approved in an average of 25.1 minutes, faster than 26.9 minutes in H1 FY26. ¶ • Digit paid ₹28.5 crore on 2,109 motor claims from the Gujarat floods by the end of H1 FY27. ¶ • Average vehicle repair approval time rose to 17 hours 39 minutes from 14 hours 44 minutes, and cashless health discharge approval rose to 63.6 minutes from 52.5 minutes. ¶ • Digit issued up to 3.5 lakh policies and settled 11,750 claims on its busiest day, with a cashless network of over 23,500 garages and 10,500 hospitals. ¶ ↗ indiasnews.net|https://www.indiasnews.net/news/279457479/digit-insurance-settles-over-6-lakh-claims-in-h1-fy27-health-cashless-approvals-average-25-minutes
+
+- Outlook: Neutral
+  2026-11-27 |
+  §VIEW§{"stance": "neutral", "text": "Claims growth of 32% and faster health pre-authorisation approvals support the operating story. But rising vehicle repair and discharge approval times show service strain, splitting the read."}
+
 [Infoedge/Naukri]
 
 - ~
   26 Nov 2026 | https://scanx.trade/stock-market-news/companies/info-edge-host-non-deal-roadshow-singapore-dec-1-dec-3/57255125
-  • Info Edge will hold one-on-one meetings with eight institutional investors in Mumbai on November 19 and 20, 2026. ¶ • The meetings include UTI, ICICI Prudential and Axis Asset Management, led by Himanshu Agarwal and Vineet Ranjan. ¶ • Info Edge will host a non-deal roadshow in Singapore from December 1 to December 3, 2026. ¶ • The company said no unpublished price sensitive information will be shared in these investor interactions. ¶ • The meetings are held under Regulation 30(6) of SEBI's Listing Obligations and Disclosure Requirements Regulations, 2015. ¶ ↗ scanx.trade|https://scanx.trade/stock-market-news/companies/info-edge-host-non-deal-roadshow-singapore-dec-1-dec-3/57255125
+  • Info Edge's September 2026 quarter revenue rose 37.7% to ₹1,332 crore and net profit rose 87.0% to ₹649.77 crore, far ahead of IndiaMART's 4.9% revenue growth. ¶ • Info Edge will host one-on-one meetings with eight institutional investors in Mumbai on November 19-20, 2026, and a non-deal roadshow in Singapore from December 1 to 3. ¶ • The stock trades at ₹1,220.00, a P/E of 34.80 versus an industry P/E of 112.42, with a base 2027 target of ₹1,425 and downside risk level of ₹950. ¶ • Foreign institutional investors cut their stake to 25.46% in September 2026 from 30.33% a year earlier, while promoters' holding slipped to 37.19% from 37.59%. ¶ • FY26 revenue rose 10.7% to ₹4,343 crore and net profit rose 34.6% to ₹1,763 crore, with free cash flow of ₹1,013 crore. ¶ ↗ scanx.trade|https://scanx.trade/stock-market-news/companies/info-edge-host-non-deal-roadshow-singapore-dec-1-dec-3/57255125 ;; univest.in|https://univest.in/blogs/info-edge-india-share-price-target-2027 ;; univest.in|https://univest.in/blogs/info-edge-vs-indiamart-comparison
 
-- Outlook: Neutral
+- Outlook: Bullish
   2026-11-27 |
-  §VIEW§{"stance": "neutral", "text": "The news flow is routine investor relations activity with no operational or financial update. It splits neutral because meetings and a roadshow signal engagement but disclose no price sensitive information."}
+  §VIEW§{"stance": "bullish", "text": "September quarter revenue up 37.7% and profit up 87.0%, plus a P/E of 34.80 against an industry P/E of 112.42, support the bullish case. FII holding falling to 25.46% from 30.33% is the main offset."}
 
 [Bitcoin]
 
 - ~
-  26 Nov 2026 | https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery
-  • Bitcoin fell about 22% in November, on track for its worst month since June 2022, trading near $60,652. ¶ • U.S. spot Bitcoin ETFs saw roughly $5.14 billion in outflows over 30 days, with $231.6 million leaving on November 24 alone. ¶ • Wallets holding 10 to 10,000 BTC cut holdings by about 150,000 coins since November 2, a 1.1% decline. ¶ • Bitcoin's 50-day EMA crossed below its 200-day EMA, a death cross, with price 16% below the 50-day EMA of $71,478. ¶ • An attacker hijacked up to 1.9 EH/s of Bitcoin hashrate by exploiting unencrypted Stratum V1 connections at over 1,000 mining sites. ¶ ↗ decrypt.co|https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery ;; bitbo.io|https://bitbo.io/news/braiins-hashrate-hijacking-warning/ ;; bravenewcoin.com|https://bravenewcoin.com/insights/bitcoin-btc-price-today-whale-selling-near-60k-adds-to-glassnodes-warning-for-wall-street ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-dropping-much-5-144312932.html
+  26 Nov 2026 | https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007
+  • Bitcoin fell about 22% in November, on track for its worst month since June 2022, trading near $60,652. ¶ • U.S. spot Bitcoin ETFs saw roughly $5.39 billion of November outflows, with about $5.14 billion pulled over 30 days. ¶ • Bitcoin's 50-day EMA crossed below its 200-day EMA, a death cross, with price 16% below the 50-day EMA of $71,478. ¶ • JPMorgan said Strategy's record-low 0.88x NAV multiple signals bitcoin capitulation, and IBIT outflows outpaced May-June. ¶ • The American Reserve Modernization Act of 2026 cleared committee, aiming to lock 329,693 government bitcoin, worth about $20 billion, for 20 years. ¶ ↗ theblock.co|https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007 ;; decrypt.co|https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-dropping-much-5-144312932.html ;; 247wallst.com|https://247wallst.com/investing/cryptocurrency/2026/11/26/the-bitcoin-reserve-bill-heads-to-the-house-floor-how-much-would-it-lock-up/
 
 - Outlook: Bearish
   2026-11-27 |
-  §VIEW§{"stance": "bearish", "text": "ETF outflows of $5.14 billion in 30 days, whale distribution of 150,000 BTC and a death cross show demand is draining. Stablecoin supply fell 5.6% to $283 billion, removing buying power."}
+  §VIEW§{"stance": "bearish", "text": "Heavy ETF outflows, a death cross and hot 3.8% inflation weigh on bitcoin. The reserve bill only locks coins the government already holds, adding no buyers."}
 
 [Gold]
 
 - ~
-  26 Nov 2026 | https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-november-26-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/136180621.cms
-  • Spot gold fell to a low of $3,426 on Wednesday before buyers stepped in and drove an intraday recovery above $3,500, with a session high of $3,588. ¶ • MCX gold trades at ₹120,600 per 10 grams with analysts flagging trendline support at ₹112,000 and a possible slide to ₹110,000. ¶ • US headline PCE inflation rose to 3.8% in October from 3.7% in September, and core inflation rose to 3.3% from 3.1%. ¶ • Markets price a 99% probability of a 25 basis point Fed rate hike in December, with 62.5% odds of 50 basis points of cumulative hikes by January 2027. ¶ • India's 24K gold rate stands at ₹1,23,270 per 10 grams, or ₹12,327 per gram, as of 27 November 2026. ¶ ↗ timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-november-26-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/136180621.cms ;; fxempire.com|https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-buyers-defend-critical-support-after-sharp-selloff-1647393 ;; kotakneo.com|https://www.kotakneo.com/gold-rates/ ;; ig.com|https://www.ig.com/en-ch/news-and-trade-ideas/gold-price-forecast-rates-3415-support-261126
+  26 Nov 2026 | https://www.kitco.com/news/article/2026-11-26/indias-central-bank-repatriates-another-60-tonnes-gold-2026-share-fx
+  • Gold fell to a low of $3,426.40 per ounce on Wednesday before recovering above $3,500, with spot last at $3,567.90, down 0.43%. ¶ • The RBI shifted 60.08 tonnes of gold from overseas vaults to domestic storage over Q2 and Q3, raising the domestic share to 84.05%. ¶ • India's gold reserves were valued at $106.08 billion on September 30, down from $115.40 billion in March, as gold's share of forex reserves fell to 14.38%. ¶ • US headline PCE inflation rose to 3.8% in October from 3.7% in September, keeping expectations for a Fed rate hike firm. ¶ • MCX gold closed at ₹120,600 per 10 grams, with analysts targeting ₹110,000 and resistance at ₹127,000. ¶ ↗ kitco.com|https://www.kitco.com/news/article/2026-11-26/indias-central-bank-repatriates-another-60-tonnes-gold-2026-share-fx ;; timesofindia.indiatimes.com|https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-november-26-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/136180621.cms ;; fxempire.com|https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-buyers-defend-critical-support-after-sharp-selloff-1647393 ;; ig.com|https://www.ig.com/en-ch/news-and-trade-ideas/gold-price-forecast-rates-3415-support-261126
 
 - Outlook: Bearish
   2026-11-27 |
-  §VIEW§{"stance": "bearish", "text": "Inflation at 3.8% and near-certain December rate hikes keep real yields high, raising gold's holding cost. The bounce off $3,426 lacks confirmation, and MCX charts still point lower."}
+  §VIEW§{"stance": "bearish", "text": "Gold remains under pressure from high real rates and firm Fed hike bets, with prices below key moving averages. The rebound from $3,426 lacks confirmation, and a break below $3,430 would signal further downside."}
 
 ============================================================
 
@@ -148,7 +156,7 @@ SOURCE 8: AI News
 SOURCE 2: The Hindu - Editorials
 
 ### Pressure tactics: On the new U.S. tariffs on India
-26 Nov 2026 | https://www.thehindu.com/opinion/editorial/pressure-tactics-on-the-new-us-tariffs-on-india/article71747021.ece
+27 Nov 2026 | https://www.thehindu.com/opinion/editorial/pressure-tactics-on-the-new-us-tariffs-on-india/article71747021.ece
 
 • The U.S. Trade Representative has proposed a 25% tariff on India over alleged strategic excess manufacturing capacity, the second-highest rate among 14 countries it has acted against.
 
@@ -277,7 +285,7 @@ SOURCE 3: The Hindu - International (headlines + summary)
   27 Nov 2026 | https://www.thehindu.com/news/international/president-donald-trump-insists-nvidia-ceo-not-a-security-threat/article71749200.ece
   • Trump said he had seen enough information to conclude Nvidia CEO Jensen Huang was not a security threat, calling his administration's push for Huang's reinstatement a great thing. ¶ • Huang resigned this month over an affair with an executive reportedly tied to Chinese intelligence, wiping out close to a quarter of Nvidia's market value before his return added nearly a trillion dollars.
 
-[[New Zealand politics]]
+[[Company leadership]]
 
 - New Zealand PM Luxon loses majority, centrists now kingmakers
   27 Nov 2026 | https://www.thehindu.com/news/international/new-zealand-pm-luxon-loses-majority-centrists-now-kingmakers/article71749215.ece
@@ -289,10 +297,96 @@ SOURCE 3: The Hindu - International (headlines + summary)
   27 Nov 2026 | https://www.thehindu.com/news/international/brazils-lula-appoints-private-banker-as-finance-minister/article71749184.ece
   • Lula named Luiz Carlos Trabuco, chairman of Bradesco bank, as Finance Minister for his term starting in January. ¶ • The Sao Paulo Stock Exchange closed up 6% on Thursday and the real regained strength after rumors of the pick.
 
+[[Other]]
+
+- Major storm batters U.S. on Thanksgiving holiday; 400 flights cancelled
+  27 Nov 2026 | https://www.thehindu.com/news/international/major-storm-batters-us-on-thanksgiving-holiday-400-flights-cancelled/article71749233.ece
+  • A Nor-easter storm hit the central and eastern U.S. on Thanksgiving, cutting power to more than 900,000 homes and businesses, with Pennsylvania, Maryland and Virginia worst hit. ¶ • Nearly 400 U.S. flights were canceled and over 2,000 delayed, and New York's Macy's parade was postponed to Saturday for the first time in its 100-year history.
+
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Snabbit, Swish and FirstClub spend big to build demand in their first full year
+27 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/quick-services-startups-burn-cash-gccs-step-up-ai-hiring/articleshow/136206795.cms
+
+• Snabbit spent ₹194.8 crore against revenue of ₹12.2 crore in the fiscal year ended March 31, 2026.
+
+• Swish reported expenses of ₹144.8 crore, compared with operating revenue of ₹47.6 crore.
+
+• FirstClub reported operating revenue of ₹64 crore and expenses of ₹169.4 crore.
+
+• Marketing and promotions were among the biggest costs for all three, with Snabbit spending ₹48.7 crore, or 25% of total expenses.
+
+### Nearly 65% of new GCC fresher jobs require AI skills
+27 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/quick-services-startups-burn-cash-gccs-step-up-ai-hiring/articleshow/136206795.cms
+
+• AI-related talent demand for freshers in global capability centres (GCCs) grew 45% in the ten months of 2026.
+
+• Nearly 65% of the new GCC positions require AI capabilities, according to Adecco India data shared with ET.
+
+• Overall fresher hiring at GCCs grew 20-25%, compared with 10-15% in IT services and a 5-10% decline in BPM.
+
+• Over the next six to 12 months, fresher hiring is expected to grow 10-15% in GCCs, against 5-10% in IT services and 0-5% in BPM.
+
+### Kaynes Semicon plans fourfold capacity expansion through Vishay joint venture
+27 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/quick-services-startups-burn-cash-gccs-step-up-ai-hiring/articleshow/136206795.cms
+
+• Kaynes Semicon plans about fourfold expansion in annual outsourced semiconductor assembly and test (OSAT) capacity to about 8-9 billion devices over the next five years.
+
+• The expansion will be through a joint venture with Pennsylvania-based Vishay Intertechnology and by seeking government fiscal support under the India Semiconductor Mission (ISM) 2.0.
+
+• Vishay will invest $56.4 million for a 49% stake in an existing Kaynes Technology unit, with Kaynes retaining 51%.
+
+• Kaynes Semicon has completed its first unit, while the second is nearly 90% complete, and the third unit will add 2.3 billion devices a year.
+
+### Tiger Global sells Groww stakes
+27 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/quick-services-startups-burn-cash-gccs-step-up-ai-hiring/articleshow/136206795.cms
+
+• US investment firm Tiger Global has sold a 2.72% stake in stockbroking platform Groww through open market transactions over the past six months.
+
+• Tiger Global joins other early investors such as Peak XV Partners, Ribbit Capital and Y Combinator in monetising their investments in the company following its stock market debut.
+
+### India must catch up in AI race
+27 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/quick-services-startups-burn-cash-gccs-step-up-ai-hiring/articleshow/136206795.cms
+
+• India cannot afford to stay on the sidelines of the artificial intelligence revolution even as it falls behind the US and China in developing frontier technologies, said Aakrit Vaish, founder of Activate.
+
+• Vaish believes the country will risk missing out on a significant economic and productivity opportunity if it does not work on AI.
+
+### Finnable raises Rs 405 crore
+27 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/quick-services-startups-burn-cash-gccs-step-up-ai-hiring/articleshow/136206795.cms
+
+• Digital lending firm Finnable has raised ₹405 crore in a fresh funding round from new investors.
+
+• The investors include Bharat Value Fund (part of Pantomath Group), Pratithi Investments (the investment firm of Infosys co-founder Kris Gopalakrishnan), and NKSquared (the investment arm of Zerodha co-founders Nithin and Nikhil Kamath).
+
+### Global pick: Nvidia halts chip shipments to south-east Asia
+FT | https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1
+
+[Could not read the article, possibly paywalled]
+
+### Global pick: AI is great, but it can't deliver a lamb, say students
+BBC | https://www.bbc.com/news/articles/cmwy9qw244r3o
+
+• Students voted to keep the historic name of the Magee campus, named after Martha Magee, who gave money in the mid-1800s to start a theological college in Derry.
+
+• Poultry farmers say they face constant anxiety over bird flu amid the latest housing order for bird keepers.
+
+• Five scientists from Harper Adams University are joining a European climate change study to learn lessons from farmers.
+
+• A Christmas tractor run organiser, Martin Brandreth, says his baby son's months in hospital after a cardiac arrest give the event personal meaning.
+
+### Global pick: How foreign AI romance apps are reshaping youth intimacy in Africa
+Rest of World | https://restofworld.org/2026/ai-companion-apps-africa-character-ai/
+
+• African youth, some under 10, are turning to foreign AI companion apps for intimacy as U.S. and Chinese firms chase emerging markets, experts told Rest of World.
+
+• More than 4 million South Africans and Nigerians downloaded AI companion apps last year, nearly 60% more than in 2024, per AppMagic.
+
+• Most African countries have no dedicated rules for AI companion apps, unlike China, which banned them for minors in July.
+
+• In Nigeria, school girls form attachments to Character.AI boyfriends, sometimes withdrawing from friends and family as chats turn sexual, Internet Safe Kids Africa said.
 
 ============================================================
 
@@ -305,8 +399,28 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [[Top Gainers]]
 
-Could not fetch movers for this list
+[Action Construction Equipment Ltd (ACE, +8.79%)]
+
+- ~
+  26 Nov 2026 | https://www.kotakneo.com/news/stocks/action-construction-equipment-shares-in-focus-after-cabinet-approves-11000-crore-manufacturing-scheme
+  ## What the sector does ¶ • India's construction and infrastructure equipment (CIE) industry sells cranes, excavators, loaders and road-building machinery to contractors, builders and government infrastructure projects. ¶ • Revenue follows infrastructure spending and housing demand, while cost is driven by steel, imported components and financing; imports supply nearly 45% of the ₹97,500 crore market in FY2024-25. ¶ ## What the company does ¶ • Action Construction Equipment makes hydraulic mobile cranes, tower cranes, forklifts, backhoe loaders, compactors, motor graders and tractors, selling to construction, infrastructure and agriculture customers in India. ¶ • Incorporated in 1995 and listed in 2006, it earns from equipment sales and holds a market capitalisation of ₹15,421 crore, competing with larger global and domestic equipment makers. ¶ ## Why it moved today ¶ • The Union Cabinet approved an ₹11,000 crore scheme for construction and infrastructure equipment on 25 November, covering cranes among seven categories, and the stock closed 8% up at ₹1,294.40 on 26 November. ¶ • The eight-year scheme, run by the Ministry of Heavy Industries from FY2026-27, offers sales-linked incentives of 8% to 13% of incremental sales over five years and a ₹375 crore grant for a testing facility. ¶ ## The numbers (Screener) ¶ • Stock P/E is 32.6, book value ₹191, ROCE 31.6%, ROE 22.8% and dividend yield 0.15%, with the stock near its 52-week high of ₹1,299 against a low of ₹745. ¶ • September 2026 quarter sales were ₹886 crore with net profit ₹164 crore and EPS ₹13.79, against ₹786 crore sales and ₹119 crore profit in the June 2026 quarter. ¶ ## What the numbers say ¶ • At a P/E of 32.6 the stock trades at a premium, but ROCE of 31.6% and three-year ROE of 26.6% show the business earns well on capital, and the September quarter profit of ₹164 crore jumped from ₹119 crore in June. ¶ • Sales of ₹886 crore in September rose from ₹786 crore in June but were below March's ₹1,029 crore, so the 8% move reflects the government scheme news rather than a change in the quarterly trend. ¶ ↗ kotakneo.com|https://www.kotakneo.com/news/stocks/action-construction-equipment-shares-in-focus-after-cabinet-approves-11000-crore-manufacturing-scheme ;; business-standard.com|https://www.business-standard.com/markets/news/wipro-mcx-action-construction-3-stock-recommendations-by-anand-james-126112700099_1.html ;; flipit.money|https://flipit.money/flips/action-construction-jumps-8-after-cabinet-oks-rs-11000-cr-cie-boost-scheme
+
+[Prestige Estates Projects Ltd (PRESTIGE, +8.72%)]
+
+- ~
+  26 Nov 2026 | https://www.equitypandit.com/prestige-estates-shares-zoom-5-to-fresh-one-year-high/
+  ## What the sector does ¶ • Indian real estate developers sell residential apartments, offices, malls and hotels to homebuyers, companies and investors, earning from pre-sales, rentals and hospitality. ¶ • Revenue depends on launches, pre-sales and execution speed; costs are land, construction finance and interest, with DLF, Lodha, Godrej Properties, Prestige and Brigade among the large listed players. ¶ ## What the company does ¶ • Prestige Estates Projects is a Bengaluru-based developer with residential, office, retail, hospitality, property management and warehouse operations across more than 12 Indian locations. ¶ • It earns mainly from selling homes, plus lease rentals and hotel income, and competes with DLF, Lodha Developers, Godrej Properties, Brigade Enterprises and Sobha. ¶ ## Why it moved today ¶ • Prestige Estates shares rose 8.45% to ₹1,827.50 on 26 November, with no fresh company news; the trigger was IBBI amendments to real estate insolvency rules, reported by Moneycontrol. ¶ • The Nifty Realty index hit a 52-week high of 966.45, up 2.59% intraday, and Axis Securities reiterated a Buy on Prestige with a ₹1,950 target and FY27 presales estimate of ₹40,000 crore. ¶ ## The numbers (Screener) ¶ • Stock P/E is 84.6 and price to book is 4.74 times, against book value of ₹386 and a market cap of ₹78,914 crore, per Screener data. ¶ • September 2026 quarter sales were ₹2,060 crore with net profit of ₹256 crore and EPS of ₹5.20, while operating margin rose to 45% from 22% in the December 2025 quarter. ¶ ## What the numbers say ¶ • At 84.6 times earnings and 4.74 times book, Prestige trades at a premium to the sector, while ROCE of 10.4% and ROE of 7.53% are modest for a developer. ¶ • Sales fell from ₹4,074 crore in the March 2026 quarter to ₹2,060 crore in September 2026, so the 8.72% move reflects sector sentiment from the IBBI insolvency amendments rather than company results. ¶ ↗ equitypandit.com|https://www.equitypandit.com/prestige-estates-shares-zoom-5-to-fresh-one-year-high/ ;; business-standard.com|https://www.business-standard.com/markets/news/nifty-realty-hits-52-week-high-up-3-led-by-brigade-enterprises-prestige-estates-126112600658_1.html ;; businessupturn.com|https://businessupturn.com/finance/stock-market/nifty-realty-hits-52-week-high-up-22-in-a-month-prestige-estates-up-8-45-and-brigade-5-99-know-the-reason/
 
 [[Top Losers]]
 
-Could not fetch movers for this list
+[Bank Of Maharashtra (MAHABANK, -4.57%)]
+
+- ~
+  26 Nov 2026 | https://univest.in/blogs/why-bank-of-maharashtra-share-price-rise-today-2026
+  ## What the sector does ¶ • Indian public sector banks take deposits from savers and lend to retail, agriculture, MSME and corporate borrowers, earning a margin between interest paid and interest charged. ¶ • Revenue comes from loan interest, treasury income on government securities and fees, while costs are deposit rates, operating expenses and loan-loss provisions. ¶ ## What the company does ¶ • Bank of Maharashtra is a Pune-headquartered public sector bank with a strong presence in Maharashtra and branches across India. ¶ • It lends to retail, MSME, agriculture and corporate borrowers, and has one of the lowest cost-to-income ratios among public sector banks. ¶ ## Why it moved today ¶ • The news articles do not explain the 4.57% fall; the most recent article, dated 26 November 2026, reported a 2.35% rise to ₹100 with no company-specific catalyst established. ¶ • Context only: the bank's September 2026 quarter net profit was ₹2,136 crore, up from ₹1,799 crore a year earlier, and the stock trades near its 52-week high of ₹101. ¶ ## The numbers (Screener) ¶ • Stock P/E 9.05, book value ₹48.6, dividend yield 2.34%, ROE 22.6% and ROCE 6.03%, with a market cap of ₹72,454 crore at a price of ₹94.2. ¶ • Net profit rose to ₹2,136 crore in the September 2026 quarter from ₹2,023 crore in June 2026, with EPS of ₹2.78 against ₹2.63. ¶ ## What the numbers say ¶ • At a P/E of 9.05 the stock trades above the peer median of 7.51, while its ROE of 22.6% is well above the peer median of 16.22% and ROCE of 6.03% is below the peer median of 13.26%. ¶ • Profit growth has slowed to 18.7% year on year in the September 2026 quarter from the 41.4% reported for Q2 FY27, and the 4.57% fall comes after the stock nearly touched its 52-week high of ₹101. ¶ ↗ univest.in|https://univest.in/blogs/why-bank-of-maharashtra-share-price-rise-today-2026 ;; univest.in|https://univest.in/blogs/pnb-vs-bank-of-maharashtra-comparison
+
+[India Cements Ltd (INDIACEM, -4.38%)]
+
+- ~
+  2026-11-27 |
+  ## What the sector does ¶ • India's cement industry sells grey cement, mainly Ordinary Portland Cement and blended varieties, to builders, contractors and infrastructure projects across the country. ¶ • Revenue is driven by construction activity, government infrastructure spending and rural housing demand, while cost is dominated by limestone, coal, power and freight; UltraTech, Adani Cement and Shree Cement are the largest players. ¶ ## What the company does ¶ • India Cements is a Chennai-based cement maker incorporated in 1946, with plants concentrated in South India and related interests in shipping, captive power and coal mining. ¶ • It sells cement under brands such as Sankar and Coromandel, earns from cement volumes and prices, and is a small-cap player with a market capitalisation of ₹9,599 crore, far smaller than UltraTech or Adani Cement. ¶ ## Why it moved today ¶ • No news article explaining the 4.38% fall was retrieved; the move came with the stock closing at ₹309.75 on 26 November 2026, down ₹14.20 from the previous close of ₹323.95. ¶ • Context: MarketsMojo downgraded the stock to 'Strong Sell' on 23 November 2026, and the stock has fallen 25% over 250 sessions against a roughly flat Nifty 50. ¶ ## The numbers (Screener) ¶ • Stock P/E is 60.4 and price to book is 0.94 times, with book value of ₹329 per share and a market capitalisation of ₹9,599 crore as of 26 November 2026. ¶ • September 2026 quarter revenue was ₹1,142 crore with net profit of ₹39 crore and EPS of ₹1.25, versus ₹1,019 crore revenue and ₹27 crore profit in the June 2026 quarter. ¶ ## What the numbers say ¶ • At 0.94 times book value the stock trades below its accounting net worth, but ROCE of 1.24% and ROE of 0.37% show the business earns very little on the capital it employs. ¶ • Operating margin recovered to 13% in the September 2026 quarter from negative levels in 2024, yet the P/E of 60.4 is high for a cement maker with five-year sales growth of -0.11%.
