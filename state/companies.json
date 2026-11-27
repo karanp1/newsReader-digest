@@ -4,7 +4,7 @@
   "sector": "Fintech",
   "description": "Online investment platform offering stock trading, mutual funds, bonds and wealth advisory services to retail investors in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-27"
  },
  "fisdom": {
   "name": "Fisdom",
@@ -214,7 +214,7 @@
   "sector": "Investment management",
   "description": "Global investment firm and early Flipkart backer that has exited its stake.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-11-27"
  },
  "amazon": {
   "name": "Amazon",
@@ -1733,7 +1733,7 @@
   "sector": "Home services",
   "description": "Startup that appointed Ramesh Srinivasan as Head of Growth and Revenue.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-15"
+  "last_mentioned": "2026-11-27"
  },
  "altenindia": {
   "name": "ALTEN India",
@@ -2041,7 +2041,7 @@
   "sector": "Crypto derivatives",
   "description": "Crypto options exchange whose CEO commented on bitcoin tail risk and VaR measures.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-26"
+  "last_mentioned": "2026-11-27"
  },
  "londonbullionmarketassociation": {
   "name": "London Bullion Market Association",
@@ -3469,7 +3469,7 @@
   "sector": "Food delivery",
   "description": "Food delivery and quick commerce platform; ran drone delivery trials in 2021 and 2022.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-27"
  },
  "cdot": {
   "name": "C-DoT",
@@ -5646,7 +5646,7 @@
   "sector": "Investment",
   "description": "Led Boldfit's Series B round, the largest homegrown consumer brand raise of the week.",
   "first_added": "2026-10-18",
-  "last_mentioned": "2026-10-20"
+  "last_mentioned": "2026-11-27"
  },
  "vertexventures": {
   "name": "Vertex Ventures",
@@ -6878,7 +6878,7 @@
   "sector": "AI",
   "description": "US chatbot platform in bankruptcy; Disney is the first bidder for a licence to its technology.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-10-21"
+  "last_mentioned": "2026-11-27"
  },
  "reflectionai": {
   "name": "Reflection AI",
@@ -13171,7 +13171,7 @@
   "sector": "Automobiles",
   "description": "German automaker that scaled Microsoft Copilot to more than 330,000 employees.",
   "first_added": "2026-10-31",
-  "last_mentioned": "2026-10-31"
+  "last_mentioned": "2026-11-27"
  },
  "fujitsu": {
   "name": "Fujitsu",
@@ -14529,7 +14529,7 @@
   "sector": "Venture capital",
   "description": "Investor leading a $108-110 million round in AI chip startup Agrani Labs.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-27"
  },
  "samsungventures": {
   "name": "Samsung Ventures",
@@ -15509,7 +15509,7 @@
   "sector": "Semiconductors",
   "description": "Indian OSAT/ATMP facility that became operational this year.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-27"
  },
  "cgsemi": {
   "name": "CG Semi",
@@ -18085,7 +18085,7 @@
   "sector": "Automobiles",
   "description": "Korean carmaker; with suppliers plans a $2 billion second Andhra Pradesh plant targeting 2030 production.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-13"
+  "last_mentioned": "2026-11-27"
  },
  "vikramsolar": {
   "name": "Vikram Solar",
@@ -19107,7 +19107,7 @@
   "sector": "Electronics manufacturing",
   "description": "Indian EMS company making PCBs and box-build electronics for auto, industrial and defence clients.",
   "first_added": "2026-11-16",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-27"
  },
  "rhimagnesitaindia": {
   "name": "RHI Magnesita India",
@@ -22089,7 +22089,7 @@
   "sector": "Automotive",
   "description": "German luxury carmaker; governs hundreds of AI agents across thousands of developers in R&D.",
   "first_added": "2026-11-24",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-27"
  },
  "marksanspharma": {
   "name": "Marksans Pharma",
@@ -23573,7 +23573,7 @@
   "sector": "Automotive",
   "description": "German carmaker deploying Arena Physica's Atlas AI agents for electrical diagnostics on production lines.",
   "first_added": "2026-11-26",
-  "last_mentioned": "2026-11-26"
+  "last_mentioned": "2026-11-27"
  },
  "arenaphysica": {
   "name": "Arena Physica",
@@ -24384,6 +24384,83 @@
   "name": "Strategic Bitcoin Reserve",
   "sector": "Government",
   "description": "US government bitcoin holding; a House committee advanced a bill to codify it.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "pmi": {
+  "name": "PMI",
+  "sector": "Professional association",
+  "description": "Project Management Institute; its president said AI regulation must precede job losses and will launch an India-focused corporate programme.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "swish": {
+  "name": "Swish",
+  "sector": "Quick commerce",
+  "description": "Indian quick services startup; reported expenses of Rs 144.8 crore against operating revenue of Rs 47.6 crore.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "firstclub": {
+  "name": "FirstClub",
+  "sector": "Quick commerce",
+  "description": "Indian quick services startup; reported operating revenue of Rs 64 crore and expenses of Rs 169.4 crore.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "adeccoindia": {
+  "name": "Adecco India",
+  "sector": "Staffing",
+  "description": "Recruitment and staffing firm; data showed nearly 65% of new GCC fresher jobs require AI skills.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "vishayintertechnology": {
+  "name": "Vishay Intertechnology",
+  "sector": "Semiconductors",
+  "description": "Pennsylvania-based electronics component maker; investing $56.4 million for a 49% stake in a Kaynes unit.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "ribbitcapital": {
+  "name": "Ribbit Capital",
+  "sector": "Venture capital",
+  "description": "Investment firm; among Groww's early backers monetising its stake after the listing.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "ycombinator": {
+  "name": "Y Combinator",
+  "sector": "Venture capital",
+  "description": "US startup accelerator; among Groww's early investors selling stakes after its debut.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "activate": {
+  "name": "Activate",
+  "sector": "Consulting",
+  "description": "Firm founded by Aakrit Vaish; he said India cannot afford to stay on the sidelines of the AI race.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "finnable": {
+  "name": "Finnable",
+  "sector": "Fintech",
+  "description": "Indian digital lending firm; raised Rs 405 crore from new investors including Bharat Value Fund and NKSquared.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "pratithiinvestments": {
+  "name": "Pratithi Investments",
+  "sector": "Investment",
+  "description": "Investment firm of Infosys co-founder Kris Gopalakrishnan; invested in Finnable's funding round.",
+  "first_added": "2026-11-27",
+  "last_mentioned": "2026-11-27"
+ },
+ "nksquared": {
+  "name": "NKSquared",
+  "sector": "Investment",
+  "description": "Investment arm of Zerodha co-founders Nithin and Nikhil Kamath; invested in Finnable's round.",
   "first_added": "2026-11-27",
   "last_mentioned": "2026-11-27"
  }
