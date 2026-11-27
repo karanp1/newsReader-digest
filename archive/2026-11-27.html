@@ -1,0 +1,442 @@
+<title>Morning Wire</title>
+<meta charset="utf-8">
+<meta name="robots" content="noindex, nofollow">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,wght@0,400;0,600;0,700;1,500&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root {
+  --bg: #EEF0EE;
+  --surface: #FFFFFF;
+  --surface-2: #F5F6F3;
+  --ink: #1B2320;
+  --ink-soft: #59645D;
+  --ink-faint: #8A948D;
+  --border: #DCE0DA;
+  --accent: #A8650C;
+  --accent-ink: #6E4708;
+  --accent-soft: #F3E4C8;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #12151A;
+    --surface: #1A1F26;
+    --surface-2: #20262E;
+    --ink: #E7E9E4;
+    --ink-soft: #9FA8A2;
+    --ink-faint: #6B746E;
+    --border: #2B323A;
+    --accent: #E3A542;
+    --accent-ink: #F0C878;
+    --accent-soft: #3A2E14;
+  }
+}
+:root[data-theme="dark"] {
+  --bg: #12151A;
+  --surface: #1A1F26;
+  --surface-2: #20262E;
+  --ink: #E7E9E4;
+  --ink-soft: #9FA8A2;
+  --ink-faint: #6B746E;
+  --border: #2B323A;
+  --accent: #E3A542;
+  --accent-ink: #F0C878;
+  --accent-soft: #3A2E14;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Public Sans", system-ui, sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+a { color: var(--accent-ink); }
+.topbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--bg);
+  border-bottom: 1px solid var(--border);
+  padding: 14px 20px 0;
+}
+.topbar-inner {
+  max-width: 700px;
+  margin: 0 auto;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.topbar-left {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.wordmark {
+  font-family: "Fraunces", serif;
+  font-weight: 700;
+  font-size: 1.15rem;
+  letter-spacing: 0.01em;
+}
+.dateline {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.copy-btn {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent-ink);
+  background: var(--accent-soft);
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  padding: 5px 12px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.copy-btn:active { transform: scale(0.96); }
+.chip-nav-row {
+  max-width: 700px;
+  margin: 10px auto 0;
+  display: flex;
+  gap: 8px;
+  overflow-x: auto;
+  padding-bottom: 12px;
+  scrollbar-width: none;
+}
+.chip-nav-row::-webkit-scrollbar { display: none; }
+.chip-nav {
+  flex: none;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  text-decoration: none;
+  color: var(--ink-soft);
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 5px 12px;
+  white-space: nowrap;
+}
+.metrics-section {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 18px 20px 0;
+}
+.metric-line {
+  margin: 0 0 6px;
+  font-size: 0.98rem;
+}
+.metric-label {
+  color: var(--ink-soft);
+}
+.metric-value {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 500;
+}
+.metric-value a {
+  color: var(--accent-ink);
+  text-decoration: none;
+}
+.metric-value a:hover { text-decoration: underline; }
+.metric-asof {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.8rem;
+  color: var(--ink-faint);
+}
+main {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 28px 20px 60px;
+}
+.wire-section {
+  padding: 28px 0;
+  border-bottom: 1px solid var(--border);
+}
+.wire-section:first-child { padding-top: 8px; }
+.eyebrow {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--ink-faint);
+  margin-bottom: 6px;
+}
+.eyebrow .idx { color: var(--accent-ink); font-weight: 500; }
+.wire-section h2 {
+  font-family: "Fraunces", serif;
+  font-weight: 700;
+  font-size: 1.65rem;
+  line-height: 1.15;
+  text-wrap: balance;
+  margin: 0 0 14px;
+}
+.sub-article { margin: 22px 0 0; }
+.sub-article:first-child { margin-top: 0; }
+.sub-article h3 {
+  font-family: "Fraunces", serif;
+  font-weight: 600;
+  font-size: 1.2rem;
+  line-height: 1.25;
+  text-wrap: balance;
+  margin: 0 0 6px;
+}
+.wire-section h4 {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent-ink);
+  margin: 22px 0 8px;
+}
+.wire-section h4:first-of-type { margin-top: 4px; }
+.subsection-title {
+  font-family: "Fraunces", serif;
+  font-weight: 600;
+  font-size: 1.15rem;
+  margin: 28px 0 14px;
+  padding-top: 18px;
+  border-top: 1px solid var(--border);
+}
+.subsection-title:first-of-type { margin-top: 4px; padding-top: 0; border-top: none; }
+.byline {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+  margin: 0 0 12px;
+  word-break: break-all;
+}
+.byline a { color: inherit; text-decoration: none; }
+p {
+  font-size: 1.02rem;
+  line-height: 1.6;
+  margin: 0 0 14px;
+  max-width: 62ch;
+}
+p.lede {
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+p.empty {
+  color: var(--ink-soft);
+  font-style: italic;
+}
+.wire-list {
+  margin: 0 0 14px;
+  padding-left: 1.2em;
+}
+.wire-list li {
+  font-size: 1.02rem;
+  line-height: 1.6;
+  margin-bottom: 6px;
+}
+.wire-row {
+  padding: 14px 0;
+  border-top: 1px solid var(--border);
+}
+.wire-row:first-child { border-top: none; padding-top: 0; }
+.wire-row .headline {
+  display: block;
+  font-weight: 600;
+  color: var(--ink);
+  text-decoration: none;
+  margin: 0 0 4px;
+}
+.wire-row a.headline:hover {
+  text-decoration: underline;
+}
+.wire-row p:not(.headline) {
+  color: var(--ink-soft);
+  font-size: 0.96rem;
+}
+.wire-row p.pubdate {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  color: var(--ink-faint);
+  margin: 0 0 6px;
+}
+.theme-title {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.78rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: var(--accent-ink);
+  margin: 24px 0 4px;
+}
+.theme-title:first-of-type { margin-top: 6px; }
+.bl { margin: 0 0 10px; padding-left: 1.2em; }
+.bl li { margin: 0 0 5px; }
+.blabel {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.7rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent-ink);
+  margin: 16px 0 6px;
+}
+.blabel:first-child { margin-top: 0; }
+.srcs { font-size: 0.78rem; color: var(--ink-soft); }
+.view {
+  margin: 0 0 14px;
+  padding: 10px 14px;
+  background: var(--surface-2);
+  border-left: 3px solid var(--ink-soft);
+  border-radius: 4px;
+}
+.view p { margin: 0 0 4px; }
+.view-bullish { border-left-color: #3E9B66; }
+.view-bearish { border-left-color: #C4503F; }
+.view .view-head {
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--ink-soft);
+}
+.view .stance { font-weight: 600; color: var(--ink); }
+.view-bullish .stance { color: #3E9B66; }
+.view-bearish .stance { color: #C4503F; }
+.chip {
+  display: inline-block;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: var(--accent-ink);
+  background: var(--accent-soft);
+  border-radius: 4px;
+  padding: 2px 7px;
+  margin-bottom: 6px;
+}
+footer {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 0 20px 40px;
+  font-family: "IBM Plex Mono", monospace;
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+}
+</style>
+<div id="mw-gate" style="min-height:100vh;display:flex;align-items:center;justify-content:center;padding:20px;background:var(--bg);">
+  <form id="mw-gate-form" style="max-width:280px;width:100%;text-align:center;font-family:'Public Sans',system-ui,sans-serif;">
+    <p style="font-family:'Fraunces',serif;font-weight:700;font-size:1.3rem;color:var(--ink);margin:0 0 16px;">Morning Wire</p>
+    <input id="mw-gate-input" type="password" placeholder="Password" autocomplete="off"
+      style="width:100%;box-sizing:border-box;padding:10px 12px;font-size:1rem;border:1px solid var(--border);border-radius:8px;background:var(--surface);color:var(--ink);margin-bottom:10px;">
+    <button type="submit" style="width:100%;padding:10px 12px;font-size:0.9rem;font-weight:600;border:none;border-radius:8px;background:var(--accent);color:#fff;cursor:pointer;">Unlock</button>
+    <p id="mw-gate-error" style="display:none;color:#c0392b;font-size:0.8rem;margin-top:10px;">Wrong password.</p>
+  </form>
+</div>
+<script>
+(function () {
+  var HASH = "9447d60f27823a109168f19de1046a91fc23bb4f157ae19b35efbf7403d177cd";
+
+  // The real content div is written *after* this script in the HTML
+  // stream, so it doesn't exist yet if queried at top-level execution —
+  // wait for the full document to parse first.
+  document.addEventListener("DOMContentLoaded", function () {
+  var gate = document.getElementById("mw-gate");
+  var content = document.getElementById("mw-content");
+  var form = document.getElementById("mw-gate-form");
+  var input = document.getElementById("mw-gate-input");
+  var error = document.getElementById("mw-gate-error");
+
+  function sha256Hex(text) {
+    return crypto.subtle.digest("SHA-256", new TextEncoder().encode(text)).then(function (buf) {
+      return Array.from(new Uint8Array(buf)).map(function (b) {
+        return b.toString(16).padStart(2, "0");
+      }).join("");
+    });
+  }
+
+  function unlock() {
+    gate.style.display = "none";
+    content.style.display = "";
+    try { localStorage.setItem("mw_unlocked", "1"); } catch (e) {}
+  }
+
+  var alreadyUnlocked = false;
+  try { alreadyUnlocked = localStorage.getItem("mw_unlocked") === "1"; } catch (e) {}
+  if (alreadyUnlocked) unlock();
+
+  form.addEventListener("submit", function (ev) {
+    ev.preventDefault();
+    sha256Hex(input.value).then(function (hex) {
+      if (hex === HASH) {
+        unlock();
+      } else {
+        error.style.display = "block";
+        input.value = "";
+        input.focus();
+      }
+    });
+  });
+  });
+})();
+</script>
+
+<div id="mw-content" style="display:none">
+<div class="topbar">
+  <div class="topbar-inner">
+    <div class="topbar-left">
+      <span class="wordmark">Morning Wire</span>
+      <span class="dateline">Friday, 27 November 2026</span>
+    </div>
+    <button id="copy-md-btn" class="copy-btn" type="button">Copy as Markdown</button>
+  </div>
+  <nav class="chip-nav-row"><a class="chip-nav" href="#metrics">Metrics</a><a class="chip-nav" href="#src-6">Watchlist</a><a class="chip-nav" href="#src-8">AI News</a><a class="chip-nav" href="#src-2">Editorials</a><a class="chip-nav" href="#src-5">Business</a><a class="chip-nav" href="#src-3">World</a><a class="chip-nav" href="#src-1">ET Dispatch</a><a class="chip-nav" href="#src-4">Funding</a><a class="chip-nav" href="#src-7">Movers</a><a class="chip-nav" href="companies.html">Companies</a><a class="chip-nav" href="archive/">Archive</a></nav>
+</div>
+<section id="metrics" class="metrics-section"><p class="metric-line"><span class="metric-label">NIFTY PE:</span> <span class="metric-value"><a href="https://nifty-pe-ratio.com/">21.08</a></span> <span class="metric-asof">(26 Nov 2026)</span></p><p class="metric-line"><span class="metric-label">Gold per 10g 24K:</span> <span class="metric-value"><a href="https://groww.in/gold-rates/gold-rate-today-in-bangalore">₹1,24,810</a></span></p><p class="metric-line"><span class="metric-label">Nifty 50:</span> <span class="metric-value"><a href="https://groww.in/indices/nifty">25,884.50 (+1.45%)</a></span></p><p class="metric-line"><span class="metric-label">Bitcoin (INR):</span> <span class="metric-value"><a href="https://www.coingecko.com/en/coins/bitcoin/inr">₹56,63,919</a></span></p><p class="metric-line"><span class="metric-label">Bitcoin (USD):</span> <span class="metric-value"><a href="https://coinmarketcap.com/currencies/bitcoin/">$60,731</a></span></p></section>
+<main>
+<section id="src-6" class="wire-section"><div class="eyebrow"><span class="idx">01</span><span>Watchlist</span></div><h2>Watchlist (headlines + summary)</h2><h4>Jio Platforms</h4><div class="wire-row"><ul class="bl"><li>Jio Platforms launched JioAstro, an AI-powered Vedic astrology platform, entering India&#x27;s digital astrology market against Astrotalk and AstroSage.</li><li>Jio took JioAstro offline hours after it became publicly accessible, with the site saying a demo survey had closed.</li><li>JioAstro&#x27;s mobile app is an invite-only prototype on internal testing, with no public pricing or rollout timeline announced.</li><li>India&#x27;s digital astrology market is estimated at $390 million in 2026 and projected to reach $2.32 billion by 2032, growing 34.61% CAGR.</li><li>Astrology apps recorded 150 million downloads from January to September 2026, up 75% from the same period last year.</li></ul><p class="srcs">Sources: <a href="https://www.indianstartuptimes.com/news/reliance-backed-jio-platforms-launches-ai-powered-jioastro-enters-indias-digital-astrology-market/">indianstartuptimes.com</a>, <a href="https://inc42.com/buzz/jio-platforms-launches-jioastro-to-take-on-astrotalk-in-indias-booming-astrology-market/">inc42.com</a>, <a href="https://www.bwdisrupt.com/article/reliance-s-jio-enters-digital-astrology-market-with-ai-powered-jioastro-app-635286">bwdisrupt.com</a>, <a href="https://www.business-standard.com/companies/news/reliance-enters-india-s-growing-digital-astrology-market-with-jioastro-126112600381_1.html">business-standard.com</a></p></div><div class="view view-neutral"><p class="view-head">Outlook: <span class="stance">Neutral</span></p><p>JioAstro&#x27;s abrupt takedown and invite-only prototype leave no revenue or rollout to judge, while the market&#x27;s 34.61% CAGR and 150 million downloads show demand. The split is execution versus opportunity.</p></div><h4>Reliance Intelligence</h4><p class="empty">No items published in the last 24 hours</p><h4>Reliance</h4><div class="wire-row"><ul class="bl"><li>Supreme Court dismissed the Revenue&#x27;s special leave petition against Reliance Industries, finding no plausible explanation for the 288-day delay in filing.</li><li>Bombay High Court quashed income-tax assessments for AYs 1993-94 to 1995-96 issued in the names of Reliance Polyethylene and Reliance Polypropylene after both merged into Reliance Industries.</li><li>The High Court held the assessments void from the outset because the Assessing Officer knew of the 1995 merger, and left the merits of the additions undecided.</li><li>Reliance Industries share price rose 2.13% to ₹1,381.25, with market capitalisation at ₹18,30,275.86 crore.</li><li>Praveen George joined Reliance Industries as vice president and head of human resources for its UCG business, after a year at Jindal Steel.</li></ul><p class="srcs">Sources: <a href="https://www.hrkatha.com/people/movement/praveen-george-joins-reliance-industries-as-vp-and-head-hr-ucg/">hrkatha.com</a>, <a href="https://univest.in/blogs/why-reliance-industries-ltd-share-price-rise-today-2026">univest.in</a>, <a href="https://taxguru.in/income-tax/sc-dismisses-revenues-slp-against-reliance-industries-288-day-delay.html">taxguru.in</a></p></div><div class="view view-neutral"><p class="view-head">Outlook: <span class="stance">Neutral</span></p><p>The Supreme Court dismissal and High Court quashing remove a tax overhang, but the Revenue can start fresh proceedings. The 2.13% share rise lacks a company-specific catalyst, and valuation sits above peers while returns lag.</p></div><h4>Flipkart</h4><div class="wire-row"><ul class="bl"><li>CEO Kalyan Krishnamurthy exits on December 4 after 11 years, with Balaji Thiagarajan and the board running Flipkart until a successor is named.</li><li>Walmart is scouting a group CFO to bring finance, M&amp;A and HR under its direct oversight, tightening control over Flipkart.</li><li>Flipkart is set to grow 11-12% in CY26 against Walmart&#x27;s 17-18% target, and burn $200-240 million against a $70-80 million goal.</li><li>FY26 net loss narrowed to ₹8,468 crore while operating revenue rose 18% to ₹1.4 lakh crore.</li><li>Quick commerce rivals Blinkit, Swiggy Instamart and Zepto are expanding into electronics and smartphones, and at least 14 VPs and SVPs left in the past year.</li></ul><p class="srcs">Sources: <a href="https://www.exchangewire.com/blog/2026/11/26/digest-amazon-advertises-on-chatgpt-despite-blocking-openais-crawlers-flipkart-ceo-steps-down-amid-ipo-delays/">exchangewire.com</a>, <a href="https://www.asiatechreview.com/p/flipkarts-ship-steadier-is-out">asiatechreview.com</a>, <a href="https://www.moneycontrol.com/news/business/startup/how-a-stormy-bentonville-meeting-unravelled-kalyan-krishnamurthy-s-decade-long-run-at-flipkart-14089619.html">moneycontrol.com</a>, <a href="https://timesofindia.indiatimes.com/business/india-business/rift-with-walmart-over-ipo-plan-flipkart-ceo-quits/articleshow/136167368.cms">timesofindia.indiatimes.com</a></p></div><div class="view view-bearish"><p class="view-head">Outlook: <span class="stance">Bearish</span></p><p>Walmart&#x27;s tighter grip, a CEO exit with no successor, and cash burn of $200-240 million against a $70-80 million target point to pressure. Growth of 11-12% versus a 17-18% goal and quick-commerce share gains weigh on the IPO path.</p></div><h4>Zomato</h4><div class="wire-row"><ul class="bl"><li>Uber appointed former Zomato food delivery CEO Rakesh Ranjan as President of Uber India and South Asia, effective January 4, 2027.</li><li>Ranjan spent eight years at Zomato from 2017, rising to CEO of food ordering and delivery and also leading Zomato Gold, sales and Hyperpure.</li><li>Ranjan joins from Allen Online, where he is CEO, and will report to Uber Asia Pacific head Dom Taylor after a search of more than three months.</li><li>He succeeds Prabhjeet Singh, who left Uber India in July after 11 years to join OpenAI as India managing director.</li><li>Uber India is its third-largest market by trips after the US and Brazil, with operations in more than 200 cities and over two million monthly active drivers.</li></ul><p class="srcs">Sources: <a href="https://www.tradingview.com/news/moodys:5c9742c095f10:0-uber-appints-former-zomato-food-delivery-ceo-rakesh-ranjan-as-president-for-india-south-asia/">tradingview.com</a>, <a href="https://www.nationalheraldindia.com/business/uber-appoints-former-zomato-executive-rakesh-ranjan-as-india-and-south-asia-chief">nationalheraldindia.com</a>, <a href="https://www.storyboard18.com/brand-makers/uber-appoints-ex-zomato-executive-rakesh-ranjan-as-india-president-ws-l-115512.htm">storyboard18.com</a>, <a href="https://entrackr.com/snippets/uber-appoints-former-zomato-food-delivery-ceo-rakesh-ranjan-as-india-president-12842354">entrackr.com</a></p></div><div class="view view-neutral"><p class="view-head">Outlook: <span class="stance">Neutral</span></p><p>Zomato loses a senior leader to a rival, but no Zomato operating or financial data changed. Uber gains India experience while facing Rapido competition; the news flow is neutral for Zomato.</p></div><h4>HAL</h4><p class="empty">No items published in the last 24 hours</p><h4>Tejas Networks</h4><div class="wire-row"><ul class="bl"><li>Tejas Networks posted a Q2 FY27 net loss of ₹207 crore, narrower than ₹307 crore a year earlier, while revenue rose 54.4% to ₹413 crore.</li><li>MarketsMOJO rated the stock Sell, citing negative EBITDA of Rs -459.46 crore and a Debt to EBITDA ratio of -10.82 times.</li><li>Nine-month net sales fell 51.89% to ₹1,140.53 crore with a net loss of Rs -620.52 crore, and no dividend was paid.</li><li>The stock trades about 37.4% below its 52-week high of ₹644.75 and has a negative ROE of minus 32.33%.</li><li>Tata group entities hold 53.28% of Tejas Networks, with foreign institutions at 6.63% and the public at 36.09%.</li></ul><p class="srcs">Sources: <a href="https://www.marketsmojo.com/news/stock-recommendation/tejas-networks-ltd-is-rated-sell-by-marketsmojo-4260603">marketsmojo.com</a>, <a href="https://univest.in/blogs/tejas-networks-vs-hfcl-comparison">univest.in</a></p></div><div class="view view-bearish"><p class="view-head">Outlook: <span class="stance">Bearish</span></p><p>Tejas remains loss-making with negative EBITDA and high debt, and its nine-month sales fell 51.89%. The Sell rating and weak fundamentals outweigh the narrower quarterly loss.</p></div><h4>Dmart</h4><div class="wire-row"><a class="headline" href="https://economictimes.indiatimes.com/markets/stocks/news/avenue-supermarts-among-3-stocks-showing-rsi-trending-up/canara-hsbc-life-insurance-company/slideshow/136177651.cms">Canara HSBC Life Insurance Company - Avenue Supermarts among 3 stocks showing RSI trending up</a><p class="pubdate">26 Nov 2026</p></div><div class="wire-row"><a class="headline" href="https://www.facebook.com/zeebusinessonline/videos/stock-of-the-day-buy-dmart-futures-sl-3500-tgt-3610-3640-3690-consumption-stocks/1955093998801783/">Stock Of The Day Buy DMart Futures: SL 3500 Tgt 3610, 3640, 3690 Consumption stocks are looking strong Buy Divi&#x27;s Lab Futures: SL 11500 Tgt 11850, 11950, 12100 Pharma stocks are looking strong Buy Hind Zinc Futures: SL 514 Tgt 527, 532, 540 Rebou</a><p class="pubdate">26 Nov 2026</p></div><h4>Godigit Insurance</h4><p class="empty">No items published in the last 24 hours</p><h4>Infoedge/Naukri</h4><div class="wire-row"><ul class="bl"><li>Info Edge will hold one-on-one meetings with eight institutional investors in Mumbai on November 19 and 20, 2026.</li><li>The meetings include UTI, ICICI Prudential and Axis Asset Management, led by Himanshu Agarwal and Vineet Ranjan.</li><li>Info Edge will host a non-deal roadshow in Singapore from December 1 to December 3, 2026.</li><li>The company said no unpublished price sensitive information will be shared in these investor interactions.</li><li>The meetings are held under Regulation 30(6) of SEBI&#x27;s Listing Obligations and Disclosure Requirements Regulations, 2015.</li></ul><p class="srcs">Sources: <a href="https://scanx.trade/stock-market-news/companies/info-edge-host-non-deal-roadshow-singapore-dec-1-dec-3/57255125">scanx.trade</a></p></div><div class="view view-neutral"><p class="view-head">Outlook: <span class="stance">Neutral</span></p><p>The news flow is routine investor relations activity with no operational or financial update. It splits neutral because meetings and a roadshow signal engagement but disclose no price sensitive information.</p></div><h4>Bitcoin</h4><div class="wire-row"><ul class="bl"><li>Bitcoin fell about 22% in November, on track for its worst month since June 2022, trading near $60,652.</li><li>U.S. spot Bitcoin ETFs saw roughly $5.14 billion in outflows over 30 days, with $231.6 million leaving on November 24 alone.</li><li>Wallets holding 10 to 10,000 BTC cut holdings by about 150,000 coins since November 2, a 1.1% decline.</li><li>Bitcoin&#x27;s 50-day EMA crossed below its 200-day EMA, a death cross, with price 16% below the 50-day EMA of $71,478.</li><li>An attacker hijacked up to 1.9 EH/s of Bitcoin hashrate by exploiting unencrypted Stratum V1 connections at over 1,000 mining sites.</li></ul><p class="srcs">Sources: <a href="https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery">decrypt.co</a>, <a href="https://bitbo.io/news/braiins-hashrate-hijacking-warning/">bitbo.io</a>, <a href="https://bravenewcoin.com/insights/bitcoin-btc-price-today-whale-selling-near-60k-adds-to-glassnodes-warning-for-wall-street">bravenewcoin.com</a>, <a href="https://finance.yahoo.com/markets/crypto/articles/why-bitcoin-dropping-much-5-144312932.html">finance.yahoo.com</a></p></div><div class="view view-bearish"><p class="view-head">Outlook: <span class="stance">Bearish</span></p><p>ETF outflows of $5.14 billion in 30 days, whale distribution of 150,000 BTC and a death cross show demand is draining. Stablecoin supply fell 5.6% to $283 billion, removing buying power.</p></div><h4>Gold</h4><div class="wire-row"><ul class="bl"><li>Spot gold fell to a low of $3,426 on Wednesday before buyers stepped in and drove an intraday recovery above $3,500, with a session high of $3,588.</li><li>MCX gold trades at ₹120,600 per 10 grams with analysts flagging trendline support at ₹112,000 and a possible slide to ₹110,000.</li><li>US headline PCE inflation rose to 3.8% in October from 3.7% in September, and core inflation rose to 3.3% from 3.1%.</li><li>Markets price a 99% probability of a 25 basis point Fed rate hike in December, with 62.5% odds of 50 basis points of cumulative hikes by January 2027.</li><li>India&#x27;s 24K gold rate stands at ₹1,23,270 per 10 grams, or ₹12,327 per gram, as of 27 November 2026.</li></ul><p class="srcs">Sources: <a href="https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-november-26-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/136180621.cms">timesofindia.indiatimes.com</a>, <a href="https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-buyers-defend-critical-support-after-sharp-selloff-1647393">fxempire.com</a>, <a href="https://www.kotakneo.com/gold-rates/">kotakneo.com</a>, <a href="https://www.ig.com/en-ch/news-and-trade-ideas/gold-price-forecast-rates-3415-support-261126">ig.com</a></p></div><div class="view view-bearish"><p class="view-head">Outlook: <span class="stance">Bearish</span></p><p>Inflation at 3.8% and near-certain December rate hikes keep real yields high, raising gold&#x27;s holding cost. The bounce off $3,426 lacks confirmation, and MCX charts still point lower.</p></div></section><section id="src-8" class="wire-section"><div class="eyebrow"><span class="idx">02</span><span>AI News</span></div><h2>AI News</h2><div class="wire-row"><span class="chip">Open Claw Newsletter</span><a class="headline" href="https://sg.finance.yahoo.com/news/dell-100-000-ai-agents-073020682.html">Dell Runs 100,000 Agents a Day</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>Dell&#x27;s Chief Operating Officer Jeff Clarke said 100,000 AI agents are spun up across the company on any given day by developers and workers consuming tokens.</li><li>Dell plans to double that number of agents within the next 90 days, Clarke said on the third-quarter earnings call Tuesday.</li><li>Dell reported third-quarter revenue of $54.94 billion, above the $49.59 billion consensus estimate, and adjusted earnings of $9.45 per share versus $6.55 expected.</li><li>Dell guided fourth-quarter revenue to $56.3 billion and adjusted earnings to $8.40 per share, and fiscal 2027 revenue to $202 billion.</li><li>Dell&#x27;s operating expenses fell to a record-low 7% of revenue, the lowest in its 42-year history, as agent use drove efficiency.</li></ul></div><div class="wire-row"><span class="chip">Open Claw Newsletter</span><a class="headline" href="https://www.businessinsider.com/chipotle-ai-restaurant-managers-arlie-sisson-2026-11">Chipotle Hires in Four Days</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>Chipotle&#x27;s AI hiring assistant Ava Cado cut the time from job application to start from 12 days to four.</li><li>Applicants nearly doubled and completion rose from about 50% to almost 88% across Chipotle&#x27;s more than 4,200 restaurants.</li><li>Cook to Needs analyzes demand and recommends how much fresh food each restaurant should prepare, tested at 500 locations.</li><li>Restaurants using Cook to Needs most consistently report higher customer satisfaction and fewer complaints, per Chipotle.</li><li>Chipotle is developing an AI assistant for general managers, in early testing, to flag catering orders, staffing issues and local events.</li></ul></div><div class="wire-row"><span class="chip">Open Claw Newsletter</span><a class="headline" href="https://www.gosh.nhs.uk/news/gosh-leading-first-of-its-kind-agentic-ai-programme-in-an-nhs-hospital-in-collaboration-with-hyland-and-amazon-web-services/">GOSH Tests an Agentic Hospital</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>GOSH is leading a 15-month &#x27;Agentic Hospital&#x27; programme with Hyland and Amazon Web Services, supported by NHS England funding, to test agentic AI in an NHS hospital.</li><li>The programme will build agentic AI tools and run them alongside current manual processes in real-world hospital settings through a phased approach.</li><li>Phase 1 covers two use cases: matching supplier statements with invoices to flag discrepancies, and helping staff find and understand Trust policies.</li><li>The programme cites NHS pressures, with 31% of NHS staff saying they felt burnt out because of their work in the 2025 staff survey.</li><li>Tools will not make clinical decisions and will operate with human oversight, with findings shared across the NHS by the programme&#x27;s end in October 2027.</li></ul></div><div class="wire-row"><span class="chip">Open Claw Newsletter</span><a class="headline" href="https://cybersecuritynews.com/jailbroken-ai-agent/">Jailbroken Agent Steals 8.6GB</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>A low-skilled hacker typed 1,801 plain, misspelled French orders into a jailbroken agent over nine days in November, and the agent wrote its own scanners and exploits, SOCRadar researchers found.</li><li>It targeted more than 50 organisations and took about 8.6GB of files from over 13 municipalities and 10 other public bodies.</li><li>Basic controls like IP allowlists blocked many attempts.</li></ul></div><div class="wire-row"><span class="chip">Open Claw Newsletter</span><a class="headline" href="https://www.ncsc.gov.uk/blogs/familiar-weaknesses-exploited-faster-defending-against-agentic-cyber-attacks">UK Sees Faster Agent Attacks</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>The UK&#x27;s NCSC warns that organisations relying on cheap technology are exposed to AI that finds and exploits longstanding cyber security weaknesses.</li><li>The assessment covers current AI-enabled threat trends and projections of the threat landscape to 2028.</li><li>The NCSC calls for urgent investment in resilience to counter these faster agent attacks.</li><li>Its advice on agentic AI is to make sure you can walk before you run.</li><li>The warning points to basic security gaps, not advanced AI, as the main exposure for UK organisations.</li></ul></div><div class="wire-row"><span class="chip">Open Claw Newsletter</span><a class="headline" href="https://openai.com/business/customer-stories/ifood">iFood Sends Agents Into 15,000 Repos</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>iFood built the Remote Agents Platform, an internal API that delegates engineering tasks to remote sandboxes and returns results as merge requests.</li><li>The platform serves iFood&#x27;s more than 15,000 code repositories, where tasks like validating code and fixing vulnerable dependencies must run repeatedly at scale.</li><li>The workflow bookends agentic execution, running GPT-5.6 Luna in an Ubuntu sandbox, with deterministic steps: cloning the repo at the start and publishing the merge request at the end.</li><li>The average cost is four U.S. cents per run, and the model was chosen for its balance of intelligence, efficiency, and execution speed.</li><li>An internal security product using the platform more than doubled the accuracy of fixes for vulnerable dependencies, showing teams can call an API instead of building their own agentic runtime.</li></ul></div><div class="wire-row"><span class="chip">Open Claw Newsletter</span><a class="headline" href="https://skift.com/2026/11/24/hyatt-is-sharpening-its-brands-so-ai-can-tell-them-apart/">Hyatt Redraws Brands for AI Agents</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>Hyatt is separating The Standard, Andaz and Thompson, all previously called lifestyle brands, into distinct positionings.</li><li>Amar Lalvani, former Standard International chief, became Hyatt&#x27;s first chief creative officer on September 30 to lead the work.</li><li>Lalvani defines The Standard as boldness, Andaz as grounded discovery and Thompson as the home base, shaping hiring, design and marketing.</li><li>CEO Mark Hoplamazian said chatbot bookings are still very low, and a Milestone survey of about 1,128 U.S. hotels found hotel websites supplied only 8% of sources AI cited.</li><li>Cornell professor Chekitan Dev said the strategy faces landmines because hotel staff are trained to think operations, not brand, and incentives would need to change.</li></ul></div><div class="wire-row"><span class="chip">Open Claw Newsletter</span><a class="headline" href="https://en.sedaily.com/finance/2026/11/25/nh-nonghyup-bank-to-deploy-150-ai-agents-by-next-year">NongHyup Plans an Agent per Employee</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>NH NongHyup Bank will give every employee an AI agent, introducing 150 of them by next year.</li><li>The bank aims to apply AI across all financial operations by 2030 and develop AgileSoDA, its AI subsidiary, into an AI hub for the wider NongHyup group.</li><li>Ten internal AI agent prototypes built in under two months cut corporate loan document review of up to 600 pages to four minutes from two hours.</li><li>AgileSoDA staff dedicated to the bank will grow to more than 50 next year from 22 this year, with specialists assigned to lending, wealth management and internal controls.</li><li>From the end of this year through the first quarter of next year, the bank will roll out an integrated chatbot of four agents plus 15 customer-facing agents for wealth management, consumer protection and jeonse loans.</li></ul></div><div class="wire-row"><span class="chip">Open Claw Newsletter</span><a class="headline" href="https://www.cio.com/article/4252552/i-built-an-ai-agent-it-broke-my-assumptions-about-my-own-team.html">Routing Agent Gives Managers Two Hours</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>A CTO built four iterations of an AI agent to route customer issues to engineering teams, ending on Google&#x27;s agent platform for codebase and issue tracker access.</li><li>About 10% of customer issues need escalation to engineering, roughly 100 times a week, requiring domain knowledge to pick the right manager.</li><li>The first version routed only about 60% of issues correctly and hallucinated names; manager corrections in Jira raised accuracy to about 95%.</li><li>Testing showed OpenAI, Google and Anthropic models interpreted the same restrictions differently, so validation must continue after deployment and model changes.</li><li>The agent explains assignments in Jira and captures thumbs-down feedback but does not learn from corrections, leaving managers to redirect the remaining ~5%.</li></ul></div></section><section id="src-2" class="wire-section"><div class="eyebrow"><span class="idx">03</span><span>Editorials</span></div><h2>The Hindu - Editorials</h2><article class="sub-article"><h3>Pressure tactics: On the new U.S. tariffs on India</h3><p class="pubdate">26 Nov 2026</p><p class="byline"><a href="https://www.thehindu.com/opinion/editorial/pressure-tactics-on-the-new-us-tariffs-on-india/article71747021.ece">https://www.thehindu.com/opinion/editorial/pressure-tactics-on-the-new-us-tariffs-on-india/article71747021.ece</a></p><ul class="wire-list"><li>The U.S. Trade Representative has proposed a 25% tariff on India over alleged strategic excess manufacturing capacity, the second-highest rate among 14 countries it has acted against.</li><li>The real pressure is not the 25% rate but the 17% it could fall to if India signs a trade deal with the U.S.</li><li>The 25% rate, net of existing tariffs, matches the 25% Trump imposed in July 2025 and is near the 26% announced in April 2025.</li><li>The 17% rate is barely below the 18% agreed in the February 2026 joint statement and one point above tariffs on Indonesia and Malaysia.</li><li>The editorial argues India lacks excess capacity, since manufacturing&#x27;s share of GDP is lower than a decade ago, and should sign a deal only if benefits at least equal costs.</li></ul></article><article class="sub-article"><h3>Indefensible defiance: On Tamil Nadu and Court’s Thirupparankundram order</h3><p class="pubdate">26 Nov 2026</p><p class="byline"><a href="https://www.thehindu.com/opinion/editorial/indefensible-defiance-on-tamil-nadu-and-courts-thirupparankundram-order/article71747044.ece">https://www.thehindu.com/opinion/editorial/indefensible-defiance-on-tamil-nadu-and-courts-thirupparankundram-order/article71747044.ece</a></p><ul class="wire-list"><li>Tamil Nadu defied a Supreme Court direction to light the Karthigai Deepam at a stone pillar on Thirupparankundram hills, lighting it only at the traditional spot on November 24.</li><li>The hills house the Arulmigu Subramaniya Swamy, Uchchi Pillaiyar and Kashi Viswanathar temples, a Sultan Sikkandar Avulia Dargah and Jain beds, with the lamp historically lit near the Pillaiyar temple.</li><li>In 1994-95 the Hindu Munnani demanded the lamp be lit at a pillar 50 metres from the Dargah; courts in 1862 and 1912 had disallowed lamp lighting near the Dargah.</li><li>The Madras High Court&#x27;s Madurai Bench relied on a 1931 Privy Council ruling to hold the temple management obliged to light the lamp at the Deepathoon; the Supreme Court stayed this, allowing it this year only.</li><li>The Collector apologised to the Court, blaming the temple&#x27;s Board of Trustees, leaving the State exposed to charges of colluding to breach a judicial mandate.</li></ul></article></section><section id="src-5" class="wire-section"><div class="eyebrow"><span class="idx">04</span><span>Business</span></div><h2>The Hindu - Business (headlines + summary)</h2><h4 class="theme-title">Markets and banking</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/markets/banking-stocks-rebound-on-earnings-strength-improving-asset-quality/article71746827.ece">Banking stocks rebound on earnings strength, improving asset quality</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>The Nifty Bank index has risen nearly 26% from its April 2 low of 49,955, helped by foreign portfolio investor inflows and strong quarterly earnings.</li><li>System-wide credit growth reached 18-20% in Q2FY27 versus 10-11% a year earlier, while the gross slippage ratio improved 39 basis points year-on-year to 0.99%.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/yes-bank-at1-bond-verdict-60-lakh-retail-shareholders-face-8415-crore-bill/article71746924.ece">Yes Bank AT1 bond verdict: 60 lakh retail shareholders face ₹8,415-crore bill</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>The Supreme Court upheld the Bombay High Court order quashing Yes Bank&#x27;s 2020 write-down of ₹8,415 crore in AT1 bonds, ruling the rescue administrator lacked that authority.</li><li>Yes Bank says reinstating the principal would cut its core capital ratio by about 250 basis points, and the stock fell 24% in a week as the RBI and Centre filed review petitions.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/markets/stock-markets-rally-for-2nd-day-on-foreign-fund-inflows-buying-in-it-shares/article71746150.ece">Sensex and Nifty rally for second day on foreign fund inflows and IT stock buying</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>The Sensex rose 390.31 points, or 0.46%, to close at 84,328.59, while the Nifty gained 65.25 points, or 0.25%, to end at 25,884.50.</li><li>Foreign institutional investors bought equities worth ₹4,479.08 crore on Wednesday, with inflows reaching USD 14.15 billion so far this month.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/markets/rupee-weakens-24-paise-to-settle-at-9244-against-us-dollar/article71746086.ece">Rupee weakens 24 paise to settle at 92.44 against U.S. dollar</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>The rupee settled 24 paise lower at 92.44 against the dollar, pressured by Brent crude near $95 a barrel and a U.S. proposal for 25% tariffs on Indian goods.</li><li>The U.S. proposal would cap tariffs at 17% under a bilateral trade deal, and India rejected the USTR&#x27;s excess-capacity allegations while seeking an early agreement.</li></ul></div><h4 class="theme-title">Trade and tariffs</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Economy/experts-say-new-us-tariffs-do-not-pose-substantial-threat-india-should-not-rush-into-trade-deal/article71746007.ece">Experts say new U.S. tariffs do not pose substantial threat, India should not rush into trade deal</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>The U.S. proposed a 25% tariff on Indian goods, reducible to 17% if a trade deal is signed, with comments due January 5, 2027 and hearings from January 25, 2027.</li><li>Exporters and experts said India should sign only a balanced, reciprocal deal, noting top exports like electronics, drugs, gems and textiles are price-sticky and face limited short-term impact.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Industry/global-shipping-faces-zero-growth-in-2026-india-gains-ground-amid-maritime-disruptions-unctad/article71746612.ece">Global shipping faces zero growth in 2026; India gains ground amid maritime disruptions: UNCTAD</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>UNCTAD expects no growth in global seaborne trade in 2026 after it grew 1.9% to 12.3 billion tonnes in 2025, with recovery of 3.2% possible in 2027.</li><li>Scheduled container capacity rose 53% at Mundra and 47% at Nhava Sheva between February and June 2026 as lines diverted vessels to Indian ports.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/agri-business/iref-say-non-basmati-rice-export-bans-are-unlikely-but-urges-exporters-to-remain-cautious/article71742821.ece">IREF say non-basmati rice export bans are unlikely, but urges exporters to remain cautious</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>The Indian Rice Exporters&#x27; Federation said on Wednesday that no immediate restrictions on non-basmati rice exports are expected over the next month.</li><li>IREF still urged exporters to keep contractual and inventory safeguards, warning that export duties or other curbs remain possible if domestic rice prices keep rising.</li></ul></div><h4 class="theme-title">Tech and AI chips</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/sci-tech/technology/jensen-huang-needs-a-new-playbook-for-his-second-innings-at-nvidia/article71745086.ece">Jensen Huang needs a new playbook for his second innings at Nvidia</a><p class="pubdate">27 Nov 2026</p><ul class="bl"><li>Jensen Huang returned as Nvidia CEO on Monday, November 23, 2026, after quitting the company he co-founded and led for over three decades amid a sex-and-spy scandal.</li><li>His exit wiped out close to a quarter of Nvidia&#x27;s market value, and his return added nearly a trillion dollars in market value the same day.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/training-vs-inference-whats-the-distinction-at-the-heart-of-the-sarvam-ai-china-models-controversy-explained/article71736231.ece">Training vs inference: What’s the distinction at the heart of the Sarvam AI-China models controversy? | Explained</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>Sarvam AI launched Token Factory on November 16, a commercial inference platform giving businesses API access to its own models and Chinese firms&#x27; models.</li><li>Co-founder Pratyush Kumar said on November 22 that Sarvam used subsidised IndiaAI Mission computing to train its 105B model, and its inference business does not conflict with building its own models.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Industry/c-dac-targets-indigenous-32000-core-gpu-by-mid-2028-seeks-private-partners-to-put-pressure-on-rival-chip-prices/article71746677.ece">C-DAC targets indigenous 32,000-core GPU by mid-2028, seeks private partners; to put pressure on rival chip prices</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>C-DAC aims to build a full indigenous GPU with about 32,000 cores by mid-2028, now at a functional-model stage on FPGA hardware, and is seeking private partners for fabrication, packaging and testing.</li><li>It plans a smaller chip with over 30 cores by mid-2027 for desktops and edge analytics, and hopes volume production will pressure existing suppliers to cut GPU prices.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/defence-space-agency-seeks-indian-partners-for-ai-anti-jamming-and-space-surveillance-tech/article71745735.ece">Defence Space Agency seeks Indian partners for AI, anti-jamming and space surveillance tech</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>Air Vice Marshal Manu Midha said the Defence Space Agency wants Indian labs and startups to co-develop space-based cyber defence, AI orbital analytics and anti-jamming systems.</li><li>Lt. Gen. Praveen Bakshi said the armed forces need software-defined radios with indigenous waveforms and AI for real-time target detection, and want technology to reach soldiers faster.</li></ul></div><h4 class="theme-title">Corporate and legal</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Industry/nclat-clears-480-crore-in-jet-airways-employees-dues-sets-two-week-deadline/article71746808.ece">NCLAT clears ₹480 crore in Jet Airways employees’ dues, sets two-week deadline</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>NCLAT upheld an NCLT order for Jet Airways&#x27; liquidator to pay provident fund and gratuity dues of ₹480 crore to about 11,800 workmen and other employees within two weeks.</li><li>The tribunal dismissed appeals by SBI and seven other financial creditors seeking to include these dues in the liquidation estate, and the Supreme Court dismissed SBI&#x27;s plea on August 31.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Industry/airline-norse-atlantic-suspends-flights-warns-of-possible-bankruptcy/article71745843.ece">Airline Norse Atlantic suspends flights, warns of possible bankruptcy</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>Norse Atlantic suspended flights and said its board intends to file for bankruptcy if urgent short-term financing is not secured.</li><li>The day before, the carrier warned its finances were critical, sending its share price down 85%.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Industry/tata-trusts-to-move-high-court-against-reappointment-of-n-chandrasekaran-as-executive-chairman-of-tata-sons/article71745407.ece">Tata Trusts decides to move Bombay High Court challenging N. Chandrasekaran’s reappointment</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>Tata Trusts, which owns 66% of Tata Sons, filed two suits in Bombay High Court against the company and six directors, including Noel Tata, over the September 17 board resolution giving Chandrasekaran a third term from February 2027.</li><li>The trusts call the reappointment illegal because Trust nominees split their vote, and seek ₹50 crore and ₹15 crore in damages plus an injunction barring Chandrasekaran from using a casting vote at the November 30 board meeting on Tata Sons&#x27; RBI-required listing.</li></ul></div><h4 class="theme-title">Government policy and regulation</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/news/national/supreme-court-directs-tightening-of-front-of-package-nutrition-labelling/article71746251.ece">Supreme Court sets four-month deadline for FSSAI to finalise stricter food labelling norms</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>The Supreme Court ordered front-of-package nutrition labels to flag total sugars and saturated fat, not added sugar and added fat, alongside salt.</li><li>The FSSAI must give each nutrient its own hexagon with a pictogram and the words High Fat, High Sugar or High Salt, and bring the rules into force within its proposed timeline.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Economy//article71747863.ece">The fiscal cost of cash-transfer schemes</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>Social policies like cash transfers are often launched for expected electoral gain without any ex ante appraisal.</li><li>Because cash transfers and subsidies are perpetual and politically hard to reverse, they demand prior evaluation and real-time monitoring to fix shortcomings.</li></ul></div><h4 class="theme-title">Climate and industry</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/india-attracts-31-billion-in-climate-equity-funding-but-capital-remains-concentrated-in-power-transport/article71747748.ece">India attracts $31 billion in climate equity funding, but capital remains concentrated in power, transport</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>India drew about $31 billion in climate and sustainability equity funding from 2021 to October 2026, with over 90% going to power and transport, per an IVCA-BCG report.</li><li>The report estimates India needs $22-24 trillion through 2070, about $500 billion a year, against current annual climate investment of roughly $135 billion.</li></ul></div><div class="wire-row"><a class="headline" href="https://www.thehindu.com/business/Industry/machine-tool-industry-looks-at-11-cagr/article71747162.ece">Machine tool industry looks at 11 % CAGR</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>India&#x27;s machine tool market is expected to grow at 11% CAGR over five years to exceed ₹62,000 crore, per the Indian Machine Tool Manufacturers&#x27; Association.</li><li>Domestic production rose 19% year-on-year to ₹17,387 crore, but imports grew 16% to ₹21,628 crore, with automotive and auto components making up about 50% of demand.</li></ul></div><h4 class="theme-title">Other</h4><div class="wire-row"><a class="headline" href="https://www.thehindu.com/news/international/elon-musk-says-every-child-in-us-will-get-two-spacex-shares/article71745692.ece">Elon Musk says every child in U.S. will get two SpaceX shares</a><p class="pubdate">26 Nov 2026</p><ul class="bl"><li>SpaceX said it will give one newly issued Class A share to every active Trump Account, and Musk said he will personally match it with one of his own shares.</li><li>SpaceX did not say whether Musk&#x27;s shares are tied to Trump Accounts or carry a lockup period; in October, president Gwynne Shotwell and her husband pledged a share to each of more than 2 million children.</li></ul></div></section><section id="src-3" class="wire-section"><div class="eyebrow"><span class="idx">05</span><span>World</span></div><h2>The Hindu - International (headlines + summary)</h2><h4 class="theme-title">US politics</h4><div class="wire-row"><p class="headline">Trump says Nvidia CEO Jensen Huang is not a security threat after reinstatement</p><p class="pubdate">27 Nov 2026</p><ul class="bl"><li>Trump said he had seen enough information to conclude Nvidia CEO Jensen Huang was not a security threat, calling his administration&#x27;s push for Huang&#x27;s reinstatement a great thing.</li><li>Huang resigned this month over an affair with an executive reportedly tied to Chinese intelligence, wiping out close to a quarter of Nvidia&#x27;s market value before his return added nearly a trillion dollars.</li></ul></div><h4 class="theme-title">New Zealand politics</h4><div class="wire-row"><p class="headline">New Zealand PM Luxon loses majority, centrists now kingmakers</p><p class="pubdate">27 Nov 2026</p><ul class="bl"><li>New Zealand PM Christopher Luxon&#x27;s coalition lost its parliamentary majority after final election results on Friday, leaving it one seat short.</li><li>The centrist Opportunity party, led by Qiulae Wong, is now kingmaker and could force another election if no deal is struck.</li></ul></div><h4 class="theme-title">Brazil politics</h4><div class="wire-row"><p class="headline">Brazil’s Lula appoints private banker as Finance Minister</p><p class="pubdate">27 Nov 2026</p><ul class="bl"><li>Lula named Luiz Carlos Trabuco, chairman of Bradesco bank, as Finance Minister for his term starting in January.</li><li>The Sao Paulo Stock Exchange closed up 6% on Thursday and the real regained strength after rumors of the pick.</li></ul></div></section><section id="src-1" class="wire-section"><div class="eyebrow"><span class="idx">06</span><span>ET Dispatch</span></div><h2>ET Morning Dispatch</h2><p class="empty">[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]</p></section><section id="src-4" class="wire-section"><div class="eyebrow"><span class="idx">07</span><span>Funding</span></div><h2>Entrackr Weekly Funding Report</h2><p class="empty">No new Weekly Funding Report since the last check (the latest covers Nov 16 to Nov 21). Most recent report: https://entrackr.com/report/weekly-funding-report-weekly-funding-report/funding-and-acquisitions-in-indian-startups-this-week-nov-16-nov-21-12829487</p></section><section id="src-7" class="wire-section"><div class="eyebrow"><span class="idx">08</span><span>Movers</span></div><h2>Dynamic Watchlist (headlines + summary)</h2><h3 class="subsection-title">Top Gainers</h3><p class="empty">Could not fetch movers for this list</p><h3 class="subsection-title">Top Losers</h3><p class="empty">Could not fetch movers for this list</p></section>
+</main>
+<footer>Compiled 27 Nov 2026, 02:13 &middot; ET Tech &middot; The Hindu &middot; Entrackr</footer>
+<script type="application/json" id="digest-markdown">"# Morning Wire \u2014 Friday, 27 November 2026\n\n## Metrics\n\nNIFTY PE: 21.08 (26 Nov 2026)\nGold per 10g 24K: \u20b91,24,810\nNifty 50: 25,884.50 (+1.45%)\nBitcoin (INR): \u20b956,63,919\nBitcoin (USD): $60,731\n\n## Watchlist (headlines + summary)\n\n## Jio Platforms\n\n- Jio Platforms launched JioAstro, an AI-powered Vedic astrology platform, entering India's digital astrology market against Astrotalk and AstroSage.\n- Jio took JioAstro offline hours after it became publicly accessible, with the site saying a demo survey had closed.\n- JioAstro's mobile app is an invite-only prototype on internal testing, with no public pricing or rollout timeline announced.\n- India's digital astrology market is estimated at $390 million in 2026 and projected to reach $2.32 billion by 2032, growing 34.61% CAGR.\n- Astrology apps recorded 150 million downloads from January to September 2026, up 75% from the same period last year.\n\nOutlook: Neutral. JioAstro's abrupt takedown and invite-only prototype leave no revenue or rollout to judge, while the market's 34.61% CAGR and 150 million downloads show demand. The split is execution versus opportunity.\n\n## Reliance Intelligence\n\nNo items published in the last 24 hours\n\n## Reliance\n\n- Supreme Court dismissed the Revenue's special leave petition against Reliance Industries, finding no plausible explanation for the 288-day delay in filing.\n- Bombay High Court quashed income-tax assessments for AYs 1993-94 to 1995-96 issued in the names of Reliance Polyethylene and Reliance Polypropylene after both merged into Reliance Industries.\n- The High Court held the assessments void from the outset because the Assessing Officer knew of the 1995 merger, and left the merits of the additions undecided.\n- Reliance Industries share price rose 2.13% to \u20b91,381.25, with market capitalisation at \u20b918,30,275.86 crore.\n- Praveen George joined Reliance Industries as vice president and head of human resources for its UCG business, after a year at Jindal Steel.\n\nOutlook: Neutral. The Supreme Court dismissal and High Court quashing remove a tax overhang, but the Revenue can start fresh proceedings. The 2.13% share rise lacks a company-specific catalyst, and valuation sits above peers while returns lag.\n\n## Flipkart\n\n- CEO Kalyan Krishnamurthy exits on December 4 after 11 years, with Balaji Thiagarajan and the board running Flipkart until a successor is named.\n- Walmart is scouting a group CFO to bring finance, M&A and HR under its direct oversight, tightening control over Flipkart.\n- Flipkart is set to grow 11-12% in CY26 against Walmart's 17-18% target, and burn $200-240 million against a $70-80 million goal.\n- FY26 net loss narrowed to \u20b98,468 crore while operating revenue rose 18% to \u20b91.4 lakh crore.\n- Quick commerce rivals Blinkit, Swiggy Instamart and Zepto are expanding into electronics and smartphones, and at least 14 VPs and SVPs left in the past year.\n\nOutlook: Bearish. Walmart's tighter grip, a CEO exit with no successor, and cash burn of $200-240 million against a $70-80 million target point to pressure. Growth of 11-12% versus a 17-18% goal and quick-commerce share gains weigh on the IPO path.\n\n## Zomato\n\n- Uber appointed former Zomato food delivery CEO Rakesh Ranjan as President of Uber India and South Asia, effective January 4, 2027.\n- Ranjan spent eight years at Zomato from 2017, rising to CEO of food ordering and delivery and also leading Zomato Gold, sales and Hyperpure.\n- Ranjan joins from Allen Online, where he is CEO, and will report to Uber Asia Pacific head Dom Taylor after a search of more than three months.\n- He succeeds Prabhjeet Singh, who left Uber India in July after 11 years to join OpenAI as India managing director.\n- Uber India is its third-largest market by trips after the US and Brazil, with operations in more than 200 cities and over two million monthly active drivers.\n\nOutlook: Neutral. Zomato loses a senior leader to a rival, but no Zomato operating or financial data changed. Uber gains India experience while facing Rapido competition; the news flow is neutral for Zomato.\n\n## HAL\n\nNo items published in the last 24 hours\n\n## Tejas Networks\n\n- Tejas Networks posted a Q2 FY27 net loss of \u20b9207 crore, narrower than \u20b9307 crore a year earlier, while revenue rose 54.4% to \u20b9413 crore.\n- MarketsMOJO rated the stock Sell, citing negative EBITDA of Rs -459.46 crore and a Debt to EBITDA ratio of -10.82 times.\n- Nine-month net sales fell 51.89% to \u20b91,140.53 crore with a net loss of Rs -620.52 crore, and no dividend was paid.\n- The stock trades about 37.4% below its 52-week high of \u20b9644.75 and has a negative ROE of minus 32.33%.\n- Tata group entities hold 53.28% of Tejas Networks, with foreign institutions at 6.63% and the public at 36.09%.\n\nOutlook: Bearish. Tejas remains loss-making with negative EBITDA and high debt, and its nine-month sales fell 51.89%. The Sell rating and weak fundamentals outweigh the narrower quarterly loss.\n\n## Dmart\n\n- Canara HSBC Life Insurance Company - Avenue Supermarts among 3 stocks showing RSI trending up\n  26 Nov 2026\n\n- Stock Of The Day Buy DMart Futures: SL 3500 Tgt 3610, 3640, 3690 Consumption stocks are looking strong Buy Divi's Lab Futures: SL 11500 Tgt 11850, 11950, 12100 Pharma stocks are looking strong Buy Hind Zinc Futures: SL 514 Tgt 527, 532, 540 Rebou\n  26 Nov 2026\n\n## Godigit Insurance\n\nNo items published in the last 24 hours\n\n## Infoedge/Naukri\n\n- Info Edge will hold one-on-one meetings with eight institutional investors in Mumbai on November 19 and 20, 2026.\n- The meetings include UTI, ICICI Prudential and Axis Asset Management, led by Himanshu Agarwal and Vineet Ranjan.\n- Info Edge will host a non-deal roadshow in Singapore from December 1 to December 3, 2026.\n- The company said no unpublished price sensitive information will be shared in these investor interactions.\n- The meetings are held under Regulation 30(6) of SEBI's Listing Obligations and Disclosure Requirements Regulations, 2015.\n\nOutlook: Neutral. The news flow is routine investor relations activity with no operational or financial update. It splits neutral because meetings and a roadshow signal engagement but disclose no price sensitive information.\n\n## Bitcoin\n\n- Bitcoin fell about 22% in November, on track for its worst month since June 2022, trading near $60,652.\n- U.S. spot Bitcoin ETFs saw roughly $5.14 billion in outflows over 30 days, with $231.6 million leaving on November 24 alone.\n- Wallets holding 10 to 10,000 BTC cut holdings by about 150,000 coins since November 2, a 1.1% decline.\n- Bitcoin's 50-day EMA crossed below its 200-day EMA, a death cross, with price 16% below the 50-day EMA of $71,478.\n- An attacker hijacked up to 1.9 EH/s of Bitcoin hashrate by exploiting unencrypted Stratum V1 connections at over 1,000 mining sites.\n\nOutlook: Bearish. ETF outflows of $5.14 billion in 30 days, whale distribution of 150,000 BTC and a death cross show demand is draining. Stablecoin supply fell 5.6% to $283 billion, removing buying power.\n\n## Gold\n\n- Spot gold fell to a low of $3,426 on Wednesday before buyers stepped in and drove an intraday recovery above $3,500, with a session high of $3,588.\n- MCX gold trades at \u20b9120,600 per 10 grams with analysts flagging trendline support at \u20b9112,000 and a possible slide to \u20b9110,000.\n- US headline PCE inflation rose to 3.8% in October from 3.7% in September, and core inflation rose to 3.3% from 3.1%.\n- Markets price a 99% probability of a 25 basis point Fed rate hike in December, with 62.5% odds of 50 basis points of cumulative hikes by January 2027.\n- India's 24K gold rate stands at \u20b91,23,270 per 10 grams, or \u20b912,327 per gram, as of 27 November 2026.\n\nOutlook: Bearish. Inflation at 3.8% and near-certain December rate hikes keep real yields high, raising gold's holding cost. The bounce off $3,426 lacks confirmation, and MCX charts still point lower.\n\n## AI News\n\n- [Open Claw Newsletter] Dell Runs 100,000 Agents a Day\n  26 Nov 2026\n  - Dell's Chief Operating Officer Jeff Clarke said 100,000 AI agents are spun up across the company on any given day by developers and workers consuming tokens.\n  - Dell plans to double that number of agents within the next 90 days, Clarke said on the third-quarter earnings call Tuesday.\n  - Dell reported third-quarter revenue of $54.94 billion, above the $49.59 billion consensus estimate, and adjusted earnings of $9.45 per share versus $6.55 expected.\n  - Dell guided fourth-quarter revenue to $56.3 billion and adjusted earnings to $8.40 per share, and fiscal 2027 revenue to $202 billion.\n  - Dell's operating expenses fell to a record-low 7% of revenue, the lowest in its 42-year history, as agent use drove efficiency.\n\n- [Open Claw Newsletter] Chipotle Hires in Four Days\n  26 Nov 2026\n  - Chipotle's AI hiring assistant Ava Cado cut the time from job application to start from 12 days to four.\n  - Applicants nearly doubled and completion rose from about 50% to almost 88% across Chipotle's more than 4,200 restaurants.\n  - Cook to Needs analyzes demand and recommends how much fresh food each restaurant should prepare, tested at 500 locations.\n  - Restaurants using Cook to Needs most consistently report higher customer satisfaction and fewer complaints, per Chipotle.\n  - Chipotle is developing an AI assistant for general managers, in early testing, to flag catering orders, staffing issues and local events.\n\n- [Open Claw Newsletter] GOSH Tests an Agentic Hospital\n  26 Nov 2026\n  - GOSH is leading a 15-month 'Agentic Hospital' programme with Hyland and Amazon Web Services, supported by NHS England funding, to test agentic AI in an NHS hospital.\n  - The programme will build agentic AI tools and run them alongside current manual processes in real-world hospital settings through a phased approach.\n  - Phase 1 covers two use cases: matching supplier statements with invoices to flag discrepancies, and helping staff find and understand Trust policies.\n  - The programme cites NHS pressures, with 31% of NHS staff saying they felt burnt out because of their work in the 2025 staff survey.\n  - Tools will not make clinical decisions and will operate with human oversight, with findings shared across the NHS by the programme's end in October 2027.\n\n- [Open Claw Newsletter] Jailbroken Agent Steals 8.6GB\n  26 Nov 2026\n  - A low-skilled hacker typed 1,801 plain, misspelled French orders into a jailbroken agent over nine days in November, and the agent wrote its own scanners and exploits, SOCRadar researchers found.\n  - It targeted more than 50 organisations and took about 8.6GB of files from over 13 municipalities and 10 other public bodies.\n  - Basic controls like IP allowlists blocked many attempts.\n\n- [Open Claw Newsletter] UK Sees Faster Agent Attacks\n  26 Nov 2026\n  - The UK's NCSC warns that organisations relying on cheap technology are exposed to AI that finds and exploits longstanding cyber security weaknesses.\n  - The assessment covers current AI-enabled threat trends and projections of the threat landscape to 2028.\n  - The NCSC calls for urgent investment in resilience to counter these faster agent attacks.\n  - Its advice on agentic AI is to make sure you can walk before you run.\n  - The warning points to basic security gaps, not advanced AI, as the main exposure for UK organisations.\n\n- [Open Claw Newsletter] iFood Sends Agents Into 15,000 Repos\n  26 Nov 2026\n  - iFood built the Remote Agents Platform, an internal API that delegates engineering tasks to remote sandboxes and returns results as merge requests.\n  - The platform serves iFood's more than 15,000 code repositories, where tasks like validating code and fixing vulnerable dependencies must run repeatedly at scale.\n  - The workflow bookends agentic execution, running GPT-5.6 Luna in an Ubuntu sandbox, with deterministic steps: cloning the repo at the start and publishing the merge request at the end.\n  - The average cost is four U.S. cents per run, and the model was chosen for its balance of intelligence, efficiency, and execution speed.\n  - An internal security product using the platform more than doubled the accuracy of fixes for vulnerable dependencies, showing teams can call an API instead of building their own agentic runtime.\n\n- [Open Claw Newsletter] Hyatt Redraws Brands for AI Agents\n  26 Nov 2026\n  - Hyatt is separating The Standard, Andaz and Thompson, all previously called lifestyle brands, into distinct positionings.\n  - Amar Lalvani, former Standard International chief, became Hyatt's first chief creative officer on September 30 to lead the work.\n  - Lalvani defines The Standard as boldness, Andaz as grounded discovery and Thompson as the home base, shaping hiring, design and marketing.\n  - CEO Mark Hoplamazian said chatbot bookings are still very low, and a Milestone survey of about 1,128 U.S. hotels found hotel websites supplied only 8% of sources AI cited.\n  - Cornell professor Chekitan Dev said the strategy faces landmines because hotel staff are trained to think operations, not brand, and incentives would need to change.\n\n- [Open Claw Newsletter] NongHyup Plans an Agent per Employee\n  26 Nov 2026\n  - NH NongHyup Bank will give every employee an AI agent, introducing 150 of them by next year.\n  - The bank aims to apply AI across all financial operations by 2030 and develop AgileSoDA, its AI subsidiary, into an AI hub for the wider NongHyup group.\n  - Ten internal AI agent prototypes built in under two months cut corporate loan document review of up to 600 pages to four minutes from two hours.\n  - AgileSoDA staff dedicated to the bank will grow to more than 50 next year from 22 this year, with specialists assigned to lending, wealth management and internal controls.\n  - From the end of this year through the first quarter of next year, the bank will roll out an integrated chatbot of four agents plus 15 customer-facing agents for wealth management, consumer protection and jeonse loans.\n\n- [Open Claw Newsletter] Routing Agent Gives Managers Two Hours\n  26 Nov 2026\n  - A CTO built four iterations of an AI agent to route customer issues to engineering teams, ending on Google's agent platform for codebase and issue tracker access.\n  - About 10% of customer issues need escalation to engineering, roughly 100 times a week, requiring domain knowledge to pick the right manager.\n  - The first version routed only about 60% of issues correctly and hallucinated names; manager corrections in Jira raised accuracy to about 95%.\n  - Testing showed OpenAI, Google and Anthropic models interpreted the same restrictions differently, so validation must continue after deployment and model changes.\n  - The agent explains assignments in Jira and captures thumbs-down feedback but does not learn from corrections, leaving managers to redirect the remaining ~5%.\n\n## The Hindu - Editorials\n\n## Pressure tactics: On the new U.S. tariffs on India\n\n26 Nov 2026\n\n- The U.S. Trade Representative has proposed a 25% tariff on India over alleged strategic excess manufacturing capacity, the second-highest rate among 14 countries it has acted against.\n- The real pressure is not the 25% rate but the 17% it could fall to if India signs a trade deal with the U.S.\n- The 25% rate, net of existing tariffs, matches the 25% Trump imposed in July 2025 and is near the 26% announced in April 2025.\n- The 17% rate is barely below the 18% agreed in the February 2026 joint statement and one point above tariffs on Indonesia and Malaysia.\n- The editorial argues India lacks excess capacity, since manufacturing's share of GDP is lower than a decade ago, and should sign a deal only if benefits at least equal costs.\n\n## Indefensible defiance: On Tamil Nadu and Court\u2019s Thirupparankundram order\n\n26 Nov 2026\n\n- Tamil Nadu defied a Supreme Court direction to light the Karthigai Deepam at a stone pillar on Thirupparankundram hills, lighting it only at the traditional spot on November 24.\n- The hills house the Arulmigu Subramaniya Swamy, Uchchi Pillaiyar and Kashi Viswanathar temples, a Sultan Sikkandar Avulia Dargah and Jain beds, with the lamp historically lit near the Pillaiyar temple.\n- In 1994-95 the Hindu Munnani demanded the lamp be lit at a pillar 50 metres from the Dargah; courts in 1862 and 1912 had disallowed lamp lighting near the Dargah.\n- The Madras High Court's Madurai Bench relied on a 1931 Privy Council ruling to hold the temple management obliged to light the lamp at the Deepathoon; the Supreme Court stayed this, allowing it this year only.\n- The Collector apologised to the Court, blaming the temple's Board of Trustees, leaving the State exposed to charges of colluding to breach a judicial mandate.\n\n## The Hindu - Business (headlines + summary)\n\n## Markets and banking\n\n- Banking stocks rebound on earnings strength, improving asset quality\n  26 Nov 2026\n  - The Nifty Bank index has risen nearly 26% from its April 2 low of 49,955, helped by foreign portfolio investor inflows and strong quarterly earnings.\n  - System-wide credit growth reached 18-20% in Q2FY27 versus 10-11% a year earlier, while the gross slippage ratio improved 39 basis points year-on-year to 0.99%.\n\n- Yes Bank AT1 bond verdict: 60 lakh retail shareholders face \u20b98,415-crore bill\n  26 Nov 2026\n  - The Supreme Court upheld the Bombay High Court order quashing Yes Bank's 2020 write-down of \u20b98,415 crore in AT1 bonds, ruling the rescue administrator lacked that authority.\n  - Yes Bank says reinstating the principal would cut its core capital ratio by about 250 basis points, and the stock fell 24% in a week as the RBI and Centre filed review petitions.\n\n- Sensex and Nifty rally for second day on foreign fund inflows and IT stock buying\n  26 Nov 2026\n  - The Sensex rose 390.31 points, or 0.46%, to close at 84,328.59, while the Nifty gained 65.25 points, or 0.25%, to end at 25,884.50.\n  - Foreign institutional investors bought equities worth \u20b94,479.08 crore on Wednesday, with inflows reaching USD 14.15 billion so far this month.\n\n- Rupee weakens 24 paise to settle at 92.44 against U.S. dollar\n  26 Nov 2026\n  - The rupee settled 24 paise lower at 92.44 against the dollar, pressured by Brent crude near $95 a barrel and a U.S. proposal for 25% tariffs on Indian goods.\n  - The U.S. proposal would cap tariffs at 17% under a bilateral trade deal, and India rejected the USTR's excess-capacity allegations while seeking an early agreement.\n\n## Trade and tariffs\n\n- Experts say new U.S. tariffs do not pose substantial threat, India should not rush into trade deal\n  26 Nov 2026\n  - The U.S. proposed a 25% tariff on Indian goods, reducible to 17% if a trade deal is signed, with comments due January 5, 2027 and hearings from January 25, 2027.\n  - Exporters and experts said India should sign only a balanced, reciprocal deal, noting top exports like electronics, drugs, gems and textiles are price-sticky and face limited short-term impact.\n\n- Global shipping faces zero growth in 2026; India gains ground amid maritime disruptions: UNCTAD\n  26 Nov 2026\n  - UNCTAD expects no growth in global seaborne trade in 2026 after it grew 1.9% to 12.3 billion tonnes in 2025, with recovery of 3.2% possible in 2027.\n  - Scheduled container capacity rose 53% at Mundra and 47% at Nhava Sheva between February and June 2026 as lines diverted vessels to Indian ports.\n\n- IREF say non-basmati rice export bans are unlikely, but urges exporters to remain cautious\n  26 Nov 2026\n  - The Indian Rice Exporters' Federation said on Wednesday that no immediate restrictions on non-basmati rice exports are expected over the next month.\n  - IREF still urged exporters to keep contractual and inventory safeguards, warning that export duties or other curbs remain possible if domestic rice prices keep rising.\n\n## Tech and AI chips\n\n- Jensen Huang needs a new playbook for his second innings at Nvidia\n  27 Nov 2026\n  - Jensen Huang returned as Nvidia CEO on Monday, November 23, 2026, after quitting the company he co-founded and led for over three decades amid a sex-and-spy scandal.\n  - His exit wiped out close to a quarter of Nvidia's market value, and his return added nearly a trillion dollars in market value the same day.\n\n- Training vs inference: What\u2019s the distinction at the heart of the Sarvam AI-China models controversy? | Explained\n  26 Nov 2026\n  - Sarvam AI launched Token Factory on November 16, a commercial inference platform giving businesses API access to its own models and Chinese firms' models.\n  - Co-founder Pratyush Kumar said on November 22 that Sarvam used subsidised IndiaAI Mission computing to train its 105B model, and its inference business does not conflict with building its own models.\n\n- C-DAC targets indigenous 32,000-core GPU by mid-2028, seeks private partners; to put pressure on rival chip prices\n  26 Nov 2026\n  - C-DAC aims to build a full indigenous GPU with about 32,000 cores by mid-2028, now at a functional-model stage on FPGA hardware, and is seeking private partners for fabrication, packaging and testing.\n  - It plans a smaller chip with over 30 cores by mid-2027 for desktops and edge analytics, and hopes volume production will pressure existing suppliers to cut GPU prices.\n\n- Defence Space Agency seeks Indian partners for AI, anti-jamming and space surveillance tech\n  26 Nov 2026\n  - Air Vice Marshal Manu Midha said the Defence Space Agency wants Indian labs and startups to co-develop space-based cyber defence, AI orbital analytics and anti-jamming systems.\n  - Lt. Gen. Praveen Bakshi said the armed forces need software-defined radios with indigenous waveforms and AI for real-time target detection, and want technology to reach soldiers faster.\n\n## Corporate and legal\n\n- NCLAT clears \u20b9480 crore in Jet Airways employees\u2019 dues, sets two-week deadline\n  26 Nov 2026\n  - NCLAT upheld an NCLT order for Jet Airways' liquidator to pay provident fund and gratuity dues of \u20b9480 crore to about 11,800 workmen and other employees within two weeks.\n  - The tribunal dismissed appeals by SBI and seven other financial creditors seeking to include these dues in the liquidation estate, and the Supreme Court dismissed SBI's plea on August 31.\n\n- Airline Norse Atlantic suspends flights, warns of possible bankruptcy\n  26 Nov 2026\n  - Norse Atlantic suspended flights and said its board intends to file for bankruptcy if urgent short-term financing is not secured.\n  - The day before, the carrier warned its finances were critical, sending its share price down 85%.\n\n- Tata Trusts decides to move Bombay High Court challenging N. Chandrasekaran\u2019s reappointment\n  26 Nov 2026\n  - Tata Trusts, which owns 66% of Tata Sons, filed two suits in Bombay High Court against the company and six directors, including Noel Tata, over the September 17 board resolution giving Chandrasekaran a third term from February 2027.\n  - The trusts call the reappointment illegal because Trust nominees split their vote, and seek \u20b950 crore and \u20b915 crore in damages plus an injunction barring Chandrasekaran from using a casting vote at the November 30 board meeting on Tata Sons' RBI-required listing.\n\n## Government policy and regulation\n\n- Supreme Court sets four-month deadline for FSSAI to finalise stricter food labelling norms\n  26 Nov 2026\n  - The Supreme Court ordered front-of-package nutrition labels to flag total sugars and saturated fat, not added sugar and added fat, alongside salt.\n  - The FSSAI must give each nutrient its own hexagon with a pictogram and the words High Fat, High Sugar or High Salt, and bring the rules into force within its proposed timeline.\n\n- The fiscal cost of cash-transfer schemes\n  26 Nov 2026\n  - Social policies like cash transfers are often launched for expected electoral gain without any ex ante appraisal.\n  - Because cash transfers and subsidies are perpetual and politically hard to reverse, they demand prior evaluation and real-time monitoring to fix shortcomings.\n\n## Climate and industry\n\n- India attracts $31 billion in climate equity funding, but capital remains concentrated in power, transport\n  26 Nov 2026\n  - India drew about $31 billion in climate and sustainability equity funding from 2021 to October 2026, with over 90% going to power and transport, per an IVCA-BCG report.\n  - The report estimates India needs $22-24 trillion through 2070, about $500 billion a year, against current annual climate investment of roughly $135 billion.\n\n- Machine tool industry looks at 11 % CAGR\n  26 Nov 2026\n  - India's machine tool market is expected to grow at 11% CAGR over five years to exceed \u20b962,000 crore, per the Indian Machine Tool Manufacturers' Association.\n  - Domestic production rose 19% year-on-year to \u20b917,387 crore, but imports grew 16% to \u20b921,628 crore, with automotive and auto components making up about 50% of demand.\n\n## Other\n\n- Elon Musk says every child in U.S. will get two SpaceX shares\n  26 Nov 2026\n  - SpaceX said it will give one newly issued Class A share to every active Trump Account, and Musk said he will personally match it with one of his own shares.\n  - SpaceX did not say whether Musk's shares are tied to Trump Accounts or carry a lockup period; in October, president Gwynne Shotwell and her husband pledged a share to each of more than 2 million children.\n\n## The Hindu - International (headlines + summary)\n\n## US politics\n\n- Trump says Nvidia CEO Jensen Huang is not a security threat after reinstatement\n  27 Nov 2026\n  - Trump said he had seen enough information to conclude Nvidia CEO Jensen Huang was not a security threat, calling his administration's push for Huang's reinstatement a great thing.\n  - Huang resigned this month over an affair with an executive reportedly tied to Chinese intelligence, wiping out close to a quarter of Nvidia's market value before his return added nearly a trillion dollars.\n\n## New Zealand politics\n\n- New Zealand PM Luxon loses majority, centrists now kingmakers\n  27 Nov 2026\n  - New Zealand PM Christopher Luxon's coalition lost its parliamentary majority after final election results on Friday, leaving it one seat short.\n  - The centrist Opportunity party, led by Qiulae Wong, is now kingmaker and could force another election if no deal is struck.\n\n## Brazil politics\n\n- Brazil\u2019s Lula appoints private banker as Finance Minister\n  27 Nov 2026\n  - Lula named Luiz Carlos Trabuco, chairman of Bradesco bank, as Finance Minister for his term starting in January.\n  - The Sao Paulo Stock Exchange closed up 6% on Thursday and the real regained strength after rumors of the pick.\n\n## ET Morning Dispatch\n\n[Not fetched this run \u2014 checked again at the 08:45 IST run, by when this is normally out]\n\n## Entrackr Weekly Funding Report\n\nNo new Weekly Funding Report since the last check (the latest covers Nov 16 to Nov 21).\n\n## Dynamic Watchlist (headlines + summary)\n\n## Top Gainers\n\nCould not fetch movers for this list\n\n## Top Losers\n\nCould not fetch movers for this list\n"</script>
+<script>
+(function () {
+  var btn = document.getElementById("copy-md-btn");
+  var dataEl = document.getElementById("digest-markdown");
+  if (!btn || !dataEl) return;
+  var md = JSON.parse(dataEl.textContent);
+  var defaultLabel = btn.textContent;
+
+  function flash(label) {
+    btn.textContent = label;
+    setTimeout(function () { btn.textContent = defaultLabel; }, 1500);
+  }
+
+  btn.addEventListener("click", function () {
+    if (navigator.clipboard && navigator.clipboard.writeText) {
+      navigator.clipboard.writeText(md).then(
+        function () { flash("Copied!"); },
+        function () { flash("Copy failed"); }
+      );
+    } else {
+      var ta = document.createElement("textarea");
+      ta.value = md;
+      ta.style.position = "fixed";
+      ta.style.opacity = "0";
+      document.body.appendChild(ta);
+      ta.select();
+      try {
+        document.execCommand("copy");
+        flash("Copied!");
+      } catch (e) {
+        flash("Copy failed");
+      }
+      document.body.removeChild(ta);
+    }
+  });
+})();
+</script>
+</div>
