@@ -3,8 +3,8 @@ METRICS
 NIFTY PE | 20.86 | 27 Nov 2026 | https://nifty-pe-ratio.com/
 Gold per 10g 24K | ₹1,27,860 |  | https://groww.in/gold-rates/gold-rate-today-in-bangalore
 Nifty 50 | 25,607.20 (-0.75%) |  | https://groww.in/indices/nifty
-Bitcoin (INR) | ₹55,21,374 |  | https://www.coingecko.com/en/coins/bitcoin/inr
-Bitcoin (USD) | $59,360 |  | https://coinmarketcap.com/currencies/bitcoin/
+Bitcoin (INR) | ₹54,99,639 |  | https://www.coingecko.com/en/coins/bitcoin/inr
+Bitcoin (USD) | $59,137 |  | https://coinmarketcap.com/currencies/bitcoin/
 ============================================================
 
 SOURCE 6: Watchlist (headlines + summary)
@@ -45,21 +45,13 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   27 Nov 2026 | https://theprint.in/feature/blinkit-zepto-jiomart-quick-commerce-high-fat-sugar-hfss-study/3111071/
-  • A Local Circles study found 58% of packaged food listings on Blinkit fall under the high-fat, high-sugar, high-salt category, the highest among seven quick-commerce platforms. ¶ • The Supreme Court ordered packaged food items to carry front-of-package nutrition labelling with separate hexagons for each nutrient of concern. ¶ • A teardown of Blinkit's Android app revealed code checking 21 installed apps, logging Wi-Fi SSIDs with GPS coordinates, and including a session payload in backup rules. ¶ • Blinkit said the app checks sibling Eternal group apps like Zomato for single-tap login and caches Wi-Fi SSIDs to avoid battery-draining GPS cold-starts. ¶ • A Food Safety Team in Patiala seized about 12 expired food and drink items from a Blinkit store on Bhadson Road and will take legal action under the Food Safety and Standards Act, 2006. ¶ ↗ theprint.in|https://theprint.in/feature/blinkit-zepto-jiomart-quick-commerce-high-fat-sugar-hfss-study/3111071/ ;; paidfreedroid.com|https://paidfreedroid.com/2026/11/blinkit-app-teardown-installed-apps-wifi-ssid-session-backup-privacy.html ;; patialapolitics.com|https://patialapolitics.com/79214/
+  • A Local Circles study found 58% of packaged food listings on Blinkit fall under the high-fat, high-sugar, high-salt category, the highest among seven quick-commerce platforms. ¶ • The Supreme Court ordered packaged food items to carry front-of-package nutrition labelling with separate hexagons for each nutrient of concern. ¶ • India's quick-commerce market reached about $13 billion in FY26 and is expected to touch $90 billion by FY31, per a Google-Redseer study. ¶ • Online platforms handle over 9 million orders a day, and 89% of 108,000 consumers surveyed want HFSS warnings shown on listing and product pages. ¶ • A man ordered a ₹110 coffee on Zomato, down from the usual ₹250, and felt guilty after a specially-abled delivery partner asked if he placed the order. ¶ ↗ theprint.in|https://theprint.in/feature/blinkit-zepto-jiomart-quick-commerce-high-fat-sugar-hfss-study/3111071/ ;; curlytales.com|https://curlytales.com/india/trending/man-orders-coffee-from-zomato-delivery-partners-question-makes-him-feel-guilty/
 
-- Outlook: Bearish
+- Outlook: Neutral
   2026-11-28 |
-  §VIEW§{"stance": "bearish", "text": "Regulatory and safety scrutiny is rising: the Supreme Court's labelling order, a study showing Blinkit has the highest share of HFSS listings, and expired items seized in Patiala. The app teardown adds privacy concerns under DPDP rules."}
+  §VIEW§{"stance": "neutral", "text": "Regulatory pressure on HFSS listings and the Supreme Court labelling order could raise compliance costs for Blinkit, while quick-commerce growth to $90 billion by FY31 supports the segment. These forces split the near-term view."}
 
 [HAL]
-
-- ~
-  27 Nov 2026 | https://www.indiainfoline.com/news/companies/beml-bharat-dynamics-grse-and-hal-share-price-display-buying-interest-whats-driving-the-rally
-  • HAL shares rose 4.26% to ₹5,118.80 on 27 November 2026, part of a broad defence rally led by BEML's 14.69% jump to a 52-week high. ¶ • Defence stocks drew buyers after a recent correction, with investors hunting bargains in names holding strong order books and balance sheets. ¶ • The Union budget for 2026-27 raised defence ministry funding 15% to ₹7.85 lakh crore, up from the prior year. ¶ • About 82% of the ₹2.12 lakh crore in Defence Acquisition Council-approved procurement is reserved for domestic manufacturers. ¶ • Renewed foreign portfolio investor flows into Indian equities are lifting sentiment for defence, banking and IT stocks. ¶ ↗ indiainfoline.com|https://www.indiainfoline.com/news/companies/beml-bharat-dynamics-grse-and-hal-share-price-display-buying-interest-whats-driving-the-rally
-
-- Outlook: Bullish
-  2026-11-28 |
-  §VIEW§{"stance": "bullish", "text": "Higher defence funding and 82% domestic reservation in DAC orders underpin HAL's order pipeline. The rally rests on sentiment and bargain hunting, so follow-through depends on execution and valuations."}
 
 [Tejas Networks]
 
@@ -69,33 +61,41 @@ SOURCE 6: Watchlist (headlines + summary)
 
 - ~
   28 Nov 2026 | https://finance.yahoo.com/markets/stocks/articles/bears-saw-digit-slid-010955038.html
-  • Go Digit's COO Easwara Narayanan resigned effective close of business on November 30, 2026, citing personal reasons, per a filing to stock exchanges. ¶ • Q2 2027 revenue rose to ₹29,204.9m from ₹24,888m a year earlier, while net income grew to ₹1,423.9m from ₹1,165.1m. ¶ • Net margin edged up to 4.9% in Q2 2027 from 4.7% in Q2 2026, supporting the profitability story but not settling margin resilience. ¶ • The stock trades at ₹253, down 29.4% over the past year including dividends, against a consensus fair value still above the current price. ¶ • In H1 FY27, Go Digit settled over 6.2 lakh claims, up 32% year-on-year, with cashless health approvals averaging 25.1 minutes. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/stocks/articles/bears-saw-digit-slid-010955038.html ;; scanx.trade|https://scanx.trade/stock-market-news/companies/go-digit-general-insurance-coo-easwara-narayanan-resigns/57345818 ;; business-standard.com|https://www.business-standard.com/content/specials/digit-insurance-settles-over-6-lakh-claims-in-h1-fy27-health-cashless-approvals-average-25-minutes-126112700955_1.html ;; businessupturn.com|https://businessupturn.com/business/go-digit-general-insurance-announces-resignation-of-coo-easwara-narayanan/
+  • Go Digit shares fell 29.4% over the past year, closing at ₹253 against a bullish Fair Value of ₹410 and bearish ₹290. ¶ • Q2 2027 revenue rose to ₹29,204.9m from ₹24,888m a year earlier, with net income up to ₹1,423.9m from ₹1,165.1m. ¶ • Net margin edged up to 4.9% in Q2 2027 from 4.7% in Q2 2026, supporting the efficiency-led profit story. ¶ • COO Easwara Narayanan resigned effective close of business on November 30, 2026, citing personal reasons. ¶ • Digit settled over 6.2 lakh claims in H1 FY27, up 32% year-on-year, with cashless health approvals averaging 25.1 minutes. ¶ ↗ finance.yahoo.com|https://finance.yahoo.com/markets/stocks/articles/bears-saw-digit-slid-010955038.html ;; scanx.trade|https://scanx.trade/stock-market-news/companies/go-digit-general-insurance-coo-easwara-narayanan-resigns/57345818 ;; business-standard.com|https://www.business-standard.com/content/specials/digit-insurance-settles-over-6-lakh-claims-in-h1-fy27-health-cashless-approvals-average-25-minutes-126112700955_1.html
 
-- Outlook: Bearish
+- Outlook: Neutral
   2026-11-28 |
-  §VIEW§{"stance": "bearish", "text": "The COO's exit and a 29.4% one-year share loss weigh on sentiment despite Q2 FY27 revenue and profit growth. Margin resilience and leadership stability remain unproven, keeping the near-term news flow bearish."}
+  §VIEW§{"stance": "neutral", "text": "Profit growth and 32% more claims settled support the efficiency story, but a 29.4% yearly share fall and the COO exit keep the picture split. Margin durability against climate losses and digital competition stays unproven."}
 
 [Infoedge/Naukri]
+
+- ~
+  28 Nov 2026 | https://www.marketsmojo.com/news/stock-recommendation/info-edge-india-ltd-is-rated-hold-by-marketsmojo-4277021
+  • MarketsMOJO rated Info Edge a Hold with a Mojo Score of 54.0, citing solid operations but expensive valuation and sideways price momentum. ¶ • Info Edge reported positive results for eight consecutive quarters, with quarterly net sales peaking at ₹903.88 crores and PBDIT at ₹353.99 crores. ¶ • Operating profit grew at an annualised 34.68%, and the operating profit margin to net sales ratio stood at 39.16%. ¶ • The stock trades at a price-to-book value of 1.7 against a return on equity of 3.5%, with a PEG ratio of 1.9. ¶ • Institutional investors held 52.27% of Info Edge, up 0.73% over the previous quarter, even as the stock's one-year return was -9.54%. ¶ ↗ marketsmojo.com|https://www.marketsmojo.com/news/stock-recommendation/info-edge-india-ltd-is-rated-hold-by-marketsmojo-4277021
+
+- Outlook: Neutral
+  2026-11-28 |
+  §VIEW§{"stance": "neutral", "text": "Strong operations, eight straight positive quarters and a net-debt-free balance sheet support the stock. But a price-to-book of 1.7 against 3.5% ROE and a -9.54% one-year return keep the news flow balanced."}
 
 [Bitcoin]
 
 - ~
   27 Nov 2026 | https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market
-  • Bitcoin fell below $60,000 on Friday, trading around $59,576, down 1.58% on the day and more than 52% below its all-time high. ¶ • US spot Bitcoin ETFs had $389 million in net outflows on November 27, pushing November's cumulative outflows past $5.39 billion, a monthly record. ¶ • Abraxas Capital withdrew 21,520 bitcoin, worth about $1.285 billion, from exchanges over the past week at an average price of $59,739. ¶ • Bitcoin is trading below its Power Law support line of about $68,600 and beneath the Rainbow Chart's lowest band, breaking long-standing valuation models. ¶ • The Strategic Bitcoin Reserve Bill reached the House calendar, requiring Treasury to establish a reserve within 180 days of passing, though no floor vote is scheduled. ¶ ↗ decrypt.co|https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/4-scary-bitcoin-charts-suggest-194602680.html ;; bitbo.io|https://bitbo.io/news/abraxas-capital-grabs-bitcoin/ ;; tradingview.com|https://www.tradingview.com/news/cryptobriefing:34bd919ba094b:0-blackrock-leads-389m-bitcoin-etf-exodus-as-november-outflows-hit-a-record/
+  • Bitcoin fell below $60,000 on Friday, trading around $59,576, more than 52% below its all-time high of about $126,198. ¶ • Bitcoin broke below the Power Law support line near $68,600 and the Rainbow Chart's lowest band, with RSI at 25.69. ¶ • Coinbase CEO Brian Armstrong said Bitcoin has likely bottomed and kept a $400,000 target by 2030, about 580% above $59,000. ¶ • Russia's VTB began letting qualified brokerage clients trade bitcoin on Nov. 27, and SPB Exchange will start spot trading Dec. 1. ¶ • Strategy Inc kept buying Bitcoin despite about US$11.8b in unrealized losses, with nearly US$5b cash and MSCI index removal. ¶ ↗ decrypt.co|https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market ;; fool.com|https://www.fool.com/investing/2026/11/28/new-credit-cards-offering-4-cash-back-in-bitcoin-are-coming-soon-do-they-deserve-a-place-in-your-wallet/ ;; finance.yahoo.com|https://finance.yahoo.com/markets/crypto/articles/coinbase-ceo-brian-armstrong-scales-051847326.html ;; bitcoinmagazine.com|https://bitcoinmagazine.com/news/russia-vtb-bitcoin-trading-crypto-test
 
 - Outlook: Bearish
   2026-11-28 |
-  §VIEW§{"stance": "bearish", "text": "Record ETF outflows of $5.39 billion in November and Bitcoin below $60,000 show sustained selling pressure. Breaking key valuation models and a bearish death cross reinforce the downtrend."}
+  §VIEW§{"stance": "bearish", "text": "Bitcoin broke below long-term model floors and its 200-day EMA near $74,444, with roughly $6.8b of options expiring and ETF outflows near $889m. Armstrong's bottom call and Russian access are supportive, but price action and technicals dominate."}
 
 [Gold]
 
 - ~
   27 Nov 2026 | https://www.kitco.com/news/article/2026-11-27/gold-will-reach-4600oz-q4-2027-rates-fall-usd-gives-back-10-overvaluation
-  • MCX gold closed 2.61% higher at ₹1,26,000 per 10 grams on Friday, while spot gold rose 0.3% to $3,591.37 an ounce after briefly falling below $3,500 on Wednesday. ¶ • J.P. Morgan's Yuxuan Tang sees gold reaching $4,600 per ounce by Q4 2027, about 30% upside, on central bank buying and a weaker dollar after the Fed turns neutral in 2027. ¶ • Kotak Neo's Kaynat Chainwala expects the rebound to stay corrective, capping gains near $3,750 per ounce, with the Fed's hawkish stance and strong US data limiting upside. ¶ • Lemonn's Gaurav Garg sees domestic gold at ₹1.22-1.30 lakh per 10 grams by end-December 2026 and ₹1.35-1.50 lakh over the next year, below January's ₹1.80 lakh peak. ¶ • Dakota Gold's pre-feasibility study for the Richmond Hill heap leach mine shows an after-tax net present value above $2 billion at a $3,500 per ounce gold price. ¶ ↗ kitco.com|https://www.kitco.com/news/article/2026-11-27/gold-will-reach-4600oz-q4-2027-rates-fall-usd-gives-back-10-overvaluation ;; livemint.com|https://www.livemint.com/money/personal-finance/gold-rally-puzzles-investors-prices-rise-despite-stronger-dollar-and-higher-yields-expert-sees-1-50-lakh-in-one-year-11795846655349.html ;; bhpioneer.com|https://www.bhpioneer.com/local_news/dakota-gold-study-reports-potential-gold-value-of-2b-at-richmond-hill/article_6d74d52e-7b7b-4853-bff7-bf55707356c6.html ;; livemint.com|https://www.livemint.com/money/personal-finance/gold-silver-prices-today-28-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11795842197606.html
+  • J.P. Morgan expects gold to reach $4,600 per ounce by Q4 2027, about 30% upside, on central bank buying and currency debasement hedging. ¶ • Spot gold traded as high as $3,685.30 per ounce on Friday, up 1.31% on the day, a four-day high. ¶ • Indian gold closed at ₹1,25,350 per 10 grams on 27 November, up 0.12% on MCX, a third straight gain. ¶ • Kotak Neo sees the recovery as a corrective rebound capped near $3,750 per ounce until the rate outlook improves. ¶ • Dakota Gold's pre-feasibility study shows an after-tax net present value above $2 billion for the Richmond Hill heap leach mine at a $3,500 per ounce gold price. ¶ ↗ kitco.com|https://www.kitco.com/news/article/2026-11-27/gold-will-reach-4600oz-q4-2027-rates-fall-usd-gives-back-10-overvaluation ;; livemint.com|https://www.livemint.com/money/personal-finance/gold-rally-puzzles-investors-prices-rise-despite-stronger-dollar-and-higher-yields-expert-sees-1-50-lakh-in-one-year-11795846655349.html ;; bhpioneer.com|https://www.bhpioneer.com/local_news/dakota-gold-study-reports-potential-gold-value-of-2b-at-richmond-hill/article_6d74d52e-7b7b-4853-bff7-bf55707356c6.html ;; fxempire.com|https://www.fxempire.com/forecasts/article/gold-xau-usd-price-forecast-bullish-reversal-targets-3900-resistance-2-1647958
 
 - Outlook: Neutral
   2026-11-28 |
-  §VIEW§{"stance": "neutral", "text": "Prices are recovering, but a hawkish Fed, a 104.01 dollar index and 4.93% 10-year Treasury yield cap the rebound. Analysts split between a corrective bounce and a 2027 rally, so direction stays unclear."}
+  §VIEW§{"stance": "neutral", "text": "Near-term pressure from a hawkish Fed, a stronger dollar and 4.93% US 10-year yields caps gold, but central bank buying and J.P. Morgan's $4,600 target support the medium term. The split is timing, not direction."}
 
 ============================================================
 
@@ -151,7 +151,11 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   27 Nov 2026 | https://www.thehindu.com/business/Industry/rupee-nosedives-60-paise-to-settle-at-9298-against-us-dollar/article71750458.ece
   • The rupee fell 60 paise to close at 92.98 against the dollar on Friday, as crude oil rose above $95 a barrel and the Sensex dropped 989.33 points. ¶ • Brent crude traded 0.64% higher at $97.19 per barrel, while record foreign equity inflows of $15.16 billion in November offered some support.
 
-[[India-US trade]]
+[[India-US trade and tariffs]]
+
+- Cotton output shortfall: SIMA seeks five-year import duty waiver
+  27 Nov 2026 | https://www.thehindu.com/business/cotton-output-shortfall-sima-seeks-five-year-import-duty-waiver/article71751172.ece
+  • Cotton production this season is projected at 248.66 lakh bales against industry demand of 350-360 lakh bales, SIMA said. ¶ • Imports may reach nearly 90 lakh bales this season, with arrivals since October 1 at 41 lakh bales versus 65 lakh bales a year earlier.
 
 - India-U.S. trade deal is close to culmination: Goyal
   27 Nov 2026 | https://www.thehindu.com/news/national/india-us-trade-deal-is-close-to-culmination-goyal/article71749493.ece
@@ -175,23 +179,11 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   27 Nov 2026 | https://www.thehindu.com/business/Industry/ai-regulation-must-precede-job-losses-and-economic-disruption-says-pmi-chief/article71747517.ece
   • PMI President Johannes Heinlein said governments in the U.S., Europe and India wait for job losses and failed investments before building AI rules and safety guardrails. ¶ • Heinlein said some companies use AI as cover to lay off thousands while hiding weak business strategies, and PMI will launch an advanced corporate programme focused on Indian companies.
 
-[[Tata and corporate governance]]
+[[Corporate and legal news]]
 
 - Bombay HC lets Tata Sons November 30 board meeting proceed; trusts denied relief
   28 Nov 2026 | https://www.thehindu.com/business/Industry/tata-sons-files-caveats-after-bombay-hc-refuses-relief-to-tata-trusts-plea/article71753663.ece
   • The Bombay High Court refused urgent relief to the Sir Dorabji Tata and R.D. Tata trusts, allowing Tata Sons' November 30 board meeting to go ahead subject to final court orders. ¶ • The trusts challenge N. Chandrasekaran's September 17 reappointment as executive chairman for a third five-year term and seek ₹50 crore and ₹15 crore in damages respectively; the next hearing is January 18, 2027.
-
-[[Textiles and trade shifts]]
-
-- Global fashion brands shift orders from Bangladesh to India amid unrest
-  28 Nov 2026 | https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece
-  • Brands including Zara and H&M diverted about $254 million of orders from Bangladesh to India and other Asian hubs between November 1 and 18. ¶ • Bangladesh approved a 36% minimum wage rise for garment workers, the smallest in four decades, as protests caused over $400 million in production losses.
-
-- Cotton output shortfall: SIMA seeks five-year import duty waiver
-  27 Nov 2026 | https://www.thehindu.com/business/cotton-output-shortfall-sima-seeks-five-year-import-duty-waiver/article71751172.ece
-  • Cotton production this season is projected at 248.66 lakh bales against industry demand of 350-360 lakh bales, SIMA said. ¶ • Imports may reach nearly 90 lakh bales this season, with arrivals since October 1 at 41 lakh bales versus 65 lakh bales a year earlier.
-
-[[Markets and autos]]
 
 - IBM ends U.S. visa, green card sponsorship for most roles in consulting unit
   27 Nov 2026 | https://www.thehindu.com/news/national/tech-workers-woes-ibm-ends-us-visa-green-card-sponsorship-for-most-roles-in-consulting-unit/article71750142.ece
@@ -201,15 +193,21 @@ SOURCE 5: The Hindu - Business (headlines + summary)
   27 Nov 2026 | https://www.thehindu.com/business/Industry/mini-cooper-se-launched-at-54-lakh-deliveries-from-december/article71750342.ece
   • BMW Group India launched the all-electric MINI Cooper SE at ₹53.90 lakh ex-showroom, with bookings open and deliveries starting in December. ¶ • The 218 hp car has a 54.2 kWh battery with a claimed 402 km WLTP range and can charge 10-80% in 30 minutes on DC fast charging.
 
-- Stock markets snap two-day rally; Sensex tanks 989 points amid profit booking
-  27 Nov 2026 | https://www.thehindu.com/business/markets/stock-markets-snap-two-day-rally-sensex-tanks-989-points-amid-profit-booking/article71750358.ece
-  • The Sensex fell 989.33 points, or 1.17%, to close at 83,339.26 on Friday, November 27, 2026, while the Nifty dropped 277.30 points, or 1.07%, to 25,607.20. ¶ • Profit booking in IT and banking heavyweights, plus Brent crude rising 0.76% to $97.22 a barrel, drove the decline after a four-week rally.
+[[Other]]
+
+- Global fashion brands shift orders from Bangladesh to India amid unrest
+  28 Nov 2026 | https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece
+  • Brands including Zara and H&M diverted about $254 million of orders from Bangladesh to India and other Asian hubs between November 1 and 18. ¶ • Bangladesh approved a 36% minimum wage rise for garment workers, the smallest in four decades, as protests caused over $400 million in production losses.
 
 ============================================================
 
 SOURCE 3: The Hindu - International (headlines + summary)
 
 [[West Asia conflict]]
+
+- Israeli strike kills two Doctors Without Borders staff in Gaza
+  28 Nov 2026 | https://www.thehindu.com/news/international/israeli-strike-kills-two-doctors-without-borders-staff-in-gaza/article71754241.ece
+  • An Israeli strike killed two MSF security guards at a Gaza clinic on Saturday, November 28, 2026, and MSF said its premises were marked with logos and its location known to the Israeli military. ¶ • The IDF identified the men as Hamas artillery cell commander Moaz Yousef Alitsbach and Ahmed Sufyan Muhammad Ali Abu, while WHO chief Tedros Adhanom Ghebreyesus condemned attacks on health workers as outrageous and unacceptable.
 
 - Saudi Arabia, Houthis trade attacks on rival capitals
   28 Nov 2026 | https://www.thehindu.com/news/international/saudi-arabia-houthis-trade-attacks-on-rival-capitals/article71753601.ece
@@ -229,7 +227,7 @@ SOURCE 3: The Hindu - International (headlines + summary)
   28 Nov 2026 | https://www.thehindu.com/news/international/putin-unveils-new-nuclear-submarine/article71753555.ece
   • Putin attended a flag-raising ceremony for the Perm submarine at the Sevmash shipyard in Severodvinsk, formally transferring it to the navy. ¶ • Putin said Russia will add five more nuclear submarines by 2030, including three Yasen-M class vessels like the Perm.
 
-[[Afghanistan school attack]]
+[[Afghanistan attack]]
 
 - At least seven killed, 97 injured in explosion at a middle school in eastern Afghanistan
   28 Nov 2026 | https://www.thehindu.com/news/international/several-students-reportedly-killed-wounded-in-explosion-at-a-middle-school-in-eastern-afghanistan/article71753929.ece
@@ -241,19 +239,7 @@ SOURCE 3: The Hindu - International (headlines + summary)
   28 Nov 2026 | https://www.thehindu.com/news/international/cheers-tears-as-maria-machado-seeks-ideas-for-venezuela-reform/article71753627.ece
   • Maria Corina Machado launched Punto de Acuerdo, a nationwide consultation expected to involve more than a million people over several months, to gather democratic reform proposals. ¶ • Participants agreed elections should be held in the first half of 2027, while interim president Delcy Rodriguez has appeared to play for time despite promising a vote.
 
-[[Kenya cult case]]
-
-- Kenya cult leader found guilty of manslaughter of 123 followers asked to starve to meet Jesus
-  28 Nov 2026 | https://www.thehindu.com/news/international/kenya-cult-leader-found-guilty-of-manslaughter-of-123-followers-asked-to-starve-to-meet-jesus/article71753625.ece
-  • Paul Mackenzie, pastor of the Good News International Church, was convicted of manslaughter in Mombasa for the deaths of 123 followers he told to fast to death to meet Jesus. ¶ • Mackenzie was sentenced to 200 years in prison on November 7, 2026, for murdering 191 people, and faces more trials over the deaths of his followers.
-
-[[Taiwan China tensions]]
-
-- Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate
-  28 Nov 2026 | https://www.thehindu.com/news/international/taiwan-votes-in-key-local-elections-as-china-looks-on/article71753506.ece
-  • Taiwanese voters chose mayors and county chiefs across all 22 cities and counties on November 28, 2026, with polls closing at 4 p.m. and results expected in the early evening. ¶ • The vote gauges party support ahead of the 2028 presidential election, with the KMT defending its 2022 haul of 14 cities and counties to the DPP's 5.
-
-[[Other]]
+[[South Asia tensions]]
 
 - Is stubble burning in Punjab affecting Sri Lanka’s air quality?
   28 Nov 2026 | https://www.thehindu.com/sci-tech/science/is-stubble-burning-in-punjab-affecting-sri-lankas-air-quality/article71750848.ece
@@ -263,10 +249,100 @@ SOURCE 3: The Hindu - International (headlines + summary)
   28 Nov 2026 | https://www.thehindu.com/business/global-fashion-brands-shift-orders-from-bangladesh-to-india-amid-unrest/article71752292.ece
   • Brands including Zara and H&M diverted about $254 million of orders from Bangladesh to India and other Asian hubs between November 1 and 18. ¶ • Bangladesh approved a 36% minimum wage rise for garment workers, the smallest in four decades, as protests caused over $400 million in production losses.
 
+- Taiwan votes in local elections as China sends warplanes, lambastes Taipei candidate
+  28 Nov 2026 | https://www.thehindu.com/news/international/taiwan-votes-in-key-local-elections-as-china-looks-on/article71753506.ece
+  • Taiwanese voters chose mayors and county chiefs across all 22 cities and counties on November 28, 2026, with polls closing at 4 p.m. and results expected in the early evening. ¶ • The vote gauges party support ahead of the 2028 presidential election, with the KMT defending its 2022 haul of 14 cities and counties to the DPP's 5.
+
+[[Kenya cult case]]
+
+- Kenya cult leader found guilty of manslaughter of 123 followers asked to starve to meet Jesus
+  28 Nov 2026 | https://www.thehindu.com/news/international/kenya-cult-leader-found-guilty-of-manslaughter-of-123-followers-asked-to-starve-to-meet-jesus/article71753625.ece
+  • Paul Mackenzie, pastor of the Good News International Church, was convicted of manslaughter in Mombasa for the deaths of 123 followers he told to fast to death to meet Jesus. ¶ • Mackenzie was sentenced to 200 years in prison on November 7, 2026, for murdering 191 people, and faces more trials over the deaths of his followers.
+
 ============================================================
 
 SOURCE 1: ET Morning Dispatch
-[Not fetched this run — checked again at the 08:45 IST run, by when this is normally out]
+
+### Snabbit, Swish and FirstClub spend big to build demand in their first full year
+27 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/quick-services-startups-burn-cash-gccs-step-up-ai-hiring/articleshow/136206795.cms
+
+• Snabbit spent ₹194.8 crore against revenue of ₹12.2 crore in the fiscal year ended March 31, 2026.
+
+• Swish reported expenses of ₹144.8 crore, compared with operating revenue of ₹47.6 crore.
+
+• FirstClub reported operating revenue of ₹64 crore and expenses of ₹169.4 crore.
+
+• Marketing and promotions were among the biggest costs for all three, with Snabbit spending ₹48.7 crore, or 25% of total expenses.
+
+### Nearly 65% of new GCC fresher jobs require AI skills
+27 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/quick-services-startups-burn-cash-gccs-step-up-ai-hiring/articleshow/136206795.cms
+
+• AI-related talent demand for freshers in global capability centres (GCCs) grew 45% in the ten months of 2026.
+
+• Nearly 65% of the new GCC positions require AI capabilities, according to Adecco India data shared with ET.
+
+• Overall fresher hiring at GCCs grew 20-25%, compared with 10-15% in IT services and a 5-10% decline in BPM.
+
+• Over the next six to 12 months, fresher hiring is expected to grow 10-15% in GCCs, against 5-10% in IT services and 0-5% in BPM.
+
+### Kaynes Semicon plans fourfold capacity expansion through Vishay joint venture
+27 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/quick-services-startups-burn-cash-gccs-step-up-ai-hiring/articleshow/136206795.cms
+
+• Kaynes Semicon plans about fourfold expansion in annual outsourced semiconductor assembly and test (OSAT) capacity to about 8-9 billion devices over the next five years.
+
+• The expansion will be through a joint venture with Pennsylvania-based Vishay Intertechnology and by seeking government fiscal support under the India Semiconductor Mission (ISM) 2.0.
+
+• Vishay will invest $56.4 million for a 49% stake in an existing Kaynes Technology unit, with Kaynes retaining 51%.
+
+• Kaynes Semicon has completed its first unit, while the second is nearly 90% complete, and the third unit will add 2.3 billion devices a year.
+
+### Tiger Global sells Groww stakes
+27 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/quick-services-startups-burn-cash-gccs-step-up-ai-hiring/articleshow/136206795.cms
+
+• US investment firm Tiger Global has sold a 2.72% stake in stockbroking platform Groww through open market transactions over the past six months.
+
+• Tiger Global joins other early investors such as Peak XV Partners, Ribbit Capital and Y Combinator in monetising their investments in the company following its stock market debut.
+
+### India must catch up in AI race
+27 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/quick-services-startups-burn-cash-gccs-step-up-ai-hiring/articleshow/136206795.cms
+
+• India cannot afford to stay on the sidelines of the artificial intelligence revolution even as it falls behind the US and China in developing frontier technologies, said Aakrit Vaish, founder of Activate.
+
+• Vaish believes the country will risk missing out on a significant economic and productivity opportunity if it does not work on AI.
+
+### Finnable raises Rs 405 crore
+27 Nov 2026 | https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/quick-services-startups-burn-cash-gccs-step-up-ai-hiring/articleshow/136206795.cms
+
+• Digital lending firm Finnable has raised ₹405 crore in a fresh funding round from new investors.
+
+• The investors include Bharat Value Fund (part of Pantomath Group), Pratithi Investments (the investment firm of Infosys co-founder Kris Gopalakrishnan), and NKSquared (the investment arm of Zerodha co-founders Nithin and Nikhil Kamath).
+
+### Global pick: Nvidia halts chip shipments to south-east Asia
+FT | https://www.ft.com/content/7838a715-07d4-4605-aa60-21f5af2b2370?syn-25a6b1a6=1
+
+[Could not read the article, possibly paywalled]
+
+### Global pick: AI is great, but it can't deliver a lamb, say students
+BBC | https://www.bbc.com/news/articles/cmwy9qw244r3o
+
+• Students voted to keep the historic name of the Magee campus, named after Martha Magee, who gave money in the mid-1800s to start a theological college in Derry.
+
+• Poultry farmers say they face constant anxiety over bird flu amid the latest housing order for bird keepers.
+
+• Five scientists from Harper Adams University are joining a European climate change study to learn lessons from farmers.
+
+• A Christmas tractor run organiser, Martin Brandreth, says his baby son's months in hospital after a cardiac arrest give the event personal meaning.
+
+### Global pick: How foreign AI romance apps are reshaping youth intimacy in Africa
+Rest of World | https://restofworld.org/2026/ai-companion-apps-africa-character-ai/
+
+• African youth, some under 10, are turning to foreign AI companion apps for intimacy as U.S. and Chinese firms chase emerging markets, experts told Rest of World.
+
+• More than 4 million South Africans and Nigerians downloaded AI companion apps last year, nearly 60% more than in 2024, per AppMagic.
+
+• Most African countries have no dedicated rules for AI companion apps, unlike China, which banned them for minors in July.
+
+• In Nigeria, school girls form attachments to Character.AI boyfriends, sometimes withdrawing from friends and family as chats turn sexual, Internet Safe Kids Africa said.
 
 ============================================================
 
@@ -694,15 +770,22 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 [Heg Ltd (HEGRAPHITE, +19.09%)]
 
-- ~
+- HEG completes demerger, lists shares on BSE, NSE
   27 Nov 2026 | https://manufacturing.economictimes.indiatimes.com/news/industry/heg-completes-demerger-lists-shares-on-bse-nse/136221429
-  ## What the sector does ¶ • Graphite electrodes are consumable anodes used in electric arc furnace (EAF) steelmaking, where they carry current to melt scrap steel. ¶ • Revenue tracks global steel output and the share of EAF versus blast furnace production; power and needle coke are the main costs. ¶ ## What the company does ¶ • HEG Ltd runs the world's largest single-site ultra-high-power graphite electrode plant at Mandideep, Madhya Pradesh, with 100,000 tonnes of annual capacity. ¶ • It exports about 65-70% of production to steelmakers in more than 35 countries, and runs 18 MW captive hydro and 6 MW solar power for its energy-intensive process. ¶ ## Why it moved today ¶ • HEG shares rose 19.09% as the stock began trading independently on BSE and NSE on 27 November 2026, after the graphite electrode business was demerged from HEG Advanced Materials. ¶ • The listing followed an NCLT Indore bench order of 13 August 2026, with shareholders of HEG Advanced Materials as of 7 September 2026 receiving one HEG share for each share held. ¶ ## The numbers (Screener) ¶ • Screener data for HEG Ltd shows market cap, current price, P/E, book value, dividend yield, ROCE and ROE fields, but the values were not populated in the input. ¶ • Quarterly sales, operating profit, OPM%, net profit and EPS rows were also blank in the Screener data provided. ¶ ## What the numbers say ¶ • No peer table or financial ratios were populated in the Screener data, so HEG's valuation and returns cannot be compared with named peers or a peer median. ¶ • The 19.09% move reflects the first day of independent trading after the demerger, not a change in reported earnings, since no quarterly figures were available. ¶ ↗ manufacturing.economictimes.indiatimes.com|https://manufacturing.economictimes.indiatimes.com/news/industry/heg-completes-demerger-lists-shares-on-bse-nse/136221429 ;; indianchemicalnews.com|https://www.indianchemicalnews.com/general/heg-makes-stock-market-debut-betting-on-global-green-steel-boom-32826 ;; business-standard.com|https://www.business-standard.com/markets/news/heg-lists-independently-plans-650-crore-graphite-electrode-expansion-126112701109_1.html
+  HEG , a manufacturer of graphite electrodes , on Friday said its equity shares have been listed on the BSE and the National Stock Exchange ( NSE ) following the demerger of its graphite electrode business from HEG Advanced Materials.
+
+- HEG Graphite Ltd. Financials – Balance Sheet, Profit & Loss, Cash Flow
+  28 Nov 2026 | https://www.valueresearchonline.com/stocks/390361/heg-graphite-ltd/company-financial/
+
+- HEG Ltd lists at 25% premium, hits lower circuit
+  27 Nov 2026 | https://www.thehindubusinessline.com/companies/heg-ltd-lists-at-25-premium-hits-lower-circuit/article71750686.ece
+  Shares of HEG Ltd, formerly HEG Graphite Ltd, debuted on the stock exchanges on Friday at a premium of about 25 per cent, but fell to the 5 per cent lower circuit after listing as investors booked profits.
 
 [Beml Ltd (BEML, +14.99%)]
 
 - ~
-  27 Nov 2026 | https://www.indiainfoline.com/news/companies/beml-bharat-dynamics-grse-and-hal-share-price-display-buying-interest-whats-driving-the-rally
-  ## What the sector does ¶ • India's defence equipment makers sell to the Ministry of Defence and armed forces, earning from procurement contracts and long-term order books. ¶ • Revenue depends on government defence budgets and order execution, while cost is driven by raw materials, labour and working capital. ¶ ## What the company does ¶ • BEML makes heavy earthmoving equipment for mining and construction, defence vehicles and metro and railway coaches. ¶ • It earns from selling to government agencies, defence forces, metro rail corporations and Indian Railways, with a market cap of ₹19,540 crore. ¶ ## Why it moved today ¶ • BEML rose 14.99% on 27 Nov 2026 as defence stocks rallied, with bargain hunting after a sector correction, renewed FPI interest and strong order books cited by a news report. ¶ • The stock hit a 52-week high of ₹2,378 on the NSE, and the rally was sector-wide, with HAL up 4.26%, Bharat Dynamics up 5.10% and GRSE up 4.75%. ¶ ## The numbers (Screener) ¶ • Stock P/E is 120, price to book is 6.80 times, ROCE is 7.66% and ROE is 4.85%, per Screener data. ¶ • September 2026 quarter sales were ₹1,192 crore with net profit of ₹33 crore and EPS of ₹3.95, after a loss of ₹27 crore in the June 2026 quarter. ¶ ## What the numbers say ¶ • BEML's P/E of 120 and price to book of 6.80 times are expensive versus typical capital goods peers, while ROCE of 7.66% and ROE of 4.85% show weak returns on capital. ¶ • Sales have been volatile, from ₹820 crore in June 2026 to ₹1,192 crore in September 2026, and the 14.99% move looks driven by sector sentiment rather than a fundamental earnings surprise. ¶ ↗ indiainfoline.com|https://www.indiainfoline.com/news/companies/beml-bharat-dynamics-grse-and-hal-share-price-display-buying-interest-whats-driving-the-rally ;; marketsmojo.com|https://www.marketsmojo.com/news/stocks-in-action/beml-ltd-hits-intraday-high-with-727-surge-on-27-nov-2026-4276595
+  28 Nov 2026 | https://www.marketsmojo.com/news/stocks-in-action/beml-ltd-hits-intraday-high-with-727-surge-on-27-nov-2026-4276595
+  ## What the sector does ¶ • Heavy earthmoving and construction equipment makers sell excavators, dozers and dumpers to mining firms, contractors and infrastructure builders, earning from equipment sales plus spare parts and service contracts. ¶ • Defence mobility and rail coach makers sell vehicles and metro or railway coaches to governments and state transport bodies, where order timing and raw material costs drive revenue and margins. ¶ ## What the company does ¶ • BEML Ltd makes heavy earthmoving equipment for mining and construction, defence vehicles for the armed forces, and metro and Indian Railways coaches. ¶ • It earns from equipment sales and after-sales service to mining firms, construction contractors, the defence ministry and metro or rail authorities, with a market cap of ₹19,540 crore. ¶ ## Why it moved today ¶ • The news article does not give a fundamental reason for the 14.99% move; it reports an intraday high of ₹2,180, up 6.88% from the previous close, and calls the move stock-specific strength. ¶ • Context from the input: BEML's September 2026 quarter net profit was ₹33 crore on sales of ₹1,192 crore, and the stock trades above its 5-day, 20-day, 50-day, 100-day and 200-day moving averages. ¶ ## The numbers (Screener) ¶ • Stock P/E is 120, price to book is 6.80 times, ROCE is 7.66%, ROE is 4.85% and dividend yield is 0.73%, per the latest data. ¶ • September 2026 quarter sales were ₹1,192 crore with net profit of ₹33 crore and EPS of ₹3.95, against ₹1,794 crore sales and ₹180 crore profit in the March 2026 quarter. ¶ ## What the numbers say ¶ • At a P/E of 120 and 6.80 times book value, BEML is priced for high growth, while its ROCE of 7.66% and ROE of 4.85% show weak returns on the capital employed. ¶ • Quarterly profit has swung from ₹180 crore in March 2026 to ₹33 crore in September 2026, so the 14.99% move looks driven by momentum rather than a steady earnings trend. ¶ ↗ marketsmojo.com|https://www.marketsmojo.com/news/stocks-in-action/beml-ltd-hits-intraday-high-with-727-surge-on-27-nov-2026-4276595
 
 [[Top Losers]]
 
@@ -710,10 +793,10 @@ SOURCE 7: Dynamic Watchlist (headlines + summary)
 
 - ~
   27 Nov 2026 | https://themachinemaker.com/news/jupiter-wagons-south-koreas-woojin-form-jv-for-metro-coaches-and-propulsion-systems/
-  ## What the sector does ¶ • Railway rolling stock makers build freight wagons, coaches and components for Indian Railways, metro corporations and private freight operators. ¶ • Revenue comes from wagon and coach orders, largely from government tenders, while steel, forgings and labour are the main costs. ¶ ## What the company does ¶ • Jupiter Wagons makes freight wagons, wheels, axles, bogies, couplers and brake systems, with plants in Kolkata, Jamshedpur, Indore, Jabalpur, Bengaluru and Aurangabad. ¶ • It earns from railway and commercial vehicle component orders, and has entered an 80:20 joint venture with South Korea's Woojin for metro coaches and propulsion systems. ¶ ## Why it moved today ¶ • No article in the input explains the 5.80% fall on the last trading session, so the cause is not identified. ¶ • Context: Jupiter Wagons announced a joint venture with Woojin on 27 November 2026 to make metro coaches and propulsion systems in India, with JWL holding 80%. ¶ ## The numbers (Screener) ¶ • Stock P/E is 55.8, book value ₹71.0, ROCE 9.14% and ROE 6.37%, with market cap ₹9,609 crore and dividend yield 0.44%. ¶ • Sales fell from ₹890 crore in December 2025 to ₹772 crore in September 2026, while net profit dropped from ₹62 crore to ₹46 crore over the same quarters. ¶ ## What the numbers say ¶ • At a P/E of 55.8 against a book value of ₹71.0, the stock trades at roughly 3.2 times book, pricing in growth even as ROCE of 9.14% and ROE of 6.37% show modest returns on capital. ¶ • The September 2026 quarter's ₹772 crore sales and ₹46 crore net profit are below the December 2025 peak, so the 5.80% fall sits against a slowing earnings trend rather than an improving one. ¶ ↗ themachinemaker.com|https://themachinemaker.com/news/jupiter-wagons-south-koreas-woojin-form-jv-for-metro-coaches-and-propulsion-systems/
+  ## What the sector does ¶ • Railway rolling stock makers build freight wagons, coaches and components for Indian Railways, metro corporations and private freight operators, earning from tenders and long-term supply contracts. ¶ • Revenue depends on government capex, wagon procurement cycles and metro expansion, while cost is driven by steel, castings and imported components; key listed peers include Titagarh Rail Systems and Texmaco Rail. ¶ ## What the company does ¶ • Jupiter Wagons makes freight wagons, wheels, axles, bogies, couplers and brake systems, with plants in Kolkata, Jamshedpur, Indore, Jabalpur, Bengaluru and Aurangabad. ¶ • It earns from wagon and component supply to Indian Railways and private customers, and has entered an 80:20 joint venture with South Korea's Woojin for metro coaches and propulsion systems. ¶ ## Why it moved today ¶ • The news does not explain the 5.80% fall; the only company-specific items on 27-28 November 2026 were the Woojin joint venture announcement and a MarketsMOJO Sell rating, neither of which states a reason for the decline. ¶ • Context: MarketsMOJO flagged a 42.3% fall in profit after tax to ₹109.32 crore for the nine months to 26 September 2026 and a very expensive valuation, while the stock had risen 34.88% over the past month before this session. ¶ ## The numbers (Screener) ¶ • Stock P/E is 55.8, price to book is about 3.2 times (₹225 price against ₹71.0 book value), ROCE is 9.14% and ROE is 6.37%, with market cap at ₹9,609 crore. ¶ • Sales fell from ₹890 crore in the December 2025 quarter to ₹772 crore in September 2026, while net profit dropped from ₹62 crore to ₹46 crore over the same period. ¶ ## What the numbers say ¶ • At 55.8 times earnings and about 3.2 times book, the stock trades at a premium to the broader market despite ROCE of 9.14% and ROE of 6.37%, which are modest for a capital-intensive manufacturer. ¶ • The September 2026 quarter showed recovery from the June trough (sales ₹772 crore vs ₹671 crore, net profit ₹46 crore vs ₹26 crore), but the 5.80% fall shows the market remains cautious after a 34.88% one-month rally. ¶ ↗ themachinemaker.com|https://themachinemaker.com/news/jupiter-wagons-south-koreas-woojin-form-jv-for-metro-coaches-and-propulsion-systems/ ;; motownindia.com|https://www.motownindia.com/Bureau/Features-and-Travel/864/Jupiter-Wagons-Koreas-Woojin-to-manufacture-metro-trains-Motown-India-Bureau ;; marketsmojo.com|https://www.marketsmojo.com/news/stock-recommendation/jupiter-wagons-ltd-is-rated-sell-by-marketsmojo-4275487
 
 [Hyundai Motor India Ltd (HYUNDAI, -4.67%)]
 
 - ~
-  28 Nov 2026 | https://www.industryodisha.com/business/india-inc-ramps-up-factory-capacity-as-strong-consumer-demand-revives-private-capex
-  ## What the sector does ¶ • India's passenger vehicle industry sells cars and utility vehicles to domestic households and exports, earning revenue per unit sold, with cost driven by steel, components and discounts. ¶ • Maruti Suzuki leads the market, followed by Hyundai Motor India and Tata Motors, with Mahindra strong in SUVs; demand tracks incomes, interest rates and fuel prices. ¶ ## What the company does ¶ • Hyundai Motor India, part of the global Hyundai Motor Group, makes and sells passenger cars in India, including hatchbacks, sedans and SUVs, to domestic buyers and export markets. ¶ • It is India's second-largest carmaker by passenger vehicle sales, with market capitalisation of ₹1,62,996 crore and a plant expansion at Talegaon adding 80,000 units. ¶ ## Why it moved today ¶ • No article in the input explains the 4.67% fall; the most recent report, dated 27 Nov 2026, shows the stock closed down 3.36% that day, extending four straight sessions of losses totalling 7.17%. ¶ • Context: the stock has lagged the Sensex over one week (down 7.57% versus Sensex up 0.12%) and one year (down 11.63% versus Sensex down 1.98%), per the 27 Nov report. ¶ ## The numbers (Screener) ¶ • Stock P/E is 35.6, price to book is 8.00 times (book value ₹251), ROCE is 38.4%, ROE is 29.9%, dividend yield is 1.05% and market cap is ₹1,62,996 crore. ¶ • September 2026 quarter: sales ₹20,696 crore, operating profit ₹1,974 crore (OPM 10%), net profit ₹1,196 crore and EPS ₹14.72, versus June 2026 net profit of ₹889 crore. ¶ ## What the numbers say ¶ • At 35.6 times earnings and 8 times book, the stock trades at a premium to a typical auto peer, even as five-year sales growth of 11.6% is modest, per Screener. ¶ • Return on capital of 38.4% and three-year ROE of 36.4% show efficient capital use, but September quarter net profit of ₹1,196 crore is below the ₹1,234 crore of December 2025. ¶ ↗ industryodisha.com|https://www.industryodisha.com/business/india-inc-ramps-up-factory-capacity-as-strong-consumer-demand-revives-private-capex ;; marketsmojo.com|https://www.marketsmojo.com/news/stocks-in-action/hyundai-motor-india-ltd-hits-intraday-low-amid-price-pressure-on-27-nov-2026-4276176 ;; m.economictimes.com|https://m.economictimes.com/industry/services/retail/india-inc-goes-on-an-expansion-drive-as-demand-keeps-factories-humming/articleshow/136232751.cms
+  27 Nov 2026 | https://www.marketsmojo.com/news/stocks-in-action/hyundai-motor-india-ltd-hits-intraday-low-amid-price-pressure-on-27-nov-2026-4276176
+  ## What the sector does ¶ • India's passenger vehicle industry sells cars and utility vehicles to domestic buyers and exports, with revenue driven by volumes, product mix and pricing. ¶ • Costs are dominated by steel, aluminium and other commodities, plus fixed plant overheads, so margins swing with volume and input prices. ¶ ## What the company does ¶ • Hyundai Motor India sells passenger cars and SUVs in India, including the Creta, Venue, i20 and Exter, and exports from its Chennai and Talegaon plants. ¶ • It is India's second-largest carmaker by passenger vehicle sales and part of the global Hyundai Motor Group, the world's third-largest automaker by passenger vehicle sales. ¶ ## Why it moved today ¶ • The news articles do not explain the 4.67% fall; the 27 Nov report only notes the stock closed down 3.36% that day, underperforming the auto sector by 2.53%. ¶ • Context, not the cause: the stock had already fallen for four straight sessions, losing 7.17% cumulatively, and was trading below its 5-day, 20-day and 100-day moving averages. ¶ ## The numbers (Screener) ¶ • September 2026 quarter: sales ₹20,696 crore, operating profit ₹1,974 crore at a 10% OPM, and net profit ₹1,196 crore (EPS ₹14.72). ¶ • Valuation and returns: P/E 35.6, price to book 8.00 times on book value of ₹251, ROCE 38.4%, ROE 29.9%, dividend yield 1.05%. ¶ ## What the numbers say ¶ • The P/E of 35.6 and price to book of 8.00 times look rich for a carmaker whose sales grew only 11.6% a year over five years, though ROCE of 38.4% and ROE of 29.9% show strong capital returns. ¶ • September 2026 quarter sales rose 26.7% from ₹16,335 crore in June 2026 and net profit rose 34.5% from ₹889 crore, so the four-session slide sits against a recent rebound in earnings. ¶ ↗ marketsmojo.com|https://www.marketsmojo.com/news/stocks-in-action/hyundai-motor-india-ltd-hits-intraday-low-amid-price-pressure-on-27-nov-2026-4276176 ;; autoindiadaily.in|https://autoindiadaily.in/car-news/hyundai-ki1i-mpv-innova-hycross-rival/ ;; m.economictimes.com|https://m.economictimes.com/industry/services/retail/india-inc-goes-on-an-expansion-drive-as-demand-keeps-factories-humming/articleshow/136232751.cms

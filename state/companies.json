@@ -452,7 +452,7 @@
   "sector": "Crypto exchange",
   "description": "US cryptocurrency exchange acting as custodian for US government seized crypto assets.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-28"
  },
  "alamedaresearch": {
   "name": "Alameda Research",
@@ -501,7 +501,7 @@
   "sector": "Internet classifieds",
   "description": "Operator of Naukri.com and other online classified platforms; tracks white-collar hiring trends.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "naukri": {
   "name": "Naukri",
@@ -5121,7 +5121,7 @@
   "sector": "Crypto",
   "description": "Leading cryptocurrency that fell to $82,000 after higher-than-expected CPI.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "gold": {
   "name": "Gold",
@@ -24273,14 +24273,14 @@
   "sector": "Rail equipment",
   "description": "Indian rail rolling stock maker; named as a key listed wagon player.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "texmacorail": {
   "name": "Texmaco Rail",
   "sector": "Rail equipment",
   "description": "Indian rail wagon and coach maker; named as a key listed wagon player.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "bdl": {
   "name": "BDL",
@@ -24832,6 +24832,20 @@
   "name": "Good News International Church",
   "sector": "Religion",
   "description": "Kenyan church whose pastor Paul Mackenzie was convicted of manslaughter of 123 followers.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "vtb": {
+  "name": "VTB",
+  "sector": "Banking",
+  "description": "Russian state-owned bank; began letting qualified clients trade bitcoin.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "spbexchange": {
+  "name": "SPB Exchange",
+  "sector": "Financial services",
+  "description": "Russian exchange planning to start spot bitcoin trading on December 1.",
   "first_added": "2026-11-28",
   "last_mentioned": "2026-11-28"
  }
