@@ -158,14 +158,14 @@
   "sector": "Telecom",
   "description": "Digital services arm of Reliance Industries; targeting $114 billion valuation in India's largest IPO.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "relianceindustries": {
   "name": "Reliance Industries",
   "sector": "Conglomerate",
   "description": "Indian conglomerate spanning energy, retail and telecom; majority owner of Jio Platforms.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "bhartiairtel": {
   "name": "Bharti Airtel",
@@ -186,7 +186,7 @@
   "sector": "E-commerce",
   "description": "Indian online retailer running Big Billion Days sale; facing ESOP demands from former executives.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "walmart": {
   "name": "Walmart",
@@ -347,7 +347,7 @@
   "sector": "Mining",
   "description": "State-owned coal mining company; joint venture partner in the Chandrapura thermal project.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-28"
  },
  "geaerospace": {
   "name": "GE Aerospace",
@@ -620,7 +620,7 @@
   "sector": "Crypto",
   "description": "Bitcoin treasury company; acquired 334 BTC for about $28.7 million in early October.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "arkinvest": {
   "name": "Ark Invest",
@@ -669,7 +669,7 @@
   "sector": "Quick commerce",
   "description": "Led quick-commerce product availability at 94.4%, per a Bernstein report.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "swiggyinstamart": {
   "name": "Swiggy Instamart",
@@ -1110,7 +1110,7 @@
   "sector": "Defence aerospace",
   "description": "Hindustan Aeronautics; building Tejas Mk1A jets awaiting GE engines.",
   "first_added": "2026-10-09",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "honeywellaerospace": {
   "name": "Honeywell Aerospace",
@@ -1362,7 +1362,7 @@
   "sector": "Banking",
   "description": "Private bank; offered debit card discounts on MacBook Neo during Flipkart sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-28"
  },
  "inoxwind": {
   "name": "Inox Wind",
@@ -2251,7 +2251,7 @@
   "sector": "Consumer electronics",
   "description": "Electronics brand; 55-inch QLED TV discounted on Flipkart.",
   "first_added": "2026-10-11",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "bhel": {
   "name": "BHEL",
@@ -2636,7 +2636,7 @@
   "sector": "Banking",
   "description": "Global bank; its Asia Pacific insurance arm holds 26% of Canara HSBC Life Insurance.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-10-24"
+  "last_mentioned": "2026-11-28"
  },
  "ubs": {
   "name": "UBS",
@@ -2979,7 +2979,7 @@
   "sector": "Energy",
   "description": "Saudi state oil company; Houthis claimed attacks on its sites in eastern Saudi Arabia, which Saudi Arabia has not confirmed.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-28"
  },
  "safran": {
   "name": "Safran",
@@ -3245,7 +3245,7 @@
   "sector": "Holding company",
   "description": "Holding company controlling the Tata group; reportedly in early talks with banks about a potential listing.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "birlasoft": {
   "name": "Birlasoft",
@@ -3336,7 +3336,7 @@
   "sector": "Automotive",
   "description": "Automaker; deepened partnership with Stellantis to develop global vehicles in India.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-28"
  },
  "stellantis": {
   "name": "Stellantis",
@@ -3623,7 +3623,7 @@
   "sector": "Oil and gas logistics",
   "description": "Runs bulk liquid terminals, LPG import terminals and pipelines in India.",
   "first_added": "2026-10-13",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "rrkabel": {
   "name": "R R Kabel",
@@ -4974,7 +4974,7 @@
   "sector": "Technology",
   "description": "Technology company hosting Think 2026 and partnering on quantum computing in Andhra Pradesh.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-28"
  },
  "andhrapradesh": {
   "name": "Andhra Pradesh",
@@ -5422,7 +5422,7 @@
   "sector": "Financial services",
   "description": "Index provider that finalized rules to exclude non-operating companies from its Global Investable Market Indexes.",
   "first_added": "2026-10-17",
-  "last_mentioned": "2026-11-16"
+  "last_mentioned": "2026-11-28"
  },
  "fundstrat": {
   "name": "Fundstrat",
@@ -7536,7 +7536,7 @@
   "sector": "Streaming",
   "description": "US streaming service; posted record India subscriber growth in Q3 2026 helped by a Flipkart bundle.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "cibc": {
   "name": "CIBC",
@@ -13171,7 +13171,7 @@
   "sector": "Automobiles",
   "description": "German automaker that scaled Microsoft Copilot to more than 330,000 employees.",
   "first_added": "2026-10-31",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "fujitsu": {
   "name": "Fujitsu",
@@ -13535,7 +13535,7 @@
   "sector": "Automotive",
   "description": "India's largest carmaker; led October passenger vehicle wholesales with 2.12 lakh units, up 20%.",
   "first_added": "2026-11-02",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-28"
  },
  "mm": {
   "name": "M&M",
@@ -14123,7 +14123,7 @@
   "sector": "Insurance",
   "description": "Indian general insurer; scheduled its Q2 and H1 FY27 earnings call for 5 November 2026.",
   "first_added": "2026-11-03",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "godigitlifeinsurance": {
   "name": "Go Digit Life Insurance",
@@ -16888,7 +16888,7 @@
   "sector": "Defence electronics",
   "description": "Indian maker of defence electronics for space, air, land and sea platforms, including LCA-Tejas and BrahMos parts.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-28"
  },
  "bel": {
   "name": "BEL",
@@ -17273,7 +17273,7 @@
   "sector": "Heavy engineering",
   "description": "Indian state-owned maker of mining, rail and defence equipment.",
   "first_added": "2026-11-11",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "hudco": {
   "name": "HUDCO",
@@ -18085,7 +18085,7 @@
   "sector": "Automobiles",
   "description": "Korean carmaker; with suppliers plans a $2 billion second Andhra Pradesh plant targeting 2030 production.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "vikramsolar": {
   "name": "Vikram Solar",
@@ -19310,7 +19310,7 @@
   "sector": "Electronics manufacturing",
   "description": "Indian electronics manufacturing services company competing in the EMS sector.",
   "first_added": "2026-11-17",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "tvsmotorcompany": {
   "name": "TVS Motor Company",
@@ -22089,7 +22089,7 @@
   "sector": "Automotive",
   "description": "German luxury carmaker; governs hundreds of AI agents across thousands of developers in R&D.",
   "first_added": "2026-11-24",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "marksanspharma": {
   "name": "Marksans Pharma",
@@ -23181,7 +23181,7 @@
   "sector": "Software",
   "description": "Messaging app where Klarna's upgraded shopping assistant is available.",
   "first_added": "2026-11-25",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "imessage": {
   "name": "iMessage",
@@ -23524,14 +23524,14 @@
   "sector": "Rail equipment",
   "description": "Indian rail wagon maker forming an 80:20 joint venture with Woojin for metro coaches.",
   "first_added": "2026-11-25",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "woojinindustrialsystems": {
   "name": "Woojin Industrial Systems",
   "sector": "Rail equipment",
   "description": "South Korean maker of metro coaches and propulsion systems partnering with Jupiter Wagons.",
   "first_added": "2026-11-25",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "daburindia": {
   "name": "Dabur India",
@@ -23573,7 +23573,7 @@
   "sector": "Automotive",
   "description": "German carmaker deploying Arena Physica's Atlas AI agents for electrical diagnostics on production lines.",
   "first_added": "2026-11-26",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "arenaphysica": {
   "name": "Arena Physica",
@@ -23657,7 +23657,7 @@
   "sector": "Automotive",
   "description": "South Korean carmaker producing passenger vehicles sold globally including India.",
   "first_added": "2026-11-26",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "patanjalifoods": {
   "name": "Patanjali Foods",
@@ -24084,7 +24084,7 @@
   "sector": "Computing research",
   "description": "Indian government computing research centre; targeting an indigenous 32,000-core GPU by mid-2028.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "ivca": {
   "name": "IVCA",
@@ -24126,14 +24126,14 @@
   "sector": "Aviation",
   "description": "Malaysian low-cost airline; delaying staff salaries to month-end after a third straight quarterly loss.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "verizon": {
   "name": "Verizon",
   "sector": "Telecom",
   "description": "US telecom operator; a partner in WhatsApp's in-app travel eSIM feature.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "geojitinvestments": {
   "name": "Geojit Investments",
@@ -24196,14 +24196,14 @@
   "sector": "Telecom",
   "description": "Cambodian telecom operator; a partner in WhatsApp's in-app travel eSIM feature.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "smartcommunications": {
   "name": "Smart Communications",
   "sector": "Telecom",
   "description": "Philippine telecom operator; a partner in WhatsApp's in-app travel eSIM feature.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "spotdraft": {
   "name": "SpotDraft",
@@ -24392,7 +24392,7 @@
   "sector": "Professional association",
   "description": "Project Management Institute; its president said AI regulation must precede job losses and will launch an India-focused corporate programme.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "swish": {
   "name": "Swish",
@@ -24463,5 +24463,61 @@
   "description": "Investment arm of Zerodha co-founders Nithin and Nikhil Kamath; invested in Finnable's round.",
   "first_added": "2026-11-27",
   "last_mentioned": "2026-11-27"
+ },
+ "1password": {
+  "name": "1Password",
+  "sector": "Cybersecurity",
+  "description": "Password manager; confirmed backend breach via compromised employee GitHub account, said encrypted vaults stayed secure.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "abraxascapital": {
+  "name": "Abraxas Capital",
+  "sector": "Crypto asset management",
+  "description": "Investment firm that withdrew 21,520 bitcoin worth about $1.285 billion from exchanges in a week.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "zara": {
+  "name": "Zara",
+  "sector": "Fashion retail",
+  "description": "Inditex-owned fashion brand; diverted orders from Bangladesh to India and other Asian hubs amid unrest.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "hm": {
+  "name": "H&M",
+  "sector": "Fashion retail",
+  "description": "Swedish fashion retailer; shifted about part of $254 million in orders from Bangladesh to India and other hubs.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "sima": {
+  "name": "SIMA",
+  "sector": "Textile industry body",
+  "description": "South India Mills Association; sought a five-year cotton import duty waiver amid a projected output shortfall.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "bharatdynamics": {
+  "name": "Bharat Dynamics",
+  "sector": "Defence aerospace",
+  "description": "Indian state-run maker of missiles and defence systems; rose in the defence stock rally.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "grse": {
+  "name": "GRSE",
+  "sector": "Defence shipbuilding",
+  "description": "Garden Reach Shipbuilders and Engineers; Indian warship builder that gained in the defence rally.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "inditex": {
+  "name": "Inditex",
+  "sector": "Fashion retail",
+  "description": "Spanish fashion group that owns Zara; shifted orders from Bangladesh to India amid unrest.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
  }
 }
