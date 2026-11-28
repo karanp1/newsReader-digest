@@ -109,7 +109,7 @@
   "sector": "Philanthropy",
   "description": "Charitable foundation funding education, health and livelihood initiatives; invested in ByteXL.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-10-08"
+  "last_mentioned": "2026-11-28"
  },
  "samsung": {
   "name": "Samsung",
@@ -221,7 +221,7 @@
   "sector": "E-commerce",
   "description": "Global online retailer running Great Indian Festival sale in competition with Flipkart.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-28"
  },
  "chennaipetroleum": {
   "name": "Chennai Petroleum",
@@ -1355,7 +1355,7 @@
   "sector": "Banking",
   "description": "Private bank; offered credit card discounts on MacBook Neo during Flipkart sale.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-28"
  },
  "hdfcbank": {
   "name": "HDFC Bank",
@@ -1432,7 +1432,7 @@
   "sector": "Banking",
   "description": "Investment bank; has an overweight rating on Info Edge with Rs 1,500 target.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "citi": {
   "name": "Citi",
@@ -1838,7 +1838,7 @@
   "sector": "Fintech",
   "description": "Merchant payments company that launched a unified payments and engagement platform in Singapore.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-01"
+  "last_mentioned": "2026-11-28"
  },
  "startuppolicyforum": {
   "name": "Startup Policy Forum",
@@ -2062,7 +2062,7 @@
   "sector": "E-commerce",
   "description": "Parent company of quick-commerce platform Blinkit.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-23"
+  "last_mentioned": "2026-11-28"
  },
  "bernstein": {
   "name": "Bernstein",
@@ -2895,7 +2895,7 @@
   "sector": "Eyewear retail",
   "description": "Omnichannel eyewear brand; fell 4.5% as Alpha Wave sold a ₹1,895 crore block stake.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-28"
  },
  "avenuesupermarts": {
   "name": "Avenue Supermarts",
@@ -3462,7 +3462,7 @@
   "sector": "Food delivery",
   "description": "Food delivery platform; founder said company could use drones if delivery partners run short.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "swiggy": {
   "name": "Swiggy",
@@ -3525,7 +3525,7 @@
   "sector": "Hospitality",
   "description": "Hotel booking and hospitality chain; past ET Startup Award winner.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-23"
+  "last_mentioned": "2026-11-28"
  },
  "ola": {
   "name": "Ola",
@@ -3952,7 +3952,7 @@
   "sector": "Venture capital",
   "description": "Indian venture capital firm in the first cohort of the government's RDI scheme.",
   "first_added": "2026-10-14",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-28"
  },
  "ideaspringcapital": {
   "name": "Ideaspring Capital",
@@ -9167,7 +9167,7 @@
   "sector": "Quick commerce",
   "description": "Swiggy's quick commerce grocery delivery service.",
   "first_added": "2026-10-24",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-28"
  },
  "bijnis": {
   "name": "Bijnis",
@@ -9860,7 +9860,7 @@
   "sector": "Ride hailing",
   "description": "Global ride-hailing and delivery platform expanding an AI agent to over 30,000 employees.",
   "first_added": "2026-10-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "rescale": {
   "name": "Rescale",
@@ -12772,7 +12772,7 @@
   "sector": "Logistics",
   "description": "Indian logistics startup; Q2 revenue rose 57% and net profit jumped fivefold.",
   "first_added": "2026-10-30",
-  "last_mentioned": "2026-11-02"
+  "last_mentioned": "2026-11-28"
  },
  "blackbuck": {
   "name": "BlackBuck",
@@ -14515,7 +14515,7 @@
   "sector": "Jewellery",
   "description": "Indian fine jewellery brand; raised over $100 million led by Multiples Alternate Asset Management to expand retail.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-28"
  },
  "multiplesalternateassetmanagement": {
   "name": "Multiples Alternate Asset Management",
@@ -14599,7 +14599,7 @@
   "sector": "Advanced materials",
   "description": "Runs graphite electrode, anode materials and green power businesses; Q2 revenue rose 144%.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-05"
+  "last_mentioned": "2026-11-28"
  },
  "fractalanalytics": {
   "name": "Fractal Analytics",
@@ -15887,7 +15887,7 @@
   "sector": "Broking",
   "description": "Indian brokerage that reached 7 million active investors as demat accounts surged.",
   "first_added": "2026-11-07",
-  "last_mentioned": "2026-11-12"
+  "last_mentioned": "2026-11-28"
  },
  "relianceconsumer": {
   "name": "Reliance Consumer",
@@ -15908,7 +15908,7 @@
   "sector": "Broking",
   "description": "Kotak Mahindra's brokerage arm that rated HAL Add with a Rs 5,305 fair value.",
   "first_added": "2026-11-07",
-  "last_mentioned": "2026-11-26"
+  "last_mentioned": "2026-11-28"
  },
  "pesb": {
   "name": "PESB",
@@ -16167,7 +16167,7 @@
   "sector": "Investment platform",
   "description": "Growth investment platform of Daksham Capital; raised Rs 125 crore for its maiden consumer fund.",
   "first_added": "2026-11-08",
-  "last_mentioned": "2026-11-09"
+  "last_mentioned": "2026-11-28"
  },
  "valuequesttristarfund": {
   "name": "ValueQuest Tristar Fund",
@@ -17133,7 +17133,7 @@
   "sector": "Media tech",
   "description": "Cloud broadcast and streaming technology firm; Q2 revenue rose 27% to Rs 476 crore and profit jumped nearly 30-fold.",
   "first_added": "2026-11-10",
-  "last_mentioned": "2026-11-10"
+  "last_mentioned": "2026-11-28"
  },
  "moneyview": {
   "name": "Moneyview",
@@ -17371,7 +17371,7 @@
   "sector": "Investment",
   "description": "Global technology investor; plans to increase fintech investments in India.",
   "first_added": "2026-11-11",
-  "last_mentioned": "2026-11-11"
+  "last_mentioned": "2026-11-28"
  },
  "navi": {
   "name": "Navi",
@@ -18274,7 +18274,7 @@
   "sector": "Insurance tech",
   "description": "Insurance distribution platform; Q2 revenue rose 35% to Rs 342 crore and net loss narrowed 67%.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-28"
  },
  "astrobase": {
   "name": "Astrobase",
@@ -18309,7 +18309,7 @@
   "sector": "Ride hailing",
   "description": "Indian ride-hailing app being probed by the CCPA over dark patterns.",
   "first_added": "2026-11-13",
-  "last_mentioned": "2026-11-14"
+  "last_mentioned": "2026-11-28"
  },
  "amberenterprises": {
   "name": "Amber Enterprises",
@@ -19303,7 +19303,7 @@
   "sector": "Refractories",
   "description": "Indian graphite electrode and refractory materials maker competing in the refractories sector.",
   "first_added": "2026-11-17",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-28"
  },
  "dixon": {
   "name": "Dixon",
@@ -19597,7 +19597,7 @@
   "sector": "Retail",
   "description": "Runs FirstCry, an online and offline retailer of mother, baby and kids products in India.",
   "first_added": "2026-11-18",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-28"
  },
  "signatureglobalindia": {
   "name": "Signatureglobal India",
@@ -20017,7 +20017,7 @@
   "sector": "Retail",
   "description": "Brainbees Solutions' online and offline mother, baby and kids products brand.",
   "first_added": "2026-11-18",
-  "last_mentioned": "2026-11-18"
+  "last_mentioned": "2026-11-28"
  },
  "supercoins": {
   "name": "SuperCoins",
@@ -21760,7 +21760,7 @@
   "sector": "Food and beverage",
   "description": "Bubble tea and Korean street food brand; raised $18 million.",
   "first_added": "2026-11-22",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-28"
  },
  "botsync": {
   "name": "Botsync",
@@ -21942,7 +21942,7 @@
   "sector": "Hospitality",
   "description": "Parent company of hotel chain Oyo; filed a revised draft prospectus for an IPO.",
   "first_added": "2026-11-23",
-  "last_mentioned": "2026-11-23"
+  "last_mentioned": "2026-11-28"
  },
  "obenelectric": {
   "name": "Oben Electric",
@@ -22159,7 +22159,7 @@
   "sector": "Venture capital",
   "description": "Launching Rs 1,000-crore deeptech fund targeting spacetech, defence, robotics and enterprise AI.",
   "first_added": "2026-11-24",
-  "last_mentioned": "2026-11-24"
+  "last_mentioned": "2026-11-28"
  },
  "lttechnologyservices": {
   "name": "L&T Technology Services",
@@ -22768,7 +22768,7 @@
   "sector": "Space",
   "description": "China's space station hosting its first foreign astronaut.",
   "first_added": "2026-11-25",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-28"
  },
  "chicagoohare": {
   "name": "Chicago O'Hare",
@@ -23475,7 +23475,7 @@
   "sector": "Defence aerospace",
   "description": "Indian aerospace startup in a joint $25 million fundraising effort.",
   "first_added": "2026-11-25",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-28"
  },
  "parsecaerospace": {
   "name": "Parsec Aerospace",
@@ -24210,7 +24210,7 @@
   "sector": "Legal tech",
   "description": "Contract management software startup; appointed Sajana Shankaran as VP of human resources.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "uti": {
   "name": "UTI",
@@ -24524,6 +24524,314 @@
   "name": "Reliance Enterprise Intelligence",
   "sector": "AI",
   "description": "Reliance's enterprise AI unit; appointed Raunak Jain as Head of Product, starting with an AI Finance Controller.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "dakotagold": {
+  "name": "Dakota Gold",
+  "sector": "Mining",
+  "description": "Gold miner; its Richmond Hill heap leach study shows after-tax net present value above $2 billion.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "bloom": {
+  "name": "Bloom",
+  "sector": "Travel tech",
+  "description": "Technology-driven travel and hospitality brand; raised $75 million led by Kedaara Capital.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "ionicwealth": {
+  "name": "Ionic Wealth",
+  "sector": "Wealthtech",
+  "description": "Angel One-backed wealth-tech platform; raised Rs 177 crore in a strategic round.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "vegapay": {
+  "name": "Vegapay",
+  "sector": "Fintech",
+  "description": "Fintech startup; raised $10 million in a Series A co-led by Vertex Ventures and Prosus.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "m": {
+  "name": "M",
+  "sector": "AI concierge",
+  "description": "Kabeer Biswas-founded AI-powered household concierge startup; raised $9 million in a follow-on round.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "zavya": {
+  "name": "Zavya",
+  "sector": "Jewellery",
+  "description": "Gurugram-based silver jewellery brand; raised Rs 22.6 crore in a pre-Series A round.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "cosinerobots": {
+  "name": "Cosine Robots",
+  "sector": "Deeptech",
+  "description": "Deeptech startup; raised funds this week.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "vidyakul": {
+  "name": "Vidyakul",
+  "sector": "Edtech",
+  "description": "Vernacular-first learning platform; raised funds this week.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "lawvek": {
+  "name": "Lawvek",
+  "sector": "Legal tech",
+  "description": "AI-powered vendor recovery platform; raised funds this week.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "lakshyaaerotech": {
+  "name": "Lakshya Aerotech",
+  "sector": "Aerospace",
+  "description": "Aerospace startup; raised funds this week.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "osso": {
+  "name": "OSSO",
+  "sector": "Healthcare",
+  "description": "Orthopaedic healthcare startup; raised funds this week.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "sukm": {
+  "name": "SUK-M",
+  "sector": "Nuclear technology",
+  "description": "Nuclear technology startup; raised funds this week.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "gatewayeduconnect": {
+  "name": "Gateway EduConnect",
+  "sector": "Education",
+  "description": "Appointed Jitendra Singh Gusain as Chief Business Officer to strengthen international expansion.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "atlassian": {
+  "name": "Atlassian",
+  "sector": "Software",
+  "description": "Collaboration software maker; named Swapna Bapat as Head of Sales for India.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "wefastindia": {
+  "name": "WeFast India",
+  "sector": "Logistics",
+  "description": "Shadowfax will acquire select business assets of WeFast India for $2.5 million.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "borzo": {
+  "name": "Borzo",
+  "sector": "Logistics",
+  "description": "Shadowfax will acquire Borzo's technology and IP rights for $2.5 million.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "novusloyalty": {
+  "name": "Novus Loyalty",
+  "sector": "Loyalty tech",
+  "description": "Will acquire an 80.87% stake in AutoPe Payment Solutions for Rs 96.52 crore.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "autopepaymentsolutions": {
+  "name": "AutoPe Payment Solutions",
+  "sector": "Payments",
+  "description": "Novus Loyalty will acquire an 80.87% stake for Rs 96.52 crore in cash and share swap.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "credable": {
+  "name": "CredAble",
+  "sector": "Fintech",
+  "description": "Working capital and banking tech platform; acquired a 70% stake in Reql.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "reql": {
+  "name": "Reql",
+  "sector": "Regtech",
+  "description": "AI-powered regulatory intelligence platform; 70% stake acquired by CredAble.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "aeravtiventures": {
+  "name": "Aeravti Ventures",
+  "sector": "Venture capital",
+  "description": "Bengaluru VC firm; launched a second Rs 300 crore fund for early-stage startups.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "nexentcapitalifsc": {
+  "name": "Nexent Capital IFSC",
+  "sector": "Venture capital",
+  "description": "Launched a $1 billion closed-end fund focused on quantum-ready AI infrastructure and advanced energy.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "rodicconsultants": {
+  "name": "Rodic Consultants",
+  "sector": "Infrastructure",
+  "description": "Plans a Rs 200 crore AI infrastructure innovation fund for AI-led infrastructure startups.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "raisefinancialservices": {
+  "name": "Raise Financial Services",
+  "sector": "Fintech",
+  "description": "Parent of trading platform Dhan; launched AI-powered charting platform TradingCharts.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "biz2x": {
+  "name": "Biz2X",
+  "sector": "Fintech",
+  "description": "Biz2Credit subsidiary providing a lending CRM platform; partnered with SIDBI for MSME credit delivery.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "xflow": {
+  "name": "Xflow",
+  "sector": "Fintech",
+  "description": "Cross-border payments platform; launched same-day INR payouts for exporters receiving USD payments.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "panasonicindia": {
+  "name": "Panasonic India",
+  "sector": "Electronics",
+  "description": "Launched the second IGNITION Challenge with IvyCap Ventures on hyperspectral camera technology and AI.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "phonepelending": {
+  "name": "PhonePe Lending",
+  "sector": "Fintech",
+  "description": "PhonePe's lending platform for micro-enterprises; facilitated over 20 lakh loans since 2023.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "swarababyproducts": {
+  "name": "Swara Baby Products",
+  "sector": "Baby care",
+  "description": "FirstCry-backed baby products company; set Rs 105-111 price band for its Rs 800 crore IPO.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "zostel": {
+  "name": "Zostel",
+  "sector": "Hospitality",
+  "description": "Hostel chain; approached Delhi High Court to revive its claim to a 7% stake in OYO parent Oravel Stays.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "kedaaracapital": {
+  "name": "Kedaara Capital",
+  "sector": "Private equity",
+  "description": "Private equity firm that led Bloom's $75 million primary funding round.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "craneventures": {
+  "name": "Crane Ventures",
+  "sector": "Venture capital",
+  "description": "Led Green Aero's $14 million Series A round.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "vertexventuressoutheastasiaandindia": {
+  "name": "Vertex Ventures Southeast Asia and India",
+  "sector": "Venture capital",
+  "description": "Co-led Vegapay's $10 million Series A round.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "blacksoil": {
+  "name": "BlackSoil",
+  "sector": "Financial services",
+  "description": "Provided Rs 90 crore in debt financing to jewellery brand GIVA.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "norwestventurepartners": {
+  "name": "Norwest Venture Partners",
+  "sector": "Venture capital",
+  "description": "Sold a 2.15% stake in Amagi for Rs 262.44 crore through a block deal on NSE.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "steadviewcapital": {
+  "name": "Steadview Capital",
+  "sector": "Investment",
+  "description": "Offloaded a 0.73% stake in Lenskart for Rs 920.58 crore via block deal.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "sidbi": {
+  "name": "SIDBI",
+  "sector": "Financial services",
+  "description": "Partnered with Biz2X to provide its lending CRM platform for MSME credit delivery.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "dhan": {
+  "name": "Dhan",
+  "sector": "Broking",
+  "description": "Trading platform owned by Raise Financial Services.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "zorooms": {
+  "name": "Zo Rooms",
+  "sector": "Hospitality",
+  "description": "Budget hotel brand whose proposed 2015 acquisition by Oravel underpins Zostel's stake claim.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "tradingcharts": {
+  "name": "TradingCharts",
+  "sector": "Fintech",
+  "description": "AI-powered charting platform launched by Raise Financial Services for Indian traders.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "pinelabsone": {
+  "name": "Pine Labs One",
+  "sector": "Fintech",
+  "description": "Pine Labs' merchant operating app hosting its new AI agents Guide and Marketer Agent.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "viksitbharatfundi": {
+  "name": "Viksit Bharat Fund-I",
+  "sector": "Venture capital",
+  "description": "Rs 1,000 crore Category II AIF launched by CortexSpark Ventures for space, defence and AI.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "sevmash": {
+  "name": "Sevmash",
+  "sector": "Defence shipbuilding",
+  "description": "Russian shipyard in Severodvinsk that built the Perm nuclear submarine.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "goodnewsinternationalchurch": {
+  "name": "Good News International Church",
+  "sector": "Religion",
+  "description": "Kenyan church whose pastor Paul Mackenzie was convicted of manslaughter of 123 followers.",
   "first_added": "2026-11-28",
   "last_mentioned": "2026-11-28"
  }
