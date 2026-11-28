@@ -4,7 +4,7 @@
   "sector": "Fintech",
   "description": "Online investment platform offering stock trading, mutual funds, bonds and wealth advisory services to retail investors in India.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "fisdom": {
   "name": "Fisdom",
@@ -130,7 +130,7 @@
   "sector": "Semiconductors",
   "description": "Designer of AI and graphics processors; key customer for high-bandwidth memory from Samsung and SK Hynix.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "starlink": {
   "name": "Starlink",
@@ -193,7 +193,7 @@
   "sector": "Retail",
   "description": "US retail giant and majority owner of Flipkart; facing pressure over employee stock option liquidity.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "myntra": {
   "name": "Myntra",
@@ -214,7 +214,7 @@
   "sector": "Investment management",
   "description": "Global investment firm and early Flipkart backer that has exited its stake.",
   "first_added": "2026-10-08",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "amazon": {
   "name": "Amazon",
@@ -1733,7 +1733,7 @@
   "sector": "Home services",
   "description": "Startup that appointed Ramesh Srinivasan as Head of Growth and Revenue.",
   "first_added": "2026-10-10",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "altenindia": {
   "name": "ALTEN India",
@@ -2923,7 +2923,7 @@
   "sector": "Financial services",
   "description": "Investment bank; raised Reliance's model portfolio weight to 7.50% and cut DMart's target to ₹4,000.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "clsa": {
   "name": "CLSA",
@@ -2937,7 +2937,7 @@
   "sector": "Financial services",
   "description": "Research firm; downgraded Tech Mahindra to Sell and cut Usha Martin's grade to Hold.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "alphawaveventures": {
   "name": "Alpha Wave Ventures",
@@ -3329,7 +3329,7 @@
   "sector": "Financial services",
   "description": "Brokerage firm; expects two more RBI rate hikes this financial year.",
   "first_added": "2026-10-12",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "tatamotors": {
   "name": "Tata Motors",
@@ -4932,7 +4932,7 @@
   "sector": "Judiciary",
   "description": "Indian court hearing the NMC founder's suit against Bank of Baroda and Tata Trusts caveats.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "maharashtracharitycommissioner": {
   "name": "Maharashtra Charity Commissioner",
@@ -5107,7 +5107,7 @@
   "sector": "Government",
   "description": "Indian ministry that announced HAL's engine capacity expansion.",
   "first_added": "2026-10-15",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "michaelsaylor": {
   "name": "Michael Saylor",
@@ -5646,7 +5646,7 @@
   "sector": "Investment",
   "description": "Led Boldfit's Series B round, the largest homegrown consumer brand raise of the week.",
   "first_added": "2026-10-18",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "vertexventures": {
   "name": "Vertex Ventures",
@@ -6878,7 +6878,7 @@
   "sector": "AI",
   "description": "US chatbot platform in bankruptcy; Disney is the first bidder for a licence to its technology.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "reflectionai": {
   "name": "Reflection AI",
@@ -7151,7 +7151,7 @@
   "sector": "Telecom",
   "description": "Reliance's telecom brand, India's largest mobile network by subscribers.",
   "first_added": "2026-10-21",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "airtel": {
   "name": "Airtel",
@@ -8439,14 +8439,14 @@
   "sector": "Government",
   "description": "Formed a special team to investigate the eMudhra security incident.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-25"
+  "last_mentioned": "2026-11-28"
  },
  "rbi": {
   "name": "RBI",
   "sector": "Central bank",
   "description": "Raised the repo rate 25 basis points to 5.5% and flagged widening inflation.",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "deendayalport": {
   "name": "Deendayal Port",
@@ -8474,7 +8474,7 @@
   "sector": "Judiciary",
   "description": "Not enough detail in today's digest",
   "first_added": "2026-10-22",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "un": {
   "name": "UN",
@@ -8817,7 +8817,7 @@
   "sector": "Defence manufacturing",
   "description": "Indian forging and defence company; leads a group competing for AMCA prototype contract.",
   "first_added": "2026-10-23",
-  "last_mentioned": "2026-11-17"
+  "last_mentioned": "2026-11-28"
  },
  "heatbit": {
   "name": "Heatbit",
@@ -11743,7 +11743,7 @@
   "sector": "Consumer surveys",
   "description": "Indian community platform running consumer surveys and polls.",
   "first_added": "2026-10-29",
-  "last_mentioned": "2026-10-29"
+  "last_mentioned": "2026-11-28"
  },
  "sucdenfinancial": {
   "name": "Sucden Financial",
@@ -14529,7 +14529,7 @@
   "sector": "Venture capital",
   "description": "Investor leading a $108-110 million round in AI chip startup Agrani Labs.",
   "first_added": "2026-11-04",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "samsungventures": {
   "name": "Samsung Ventures",
@@ -15509,7 +15509,7 @@
   "sector": "Semiconductors",
   "description": "Indian OSAT/ATMP facility that became operational this year.",
   "first_added": "2026-11-06",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "cgsemi": {
   "name": "CG Semi",
@@ -16895,7 +16895,7 @@
   "sector": "Defence electronics",
   "description": "Bharat Electronics, Indian state-owned defence electronics company.",
   "first_added": "2026-11-09",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "ireda": {
   "name": "IREDA",
@@ -18960,7 +18960,7 @@
   "sector": "Consumer goods",
   "description": "Reliance's FMCG arm selling Campa and Independence biscuits, with FY26 gross sales of Rs 22,000 crore.",
   "first_added": "2026-11-16",
-  "last_mentioned": "2026-11-16"
+  "last_mentioned": "2026-11-28"
  },
  "bharatsemi": {
   "name": "Bharat Semi",
@@ -19107,7 +19107,7 @@
   "sector": "Electronics manufacturing",
   "description": "Indian EMS company making PCBs and box-build electronics for auto, industrial and defence clients.",
   "first_added": "2026-11-16",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "rhimagnesitaindia": {
   "name": "RHI Magnesita India",
@@ -22782,7 +22782,7 @@
   "sector": "Government",
   "description": "US Trade Representative preparing new tariffs after a Section 301 probe.",
   "first_added": "2026-11-25",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "conferenceboard": {
   "name": "Conference Board",
@@ -23510,7 +23510,7 @@
   "sector": "Consumer apps",
   "description": "Indian astrology consultation app; denied profiling users after data-collection claims.",
   "first_added": "2026-11-25",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "icliniq": {
   "name": "iCliniq",
@@ -24252,7 +24252,7 @@
   "sector": "Government",
   "description": "Told Netflix to avoid publishing Pakistani content under the 2021 IT rules.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "vopak": {
   "name": "Vopak",
@@ -24399,70 +24399,70 @@
   "sector": "Quick commerce",
   "description": "Indian quick services startup; reported expenses of Rs 144.8 crore against operating revenue of Rs 47.6 crore.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "firstclub": {
   "name": "FirstClub",
   "sector": "Quick commerce",
   "description": "Indian quick services startup; reported operating revenue of Rs 64 crore and expenses of Rs 169.4 crore.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "adeccoindia": {
   "name": "Adecco India",
   "sector": "Staffing",
   "description": "Recruitment and staffing firm; data showed nearly 65% of new GCC fresher jobs require AI skills.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "vishayintertechnology": {
   "name": "Vishay Intertechnology",
   "sector": "Semiconductors",
   "description": "Pennsylvania-based electronics component maker; investing $56.4 million for a 49% stake in a Kaynes unit.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "ribbitcapital": {
   "name": "Ribbit Capital",
   "sector": "Venture capital",
   "description": "Investment firm; among Groww's early backers monetising its stake after the listing.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "ycombinator": {
   "name": "Y Combinator",
   "sector": "Venture capital",
   "description": "US startup accelerator; among Groww's early investors selling stakes after its debut.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "activate": {
   "name": "Activate",
   "sector": "Consulting",
   "description": "Firm founded by Aakrit Vaish; he said India cannot afford to stay on the sidelines of the AI race.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "finnable": {
   "name": "Finnable",
   "sector": "Fintech",
   "description": "Indian digital lending firm; raised Rs 405 crore from new investors including Bharat Value Fund and NKSquared.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "pratithiinvestments": {
   "name": "Pratithi Investments",
   "sector": "Investment",
   "description": "Investment firm of Infosys co-founder Kris Gopalakrishnan; invested in Finnable's funding round.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "nksquared": {
   "name": "NKSquared",
   "sector": "Investment",
   "description": "Investment arm of Zerodha co-founders Nithin and Nikhil Kamath; invested in Finnable's round.",
   "first_added": "2026-11-27",
-  "last_mentioned": "2026-11-27"
+  "last_mentioned": "2026-11-28"
  },
  "1password": {
   "name": "1Password",
@@ -24517,6 +24517,13 @@
   "name": "Inditex",
   "sector": "Fashion retail",
   "description": "Spanish fashion group that owns Zara; shifted orders from Bangladesh to India amid unrest.",
+  "first_added": "2026-11-28",
+  "last_mentioned": "2026-11-28"
+ },
+ "relianceenterpriseintelligence": {
+  "name": "Reliance Enterprise Intelligence",
+  "sector": "AI",
+  "description": "Reliance's enterprise AI unit; appointed Raunak Jain as Head of Product, starting with an AI Finance Controller.",
   "first_added": "2026-11-28",
   "last_mentioned": "2026-11-28"
  }
